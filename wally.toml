@@ -1,0 +1,11 @@
+[package]
+name = "evilbocchi/jjt-difficulties"
+version = "0.1.2"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+description = "JJT difficulties"
+include = ["out", "out/**", "default.project.json", "LICENSE", "wally.toml"]
+exclude = ["*"]
+
+[dependencies]
