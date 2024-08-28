@@ -274,7 +274,12 @@ class Difficulty {
     /**
      * @deprecated use {@link Ifinitude} instead
      */
-    static readonly Infinitude = this.Ifinitude;
+    static readonly Infinitude = new Difficulty()
+    .setName("Ifinitude")
+    .setImage(16257720532)
+    .setColor(Color3.fromRGB(43, 43, 43))
+    .setRating(-24.5)
+    .setClass(0);
 
 	id!: string;
 	name: string | undefined = undefined;
