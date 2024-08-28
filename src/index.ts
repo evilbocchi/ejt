@@ -194,10 +194,10 @@ class Difficulty {
     .setRating(-25)
     .setClass(0);
 
-    static readonly Infinitude = new Difficulty()
-    .setName("Infinitude")
+    static readonly Ifinitude = new Difficulty()
+    .setName("Ifinitude")
     .setImage(16257720532)
-    .setColor(Color3.fromRGB(255, 255, 255))
+    .setColor(Color3.fromRGB(43, 43, 43))
     .setRating(-24.5)
     .setClass(0);
 
@@ -270,6 +270,11 @@ class Difficulty {
     .setColor(Color3.fromRGB(206, 250, 0))
     .setRating(-15)
     .setClass(1);
+
+    /**
+     * @deprecated use {@link Ifinitude} instead
+     */
+    static readonly Infinitude = this.Ifinitude;
 
 	id!: string;
 	name: string | undefined = undefined;
