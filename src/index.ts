@@ -14,7 +14,7 @@ class Difficulty {
 
 	static readonly Excavation = new Difficulty()
     .setName("Materials")
-    .setImage(0)
+    .setImage(138021611499844)
     .setColor(Color3.fromRGB(110, 166, 255))
     .setRating(-10000013)
     .setClass(-3);
@@ -269,6 +269,20 @@ class Difficulty {
     .setImage(9034496541)
     .setColor(Color3.fromRGB(206, 250, 0))
     .setRating(-15)
+    .setClass(1);
+
+    static readonly DoSomething = new Difficulty()
+    .setName("Do Something")
+    .setImage(71505083426787)
+    .setColor(Color3.fromRGB(0, 153, 255))
+    .setRating(-14.5)
+    .setClass(1);
+
+    static readonly Placid = new Difficulty()
+    .setName("Placid")
+    .setImage(78473269398467)
+    .setColor(Color3.fromRGB(255, 255, 255))
+    .setRating(-14)
     .setClass(1);
 
     /**
