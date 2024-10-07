@@ -250,6 +250,13 @@ class Difficulty {
     .setRating(-18)
     .setClass(0);
 
+    static readonly Vibeness = new Difficulty()
+    .setName("Vibeness")
+    .setImage(76310210065742)
+    .setColor(Color3.fromRGB(255, 69, 156))
+    .setRating(-17.5)
+    .setClass(0);
+
     static readonly Automatic = new Difficulty()
     .setName("Automatic")
     .setImage(6382419171)
