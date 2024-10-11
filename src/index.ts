@@ -243,6 +243,13 @@ class Difficulty {
     .setRating(-19)
     .setClass(0);
 
+    static readonly ShatteredBabass = new Difficulty()
+    .setName("Shattered Babass")
+    .setImage(6708826354)
+    .setColor(Color3.fromRGB(147, 27, 220))
+    .setRating(-18.5)
+    .setClass(0);
+    
     static readonly Frivolous = new Difficulty()
     .setName("Frivolous")
     .setImage(17487417743)
