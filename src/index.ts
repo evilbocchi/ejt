@@ -26,13 +26,6 @@ class Difficulty {
     .setRating(-10000012)
     .setClass(-3);
 
-	static readonly Main = new Difficulty()
-    .setName("Items")
-    .setImage(0)
-    .setColor(Color3.fromRGB(255, 245, 110))
-    .setRating(-10000011)
-    .setClass(-3);
-
 	static readonly TheFirstDifficulty = new Difficulty()
     .setName("The First Difficulty")
     .setImage(13521197654)
@@ -280,7 +273,6 @@ class Difficulty {
     
     static readonly Joyful = new Difficulty()
     .setName("Joyful")
-    .setImage(9034496541)
     .setColor(Color3.fromRGB(206, 250, 0))
     .setRating(-15)
     .setClass(1);
@@ -299,15 +291,223 @@ class Difficulty {
     .setRating(-14)
     .setClass(1);
 
-    /**
-     * @deprecated use {@link Ifinitude} instead
-     */
-    static readonly Infinitude = new Difficulty()
-    .setName("Ifinitude")
-    .setImage(16257720532)
-    .setColor(Color3.fromRGB(43, 43, 43))
-    .setRating(-24.5)
-    .setClass(0);
+    static readonly PressAKey = new Difficulty()
+    .setName("Press A Key")
+    .setImage(6382750177)
+    .setColor(Color3.fromRGB(255, 255, 255))
+    .setRating(-13)    
+    .setClass(1);
+
+    static readonly TapToMove = new Difficulty()
+    .setName("Tap to Move")
+    .setImage(15680440726)
+    .setColor(Color3.fromRGB(41, 41, 41))
+    .setRating(-12.66)    
+    .setClass(1);
+
+    static readonly WalkASlope = new Difficulty()
+    .setName("Walk A Slope")
+    .setImage(108894318980324)
+    .setColor(Color3.fromRGB(112, 112, 112))
+    .setRating(-12.33)    
+    .setClass(1);
+
+    static readonly ClimbATruss = new Difficulty()
+    .setName("Climb A Truss")
+    .setImage(89810238230576)
+    .setColor(Color3.fromRGB(134, 133, 133))
+    .setRating(-12)    
+    .setClass(1);
+
+    static readonly Tranquil = new Difficulty()
+    .setName("Tranquil")
+    .setImage(81275396426318)
+    .setColor(Color3.fromRGB(0, 141, 255))
+    .setRating(-11.5)
+    .setClass(1);
+
+    static readonly Jumpless = new Difficulty()
+    .setName("Jumpless")
+    .setColor(Color3.fromRGB(201, 192, 231))
+    .setRating(-11)
+    .setClass(1);
+
+    static readonly Starter = new Difficulty()
+    .setName("Starter")
+    .setImage(8539664067)
+    .setColor(Color3.fromRGB(0, 168, 243))
+    .setRating(-10)
+    .setClass(1);
+
+    static readonly Cakewalk = new Difficulty()
+    .setName("Cakewalk")
+    .setImage(88770486298904)
+    .setColor(Color3.fromRGB(66, 165, 245))
+    .setRating(-9.5)
+    .setClass(1);
+
+    static readonly Sweet = new Difficulty()
+    .setName("Sweet")
+    .setImage(13940194341)
+    .setColor(Color3.fromRGB(255, 253, 150))
+    .setRating(-9)
+    .setClass(1);
+
+    static readonly Sugary = new Difficulty()
+    .setName("Sugary")
+    .setImage(7989770107)
+    .setColor(Color3.fromRGB(255, 255, 0))
+    .setRating(-8.66)
+    .setClass(1);
+
+    static readonly Aesthetic = new Difficulty()
+    .setName("Aesthetic")
+    .setImage(6383094808)
+    .setColor(Color3.fromRGB(118, 244, 71))
+    .setRating(-8.33)
+    .setClass(1);
+
+    static readonly Lovely = new Difficulty()
+    .setName("Lovely")
+    .setImage(6383341655)
+    .setColor(Color3.fromRGB(221, 251, 221))
+    .setRating(-8)
+    .setClass(1);
+    
+    static readonly Glee = new Difficulty()
+    .setName("Glee")
+    .setImage(12646702954)
+    .setColor(Color3.fromRGB(248, 218, 219))
+    .setRating(-7.5)
+    .setClass(1);
+
+    static readonly Flowerness = new Difficulty()
+    .setName("Flowerness")
+    .setImage(88602653558865)
+    .setColor(Color3.fromRGB(157, 149, 254))
+    .setRating(-7)
+    .setClass(1);
+
+    static readonly Coasterifying = new Difficulty()
+    .setName("Coasterifying")
+    .setImage(14564517155)
+    .setColor(Color3.fromRGB(0, 115, 255))
+    .setRating(-6.66)
+    .setClass(1);
+
+    static readonly ADifficultyNamedDifficulty = new Difficulty()
+    .setName("A Difficulty Named Difficulty")
+    .setImage(13005175568)
+    .setColor(Color3.fromRGB(247, 51, 83))
+    .setRating(-6.33)
+    .setClass(1);
+
+    static readonly Pleasant = new Difficulty()
+    .setName("Pleasant")
+    .setImage(85821357290825)
+    .setColor(Color3.fromRGB(161, 220, 255))
+    .setRating(-6)
+    .setClass(1);
+
+    static readonly PieceOCake = new Difficulty()
+    .setName("Piece o' Cake")
+    .setImage(6229095245)
+    .setColor(Color3.fromRGB(254, 149, 253))
+    .setRating(-5.5)
+    .setClass(1);
+
+    static readonly Tutorial = new Difficulty()
+    .setName("Tutorial")
+    .setImage(7832707976)
+    .setColor(Color3.fromRGB(24, 83, 17))
+    .setRating(-5)
+    .setClass(1);
+
+    static readonly HellishEncore = new Difficulty()
+    .setName("HellishEncore")
+    .setImage(88967798127258)
+    .setColor(Color3.fromRGB(170, 5, 8))
+    .setRating(-4.66)
+    .setClass(1);
+
+    static readonly Delightful = new Difficulty()
+    .setName("Delightful")
+    .setImage(123635564019744)
+    .setColor(Color3.fromRGB(236, 218, 140))
+    .setRating(-4.33)
+    .setClass(1);
+    
+    static readonly TooEasy = new Difficulty()
+    .setName("TooEasy")
+    .setImage(10722857804)
+    .setColor(Color3.fromRGB(14, 88, 1))
+    .setRating(-4)
+    .setClass(1);
+
+    static readonly Peaceful = new Difficulty()
+    .setName("Peaceful")
+    .setImage(5831118166)
+    .setColor(Color3.fromRGB(199, 176, 218))
+    .setRating(-3)
+    .setClass(1);
+
+    static readonly Playful = new Difficulty()
+    .setName("Playful")
+    .setImage(9586504787)
+    .setColor(Color3.fromRGB(163, 255, 80))
+    .setRating(-2.5)
+    .setClass(1);
+
+    static readonly Magnificent = new Difficulty()
+    .setName("Magnificent")
+    .setImage(13930255088)
+    .setColor(Color3.fromRGB(145, 206, 255))
+    .setRating(-2)
+    .setClass(1);
+
+    static readonly Facile = new Difficulty()
+    .setName("Facile")
+    .setImage(118359188987595)
+    .setColor(Color3.fromRGB(87, 215, 254))
+    .setRating(-1.5)
+    .setClass(1);
+
+    static readonly Effortlessless = new Difficulty()
+    .setName("Effortlessless")
+    .setColor(Color3.fromRGB(153, 217, 234))
+    .setRating(-1)
+    .setClass(1);
+
+    static readonly Gravel = new Difficulty()
+    .setName("Gravel")
+    .setColor(Color3.fromRGB(154, 246, 209))
+    .setRating(-0.5)
+    .setClass(1);
+
+    static readonly Effortless = new Difficulty()
+    .setName("Effortless")
+    .setColor(Color3.fromRGB(0, 206, 0))
+    .setRating(0)
+    .setClass(2);
+
+    static readonly Playground = new Difficulty()
+    .setName("Playground")
+    .setColor(Color3.fromRGB(0, 206, 100))
+    .setRating(0.33)
+    .setClass(2);
+
+    static readonly Simple = new Difficulty()
+    .setName("Simple")
+    .setImage(13982806768)
+    .setColor(Color3.fromRGB(76, 176, 81))
+    .setRating(0.66)
+    .setClass(2);
+
+    static readonly Easy = new Difficulty()
+    .setName("Easy")
+    .setColor(Color3.fromRGB(118, 244, 71))
+    .setRating(1)
+    .setClass(2);
 
 	id!: string;
 	name: string | undefined = undefined;
@@ -357,6 +557,11 @@ class Difficulty {
     static get(id: string) {
 		return Difficulty.DIFFICULTIES.get(id);
 	}
+
+    static set(id: string, difficulty: Difficulty) {
+        difficulty.id = id;
+        Difficulty.DIFFICULTIES.set(id, difficulty);
+    }
 }
 
 export = Difficulty;
