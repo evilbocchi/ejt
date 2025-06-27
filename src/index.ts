@@ -510,12 +510,11 @@ class Difficulty {
     .setClass(2);
 
 	id!: string;
-	name: string | undefined;
-    description: string | undefined;
-	class: number | undefined;
-	rating: number | undefined;
-	color: Color3 | undefined;
-	image: number | undefined;
+	name: string | undefined = undefined;
+	class: number | undefined = undefined;
+	rating: number | undefined = undefined;
+	color: Color3 | undefined = undefined;
+	image: number | undefined = undefined;
 
 	constructor() {
 
