@@ -4,3 +4,5 @@
 *.tsbuildinfo
 /images
 /pages
+*.env
+difficulties.html

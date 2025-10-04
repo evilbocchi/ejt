@@ -6,6 +6,7 @@
   "scripts": {
     "build": "rbxtsc",
     "watch": "rbxtsc -w",
+    "asset-sync": "npx rbxtsas --output=src/assetMap.ts",
     "pub": "npm run build & npm publish & wally publish"
   },
   "repository": {
@@ -30,7 +31,7 @@
     "@typescript-eslint/parser": "^8.41.0",
     "eslint": "^9.34.0",
     "eslint-plugin-roblox-ts": "^1.1.0",
-    "rbxts-asset-sync": "^0.2.1",
+    "rbxts-asset-sync": "^0.3.2",
     "roblox-ts": "^3.0.0",
     "typescript": "^5.5.3"
   }

@@ -1,34 +1,35 @@
 //!native
 //!optimize 2
 
+import { getAsset } from "./assetMap";
+
 class Difficulty {
 
 	static readonly DIFFICULTIES = new Map<string, Difficulty>();
 
 	static readonly Bonuses = new Difficulty()
     .setName("Bonuses")
-    .setImage(0)
     .setColor(Color3.fromRGB(255, 252, 89))
     .setRating(-10000014)
     .setClass(-3);
 
 	static readonly Excavation = new Difficulty()
     .setName("Materials")
-    .setImage(138021611499844)
+    .setImage(getAsset("assets/Construct.png"))
     .setColor(Color3.fromRGB(110, 166, 255))
     .setRating(-10000013)
     .setClass(-3);
 
 	static readonly Miscellaneous = new Difficulty()
     .setName("Miscellaneous")
-    .setImage(17790114135)
+    .setImage(getAsset("assets/Miscellaneous.png"))
     .setColor(Color3.fromRGB(255, 110, 110))
     .setRating(-10000012)
     .setClass(-3);
 
 	static readonly TheFirstDifficulty = new Difficulty()
     .setName("The First Difficulty")
-    .setImage(13521197654)
+    .setImage(getAsset("assets/TheFirstDifficulty.png"))
     .setColor(Color3.fromRGB(0, 0, 0))
     .setRating(-10000010)
     .setClass(-2);
@@ -515,7 +516,7 @@ class Difficulty {
 	class: number | undefined;
 	rating: number | undefined;
 	color: Color3 | undefined;
-	image: number | undefined;
+	image: string | undefined;
 
 	constructor() {
 
@@ -541,7 +542,7 @@ class Difficulty {
 		return this;
 	}
 
-	setImage(image: number) {
+	setImage(image: string) {
 		this.image = image;
 		return this;
 	}
