@@ -41,6 +41,7 @@ export const assets = {
   "assets/Coasterifying.png": "rbxassetid://87795016435728",
   "assets/Confident.png": "rbxassetid://117928828509785",
   "assets/Confusion.png": "rbxassetid://102553385458018",
+  "assets/Construct.png": "rbxassetid://88202319458356",
   "assets/Critical.png": "rbxassetid://96478767044739",
   "assets/D-E-L-T-A.png": "rbxassetid://122980416835274",
   "assets/DEATH.png": "rbxassetid://91636839852383",
