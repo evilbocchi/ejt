@@ -138,7 +138,7 @@ class Difficulty {
 	/**
 	 * ### Blank (Blank)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Blank is an unclassified difficulty that represents the concept of nothingness. The page describes it as a void—an undefined, unexplainable state where nothing exists and nothing can be understood. There are no real obstacles, no challenges, and no clear reason for being here. Blank is the epitome of confusion and mayhem, and the only advice is to "wake up and escape this reality." It is a conceptual trap rather than a true difficulty, existing outside the bounds of normal gameplay.
@@ -148,13 +148,13 @@ class Difficulty {
 		.setDescription("Blank is an unclassified difficulty that represents the concept of nothingness. The page describes it as a void—an undefined, unexplainable state where nothing exists and nothing can be understood. There are no real obstacles, no challenges, and no clear reason for being here. Blank is the epitome of confusion and mayhem, and the only advice is to \"wake up and escape this reality.\" It is a conceptual trap rather than a true difficulty, existing outside the bounds of normal gameplay.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Linguistic (Linguistic)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Linguistic is an unclassified, intelligence-based difficulty defined by its overwhelming wall of text and complex logic. It is not skill-based, but rather tests the reader's ability to comprehend and process multifaceted phrases and ideas. The difficulty is theoretically impossible to beat, as it requires intelligence far beyond human capability.
@@ -166,13 +166,13 @@ class Difficulty {
 		.setDescription("Linguistic is an unclassified, intelligence-based difficulty defined by its overwhelming wall of text and complex logic. It is not skill-based, but rather tests the reader's ability to comprehend and process multifaceted phrases and ideas. The difficulty is theoretically impossible to beat, as it requires intelligence far beyond human capability.\n\nLinguistic is not meant to be recreated in Roblox Studio, and its classification depends on the reader's intelligence. It exists as a unique, essay-like challenge that stands apart from traditional, skill-based difficulties.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Randomization (Randomization)
 	 * - Rating: -∞ to ∞ (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Randomization is an unclassified "difficulty" that functions more as a mode or challenge due to its entirely randomized nature. Each attempt at a tower with this difficulty results in a different experience, as the difficulty level changes every time you die. The challenge is unpredictable, and success relies heavily on luck. Randomization is for those seeking a unique and variable challenge, where the only constant is change.
@@ -182,13 +182,13 @@ class Difficulty {
 		.setDescription("Randomization is an unclassified \"difficulty\" that functions more as a mode or challenge due to its entirely randomized nature. Each attempt at a tower with this difficulty results in a different experience, as the difficulty level changes every time you die. The challenge is unpredictable, and success relies heavily on luck. Randomization is for those seeking a unique and variable challenge, where the only constant is change.")
 		.setVisualRating("-∞ to ∞")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Sketchy (Sketchy)
 	 * - Rating: -∞ to ∞ (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Sketchy is an unclassified, unofficial difficulty with no determinable posterior or anterior difficulties, due to its unclassified nature. The difficulty ranges from The First Difficulty to Babass dficuklty, making it the unclassified difficulty with the greatest range. In this difficulty, you possess a sketchbook that has the power to make almost anything come to life. The difficulty is what you want it to be; it can be instantaneous or painfully hard.
@@ -198,13 +198,13 @@ class Difficulty {
 		.setDescription("Sketchy is an unclassified, unofficial difficulty with no determinable posterior or anterior difficulties, due to its unclassified nature. The difficulty ranges from The First Difficulty to Babass dficuklty, making it the unclassified difficulty with the greatest range. In this difficulty, you possess a sketchbook that has the power to make almost anything come to life. The difficulty is what you want it to be; it can be instantaneous or painfully hard.")
 		.setVisualRating("-∞ to ∞")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Spectrumplex (Spectrumplex)
 	 * - Rating: -∞ to ∞ (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Spectrumplex is an unclassified difficulty which ranges from The First Difficulty to The Final Difficulty, encompassing both the Main Difficulty Chart and Extended Difficulty Chart, and every class from Class Negative to Class 22. The unique aspect of Spectrumplex is that the entirety of the difficulty chart is split into 115 spectrums, and a spectrum is chosen at random. Each spectrum refers to a section of a class, such as Baseline or Peak, and is given a unique name. Spectrumplex was originally a joke difficulty, later revamped and expanded, and is notable for its massive range and inclusion of nearly every possible difficulty.
@@ -214,13 +214,13 @@ class Difficulty {
 		.setDescription("Spectrumplex is an unclassified difficulty which ranges from The First Difficulty to The Final Difficulty, encompassing both the Main Difficulty Chart and Extended Difficulty Chart, and every class from Class Negative to Class 22. The unique aspect of Spectrumplex is that the entirety of the difficulty chart is split into 115 spectrums, and a spectrum is chosen at random. Each spectrum refers to a section of a class, such as Baseline or Peak, and is given a unique name. Spectrumplex was originally a joke difficulty, later revamped and expanded, and is notable for its massive range and inclusion of nearly every possible difficulty.")
 		.setVisualRating("-∞ to ∞")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Reflective (Reflective)
 	 * - Rating: -∞ to 145.99 (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Reflective is an unclassified difficulty that ranges from Class Negative to Class 12, depending on the amount of reflectance present in the environment. Originally a sub-difficulty, Reflective has moved through several classifications before becoming unclassified. The challenge is determined by the reflectance value, with higher values corresponding to higher difficulty classes. Reflective is unique in that its difficulty is tied to a specific property of the environment rather than traditional obstacles.
@@ -230,13 +230,13 @@ class Difficulty {
 		.setDescription("Reflective is an unclassified difficulty that ranges from Class Negative to Class 12, depending on the amount of reflectance present in the environment. Originally a sub-difficulty, Reflective has moved through several classifications before becoming unclassified. The challenge is determined by the reflectance value, with higher values corresponding to higher difficulty classes. Reflective is unique in that its difficulty is tied to a specific property of the environment rather than traditional obstacles.")
 		.setVisualRating("-∞ to 145.99")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Construct (Construct)
 	 * - Rating: -30 to ∞ (Layout: -30)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(78, 136, 245)
 	 * - Image: rbxassetid://88202319458356
 	 *
@@ -247,14 +247,14 @@ class Difficulty {
 		.setDescription("Construct is an Unclassified difficulty with a unique mechanic: players can place parts in a tower using the \"Blueprint\" tool and remove them with the \"Hammer.\" Some areas, called \"Barriers,\" restrict part placement, while \"Deadly Barriers\" reset the run if entered. The difficulty can range from Class Negative to Class 22, depending on adjustments. Construct introduces creative building mechanics, requiring players to strategize part placement and removal to progress. It is a work in progress, with more features and obstacles planned.")
 		.setVisualRating("-30 to ∞")
 		.setLayoutRating(-30)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(78, 136, 245))
 		.setImage("rbxassetid://88202319458356");
 
 	/**
 	 * ### Puzzling (Puzzling)
 	 * - Rating: -28 to 15.99 (Layout: -28)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Puzzling is an unclassified difficulty, meaning it has no distinct rating or placement. It uses a "Rank" system to categorize different spectrums of the difficulty, requiring various skills, especially those involving thinking and solving intellectual puzzles. Completing this difficulty involves encountering and solving a variety of puzzles, each with a definitive answer and solution. The difficulty measures one's mental intellect, with puzzles ranked from very easy (requiring little to no effort) to extremely challenging, such as The Human Limit, which contains the hardest humanly possible puzzles. The overall range of Puzzling spans from the simplest to the most complex intellectual challenges.
@@ -264,13 +264,13 @@ class Difficulty {
 		.setDescription("Puzzling is an unclassified difficulty, meaning it has no distinct rating or placement. It uses a \"Rank\" system to categorize different spectrums of the difficulty, requiring various skills, especially those involving thinking and solving intellectual puzzles. Completing this difficulty involves encountering and solving a variety of puzzles, each with a definitive answer and solution. The difficulty measures one's mental intellect, with puzzles ranked from very easy (requiring little to no effort) to extremely challenging, such as The Human Limit, which contains the hardest humanly possible puzzles. The overall range of Puzzling spans from the simplest to the most complex intellectual challenges.")
 		.setVisualRating("-28 to 15.99")
 		.setLayoutRating(-28)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Walking (Walking)
 	 * - Rating: -15 to 60.99 (Layout: -15)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Walking is an Unclassified difficulty inspired by Randomization and Wait. This difficulty was created to be a take at creating something similar to Press a Key, but with added difficulty decided by chance, with the baseline of this difficulty being a 100-stud walk.
@@ -280,13 +280,13 @@ class Difficulty {
 		.setDescription("Walking is an Unclassified difficulty inspired by Randomization and Wait. This difficulty was created to be a take at creating something similar to Press a Key, but with added difficulty decided by chance, with the baseline of this difficulty being a 100-stud walk.")
 		.setVisualRating("-15 to 60.99")
 		.setLayoutRating(-15)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Factorial (Factorial)
 	 * - Rating: 1 to 120 (Layout: 1)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Factorial is an unclassified difficulty known for its association with extremely long towers and a massive number of floors, reflecting the rapidly increasing value of factorial numbers. Towers with Factorial difficulty are often characterized by their overwhelming length rather than sheer obstacle difficulty. The concept draws inspiration from mathematical factorials, where each increase results in exponential growth. Factorial is unique in the chart for not following the typical naming convention and is considered more of a novelty or joke difficulty due to its impracticality.
@@ -296,13 +296,13 @@ class Difficulty {
 		.setDescription("Factorial is an unclassified difficulty known for its association with extremely long towers and a massive number of floors, reflecting the rapidly increasing value of factorial numbers. Towers with Factorial difficulty are often characterized by their overwhelming length rather than sheer obstacle difficulty. The concept draws inspiration from mathematical factorials, where each increase results in exponential growth. Factorial is unique in the chart for not following the typical naming convention and is considered more of a novelty or joke difficulty due to its impracticality.")
 		.setVisualRating("1 to 120")
 		.setLayoutRating(1)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Zemblanity (Zemblanity)
 	 * - Rating: 9.5 to 248.99 (Layout: 9.5)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Zemblanity is an unclassified difficulty that serves as a generalized placement for Tower of Bizarre Blitz but its scope could be expanded to encompass additional structures in the future. As is the case with other unclassified difficulties, there are no clear before or upper after, but the current lower bound is Madness, and the upper known limit is Transfinite. But it is possible that in The Questionable Domain Project, the presently unclassified Tower of Bizarre Blitz could attain class 30 status.
@@ -316,13 +316,13 @@ class Difficulty {
 		.setDescription("Zemblanity is an unclassified difficulty that serves as a generalized placement for Tower of Bizarre Blitz but its scope could be expanded to encompass additional structures in the future. As is the case with other unclassified difficulties, there are no clear before or upper after, but the current lower bound is Madness, and the upper known limit is Transfinite. But it is possible that in The Questionable Domain Project, the presently unclassified Tower of Bizarre Blitz could attain class 30 status.\n\nIn Kol Metris, Zemblanity can range from around 130 to around 650. The minimum and maximum difficulty ratings for Zemblanity are as low as 9.5 but as high as 48. (Note that this only includes known limits.)\n\nThe word zemblanity can be defined as \"unlucky, or unwanted but predictable events\", the word is antonymic to serendipity meaning \"unplanned fortunate, discoveries\". The origin of the word \"zemblanity\" likely comes from the island Nova Zembla (more commonly, Novaya Zemlya).")
 		.setVisualRating("9.5 to 248.99")
 		.setLayoutRating(9.5)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### 16 (Difficulty16)
 	 * - Rating: 18.5 to 150.99 (Layout: 18.5)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * **16** is an unclassified difficulty centered around the number 16. It was originally created in celebration of Vira's birthday on September 10th. Initially made for Vira's 14th birthday, it has been updated each year to reflect Vira's passing birthdays, previously being known as 14 and 15.
@@ -336,13 +336,13 @@ class Difficulty {
 		.setDescription("**16** is an unclassified difficulty centered around the number 16. It was originally created in celebration of Vira's birthday on September 10th. Initially made for Vira's 14th birthday, it has been updated each year to reflect Vira's passing birthdays, previously being known as 14 and 15.\n\nThis difficulty frequently features celebrations of Vira and related birthday material. Each year, the difficulty updates to a new number, and for September 10, 2025 to September 10, 2026, it is centered around 16, with a range from Class 6 to Class 16.\n\nWith each passing year, the difficulty becomes progressively harder, reflecting higher classes and more challenging obstacles. For this reason, 16 is considered an unclassified event difficulty, as it is an annual occurrence. As of now, this difficulty has surpassed The Human Limit, making it humanly impossible regardless of its range.")
 		.setVisualRating("18.5 to 150.99")
 		.setLayoutRating(18.5)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### PUMPKINDEATH (PUMPKINDEATH)
 	 * - Rating: 246 to 249.99 (Layout: 246)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * PUMPKINDEATH is an event difficulty in Class 30, making it one of the hardest collaboration difficulties. It is harder than Uncomputable and Effortful, and is themed around Halloween. Every obstacle is loaded with nightmares and impossibilities, using numbers and challenges that defy logic. PUMPKINDEATH is a celebration of the most extreme and spooky challenges.
@@ -352,13 +352,13 @@ class Difficulty {
 		.setDescription("PUMPKINDEATH is an event difficulty in Class 30, making it one of the hardest collaboration difficulties. It is harder than Uncomputable and Effortful, and is themed around Halloween. Every obstacle is loaded with nightmares and impossibilities, using numbers and challenges that defy logic. PUMPKINDEATH is a celebration of the most extreme and spooky challenges.")
 		.setVisualRating("246 to 249.99")
 		.setLayoutRating(246)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Lunatic Halloween Difficulty (LunaticHalloweenDifficulty)
 	 * - Rating: 246.33033 (Layout: 246.33033)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Lunatic Halloween Difficulty is an unofficial difficulty placed after Effortful and before Unboundable. This difficulty is so hard, if you were to compare Effortful to this, it would be like comparing The First Difficulty to Effortful.
@@ -368,13 +368,13 @@ class Difficulty {
 		.setDescription("Lunatic Halloween Difficulty is an unofficial difficulty placed after Effortful and before Unboundable. This difficulty is so hard, if you were to compare Effortful to this, it would be like comparing The First Difficulty to Effortful.")
 		.setVisualRating("246.33033")
 		.setLayoutRating(246.33033)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Gingerbread (Gingerbread)
 	 * - Rating: Unconfirmed Ratings (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Gingerbread is a miscellaneous difficulty and serves as the placeholder difficulty of EToH. It is represented by a gingerbread man and uses the color brown for the difficulty chart and win messages. Gingerbread became known as a placeholder for the monthly tower "Tower of Is Steeple Crossing Required?" and originated as an inside joke among staff during the judging of the Garden of Eeshöl submissions, where gingerbread GIFs were posted when a difficulty could not be decided.
@@ -386,13 +386,13 @@ class Difficulty {
 		.setDescription("Gingerbread is a miscellaneous difficulty and serves as the placeholder difficulty of EToH. It is represented by a gingerbread man and uses the color brown for the difficulty chart and win messages. Gingerbread became known as a placeholder for the monthly tower \"Tower of Is Steeple Crossing Required?\" and originated as an inside joke among staff during the judging of the Garden of Eeshöl submissions, where gingerbread GIFs were posted when a difficulty could not be decided.\n\nDespite its humorous origin, Gingerbread is considered a semi-official difficulty. Towers with the Gingerbread difficulty that are challenging enough may have their wins displayed in the #sc-tower-winners channel of the official EToH Discord server. During the 2022 Winter Event, the Gingerbread Guardians team logo featured a gingerbread man holding the Gingerbread icon.")
 		.setVisualRating("Unconfirmed Ratings")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Epic (EToH) (EpicEToH)
 	 * - Rating: -6.75 to 65 (Layout: -6.75)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Epic is a joke difficulty added in the April Fools 2020 Event. It is represented by the color dockside blue. This difficulty was removed at the end of the event. There were only 3 event towers with this difficulty. Epic has the widest difficulty range out of any difficulty in the game, from just climbing a truss all the way to Floor 10 to having a non-functioning winpad.
@@ -402,13 +402,13 @@ class Difficulty {
 		.setDescription("Epic is a joke difficulty added in the April Fools 2020 Event. It is represented by the color dockside blue. This difficulty was removed at the end of the event. There were only 3 event towers with this difficulty. Epic has the widest difficulty range out of any difficulty in the game, from just climbing a truss all the way to Floor 10 to having a non-functioning winpad.")
 		.setVisualRating("-6.75 to 65")
 		.setLayoutRating(-6.75)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### korn (korn)
 	 * - Rating: -15 to 15.99 (Layout: -15)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * korn is a custom, joke difficulty used for co-op towers, especially in the Event Realm. It is the only transparent difficulty in EToH, making it unique and often confusing for players who don't check the chart. The name is always lowercase, and the difficulty is not tied to a specific challenge level, allowing for a wide range of tower difficulties.
@@ -420,13 +420,13 @@ class Difficulty {
 		.setDescription("korn is a custom, joke difficulty used for co-op towers, especially in the Event Realm. It is the only transparent difficulty in EToH, making it unique and often confusing for players who don't check the chart. The name is always lowercase, and the difficulty is not tied to a specific challenge level, allowing for a wide range of tower difficulties.\n\nkorn, nil, and gui remorseless are the only difficulties in EToH without capital letters in their names. It is notable for its use in event and co-op content, and its flexible, undefined nature.")
 		.setVisualRating("-15 to 15.99")
 		.setLayoutRating(-15)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo (OooOOOoOOOOoooabovecatastrophicdifficultyOoOOooOOoo)
 	 * - Rating: 12 to ∞ (Layout: 12)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo is a joke difficulty added during the April Fools 2021 event, represented by a black square with white text. It was removed after the event but returned in April Fools 2024. This difficulty is likely a parody of fanmade difficulties that are above nil. There is currently one event tower with this difficulty, which is impossible to enter without completing a series of quests.
@@ -436,13 +436,13 @@ class Difficulty {
 		.setDescription("OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo is a joke difficulty added during the April Fools 2021 event, represented by a black square with white text. It was removed after the event but returned in April Fools 2024. This difficulty is likely a parody of fanmade difficulties that are above nil. There is currently one event tower with this difficulty, which is impossible to enter without completing a series of quests.")
 		.setVisualRating("12 to ∞")
 		.setLayoutRating(12)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Sisyphus (Sisyphus)
 	 * - Rating: -∞ to 30.99 (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Sisyphean is a joke difficulty released on April Fools 2024. This difficulty is represented by a black screen and a yellow cat whose face is shining—a catified version of Sisyphus Prime from Ultrakill. There is only one tower in-game of this difficulty, called Wait of The World.
@@ -452,13 +452,13 @@ class Difficulty {
 		.setDescription("Sisyphean is a joke difficulty released on April Fools 2024. This difficulty is represented by a black screen and a yellow cat whose face is shining—a catified version of Sisyphus Prime from Ultrakill. There is only one tower in-game of this difficulty, called Wait of The World.")
 		.setVisualRating("-∞ to 30.99")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Epinephrine (Epinephrine)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Epinephrine is a joke difficulty which was released alongside The Stronghold. There is only one tower in this difficulty, that being Nil's Ultimate Fate. This difficulty has previously been used in a few Event Realm events like reverse bridge. It is a reference to Epinephrine from REx:Reincarnated.
@@ -468,13 +468,13 @@ class Difficulty {
 		.setDescription("Epinephrine is a joke difficulty which was released alongside The Stronghold. There is only one tower in this difficulty, that being Nil's Ultimate Fate. This difficulty has previously been used in a few Event Realm events like reverse bridge. It is a reference to Epinephrine from REx:Reincarnated.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### OVERKILL (OVERKILL)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * OVERKILL is a joke difficulty released alongside The Stronghold. While there are currently no towers of this difficulty, there was once a temporary tower in The Stronghold. The difficulty is known for its humorous and event-based nature.
@@ -484,13 +484,13 @@ class Difficulty {
 		.setDescription("OVERKILL is a joke difficulty released alongside The Stronghold. While there are currently no towers of this difficulty, there was once a temporary tower in The Stronghold. The difficulty is known for its humorous and event-based nature.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### MSD Speedy (MSDSpeedy)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * MSD Speedy is a joke difficulty released alongside The Stronghold. There are currently no towers of this difficulty, but there used to be a temporary tower in The Stronghold. It is not meant to be taken seriously and serves as a humorous entry in the difficulty chart.
@@ -500,13 +500,13 @@ class Difficulty {
 		.setDescription("MSD Speedy is a joke difficulty released alongside The Stronghold. There are currently no towers of this difficulty, but there used to be a temporary tower in The Stronghold. It is not meant to be taken seriously and serves as a humorous entry in the difficulty chart.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### gui remorseless (guiremorseless)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * gui remorseless is a joke difficulty released alongside The Stronghold. It features only one tower: Evidently Not a Tower. This difficulty is notable for its unique naming style (all lowercase) and its playful, event-based nature. It is not part of the main difficulty progression and is recognized for its humorous and limited role.
@@ -516,13 +516,13 @@ class Difficulty {
 		.setDescription("gui remorseless is a joke difficulty released alongside The Stronghold. It features only one tower: Evidently Not a Tower. This difficulty is notable for its unique naming style (all lowercase) and its playful, event-based nature. It is not part of the main difficulty progression and is recognized for its humorous and limited role.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Eschaton (Eschaton)
 	 * - Rating: -30 to ∞ (Layout: -30)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Eschaton is a joke difficulty initially added during an Event Realm event, then later used as a difficulty in the April Fools 2025 event. Currently, there are only two towers in-game assigned to this difficulty: Tower of Eve Is Ent and Huvin ja Hauskanpidon Torni. Although it is placed above Unreal on the difficulty chart, Eschaton is not considered Soul Crushing.
@@ -532,13 +532,13 @@ class Difficulty {
 		.setDescription("Eschaton is a joke difficulty initially added during an Event Realm event, then later used as a difficulty in the April Fools 2025 event. Currently, there are only two towers in-game assigned to this difficulty: Tower of Eve Is Ent and Huvin ja Hauskanpidon Torni. Although it is placed above Unreal on the difficulty chart, Eschaton is not considered Soul Crushing.")
 		.setVisualRating("-30 to ∞")
 		.setLayoutRating(-30)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Divine (EToH) (DivineEToH)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Divine was a temporary joke difficulty in The Stronghold. There is currently one tower of this difficulty, the Box of Improbability Attainment. Divine stands out as a unique and rare entry, notable for its brief existence and singular challenge.
@@ -548,13 +548,13 @@ class Difficulty {
 		.setDescription("Divine was a temporary joke difficulty in The Stronghold. There is currently one tower of this difficulty, the Box of Improbability Attainment. Divine stands out as a unique and rare entry, notable for its brief existence and singular challenge.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### gui nil (guinil)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * gui nil is a joke difficulty that was only released on one server in The Stronghold, which has since shut down. There is only one tower in this difficulty: Mini Citadel of gui1808s Final Wrath. As a joke difficulty, gui nil is not part of the main progression and is known for its limited and humorous presence.
@@ -564,13 +564,13 @@ class Difficulty {
 		.setDescription("gui nil is a joke difficulty that was only released on one server in The Stronghold, which has since shut down. There is only one tower in this difficulty: Mini Citadel of gui1808s Final Wrath. As a joke difficulty, gui nil is not part of the main progression and is known for its limited and humorous presence.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**
 	 * ### Anti Boby (AntiBoby)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
-	 * - Class: -2
+	 * - Class: -99
 	 * - Color: rgb(0, 0, 0)
 	 *
 	 * Anti Boby is a joke difficulty which was released alongside Might as Well Be a Tower. There is only one tower in this difficulty, that being the aforementioned tower.
@@ -580,7 +580,7 @@ class Difficulty {
 		.setDescription("Anti Boby is a joke difficulty which was released alongside Might as Well Be a Tower. There is only one tower in this difficulty, that being the aforementioned tower.")
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
-		.setClass(-2)
+		.setClass(-99)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
 	/**

@@ -151,11 +151,11 @@ function parseClassValue(rawClass) {
 	}
 
 	if (!rawClass) {
-		return -2;
+		return -99;
 	}
 
 	if (/Unclassified/i.test(rawClass)) {
-		return -2;
+		return -99;
 	}
 
 	if (/Class\s+Negative/i.test(rawClass)) {
@@ -167,7 +167,7 @@ function parseClassValue(rawClass) {
 		return Number.parseInt(match[0], 10);
 	}
 
-	return -2;
+	return -99;
 }
 
 function findAsset(difficulty, assetIndex) {
