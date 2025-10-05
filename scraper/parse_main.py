@@ -243,9 +243,9 @@ def parse_unclassified_difficulties(wikitext_file: str) -> List[Dict]:
 
 if __name__ == "__main__":
     # Parse the wikitext file
-    difficulties = parse_wikitext_difficulties('source.wikitext')
-    unclassified = parse_unclassified_difficulties('source.wikitext')
-    
+    difficulties = parse_wikitext_difficulties('difficulties/source.wikitext')
+    unclassified = parse_unclassified_difficulties('difficulties/source.wikitext')
+
     # Combine both lists
     all_difficulties = unclassified + difficulties
     

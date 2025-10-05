@@ -14,4 +14,4 @@ def download_wikitext(url, filename):
             wikitext = file.read()
     return wikitext
 
-download_wikitext('https://jtohs-joke-towers.fandom.com/api.php?action=query&prop=revisions&titles=Main_Difficulty_Chart&rvslots=main&rvprop=content&formatversion=2&format=json', 'source.wikitext')
+download_wikitext('https://jtohs-joke-towers.fandom.com/api.php?action=query&prop=revisions&titles=Main_Difficulty_Chart&rvslots=main&rvprop=content&formatversion=2&format=json', 'difficulties/source.wikitext')

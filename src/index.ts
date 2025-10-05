@@ -1,7 +1,7 @@
 //!native
 //!optimize 2
 
-import { GeneratedDifficultyEntry } from "./generated";
+import { GENERATED_DIFFICULTIES, GeneratedDifficultyEntry } from "./generated";
 
 class Difficulty {
 	static readonly DIFFICULTIES = new Map<string, Difficulty>();
@@ -65,6 +65,8 @@ class Difficulty {
 		this.image = image;
 		return this;
 	}
+
+    static readonly TheFirstDifficulty = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TheFirstDifficulty);
 }
 
 export = Difficulty;
