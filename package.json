@@ -11,6 +11,7 @@
 		"asset-sync": "npx rbxtsas --path=difficulties/image --output=difficulties/assetMap.ts",
 		"generate:difficulties": "node scripts/generate-difficulties.js",
 		"generate:index": "node scripts/generate-index-difficulties.js",
+		"download:images": "node scripts/download-images.js",
 		"prepare": "npm run build && npm run docs",
 		"postpublish": "wally publish"
 	},
@@ -46,6 +47,7 @@
 		"typedoc-plugin-extras": "^4.0.1",
 		"typedoc-plugin-rename-defaults": "^0.7.3",
 		"typescript": "^5.5.3",
-		"unidecode": "^0.1.8"
+		"unidecode": "^0.1.8",
+		"sharp": "^0.33.5"
 	}
 }
