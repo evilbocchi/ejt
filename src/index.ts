@@ -6162,6 +6162,7 @@ class Difficulty {
 	 * ### Reversed Peripherality (ReversedPeripherality)
 	 * - Class: -1
 	 * - Color: rgb(127, 95, 140)
+	 * - Image: rbxassetid://16006133166
 	 *
 	 * Reversed Peripherality is a Class Negative, humanly possible difficulty that comes after Exist and before Relax. While some may call it "easy," Reversed Peripherality is so simple that players barely need to be present—it's a haven for those seeking a break from challenge. The difficulty is characterized by its lightheartedness and ease, making it a quick and pleasant experience for anyone who encounters it.
 	 */
@@ -6170,7 +6171,8 @@ class Difficulty {
 		.setDescription("Reversed Peripherality is a Class Negative, humanly possible difficulty that comes after Exist and before Relax. While some may call it \"easy,\" Reversed Peripherality is so simple that players barely need to be present—it's a haven for those seeking a break from challenge. The difficulty is characterized by its lightheartedness and ease, making it a quick and pleasant experience for anyone who encounters it.")
 		.setLayoutRating(-10000001)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(127, 95, 140));
+		.setColor(Color3.fromRGB(127, 95, 140))
+		.setImage("rbxassetid://16006133166");
 	// </AUTO-GENERATED-STATIC-DIFFICULTIES>
 }
 
