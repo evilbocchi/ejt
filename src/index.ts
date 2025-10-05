@@ -773,20 +773,20 @@ class Difficulty {
 
 	/**
 	 * ### Felix the ДА (FelixtheDA)
-	 * - Rating: -101Qd (Layout: -101)
+	 * - Rating: -10^1Qd (Layout: -10000003)
 	 * - Class: -1
-	 * - Color: rgb(103, 160, 80)
+	 * - Color: rgb(77, 255, 0)
 	 * - Image: rbxassetid://138995446083267
 	 *
 	 * Felix the ДА is a Class Negative, unloseable difficulty that exists between A and Exist. The name references the Russian word for "Yes" (ДА), and the difficulty is designed to be impossible to lose—players have already beaten it an infinite number of times simply by existing. Felix the ДА is a joke difficulty, notable for its simplicity and the fact that it cannot be failed under any circumstances. It is the opposite of Felix the нет and is recognized for its lighthearted, whimsical nature.
 	 */
-	static readonly FelixtheDA = new Difficulty("FelixtheDA")
+	static readonly FelixTheDA = new Difficulty("FelixtheDA")
 		.setName("Felix the ДА")
 		.setDescription("Felix the ДА is a Class Negative, unloseable difficulty that exists between A and Exist. The name references the Russian word for \"Yes\" (ДА), and the difficulty is designed to be impossible to lose—players have already beaten it an infinite number of times simply by existing. Felix the ДА is a joke difficulty, notable for its simplicity and the fact that it cannot be failed under any circumstances. It is the opposite of Felix the нет and is recognized for its lighthearted, whimsical nature.")
-		.setVisualRating("-101Qd")
-		.setLayoutRating(-101)
+		.setVisualRating("-10^1Qd")
+		.setLayoutRating(-10000003)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(103, 160, 80))
+		.setColor(Color3.fromRGB(77, 255, 0))
 		.setImage("rbxassetid://138995446083267");
 
 	/**
@@ -1400,41 +1400,41 @@ class Difficulty {
 		.setImage("rbxassetid://85632946592907");
 
 	/**
-	 * ### Press a Key (PressaKey)
+	 * ### Press A Key (PressaKey)
 	 * - Rating: -13 (Layout: -13)
 	 * - Class: 1
-	 * - Color: rgb(227, 227, 227)
+	 * - Color: rgb(255, 255, 255)
 	 * - Image: rbxassetid://128914883144608
 	 *
 	 * Press a Key (PAK) is a Class 1 difficulty that succeeds Placid and precedes Jumpless. Obstacles are similar to Jumpless, but require the player to walk in various directions. The icon is a simple white background with black text reading "PAK." This difficulty is a gentle step up from the most basic challenges, focusing on simple movement.
 	 */
-	static readonly PressaKey = new Difficulty("PressaKey")
-		.setName("Press a Key")
+	static readonly PressAKey = new Difficulty("PressaKey")
+		.setName("Press A Key")
 		.setDescription("Press a Key (PAK) is a Class 1 difficulty that succeeds Placid and precedes Jumpless. Obstacles are similar to Jumpless, but require the player to walk in various directions. The icon is a simple white background with black text reading \"PAK.\" This difficulty is a gentle step up from the most basic challenges, focusing on simple movement.")
 		.setVisualRating("-13")
 		.setLayoutRating(-13)
 		.setClass(1)
-		.setColor(Color3.fromRGB(227, 227, 227))
+		.setColor(Color3.fromRGB(255, 255, 255))
 		.setImage("rbxassetid://128914883144608");
 
 	/**
 	 * ### Tap to Move (TaptoMove)
 	 * - Rating: -12.66 (Layout: -12.66)
 	 * - Class: 1
-	 * - Color: rgb(50, 50, 50)
+	 * - Color: rgb(41, 41, 41)
 	 * - Image: rbxassetid://97713855023621
 	 *
 	 * Tap to Move, or TTM for short, is a very easy difficulty. It revolves around one gimmick: Tap To Move, as the name implies. If you join a Roblox game and set the Movement Mode to "Tap To Move," you can simply tap anywhere to move there, unless there's a gap that's too far, a wall that's too high, or a slope that's too steep.
 	 *
 	 * All obstacles in this difficulty revolve around this mechanic. Since all you have to do is tap on the screen to move to any place, it is fairly easy to use.
 	 */
-	static readonly TaptoMove = new Difficulty("TaptoMove")
+	static readonly TapToMove = new Difficulty("TaptoMove")
 		.setName("Tap to Move")
 		.setDescription("Tap to Move, or TTM for short, is a very easy difficulty. It revolves around one gimmick: Tap To Move, as the name implies. If you join a Roblox game and set the Movement Mode to \"Tap To Move,\" you can simply tap anywhere to move there, unless there's a gap that's too far, a wall that's too high, or a slope that's too steep.\n\nAll obstacles in this difficulty revolve around this mechanic. Since all you have to do is tap on the screen to move to any place, it is fairly easy to use.")
 		.setVisualRating("-12.66")
 		.setLayoutRating(-12.66)
 		.setClass(1)
-		.setColor(Color3.fromRGB(50, 50, 50))
+		.setColor(Color3.fromRGB(41, 41, 41))
 		.setImage("rbxassetid://97713855023621");
 
 	/**
@@ -1719,18 +1719,18 @@ class Difficulty {
 	 * ### Piece o' Cake (PieceoCake)
 	 * - Rating: -5.5 (Layout: -5.5)
 	 * - Class: 1
-	 * - Color: rgb(208, 127, 209)
+	 * - Color: rgb(254, 149, 253)
 	 * - Image: rbxassetid://133991858355352
 	 *
 	 * Piece o' Cake is a sub-difficulty located between Pleasant and Tutorial. It is the first difficulty that requires players to move their camera, though only slightly. Obstacles here are extremely easy, such as walking, climbing slopes, and ladders. Most new players can beat this difficulty with ease. Piece o' Cake is the 10th hardest difficulty in Class 1, easier than Pleasant but harder than Tutorial.
 	 */
-	static readonly PieceoCake = new Difficulty("PieceoCake")
+	static readonly PieceOCake = new Difficulty("PieceoCake")
 		.setName("Piece o' Cake")
 		.setDescription("Piece o' Cake is a sub-difficulty located between Pleasant and Tutorial. It is the first difficulty that requires players to move their camera, though only slightly. Obstacles here are extremely easy, such as walking, climbing slopes, and ladders. Most new players can beat this difficulty with ease. Piece o' Cake is the 10th hardest difficulty in Class 1, easier than Pleasant but harder than Tutorial.")
 		.setVisualRating("-5.5")
 		.setLayoutRating(-5.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(208, 127, 209))
+		.setColor(Color3.fromRGB(254, 149, 253))
 		.setImage("rbxassetid://133991858355352");
 
 	/**
@@ -6159,19 +6159,6 @@ class Difficulty {
 		.setColor(Color3.fromRGB(255, 110, 110));
 
 	/**
-	 * ### Felix the ДА (FelixTheDA)
-	 * - Rating: -10^1Qd (Layout: -10000003)
-	 * - Class: -1
-	 * - Color: rgb(77, 255, 0)
-	 */
-	static readonly FelixTheDA = new Difficulty("FelixTheDA")
-		.setName("Felix the ДА")
-		.setVisualRating("-10^1Qd")
-		.setLayoutRating(-10000003)
-		.setClass(-1)
-		.setColor(Color3.fromRGB(77, 255, 0));
-
-	/**
 	 * ### Reversed Peripherality (ReversedPeripherality)
 	 * - Class: -1
 	 * - Color: rgb(127, 95, 140)
@@ -6184,39 +6171,6 @@ class Difficulty {
 		.setLayoutRating(-10000001)
 		.setClass(-1)
 		.setColor(Color3.fromRGB(127, 95, 140));
-
-	/**
-	 * ### Press A Key (PressAKey)
-	 * - Class: 1
-	 * - Color: rgb(255, 255, 255)
-	 */
-	static readonly PressAKey = new Difficulty("PressAKey")
-		.setName("Press A Key")
-		.setLayoutRating(-13)
-		.setClass(1)
-		.setColor(Color3.fromRGB(255, 255, 255));
-
-	/**
-	 * ### Tap to Move (TapToMove)
-	 * - Class: 1
-	 * - Color: rgb(41, 41, 41)
-	 */
-	static readonly TapToMove = new Difficulty("TapToMove")
-		.setName("Tap to Move")
-		.setLayoutRating(-12.66)
-		.setClass(1)
-		.setColor(Color3.fromRGB(41, 41, 41));
-
-	/**
-	 * ### Piece o' Cake (PieceOCake)
-	 * - Class: 1
-	 * - Color: rgb(254, 149, 253)
-	 */
-	static readonly PieceOCake = new Difficulty("PieceOCake")
-		.setName("Piece o' Cake")
-		.setLayoutRating(-5.5)
-		.setClass(1)
-		.setColor(Color3.fromRGB(254, 149, 253));
 	// </AUTO-GENERATED-STATIC-DIFFICULTIES>
 }
 

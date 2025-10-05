@@ -298,43 +298,55 @@ function buildStaticProperty(key, override, entry) {
 	return lines.join("\n");
 }
 
-function buildStaticBlock(keys, overrides, generatedEntries, generatedKeys) {
-	const overrideMap = new Map();
+function createOverrideMap(overrides) {
+	const map = new Map();
 	for (const entry of overrides) {
 		if (!entry || typeof entry.propertyName !== "string") {
 			continue;
 		}
 
-		if (!overrideMap.has(entry.propertyName)) {
-			overrideMap.set(entry.propertyName, entry);
-		}
-	}
-
-	const generatedSet = new Set(generatedKeys);
-	const seen = new Set();
-	const orderedKeys = [];
-
-	for (const key of keys) {
-		if (seen.has(key)) {
+		const trimmedName = entry.propertyName.trim();
+		if (trimmedName.length === 0) {
 			continue;
 		}
 
-		seen.add(key);
-		orderedKeys.push(key);
-	}
-
-	for (const [key] of overrideMap) {
-		if (!generatedSet.has(key) && !seen.has(key)) {
-			seen.add(key);
-			orderedKeys.push(key);
+		const normalized = trimmedName.toLowerCase();
+		if (!map.has(normalized)) {
+			map.set(normalized, {
+				propertyName: trimmedName,
+				override: entry,
+			});
 		}
 	}
 
-	const properties = orderedKeys.map((key) => {
-		const override = overrideMap.get(key);
+	return map;
+}
+
+function buildStaticBlock(generatedKeys, overrides, generatedEntries) {
+	const overrideMap = createOverrideMap(overrides);
+	const properties = [];
+
+	for (const key of generatedKeys) {
 		const entry = generatedEntries.get(key);
-		return buildStaticProperty(key, override, entry);
-	});
+		if (!entry) {
+			throw new Error(`Missing generated difficulty entry for key: ${key}`);
+		}
+
+		const normalizedKey = key.toLowerCase();
+		const overrideInfo = overrideMap.get(normalizedKey);
+		const propertyName = overrideInfo ? overrideInfo.propertyName : key;
+		const override = overrideInfo ? overrideInfo.override : undefined;
+
+		properties.push(buildStaticProperty(propertyName, override, entry));
+
+		if (overrideInfo) {
+			overrideMap.delete(normalizedKey);
+		}
+	}
+
+	for (const { propertyName, override } of overrideMap.values()) {
+		properties.push(buildStaticProperty(propertyName, override, undefined));
+	}
 
 	return properties.join("\n\n");
 }
@@ -360,13 +372,7 @@ function updateIndexFile(block) {
 function main() {
 	const { entries: generatedEntries, keys: generatedKeys } = readGeneratedEntries();
 	const overrides = readHandwrittenOverrides();
-
-	const overrideNames = overrides
-		.filter((entry) => entry && typeof entry.propertyName === "string")
-		.map((entry) => entry.propertyName);
-
-	const keys = [...generatedKeys, ...overrideNames];
-	const block = buildStaticBlock(keys, overrides, generatedEntries, generatedKeys);
+	const block = buildStaticBlock(generatedKeys, overrides, generatedEntries);
 	updateIndexFile(block);
 }
 
