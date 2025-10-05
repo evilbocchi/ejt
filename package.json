@@ -40,14 +40,14 @@
 		"jpeg-js": "^0.4.4",
 		"pngjs": "^6.0.0",
 		"rbx-lune": "^1.0.0",
-		"rbxts-asset-sync": "^0.3.2",
+		"rbxts-asset-sync": "^0.3.3",
 		"roblox-ts": "^3.0.0",
+		"sharp": "^0.33.5",
 		"typedoc": "^0.28.13",
 		"typedoc-material-theme": "^1.4.0",
 		"typedoc-plugin-extras": "^4.0.1",
 		"typedoc-plugin-rename-defaults": "^0.7.3",
 		"typescript": "^5.5.3",
-		"unidecode": "^0.1.8",
-		"sharp": "^0.33.5"
+		"unidecode": "^0.1.8"
 	}
 }

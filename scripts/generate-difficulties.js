@@ -91,11 +91,11 @@ function buildAssetIndex(assets) {
 	const byNormalized = new Map();
 
 	for (const [key, value] of Object.entries(assets)) {
-		if (!key.startsWith("assets/")) {
+		if (!key.startsWith("difficulties/image/")) {
 			continue;
 		}
 
-		const file = key.substring("assets/".length);
+		const file = key.substring("difficulties/image/".length);
 		byFile.set(file, { file, assetId: value });
 
 		const base = path.parse(file).name;

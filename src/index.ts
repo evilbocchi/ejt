@@ -139,7 +139,8 @@ class Difficulty {
 	 * ### Blank (Blank)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(67, 68, 70)
+	 * - Image: rbxassetid://93623399779598
 	 *
 	 * Blank is an unclassified difficulty that represents the concept of nothingness. The page describes it as a void—an undefined, unexplainable state where nothing exists and nothing can be understood. There are no real obstacles, no challenges, and no clear reason for being here. Blank is the epitome of confusion and mayhem, and the only advice is to "wake up and escape this reality." It is a conceptual trap rather than a true difficulty, existing outside the bounds of normal gameplay.
 	 */
@@ -149,13 +150,15 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(67, 68, 70))
+		.setImage("rbxassetid://93623399779598");
 
 	/**
 	 * ### Linguistic (Linguistic)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(248, 248, 248)
+	 * - Image: rbxassetid://139535796092381
 	 *
 	 * Linguistic is an unclassified, intelligence-based difficulty defined by its overwhelming wall of text and complex logic. It is not skill-based, but rather tests the reader's ability to comprehend and process multifaceted phrases and ideas. The difficulty is theoretically impossible to beat, as it requires intelligence far beyond human capability.
 	 *
@@ -167,13 +170,15 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(248, 248, 248))
+		.setImage("rbxassetid://139535796092381");
 
 	/**
 	 * ### Randomization (Randomization)
 	 * - Rating: -∞ to ∞ (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(84, 84, 84)
+	 * - Image: rbxassetid://86284548797518
 	 *
 	 * Randomization is an unclassified "difficulty" that functions more as a mode or challenge due to its entirely randomized nature. Each attempt at a tower with this difficulty results in a different experience, as the difficulty level changes every time you die. The challenge is unpredictable, and success relies heavily on luck. Randomization is for those seeking a unique and variable challenge, where the only constant is change.
 	 */
@@ -183,13 +188,15 @@ class Difficulty {
 		.setVisualRating("-∞ to ∞")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(84, 84, 84))
+		.setImage("rbxassetid://86284548797518");
 
 	/**
 	 * ### Sketchy (Sketchy)
 	 * - Rating: -∞ to ∞ (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(190, 192, 196)
+	 * - Image: rbxassetid://79117846901271
 	 *
 	 * Sketchy is an unclassified, unofficial difficulty with no determinable posterior or anterior difficulties, due to its unclassified nature. The difficulty ranges from The First Difficulty to Babass dficuklty, making it the unclassified difficulty with the greatest range. In this difficulty, you possess a sketchbook that has the power to make almost anything come to life. The difficulty is what you want it to be; it can be instantaneous or painfully hard.
 	 */
@@ -199,13 +206,15 @@ class Difficulty {
 		.setVisualRating("-∞ to ∞")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(190, 192, 196))
+		.setImage("rbxassetid://79117846901271");
 
 	/**
 	 * ### Spectrumplex (Spectrumplex)
 	 * - Rating: -∞ to ∞ (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(104, 93, 108)
+	 * - Image: rbxassetid://118198725206656
 	 *
 	 * Spectrumplex is an unclassified difficulty which ranges from The First Difficulty to The Final Difficulty, encompassing both the Main Difficulty Chart and Extended Difficulty Chart, and every class from Class Negative to Class 22. The unique aspect of Spectrumplex is that the entirety of the difficulty chart is split into 115 spectrums, and a spectrum is chosen at random. Each spectrum refers to a section of a class, such as Baseline or Peak, and is given a unique name. Spectrumplex was originally a joke difficulty, later revamped and expanded, and is notable for its massive range and inclusion of nearly every possible difficulty.
 	 */
@@ -215,13 +224,15 @@ class Difficulty {
 		.setVisualRating("-∞ to ∞")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(104, 93, 108))
+		.setImage("rbxassetid://118198725206656");
 
 	/**
 	 * ### Reflective (Reflective)
 	 * - Rating: -∞ to 145.99 (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(98, 175, 202)
+	 * - Image: rbxassetid://74187982793878
 	 *
 	 * Reflective is an unclassified difficulty that ranges from Class Negative to Class 12, depending on the amount of reflectance present in the environment. Originally a sub-difficulty, Reflective has moved through several classifications before becoming unclassified. The challenge is determined by the reflectance value, with higher values corresponding to higher difficulty classes. Reflective is unique in that its difficulty is tied to a specific property of the environment rather than traditional obstacles.
 	 */
@@ -231,7 +242,8 @@ class Difficulty {
 		.setVisualRating("-∞ to 145.99")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(98, 175, 202))
+		.setImage("rbxassetid://74187982793878");
 
 	/**
 	 * ### Construct (Construct)
@@ -255,7 +267,8 @@ class Difficulty {
 	 * ### Puzzling (Puzzling)
 	 * - Rating: -28 to 15.99 (Layout: -28)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(0, 130, 233)
+	 * - Image: rbxassetid://113206135559848
 	 *
 	 * Puzzling is an unclassified difficulty, meaning it has no distinct rating or placement. It uses a "Rank" system to categorize different spectrums of the difficulty, requiring various skills, especially those involving thinking and solving intellectual puzzles. Completing this difficulty involves encountering and solving a variety of puzzles, each with a definitive answer and solution. The difficulty measures one's mental intellect, with puzzles ranked from very easy (requiring little to no effort) to extremely challenging, such as The Human Limit, which contains the hardest humanly possible puzzles. The overall range of Puzzling spans from the simplest to the most complex intellectual challenges.
 	 */
@@ -265,13 +278,15 @@ class Difficulty {
 		.setVisualRating("-28 to 15.99")
 		.setLayoutRating(-28)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(0, 130, 233))
+		.setImage("rbxassetid://113206135559848");
 
 	/**
 	 * ### Walking (Walking)
 	 * - Rating: -15 to 60.99 (Layout: -15)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(237, 237, 237)
+	 * - Image: rbxassetid://124712439319552
 	 *
 	 * Walking is an Unclassified difficulty inspired by Randomization and Wait. This difficulty was created to be a take at creating something similar to Press a Key, but with added difficulty decided by chance, with the baseline of this difficulty being a 100-stud walk.
 	 */
@@ -281,13 +296,15 @@ class Difficulty {
 		.setVisualRating("-15 to 60.99")
 		.setLayoutRating(-15)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(237, 237, 237))
+		.setImage("rbxassetid://124712439319552");
 
 	/**
 	 * ### Factorial (Factorial)
 	 * - Rating: 1 to 120 (Layout: 1)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(86, 86, 86)
+	 * - Image: rbxassetid://76816712149074
 	 *
 	 * Factorial is an unclassified difficulty known for its association with extremely long towers and a massive number of floors, reflecting the rapidly increasing value of factorial numbers. Towers with Factorial difficulty are often characterized by their overwhelming length rather than sheer obstacle difficulty. The concept draws inspiration from mathematical factorials, where each increase results in exponential growth. Factorial is unique in the chart for not following the typical naming convention and is considered more of a novelty or joke difficulty due to its impracticality.
 	 */
@@ -297,13 +314,15 @@ class Difficulty {
 		.setVisualRating("1 to 120")
 		.setLayoutRating(1)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(86, 86, 86))
+		.setImage("rbxassetid://76816712149074");
 
 	/**
 	 * ### Zemblanity (Zemblanity)
 	 * - Rating: 9.5 to 248.99 (Layout: 9.5)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(124, 123, 124)
+	 * - Image: rbxassetid://94389224415728
 	 *
 	 * Zemblanity is an unclassified difficulty that serves as a generalized placement for Tower of Bizarre Blitz but its scope could be expanded to encompass additional structures in the future. As is the case with other unclassified difficulties, there are no clear before or upper after, but the current lower bound is Madness, and the upper known limit is Transfinite. But it is possible that in The Questionable Domain Project, the presently unclassified Tower of Bizarre Blitz could attain class 30 status.
 	 *
@@ -317,13 +336,15 @@ class Difficulty {
 		.setVisualRating("9.5 to 248.99")
 		.setLayoutRating(9.5)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(124, 123, 124))
+		.setImage("rbxassetid://94389224415728");
 
 	/**
 	 * ### 16 (Difficulty16)
 	 * - Rating: 18.5 to 150.99 (Layout: 18.5)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(173, 198, 236)
+	 * - Image: rbxassetid://134557319866757
 	 *
 	 * **16** is an unclassified difficulty centered around the number 16. It was originally created in celebration of Vira's birthday on September 10th. Initially made for Vira's 14th birthday, it has been updated each year to reflect Vira's passing birthdays, previously being known as 14 and 15.
 	 *
@@ -337,13 +358,15 @@ class Difficulty {
 		.setVisualRating("18.5 to 150.99")
 		.setLayoutRating(18.5)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(173, 198, 236))
+		.setImage("rbxassetid://134557319866757");
 
 	/**
 	 * ### PUMPKINDEATH (PUMPKINDEATH)
 	 * - Rating: 246 to 249.99 (Layout: 246)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(138, 108, 30)
+	 * - Image: rbxassetid://87040702347766
 	 *
 	 * PUMPKINDEATH is an event difficulty in Class 30, making it one of the hardest collaboration difficulties. It is harder than Uncomputable and Effortful, and is themed around Halloween. Every obstacle is loaded with nightmares and impossibilities, using numbers and challenges that defy logic. PUMPKINDEATH is a celebration of the most extreme and spooky challenges.
 	 */
@@ -353,13 +376,15 @@ class Difficulty {
 		.setVisualRating("246 to 249.99")
 		.setLayoutRating(246)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(138, 108, 30))
+		.setImage("rbxassetid://87040702347766");
 
 	/**
 	 * ### Lunatic Halloween Difficulty (LunaticHalloweenDifficulty)
 	 * - Rating: 246.33033 (Layout: 246.33033)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(160, 54, 88)
+	 * - Image: rbxassetid://119577787438823
 	 *
 	 * Lunatic Halloween Difficulty is an unofficial difficulty placed after Effortful and before Unboundable. This difficulty is so hard, if you were to compare Effortful to this, it would be like comparing The First Difficulty to Effortful.
 	 */
@@ -369,13 +394,15 @@ class Difficulty {
 		.setVisualRating("246.33033")
 		.setLayoutRating(246.33033)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(160, 54, 88))
+		.setImage("rbxassetid://119577787438823");
 
 	/**
 	 * ### Gingerbread (Gingerbread)
 	 * - Rating: Unconfirmed Ratings (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(164, 154, 140)
+	 * - Image: rbxassetid://80671130934871
 	 *
 	 * Gingerbread is a miscellaneous difficulty and serves as the placeholder difficulty of EToH. It is represented by a gingerbread man and uses the color brown for the difficulty chart and win messages. Gingerbread became known as a placeholder for the monthly tower "Tower of Is Steeple Crossing Required?" and originated as an inside joke among staff during the judging of the Garden of Eeshöl submissions, where gingerbread GIFs were posted when a difficulty could not be decided.
 	 *
@@ -387,13 +414,15 @@ class Difficulty {
 		.setVisualRating("Unconfirmed Ratings")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(164, 154, 140))
+		.setImage("rbxassetid://80671130934871");
 
 	/**
 	 * ### Epic (EToH) (EpicEToH)
 	 * - Rating: -6.75 to 65 (Layout: -6.75)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(180, 210, 228)
+	 * - Image: rbxassetid://103441899474570
 	 *
 	 * Epic is a joke difficulty added in the April Fools 2020 Event. It is represented by the color dockside blue. This difficulty was removed at the end of the event. There were only 3 event towers with this difficulty. Epic has the widest difficulty range out of any difficulty in the game, from just climbing a truss all the way to Floor 10 to having a non-functioning winpad.
 	 */
@@ -403,13 +432,15 @@ class Difficulty {
 		.setVisualRating("-6.75 to 65")
 		.setLayoutRating(-6.75)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(180, 210, 228))
+		.setImage("rbxassetid://103441899474570");
 
 	/**
 	 * ### korn (korn)
 	 * - Rating: -15 to 15.99 (Layout: -15)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(144, 141, 79)
+	 * - Image: rbxassetid://136907057718990
 	 *
 	 * korn is a custom, joke difficulty used for co-op towers, especially in the Event Realm. It is the only transparent difficulty in EToH, making it unique and often confusing for players who don't check the chart. The name is always lowercase, and the difficulty is not tied to a specific challenge level, allowing for a wide range of tower difficulties.
 	 *
@@ -421,13 +452,15 @@ class Difficulty {
 		.setVisualRating("-15 to 15.99")
 		.setLayoutRating(-15)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(144, 141, 79))
+		.setImage("rbxassetid://136907057718990");
 
 	/**
 	 * ### OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo (OooOOOoOOOOoooabovecatastrophicdifficultyOoOOooOOoo)
 	 * - Rating: 12 to ∞ (Layout: 12)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(35, 35, 35)
+	 * - Image: rbxassetid://122622102983071
 	 *
 	 * OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo is a joke difficulty added during the April Fools 2021 event, represented by a black square with white text. It was removed after the event but returned in April Fools 2024. This difficulty is likely a parody of fanmade difficulties that are above nil. There is currently one event tower with this difficulty, which is impossible to enter without completing a series of quests.
 	 */
@@ -437,13 +470,15 @@ class Difficulty {
 		.setVisualRating("12 to ∞")
 		.setLayoutRating(12)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(35, 35, 35))
+		.setImage("rbxassetid://122622102983071");
 
 	/**
 	 * ### Sisyphus (Sisyphus)
 	 * - Rating: -∞ to 30.99 (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(99, 72, 29)
+	 * - Image: rbxassetid://78322242130768
 	 *
 	 * Sisyphean is a joke difficulty released on April Fools 2024. This difficulty is represented by a black screen and a yellow cat whose face is shining—a catified version of Sisyphus Prime from Ultrakill. There is only one tower in-game of this difficulty, called Wait of The World.
 	 */
@@ -453,13 +488,15 @@ class Difficulty {
 		.setVisualRating("-∞ to 30.99")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(99, 72, 29))
+		.setImage("rbxassetid://78322242130768");
 
 	/**
 	 * ### Epinephrine (Epinephrine)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(70, 58, 36)
+	 * - Image: rbxassetid://125587267194727
 	 *
 	 * Epinephrine is a joke difficulty which was released alongside The Stronghold. There is only one tower in this difficulty, that being Nil's Ultimate Fate. This difficulty has previously been used in a few Event Realm events like reverse bridge. It is a reference to Epinephrine from REx:Reincarnated.
 	 */
@@ -469,13 +506,15 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(70, 58, 36))
+		.setImage("rbxassetid://125587267194727");
 
 	/**
 	 * ### OVERKILL (OVERKILL)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(92, 17, 202)
+	 * - Image: rbxassetid://134062732348500
 	 *
 	 * OVERKILL is a joke difficulty released alongside The Stronghold. While there are currently no towers of this difficulty, there was once a temporary tower in The Stronghold. The difficulty is known for its humorous and event-based nature.
 	 */
@@ -485,13 +524,15 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(92, 17, 202))
+		.setImage("rbxassetid://134062732348500");
 
 	/**
 	 * ### MSD Speedy (MSDSpeedy)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(223, 224, 0)
+	 * - Image: rbxassetid://120687041130896
 	 *
 	 * MSD Speedy is a joke difficulty released alongside The Stronghold. There are currently no towers of this difficulty, but there used to be a temporary tower in The Stronghold. It is not meant to be taken seriously and serves as a humorous entry in the difficulty chart.
 	 */
@@ -501,13 +542,15 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(223, 224, 0))
+		.setImage("rbxassetid://120687041130896");
 
 	/**
 	 * ### gui remorseless (guiremorseless)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(50, 20, 126)
+	 * - Image: rbxassetid://117530112962938
 	 *
 	 * gui remorseless is a joke difficulty released alongside The Stronghold. It features only one tower: Evidently Not a Tower. This difficulty is notable for its unique naming style (all lowercase) and its playful, event-based nature. It is not part of the main difficulty progression and is recognized for its humorous and limited role.
 	 */
@@ -517,13 +560,15 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(50, 20, 126))
+		.setImage("rbxassetid://117530112962938");
 
 	/**
 	 * ### Eschaton (Eschaton)
 	 * - Rating: -30 to ∞ (Layout: -30)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(9, 68, 57)
+	 * - Image: rbxassetid://119865858539634
 	 *
 	 * Eschaton is a joke difficulty initially added during an Event Realm event, then later used as a difficulty in the April Fools 2025 event. Currently, there are only two towers in-game assigned to this difficulty: Tower of Eve Is Ent and Huvin ja Hauskanpidon Torni. Although it is placed above Unreal on the difficulty chart, Eschaton is not considered Soul Crushing.
 	 */
@@ -533,13 +578,15 @@ class Difficulty {
 		.setVisualRating("-30 to ∞")
 		.setLayoutRating(-30)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(9, 68, 57))
+		.setImage("rbxassetid://119865858539634");
 
 	/**
 	 * ### Divine (EToH) (DivineEToH)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(153, 255, 238)
+	 * - Image: rbxassetid://131908338578020
 	 *
 	 * Divine was a temporary joke difficulty in The Stronghold. There is currently one tower of this difficulty, the Box of Improbability Attainment. Divine stands out as a unique and rare entry, notable for its brief existence and singular challenge.
 	 */
@@ -549,13 +596,15 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(153, 255, 238))
+		.setImage("rbxassetid://131908338578020");
 
 	/**
 	 * ### gui nil (guinil)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(113, 114, 121)
+	 * - Image: rbxassetid://91373847014324
 	 *
 	 * gui nil is a joke difficulty that was only released on one server in The Stronghold, which has since shut down. There is only one tower in this difficulty: Mini Citadel of gui1808s Final Wrath. As a joke difficulty, gui nil is not part of the main progression and is known for its limited and humorous presence.
 	 */
@@ -565,13 +614,15 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(113, 114, 121))
+		.setImage("rbxassetid://91373847014324");
 
 	/**
 	 * ### Anti Boby (AntiBoby)
 	 * - Rating: Anonymous Placement (Layout: 0/0)
 	 * - Class: -99
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(38, 40, 39)
+	 * - Image: rbxassetid://116371607677020
 	 *
 	 * Anti Boby is a joke difficulty which was released alongside Might as Well Be a Tower. There is only one tower in this difficulty, that being the aforementioned tower.
 	 */
@@ -581,7 +632,8 @@ class Difficulty {
 		.setVisualRating("Anonymous Placement")
 		.setLayoutRating(0/0)
 		.setClass(-99)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(38, 40, 39))
+		.setImage("rbxassetid://116371607677020");
 
 	/**
 	 * ### The First Difficulty (TheFirstDifficulty)
@@ -1165,7 +1217,8 @@ class Difficulty {
 	 * ### Roll (Roll)
 	 * - Rating: -19 (Layout: -19)
 	 * - Class: 0
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(224, 104, 224)
+	 * - Image: rbxassetid://106364216109816
 	 *
 	 * Roll is a variation of the Unlosable difficulty in Class 0. Instead of conveyors, players are placed inside a hollow ball that rolls down a slope or slide, automatically carrying them to the winpad. The challenge is minimal, as the design ensures near-impossibility of failure. Roll is meant to be completed quickly and effortlessly, providing a fun and automatic experience before moving on to more challenging difficulties.
 	 */
@@ -1175,13 +1228,15 @@ class Difficulty {
 		.setVisualRating("-19")
 		.setLayoutRating(-19)
 		.setClass(0)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(224, 104, 224))
+		.setImage("rbxassetid://106364216109816");
 
 	/**
 	 * ### Mazeophobia (Mazeophobia)
 	 * - Rating: -19 (Layout: -19)
 	 * - Class: 0
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(255, 0, 71)
+	 * - Image: rbxassetid://121628228814753
 	 *
 	 * Mazeophobia is a Low Class 0 difficulty in between Unlosable and Unmissable. Obstacles in this difficulty are much harder than those in Unlosable, featuring fast conveyors in the form of mazes. This is essentially "Maze Unloseable," where a maze is filled with conveyors that take you to the exit. The background color of the icon is [255,0,72].
 	 */
@@ -1191,7 +1246,8 @@ class Difficulty {
 		.setVisualRating("-19")
 		.setLayoutRating(-19)
 		.setClass(0)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(255, 0, 71))
+		.setImage("rbxassetid://121628228814753");
 
 	/**
 	 * ### Shattered Babass (ShatteredBabass)
@@ -1663,7 +1719,8 @@ class Difficulty {
 	 * ### Piece o' Cake (PieceoCake)
 	 * - Rating: -5.5 (Layout: -5.5)
 	 * - Class: 1
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(208, 127, 209)
+	 * - Image: rbxassetid://133991858355352
 	 *
 	 * Piece o' Cake is a sub-difficulty located between Pleasant and Tutorial. It is the first difficulty that requires players to move their camera, though only slightly. Obstacles here are extremely easy, such as walking, climbing slopes, and ladders. Most new players can beat this difficulty with ease. Piece o' Cake is the 10th hardest difficulty in Class 1, easier than Pleasant but harder than Tutorial.
 	 */
@@ -1673,7 +1730,8 @@ class Difficulty {
 		.setVisualRating("-5.5")
 		.setLayoutRating(-5.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(208, 127, 209))
+		.setImage("rbxassetid://133991858355352");
 
 	/**
 	 * ### Tutorial (Tutorial)
@@ -2501,7 +2559,8 @@ class Difficulty {
 	 * ### Angerable (Angerable)
 	 * - Rating: 8.25 (Layout: 8.25)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(114, 6, 255)
+	 * - Image: rbxassetid://100928294798810
 	 *
 	 * Angerable is the ultimate challenge of Class 2 and the only sub-difficulty of Relentless. This difficulty's obstacles are excruciating and can be ended in failure at any time without practice. As the name implies, it can be extremely aggravating.
 	 */
@@ -2511,13 +2570,15 @@ class Difficulty {
 		.setVisualRating("8.25")
 		.setLayoutRating(8.25)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(114, 6, 255))
+		.setImage("rbxassetid://100928294798810");
 
 	/**
 	 * ### Complex (Complex)
 	 * - Rating: 8.75 (Layout: 8.75)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(71, 48, 125)
+	 * - Image: rbxassetid://131427883723690
 	 *
 	 * Complex is a sub-difficulty located in the Soul Crushing (SC) territory, specifically at Baseline Class 3, between Vexatious and Insane. It is the first sub-difficulty in Baseline C3 and serves as an introduction to SC towers. Complex was originally planned as a higher-class difficulty but now marks the transition from Regular to SC difficulties. It is exclusive to the EJT Wiki, with its main difficulty being Vexatious. Complex is notable for its placement and for introducing players to the challenges of SC towers.
 	 */
@@ -2527,7 +2588,8 @@ class Difficulty {
 		.setVisualRating("8.75")
 		.setLayoutRating(8.75)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(71, 48, 125))
+		.setImage("rbxassetid://131427883723690");
 
 	/**
 	 * ### Insane (Insane)
@@ -2552,7 +2614,7 @@ class Difficulty {
 	 * - Rating: 9.25 (Layout: 9.25)
 	 * - Class: 3
 	 * - Color: rgb(68, 0, 149)
-	 * - Image: rbxassetid://96578277214518
+	 * - Image: rbxassetid://93469736273235
 	 *
 	 * Thanos was a sub-difficulty represented by the color Indigo, placed to the left side of Insane on the Difficulty Chart. It was formerly exclusive to one Tower, Thanos Tower in Ring 1. Thanos Tower was considered High-Peak Insane back then, and the difficulty was removed from the game due to its limited use. Since its removal, there is a grave in Thanos Tower's winroom reading "R.I.P Thanos Difficulty."
 	 *
@@ -2565,7 +2627,7 @@ class Difficulty {
 		.setLayoutRating(9.25)
 		.setClass(3)
 		.setColor(Color3.fromRGB(68, 0, 149))
-		.setImage("rbxassetid://96578277214518");
+		.setImage("rbxassetid://93469736273235");
 
 	/**
 	 * ### Madness (Madness)
@@ -2625,7 +2687,8 @@ class Difficulty {
 	 * ### Uneasy (Uneasy)
 	 * - Rating: 10.25 (Layout: 10.25)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(27, 63, 144)
+	 * - Image: rbxassetid://127523112124628
 	 *
 	 * Uneasy is a Class 3 sub-difficulty of Extreme. This difficulty is insanely hard to beat, and most obbyists may not even reach this difficulty. Even professional obbyists may struggle with towers of this difficulty, with it being even harder than Madness. There is the occasional trap, and obstacles here may consist of difficulty among the qualities of Tower of Confusion except slightly buffed. As a Class 3 difficulty, it has a real tower.
 	 *
@@ -2639,7 +2702,8 @@ class Difficulty {
 		.setVisualRating("10.25")
 		.setLayoutRating(10.25)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(27, 63, 144))
+		.setImage("rbxassetid://127523112124628");
 
 	/**
 	 * ### Turmoil (Turmoil)
@@ -2773,7 +2837,8 @@ class Difficulty {
 	 * ### Champion's Road (ChampionsRoad)
 	 * - Rating: 12.25 (Layout: 12.25)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(71, 34, 31)
+	 * - Image: rbxassetid://107332601187748
 	 *
 	 * Champion's Road is the last sub-difficulty of Catastrophic and the final tower difficulty in its chain. It is based on the Tower of Champion's Road and is located in Mid Class 3 as a sub-difficulty. This difficulty is still humanly possible but extremely challenging, requiring great precision and skill. Only the best players will surpass Champion's Road, making it a true test of mastery.
 	 */
@@ -2783,7 +2848,8 @@ class Difficulty {
 		.setVisualRating("12.25")
 		.setLayoutRating(12.25)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(71, 34, 31))
+		.setImage("rbxassetid://107332601187748");
 
 	/**
 	 * ### Eccentric (Eccentric)
@@ -3415,7 +3481,8 @@ class Difficulty {
 	 * ### Omega (Omega)
 	 * - Rating: 26 (Layout: 26)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(232, 232, 232)
+	 * - Image: rbxassetid://72870427223830
 	 *
 	 * Omega is a difficulty much harder than Unimaginable but easier than Aleph-Null, represented by a rainbow color scheme. Obstacles are extremely obscure, and towers in this difficulty can take months or even years to verify. Omega is considered by some to be the first "physically impossible" difficulty, marking a major milestone in the chart.
 	 */
@@ -3425,7 +3492,8 @@ class Difficulty {
 		.setVisualRating("26")
 		.setLayoutRating(26)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(232, 232, 232))
+		.setImage("rbxassetid://72870427223830");
 
 	/**
 	 * ### Disarray (Disarray)
@@ -4123,7 +4191,8 @@ class Difficulty {
 	 * ### D-I-E (DIE)
 	 * - Rating: 51 (Layout: 51)
 	 * - Class: 6
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(116, 115, 115)
+	 * - Image: rbxassetid://107949025886391
 	 *
 	 * D-I-E is a Class 6 difficulty that comes after Nonexistent and before Absolutism (or Gar-Extreme in chains). It marks the end of the Road of Pseudo-Difficulties and is classified as humanly impossible. This difficulty is an immense challenge, featuring frame-perfect glitches and obstacles that can frustrate even the best Low Class 6 obbyists. Beating D-I-E is a significant achievement, as it requires exceptional skill and persistence.
 	 */
@@ -4133,7 +4202,8 @@ class Difficulty {
 		.setVisualRating("51")
 		.setLayoutRating(51)
 		.setClass(6)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(116, 115, 115))
+		.setImage("rbxassetid://107949025886391");
 
 	/**
 	 * ### Absolutism (Absolutism)
@@ -4593,7 +4663,8 @@ class Difficulty {
 	 * ### Jesus Ballin' (JesusBallin)
 	 * - Rating: 65 (Layout: 65)
 	 * - Class: 7
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(8, 250, 146)
+	 * - Image: rbxassetid://73392890634703
 	 *
 	 * Jesus Ballin' is a Low Class 7, Physically Impossible difficulty, known for its meme origins and extreme challenge. The icon features Jesus playing basketball on a light green background. This difficulty sits between RoorHELL and El Vacio, and includes sub-difficulties like HyperViolent and Enclosed.
 	 *
@@ -4605,7 +4676,8 @@ class Difficulty {
 		.setVisualRating("65")
 		.setLayoutRating(65)
 		.setClass(7)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(8, 250, 146))
+		.setImage("rbxassetid://73392890634703");
 
 	/**
 	 * ### HyperViolent (HyperViolent)
@@ -4629,7 +4701,8 @@ class Difficulty {
 	 * ### Enclosed (Enclosed)
 	 * - Rating: 65.66 (Layout: 65.66)
 	 * - Class: 7
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(249, 140, 12)
+	 * - Image: rbxassetid://137887190533678
 	 *
 	 * Enclosed is a Low Class 9 difficulty. The icon for Enclosed is a GIF of arrows pointing to the center of a shrinking circle. It is in between Jesus Ballin' or HyperViolent and El Vacio. The arrows represent the tight spaces that the player must navigate through, and the shrinking circle represents the increasing difficulty of the level. This difficulty has never been deleted, revived, or had any sub-difficulties created from it. It has a rating of 50.5, making it one of the more challenging difficulties in the wiki. The tight spaces and complex patterns make it difficult to see what is coming, and even with exploits, it is still hard to complete.
 	 *
@@ -4641,7 +4714,8 @@ class Difficulty {
 		.setVisualRating("65.66")
 		.setLayoutRating(65.66)
 		.setClass(7)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(249, 140, 12))
+		.setImage("rbxassetid://137887190533678");
 
 	/**
 	 * ### El Vacio (ElVacio)
@@ -4665,7 +4739,8 @@ class Difficulty {
 	 * ### Unpossible (Unpossible)
 	 * - Rating: 66.5 (Layout: 66.5)
 	 * - Class: 7
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(101, 0, 144)
+	 * - Image: rbxassetid://130075618369216
 	 *
 	 * Unpossible is a variation of a Class Negative Difficulty - Unimpossible. This version has been buffed one hundred billion times or more. If the original version of Unimpossible is Instant Win, this one is Instant Death. Most things about this difficulty are impossible, including humanly impossible, TAS impossible, physically impossible, and more. To even just get past the first barrier, you need an inexplicable amount of luck and skill. As a result, only hackers can circumvent this.
 	 *
@@ -4677,7 +4752,8 @@ class Difficulty {
 		.setVisualRating("66.5")
 		.setLayoutRating(66.5)
 		.setClass(7)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(101, 0, 144))
+		.setImage("rbxassetid://130075618369216");
 
 	/**
 	 * ### Universe Disruption (UniverseDisruption)
@@ -4703,7 +4779,8 @@ class Difficulty {
 	 * ### Spongebob (Spongebob)
 	 * - Rating: 67.33 (Layout: 67.33)
 	 * - Class: 7
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(206, 200, 100)
+	 * - Image: rbxassetid://139024688432409
 	 *
 	 * Spongebob is a peak Class 9 sub-difficulty, currently a sub of 60mmm. It is above 60mmm and behind Malicatious, and is the only sub-difficulty in its class. Spongebob is classified as physically impossible, meaning you must defy physics to beat it. Any successful attempt is considered illegitimate or heavily inaccurate. The difficulty is named after the character Spongebob Squarepants, and its icon features the character on a bright yellow background.
 	 */
@@ -4713,13 +4790,15 @@ class Difficulty {
 		.setVisualRating("67.33")
 		.setLayoutRating(67.33)
 		.setClass(7)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(206, 200, 100))
+		.setImage("rbxassetid://139024688432409");
 
 	/**
 	 * ### Complete: Obstacles (CompleteObstacles)
 	 * - Rating: 67.66 (Layout: 67.66)
 	 * - Class: 7
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(136, 95, 79)
+	 * - Image: rbxassetid://132693521314790
 	 *
 	 * Complete: Obstacles is a mid Class 7 difficulty that is part of the Complete: Chain. This difficulty is centered entirely around obstacles, featuring a vast array of obstacle spectrums and frequent interruptions for new challenges. It follows Universe Disruption and precedes Illegal, and is classified as Physically Impossible—TAS cannot complete it. Despite its high difficulty, some sections are more forgiving, with breaks and easier segments. The main focus is on creative and numerous obstacles, making it a lengthy and challenging experience.
 	 */
@@ -4729,7 +4808,8 @@ class Difficulty {
 		.setVisualRating("67.66")
 		.setLayoutRating(67.66)
 		.setClass(7)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(136, 95, 79))
+		.setImage("rbxassetid://132693521314790");
 
 	/**
 	 * ### Illegal (Illegal)
@@ -5023,7 +5103,8 @@ class Difficulty {
 	 * ### ILOVEYOU (ILOVEYOU)
 	 * - Rating: 77.5 (Layout: 77.5)
 	 * - Class: 8
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(199, 201, 205)
+	 * - Image: rbxassetid://103972166257633
 	 *
 	 * ILOVEYOU is a Baseline Class 8 difficulty that sits between Agony and Abyssal. Created by Bryan, it is classified as Physically Impossible, meaning it cannot be completed even with tool-assisted speedruns. The difficulty is themed after the infamous ILOVEYOU computer virus, featuring numerous gimmicks and obstacles that make it not only impossible to beat but also intentionally frustrating and chaotic. It is a unique entry on the chart, known for its references to computer viruses and disruptive gameplay elements.
 	 */
@@ -5033,7 +5114,8 @@ class Difficulty {
 		.setVisualRating("77.5")
 		.setLayoutRating(77.5)
 		.setClass(8)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(199, 201, 205))
+		.setImage("rbxassetid://103972166257633");
 
 	/**
 	 * ### Abyssal (Abyssal)
@@ -5263,7 +5345,8 @@ class Difficulty {
 	 * ### How‽ (How)
 	 * - Rating: 85.66 (Layout: 85.66)
 	 * - Class: 8
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(55, 50, 127)
+	 * - Image: rbxassetid://118952572411888
 	 *
 	 * How‽ (also known as How?!) is a High Class 8 difficulty that sits between Vacant and Errorisation. This difficulty is infamous for its absurd tricks and traps, making it virtually unbeatable by any legitimate means—including with boosts or tool-assisted speedruns. The obstacles are so extreme that even hacks or exploits are said to be ineffective. How‽ is designed to be a truly impossible challenge, pushing the boundaries of what can be conceived in obby gameplay.
 	 */
@@ -5273,7 +5356,8 @@ class Difficulty {
 		.setVisualRating("85.66")
 		.setLayoutRating(85.66)
 		.setClass(8)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(55, 50, 127))
+		.setImage("rbxassetid://118952572411888");
 
 	/**
 	 * ### Errorisation (Errorisation)
@@ -5335,7 +5419,8 @@ class Difficulty {
 	 * ### Complete Users (CompleteUsers)
 	 * - Rating: 87.5 (Layout: 87.5)
 	 * - Class: 8
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(124, 117, 105)
+	 * - Image: rbxassetid://73386898347775
 	 *
 	 * Complete: Users is a physically impossible, high Class 8 difficulty with a rating of 87.5. It is located between Esoteric and BobuxDeath. The theme of this difficulty is based on various users and their suggestions, making it highly chaotic and unpredictable. Its icon depicts a disorganized collection of users, reflecting the nature of the wiki itself. The obstacles and challenges are inspired by user contributions, resulting in a unique and varied experience.
 	 */
@@ -5345,7 +5430,8 @@ class Difficulty {
 		.setVisualRating("87.5")
 		.setLayoutRating(87.5)
 		.setClass(8)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(124, 117, 105))
+		.setImage("rbxassetid://73386898347775");
 
 	/**
 	 * ### BobuxDeath (BobuxDeath)
@@ -5505,7 +5591,8 @@ class Difficulty {
 	 * ### Undocumented (Undocumented)
 	 * - Rating: 95 (Layout: 95)
 	 * - Class: 9
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(62, 179, 82)
+	 * - Image: rbxassetid://140054408905497
 	 *
 	 * Undocumented is the second difficulty of the Liminality Chain, with the other two in the chain being called Mysterious and Denial. It goes between those other difficulties in the chain.
 	 *
@@ -5519,7 +5606,8 @@ class Difficulty {
 		.setVisualRating("95")
 		.setLayoutRating(95)
 		.setClass(9)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(62, 179, 82))
+		.setImage("rbxassetid://140054408905497");
 
 	/**
 	 * ### Denial (Denial)
@@ -5587,7 +5675,8 @@ class Difficulty {
 	 * ### Enigmatic (Enigmatic)
 	 * - Rating: 99 (Layout: 99)
 	 * - Class: 9
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(21, 28, 30)
+	 * - Image: rbxassetid://107771703386569
 	 *
 	 * Enigmatic is a normal difficulty which was transferred from the JCC Wiki to the JJT Wiki. Unlike the original, which is in Low Rank 3, this difficulty is the midpoint of Class 9, being in the mid spectrum of the class. However, it used to be in Peripheral Class 15. It is currently a successor to Omniscient, and a predecessor to Vrery hawrfd rdifficutl!!. The ludicrous sizes of these obstacles nullify all uses of boost items, even blessed coil. You will never be able to beat this difficulty, or create towers in this difficulty, due to how high up this difficulty is.
 	 */
@@ -5597,13 +5686,15 @@ class Difficulty {
 		.setVisualRating("99")
 		.setLayoutRating(99)
 		.setClass(9)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(21, 28, 30))
+		.setImage("rbxassetid://107771703386569");
 
 	/**
 	 * ### Vrery hawrfd rdifficutl!! (Vreryhawrfdrdifficutl)
 	 * - Rating: 100 (Layout: 100)
 	 * - Class: 9
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(163, 97, 42)
+	 * - Image: rbxassetid://89177984293320
 	 *
 	 * HOW u get hehere!!!!111 I will kile yousdanafh!!! I WInt let youf pass this fdififcluty anf go toj fe-smiy.d!21!!121
 	 *
@@ -5617,7 +5708,8 @@ class Difficulty {
 		.setVisualRating("100")
 		.setLayoutRating(100)
 		.setClass(9)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(163, 97, 42))
+		.setImage("rbxassetid://89177984293320");
 
 	/**
 	 * ### Free-smiley.de (Freesmileyde)
@@ -5903,7 +5995,8 @@ class Difficulty {
 	 * ### True Obama Prism (TrueObamaPrism)
 	 * - Rating: 111.5 (Layout: 111.5)
 	 * - Class: 10
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(170, 73, 111)
+	 * - Image: rbxassetid://109833881551274
 	 *
 	 * True Obama Prism (T.O.P) is a Mid Class 10 difficulty, ranked as Physically Impossible. It sits between TooTooHard and Zany, and is considered a classic difficulty. This difficulty is extraordinary and impossible to complete due to the limitations of ROBLOX's physics engine. Any attempt to beat a tower of this difficulty would require defying the game's physics, making it unachievable by normal means.
 	 */
@@ -5913,7 +6006,8 @@ class Difficulty {
 		.setVisualRating("111.5")
 		.setLayoutRating(111.5)
 		.setClass(10)
-		.setColor(Color3.fromRGB(0, 0, 0));
+		.setColor(Color3.fromRGB(170, 73, 111))
+		.setImage("rbxassetid://109833881551274");
 
 	/**
 	 * ### Zany (Zany)
@@ -6081,9 +6175,12 @@ class Difficulty {
 	 * ### Reversed Peripherality (ReversedPeripherality)
 	 * - Class: -1
 	 * - Color: rgb(127, 95, 140)
+	 *
+	 * Reversed Peripherality is a Class Negative, humanly possible difficulty that comes after Exist and before Relax. While some may call it "easy," Reversed Peripherality is so simple that players barely need to be present—it's a haven for those seeking a break from challenge. The difficulty is characterized by its lightheartedness and ease, making it a quick and pleasant experience for anyone who encounters it.
 	 */
 	static readonly ReversedPeripherality = new Difficulty("ReversedPeripherality")
 		.setName("Reversed Peripherality")
+		.setDescription("Reversed Peripherality is a Class Negative, humanly possible difficulty that comes after Exist and before Relax. While some may call it \"easy,\" Reversed Peripherality is so simple that players barely need to be present—it's a haven for those seeking a break from challenge. The difficulty is characterized by its lightheartedness and ease, making it a quick and pleasant experience for anyone who encounters it.")
 		.setLayoutRating(-10000001)
 		.setClass(-1)
 		.setColor(Color3.fromRGB(127, 95, 140));

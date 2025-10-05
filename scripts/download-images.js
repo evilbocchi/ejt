@@ -63,10 +63,11 @@ async function convertToPng(buffer, originalFilename) {
 		return buffer;
 	}
 
-	// Use sharp if available (supports WebP and SVG)
-	if (ext === ".webp" || ext === ".svg") {
+	// Use sharp for GIF, WebP, SVG (and other supported formats)
+	if (ext === ".webp" || ext === ".svg" || ext === ".gif") {
 		try {
 			console.log(`  🔄 Converting ${ext} to PNG using sharp...`);
+			// For GIFs, sharp will use the first frame by default
 			const pngBuffer = await sharp(buffer)
 				.resize(IMAGE_SIZE, IMAGE_SIZE, {
 					fit: "contain",
@@ -259,13 +260,6 @@ async function main() {
 			console.log(`  ❌ Failed: ${error.message}\n`);
 			stats.failed++;
 		}
-	}
-
-	// Save updated JSON if modified
-	if (jsonModified) {
-		console.log("\n💾 Updating difficulties.json with new image filenames...");
-		fs.writeFileSync(DIFFICULTIES_JSON, JSON.stringify(difficulties, null, 2), "utf8");
-		console.log("✅ difficulties.json updated\n");
 	}
 
 	// Print summary

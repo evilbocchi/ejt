@@ -1,812 +1,813 @@
 [
-  {
-    "propertyName": "Bonuses",
-    "name": "Bonuses",
-    "color": {
-      "r": 255,
-      "g": 252,
-      "b": 89
-    },
-    "layoutRating": -10000014,
-    "class": -3
-  },
-  {
-    "propertyName": "Excavation",
-    "name": "Materials",
-    "color": {
-      "r": 110,
-      "g": 166,
-      "b": 255
-    },
-    "layoutRating": -10000013,
-    "class": -3
-  },
-  {
-    "propertyName": "Miscellaneous",
-    "name": "Miscellaneous",
-    "color": {
-      "r": 255,
-      "g": 110,
-      "b": 110
-    },
-    "layoutRating": -10000012,
-    "class": -3
-  },
-  {
-    "propertyName": "TheFirstDifficulty",
-    "name": "The First Difficulty",
-    "color": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    },
-    "layoutRating": -10000010,
-    "class": -2
-  },
-  {
-    "propertyName": "TheLowerGap",
-    "name": "The Lower Gap",
-    "color": {
-      "r": 0,
-      "g": 79,
-      "b": 0
-    },
-    "layoutRating": -10000009,
-    "class": -2
-  },
-  {
-    "propertyName": "Negativity",
-    "name": "Negativity",
-    "color": {
-      "r": 146,
-      "g": 36,
-      "b": 143
-    },
-    "layoutRating": -10000008,
-    "visualRating": "-(FOOT^10(10^100))",
-    "class": -2
-  },
-  {
-    "propertyName": "Unimpossible",
-    "name": "Unimpossible",
-    "color": {
-      "r": 192,
-      "g": 0,
-      "b": 255
-    },
-    "layoutRating": -10000007,
-    "visualRating": "-Rayo(10^100)",
-    "class": -2
-  },
-  {
-    "propertyName": "Friendliness",
-    "name": "Friendliness",
-    "color": {
-      "r": 130,
-      "g": 253,
-      "b": 0
-    },
-    "layoutRating": -10000006,
-    "visualRating": "-TREE(3)",
-    "class": -2
-  },
-  {
-    "propertyName": "TrueEase",
-    "name": "True Ease",
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
-    },
-    "layoutRating": -10000005,
-    "visualRating": "-G64",
-    "class": -1
-  },
-  {
-    "propertyName": "A",
-    "name": "A",
-    "color": {
-      "r": 235,
-      "g": 26,
-      "b": 36
-    },
-    "layoutRating": -10000004,
-    "visualRating": "-10^(10^(10^1,000,000))",
-    "class": -1
-  },
-  {
-    "propertyName": "FelixTheDA",
-    "name": "Felix the ДА",
-    "color": {
-      "r": 77,
-      "g": 255,
-      "b": 0
-    },
-    "layoutRating": -10000003,
-    "visualRating": "-10^1Qd",
-    "class": -1
-  },
-  {
-    "propertyName": "Exist",
-    "name": "Exist",
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
-    },
-    "layoutRating": -10000002,
-    "visualRating": "-10^100",
-    "class": -1
-  },
-  {
-    "propertyName": "ReversedPeripherality",
-    "name": "Reversed Peripherality",
-    "color": {
-      "r": 127,
-      "g": 95,
-      "b": 140
-    },
-    "layoutRating": -10000001,
-    "class": -1
-  },
-  {
-    "propertyName": "Relax",
-    "name": "Relax",
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
-    },
-    "layoutRating": -1000000,
-    "class": -1
-  },
-  {
-    "propertyName": "Skip",
-    "name": "Skip",
-    "color": {
-      "r": 255,
-      "g": 172,
-      "b": 101
-    },
-    "layoutRating": -1000,
-    "class": -1
-  },
-  {
-    "propertyName": "Restful",
-    "name": "Restful",
-    "color": {
-      "r": 4,
-      "g": 61,
-      "b": 1
-    },
-    "layoutRating": -50,
-    "class": -1
-  },
-  {
-    "propertyName": "Ifinity",
-    "name": "Ifinity",
-    "color": {
-      "r": 35,
-      "g": 7,
-      "b": 51
-    },
-    "layoutRating": -40,
-    "class": -1
-  },
-  {
-    "propertyName": "InstantWin",
-    "name": "Instant Win",
-    "color": {
-      "r": 0,
-      "g": 46,
-      "b": 255
-    },
-    "layoutRating": -31,
-    "class": -1
-  },
-  {
-    "propertyName": "Millisecondless",
-    "name": "Millisecondless",
-    "color": {
-      "r": 244,
-      "g": 112,
-      "b": 254
-    },
-    "layoutRating": -30,
-    "class": 0
-  },
-  {
-    "propertyName": "Astronomical",
-    "name": "Astronomical",
-    "color": {
-      "r": 21,
-      "g": 0,
-      "b": 186
-    },
-    "layoutRating": -29.5,
-    "class": 0
-  },
-  {
-    "propertyName": "Win",
-    "name": "Win",
-    "color": {
-      "r": 39,
-      "g": 119,
-      "b": 232
-    },
-    "layoutRating": -29,
-    "class": 0
-  },
-  {
-    "propertyName": "Winsome",
-    "name": "Winsome",
-    "color": {
-      "r": 106,
-      "g": 205,
-      "b": 255
-    },
-    "layoutRating": -28,
-    "class": 0
-  },
-  {
-    "propertyName": "DoNothing",
-    "name": "Do Nothing",
-    "color": {
-      "r": 153,
-      "g": 209,
-      "b": 229
-    },
-    "layoutRating": -27,
-    "class": 0
-  },
-  {
-    "propertyName": "Sleepful",
-    "name": "Sleepful",
-    "color": {
-      "r": 52,
-      "g": 155,
-      "b": 255
-    },
-    "layoutRating": -26.5,
-    "class": 0
-  },
-  {
-    "propertyName": "Blessing",
-    "name": "Blessing",
-    "color": {
-      "r": 114,
-      "g": 224,
-      "b": 178
-    },
-    "layoutRating": -26,
-    "class": 0
-  },
-  {
-    "propertyName": "Vintage",
-    "name": "Vintage",
-    "color": {
-      "r": 217,
-      "g": 120,
-      "b": 255
-    },
-    "layoutRating": -25,
-    "class": 0
-  },
-  {
-    "propertyName": "Ifinitude",
-    "name": "Ifinitude",
-    "color": {
-      "r": 43,
-      "g": 43,
-      "b": 43
-    },
-    "layoutRating": -24.5,
-    "class": 0
-  },
-  {
-    "propertyName": "JustAir",
-    "name": "Just Air",
-    "color": {
-      "r": 64,
-      "g": 115,
-      "b": 255
-    },
-    "layoutRating": -24,
-    "class": 0
-  },
-  {
-    "propertyName": "Happylike",
-    "name": "Happylike",
-    "color": {
-      "r": 59,
-      "g": 59,
-      "b": 59
-    },
-    "layoutRating": -23,
-    "class": 0
-  },
-  {
-    "propertyName": "Locomotion",
-    "name": "Locomotion",
-    "color": {
-      "r": 255,
-      "g": 97,
-      "b": 97
-    },
-    "layoutRating": -22,
-    "class": 0
-  },
-  {
-    "propertyName": "Walkthrough",
-    "name": "Walkthrough",
-    "color": {
-      "r": 107,
-      "g": 196,
-      "b": 255
-    },
-    "layoutRating": -21,
-    "class": 0
-  },
-  {
-    "propertyName": "AutomaticJoyful",
-    "name": "Automatic Joyful",
-    "color": {
-      "r": 171,
-      "g": 255,
-      "b": 77
-    },
-    "layoutRating": -20,
-    "class": 0
-  },
-  {
-    "propertyName": "Unlosable",
-    "name": "Unlosable",
-    "color": {
-      "r": 255,
-      "g": 143,
-      "b": 255
-    },
-    "layoutRating": -19,
-    "class": 0
-  },
-  {
-    "propertyName": "ShatteredBabass",
-    "name": "Shattered Babass",
-    "color": {
-      "r": 147,
-      "g": 27,
-      "b": 220
-    },
-    "layoutRating": -18.5,
-    "class": 0
-  },
-  {
-    "propertyName": "Frivolous",
-    "name": "Frivolous",
-    "color": {
-      "r": 107,
-      "g": 196,
-      "b": 219
-    },
-    "layoutRating": -18,
-    "class": 0
-  },
-  {
-    "propertyName": "Vibeness",
-    "name": "Vibeness",
-    "color": {
-      "r": 255,
-      "g": 69,
-      "b": 156
-    },
-    "layoutRating": -17.5,
-    "class": 0
-  },
-  {
-    "propertyName": "Automatic",
-    "name": "Automatic",
-    "color": {
-      "r": 214,
-      "g": 255,
-      "b": 186
-    },
-    "layoutRating": -17,
-    "class": 0
-  },
-  {
-    "propertyName": "Spontaneous",
-    "name": "Spontaneous",
-    "color": {
-      "r": 117,
-      "g": 255,
-      "b": 28
-    },
-    "layoutRating": -16,
-    "class": 0
-  },
-  {
-    "propertyName": "Joyful",
-    "name": "Joyful",
-    "color": {
-      "r": 206,
-      "g": 250,
-      "b": 0
-    },
-    "layoutRating": -15,
-    "class": 1
-  },
-  {
-    "propertyName": "DoSomething",
-    "name": "Do Something",
-    "color": {
-      "r": 0,
-      "g": 153,
-      "b": 255
-    },
-    "layoutRating": -14.5,
-    "class": 1
-  },
-  {
-    "propertyName": "Placid",
-    "name": "Placid",
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
-    },
-    "layoutRating": -14,
-    "class": 1
-  },
-  {
-    "propertyName": "PressAKey",
-    "name": "Press A Key",
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
-    },
-    "layoutRating": -13,
-    "class": 1
-  },
-  {
-    "propertyName": "TapToMove",
-    "name": "Tap to Move",
-    "color": {
-      "r": 41,
-      "g": 41,
-      "b": 41
-    },
-    "layoutRating": -12.66,
-    "class": 1
-  },
-  {
-    "propertyName": "WalkASlope",
-    "name": "Walk A Slope",
-    "color": {
-      "r": 112,
-      "g": 112,
-      "b": 112
-    },
-    "layoutRating": -12.33,
-    "class": 1
-  },
-  {
-    "propertyName": "ClimbATruss",
-    "name": "Climb A Truss",
-    "color": {
-      "r": 134,
-      "g": 133,
-      "b": 133
-    },
-    "layoutRating": -12,
-    "class": 1
-  },
-  {
-    "propertyName": "Tranquil",
-    "name": "Tranquil",
-    "color": {
-      "r": 0,
-      "g": 141,
-      "b": 255
-    },
-    "layoutRating": -11.5,
-    "class": 1
-  },
-  {
-    "propertyName": "Jumpless",
-    "name": "Jumpless",
-    "color": {
-      "r": 201,
-      "g": 192,
-      "b": 231
-    },
-    "layoutRating": -11,
-    "class": 1
-  },
-  {
-    "propertyName": "Starter",
-    "name": "Starter",
-    "color": {
-      "r": 0,
-      "g": 168,
-      "b": 243
-    },
-    "layoutRating": -10,
-    "class": 1
-  },
-  {
-    "propertyName": "Cakewalk",
-    "name": "Cakewalk",
-    "color": {
-      "r": 66,
-      "g": 165,
-      "b": 245
-    },
-    "layoutRating": -9.5,
-    "class": 1
-  },
-  {
-    "propertyName": "Sweet",
-    "name": "Sweet",
-    "color": {
-      "r": 255,
-      "g": 253,
-      "b": 150
-    },
-    "layoutRating": -9,
-    "class": 1
-  },
-  {
-    "propertyName": "Sugary",
-    "name": "Sugary",
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 0
-    },
-    "layoutRating": -8.66,
-    "class": 1
-  },
-  {
-    "propertyName": "Aesthetic",
-    "name": "Aesthetic",
-    "color": {
-      "r": 118,
-      "g": 244,
-      "b": 71
-    },
-    "layoutRating": -8.33,
-    "class": 1
-  },
-  {
-    "propertyName": "Lovely",
-    "name": "Lovely",
-    "color": {
-      "r": 221,
-      "g": 251,
-      "b": 221
-    },
-    "layoutRating": -8,
-    "class": 1
-  },
-  {
-    "propertyName": "Glee",
-    "name": "Glee",
-    "color": {
-      "r": 248,
-      "g": 218,
-      "b": 219
-    },
-    "layoutRating": -7.5,
-    "class": 1
-  },
-  {
-    "propertyName": "Flowerness",
-    "name": "Flowerness",
-    "color": {
-      "r": 157,
-      "g": 149,
-      "b": 254
-    },
-    "layoutRating": -7,
-    "class": 1
-  },
-  {
-    "propertyName": "Coasterifying",
-    "name": "Coasterifying",
-    "color": {
-      "r": 0,
-      "g": 115,
-      "b": 255
-    },
-    "layoutRating": -6.66,
-    "class": 1
-  },
-  {
-    "propertyName": "ADifficultyNamedDifficulty",
-    "name": "A Difficulty Named Difficulty",
-    "color": {
-      "r": 247,
-      "g": 51,
-      "b": 83
-    },
-    "layoutRating": -6.33,
-    "class": 1
-  },
-  {
-    "propertyName": "Pleasant",
-    "name": "Pleasant",
-    "color": {
-      "r": 161,
-      "g": 220,
-      "b": 255
-    },
-    "layoutRating": -6,
-    "class": 1
-  },
-  {
-    "propertyName": "PieceOCake",
-    "name": "Piece o' Cake",
-    "color": {
-      "r": 254,
-      "g": 149,
-      "b": 253
-    },
-    "layoutRating": -5.5,
-    "class": 1
-  },
-  {
-    "propertyName": "Tutorial",
-    "name": "Tutorial",
-    "color": {
-      "r": 24,
-      "g": 83,
-      "b": 17
-    },
-    "layoutRating": -5,
-    "class": 1
-  },
-  {
-    "propertyName": "HellishEncore",
-    "name": "Hellish Encore",
-    "color": {
-      "r": 170,
-      "g": 5,
-      "b": 8
-    },
-    "layoutRating": -4.66,
-    "class": 1
-  },
-  {
-    "propertyName": "Delightful",
-    "name": "Delightful",
-    "color": {
-      "r": 236,
-      "g": 218,
-      "b": 140
-    },
-    "layoutRating": -4.33,
-    "class": 1
-  },
-  {
-    "propertyName": "TooEasy",
-    "name": "TooEasy",
-    "color": {
-      "r": 14,
-      "g": 88,
-      "b": 1
-    },
-    "layoutRating": -4,
-    "class": 1
-  },
-  {
-    "propertyName": "Peaceful",
-    "name": "Peaceful",
-    "color": {
-      "r": 199,
-      "g": 176,
-      "b": 218
-    },
-    "layoutRating": -3,
-    "class": 1
-  },
-  {
-    "propertyName": "Playful",
-    "name": "Playful",
-    "color": {
-      "r": 163,
-      "g": 255,
-      "b": 80
-    },
-    "layoutRating": -2.5,
-    "class": 1
-  },
-  {
-    "propertyName": "Magnificent",
-    "name": "Magnificent",
-    "color": {
-      "r": 145,
-      "g": 206,
-      "b": 255
-    },
-    "layoutRating": -2,
-    "class": 1
-  },
-  {
-    "propertyName": "Facile",
-    "name": "Facile",
-    "color": {
-      "r": 87,
-      "g": 215,
-      "b": 254
-    },
-    "layoutRating": -1.5,
-    "class": 1
-  },
-  {
-    "propertyName": "Effortlessless",
-    "name": "Effortlessless",
-    "color": {
-      "r": 153,
-      "g": 217,
-      "b": 234
-    },
-    "layoutRating": -1,
-    "class": 1
-  },
-  {
-    "propertyName": "Gravel",
-    "name": "Gravel",
-    "color": {
-      "r": 154,
-      "g": 246,
-      "b": 209
-    },
-    "layoutRating": -0.5,
-    "class": 1
-  },
-  {
-    "propertyName": "Effortless",
-    "name": "Effortless",
-    "color": {
-      "r": 0,
-      "g": 206,
-      "b": 0
-    },
-    "layoutRating": 0,
-    "class": 2
-  },
-  {
-    "propertyName": "Playground",
-    "name": "Playground",
-    "color": {
-      "r": 0,
-      "g": 206,
-      "b": 100
-    },
-    "layoutRating": 0.33,
-    "class": 2
-  },
-  {
-    "propertyName": "Simple",
-    "name": "Simple",
-    "color": {
-      "r": 76,
-      "g": 176,
-      "b": 81
-    },
-    "layoutRating": 0.66,
-    "class": 2
-  },
-  {
-    "propertyName": "Easy",
-    "name": "Easy",
-    "color": {
-      "r": 118,
-      "g": 244,
-      "b": 71
-    },
-    "layoutRating": 1,
-    "class": 2
-  }
+	{
+		"propertyName": "Bonuses",
+		"name": "Bonuses",
+		"color": {
+			"r": 255,
+			"g": 252,
+			"b": 89
+		},
+		"layoutRating": -10000014,
+		"class": -3
+	},
+	{
+		"propertyName": "Excavation",
+		"name": "Materials",
+		"color": {
+			"r": 110,
+			"g": 166,
+			"b": 255
+		},
+		"layoutRating": -10000013,
+		"class": -3
+	},
+	{
+		"propertyName": "Miscellaneous",
+		"name": "Miscellaneous",
+		"color": {
+			"r": 255,
+			"g": 110,
+			"b": 110
+		},
+		"layoutRating": -10000012,
+		"class": -3
+	},
+	{
+		"propertyName": "TheFirstDifficulty",
+		"name": "The First Difficulty",
+		"color": {
+			"r": 0,
+			"g": 0,
+			"b": 0
+		},
+		"layoutRating": -10000010,
+		"class": -2
+	},
+	{
+		"propertyName": "TheLowerGap",
+		"name": "The Lower Gap",
+		"color": {
+			"r": 0,
+			"g": 79,
+			"b": 0
+		},
+		"layoutRating": -10000009,
+		"class": -2
+	},
+	{
+		"propertyName": "Negativity",
+		"name": "Negativity",
+		"color": {
+			"r": 146,
+			"g": 36,
+			"b": 143
+		},
+		"layoutRating": -10000008,
+		"visualRating": "-(FOOT^10(10^100))",
+		"class": -2
+	},
+	{
+		"propertyName": "Unimpossible",
+		"name": "Unimpossible",
+		"color": {
+			"r": 192,
+			"g": 0,
+			"b": 255
+		},
+		"layoutRating": -10000007,
+		"visualRating": "-Rayo(10^100)",
+		"class": -2
+	},
+	{
+		"propertyName": "Friendliness",
+		"name": "Friendliness",
+		"color": {
+			"r": 130,
+			"g": 253,
+			"b": 0
+		},
+		"layoutRating": -10000006,
+		"visualRating": "-TREE(3)",
+		"class": -2
+	},
+	{
+		"propertyName": "TrueEase",
+		"name": "True Ease",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255
+		},
+		"layoutRating": -10000005,
+		"visualRating": "-G64",
+		"class": -1
+	},
+	{
+		"propertyName": "A",
+		"name": "A",
+		"color": {
+			"r": 235,
+			"g": 26,
+			"b": 36
+		},
+		"layoutRating": -10000004,
+		"visualRating": "-10^(10^(10^1,000,000))",
+		"class": -1
+	},
+	{
+		"propertyName": "FelixTheDA",
+		"name": "Felix the ДА",
+		"color": {
+			"r": 77,
+			"g": 255,
+			"b": 0
+		},
+		"layoutRating": -10000003,
+		"visualRating": "-10^1Qd",
+		"class": -1
+	},
+	{
+		"propertyName": "Exist",
+		"name": "Exist",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255
+		},
+		"layoutRating": -10000002,
+		"visualRating": "-10^100",
+		"class": -1
+	},
+	{
+		"propertyName": "ReversedPeripherality",
+		"name": "Reversed Peripherality",
+		"description": "Reversed Peripherality is a Class Negative, humanly possible difficulty that comes after Exist and before Relax. While some may call it \"easy,\" Reversed Peripherality is so simple that players barely need to be present—it's a haven for those seeking a break from challenge. The difficulty is characterized by its lightheartedness and ease, making it a quick and pleasant experience for anyone who encounters it.",
+		"color": {
+			"r": 127,
+			"g": 95,
+			"b": 140
+		},
+		"layoutRating": -10000001,
+		"class": -1
+	},
+	{
+		"propertyName": "Relax",
+		"name": "Relax",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255
+		},
+		"layoutRating": -1000000,
+		"class": -1
+	},
+	{
+		"propertyName": "Skip",
+		"name": "Skip",
+		"color": {
+			"r": 255,
+			"g": 172,
+			"b": 101
+		},
+		"layoutRating": -1000,
+		"class": -1
+	},
+	{
+		"propertyName": "Restful",
+		"name": "Restful",
+		"color": {
+			"r": 4,
+			"g": 61,
+			"b": 1
+		},
+		"layoutRating": -50,
+		"class": -1
+	},
+	{
+		"propertyName": "Ifinity",
+		"name": "Ifinity",
+		"color": {
+			"r": 35,
+			"g": 7,
+			"b": 51
+		},
+		"layoutRating": -40,
+		"class": -1
+	},
+	{
+		"propertyName": "InstantWin",
+		"name": "Instant Win",
+		"color": {
+			"r": 0,
+			"g": 46,
+			"b": 255
+		},
+		"layoutRating": -31,
+		"class": -1
+	},
+	{
+		"propertyName": "Millisecondless",
+		"name": "Millisecondless",
+		"color": {
+			"r": 244,
+			"g": 112,
+			"b": 254
+		},
+		"layoutRating": -30,
+		"class": 0
+	},
+	{
+		"propertyName": "Astronomical",
+		"name": "Astronomical",
+		"color": {
+			"r": 21,
+			"g": 0,
+			"b": 186
+		},
+		"layoutRating": -29.5,
+		"class": 0
+	},
+	{
+		"propertyName": "Win",
+		"name": "Win",
+		"color": {
+			"r": 39,
+			"g": 119,
+			"b": 232
+		},
+		"layoutRating": -29,
+		"class": 0
+	},
+	{
+		"propertyName": "Winsome",
+		"name": "Winsome",
+		"color": {
+			"r": 106,
+			"g": 205,
+			"b": 255
+		},
+		"layoutRating": -28,
+		"class": 0
+	},
+	{
+		"propertyName": "DoNothing",
+		"name": "Do Nothing",
+		"color": {
+			"r": 153,
+			"g": 209,
+			"b": 229
+		},
+		"layoutRating": -27,
+		"class": 0
+	},
+	{
+		"propertyName": "Sleepful",
+		"name": "Sleepful",
+		"color": {
+			"r": 52,
+			"g": 155,
+			"b": 255
+		},
+		"layoutRating": -26.5,
+		"class": 0
+	},
+	{
+		"propertyName": "Blessing",
+		"name": "Blessing",
+		"color": {
+			"r": 114,
+			"g": 224,
+			"b": 178
+		},
+		"layoutRating": -26,
+		"class": 0
+	},
+	{
+		"propertyName": "Vintage",
+		"name": "Vintage",
+		"color": {
+			"r": 217,
+			"g": 120,
+			"b": 255
+		},
+		"layoutRating": -25,
+		"class": 0
+	},
+	{
+		"propertyName": "Ifinitude",
+		"name": "Ifinitude",
+		"color": {
+			"r": 43,
+			"g": 43,
+			"b": 43
+		},
+		"layoutRating": -24.5,
+		"class": 0
+	},
+	{
+		"propertyName": "JustAir",
+		"name": "Just Air",
+		"color": {
+			"r": 64,
+			"g": 115,
+			"b": 255
+		},
+		"layoutRating": -24,
+		"class": 0
+	},
+	{
+		"propertyName": "Happylike",
+		"name": "Happylike",
+		"color": {
+			"r": 59,
+			"g": 59,
+			"b": 59
+		},
+		"layoutRating": -23,
+		"class": 0
+	},
+	{
+		"propertyName": "Locomotion",
+		"name": "Locomotion",
+		"color": {
+			"r": 255,
+			"g": 97,
+			"b": 97
+		},
+		"layoutRating": -22,
+		"class": 0
+	},
+	{
+		"propertyName": "Walkthrough",
+		"name": "Walkthrough",
+		"color": {
+			"r": 107,
+			"g": 196,
+			"b": 255
+		},
+		"layoutRating": -21,
+		"class": 0
+	},
+	{
+		"propertyName": "AutomaticJoyful",
+		"name": "Automatic Joyful",
+		"color": {
+			"r": 171,
+			"g": 255,
+			"b": 77
+		},
+		"layoutRating": -20,
+		"class": 0
+	},
+	{
+		"propertyName": "Unlosable",
+		"name": "Unlosable",
+		"color": {
+			"r": 255,
+			"g": 143,
+			"b": 255
+		},
+		"layoutRating": -19,
+		"class": 0
+	},
+	{
+		"propertyName": "ShatteredBabass",
+		"name": "Shattered Babass",
+		"color": {
+			"r": 147,
+			"g": 27,
+			"b": 220
+		},
+		"layoutRating": -18.5,
+		"class": 0
+	},
+	{
+		"propertyName": "Frivolous",
+		"name": "Frivolous",
+		"color": {
+			"r": 107,
+			"g": 196,
+			"b": 219
+		},
+		"layoutRating": -18,
+		"class": 0
+	},
+	{
+		"propertyName": "Vibeness",
+		"name": "Vibeness",
+		"color": {
+			"r": 255,
+			"g": 69,
+			"b": 156
+		},
+		"layoutRating": -17.5,
+		"class": 0
+	},
+	{
+		"propertyName": "Automatic",
+		"name": "Automatic",
+		"color": {
+			"r": 214,
+			"g": 255,
+			"b": 186
+		},
+		"layoutRating": -17,
+		"class": 0
+	},
+	{
+		"propertyName": "Spontaneous",
+		"name": "Spontaneous",
+		"color": {
+			"r": 117,
+			"g": 255,
+			"b": 28
+		},
+		"layoutRating": -16,
+		"class": 0
+	},
+	{
+		"propertyName": "Joyful",
+		"name": "Joyful",
+		"color": {
+			"r": 206,
+			"g": 250,
+			"b": 0
+		},
+		"layoutRating": -15,
+		"class": 1
+	},
+	{
+		"propertyName": "DoSomething",
+		"name": "Do Something",
+		"color": {
+			"r": 0,
+			"g": 153,
+			"b": 255
+		},
+		"layoutRating": -14.5,
+		"class": 1
+	},
+	{
+		"propertyName": "Placid",
+		"name": "Placid",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255
+		},
+		"layoutRating": -14,
+		"class": 1
+	},
+	{
+		"propertyName": "PressAKey",
+		"name": "Press A Key",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255
+		},
+		"layoutRating": -13,
+		"class": 1
+	},
+	{
+		"propertyName": "TapToMove",
+		"name": "Tap to Move",
+		"color": {
+			"r": 41,
+			"g": 41,
+			"b": 41
+		},
+		"layoutRating": -12.66,
+		"class": 1
+	},
+	{
+		"propertyName": "WalkASlope",
+		"name": "Walk A Slope",
+		"color": {
+			"r": 112,
+			"g": 112,
+			"b": 112
+		},
+		"layoutRating": -12.33,
+		"class": 1
+	},
+	{
+		"propertyName": "ClimbATruss",
+		"name": "Climb A Truss",
+		"color": {
+			"r": 134,
+			"g": 133,
+			"b": 133
+		},
+		"layoutRating": -12,
+		"class": 1
+	},
+	{
+		"propertyName": "Tranquil",
+		"name": "Tranquil",
+		"color": {
+			"r": 0,
+			"g": 141,
+			"b": 255
+		},
+		"layoutRating": -11.5,
+		"class": 1
+	},
+	{
+		"propertyName": "Jumpless",
+		"name": "Jumpless",
+		"color": {
+			"r": 201,
+			"g": 192,
+			"b": 231
+		},
+		"layoutRating": -11,
+		"class": 1
+	},
+	{
+		"propertyName": "Starter",
+		"name": "Starter",
+		"color": {
+			"r": 0,
+			"g": 168,
+			"b": 243
+		},
+		"layoutRating": -10,
+		"class": 1
+	},
+	{
+		"propertyName": "Cakewalk",
+		"name": "Cakewalk",
+		"color": {
+			"r": 66,
+			"g": 165,
+			"b": 245
+		},
+		"layoutRating": -9.5,
+		"class": 1
+	},
+	{
+		"propertyName": "Sweet",
+		"name": "Sweet",
+		"color": {
+			"r": 255,
+			"g": 253,
+			"b": 150
+		},
+		"layoutRating": -9,
+		"class": 1
+	},
+	{
+		"propertyName": "Sugary",
+		"name": "Sugary",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 0
+		},
+		"layoutRating": -8.66,
+		"class": 1
+	},
+	{
+		"propertyName": "Aesthetic",
+		"name": "Aesthetic",
+		"color": {
+			"r": 118,
+			"g": 244,
+			"b": 71
+		},
+		"layoutRating": -8.33,
+		"class": 1
+	},
+	{
+		"propertyName": "Lovely",
+		"name": "Lovely",
+		"color": {
+			"r": 221,
+			"g": 251,
+			"b": 221
+		},
+		"layoutRating": -8,
+		"class": 1
+	},
+	{
+		"propertyName": "Glee",
+		"name": "Glee",
+		"color": {
+			"r": 248,
+			"g": 218,
+			"b": 219
+		},
+		"layoutRating": -7.5,
+		"class": 1
+	},
+	{
+		"propertyName": "Flowerness",
+		"name": "Flowerness",
+		"color": {
+			"r": 157,
+			"g": 149,
+			"b": 254
+		},
+		"layoutRating": -7,
+		"class": 1
+	},
+	{
+		"propertyName": "Coasterifying",
+		"name": "Coasterifying",
+		"color": {
+			"r": 0,
+			"g": 115,
+			"b": 255
+		},
+		"layoutRating": -6.66,
+		"class": 1
+	},
+	{
+		"propertyName": "ADifficultyNamedDifficulty",
+		"name": "A Difficulty Named Difficulty",
+		"color": {
+			"r": 247,
+			"g": 51,
+			"b": 83
+		},
+		"layoutRating": -6.33,
+		"class": 1
+	},
+	{
+		"propertyName": "Pleasant",
+		"name": "Pleasant",
+		"color": {
+			"r": 161,
+			"g": 220,
+			"b": 255
+		},
+		"layoutRating": -6,
+		"class": 1
+	},
+	{
+		"propertyName": "PieceOCake",
+		"name": "Piece o' Cake",
+		"color": {
+			"r": 254,
+			"g": 149,
+			"b": 253
+		},
+		"layoutRating": -5.5,
+		"class": 1
+	},
+	{
+		"propertyName": "Tutorial",
+		"name": "Tutorial",
+		"color": {
+			"r": 24,
+			"g": 83,
+			"b": 17
+		},
+		"layoutRating": -5,
+		"class": 1
+	},
+	{
+		"propertyName": "HellishEncore",
+		"name": "Hellish Encore",
+		"color": {
+			"r": 170,
+			"g": 5,
+			"b": 8
+		},
+		"layoutRating": -4.66,
+		"class": 1
+	},
+	{
+		"propertyName": "Delightful",
+		"name": "Delightful",
+		"color": {
+			"r": 236,
+			"g": 218,
+			"b": 140
+		},
+		"layoutRating": -4.33,
+		"class": 1
+	},
+	{
+		"propertyName": "TooEasy",
+		"name": "TooEasy",
+		"color": {
+			"r": 14,
+			"g": 88,
+			"b": 1
+		},
+		"layoutRating": -4,
+		"class": 1
+	},
+	{
+		"propertyName": "Peaceful",
+		"name": "Peaceful",
+		"color": {
+			"r": 199,
+			"g": 176,
+			"b": 218
+		},
+		"layoutRating": -3,
+		"class": 1
+	},
+	{
+		"propertyName": "Playful",
+		"name": "Playful",
+		"color": {
+			"r": 163,
+			"g": 255,
+			"b": 80
+		},
+		"layoutRating": -2.5,
+		"class": 1
+	},
+	{
+		"propertyName": "Magnificent",
+		"name": "Magnificent",
+		"color": {
+			"r": 145,
+			"g": 206,
+			"b": 255
+		},
+		"layoutRating": -2,
+		"class": 1
+	},
+	{
+		"propertyName": "Facile",
+		"name": "Facile",
+		"color": {
+			"r": 87,
+			"g": 215,
+			"b": 254
+		},
+		"layoutRating": -1.5,
+		"class": 1
+	},
+	{
+		"propertyName": "Effortlessless",
+		"name": "Effortlessless",
+		"color": {
+			"r": 153,
+			"g": 217,
+			"b": 234
+		},
+		"layoutRating": -1,
+		"class": 1
+	},
+	{
+		"propertyName": "Gravel",
+		"name": "Gravel",
+		"color": {
+			"r": 154,
+			"g": 246,
+			"b": 209
+		},
+		"layoutRating": -0.5,
+		"class": 1
+	},
+	{
+		"propertyName": "Effortless",
+		"name": "Effortless",
+		"color": {
+			"r": 0,
+			"g": 206,
+			"b": 0
+		},
+		"layoutRating": 0,
+		"class": 2
+	},
+	{
+		"propertyName": "Playground",
+		"name": "Playground",
+		"color": {
+			"r": 0,
+			"g": 206,
+			"b": 100
+		},
+		"layoutRating": 0.33,
+		"class": 2
+	},
+	{
+		"propertyName": "Simple",
+		"name": "Simple",
+		"color": {
+			"r": 76,
+			"g": 176,
+			"b": 81
+		},
+		"layoutRating": 0.66,
+		"class": 2
+	},
+	{
+		"propertyName": "Easy",
+		"name": "Easy",
+		"color": {
+			"r": 118,
+			"g": 244,
+			"b": 71
+		},
+		"layoutRating": 1,
+		"class": 2
+	}
 ]
