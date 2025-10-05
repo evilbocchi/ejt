@@ -10,8 +10,8 @@ const ROOT = path.resolve(__dirname, "..");
 const DIFFICULTIES_PATH = path.join(ROOT, "difficulties/difficulties.json");
 const MARKDOWN_DIR = path.join(ROOT, "difficulties", "markdown");
 const IMAGE_DIR = path.join(ROOT, "difficulties", "image");
-const ASSET_MAP_PATH = path.join(ROOT, "assetMap.ts");
-const OUTPUT_PATH = path.join(ROOT, "src", "generated.ts");
+const ASSET_MAP_PATH = path.join(ROOT, "difficulties", "assetMap.ts");
+const OUTPUT_PATH = path.join(ROOT, "difficulties", "generated.ts");
 
 function loadDifficulties() {
   const raw = fs.readFileSync(DIFFICULTIES_PATH, "utf8");
@@ -22,7 +22,7 @@ function parseAssetMap() {
   const source = fs.readFileSync(ASSET_MAP_PATH, "utf8");
   const match = source.match(/export const assets = (\{[\s\S]*?\}) as const;/);
   if (!match) {
-    throw new Error("Unable to locate assets object in assetMap.ts");
+    throw new Error("Unable to locate assets object in difficulties/assetMap.ts");
   }
 
   return vm.runInNewContext(`(${match[1]})`);

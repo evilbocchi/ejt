@@ -26,7 +26,8 @@
         "declaration": true
     },
     "exclude": [
-        "assetMap.ts",
+        "difficulties/assetMap.ts",
+        "difficulties/generated.ts",
         "out"
     ]
 }

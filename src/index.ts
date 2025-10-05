@@ -1,1052 +1,3592 @@
 //!native
 //!optimize 2
 
-import { GENERATED_DIFFICULTIES, GeneratedDifficultyEntry } from "./generated";
-
 /**
  * Represents a difficulty level in the game.
  * @see [EJT Difficulty Chart](https://jtohs-joke-towers.fandom.com/wiki/Main_Difficulty_Chart)
  */
 class Difficulty {
-    /**
-     * A map of all difficulties by their ID.
-     */
+	/**
+	 * A map of all difficulties by their ID.
+	 */
 	static readonly DIFFICULTIES = new Map<string, Difficulty>();
 
-    /**
-     * The name of the difficulty as shown in-game.
-     */
+	/**
+	 * The name of the difficulty as shown in-game.
+	 */
 	name: string | undefined;
 
-    /**
-     * A description of the difficulty, excerpted from the EJT wiki.
-     * @see [EJT Difficulty Chart](https://jtohs-joke-towers.fandom.com/wiki/Main_Difficulty_Chart)
-     */
+	/**
+	 * A description of the difficulty, excerpted from the EJT wiki.
+	 * @see [EJT Difficulty Chart](https://jtohs-joke-towers.fandom.com/wiki/Main_Difficulty_Chart)
+	 */
 	description: string | undefined;
 
-    /**
-     * The class of the difficulty.
-     */
+	/**
+	 * The class of the difficulty.
+	 */
 	class: number | undefined;
 
-    /**
-     * A visual rating of the difficulty, as shown in-game.
-     */
+	/**
+	 * A visual rating of the difficulty, as shown in-game.
+	 */
 	visualRating: string | undefined;
 
-    /**
-     * A numerical rating of the difficulty, used for sorting purposes.
-     */
+	/**
+	 * A numerical rating of the difficulty, used for sorting purposes.
+	 */
 	layoutRating: number | undefined;
 
-    /**
-     * The color associated with the difficulty.
-     */
+	/**
+	 * The color associated with the difficulty.
+	 */
 	color: Color3 | undefined;
 
-    /**
-     * The image associated with the difficulty.
-     */
+	/**
+	 * The image associated with the difficulty.
+	 */
 	image: string | undefined;
 
-    /**
-     * Creates a Difficulty instance from a generated entry.
-     * @param entry The generated difficulty entry.
-     * @returns The created Difficulty instance.
-     */
-	private static fromGeneratedEntry(entry: GeneratedDifficultyEntry) {
-		return new Difficulty(entry.id)
-			.setName(entry.name)
-			.setDescription(entry.description)
-			.setVisualRating(entry.visualRating)
-			.setLayoutRating(entry.layoutRating)
-			.setClass(entry.class)
-			.setColor(Color3.fromRGB(entry.colorR, entry.colorG, entry.colorB));
-	}
-
-    /**
-     * Retrieves a difficulty by its ID.
-     * @param id The ID of the difficulty.
-     * @returns The Difficulty instance, or undefined if not found.
-     */
+	/**
+	 * Retrieves a difficulty by its ID.
+	 * @param id The ID of the difficulty.
+	 * @returns The Difficulty instance, or undefined if not found.
+	 */
 	static get(id: string) {
 		return Difficulty.DIFFICULTIES.get(id);
 	}
 
-    /**
-     * Creates a new Difficulty instance.
-     * @param id The unique identifier for the difficulty.
-     */
+	/**
+	 * Creates a new Difficulty instance.
+	 * @param id The unique identifier for the difficulty.
+	 */
 	constructor(public readonly id: string) {
 		Difficulty.DIFFICULTIES.set(id, this);
 	}
 
-    /**
-     * Sets the name of the difficulty.
-     * @param name The name to set.
-     * @returns The Difficulty instance (for chaining).
-     */
+	/**
+	 * Sets the name of the difficulty.
+	 * @param name The name to set.
+	 * @returns The Difficulty instance (for chaining).
+	 */
 	setName(name: string) {
 		this.name = name;
 		return this;
 	}
 
-    /**
-     * Sets the description of the difficulty.
-     * @param description The description to set.
-     * @returns The Difficulty instance (for chaining).
-     */
+	/**
+	 * Sets the description of the difficulty.
+	 * @param description The description to set.
+	 * @returns The Difficulty instance (for chaining).
+	 */
 	setDescription(description: string) {
 		this.description = description;
 		return this;
 	}
 
-    /**
-     * Sets the class of the difficulty.
-     * @param difficultyClass The class to set.
-     * @returns The Difficulty instance (for chaining).
-     */
+	/**
+	 * Sets the class of the difficulty.
+	 * @param difficultyClass The class to set.
+	 * @returns The Difficulty instance (for chaining).
+	 */
 	setClass(difficultyClass: number) {
 		this.class = difficultyClass;
 		return this;
 	}
 
-    /**
-     * Sets the visual rating of the difficulty.
-     * @param visualRating The visual rating to set.
-     * @returns The Difficulty instance (for chaining).
-     */
+	/**
+	 * Sets the visual rating of the difficulty.
+	 * @param visualRating The visual rating to set.
+	 * @returns The Difficulty instance (for chaining).
+	 */
 	setVisualRating(visualRating: string) {
 		this.visualRating = visualRating;
 		return this;
 	}
 
-    /**
-     * Sets the layout rating of the difficulty.
-     * @param layoutRating The layout rating to set.
-     * @returns The Difficulty instance (for chaining).
-     */
+	/**
+	 * Sets the layout rating of the difficulty.
+	 * @param layoutRating The layout rating to set.
+	 * @returns The Difficulty instance (for chaining).
+	 */
 	setLayoutRating(layoutRating: number) {
 		this.layoutRating = layoutRating;
 		return this;
 	}
 
-    /**
-     * Sets the color of the difficulty.
-     * @param color The color to set.
-     * @returns The Difficulty instance (for chaining).
-     */
+	/**
+	 * Sets the color of the difficulty.
+	 * @param color The color to set.
+	 * @returns The Difficulty instance (for chaining).
+	 */
 	setColor(color: Color3) {
 		this.color = color;
 		return this;
 	}
 
-    /**
-     * Sets the image of the difficulty.
-     * @param image The image to set.
-     * @returns The Difficulty instance (for chaining).
-     */
+	/**
+	 * Sets the image of the difficulty.
+	 * @param image The image to set.
+	 * @returns The Difficulty instance (for chaining).
+	 */
 	setImage(image: string) {
 		this.image = image;
 		return this;
 	}
 
 	// <AUTO-GENERATED-STATIC-DIFFICULTIES>
-	static readonly Blank = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Blank);
-
-	static readonly Linguistic = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Linguistic);
-
-	static readonly Randomization = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Randomization);
-
-	static readonly Sketchy = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Sketchy);
-
-	static readonly Spectrumplex = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Spectrumplex);
-
-	static readonly Reflective = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Reflective);
-
-	static readonly Construct = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Construct);
-
-	static readonly Puzzling = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Puzzling);
-
-	static readonly Walking = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Walking);
-
-	static readonly Factorial = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Factorial);
-
-	static readonly Zemblanity = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Zemblanity);
-
-	static readonly Difficulty16 = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Difficulty16);
-
-	static readonly PUMPKINDEATH = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.PUMPKINDEATH);
-
-	static readonly LunaticHalloweenDifficulty = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.LunaticHalloweenDifficulty);
-
-	static readonly Gingerbread = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Gingerbread);
-
-	static readonly EpicEToH = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.EpicEToH);
-
-	static readonly korn = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.korn);
-
-	static readonly OooOOOoOOOOoooabovecatastrophicdifficultyOoOOooOOoo = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.OooOOOoOOOOoooabovecatastrophicdifficultyOoOOooOOoo);
-
-	static readonly Sisyphus = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Sisyphus);
-
-	static readonly Epinephrine = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Epinephrine);
-
-	static readonly OVERKILL = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.OVERKILL);
-
-	static readonly MSDSpeedy = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.MSDSpeedy);
-
-	static readonly guiremorseless = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.guiremorseless);
-
-	static readonly Eschaton = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Eschaton);
-
-	static readonly DivineEToH = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DivineEToH);
-
-	static readonly guinil = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.guinil);
-
-	static readonly AntiBoby = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.AntiBoby);
-
-	static readonly TheFirstDifficulty = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TheFirstDifficulty)
-		.setName("The First Difficulty")
-		.setLayoutRating(-10000010)
+	static readonly Blank = new Difficulty("Blank")
+		.setName("Blank")
+		.setDescription(
+			'Blank is an unclassified difficulty that represents the concept of nothingness. The page describes it as a void—an undefined, unexplainable state where nothing exists and nothing can be understood. There are no real obstacles, no challenges, and no clear reason for being here. Blank is the epitome of confusion and mayhem, and the only advice is to "wake up and escape this reality." It is a conceptual trap rather than a true difficulty, existing outside the bounds of normal gameplay.',
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
 		.setClass(-2)
 		.setColor(Color3.fromRGB(0, 0, 0));
 
-	static readonly TheLowerGap = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TheLowerGap)
+	static readonly Linguistic = new Difficulty("Linguistic")
+		.setName("Linguistic")
+		.setDescription(
+			"Linguistic is an unclassified, intelligence-based difficulty defined by its overwhelming wall of text and complex logic. It is not skill-based, but rather tests the reader's ability to comprehend and process multifaceted phrases and ideas. The difficulty is theoretically impossible to beat, as it requires intelligence far beyond human capability.\n\nLinguistic is not meant to be recreated in Roblox Studio, and its classification depends on the reader's intelligence. It exists as a unique, essay-like challenge that stands apart from traditional, skill-based difficulties.",
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Randomization = new Difficulty("Randomization")
+		.setName("Randomization")
+		.setDescription(
+			'Randomization is an unclassified "difficulty" that functions more as a mode or challenge due to its entirely randomized nature. Each attempt at a tower with this difficulty results in a different experience, as the difficulty level changes every time you die. The challenge is unpredictable, and success relies heavily on luck. Randomization is for those seeking a unique and variable challenge, where the only constant is change.',
+		)
+		.setVisualRating("-∞ to ∞")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Sketchy = new Difficulty("Sketchy")
+		.setName("Sketchy")
+		.setDescription(
+			"Sketchy is an unclassified, unofficial difficulty with no determinable posterior or anterior difficulties, due to its unclassified nature. The difficulty ranges from The First Difficulty to Babass dficuklty, making it the unclassified difficulty with the greatest range. In this difficulty, you possess a sketchbook that has the power to make almost anything come to life. The difficulty is what you want it to be; it can be instantaneous or painfully hard.",
+		)
+		.setVisualRating("-∞ to ∞")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Spectrumplex = new Difficulty("Spectrumplex")
+		.setName("Spectrumplex")
+		.setDescription(
+			"Spectrumplex is an unclassified difficulty which ranges from The First Difficulty to The Final Difficulty, encompassing both the Main Difficulty Chart and Extended Difficulty Chart, and every class from Class Negative to Class 22. The unique aspect of Spectrumplex is that the entirety of the difficulty chart is split into 115 spectrums, and a spectrum is chosen at random. Each spectrum refers to a section of a class, such as Baseline or Peak, and is given a unique name. Spectrumplex was originally a joke difficulty, later revamped and expanded, and is notable for its massive range and inclusion of nearly every possible difficulty.",
+		)
+		.setVisualRating("-∞ to ∞")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Reflective = new Difficulty("Reflective")
+		.setName("Reflective")
+		.setDescription(
+			"Reflective is an unclassified difficulty that ranges from Class Negative to Class 12, depending on the amount of reflectance present in the environment. Originally a sub-difficulty, Reflective has moved through several classifications before becoming unclassified. The challenge is determined by the reflectance value, with higher values corresponding to higher difficulty classes. Reflective is unique in that its difficulty is tied to a specific property of the environment rather than traditional obstacles.",
+		)
+		.setVisualRating("-∞ to 145.99")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Construct = new Difficulty("Construct")
+		.setName("Construct")
+		.setDescription(
+			'Construct is an Unclassified difficulty with a unique mechanic: players can place parts in a tower using the "Blueprint" tool and remove them with the "Hammer." Some areas, called "Barriers," restrict part placement, while "Deadly Barriers" reset the run if entered. The difficulty can range from Class Negative to Class 22, depending on adjustments. Construct introduces creative building mechanics, requiring players to strategize part placement and removal to progress. It is a work in progress, with more features and obstacles planned.',
+		)
+		.setVisualRating("-30 to ∞")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(78, 136, 245))
+		.setImage("rbxassetid://88202319458356");
+
+	static readonly Puzzling = new Difficulty("Puzzling")
+		.setName("Puzzling")
+		.setDescription(
+			'Puzzling is an unclassified difficulty, meaning it has no distinct rating or placement. It uses a "Rank" system to categorize different spectrums of the difficulty, requiring various skills, especially those involving thinking and solving intellectual puzzles. Completing this difficulty involves encountering and solving a variety of puzzles, each with a definitive answer and solution. The difficulty measures one\'s mental intellect, with puzzles ranked from very easy (requiring little to no effort) to extremely challenging, such as The Human Limit, which contains the hardest humanly possible puzzles. The overall range of Puzzling spans from the simplest to the most complex intellectual challenges.',
+		)
+		.setVisualRating("-28 to 15.99")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Walking = new Difficulty("Walking")
+		.setName("Walking")
+		.setDescription(
+			"Walking is an Unclassified difficulty inspired by Randomization and Wait. This difficulty was created to be a take at creating something similar to Press a Key, but with added difficulty decided by chance, with the baseline of this difficulty being a 100-stud walk.",
+		)
+		.setVisualRating("-15 to 60.99")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Factorial = new Difficulty("Factorial")
+		.setName("Factorial")
+		.setDescription(
+			"Factorial is an unclassified difficulty known for its association with extremely long towers and a massive number of floors, reflecting the rapidly increasing value of factorial numbers. Towers with Factorial difficulty are often characterized by their overwhelming length rather than sheer obstacle difficulty. The concept draws inspiration from mathematical factorials, where each increase results in exponential growth. Factorial is unique in the chart for not following the typical naming convention and is considered more of a novelty or joke difficulty due to its impracticality.",
+		)
+		.setVisualRating("1 to 120")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Zemblanity = new Difficulty("Zemblanity")
+		.setName("Zemblanity")
+		.setDescription(
+			'Zemblanity is an unclassified difficulty that serves as a generalized placement for Tower of Bizarre Blitz but its scope could be expanded to encompass additional structures in the future. As is the case with other unclassified difficulties, there are no clear before or upper after, but the current lower bound is Madness, and the upper known limit is Transfinite. But it is possible that in The Questionable Domain Project, the presently unclassified Tower of Bizarre Blitz could attain class 30 status.\n\nIn Kol Metris, Zemblanity can range from around 130 to around 650. The minimum and maximum difficulty ratings for Zemblanity are as low as 9.5 but as high as 48. (Note that this only includes known limits.)\n\nThe word zemblanity can be defined as "unlucky, or unwanted but predictable events", the word is antonymic to serendipity meaning "unplanned fortunate, discoveries". The origin of the word "zemblanity" likely comes from the island Nova Zembla (more commonly, Novaya Zemlya).',
+		)
+		.setVisualRating("9.5 to 248.99")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Difficulty16 = new Difficulty("Difficulty16")
+		.setName("16")
+		.setDescription(
+			"**16** is an unclassified difficulty centered around the number 16. It was originally created in celebration of Vira's birthday on September 10th. Initially made for Vira's 14th birthday, it has been updated each year to reflect Vira's passing birthdays, previously being known as 14 and 15.\n\nThis difficulty frequently features celebrations of Vira and related birthday material. Each year, the difficulty updates to a new number, and for September 10, 2025 to September 10, 2026, it is centered around 16, with a range from Class 6 to Class 16.\n\nWith each passing year, the difficulty becomes progressively harder, reflecting higher classes and more challenging obstacles. For this reason, 16 is considered an unclassified event difficulty, as it is an annual occurrence. As of now, this difficulty has surpassed The Human Limit, making it humanly impossible regardless of its range.",
+		)
+		.setVisualRating("18.5 to 150.99")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly PUMPKINDEATH = new Difficulty("PUMPKINDEATH")
+		.setName("PUMPKINDEATH")
+		.setDescription(
+			"PUMPKINDEATH is an event difficulty in Class 30, making it one of the hardest collaboration difficulties. It is harder than Uncomputable and Effortful, and is themed around Halloween. Every obstacle is loaded with nightmares and impossibilities, using numbers and challenges that defy logic. PUMPKINDEATH is a celebration of the most extreme and spooky challenges.",
+		)
+		.setVisualRating("246 to 249.99")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly LunaticHalloweenDifficulty = new Difficulty("LunaticHalloweenDifficulty")
+		.setName("Lunatic Halloween Difficulty")
+		.setDescription(
+			"Lunatic Halloween Difficulty is an unofficial difficulty placed after Effortful and before Unboundable. This difficulty is so hard, if you were to compare Effortful to this, it would be like comparing The First Difficulty to Effortful.",
+		)
+		.setVisualRating("246.33033")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Gingerbread = new Difficulty("Gingerbread")
+		.setName("Gingerbread")
+		.setDescription(
+			'Gingerbread is a miscellaneous difficulty and serves as the placeholder difficulty of EToH. It is represented by a gingerbread man and uses the color brown for the difficulty chart and win messages. Gingerbread became known as a placeholder for the monthly tower "Tower of Is Steeple Crossing Required?" and originated as an inside joke among staff during the judging of the Garden of Eeshöl submissions, where gingerbread GIFs were posted when a difficulty could not be decided.\n\nDespite its humorous origin, Gingerbread is considered a semi-official difficulty. Towers with the Gingerbread difficulty that are challenging enough may have their wins displayed in the #sc-tower-winners channel of the official EToH Discord server. During the 2022 Winter Event, the Gingerbread Guardians team logo featured a gingerbread man holding the Gingerbread icon.',
+		)
+		.setVisualRating("Unconfirmed Ratings")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly EpicEToH = new Difficulty("EpicEToH")
+		.setName("Epic (EToH)")
+		.setDescription(
+			"Epic is a joke difficulty added in the April Fools 2020 Event. It is represented by the color dockside blue. This difficulty was removed at the end of the event. There were only 3 event towers with this difficulty. Epic has the widest difficulty range out of any difficulty in the game, from just climbing a truss all the way to Floor 10 to having a non-functioning winpad.",
+		)
+		.setVisualRating("-6.75 to 65")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly korn = new Difficulty("korn")
+		.setName("korn")
+		.setDescription(
+			"korn is a custom, joke difficulty used for co-op towers, especially in the Event Realm. It is the only transparent difficulty in EToH, making it unique and often confusing for players who don't check the chart. The name is always lowercase, and the difficulty is not tied to a specific challenge level, allowing for a wide range of tower difficulties.\n\nkorn, nil, and gui remorseless are the only difficulties in EToH without capital letters in their names. It is notable for its use in event and co-op content, and its flexible, undefined nature.",
+		)
+		.setVisualRating("-15 to 15.99")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly OooOOOoOOOOoooabovecatastrophicdifficultyOoOOooOOoo = new Difficulty(
+		"OooOOOoOOOOoooabovecatastrophicdifficultyOoOOooOOoo",
+	)
+		.setName("OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo")
+		.setDescription(
+			"OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo is a joke difficulty added during the April Fools 2021 event, represented by a black square with white text. It was removed after the event but returned in April Fools 2024. This difficulty is likely a parody of fanmade difficulties that are above nil. There is currently one event tower with this difficulty, which is impossible to enter without completing a series of quests.",
+		)
+		.setVisualRating("12 to ∞")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Sisyphus = new Difficulty("Sisyphus")
+		.setName("Sisyphus")
+		.setDescription(
+			"Sisyphean is a joke difficulty released on April Fools 2024. This difficulty is represented by a black screen and a yellow cat whose face is shining—a catified version of Sisyphus Prime from Ultrakill. There is only one tower in-game of this difficulty, called Wait of The World.",
+		)
+		.setVisualRating("-∞ to 30.99")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Epinephrine = new Difficulty("Epinephrine")
+		.setName("Epinephrine")
+		.setDescription(
+			"Epinephrine is a joke difficulty which was released alongside The Stronghold. There is only one tower in this difficulty, that being Nil's Ultimate Fate. This difficulty has previously been used in a few Event Realm events like reverse bridge. It is a reference to Epinephrine from REx:Reincarnated.",
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly OVERKILL = new Difficulty("OVERKILL")
+		.setName("OVERKILL")
+		.setDescription(
+			"OVERKILL is a joke difficulty released alongside The Stronghold. While there are currently no towers of this difficulty, there was once a temporary tower in The Stronghold. The difficulty is known for its humorous and event-based nature.",
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly MSDSpeedy = new Difficulty("MSDSpeedy")
+		.setName("MSD Speedy")
+		.setDescription(
+			"MSD Speedy is a joke difficulty released alongside The Stronghold. There are currently no towers of this difficulty, but there used to be a temporary tower in The Stronghold. It is not meant to be taken seriously and serves as a humorous entry in the difficulty chart.",
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly guiremorseless = new Difficulty("guiremorseless")
+		.setName("gui remorseless")
+		.setDescription(
+			"gui remorseless is a joke difficulty released alongside The Stronghold. It features only one tower: Evidently Not a Tower. This difficulty is notable for its unique naming style (all lowercase) and its playful, event-based nature. It is not part of the main difficulty progression and is recognized for its humorous and limited role.",
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Eschaton = new Difficulty("Eschaton")
+		.setName("Eschaton")
+		.setDescription(
+			"Eschaton is a joke difficulty initially added during an Event Realm event, then later used as a difficulty in the April Fools 2025 event. Currently, there are only two towers in-game assigned to this difficulty: Tower of Eve Is Ent and Huvin ja Hauskanpidon Torni. Although it is placed above Unreal on the difficulty chart, Eschaton is not considered Soul Crushing.",
+		)
+		.setVisualRating("-30 to ∞")
+		.setLayoutRating(-math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly DivineEToH = new Difficulty("DivineEToH")
+		.setName("Divine (EToH)")
+		.setDescription(
+			"Divine was a temporary joke difficulty in The Stronghold. There is currently one tower of this difficulty, the Box of Improbability Attainment. Divine stands out as a unique and rare entry, notable for its brief existence and singular challenge.",
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly guinil = new Difficulty("guinil")
+		.setName("gui nil")
+		.setDescription(
+			"gui nil is a joke difficulty that was only released on one server in The Stronghold, which has since shut down. There is only one tower in this difficulty: Mini Citadel of gui1808s Final Wrath. As a joke difficulty, gui nil is not part of the main progression and is known for its limited and humorous presence.",
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly AntiBoby = new Difficulty("AntiBoby")
+		.setName("Anti Boby")
+		.setDescription(
+			"Anti Boby is a joke difficulty which was released alongside Might as Well Be a Tower. There is only one tower in this difficulty, that being the aforementioned tower.",
+		)
+		.setVisualRating("Anonymous Placement")
+		.setLayoutRating(math.huge)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly TheFirstDifficulty = new Difficulty("TheFirstDifficulty")
+		.setName("The First Difficulty")
+		.setDescription(
+			"The First Difficulty is the absolute beginning of your journey and the easiest of all difficulties. It is even below The Lower Gap and anything in between. This difficulty is the exact opposite of The Final Difficulty. Instead of being infinitely unbeatable, it is infinitely unlosable, no matter what kind of logic is applied.\n\nThere is no exception to winning. Even if you don't exist, or have infinite power, you will always win this difficulty. It is impossible to build, even with unlimited scripting capabilities. Losing this difficulty is as hard as beating The Final Difficulty, and beating The Final Difficulty is as hard as losing this one. You just can't lose.",
+		)
+		.setVisualRating("-∞")
+		.setLayoutRating(-10000010)
+		.setClass(-2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://119481633286272");
+
+	static readonly TheLowerGap = new Difficulty("TheLowerGap")
 		.setName("The Lower Gap")
+		.setDescription(
+			'The Lower Gap is a Class Negative difficulty that represents the gap between The First Difficulty and The Middleline. Despite being Class Negative, The Lower Gap can reach up to Peak Class 10, as it encompasses all difficulties from The First Difficulty to The Middleline.\n\nIt is represented by a slightly dark green background with the word "WIN" and a lighter green gradient. The Lower Gap is everything from The First Difficulty to The Middleline, and is considered the primordial gap at the start of the difficulty spectrum.',
+		)
+		.setVisualRating("-∞ to 115")
 		.setLayoutRating(-10000009)
 		.setClass(-2)
-		.setColor(Color3.fromRGB(0, 79, 0));
+		.setColor(Color3.fromRGB(0, 79, 0))
+		.setImage("rbxassetid://92286283180613");
 
-	static readonly Negativity = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Negativity)
+	static readonly Negativity = new Difficulty("Negativity")
 		.setName("Negativity")
+		.setDescription(
+			"Negativity is the third difficulty on the Main Difficulty Chart, situated within Baseline Class Negative. It is considered unlosable and inconceivably easy, to the point where its easiness cannot be properly described. Negativity is the antipode of Penultimate and is so extreme that it cannot be compared to other difficulties.\n\nThis difficulty is often skipped in practice, as it is beyond trivial, and serves as a conceptual extreme on the chart.",
+		)
+		.setVisualRating("-(FOOT10(10100))")
 		.setLayoutRating(-10000008)
 		.setClass(-2)
-		.setColor(Color3.fromRGB(146, 36, 143));
+		.setColor(Color3.fromRGB(146, 36, 143))
+		.setImage("rbxassetid://74556678334594");
 
-	static readonly Unimpossible = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Unimpossible)
+	static readonly Unimpossible = new Difficulty("Unimpossible")
 		.setName("Unimpossible")
+		.setDescription(
+			"Unimpossible is the fourth difficulty of the entire Difficulty Chart, and is therefore a Class Negative difficulty. As its name suggests, this is the complete opposite of impossibility, and is transmaximally easy. You are always completing this difficulty, as with every beyond existence difficulty.\n\nIt's the complete antipode of Undefinable, it also succeeds Negativity, yet precedes Friendliness. It also contains two sub-difficulties: Almost Unimpossible and Unpossible, even though both of them are now CDC exclusive.",
+		)
+		.setVisualRating("-Rayo(10100)")
 		.setLayoutRating(-10000007)
 		.setClass(-2)
-		.setColor(Color3.fromRGB(192, 0, 255));
+		.setColor(Color3.fromRGB(192, 0, 255))
+		.setImage("rbxassetid://70838305068960");
 
-	static readonly Friendliness = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Friendliness)
+	static readonly Friendliness = new Difficulty("Friendliness")
 		.setName("Friendliness")
+		.setDescription(
+			"Friendliness is a Class Negative, unloseable difficulty with an estimated rating of -TREE(3). It is one of the first difficulties encountered in the chart and is defined by its impossibility to fail—players have already beaten it an infinite number of times. Friendliness is positioned between Unimpossible and True Ease, and is notable for its collaborative creation and revival. The difficulty is unbuildable, as there are no true obstacles, and its main feature is the guarantee of success for anyone who attempts it.",
+		)
+		.setVisualRating("-TREE(3)")
 		.setLayoutRating(-10000006)
 		.setClass(-2)
-		.setColor(Color3.fromRGB(130, 253, 0));
+		.setColor(Color3.fromRGB(130, 253, 0))
+		.setImage("rbxassetid://97856941704383");
 
-	static readonly TrueEase = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TrueEase)
+	static readonly TrueEase = new Difficulty("TrueEase")
 		.setName("True Ease")
+		.setDescription(
+			"True Ease is a Class Negative difficulty, considered the complete opposite of ABSOLUTE INFINITY. It is one of the easiest difficulties ever conceived—if anything exists in any universe, omniverse, or dimension, everything wins. Even if nothing exists, everything wins. No matter the state of existence, victory is guaranteed. Any tower of this difficulty is unbuildable, and the concept is purely fictional.",
+		)
+		.setVisualRating("-G64")
 		.setLayoutRating(-10000005)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(255, 255, 255));
+		.setColor(Color3.fromRGB(255, 255, 255))
+		.setImage("rbxassetid://87213384143389");
 
-	static readonly A = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.A)
+	static readonly A = new Difficulty("A")
 		.setName("A")
+		.setDescription(
+			"A is a Mid Class Negative difficulty, situated between True Ease and Felix the ДА. This difficulty is so easy that you don't even need to exist to beat it—you have already beaten it in every timeline. It is the absolute opposite of DEADLY TUBULAR DEATH, meaning you cannot lose in any possible way.\n\nThe only way to fail is by making the catches abide by your own rules, but otherwise, you can simply skip the difficulty or use teleporters to finish instantly. Building or scripting a floor for this difficulty is not possible, so it is often skipped or trivialized.",
+		)
+		.setVisualRating("-1010101,000,000")
 		.setLayoutRating(-10000004)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(235, 26, 36));
+		.setColor(Color3.fromRGB(235, 26, 36))
+		.setImage("rbxassetid://97234740567989");
 
-	static readonly FelixtheDA = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.FelixtheDA);
+	static readonly FelixtheDA = new Difficulty("FelixtheDA")
+		.setName("Felix the ДА")
+		.setDescription(
+			'Felix the ДА is a Class Negative, unloseable difficulty that exists between A and Exist. The name references the Russian word for "Yes" (ДА), and the difficulty is designed to be impossible to lose—players have already beaten it an infinite number of times simply by existing. Felix the ДА is a joke difficulty, notable for its simplicity and the fact that it cannot be failed under any circumstances. It is the opposite of Felix the нет and is recognized for its lighthearted, whimsical nature.',
+		)
+		.setVisualRating("-101Qd")
+		.setLayoutRating(-math.huge)
+		.setClass(-1)
+		.setColor(Color3.fromRGB(103, 160, 80))
+		.setImage("rbxassetid://138995446083267");
 
-	static readonly Exist = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Exist)
+	static readonly Exist = new Difficulty("Exist")
 		.setName("Exist")
+		.setDescription(
+			"Exist is a difficulty so incredibly easy that before you even turned on your computer, you already won! This difficulty is more of a joke than Win because you don't even need to join a game to win. Just exist for a fraction of a second and you have already succeeded. Exist is the first difficulty that requires you to exist in order to win.",
+		)
+		.setVisualRating("-10100")
 		.setLayoutRating(-10000002)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(255, 255, 255));
+		.setColor(Color3.fromRGB(255, 255, 255))
+		.setImage("rbxassetid://91948206088224");
 
-	static readonly Disco = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Disco);
+	static readonly Disco = new Difficulty("Disco")
+		.setName("Disco")
+		.setDescription(
+			'Disco is a Class Negative, humanly possible difficulty that comes after Exist and before Relax. While some may call it "easy," Disco is so simple that players barely need to be present—it\'s a haven for those seeking a break from challenge. The difficulty is characterized by its lightheartedness and ease, making it a quick and pleasant experience for anyone who encounters it.',
+		)
+		.setVisualRating("-1010")
+		.setLayoutRating(-math.huge)
+		.setClass(-1)
+		.setColor(Color3.fromRGB(166, 178, 173))
+		.setImage("rbxassetid://73837490484621");
 
-	static readonly Relax = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Relax)
+	static readonly Relax = new Difficulty("Relax")
 		.setName("Relax")
+		.setDescription(
+			"Relax is a Class Negative difficulty, positioned as one of the easiest challenges. It follows Disco and precedes Skip, both of which are also extremely easy. To complete Relax, players simply need to join a tower and press the join button—success is guaranteed. The difficulty is designed to be unfailable, making it accessible to all players regardless of skill or experience.",
+		)
+		.setVisualRating("-1,000,000")
 		.setLayoutRating(-1000000)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(255, 255, 255));
+		.setColor(Color3.fromRGB(255, 255, 255))
+		.setImage("rbxassetid://119792969266351");
 
-	static readonly Skip = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Skip)
+	static readonly Skip = new Difficulty("Skip")
 		.setName("Skip")
+		.setDescription(
+			"Skip is a High Class Negative difficulty that functions almost the same as Instant Win but way quicker. Sometimes, since it's so fast, it may even lag your game or kick you out; you already skipped this difficulty. This difficulty is absurdly easy, as it simply revolves around entering the portal and winning. Sometimes, you don't even need to enter the portal to win, since it's that easy.",
+		)
+		.setVisualRating("-1,000")
 		.setLayoutRating(-1000)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(255, 172, 101));
+		.setColor(Color3.fromRGB(255, 172, 101))
+		.setImage("rbxassetid://130690003103088");
 
-	static readonly Restful = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Restful)
+	static readonly Restful = new Difficulty("Restful")
 		.setName("Restful")
+		.setDescription(
+			"Restful is a Class Negative difficulty located in the high spectrum of the class, between Skip and Ifinity. It is an instant, unfailable difficulty—so easy that even the worst players cannot lose. Completing Restful requires no movement or effort; simply joining the game is enough to win. The only way to fail is through technical issues like broken teleporters or disconnections. Restful is designed as a relaxing, automatic experience, serving as a gentle introduction to the difficulty chart.",
+		)
+		.setVisualRating("-50")
 		.setLayoutRating(-50)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(4, 61, 1));
+		.setColor(Color3.fromRGB(4, 61, 1))
+		.setImage("rbxassetid://118679987658112");
 
-	static readonly Ifinity = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Ifinity)
+	static readonly Ifinity = new Difficulty("Ifinity")
 		.setName("Ifinity")
+		.setDescription(
+			"Ifinity is a Peak Class Negative difficulty, existing just before Instant Win and after Restful. It is considered the first revived Class Negative difficulty and is notable for being virtually impossible to lose—success is all but guaranteed. Ifinity is a playful take on the concept of difficulty, as it sits at the very bottom of the chart and requires no real challenge to complete. It is a unique entry that marks the transition to the official start of the chart.",
+		)
+		.setVisualRating("-40")
 		.setLayoutRating(-40)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(35, 7, 51));
+		.setColor(Color3.fromRGB(35, 7, 51))
+		.setImage("rbxassetid://100428774635272");
 
-	static readonly InstantWin = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.InstantWin)
+	static readonly InstantWin = new Difficulty("InstantWin")
 		.setName("Instant Win")
+		.setDescription(
+			'Instant Win is the finale of Class Negative. The concept is that the difficulty is so trivial that it results in an instant completion with zero effort. Obstacles are essentially non-existent—completing this difficulty is as simple as waiting a fraction of a second.\n\nThe icon is a flat blue background with a sleepy "-_-" white emoticon in the center. Instant Win is famous for being the first class finale and is one of the most well-known difficulties in JJT. After completing Instant Win, players are encouraged to move on to Millisecondless or something harder.',
+		)
+		.setVisualRating("-31")
 		.setLayoutRating(-31)
 		.setClass(-1)
-		.setColor(Color3.fromRGB(0, 46, 255));
+		.setColor(Color3.fromRGB(0, 46, 255))
+		.setImage("rbxassetid://99692070590464");
 
-	static readonly Millisecondless = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Millisecondless)
+	static readonly Millisecondless = new Difficulty("Millisecondless")
 		.setName("Millisecondless")
+		.setDescription(
+			"Millisecondless is a Baseline Class 0 difficulty with a rating of -30, placed after Instant Win and before Win. It is humanly possible, meaning anyone could potentially beat it, but it is essentially unlosable—the only way to fail is by disconnecting or encountering a bug. Towers of this difficulty are typically completed within milliseconds of entering, often by simply spawning on the winpad.",
+		)
+		.setVisualRating("-30")
 		.setLayoutRating(-30)
 		.setClass(0)
-		.setColor(Color3.fromRGB(244, 112, 254));
+		.setColor(Color3.fromRGB(244, 112, 254))
+		.setImage("rbxassetid://72160367262785");
 
-	static readonly Astronomical = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Astronomical)
+	static readonly Astronomical = new Difficulty("Astronomical")
 		.setName("Astronomical")
+		.setDescription(
+			"Astronomical is a baseline Class 0 Sub-Difficulty of Millisecondless. This is between Millisecondless and Win with a difficulty rating of -85 and a Kol Metric of ~|0|.\n\nRight off the bat this is buildable and humanly possible! This is the second to last instant win difficulty in the entire chart, so after this is just waiting, jumping, ladder, flicks, conveyors, and more.\n\nThe only way you can actually lose is if the teleporter is broken or anything is displayed of Restful and more.",
+		)
+		.setVisualRating("-29.5")
 		.setLayoutRating(-29.5)
 		.setClass(0)
-		.setColor(Color3.fromRGB(21, 0, 186));
+		.setColor(Color3.fromRGB(21, 0, 186))
+		.setImage("rbxassetid://128080766956918");
 
-	static readonly Win = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Win)
+	static readonly Win = new Difficulty("Win")
 		.setName("Win")
+		.setDescription(
+			"Win is the second difficulty (third if you count sub-difficulties) in Class 0. The only thing you can do here is win this difficulty, as the only obstacles are extremely short waiting periods. There is no way to lose. Well, there is, but most of the ways you could do so are highly improbable.\n\nAccording to the obstacles of Astronomical, this is the first difficulty with a full rating to buildable. Millisecondless has waiting periods too brief to be consistently replicated within Studio, and so it is unbuildable. This means that you end up with a lot of inaccurate Instant Win structures, as many of them are using winpads. Winpads have teleportation delays upwards of 500 milliseconds, which means that they are \"too hard\" to be classified as IW. Combine this with short falls (1-3 studs), and you end up with towers like ToQG technically being Astronomical or even Win.\n\nIn short, Win is the first difficulty you'll most likely actually play if you're going through the chart. You won't be here for long, however, as the difficulty is seconds long and basically unfailable.",
+		)
+		.setVisualRating("-29")
 		.setLayoutRating(-29)
 		.setClass(0)
-		.setColor(Color3.fromRGB(39, 119, 232));
+		.setColor(Color3.fromRGB(39, 119, 232))
+		.setImage("rbxassetid://71483892559000");
 
-	static readonly Winsome = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Winsome)
+	static readonly Winsome = new Difficulty("Winsome")
 		.setName("Winsome")
+		.setDescription(
+			'Winsome is an Unofficial Class 0 difficulty. This specific difficulty lies after Win, yet before Do Nothing. It has a rating of -28, and is the supposed final difficulty in the "Chain of Winning", which isn’t actually an established chain.\n\nDue to its extremely low placement in the Difficulty Chart, Winsome lies near the beginning of human possibility, as the second difficulty of the second class. Anyone, from robloxians with very low IQ, to even possibly some animals (excluding humanity), could quite easily complete such a difficulty as Winsome.\n\nIt is literally automated at this point, and incredibly boring. Some may even wonder why this difficulty exists.',
+		)
+		.setVisualRating("-28")
 		.setLayoutRating(-28)
 		.setClass(0)
-		.setColor(Color3.fromRGB(106, 205, 255));
+		.setColor(Color3.fromRGB(106, 205, 255))
+		.setImage("rbxassetid://84066474109281");
 
-	static readonly DoNothing = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DoNothing)
+	static readonly DoNothing = new Difficulty("DoNothing")
 		.setName("Do Nothing")
+		.setDescription(
+			"Do Nothing is a Class 0 difficulty that comes after Winsome and before Sleepful. As the name suggests, players are required to do absolutely nothing—not even breathe—and still manage to win. The difficulty is extremely quick, and even the slightest distraction could cause a player to miss it. Its simplicity and brevity make it a memorable starting point for new players.",
+		)
+		.setVisualRating("-27")
 		.setLayoutRating(-27)
 		.setClass(0)
-		.setColor(Color3.fromRGB(153, 209, 229));
+		.setColor(Color3.fromRGB(153, 209, 229))
+		.setImage("rbxassetid://75907020614187");
 
-	static readonly Sleepful = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Sleepful)
+	static readonly Sleepful = new Difficulty("Sleepful")
 		.setName("Sleepful")
+		.setDescription(
+			"Sleepful is a Class 0 sub-difficulty that falls between Do Nothing and Blessing. This challenge is based on the concept of Restful, emphasizing the importance of getting a good night's sleep. What makes Sleepful appealing is its extreme simplicity and automation. The difficulty rating is an astonishing -26.5. It doesn't require any special techniques, macros, or other external aids to complete. It is highly likely that you will automatically conquer this task simply by falling asleep.",
+		)
+		.setVisualRating("-26.5")
 		.setLayoutRating(-26.5)
 		.setClass(0)
-		.setColor(Color3.fromRGB(52, 155, 255));
+		.setColor(Color3.fromRGB(52, 155, 255))
+		.setImage("rbxassetid://70884875682827");
 
-	static readonly Blessing = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Blessing)
+	static readonly Blessing = new Difficulty("Blessing")
 		.setName("Blessing")
+		.setDescription(
+			"Blessing is a Class 0 difficulty where the main focus is on having fun and enjoying an easy experience. It sits between Do Nothing and Vintage in the chart. The obstacles in Blessing are painless and include things like elevators, conveyors, and jump pads. The difficulty is longer and slightly harder than Do Nothing, but still very easy overall. Blessing is designed to be a pleasant, stress-free introduction to the game, perfect for new players or those looking for a relaxing time.",
+		)
+		.setVisualRating("-26")
 		.setLayoutRating(-26)
 		.setClass(0)
-		.setColor(Color3.fromRGB(114, 224, 178));
+		.setColor(Color3.fromRGB(114, 224, 178))
+		.setImage("rbxassetid://91822999132085");
 
-	static readonly Vintage = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Vintage)
+	static readonly Vintage = new Difficulty("Vintage")
 		.setName("Vintage")
+		.setDescription(
+			"Vintage is a Class 0 difficulty that is before Just Air (Ifinitude if we're talking about sub-difficulties) but after Blessing. This difficulty also has a sub-difficulty named Ifinitude. This difficulty is also super easy, you don’t even need any skill to beat it due to how easy it is. This difficulty is also in Class 0's upper bound, so it is a little harder than difficulties in the lower bound.\n\nThis difficulty is also from the JJT's Insane Difficulties wiki, and it was also originally Class -1 in that wiki. This difficulty's rating is also -25.",
+		)
+		.setVisualRating("-25")
 		.setLayoutRating(-25)
 		.setClass(0)
-		.setColor(Color3.fromRGB(217, 120, 255));
+		.setColor(Color3.fromRGB(217, 120, 255))
+		.setImage("rbxassetid://139756150032714");
 
-	static readonly Ifinitude = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Ifinitude)
+	static readonly Ifinitude = new Difficulty("Ifinitude")
 		.setName("Ifinitude")
+		.setDescription(
+			"Ifinitude is a Class 0 sub-difficulty that serves as a remembrance of the old Ifinite chain from Class Negative. It lies between Vintage and Just Air, and is characterized by its extreme ease—players do not need to do anything to complete it. The difficulty is more of a historical nod than a challenge, representing a piece of the chart's history that now only exists in the CDC. Completing Ifinitude is trivial, as it requires no effort or input from the player.",
+		)
+		.setVisualRating("-24.5")
 		.setLayoutRating(-24.5)
 		.setClass(0)
-		.setColor(Color3.fromRGB(43, 43, 43));
+		.setColor(Color3.fromRGB(43, 43, 43))
+		.setImage("rbxassetid://104064409008128");
 
-	static readonly JustAir = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.JustAir)
+	static readonly JustAir = new Difficulty("JustAir")
 		.setName("Just Air")
+		.setDescription(
+			"Just Air is a Class 0 difficulty represented by a sky blue background and a white 'H'. The main challenge is simply falling or being elevated onto a winpad, with no real obstacles. It is one of the easiest difficulties, often completed after Win or Do Nothing.\n\nObstacles include falling or elevating various distances onto a winpad, or waiting for a short period. Just Air is designed to be unfailable, making it a perfect introduction for new players before moving on to slightly more complex challenges.",
+		)
+		.setVisualRating("-24")
 		.setLayoutRating(-24)
 		.setClass(0)
-		.setColor(Color3.fromRGB(64, 115, 255));
+		.setColor(Color3.fromRGB(64, 115, 255))
+		.setImage("rbxassetid://110432274329705");
 
-	static readonly Happylike = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Happylike)
+	static readonly Happylike = new Difficulty("Happylike")
 		.setName("Happylike")
+		.setDescription(
+			"Happylike is a Middle Class 0 difficulty that sits between Just Air and Locomotion. It is only slightly harder than Just Air and a bit easier than Locomotion, making it a very easy and accessible difficulty. The obstacles in Happylike are mostly automatic, requiring minimal effort from the player. The difficulty is designed to be completed quickly, often allowing players to win by simply moving forward or even AFKing.\n\nHappylike is characterized by its lighthearted and forgiving nature, making it a good introduction for new players before they move on to slightly more challenging difficulties.",
+		)
+		.setVisualRating("-23")
 		.setLayoutRating(-23)
 		.setClass(0)
-		.setColor(Color3.fromRGB(59, 59, 59));
+		.setColor(Color3.fromRGB(59, 59, 59))
+		.setImage("rbxassetid://127769956083891");
 
-	static readonly Locomotion = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Locomotion)
+	static readonly Locomotion = new Difficulty("Locomotion")
 		.setName("Locomotion")
+		.setDescription(
+			'Locomotion is a Class 0, humanly possible, unofficial difficulty that introduces players to conveyors as a means of transport. Created by Astro6284, it is placed after Happylike and before Walkthrough. The main challenge is learning to use fast conveyors, which move players or objects to different locations.\n\nLocomotion is the last "break" difficulty before the main chart begins. The icon features a red-to-light-red gradient with a dark-red arrow. Obstacles involve riding conveyors of various speeds and angles, preparing players for more complex challenges ahead.',
+		)
+		.setVisualRating("-22")
 		.setLayoutRating(-22)
 		.setClass(0)
-		.setColor(Color3.fromRGB(255, 97, 97));
+		.setColor(Color3.fromRGB(255, 97, 97))
+		.setImage("rbxassetid://100092120335084");
 
-	static readonly Walkthrough = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Walkthrough)
+	static readonly Walkthrough = new Difficulty("Walkthrough")
 		.setName("Walkthrough")
+		.setDescription(
+			"Walkthrough is a Class 0 difficulty that succeeds Locomotion and precedes Automatic Joyful. Just like the rest of the difficulties in this class, this difficulty is a breeze. Towers of this difficulty are typically other towers, but the obstacles are done for you, similarly to walkthrough videos of games. You don't have to do anything, as the player will automatically move through the obstacles. As an example, you could take Citadel of Void, add scripts to make the player do the jumps automatically, and call it a Walkthrough difficulty tower.\n\nThis difficulty has a rating of -21, or approximately |0.9| on the Kol Metris scale. It is classified as a humanly possible difficulty, which means that it can be beaten by a human.",
+		)
+		.setVisualRating("-21")
 		.setLayoutRating(-21)
 		.setClass(0)
-		.setColor(Color3.fromRGB(107, 196, 255));
+		.setColor(Color3.fromRGB(107, 196, 255))
+		.setImage("rbxassetid://88842346057785");
 
-	static readonly AutomaticJoyful = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.AutomaticJoyful)
+	static readonly AutomaticJoyful = new Difficulty("AutomaticJoyful")
 		.setName("Automatic Joyful")
+		.setDescription(
+			"Automatic Joyful is a humanly possible difficulty that is completely automatic, located in the upper gap of Class Negative. It has a rating of -20 and is placed between Walkthrough (-21) and Unlosable (-19).\n\nThis difficulty is extremely easy, as it is literally an automatic difficulty with obstacles that require absolutely no effort whatsoever. It uses a lot of different mechanics and contraptions with a very straightforward yet fun twist. It uses many different client objects to not be too repetitive, along with very risky conveyor rides but still ensures that you cannot fail at any point.\n\nThis difficulty is only slightly harder than Walkthrough. The gap between the two is very small.",
+		)
+		.setVisualRating("-20")
 		.setLayoutRating(-20)
 		.setClass(0)
-		.setColor(Color3.fromRGB(171, 255, 77));
+		.setColor(Color3.fromRGB(171, 255, 77))
+		.setImage("rbxassetid://79123992113992");
 
-	static readonly Unlosable = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Unlosable)
+	static readonly Unlosable = new Difficulty("Unlosable")
 		.setName("Unlosable")
+		.setDescription(
+			"Unlosable is a Class 0 Difficulty with a rating of -19, coming after Instant Win, and before Automatic. Due to it being one of the original C1 difficulties, it has had many difficulties before and after this, and also many sub-difficulties in its lifetime. However, it currently only has two unofficial sub-difficulties, Roll and Mazeophobia. You should easily be able to ace this, due to it being similar to nerfed Automatic, and therefore there is a minimal chance of accidental failure.",
+		)
+		.setVisualRating("-19")
 		.setLayoutRating(-19)
 		.setClass(0)
-		.setColor(Color3.fromRGB(255, 143, 255));
+		.setColor(Color3.fromRGB(255, 143, 255))
+		.setImage("rbxassetid://81188941701002");
 
-	static readonly Roll = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Roll);
+	static readonly Roll = new Difficulty("Roll")
+		.setName("Roll")
+		.setDescription(
+			"Roll is a variation of the Unlosable difficulty in Class 0. Instead of conveyors, players are placed inside a hollow ball that rolls down a slope or slide, automatically carrying them to the winpad. The challenge is minimal, as the design ensures near-impossibility of failure. Roll is meant to be completed quickly and effortlessly, providing a fun and automatic experience before moving on to more challenging difficulties.",
+		)
+		.setVisualRating("-19")
+		.setLayoutRating(-math.huge)
+		.setClass(0)
+		.setColor(Color3.fromRGB(0, 0, 0));
 
-	static readonly Mazeophobia = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Mazeophobia);
+	static readonly Mazeophobia = new Difficulty("Mazeophobia")
+		.setName("Mazeophobia")
+		.setDescription(
+			'Mazeophobia is a Low Class 0 difficulty in between Unlosable and Unmissable. Obstacles in this difficulty are much harder than those in Unlosable, featuring fast conveyors in the form of mazes. This is essentially "Maze Unloseable," where a maze is filled with conveyors that take you to the exit. The background color of the icon is [255,0,72].',
+		)
+		.setVisualRating("-19")
+		.setLayoutRating(-math.huge)
+		.setClass(0)
+		.setColor(Color3.fromRGB(0, 0, 0));
 
-	static readonly ShatteredBabass = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ShatteredBabass)
+	static readonly ShatteredBabass = new Difficulty("ShatteredBabass")
 		.setName("Shattered Babass")
+		.setDescription(
+			"This difficulty belongs to LIA's Babass Family. Shattered Babass is a Class 0 Difficulty coming before Automatic but after Unlosable, Roll, or Mazeophobia. It is the second last automatic difficulty behind Automatic. Shattered Babass is basically too easy, so just skip to Class 1 or even Class 2, but if you actually struggle, stay here for now. There is no reason to be on this sub-difficulty unless you are in a DCT.",
+		)
+		.setVisualRating("-18.5")
 		.setLayoutRating(-18.5)
 		.setClass(0)
-		.setColor(Color3.fromRGB(147, 27, 220));
+		.setColor(Color3.fromRGB(147, 27, 220))
+		.setImage("rbxassetid://110664760282994");
 
-	static readonly Frivolous = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Frivolous)
+	static readonly Frivolous = new Difficulty("Frivolous")
 		.setName("Frivolous")
+		.setDescription(
+			"Frivolous is a Class 0, humanly possible difficulty located at the peak of its class. It is an automated difficulty, requiring little to no input from the player, and is known for its use of conveyors and other mechanisms to move the player through the level. Frivolous is positioned between Unlosable and Automatic, and is considered extremely easy, with a rating of -18. The difficulty is designed to be accessible to all players, emphasizing automation and simplicity over challenge.",
+		)
+		.setVisualRating("-18")
 		.setLayoutRating(-18)
 		.setClass(0)
-		.setColor(Color3.fromRGB(107, 196, 219));
+		.setColor(Color3.fromRGB(107, 196, 219))
+		.setImage("rbxassetid://126915393064133");
 
-	static readonly Vibeness = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Vibeness)
+	static readonly Vibeness = new Difficulty("Vibeness")
 		.setName("Vibeness")
+		.setDescription(
+			"Vibeness is one of many examples of automatic difficulties, notable examples include Locomotion, Happylike, Unlosable, and many other difficulties, especially the custom ones that aren't on the Difficulty Chart. Like many automatic difficulties, the gameplay is mostly conveyors, elevators including X, Y, Z positions, jump pads, teleports, ziplines, etc.\n\nVibeness is located at the peak range of Class 0 (formerly Class Upper Negative). Since this is Class 0, difficulties only take milliseconds to win, falling down, doing nothing, or are completely automatic. This can be classified as Humanly Possible, meaning difficulties with this classification are humanly possible, ranging from Exist to The Human Limit.\n\nVibeness is a sub-difficulty of Frivolous (-18) which is slightly harder than Frivolous. This difficulty is in-between Frivolous (-18) or alternatively Unlosable (-19), Roll (-19), Mazeophobia (-19), Shattered Babass (-18.5), and Automatic (-17). With the rating of -17.5 or ~0.975 using the Metris method.",
+		)
+		.setVisualRating("-17.5")
 		.setLayoutRating(-17.5)
 		.setClass(0)
-		.setColor(Color3.fromRGB(255, 69, 156));
+		.setColor(Color3.fromRGB(255, 69, 156))
+		.setImage("rbxassetid://106039541743146");
 
-	static readonly Automatic = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Automatic)
+	static readonly Automatic = new Difficulty("Automatic")
 		.setName("Automatic")
+		.setDescription(
+			"Automatic is a very easy and, as the name suggests, \"automatic\" difficulty where you don't need to do anything to win. Just sit back and watch your character get pushed to the winpad or teleporter by automated obstacles like conveyors and client objects. It's considered a very boring experience, but also a great place for beginners since it requires no input. Automatic is placed between Unlosable and Joyful in the difficulty chart. The main point of this difficulty is that you gain almost no enjoyment or challenge—it's essentially a waiting simulator. Most players are encouraged to skip to higher difficulties like Effortless for a more engaging experience.",
+		)
+		.setVisualRating("-17")
 		.setLayoutRating(-17)
 		.setClass(0)
-		.setColor(Color3.fromRGB(214, 255, 186));
+		.setColor(Color3.fromRGB(214, 255, 186))
+		.setImage("rbxassetid://75858443459974");
 
-	static readonly Spontaneous = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Spontaneous)
+	static readonly Spontaneous = new Difficulty("Spontaneous")
 		.setName("Spontaneous")
+		.setDescription(
+			'Spontaneous is an incredibly simple Class 0 difficulty and a successor of Automatic, preceding Joyful, the first difficulty requiring input. This difficulty does not require any input but is possible to fail if one tries deliberately. You can go AFK and still win, making it one of the easiest difficulties in the chart. Spontaneous is humanly possible and so easy that almost anyone could beat it. It relies heavily on client objects like conveyors and elevators, and the player is carried to the winpad without performing any actions. The name comes from the word "spontaneous," reflecting its natural and automatic nature.',
+		)
+		.setVisualRating("-16")
 		.setLayoutRating(-16)
 		.setClass(0)
-		.setColor(Color3.fromRGB(117, 255, 28));
+		.setColor(Color3.fromRGB(117, 255, 28))
+		.setImage("rbxassetid://126161541556408");
 
-	static readonly Joyful = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Joyful)
+	static readonly Joyful = new Difficulty("Joyful")
 		.setName("Joyful")
+		.setDescription(
+			"Joyful is a Class 1 difficulty created for the JET Chain, positioned between Automatic and Press a Key (or Placid). It is a legendary, humanly possible difficulty where obstacles require only a single in-game action, such as jumping or pressing a key. Most challenges are trivial, and the difficulty is rarely a challenge for players.\n\nThe icon is a shaded background, originally used in the Obelisk of Endless Difficulty Amplifying. Joyful is best skipped by experienced players, as it is designed to be simple and time-wasting. It is recommended to move on to more engaging difficulties after Joyful.",
+		)
+		.setVisualRating("-15")
 		.setLayoutRating(-15)
 		.setClass(1)
-		.setColor(Color3.fromRGB(206, 250, 0));
+		.setColor(Color3.fromRGB(206, 250, 0))
+		.setImage("rbxassetid://92124350802895");
 
-	static readonly DoSomething = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DoSomething)
+	static readonly DoSomething = new Difficulty("DoSomething")
 		.setName("Do Something")
+		.setDescription(
+			"Do Something is a Class 1 sub-difficulty of Joyful, known for its simplicity and ease. It is only slightly harder than Joyful and just below Placid. The obstacles in Do Something are extremely basic, often requiring just a single action such as jumping or pressing a key. The difficulty is designed to be accessible to everyone, making it a gentle introduction to the chart.",
+		)
+		.setVisualRating("-14.5")
 		.setLayoutRating(-14.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(0, 153, 255));
+		.setColor(Color3.fromRGB(0, 153, 255))
+		.setImage("rbxassetid://80666959673704");
 
-	static readonly Placid = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Placid)
+	static readonly Placid = new Difficulty("Placid")
 		.setName("Placid")
+		.setDescription(
+			"Placid is a Class 1 difficulty positioned above Joyful and below Press a Key. Its main distinction is that it involves tapping a key instead of holding it. Placid is known for its simplicity and originated from the EToH’s Easiest Towers wiki. Obstacles are minimal, focusing on simple key taps, and the difficulty is recognized for its easy and accessible gameplay.",
+		)
+		.setVisualRating("-14")
 		.setLayoutRating(-14)
 		.setClass(1)
-		.setColor(Color3.fromRGB(255, 255, 255));
+		.setColor(Color3.fromRGB(255, 255, 255))
+		.setImage("rbxassetid://85632946592907");
 
-	static readonly PressaKey = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.PressaKey);
+	static readonly PressaKey = new Difficulty("PressaKey")
+		.setName("Press a Key")
+		.setDescription(
+			'Press a Key (PAK) is a Class 1 difficulty that succeeds Placid and precedes Jumpless. Obstacles are similar to Jumpless, but require the player to walk in various directions. The icon is a simple white background with black text reading "PAK." This difficulty is a gentle step up from the most basic challenges, focusing on simple movement.',
+		)
+		.setVisualRating("-13")
+		.setLayoutRating(-math.huge)
+		.setClass(1)
+		.setColor(Color3.fromRGB(227, 227, 227))
+		.setImage("rbxassetid://128914883144608");
 
-	static readonly TaptoMove = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TaptoMove);
+	static readonly TaptoMove = new Difficulty("TaptoMove")
+		.setName("Tap to Move")
+		.setDescription(
+			"Tap to Move, or TTM for short, is a very easy difficulty. It revolves around one gimmick: Tap To Move, as the name implies. If you join a Roblox game and set the Movement Mode to \"Tap To Move,\" you can simply tap anywhere to move there, unless there's a gap that's too far, a wall that's too high, or a slope that's too steep.\n\nAll obstacles in this difficulty revolve around this mechanic. Since all you have to do is tap on the screen to move to any place, it is fairly easy to use.",
+		)
+		.setVisualRating("-12.66")
+		.setLayoutRating(-math.huge)
+		.setClass(1)
+		.setColor(Color3.fromRGB(50, 50, 50))
+		.setImage("rbxassetid://97713855023621");
 
-	static readonly WalkASlope = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.WalkASlope)
+	static readonly WalkASlope = new Difficulty("WalkASlope")
 		.setName("Walk A Slope")
+		.setDescription(
+			"Slopes are used for everything from obbies to roofs for buildings to escalators. But in this difficulty, you will be learning about walking through different types of slopes, from steep to wide. Slopes look like a rotated (often by 45 degrees) part that you can walk on, and thus you are able to gain speed by walking down a slope (only in real life) because of your momentum. You may also learn to do harder variants of obstacles you have previously done (like climbing a truss or walking), but the next difficulty will challenge you to use your skills on these new obstacles you have learned through this class. Walk A Slope is a Class 1 difficulty consisting of a slope-walk.",
+		)
+		.setVisualRating("-12.33")
 		.setLayoutRating(-12.33)
 		.setClass(1)
-		.setColor(Color3.fromRGB(112, 112, 112));
+		.setColor(Color3.fromRGB(112, 112, 112))
+		.setImage("rbxassetid://71351318941021");
 
-	static readonly ClimbATruss = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ClimbATruss)
+	static readonly ClimbATruss = new Difficulty("ClimbATruss")
 		.setName("Climb A Truss")
+		.setDescription(
+			"Climb A Truss (CAT) is a baseline Class 1 difficulty that follows Press a Key and precedes Jumpless. The main challenge is simply to climb a truss, which can vary in length from a few studs to thousands. It is a simple, straightforward difficulty designed as an easy introduction for new players, requiring only basic movement and patience.",
+		)
+		.setVisualRating("-12")
 		.setLayoutRating(-12)
 		.setClass(1)
-		.setColor(Color3.fromRGB(134, 133, 133));
+		.setColor(Color3.fromRGB(134, 133, 133))
+		.setImage("rbxassetid://131112708368239");
 
-	static readonly Tranquil = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Tranquil)
+	static readonly Tranquil = new Difficulty("Tranquil")
 		.setName("Tranquil")
+		.setDescription(
+			"Tranquil is a Class 1 sub-difficulty with a rating of -11.5, succeeding the original Heaven difficulty. It is positioned between Climb a Truss and Jumpless, and its location suggests that obbies within this difficulty are elementary and simplistic.\n\nTranquil features easily completable obstacles that do not impede progress, making it a gentle introduction for new players. As a predecessor to a JET difficulty, its challenges remain straightforward and accessible.",
+		)
+		.setVisualRating("-11.5")
 		.setLayoutRating(-11.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(0, 141, 255));
+		.setColor(Color3.fromRGB(0, 141, 255))
+		.setImage("rbxassetid://90911805019567");
 
-	static readonly Jumpless = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Jumpless)
+	static readonly Jumpless = new Difficulty("Jumpless")
 		.setName("Jumpless")
+		.setDescription(
+			"Jumpless is a Class 1, humanly possible difficulty that originated from the JToH's Easiest Towers wiki. It is placed before Starter and after Tranquil. The main feature of this difficulty is that it can be completed without jumping—players simply walk over gaps or use conveyors, making it accessible to almost anyone.\n\nThe icon is a light lavender square, representing the ease of the difficulty. Jumpless is one of the easiest difficulties in the chart, and is designed to be completed by walking, with minimal risk of failure. It is a good starting point for new players.",
+		)
+		.setVisualRating("-11")
 		.setLayoutRating(-11)
 		.setClass(1)
-		.setColor(Color3.fromRGB(201, 192, 231));
+		.setColor(Color3.fromRGB(201, 192, 231))
+		.setImage("rbxassetid://120649547066703");
 
-	static readonly Starter = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Starter)
+	static readonly Starter = new Difficulty("Starter")
 		.setName("Starter")
+		.setDescription(
+			"Starter is a Class 1 Normal Difficulty intended for beginners. It marks the start of jumping, falling, and walking combined in one difficulty, serving as the first tutorial on your path. This is the end of the Starter Zone, and most players are able to beat Starter. It is harder than Jumpless and is followed by Sweet (or Cakewalk). Starter also introduces premade obbies that fit the difficulty and offer a skill test. The popularity of this difficulty has increased over time, making it one of the most popular Class 1 difficulties.",
+		)
+		.setVisualRating("-10")
 		.setLayoutRating(-10)
 		.setClass(1)
-		.setColor(Color3.fromRGB(0, 168, 243));
+		.setColor(Color3.fromRGB(0, 168, 243))
+		.setImage("rbxassetid://123432092077995");
 
-	static readonly Cakewalk = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Cakewalk)
+	static readonly Cakewalk = new Difficulty("Cakewalk")
 		.setName("Cakewalk")
+		.setDescription(
+			"Cakewalk is a Class 1 difficulty that lives up to its name—it's a very easy, straightforward experience. Positioned between Starter and Sweet, Cakewalk is recommended for players who are just learning the controls. The obstacles are simple, requiring minimal input, and the overall experience is designed to be relaxing and accessible. The name reflects the ease of the difficulty, making it perfect for beginners or those looking for a stress-free introduction.",
+		)
+		.setVisualRating("-9.5")
 		.setLayoutRating(-9.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(66, 165, 245));
+		.setColor(Color3.fromRGB(66, 165, 245))
+		.setImage("rbxassetid://102165235295093");
 
-	static readonly Sweet = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Sweet)
+	static readonly Sweet = new Difficulty("Sweet")
 		.setName("Sweet")
+		.setDescription(
+			"Sweet is a Mid Class 1 difficulty on the Difficulty Chart. This is when the difficulty starts to ramp up, requiring jumping, walking, and avoiding escapable holes. Towers or obbies in this difficulty should be attempted after beating a Starter or Cakewalk difficulty. Sweet has two sub-difficulties: Sugary and Aesthetic. The difficulty was revived after being removed for low quality and now sits between Cakewalk and Lovely.",
+		)
+		.setVisualRating("-9")
 		.setLayoutRating(-9)
 		.setClass(1)
-		.setColor(Color3.fromRGB(255, 253, 150));
+		.setColor(Color3.fromRGB(255, 253, 150))
+		.setImage("rbxassetid://84838469933110");
 
-	static readonly Sugary = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Sugary)
+	static readonly Sugary = new Difficulty("Sugary")
 		.setName("Sugary")
+		.setDescription(
+			"Sugary is a Mid Class 1 sub-difficulty of Sweet, harder than Cakewalk but easier than Aesthetic or Lovely. Like other Class 1 difficulties, Sugary requires almost no skill, and players will quickly progress to higher classes. This difficulty is meant to be enjoyed as a light challenge before moving on to more difficult obstacles.",
+		)
+		.setVisualRating("-8.66")
 		.setLayoutRating(-8.66)
 		.setClass(1)
-		.setColor(Color3.fromRGB(255, 255, 0));
+		.setColor(Color3.fromRGB(255, 255, 0))
+		.setImage("rbxassetid://92540595284537");
 
-	static readonly Aesthetic = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Aesthetic)
+	static readonly Aesthetic = new Difficulty("Aesthetic")
 		.setName("Aesthetic")
+		.setDescription(
+			"Aesthetic is a humanly possible sub-difficulty in Class 1, positioned between Sweet and Lovely. It is primarily focused on design and aesthetics rather than challenge. Towers with this difficulty resemble art galleries, filled with various images and simple obstacles. The main challenge is simply reaching the winpad, with the only real obstacles being distractions or leaving the game.",
+		)
+		.setVisualRating("-8.33")
 		.setLayoutRating(-8.33)
 		.setClass(1)
-		.setColor(Color3.fromRGB(118, 244, 71));
+		.setColor(Color3.fromRGB(118, 244, 71))
+		.setImage("rbxassetid://131933900491701");
 
-	static readonly Lovely = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Lovely)
+	static readonly Lovely = new Difficulty("Lovely")
 		.setName("Lovely")
+		.setDescription(
+			"Lovely is a Class 1 difficulty that comes after Jumpless (or Sweet and its sub-difficulties) and before Pleasant (or Glee, Flowerness, and their sub-difficulties). This is one of the easiest difficulties that require effort. If you have a basic understanding of the mechanic of walking in Roblox, you should be pretty capable of beating this.",
+		)
+		.setVisualRating("-8")
 		.setLayoutRating(-8)
 		.setClass(1)
-		.setColor(Color3.fromRGB(221, 251, 221));
+		.setColor(Color3.fromRGB(221, 251, 221))
+		.setImage("rbxassetid://109735595379843");
 
-	static readonly Glee = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Glee)
+	static readonly Glee = new Difficulty("Glee")
 		.setName("Glee")
+		.setDescription(
+			"Glee is a High Class 1 sub-difficulty, positioned after Lovely and before Flowerness. It once had a sub-difficulty called Stone in the excavation chain. Glee was previously located in Mid Class 0 as a successor to Tranquil and a predecessor to Heavenlike, but was later transferred to JJT.\n\nThis difficulty is extremely easy, featuring very basic obstacles that most players can complete without much effort. Glee is designed to be accessible to nearly everyone, making it a good starting point for new players. The obstacles are simple and forgiving, and players are encouraged to move on to harder difficulties like Effortlessless or Effortless after completing Glee.",
+		)
+		.setVisualRating("-7.5")
 		.setLayoutRating(-7.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(248, 218, 219));
+		.setColor(Color3.fromRGB(248, 218, 219))
+		.setImage("rbxassetid://77736203093843");
 
-	static readonly Flowerness = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Flowerness)
+	static readonly Flowerness = new Difficulty("Flowerness")
 		.setName("Flowerness")
+		.setDescription(
+			"Flowerness (FL) is a Class 1, humanly possible difficulty that sits in the middle range of the class. It is known for its beginner-friendly obstacles, often introducing new players to wraparounds and other basic mechanics. Flowerness is positioned between Lovely and Pleasant, with two sub-difficulties: Coasterifying and A Difficulty Named Difficulty. The difficulty is characterized by its gentle learning curve and approachable gameplay, making it ideal for those new to the chart. Created by Astrominal, Flowerness was originally planned as a sub-difficulty but became its own category due to its unique style.",
+		)
+		.setVisualRating("-7")
 		.setLayoutRating(-7)
 		.setClass(1)
-		.setColor(Color3.fromRGB(157, 149, 254));
+		.setColor(Color3.fromRGB(157, 149, 254))
+		.setImage("rbxassetid://87084965766945");
 
-	static readonly Coasterifying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Coasterifying)
+	static readonly Coasterifying = new Difficulty("Coasterifying")
 		.setName("Coasterifying")
+		.setDescription(
+			'Coasterifying is a Mid Class 1 sub-difficulty, ranked -6.66, situated between Flowerness and Pleasant (or A Difficulty Named Difficulty). Created on May 2, 2023 by Bryan, it has no sub-sub-difficulties, decal, or music, and is not part of any chains. Coasterifying is classified as humanly possible, being in the first class to do so, and is considered incredibly easy—hardly anyone should fail.\n\nThe main gimmick of this difficulty is the fun, roller-coaster-like nature of its obstacles. These can range from calm, small coasters to taller, more thrilling rides. The focus is not on speed or height, but on the difficulty itself. Only one type of coaster, the "Control-A-Cart," is used, similar to obby creator or cart ride games. Obstacles are minimal—it\'s all about the coaster experience, with features like inversions (with railings), sharp turns, and steep drops.',
+		)
+		.setVisualRating("-6.66")
 		.setLayoutRating(-6.66)
 		.setClass(1)
-		.setColor(Color3.fromRGB(0, 115, 255));
+		.setColor(Color3.fromRGB(0, 115, 255))
+		.setImage("rbxassetid://87795016435728");
 
-	static readonly ADifficultyNamedDifficulty = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ADifficultyNamedDifficulty)
+	static readonly ADifficultyNamedDifficulty = new Difficulty("ADifficultyNamedDifficulty")
 		.setName("A Difficulty Named Difficulty")
+		.setDescription(
+			"A Difficulty Named Difficulty is a difficulty between Flowerness and Pleasant. It is not particularly easy, but not so hard as to be called \"Piece o' Cake.\" Beating towers in this difficulty can be challenging, but for experienced players, it may only take a week. It's possible to skip this difficulty entirely, as you can move to Piece o' Cake without completing any towers here.",
+		)
+		.setVisualRating("-6.33")
 		.setLayoutRating(-6.33)
 		.setClass(1)
-		.setColor(Color3.fromRGB(247, 51, 83));
+		.setColor(Color3.fromRGB(247, 51, 83))
+		.setImage("rbxassetid://90400673549266");
 
-	static readonly Pleasant = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Pleasant)
+	static readonly Pleasant = new Difficulty("Pleasant")
 		.setName("Pleasant")
+		.setDescription(
+			"Pleasant is a Class 1 difficulty, well-known for originating from JET. It is the last official difficulty of Class 1 and is extremely easy, requiring minimal effort. Pleasant is found in many difficulty chart towers and fangames. Obstacles are very basic, and the difficulty is placed after Flowerness and before Tutorial, with Piece o' Cake as a sub-difficulty.",
+		)
+		.setVisualRating("-6")
 		.setLayoutRating(-6)
 		.setClass(1)
-		.setColor(Color3.fromRGB(161, 220, 255));
+		.setColor(Color3.fromRGB(161, 220, 255))
+		.setImage("rbxassetid://107174603164598");
 
-	static readonly PieceoCake = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.PieceoCake);
+	static readonly PieceoCake = new Difficulty("PieceoCake")
+		.setName("Piece o' Cake")
+		.setDescription(
+			"Piece o' Cake is a sub-difficulty located between Pleasant and Tutorial. It is the first difficulty that requires players to move their camera, though only slightly. Obstacles here are extremely easy, such as walking, climbing slopes, and ladders. Most new players can beat this difficulty with ease. Piece o' Cake is the 10th hardest difficulty in Class 1, easier than Pleasant but harder than Tutorial.",
+		)
+		.setVisualRating("-5.5")
+		.setLayoutRating(-math.huge)
+		.setClass(1)
+		.setColor(Color3.fromRGB(0, 0, 0));
 
-	static readonly Tutorial = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Tutorial)
+	static readonly Tutorial = new Difficulty("Tutorial")
 		.setName("Tutorial")
+		.setDescription(
+			"Tutorial is a high Class 1 difficulty designed to teach players the basics of obbies and essential mechanics for later difficulties. It is positioned between Pleasant and TooEasy, and is considered quite easy. The difficulty serves as an introduction to basic jumps, obstacles, and mechanics, making it ideal for new players learning the fundamentals of obby gameplay.",
+		)
+		.setVisualRating("-5")
 		.setLayoutRating(-5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(24, 83, 17));
+		.setColor(Color3.fromRGB(24, 83, 17))
+		.setImage("rbxassetid://124062493583089");
 
-	static readonly HellishEncore = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.HellishEncore)
+	static readonly HellishEncore = new Difficulty("HellishEncore")
 		.setName("Hellish Encore")
+		.setDescription(
+			"Hellish Encore is a High Class 1 sub-difficulty, known for its exaggeratedly difficult and humorous presentation. It is described as an impossible barrier, filled with the hardest catches and obstacles, and is meant to be a parody of extreme difficulty. Players are warned of sleepless nights and endless suffering, with obstacles that are intentionally over-the-top. Hellish Encore is a joke difficulty, not meant to be taken seriously, and is part of the Double Unrebirth category.",
+		)
+		.setVisualRating("-4.66")
 		.setLayoutRating(-4.66)
 		.setClass(1)
-		.setColor(Color3.fromRGB(170, 5, 8));
+		.setColor(Color3.fromRGB(170, 5, 8))
+		.setImage("rbxassetid://92786269645031");
 
-	static readonly Delightful = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Delightful)
+	static readonly Delightful = new Difficulty("Delightful")
 		.setName("Delightful")
+		.setDescription(
+			'Delightful is a Class 1 sub-difficulty, originating as a recommended replacement image for "Happy" and evolving into a high Class 1 challenge. It follows Tutorial and precedes TooEasy, serving as a sub-difficulty of Tutorial. Delightful introduces slightly harder gameplay, such as 0.3 stud wraps, while maintaining a friendly and positive atmosphere. It marks the point where obstacles start to require more skill, but still remains accessible to most players.',
+		)
+		.setVisualRating("-4.33")
 		.setLayoutRating(-4.33)
 		.setClass(1)
-		.setColor(Color3.fromRGB(236, 218, 140));
+		.setColor(Color3.fromRGB(236, 218, 140))
+		.setImage("rbxassetid://108677042187482");
 
-	static readonly TooEasy = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TooEasy)
+	static readonly TooEasy = new Difficulty("TooEasy")
 		.setName("TooEasy")
+		.setDescription(
+			"TooEasy is a Class 1 difficulty that is harder than Tutorial and easier than Peaceful. It is the final difficulty of High Class 1 and is a very simple, easy, humanly possible difficulty that almost any player can beat. The name references how it is one of the easiest difficulties, and most players would find it a cakewalk.\n\nIf this difficulty used the Tier rating, it would be tier 0-1. TooEasy is a straightforward and accessible entry point for new players.",
+		)
+		.setVisualRating("-4")
 		.setLayoutRating(-4)
 		.setClass(1)
-		.setColor(Color3.fromRGB(14, 88, 1));
+		.setColor(Color3.fromRGB(14, 88, 1))
+		.setImage("rbxassetid://105740451817849");
 
-	static readonly Peaceful = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Peaceful)
+	static readonly Peaceful = new Difficulty("Peaceful")
 		.setName("Peaceful")
+		.setDescription(
+			"Peaceful is a Low Class 1 difficulty represented by a light greyish purple color with a smile. It's easier than Playful (its sub-difficulty) and Magnificent, but harder than TooEasy. Obstacles in this difficulty are elementary and should be easily accomplished by everyone. Peaceful encourages players to start jumping and complete basic obstacles, moving beyond just existing.",
+		)
+		.setVisualRating("-3")
 		.setLayoutRating(-3)
 		.setClass(1)
-		.setColor(Color3.fromRGB(199, 176, 218));
+		.setColor(Color3.fromRGB(199, 176, 218))
+		.setImage("rbxassetid://137021808155202");
 
-	static readonly Playful = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Playful)
+	static readonly Playful = new Difficulty("Playful")
 		.setName("Playful")
+		.setDescription(
+			"Playful is a difficulty at the start of Peak Class 1, just a bit harder than Peaceful and easier than Magnificent. It introduces new players to a few unique and easy mechanics, making it a perfect challenge for beginners or those looking to practice. Obstacles are simple and require little effort, making this a welcoming difficulty for everyone.",
+		)
+		.setVisualRating("-2.5")
 		.setLayoutRating(-2.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(163, 255, 80));
+		.setColor(Color3.fromRGB(163, 255, 80))
+		.setImage("rbxassetid://119262842912268");
 
-	static readonly Babying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Babying);
+	static readonly Babying = new Difficulty("Babying")
+		.setName("Babying")
+		.setDescription(
+			"Babying is a Low Class 1 Possible difficulty, positioned between Magnificent (after) and Peaceful (before) in the chart. As a Class 1 difficulty, it is humanly possible and extremely easy—so much so that even very young children could complete it. Babying is one of the few difficulties at this level, making it accessible to almost anyone. The obstacles are only slightly harder than Peaceful and slightly easier than Magnificent, making it a gentle introduction to the game's mechanics.",
+		)
+		.setVisualRating("-2")
+		.setLayoutRating(-math.huge)
+		.setClass(1)
+		.setColor(Color3.fromRGB(91, 232, 209))
+		.setImage("rbxassetid://111015905230252");
 
-	static readonly Magnificent = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Magnificent)
+	static readonly Magnificent = new Difficulty("Magnificent")
 		.setName("Magnificent")
+		.setDescription(
+			"Magnificent is a Peak Class 1 Revived Classic Difficulty, sitting between Babying and Effortlessless (or Facile). Obstacles are extremely easy, so easy that you won’t feel any sort of challenge in this difficulty. This classic difficulty was created on November 19, 2020, and was revived after being deleted for several months. It is known for its simple, emoticon-themed icon and its place as an extremely easy step in the difficulty chart.",
+		)
+		.setVisualRating("-1.66")
 		.setLayoutRating(-2)
 		.setClass(1)
-		.setColor(Color3.fromRGB(145, 206, 255));
+		.setColor(Color3.fromRGB(145, 206, 255))
+		.setImage("rbxassetid://125239895349346");
 
-	static readonly Facile = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Facile)
+	static readonly Facile = new Difficulty("Facile")
 		.setName("Facile")
+		.setDescription(
+			"Facile is an unofficial, humanly possible Low Class 1 difficulty that serves as the final mark before entering the main JToH difficulties. It is positioned between Magnificent and Effortlessless, with a rating of 0.775. Facile is notable for its relaxing, beginner-friendly obstacles and is designed to help players transition into higher difficulties. Created by Astro6284 as a revival of a late-2020 difficulty, Facile encourages players to develop the skills needed for more challenging towers ahead, while still providing safety nets and hints to support progress.",
+		)
+		.setVisualRating("-1.33")
 		.setLayoutRating(-1.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(87, 215, 254));
+		.setColor(Color3.fromRGB(87, 215, 254))
+		.setImage("rbxassetid://121897405773838");
 
-	static readonly Effortlessless = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Effortlessless)
+	static readonly Effortlessless = new Difficulty("Effortlessless")
 		.setName("Effortlessless")
+		.setDescription(
+			'Effortlessless is a Peak Class 1 difficulty in EET, serving as the final barrier before the EToH difficulties. It is easier than Effortless but harder than Magnificent. This is the first difficulty with actual obstacles, designed for beginners who have little to no experience with obbies. Unlike the joke difficulties below it, Effortlessless introduces real jumps and basic challenges, making it more of a "tutorial" for new players.\n\nMost people will not find this difficulty challenging, and it is intended as a starting point for those already familiar with Roblox. Effortlessless is where new players can begin to learn the basics of obby gameplay before moving on to harder difficulties.',
+		)
+		.setVisualRating("-1")
 		.setLayoutRating(-1)
 		.setClass(1)
-		.setColor(Color3.fromRGB(153, 217, 234));
+		.setColor(Color3.fromRGB(153, 217, 234))
+		.setImage("rbxassetid://107952546587557");
 
-	static readonly Gravel = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Gravel)
+	static readonly Gravel = new Difficulty("Gravel")
 		.setName("Gravel")
+		.setDescription(
+			"Gravel is a peak Class 1 sub-difficulty of Effortlessless, preceding Effortless and White Gem in the Excavation Chain. It is one of the easiest difficulties with actual obstacles and can be beaten by most Roblox obbyists. Gravel is welcoming to beginners, featuring forgiving towers filled with safety nets and simple jumps that require little effort.\n\nThis difficulty is common in many generic obby games and is designed to help new players build confidence. The obstacles are only slightly harder than those in Effortlessless, making Gravel a gentle introduction to more challenging gameplay.",
+		)
+		.setVisualRating("-0.5")
 		.setLayoutRating(-0.5)
 		.setClass(1)
-		.setColor(Color3.fromRGB(154, 246, 209));
+		.setColor(Color3.fromRGB(154, 246, 209))
+		.setImage("rbxassetid://111528853393703");
 
-	static readonly Effortless = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Effortless)
+	static readonly Effortless = new Difficulty("Effortless")
 		.setName("Effortless")
+		.setDescription(
+			"Effortless was the previous easiest difficulty in EToH before its deletion. It was represented with a darker green color than Easy. Towers in this difficulty contained extremely simplistic and basic obstacles, such as the Tower of Slight Unhappiness. Effortless was removed from the game in June 2019 for being too easy, and its towers were either revamped or removed entirely.",
+		)
+		.setVisualRating("0")
 		.setLayoutRating(0)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 206, 0));
+		.setColor(Color3.fromRGB(0, 206, 0))
+		.setImage("rbxassetid://126710864092718");
 
-	static readonly Playground = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Playground)
+	static readonly Playground = new Difficulty("Playground")
 		.setName("Playground")
+		.setDescription(
+			"Playground is a baseline Class 2 official sub-difficulty of Effortless. It is a lower-end Class 2 difficulty, designed to be easy and fun for the average obbyist, though it requires slightly more effort than Effortless. The icon is a solid green color, marking the transition to brighter difficulties. Playground is a gentle introduction to more challenging obstacles.",
+		)
+		.setVisualRating("0.25")
 		.setLayoutRating(0.33)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 206, 100));
+		.setColor(Color3.fromRGB(0, 206, 100))
+		.setImage("rbxassetid://76015184741436");
 
-	static readonly Elementary = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Elementary);
+	static readonly Elementary = new Difficulty("Elementary")
+		.setName("Elementary")
+		.setDescription(
+			"Elementary is a Bottom Class 2 difficulty between Effortless and Easy. It is represented by a pure green color, serving as an in-between of the previously mentioned difficulties' colors. This difficulty is generally extremely simplistic, typically featuring few notable hindrances. Almost any trap that would prove a challenge is either indicated or features safety nets (usually both). Its rating range is 0.5 to 0.74.",
+		)
+		.setVisualRating("0.5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 255, 0))
+		.setImage("rbxassetid://86363642467161");
 
-	static readonly Simple = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Simple)
+	static readonly Simple = new Difficulty("Simple")
 		.setName("Simple")
+		.setDescription(
+			"Simple is a very straightforward difficulty located in Bottom Class 2. Most players will have almost no trouble traveling through this difficulty. It is located between Effortless (or Playground) and Easy. This difficulty is the final sub-difficulty of Effortless as well. Since it takes up about the high spectrum of its parent difficulty, it is recommended to do beginner towers in other EToH fan games as many are around this difficulty.",
+		)
+		.setVisualRating("0.75")
 		.setLayoutRating(0.66)
 		.setClass(2)
-		.setColor(Color3.fromRGB(76, 176, 81));
+		.setColor(Color3.fromRGB(76, 176, 81))
+		.setImage("rbxassetid://98624028213167");
 
-	static readonly Easy = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Easy)
+	static readonly Easy = new Difficulty("Easy")
 		.setName("Easy")
+		.setDescription(
+			"Easy is the easiest difficulty in EToH. It is represented with a lime green triangle. Towers in this difficulty can usually be passed on the first try with minimal effort. Players will mostly encounter basic jumps and rarely any substantially hard obstacles.\n\nObstacles in Easy are commonly found in their simplest forms, with little to no twists or special challenges. Traps are either clearly labeled or not present at all. Any challenging obstacles are forgiving, often with safety nets to protect the player from falling.\n\nThis difficulty serves as the starting point for new players, providing a gentle introduction to the game's mechanics and basic platforming skills.",
+		)
+		.setVisualRating("1")
 		.setLayoutRating(1)
 		.setClass(2)
-		.setColor(Color3.fromRGB(118, 244, 71));
-
-	static readonly Neat = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Neat);
-
-	static readonly Calm = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Calm);
-
-	static readonly Switch = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Switch);
-
-	static readonly Medium = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Medium);
-
-	static readonly Normal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Normal);
-
-	static readonly Intermediate = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Intermediate);
-
-	static readonly Rewardable = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Rewardable);
-
-	static readonly Hard = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Hard);
-
-	static readonly Tricky = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Tricky);
-
-	static readonly Onerous = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Onerous);
-
-	static readonly Easeful = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Easeful);
-
-	static readonly Difficult = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Difficult);
-
-	static readonly Strenuous = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Strenuous);
-
-	static readonly Menacing = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Menacing);
-
-	static readonly Harming = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Harming);
-
-	static readonly Challenging = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Challenging);
-
-	static readonly Irritating = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Irritating);
-
-	static readonly Maniacal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Maniacal);
-
-	static readonly Hectic = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Hectic);
-
-	static readonly Intense = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Intense);
-
-	static readonly TooMedium = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TooMedium);
-
-	static readonly Severe = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Severe);
-
-	static readonly Hellish = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Hellish);
-
-	static readonly Remorseless = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Remorseless);
-
-	static readonly C0RrUpT = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.C0RrUpT);
-
-	static readonly Psycho = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Psycho);
-
-	static readonly Harsh = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Harsh);
-
-	static readonly Relentless = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Relentless);
-
-	static readonly Angerable = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Angerable);
-
-	static readonly Complex = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Complex);
-
-	static readonly Insane = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Insane);
-
-	static readonly Thanos = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Thanos);
-
-	static readonly Madness = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Madness);
-
-	static readonly Classical = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Classical);
-
-	static readonly Extreme = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Extreme);
-
-	static readonly Uneasy = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Uneasy);
-
-	static readonly Turmoil = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Turmoil);
-
-	static readonly Absurd = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Absurd);
-
-	static readonly Terrifying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Terrifying);
-
-	static readonly Ghastly = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Ghastly);
-
-	static readonly Petrifying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Petrifying);
-
-	static readonly Horrifying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Horrifying);
-
-	static readonly Catastrophic = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Catastrophic);
-
-	static readonly ChampionsRoad = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ChampionsRoad);
-
-	static readonly Eccentric = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Eccentric);
-
-	static readonly Dorcelessness = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Dorcelessness);
-
-	static readonly Horrific = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Horrific);
-
-	static readonly Reversed = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Reversed);
-
-	static readonly Eternal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Eternal);
-
-	static readonly Confident = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Confident);
-
-	static readonly Unreal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Unreal);
-
-	static readonly HYPER = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.HYPER);
-
-	static readonly Treacherous = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Treacherous);
-
-	static readonly Oblivious = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Oblivious);
-
-	static readonly Anguish = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Anguish);
-
-	static readonly Prodigious = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Prodigious);
-
-	static readonly TheHumanLimit = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TheHumanLimit);
-
-	static readonly nil = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.nil);
-
-	static readonly Jank = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Jank);
-
-	static readonly TheHeartofVoid = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TheHeartofVoid);
-
-	static readonly eRRoR = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.eRRoR);
-
-	static readonly Nightmare = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Nightmare);
-
-	static readonly Literal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Literal);
-
-	static readonly WHY = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.WHY);
-
-	static readonly MAXIMUMOVERDRIVE = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.MAXIMUMOVERDRIVE);
-
-	static readonly No = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.No);
-
-	static readonly Purgatory = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Purgatory);
-
-	static readonly DEATH = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DEATH);
-
-	static readonly Nullifying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Nullifying);
-
-	static readonly HELL = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.HELL);
-
-	static readonly Vortex = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Vortex);
-
-	static readonly TARTARUS = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TARTARUS);
-
-	static readonly CALAMITY = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.CALAMITY);
-
-	static readonly Neutralize = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Neutralize);
-
-	static readonly Killjoying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Killjoying);
-
-	static readonly Unimaginable = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Unimaginable);
-
-	static readonly Dimension = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Dimension);
-
-	static readonly Omega = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Omega);
-
-	static readonly Disarray = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Disarray);
-
-	static readonly SUFFER = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.SUFFER);
-
-	static readonly CHAOS = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.CHAOS);
-
-	static readonly AlephNull = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.AlephNull);
-
-	static readonly Mystical = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Mystical);
-
-	static readonly Reality = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Reality);
-
-	static readonly Immeasurable = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Immeasurable);
-
-	static readonly Noxious = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Noxious);
-
-	static readonly Malicious = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Malicious);
-
-	static readonly Autism = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Autism);
-
-	static readonly Malevolent = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Malevolent);
-
-	static readonly Building = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Building);
-
-	static readonly UnderConstruction = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.UnderConstruction);
-
-	static readonly DoesNotCompute = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DoesNotCompute);
-
-	static readonly Exile = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Exile);
-
-	static readonly Invigorating = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Invigorating);
-
-	static readonly Apocalyptic = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Apocalyptic);
-
-	static readonly EternalOutrage = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.EternalOutrage);
-
-	static readonly Destructive = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Destructive);
-
-	static readonly Dissonant = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Dissonant);
-
-	static readonly Mischievous = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Mischievous);
-
-	static readonly LRIH = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.LRIH);
-
-	static readonly Monstrous = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Monstrous);
-
-	static readonly Inimical = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Inimical);
-
-	static readonly Horrendous = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Horrendous);
-
-	static readonly Ultimate = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Ultimate);
-
-	static readonly Nought = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Nought);
-
-	static readonly SystemError = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.SystemError);
-
-	static readonly Errorexe = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Errorexe);
-
-	static readonly SimplyBeyond = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.SimplyBeyond);
-
-	static readonly Ultra = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Ultra);
-
-	static readonly Critical = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Critical);
-
-	static readonly Winter = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Winter);
-
-	static readonly FatalError = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.FatalError);
-
-	static readonly UDEDSON = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.UDEDSON);
-
-	static readonly REEE = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.REEE);
-
-	static readonly Nonexistent = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Nonexistent);
-
-	static readonly DIE = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DIE);
-
-	static readonly Absolutism = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Absolutism);
-
-	static readonly Insistent = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Insistent);
-
-	static readonly Shocking = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Shocking);
-
-	static readonly Victor = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Victor);
-
-	static readonly Oblivion = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Oblivion);
-
-	static readonly QUANTUM = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.QUANTUM);
-
-	static readonly Miracle = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Miracle);
-
-	static readonly YEETUS = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.YEETUS);
-
-	static readonly DELETE = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DELETE);
-
-	static readonly Interruption = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Interruption);
-
-	static readonly XiAlpha = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.XiAlpha);
-
-	static readonly DELTA = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DELTA);
-
-	static readonly Y = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Y);
-
-	static readonly ThetaVoid = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ThetaVoid);
-
-	static readonly Ultimaniac = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Ultimaniac);
-
-	static readonly Supreme = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Supreme);
-
-	static readonly Phi = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Phi);
-
-	static readonly UNTHINKABLE = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.UNTHINKABLE);
-
-	static readonly UltraInstinct = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.UltraInstinct);
-
-	static readonly Mortifying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Mortifying);
-
-	static readonly Dreadfulexe = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Dreadfulexe);
-
-	static readonly Transfinite = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Transfinite);
-
-	static readonly RoorXD = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.RoorXD);
-
-	static readonly RoorHELL = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.RoorHELL);
-
-	static readonly JesusBallin = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.JesusBallin);
-
-	static readonly HyperViolent = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.HyperViolent);
-
-	static readonly Enclosed = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Enclosed);
-
-	static readonly ElVacio = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ElVacio);
-
-	static readonly Unpossible = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Unpossible);
-
-	static readonly UniverseDisruption = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.UniverseDisruption);
-
-	static readonly Spongebob = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Spongebob);
-
-	static readonly CompleteObstacles = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.CompleteObstacles);
-
-	static readonly Illegal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Illegal);
-
-	static readonly BadRequest = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.BadRequest);
-
-	static readonly UniversalGlitch = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.UniversalGlitch);
-
-	static readonly FalseGanar = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.FalseGanar);
-
-	static readonly Hopeless = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Hopeless);
-
-	static readonly PlumBloc = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.PlumBloc);
-
-	static readonly Gameifying = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Gameifying);
-
-	static readonly Infinity = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Infinity);
-
-	static readonly Void = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Void);
-
-	static readonly Doog = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Doog);
-
-	static readonly Dissension = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Dissension);
-
-	static readonly MegaDeath = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.MegaDeath);
-
-	static readonly TooPrecise = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TooPrecise);
-
-	static readonly Epitome = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Epitome);
-
-	static readonly Agony = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Agony);
-
-	static readonly ILOVEYOU = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ILOVEYOU);
-
-	static readonly Abyssal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Abyssal);
-
-	static readonly DillyImpossible = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.DillyImpossible);
-
-	static readonly Gigaversal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Gigaversal);
-
-	static readonly Unreasonable = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Unreasonable);
-
-	static readonly ResilientGlow = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ResilientGlow);
-
-	static readonly Arcane = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Arcane);
-
-	static readonly COMMUNISM = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.COMMUNISM);
-
-	static readonly Detroit = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Detroit);
-
-	static readonly SacrificinglyImpossible = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.SacrificinglyImpossible);
-
-	static readonly SatanTartarusLuciferVoid = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.SatanTartarusLuciferVoid);
-
-	static readonly QRCode = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.QRCode);
-
-	static readonly Vacant = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Vacant);
-
-	static readonly How = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.How);
-
-	static readonly Errorisation = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Errorisation);
-
-	static readonly Godlike = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Godlike);
-
-	static readonly Esoteric = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Esoteric);
-
-	static readonly CompleteUsers = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.CompleteUsers);
-
-	static readonly BobuxDeath = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.BobuxDeath);
-
-	static readonly AlephDEATH = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.AlephDEATH);
-
-	static readonly Limiting = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Limiting);
-
-	static readonly TheCrystalCore = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TheCrystalCore);
-
-	static readonly Rush = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Rush);
-
-	static readonly AlephVSC = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.AlephVSC);
-
-	static readonly Misery = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Misery);
-
-	static readonly Mysterious = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Mysterious);
-
-	static readonly Undocumented = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Undocumented);
-
-	static readonly Denial = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Denial);
-
-	static readonly AlephSomething = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.AlephSomething);
-
-	static readonly Omniscient = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Omniscient);
-
-	static readonly Enigmatic = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Enigmatic);
-
-	static readonly Vreryhawrfdrdifficutl = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Vreryhawrfdrdifficutl);
-
-	static readonly Freesmileyde = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Freesmileyde);
-
-	static readonly HELLWRATH = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.HELLWRATH);
-
-	static readonly Hellacious = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Hellacious);
-
-	static readonly LOOP = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.LOOP);
-
-	static readonly Bryanjr4474 = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Bryanjr4474);
-
-	static readonly ERRosion = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ERRosion);
-
-	static readonly Confusion = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Confusion);
-
-	static readonly Dynamix = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Dynamix);
-
-	static readonly Eshinion = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Eshinion);
-
-	static readonly Caught = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Caught);
-
-	static readonly TooAbnormal = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TooAbnormal);
-
-	static readonly Catch = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Catch);
-
-	static readonly IMPOSSIBLEEXE = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.IMPOSSIBLEEXE);
-
-	static readonly ExploitistElite = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.ExploitistElite);
-
-	static readonly TooTooHard = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TooTooHard);
-
-	static readonly TrueObamaPrism = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TrueObamaPrism);
-
-	static readonly Zany = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Zany);
-
-	static readonly OhNoez = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.OhNoez);
-
-	static readonly Viratical = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Viratical);
-
-	static readonly Pinnacle = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Pinnacle);
-
-	static readonly TheMiddleline = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.TheMiddleline);
-
-	static readonly Missing = Difficulty.fromGeneratedEntry(GENERATED_DIFFICULTIES.Missing);
+		.setColor(Color3.fromRGB(118, 244, 71))
+		.setImage("rbxassetid://71795475656122");
+
+	static readonly Neat = new Difficulty("Neat")
+		.setName("Neat")
+		.setDescription(
+			"Neat is a sub-difficulty of Baseline Class 2 (C2), positioned between Easy and Calm, with a difficulty rating between 1.25 and 1.49. Originally created for the mini-tower Not Even A Tower (NEAT) in Eternal Towers of Hell, it was later adjusted due to balance changes.\n\nNeat is known for its approachable challenge and was created by Dreadful.exe, with later revamps by other contributors. Despite its playful theming, it is not considered a joke difficulty.",
+		)
+		.setVisualRating("1.25")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(149, 171, 64))
+		.setImage("rbxassetid://74430073574180");
+
+	static readonly Calm = new Difficulty("Calm")
+		.setName("Calm")
+		.setDescription(
+			"Calm is a transitional difficulty between Easy and Medium in the Eternal Towers of Hell chart. Obstacles in Calm are generally passable without much effort, with slower and more forgiving contraptions. Killbricks are rare, and platforms are usually wide enough to be safe. Calm is designed to be a gentle step up from Easy, providing a relaxed experience for players as they progress.",
+		)
+		.setVisualRating("1.5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(149, 206, 58))
+		.setImage("rbxassetid://115599044869073");
+
+	static readonly Switch = new Difficulty("Switch")
+		.setName("Switch")
+		.setDescription(
+			"Switch is a sub-difficulty of Calm with a rating of 1.75. It was made as a transitional practice between Easy and Medium difficulties, hence the icon. Switch features fairly easy obstacles that even beginners can complete and is great for speedrunning. The difficulty is designed to help players switch from easy to medium obstacles, making it a medium introduction and encouraging practice and enjoyment.",
+		)
+		.setVisualRating("1.75")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://113390869450970");
+
+	static readonly Medium = new Difficulty("Medium")
+		.setName("Medium")
+		.setDescription(
+			"Medium is a difficulty in EToH that is represented by a yellow trapezoid. Obstacles at this level are more challenging and sometimes harder forms of obstacles seen in the Easy difficulty. There are slightly longer jumps, more wraps (often 2-3 studs), and generally tougher obstacles. One-stud platforms may start appearing in towers of this difficulty. Towers in this difficulty can be passed fairly easily by an average EToH player.",
+		)
+		.setVisualRating("2")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://137596399736829");
+
+	static readonly Normal = new Difficulty("Normal")
+		.setName("Normal")
+		.setDescription(
+			"Normal is a sub-difficulty of Medium with a rating of 2.25. It is humanly possible and very simple for most players to complete, with only minor challenges for beginners. Obstacles are generally straightforward, with occasional one-stud jumps and safety nets to prevent major setbacks. Normal serves as an accessible entry point for those progressing through the difficulty chart.",
+		)
+		.setVisualRating("2.25")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(229, 228, 93))
+		.setImage("rbxassetid://101613201658230");
+
+	static readonly Intermediate = new Difficulty("Intermediate")
+		.setName("Intermediate")
+		.setDescription(
+			"Intermediate is a Low Class 2 difficulty, positioned after Medium and before Hard. It serves as a transition barrier for players moving from Medium to Hard, being moderately difficult for average players but relatively easy for experienced obbyists.\n\nThis difficulty is similar to the hardest Medium and easiest Hard towers, featuring simple jumps and wraparounds that are easy to read. Safety nets may be present, but it's still possible to lose progress. Intermediate is a good stepping stone before attempting Hard, and its rating of 2.5 reflects its place between these two difficulties.",
+		)
+		.setVisualRating("2.5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(255, 183, 0))
+		.setImage("rbxassetid://91492831959063");
+
+	static readonly Rewardable = new Difficulty("Rewardable")
+		.setName("Rewardable")
+		.setDescription(
+			"Rewardable is a Low Class 2 sub-difficulty that sits between Intermediate and Hard. It is known for its friendly nature and unique shop system: every obstacle you attempt or complete earns you points, which can be spent on temporary abilities to help you progress. However, these abilities are lost upon death and must be re-earned. Rewardable is designed to encourage problem-solving and quick trials, making it an approachable and supportive step in the difficulty chart.",
+		)
+		.setVisualRating("2.75")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(157, 101, 71))
+		.setImage("rbxassetid://77507220834077");
+
+	static readonly Hard = new Difficulty("Hard")
+		.setName("Hard")
+		.setDescription(
+			"Hard is a difficulty in EToH represented by an orange square. It follows Medium and precedes Difficult. Obstacles in Hard are similar to those in Medium but are more numerous and often include disappearing platforms and conveyors. Towers at this level can take 8-15 minutes to complete and are intended for above-average obbyists.\n\nPlayers can expect a noticeable increase in challenge compared to previous difficulties, and some may struggle with certain sections. Hard is a key step for players looking to improve their skills and tackle more advanced towers.",
+		)
+		.setVisualRating("3")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://89882698332647");
+
+	static readonly Tricky = new Difficulty("Tricky")
+		.setName("Tricky")
+		.setDescription(
+			"Tricky is the hardest Low Class 2 difficulty, positioned between High Hard and Baseline Difficult. It is one of the more demanding difficulties within Class 2, and it is recommended to tackle towers in this category only after mastering all towers at and below the Hard difficulty level. The difficulty range for Tricky is 3 - 3.5.\n\nFan-made obbies with this difficulty often contain traps and unexpected diversions. These traps can be harmless, causing no loss of progress, or harmful, causing the player to lose progress. The choice depends on the builder's intent.",
+		)
+		.setVisualRating("3.25")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(255, 44, 0))
+		.setImage("rbxassetid://135882769658905");
+
+	static readonly Onerous = new Difficulty("Onerous")
+		.setName("Onerous")
+		.setDescription(
+			"Onerous is a transitional difficulty between Hard and Easeful, found in the lower spectrum of the EToH difficulty chart. While still relatively easy, it introduces more killbricks, difficult jumps, and complex contraptions. Onerous requires more dedication than previous difficulties but remains accessible to most players progressing through the chart.",
+		)
+		.setVisualRating("3.5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(255, 73, 42))
+		.setImage("rbxassetid://96690096743541");
+
+	static readonly Easeful = new Difficulty("Easeful")
+		.setName("Easeful")
+		.setDescription(
+			'Easeful is a sub-difficulty of Onerous, occupying the upper half of the 3.50 to 3.99 range, specifically spanning 3.75 to 3.99. It marks the end of the "Noob Crushings" era and represents the barrier between what is possible for the untrained and towers that require a more dedicated grind. If you are at this skill level, you are most likely just beginning your journey into more challenging gameplay.\n\nIn the difficulty chart, Easeful is placed after Onerous and before Difficult, with its sub-difficulty Strenuous following after. This stage introduces new concepts that come with leaving the Noob Zone, such as learning to grind, improving jump strategies, and using techniques like Shiftlock. Easeful serves as a transition into towers that demand more practice and skill, preparing players for the greater challenges ahead.',
+		)
+		.setVisualRating("3.75")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(253, 114, 93))
+		.setImage("rbxassetid://90221508138830");
+
+	static readonly Difficult = new Difficulty("Difficult")
+		.setName("Difficult")
+		.setDescription(
+			"Difficult is a difficulty in EToH, represented by a bright red parallelogram. It requires more precision and skill than previous levels, introducing hidden traps, falling platforms, and more complex obstacles like 3-6 stud wraparounds and thin tightropes. Players may need to use glitches to succeed. Difficult marks a significant step up in challenge, with many towers, citadels, and steeples assigned to this rating.",
+		)
+		.setVisualRating("4")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://70770344123195");
+
+	static readonly Strenuous = new Difficulty("Strenuous")
+		.setName("Strenuous")
+		.setDescription(
+			"Strenuous is a Mid Class 2 Sub-Difficulty that is harder than Difficult but easier than Menacing. It is the last difficulty of Mid Class 2, and jumps here start to get harder. This difficulty is a significant step up from what a normal player could generally accomplish without assists. Players are encouraged to practice Hard and Difficult obstacles to prepare for Strenuous.",
+		)
+		.setVisualRating("4.25")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(147, 32, 0))
+		.setImage("rbxassetid://118118824469427");
+
+	static readonly Menacing = new Difficulty("Menacing")
+		.setName("Menacing")
+		.setDescription(
+			"Menacing is a Class 2 difficulty directly between Difficult and Challenging. This is where things start to get properly complicated: 1-stud platforms become common, longer jumps (7-8 studs) appear more often, and wraparounds of 5-7 studs are generally found. Sometimes glitches may be used. Overall, this difficulty is still fairly easy to beat with patience and some skill, but it marks a step up in complexity.",
+		)
+		.setVisualRating("4.5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(178, 20, 14))
+		.setImage("rbxassetid://83314719877644");
+
+	static readonly Harming = new Difficulty("Harming")
+		.setName("Harming")
+		.setDescription(
+			"Harming is a Mid Class 2 revived sub-difficulty of Menacing. It comes before EToH's Challenging difficulty and serves as a gateway to tougher challenges. Harming incorporates techniques from Menacing and other similar difficulties, and is known for being a significant roadblock for many players. The difficulty is designed to test a player's dedication and can be mentally taxing.\n\nHarming has been revived multiple times and once had a version called Hyper-Harming in Class 7, which no longer exists. The difficulty is represented by a simple red background with a sad emoticon, symbolizing its challenging and sometimes frustrating nature.",
+		)
+		.setVisualRating("4.75")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(211, 0, 0))
+		.setImage("rbxassetid://136146695108050");
+
+	static readonly Challenging = new Difficulty("Challenging")
+		.setName("Challenging")
+		.setDescription(
+			"Challenging is a difficulty in EToH represented by a maroon/dark red pentagon. At this level, obstacles become more demanding and complex, including difficult jumps and tightropes that can send players down several floors if failed. Challenging is a significant step up from Difficult and prepares players for even harder obstacles in Intense. Completing a tower at this level is a notable achievement, marking a player as more skilled than most.",
+		)
+		.setVisualRating("5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://80002417407460");
+
+	static readonly Irritating = new Difficulty("Irritating")
+		.setName("Irritating")
+		.setDescription(
+			"Irritating is a sub-difficulty of Challenging, situated between Challenging and Maniacal in Class 2, with a rating of 5.25. It is humanly possible but difficult for the average player. The difficulty is known for its tough jumps and wraparounds, making it a significant achievement to complete a tower at this level.\n\nIrritating serves as a transition from Challenging to Intense, and is often tackled during tower cleanups. The icon is a dark red square, representing the challenging nature of this difficulty. Recommended towers for this difficulty include Steeple of Climbing and Tower of Break It, Buy It.",
+		)
+		.setVisualRating("5.25")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(66, 0, 0))
+		.setImage("rbxassetid://139555269930159");
+
+	static readonly Maniacal = new Difficulty("Maniacal")
+		.setName("Maniacal")
+		.setDescription(
+			"Maniacal is a Class 2 difficulty that is in between Challenging and Intense with a rating of 5.5. The difficulty contains a sub-difficulty called Hectic. Maniacal consists of difficult gameplay that can irritate most players, including talented obbyists. If you are not cautious, you will most likely fall off. The vast majority of obstacles are hard and require practice. Anyone attempting a Maniacal difficulty tower should practice first.",
+		)
+		.setVisualRating("5.5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://123173702268057");
+
+	static readonly Hectic = new Difficulty("Hectic")
+		.setName("Hectic")
+		.setDescription(
+			"Hectic is a High Class 2 sub-difficulty, positioned between Maniacal and Intense. It is the first of three sub-difficulties in High C2, with the others being TooMedium and Hellish. Hectic is intended for players who have already beaten several Challenging towers and are ready for a significant increase in difficulty. The gameplay is demanding, with obstacles that require advanced skills and precision. Hectic marks the transition to the most difficult parts of Class 2 and prepares players for even tougher challenges ahead.",
+		)
+		.setVisualRating("5.75")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(37, 19, 26))
+		.setImage("rbxassetid://121032404389106");
+
+	static readonly Intense = new Difficulty("Intense")
+		.setName("Intense")
+		.setDescription(
+			"Intense is a difficulty in EToH represented by a black hexagon. It sits between Challenging and Remorseless, and is often considered the gateway to higher difficulties. Obstacles are harder than those in Challenging towers but not as tough as Remorseless. Typical challenges include 7–9 stud wraparounds and 10–11 stud long jumps, with a significant risk of falling.\n\nIntense is the most common difficulty in-game, with many towers, steeples, and citadels assigned to it. It marks a considerable increase in challenge and is a key milestone for players progressing through the difficulty chart.",
+		)
+		.setVisualRating("6")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://117042470883491");
+
+	static readonly TooMedium = new Difficulty("TooMedium")
+		.setName("TooMedium")
+		.setDescription(
+			'TooMedium is a Class 2 difficulty that is harder than Intense but easier than Severe. While it is still humanly possible, most jumps in this difficulty require a good amount of skill and patience. It is recommended to attempt TooMedium after mastering mid-Intense obstacles, as it can be surprisingly challenging for unprepared players.\n\nTooMedium is part of the "Too Chain," a series of difficulties that are buffs of the normal JToH difficulties. It tests skill and patience, serving as a stepping stone to harder challenges.',
+		)
+		.setVisualRating("6.25")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://79493533342420");
+
+	static readonly Severe = new Difficulty("Severe")
+		.setName("Severe")
+		.setDescription(
+			"Severe is a Peak Class 2, Normal Difficulty, represented with a pale, dim purple color. It surpasses the strenuous Intense and precedes the onerous Remorseless. This difficulty is one of many that have tried to be the border between Intense and Remorseless.\n\nSevere acts and looks like a fanmade JToH difficulty, projecting obstacles too hard to be Intense, yet too sub-standard to be Remorseless. Around this point, you are at the beginning of JToH’s second, more impossible half, and completing this is deemed quite the achievement.",
+		)
+		.setVisualRating("6.5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(109, 58, 121))
+		.setImage("rbxassetid://120330612227654");
+
+	static readonly Hellish = new Difficulty("Hellish")
+		.setName("Hellish")
+		.setDescription(
+			"Hellish is a High Class 2 sub-difficulty of Severe, with a rating of 6.75. It serves as a transition between Intense and Remorseless gameplay, introducing players to more challenging obstacles and techniques. Hellish is designed as a tedious trial, acting as a buffed version of the middle of the Skill-Crushing chart. The difficulty is characterized by its dark purple icon and is intended to prepare players for the even greater challenges of Remorseless and beyond.",
+		)
+		.setVisualRating("6.75")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(103, 15, 117))
+		.setImage("rbxassetid://105036212397991");
+
+	static readonly Remorseless = new Difficulty("Remorseless")
+		.setName("Remorseless")
+		.setDescription(
+			"Remorseless is a difficulty in EToH represented by a magenta octagon. It is the hardest non-Soul Crushing difficulty and the last required for game progression. Obstacles in Remorseless towers are more challenging versions of those found in Challenging and Intense towers, often requiring hours of practice to master. The difficulty is known for its high punishment and is a rare but important milestone in the game's progression.",
+		)
+		.setVisualRating("7")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://124615175144208");
+
+	static readonly C0RrUpT = new Difficulty("C0RrUpT")
+		.setName("C0RrUpT")
+		.setDescription(
+			"C0RrUpT is a Class 2 sub-difficulty that sits between Remorseless and Relentless. It features obstacles that are tougher than Remorseless, with more mechanics and complexity, often seen in higher-level difficulties. C0RrUpT is a significant step up in challenge and is recommended for players with experience and skill. The difficulty is characterized by challenging wraparounds, jumps, and the use of glitches, making it a tough but possible challenge for advanced players.",
+		)
+		.setVisualRating("7.25")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(187, 0, 160))
+		.setImage("rbxassetid://119086888663807");
+
+	static readonly Psycho = new Difficulty("Psycho")
+		.setName("Psycho")
+		.setDescription(
+			"Psycho is a High Class 2 difficulty, located between C0RrUpT and Harsh. It is one of the last non-soul crushing difficulties before entering the Soul-Crushing range. Obstacles become increasingly absurd and challenging, pushing players toward the edge of sanity. The icon is a solid purple, and the difficulty is known for its tough, skill-based gameplay.",
+		)
+		.setVisualRating("7.5")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(195, 54, 252))
+		.setImage("rbxassetid://120121677019953");
+
+	static readonly Harsh = new Difficulty("Harsh")
+		.setName("Harsh")
+		.setDescription(
+			"Harsh is a Peak Class 2 sub-difficulty that fills the gap between Psycho and Relentless. It is known for its grueling and demanding gameplay, requiring formidable effort and skill. Harsh is considered insurmountable for the average obbyist and is especially challenging for mobile players, bordering on impossible even for the best. Players are advised to practice Psycho difficulty towers extensively before attempting Harsh, as it represents one of the final challenges in Class 2 before entering the Soul Crushing difficulties.",
+		)
+		.setVisualRating("7.75")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(166, 46, 252))
+		.setImage("rbxassetid://137670492873229");
+
+	static readonly Relentless = new Difficulty("Relentless")
+		.setName("Relentless")
+		.setDescription(
+			"Relentless is a Class 2 Finale difficulty, bridging the gap between Psycho and Vexatious. It marks the end of the normal difficulty curve before the transition to soul-crushing challenges. The obstacles here are the last to follow a standard progression, and the difficulty is intended for highly skilled players. Relentless represents a significant milestone, signaling the player's readiness to tackle even greater challenges ahead.",
+		)
+		.setVisualRating("8")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(72, 0, 255))
+		.setImage("rbxassetid://78026994619701");
+
+	static readonly Angerable = new Difficulty("Angerable")
+		.setName("Angerable")
+		.setDescription(
+			"Angerable is the ultimate challenge of Class 2 and the only sub-difficulty of Relentless. This difficulty's obstacles are excruciating and can be ended in failure at any time without practice. As the name implies, it can be extremely aggravating.",
+		)
+		.setVisualRating("8.25")
+		.setLayoutRating(math.huge)
+		.setClass(2)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Complex = new Difficulty("Complex")
+		.setName("Complex")
+		.setDescription(
+			"Complex is a sub-difficulty located in the Soul Crushing (SC) territory, specifically at Baseline Class 3, between Vexatious and Insane. It is the first sub-difficulty in Baseline C3 and serves as an introduction to SC towers. Complex was originally planned as a higher-class difficulty but now marks the transition from Regular to SC difficulties. It is exclusive to the EJT Wiki, with its main difficulty being Vexatious. Complex is notable for its placement and for introducing players to the challenges of SC towers.",
+		)
+		.setVisualRating("8.75")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Insane = new Difficulty("Insane")
+		.setName("Insane")
+		.setDescription(
+			"Insane is a Soul Crushing difficulty in EToH, represented by a deep blue 3-pointed star. It is the first and easiest difficulty in the Soul Crushing series, marking a significant step up from Remorseless. Obstacles in Insane towers are much tougher and require extensive practice, often taking weeks or months to complete. Progressing from Remorseless to Insane is a major challenge, and beating an Insane tower is considered a huge achievement for any player.",
+		)
+		.setVisualRating("9")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://100673673471588");
+
+	static readonly Thanos = new Difficulty("Thanos")
+		.setName("Thanos")
+		.setDescription(
+			'Thanos was a sub-difficulty represented by the color Indigo, placed to the left side of Insane on the Difficulty Chart. It was formerly exclusive to one Tower, Thanos Tower in Ring 1. Thanos Tower was considered High-Peak Insane back then, and the difficulty was removed from the game due to its limited use. Since its removal, there is a grave in Thanos Tower\'s winroom reading "R.I.P Thanos Difficulty."\n\nThanos difficulty was used for only one tower and was removed, similar to other rare or discontinued difficulties.',
+		)
+		.setVisualRating("9.25")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://96578277214518");
+
+	static readonly Madness = new Difficulty("Madness")
+		.setName("Madness")
+		.setDescription(
+			"Madness is a Class 3 soul-crushing sub-difficulty of Insane, positioned between Insane and Extreme, and is represented by the color dodger blue. Obstacles in this difficulty are harder than those in Insane, making towers of this difficulty a huge challenge for most players. They require a very good amount of skill to beat, and obstacles at this level will be mostly impossible for the average player. This difficulty may even be a challenge for better obbyists. Beating a tower in this difficulty is a huge achievement.",
+		)
+		.setVisualRating("9.5")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 119, 255))
+		.setImage("rbxassetid://97064686282615");
+
+	static readonly Classical = new Difficulty("Classical")
+		.setName("Classical")
+		.setDescription(
+			'Classical is a Class 3 sub-difficulty, one of the first difficulties of low class 2. It is harder than Madness and easier than Extreme. Classical is very hard and will take many attempts to complete, serving as a near human-impossible challenge. The icon is a blue background with the word "die" in text, reflecting its old-school, tough nature.',
+		)
+		.setVisualRating("9.75")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(39, 153, 237))
+		.setImage("rbxassetid://112193292444652");
+
+	static readonly Extreme = new Difficulty("Extreme")
+		.setName("Extreme")
+		.setDescription(
+			"Extreme is a difficulty in EToH represented by a cerulean 4-pointed star. It is the second Soul Crushing difficulty and the third hardest canon difficulty currently in-game. Obstacles in Extreme towers are harder than those in Insane, requiring more time and skill to overcome. There are currently 13 towers (18 including events) assigned to this difficulty rating.",
+		)
+		.setVisualRating("10")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://126680097575875");
+
+	static readonly Uneasy = new Difficulty("Uneasy")
+		.setName("Uneasy")
+		.setDescription(
+			"Uneasy is a Class 3 sub-difficulty of Extreme. This difficulty is insanely hard to beat, and most obbyists may not even reach this difficulty. Even professional obbyists may struggle with towers of this difficulty, with it being even harder than Madness. There is the occasional trap, and obstacles here may consist of difficulty among the qualities of Tower of Confusion except slightly buffed. As a Class 3 difficulty, it has a real tower.\n\nAfter beating Extreme, you face Uneasy difficulty. This difficulty has some obstacles which are going to make you feel uneasy to do the tower, despite the tower itself being mostly short and half empty, making it bearable to beat. Towers with this difficulty are hard to get consistent at due to their very confusing and difficult obstacles to memorize.\n\nTrying to beat this difficulty can cause you to go uneasy on it even if you can do it simply.",
+		)
+		.setVisualRating("10.25")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Turmoil = new Difficulty("Turmoil")
+		.setName("Turmoil")
+		.setDescription(
+			"Turmoil is a Low Class 3 difficulty with a rating of 10.5, placing it between Extreme and Terrifying. It is considered Humanly Possible, but only for those with exceptional skill. Towers of this difficulty require precise jumps, complex mechanisms, and a high level of punishment for mistakes. Completing a Turmoil tower is a significant achievement, as very few players are able to do so.",
+		)
+		.setVisualRating("10.5")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(49, 186, 255))
+		.setImage("rbxassetid://83744697957042");
+
+	static readonly Absurd = new Difficulty("Absurd")
+		.setName("Absurd")
+		.setDescription(
+			"Absurd is a Low-Mid Class 3 difficulty created by TasmanianRex. It is placed between Extreme and Terrifying, though it was once the borderline for Class 2 before other difficulties were reclassified. Absurd requires advanced techniques and precise positioning, making it a significant challenge for elite players. Towers in this difficulty are time-consuming and punishing, often causing players to give up. Practice is essential before attempting Absurd difficulty towers.",
+		)
+		.setVisualRating("10.75")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://124170786724805");
+
+	static readonly Terrifying = new Difficulty("Terrifying")
+		.setName("Terrifying")
+		.setDescription(
+			"Terrifying is a Soul Crushing difficulty in EToH, represented by a turquoise/cyan 5-pointed star. It is the second hardest canon difficulty in the game. Obstacles in towers of this difficulty are even harder than those in Extreme towers, and all of these towers have very few legitimate completions.\n\nTowers of this difficulty require a large amount of skill to beat. They are known to be extremely difficult and can take a long time to complete, making beating one a significant achievement.",
+		)
+		.setVisualRating("11")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://102184511238527");
+
+	static readonly Ghastly = new Difficulty("Ghastly")
+		.setName("Ghastly")
+		.setDescription(
+			'Ghastly is a Mid Class 3 sub-difficulty, serving as the easiest sub-difficulty of Terrifying and positioned before Catastrophic. It is a soul-crushing challenge that requires top-level skill, with obstacles that demand precise timing and a bit of luck. The name "Ghastly" is a synonym for "Terrifying," and the difficulty is known for its light blue icon and challenging gameplay. Created by YataDev (revamp) and AlephWasTaken (original), Ghastly is a classic, officially recognized difficulty that tests the limits of even experienced players.',
+		)
+		.setVisualRating("11.25")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://134778246615750");
+
+	static readonly Petrifying = new Difficulty("Petrifying")
+		.setName("Petrifying")
+		.setDescription(
+			"Petrifying is a Class 3 difficulty, considered tougher than Terrifying but easier than Catastrophic, the final canon Juke's Towers of Hell difficulty. It is also regarded as more challenging than Horrifying, but less so than Alarming, its only sub-difficulty. Petrifying is the penultimate canon non-sub difficulty in its range and is equivalent to an old iteration of the Tower of Augmented Misery. This difficulty is known for its challenging obstacles and is a significant step up in difficulty.",
+		)
+		.setVisualRating("11.5")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(201, 255, 255))
+		.setImage("rbxassetid://71174372035391");
+
+	static readonly Horrifying = new Difficulty("Horrifying")
+		.setName("Horrifying")
+		.setDescription(
+			'Horrifying is a Mid Class 3 Soul Crushing sub-difficulty of Terrifying. It is intended for players who have already completed a Terrifying tower, as the challenge here is extremely high—nearly humanly impossible. Towers of this difficulty are known for their intense difficulty, with warnings such as "NEARLY IMPOSSIBLE" and "NOPE, YOU ARE NOT BEATING THIS ON MOBILE" due to the sheer challenge they present. Only the most skilled players should attempt this level, and even then, success is unlikely without extraordinary ability or luck.',
+		)
+		.setVisualRating("11.75")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(191, 255, 255))
+		.setImage("rbxassetid://128657447880967");
+
+	static readonly Catastrophic = new Difficulty("Catastrophic")
+		.setName("Catastrophic")
+		.setDescription(
+			"Catastrophic, originally called Never Again, Unreal, and Death, is a Soul Crushing difficulty in EToH represented by a white 6-pointed star. It is the last and hardest canon soul-crushing difficulty, as well as the game's hardest official difficulty. Obstacles are extremely difficult, requiring high skill and practice, often relying on punishment or raw skill. Only a handful of towers are classified as Catastrophic, making it a true test for the most skilled players.",
+		)
+		.setVisualRating("12")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://72423613477361");
+
+	static readonly ChampionsRoad = new Difficulty("ChampionsRoad")
+		.setName("Champion's Road")
+		.setDescription(
+			"Champion's Road is the last sub-difficulty of Catastrophic and the final tower difficulty in its chain. It is based on the Tower of Champion's Road and is located in Mid Class 3 as a sub-difficulty. This difficulty is still humanly possible but extremely challenging, requiring great precision and skill. Only the best players will surpass Champion's Road, making it a true test of mastery.",
+		)
+		.setVisualRating("12.25")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Eccentric = new Difficulty("Eccentric")
+		.setName("Eccentric")
+		.setDescription(
+			"Eccentric is a high Class 3 difficulty positioned between Catastrophic and Horrific. It represents the upper range of Catastrophic and the borderline between Catastrophic and Horrific, serving as the final challenge before entering the high range of Class 3. Due to its placement, Eccentric is considered borderline impossible and should only be attempted by the most elite obbyists, though individual jumps are still manageable for those with a high skill level.\n\nIt is recommended to practice on this difficulty, as it focuses on raw skill rather than luck-based elements. Mastering Eccentric will prepare you for even more challenging obstacles ahead. Before attempting a tower of this difficulty, it's important to improve your skill and develop aspects like nerve control and anger management. Good luck!",
+		)
+		.setVisualRating("12.5")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(88, 88, 99))
+		.setImage("rbxassetid://97012444706753");
+
+	static readonly Dorcelessness = new Difficulty("Dorcelessness")
+		.setName("Dorcelessness")
+		.setDescription(
+			"Dorcelessness is a difficulty that is not found inside of JToH. This difficulty resides between Eccentric and Horrific. It is meant to border the two difficulties, while also containing towers from the peak of the Catastrophic difficulty. Dorcelessness is represented by a light pink square surrounded by many triangles with varying shades of pastel pink, with the center displaying many small cracks in a stained glass-like pattern.\n\nThis difficulty contains some extremely difficult jumps that even the current best obbyists will struggle with. Many of these jumps can be found within towers such as Tower of Cruel Punishment and Tower of Vacant Hindrances.",
+		)
+		.setVisualRating("12.75")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(241, 184, 255))
+		.setImage("rbxassetid://129454640416182");
+
+	static readonly Horrific = new Difficulty("Horrific")
+		.setName("Horrific")
+		.setDescription(
+			"Horrific is a difficulty represented by a lilac color (#9691FF) and a black square. It contains obstacles harder than Catastrophic but easier than Unreal. Horrific was once an official difficulty in JToH and EToH, created to prevent the making of nil towers, but was later removed for being redundant. Towers at this level require great precision, and even skilled players will find them extremely challenging. Horrific is now used in The Eternal Abyss and is known for its demanding gameplay and high standards for completion.",
+		)
+		.setVisualRating("13")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(23, 22, 38))
+		.setImage("rbxassetid://83530716636824");
+
+	static readonly Reversed = new Difficulty("Reversed")
+		.setName("Reversed")
+		.setDescription(
+			"Reversed is a Class 3 sub-difficulty that introduces a unique twist: all controls and visuals are reversed, and the player appears upside-down with inverted colors. After beating Horrific, players find themselves in this disorienting world, where moving left turns you right and everything feels backwards. The challenge lies not just in the obstacles, but in adapting to the reversed controls and perspective. Mastery of Reversed requires practice and a willingness to embrace confusion before moving on to even greater challenges.",
+		)
+		.setVisualRating("13.25")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(45, 76, 74))
+		.setImage("rbxassetid://122957664527028");
+
+	static readonly Eternal = new Difficulty("Eternal")
+		.setName("Eternal")
+		.setDescription(
+			"Eternal is a Class 3 difficulty, located after Horrific and before Unreal or its sub-difficulty, Confident. It is extremely difficult to complete and requires extensive knowledge of intricate glitches and mechanics found within Roblox obbies and towers. While humanly possible, it is recommended to use Tool Assisted Speedrun to make the obstacles more manageable. Eternal reflects obstacles seen in both skyline Horrific and belowground Confident, despite being listed as between the two.",
+		)
+		.setVisualRating("13.5")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(27, 15, 25))
+		.setImage("rbxassetid://132960780286809");
+
+	static readonly Confident = new Difficulty("Confident")
+		.setName("Confident")
+		.setDescription(
+			"Confident is a Class 3 sub-difficulty that was originally created for the JCC wiki as Unfathomable, later ported to the JToH’s Joke Towers Wiki as Confident. It was intended to be the borderline between human possibility and impossibility, though it no longer holds that position. The difficulty requires precise movements, strict timings, and a small amount of luck, with even minor mistakes leading to failure. Confident is placed after Eternalized and before Unreal, and is inspired by Nightmare. Preparation and practice are essential for tackling this challenge.",
+		)
+		.setVisualRating("13.75")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(56, 56, 56))
+		.setImage("rbxassetid://117928828509785");
+
+	static readonly Unreal = new Difficulty("Unreal")
+		.setName("Unreal")
+		.setDescription(
+			"Unreal is a difficulty represented by dark purple with a black square. It is above Horrific and below nil on the difficulty chart. Towers in this difficulty demand absurd skill, to the point of almost being considered luck. This difficulty is barely humanly possible, since you need an ungodly amount of skill and strategy to comfortably do it. The accuracy of towers in this difficulty is quite low as there are not many towers people can compare difficulties with, meaning some Unreal towers may be very over– or underrated. Above Mid Unreal (around STH difficulty) is generally considered to be humanly impossible on only 60 fps, so towers of a higher difficulty must be completed with FPS switching.",
+		)
+		.setVisualRating("14")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(22, 0, 42))
+		.setImage("rbxassetid://96115607384808");
+
+	static readonly HYPER = new Difficulty("HYPER")
+		.setName("HYPER")
+		.setDescription(
+			"Hyper is a Peak Class 3 sub-difficulty of Unreal and is the last sub-difficulty classified as Humanly Possible. While extremely challenging, it has been beaten, proving that it is not entirely impossible. Hyper sits between Unreal and Treacherous on the chart and is known for its vast number of sub-difficulties and unique variations. The difficulty is characterized by its extreme jumps and obstacles, requiring mastery and near-perfect execution to succeed.",
+		)
+		.setVisualRating("14.25")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(89, 45, 17))
+		.setImage("rbxassetid://89338408907759");
+
+	static readonly Treacherous = new Difficulty("Treacherous")
+		.setName("Treacherous")
+		.setDescription(
+			'Treacherous is a Class 3 "Borderline Impossible" difficulty, positioned between Unreal and Anguish. It is extremely hard, to the point where only a select few will emerge victorious. Treacherous is considered the first final challenge before entering the realm of human impossibility.\n\nThe icon is a dark purple background, representing the transition from Unreal to Nil. Towers in this difficulty are known for their high level of challenge and are a true test of skill for any player.',
+		)
+		.setVisualRating("14.5")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(63, 42, 95))
+		.setImage("rbxassetid://78051354029949");
+
+	static readonly Oblivious = new Difficulty("Oblivious")
+		.setName("Oblivious")
+		.setDescription(
+			"Oblivious is a sub-difficulty of Anguish, positioned just before The Human Limit. It represents the final test before reaching the absolute limit of genuine, possible difficulties. Obstacles may seem manageable at first, but the true challenge becomes apparent as players progress. Beyond this point, tool-assisted strategies become necessary, and only the most dedicated can hope to advance further.",
+		)
+		.setVisualRating("14.75")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(21, 10, 13))
+		.setImage("rbxassetid://98931466798671");
+
+	static readonly Anguish = new Difficulty("Anguish")
+		.setName("Anguish")
+		.setDescription(
+			"Anguish is a Peak Class 3 difficulty with a rating of 15. It is represented with the color black with a bright orange outline, styled after the Pit of Misery SC+ difficulties. This difficulty is supposed to represent the idea of The Forgotten Difficulties, a set of three difficulties that were placed between Unreal and nil.\n\nTowers in this difficulty are generally convoluted with the jumps they use, as a way for making up the fact that they are almost always purist. They also generally consist of combinations of endurance tests, extreme glitch abuse and insanely precise camera and movement usage.\n\nThe feasibility of this difficulty is debated, as it is above Unreal, which has the hardest beaten tower. However, for the purposes of this wiki it will be considered a possible difficulty.\n\nAnguish is also the second difficulty in the EToH spectrum that changes the difficulty ratings once again, because it has the exclusive rating of 15. The EToH rating that corresponds to this is (13.5 - 13.99).",
+		)
+		.setVisualRating("15")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(55, 39, 26))
+		.setImage("rbxassetid://130497220321190");
+
+	static readonly Prodigious = new Difficulty("Prodigious")
+		.setName("Prodigious")
+		.setDescription(
+			"Prodigious is a soul-crushing difficulty made by IPeedMyPants, with a black color and blue outline. It is placed in the Peak spectrum of Class 3, between Reversed and Anguish. Obstacles require skills far beyond the average player, and failing a single jump means losing all progress. Attempting this difficulty demands experience, time, and sometimes special tools.",
+		)
+		.setVisualRating("15.25")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(12, 21, 25))
+		.setImage("rbxassetid://89959171714830");
+
+	static readonly TheHumanLimit = new Difficulty("TheHumanLimit")
+		.setName("The Human Limit")
+		.setDescription(
+			"The Human Limit (THL), originally known as Zilch, is an official sub-difficulty in Class 3, located between Anguish and nil. It represents the absolute peak of human capability in terms of skill. Anything beyond this is considered humanly impossible. Obstacles of this difficulty require extreme precision, accuracy, timing, and positioning, testing the limits of human ability.\n\nNo player has ever completed a tower of this difficulty, as it demands near-inhuman skill and reaction time. The Human Limit focuses on the hardest jumps a human can do consistently using skill, without relying on luck.",
+		)
+		.setVisualRating("15.5")
+		.setLayoutRating(math.huge)
+		.setClass(3)
+		.setColor(Color3.fromRGB(21, 21, 21))
+		.setImage("rbxassetid://73475132401886");
+
+	static readonly nil = new Difficulty("nil")
+		.setName("nil")
+		.setDescription(
+			"nil is a difficulty below Error and above Unreal, represented by the color black with a gray outline. It was created specifically for the Citadel of Void, one of the hardest towers in Eternal Towers of Hell. Obstacles in nil are extremely unforgiving, requiring high precision and consistency, and are subject to changes in game physics.\n\nnil was reserved for only the most challenging towers and is rarely seen due to its extreme difficulty.",
+		)
+		.setVisualRating("16")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(18, 18, 19))
+		.setImage("rbxassetid://72523003117167");
+
+	static readonly Jank = new Difficulty("Jank")
+		.setName("Jank")
+		.setDescription(
+			"Jank is a sub-difficulty of Nil, located near the peak phase of Nil in Class 4. It is known for its unfair, uncomfortable obstacles and heavy reliance on RNG, making it extremely challenging even for the best obbyists. The difficulty is the successor to Nil and precedes The Heart of Void and Error.\n\nTowers in Jank feature instakill floors, unfair wallhops, and tight squeezes, often requiring TAS or special tools to complete. The icon is a glowing version of the Nil icon, with a brighter top and outlined design. Jank is infamous for its uncomfortable gameplay and is a major milestone for those seeking the most extreme challenges.",
+		)
+		.setVisualRating("16.33")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(43, 43, 43))
+		.setImage("rbxassetid://105724786238459");
+
+	static readonly TheHeartofVoid = new Difficulty("TheHeartofVoid")
+		.setName("The Heart of Void")
+		.setDescription(
+			"The Heart Of Void is a Baseline Class 4 humanly impossible sub-difficulty. It is harder than nil or Jank but easier than eRRoR. Obstacles in this difficulty require near-perfect precision and skill, making towers of this difficulty not recommended without the use of items.\n\nThis difficulty used to be the transition point between nil and eRRoR, but newer difficulties have since taken that position. It is a sub-difficulty of eRRoR and originated from OoIDC.",
+		)
+		.setVisualRating("16.66")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(52, 52, 52))
+		.setImage("rbxassetid://95474517015449");
+
+	static readonly eRRoR = new Difficulty("eRRoR")
+		.setName("eRRoR")
+		.setDescription(
+			"Error, previously stylized as eRRoR, is a difficulty represented with Cocoa fading into Salmon. It is assigned to towers that are easier than Literal, but harder than nil. Error is differentiated from nil in that individual obstacles are quite difficult to perform even by top players, making TAS a very helpful tool for verifying a tower of this difficulty. Towers that are Error are almost always insanely punishing and inhumanely long, where failing any part of the tower will immediately make you lose all of your progress. Error serves as a classification of towers where doing every single jump individually using only checkpoints/save-states without segments from other players is an impressive feat.",
+		)
+		.setVisualRating("17")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(74, 25, 25))
+		.setImage("rbxassetid://123930424359486");
+
+	static readonly Nightmare = new Difficulty("Nightmare")
+		.setName("Nightmare")
+		.setDescription(
+			"Nightmare is a Low Class 4 difficulty, represented by a black-grey-black gradient. It is humanly impossible to beat and is recommended only for those using tool-assisted speedruns or similar aids. Nightmare is a successor to nil and a predecessor to Error, featuring extremely luck-based and precise obstacles.\n\nCompleting even a single floor of a Nightmare difficulty tower is a significant achievement, as the obstacles require prodigious skill and luck.",
+		)
+		.setVisualRating("17.33")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(43, 43, 43))
+		.setImage("rbxassetid://136870266460913");
+
+	static readonly Literal = new Difficulty("Literal")
+		.setName("Literal")
+		.setDescription(
+			"Literal is a difficulty represented by the color Earth Blue (RGB 32, 58, 86). It is used for towers that are harder than Error but easier than WHY. Literal defines towers with obstacles that are almost impossible to verify normally and must be proven physically possible using tool assistance.\n\nLiteral serves as a rigorous test of the upper limits of possibility, demanding significant time and a deep understanding of obby mechanics. The icon has gone through several redesigns, with the current version featuring a simple blue background. Literal was added to balance the difficulty chart and provide a proper challenge between Error and WHY.",
+		)
+		.setVisualRating("17.66")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(11, 22, 32))
+		.setImage("rbxassetid://75818238103836");
+
+	static readonly WHY = new Difficulty("WHY")
+		.setName("WHY")
+		.setDescription(
+			"WHY (also known as TooHard) is a difficulty that is below No and above Literal in the difficulty chart, represented by the color black with a white outline and a white XD in the middle. Nothing for certain can be said about this difficulty, since it is several difficulties beyond feasible reach for any obbyist today, and it likely will stay that way forever. Obstacles in towers of this difficulty would require unimaginable precision in every possible category of computer input and are borderline humanly impossible, with almost all individual jumps requiring tool assistance or even RNG manipulation.",
+		)
+		.setVisualRating("18")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://123648958819064");
+
+	static readonly MAXIMUMOVERDRIVE = new Difficulty("MAXIMUMOVERDRIVE")
+		.setName("MAXIMUM OVERDRIVE")
+		.setDescription(
+			'Maximum Overdrive is a difficulty reserved for towers with obstacles that require even more broken physics than Why difficulty. It represents the absolute limit of what humans are capable of doing in terms of difficulty. The origin of this difficulty traces back to an unknown player from Sandbox (2) in 2018, where it was originally called "Borderline Impossible/True Borderline Impossible" before being renamed. A single jump at this level is already more difficult than the entirety of the Tower of Spiralling Fates. The range of this difficulty spans from High Why to Low No.',
+		)
+		.setVisualRating("18.5")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://118051481446006");
+
+	static readonly No = new Difficulty("No")
+		.setName("No")
+		.setDescription(
+			'No is a difficulty that is assigned to towers that are harder than WHY difficulty, but easier than DEATH. It is represented with a stone gray fading into black, a stone gray outline, and a white ".-." in the middle.\n\nObstacles in this difficulty have broken logic and jumps that can\'t usually be done. These obstacles are either no longer possible due to updates or only possible with TAS. This is the first difficulty that has humanly impossible jumps (9+), so from this point towers cannot be properly rated.',
+		)
+		.setVisualRating("19")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(39, 39, 39))
+		.setImage("rbxassetid://78949514175710");
+
+	static readonly Purgatory = new Difficulty("Purgatory")
+		.setName("Purgatory")
+		.setDescription(
+			"Purgatory is a Low Class 4 Humanly Impossible Difficulty, originating from HelloArt’s Extended Difficulty Chart. It represents the zone between Heaven and Hell, requiring absurd effort beyond the capabilities of any obbyist. Even with tools like TAS, only singular jumps might be possible, but completing the entire difficulty is not. Purgatory is a major milestone for those venturing into the most punishing challenges.",
+		)
+		.setVisualRating("19.5")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 61, 41))
+		.setImage("rbxassetid://114166491059859");
+
+	static readonly DEATH = new Difficulty("DEATH")
+		.setName("DEATH")
+		.setDescription(
+			"DEATH is a difficulty assigned to towers that are harder than No and easier than HELL. Represented by a red skull on a black background with a red outline, towers in this difficulty are humanly impossible. DEATH stands as a daunting challenge, with obstacles that push beyond the limits of human capability.",
+		)
+		.setVisualRating("20")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(36, 15, 15))
+		.setImage("rbxassetid://91636839852383");
+
+	static readonly Nullifying = new Difficulty("Nullifying")
+		.setName("Nullifying")
+		.setDescription(
+			"Nullifying is a Low Class 4 difficulty situated between DEATH and HELL. As a humanly impossible difficulty, it marks the beginning of the XD Chain. Beating Nullifying requires tool-assisted strategies, as even completing half a floor is nearly impossible for humans. This difficulty is a buffed version of Insane, demanding extreme precision and perseverance.",
+		)
+		.setVisualRating("21")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://135608473200660");
+
+	static readonly HELL = new Difficulty("HELL")
+		.setName("HELL")
+		.setDescription(
+			'HELL is a difficulty represented by a light blue color with the text "XD" on its icon. It is assigned to towers that are harder than DEATH and easier than TARTARUS. HELL is considered humanly impossible, with obstacles that are likely beyond the capabilities of even the most elite obbyists. Towers in this difficulty are designed to demotivate and hinder players, requiring extreme precision and persistence. Even with boost items or macros, beating HELL is considered an absurd challenge.',
+		)
+		.setVisualRating("22")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://121282979756664");
+
+	static readonly Vortex = new Difficulty("Vortex")
+		.setName("Vortex")
+		.setDescription(
+			"Vortex is a Class 4 Sub-Difficulty, located in the middle section. It surpasses the XD chain and JHT difficulty HELL, yet precedes the other XD chain and JHT difficulty TARTARUS. This difficulty is absolutely impossible, due to being at the end of Class 4, and you should only be able to beat this featuring a maximally precise and powerful Tool Assisted Speedrun, along with other items, like the Blessed Coil and the Forcefield if necessary.\n\nThis difficulty is beyond the tier system, estimated to be at an estimated tier level of beyond Tier 30, which expedites the impossibility of this difficulty. If you were to even surpass ONE jump of this, it would be an achievement that would remain unbeaten for years in the Roblox community.",
+		)
+		.setVisualRating("22.5")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(70, 125, 152))
+		.setImage("rbxassetid://108581444594697");
+
+	static readonly TARTARUS = new Difficulty("TARTARUS")
+		.setName("TARTARUS")
+		.setDescription(
+			"TARTARUS is a difficulty assigned to towers harder than HELL but easier than Unimaginable. It is represented with a very light blue color and an XD on its icon. TARTARUS difficulty towers truly bend the limits of conceptual Roblox physics, with obstacles that are extremely esoteric and superficially impossible to understand. Even with tool-assisted speedruns, this difficulty remains impossible, filled with frame-perfect, pixel-perfect, and RNG inputs, requiring a near-perfect understanding of physics.",
+		)
+		.setVisualRating("23")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://125160660673928");
+
+	static readonly CALAMITY = new Difficulty("CALAMITY")
+		.setName("CALAMITY")
+		.setDescription(
+			'CALAMITY is a Mid Class 4 Humanly Impossible difficulty that comes after TARTARUS and before Unimaginable. Obstacles here are more pixel-perfect and RNG-based than TARTARUS, but not as physics-breaking as Unimaginable. CALAMITY is near the end of the "XD" Chain, a series of increasingly difficult challenges. It is known for its tough, precise gameplay and is a significant milestone for players progressing through the hardest parts of the chart.',
+		)
+		.setVisualRating("24")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://114894674178414");
+
+	static readonly Neutralize = new Difficulty("Neutralize")
+		.setName("Neutralize")
+		.setDescription(
+			"Neutralize is a mid Class 4 humanly impossible sub-difficulty, part of the CALAMITY chain. It describes the midrange of CALAMITY, with a difficulty scale of 24.25 to 24.49. Neutralize is known for requiring a wide range of advanced skills, including wraparounds, trusses, and glitches, making it inaccessible to most players.\n\nThis difficulty is deadly and is recommended only for those seeking the ultimate challenge.",
+		)
+		.setVisualRating("24.33")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://107505526878090");
+
+	static readonly Killjoying = new Difficulty("Killjoying")
+		.setName("Killjoying")
+		.setDescription(
+			"Killjoying is a low-mid Class 5, humanly impossible difficulty in the XD chain, serving as a super-buffed variant of Unreal. It is harder than Neutralize and is the fourth hardest difficulty in the XD chain. The icon is based on the old Unreal icon, with alternative versions inspired by the new Unreal icon.\n\nObstacles in Killjoying are so difficult that completion is impossible without TAS. The difficulty is notorious for its extreme challenge and is considered a major milestone for those attempting the hardest content in the chart.",
+		)
+		.setVisualRating("24.66")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://72175623080589");
+
+	static readonly Unimaginable = new Difficulty("Unimaginable")
+		.setName("Unimaginable")
+		.setDescription(
+			"Unimaginable is a difficulty assigned to towers harder than TARTARUS, but easier than Omega. It is currently represented with a red square with three white question marks (???) on a black to dark red gradient box. This is the estimated difficulty where theoretical physical possibility can go before falling into the no-go zone. These obstacle courses seemingly go against the laws of Roblox. Any attempt to beat an Unimaginable tower without any exploits is futile.",
+		)
+		.setVisualRating("25")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(101, 19, 19))
+		.setImage("rbxassetid://79896076074286");
+
+	static readonly Dimension = new Difficulty("Dimension")
+		.setName("Dimension")
+		.setDescription(
+			"Dimension (Dim) is a Class 4 sub-difficulty in the high range, classified as humanly impossible. It sits between Unimaginable and Omega, and requires TAS or exploits to complete its obstacles. Dimension was first created in August 2020 and has a history of being deleted and revived. Its challenges are beyond human capability, making it a true test for only the most dedicated players.",
+		)
+		.setVisualRating("25.5")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(128, 128, 128))
+		.setImage("rbxassetid://123594431603600");
+
+	static readonly Omega = new Difficulty("Omega")
+		.setName("Omega")
+		.setDescription(
+			'Omega is a difficulty much harder than Unimaginable but easier than Aleph-Null, represented by a rainbow color scheme. Obstacles are extremely obscure, and towers in this difficulty can take months or even years to verify. Omega is considered by some to be the first "physically impossible" difficulty, marking a major milestone in the chart.',
+		)
+		.setVisualRating("26")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Disarray = new Difficulty("Disarray")
+		.setName("Disarray")
+		.setDescription(
+			"Disarray is a Class 4, humanly impossible difficulty that serves as a border between theoretical physical possibility and truly impossible gameplay. It is harder than Omega and easier than SUFFER. The path through Disarray is confusing and relentless, trapping players in an ascending pentagon tower where a single wrong move leads to repeated failure. The obstacles are indecipherable and nearly impossible, making progress a tremendous challenge. Reaching this difficulty is a testament to a player's dedication, but moving forward is even more daunting.",
+		)
+		.setVisualRating("26.5")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(136, 24, 87))
+		.setImage("rbxassetid://107143151355699");
+
+	static readonly SUFFER = new Difficulty("SUFFER")
+		.setName("SUFFER")
+		.setDescription(
+			"SUFFER is a Class 4 Difficulty which succeeds Omega and precedes Aleph-Null or CHAOS. It is notorious for tormenting glitches, such as book glitch wraps or very fast falling platforms with instakills. SUFFER is significantly tougher and generally more impossible than Omega, but remains easier than Aleph-Null or CHAOS. The current icon is a maroon to red gradient with a black evil cat face emoticon.",
+		)
+		.setVisualRating("27")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(99, 0, 0))
+		.setImage("rbxassetid://72116078353449");
+
+	static readonly CHAOS = new Difficulty("CHAOS")
+		.setName("CHAOS")
+		.setDescription(
+			"CHAOS is a Humanly Impossible High Class 4 Sub-Difficulty, coming after SUFFER and before Aleph-Null. It is a challenge even for the best Tool Assisted Speedrunners (TAS), with obstacles and gameplay designed to create absolute chaos. CHAOS is known for its high difficulty rating and is not recommended for most players due to its extreme challenge.",
+		)
+		.setVisualRating("27.5")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(131, 131, 131))
+		.setImage("rbxassetid://82669809164578");
+
+	static readonly AlephNull = new Difficulty("AlephNull")
+		.setName("Aleph-Null")
+		.setDescription(
+			"Aleph-Null is a Class 4 difficulty, originally from the JToH's Hardest Towers wiki before being transferred to JJT. It is impossible to complete without a Tool-Assisted Speedrun (TAS), marking the start of Peak Class 4. Even completing a TAS here is a monumental achievement. Aleph-Null is known for its iconic symbol and represents the beginning of truly insurmountable challenges.",
+		)
+		.setVisualRating("28")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(82, 82, 82))
+		.setImage("rbxassetid://136632474626953");
+
+	static readonly Mystical = new Difficulty("Mystical")
+		.setName("Mystical")
+		.setDescription(
+			"Mystical is a Peak Class 4 sub-difficulty with a rating of 28.33, placing it between Aleph-Null and Immeasurable. This difficulty is in the Humanly Impossible range, meaning that any attempt at beating a tower of Mystical difficulty would likely result in failure. Obstacles include extremely challenging jumps and wraps, making it inaccessible to most players.\n\nMystical stands out as the only Mid Class 4 difficulty with a sub-difficulty and is the most recent Class 4 difficulty as of September 2023.",
+		)
+		.setVisualRating("28.33")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://108553364192627");
+
+	static readonly Reality = new Difficulty("Reality")
+		.setName("Reality")
+		.setDescription(
+			"Reality is a Class 4 difficulty designed to be a significant challenge, harder than Aleph-Null and Mystical but easier than Immeasurable. The environment is dark and foreboding, with obstacles that are extremely difficult to locate and overcome. The difficulty is meant to be a major roadblock, testing the player's ability to adapt and persevere in a harsh, unforgiving setting.",
+		)
+		.setVisualRating("28.66")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://72042608231946");
+
+	static readonly Immeasurable = new Difficulty("Immeasurable")
+		.setName("Immeasurable")
+		.setDescription(
+			'Immeasurable is a difficulty that sits between Aleph-Null and Malicious, represented by the color black with a maroon "¿¿¿" symbol. It is the second-hardest difficulty in the entire chart, with obstacles that are nearly impossible to create or complete. Mastery of advanced techniques, extreme luck, and inhuman skill are required, making it a level that will never be beaten by any human. Immeasurable is a testament to the upper limits of obby difficulty.',
+		)
+		.setVisualRating("29")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(52, 8, 8))
+		.setImage("rbxassetid://98105836657327");
+
+	static readonly Noxious = new Difficulty("Noxious")
+		.setName("Noxious")
+		.setDescription(
+			"Noxious is a Peak Class 4 sub-difficulty, located at the top of the class. It follows Immeasurable and precedes Malicious. Obstacles in Noxious require mastery of numerous advanced techniques and a great deal of luck, making towers of this difficulty impossible to beat without tools. Verifying any obstacle here is nearly impossible, demanding countless attempts and exceptional skill.",
+		)
+		.setVisualRating("29.5")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(0, 0, 67))
+		.setImage("rbxassetid://132367397167479");
+
+	static readonly Malicious = new Difficulty("Malicious")
+		.setName("Malicious")
+		.setDescription(
+			"Malicious is the hardest real difficulty on EHT and is represented with a light grey background and a faded pentagram. This difficulty is even harder than Immeasurable. Currently, there is no determiner for this difficulty due to its extreme placement, so it's not recommended to attempt building or beating a Malicious tower. It is considered unbeatable.",
+		)
+		.setVisualRating("30")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(90, 90, 90))
+		.setImage("rbxassetid://85172318114497");
+
+	static readonly Autism = new Difficulty("Autism")
+		.setName("Autism")
+		.setDescription(
+			"Autism is a peak class 4 sub-difficulty of Malicious, placed in between Malicious and Malevolent.\n\nThis difficulty is named after a condition named Autism, and this sparked tons of controversy, mainly because of the name. Some people found the name of this difficulty to be offensive. This led to many things happening:\n\n- People began vandalizing this page.\n- Tons of arguments in the comments talked about how this difficulty’s name was offensive\n- Many more things happened, but they were lost to time as this difficulty had so much controversy back in the day\n\nThe page eventually got deleted, and then someone re-created the page and changed the name from “Autism” to “Shit”, which caused even more people to get offended, with people even claiming that this wiki hates autistic people. Soon, this page got recreated with the name “Autism”, and to this day, not many people (if anyone) get offended by this difficulty.\n\nThis difficulty appeared in many towers, such as Obelisk of Impossible Difficulty Chart. (You could access this floor if you failed Malicious, which was floor 28.) This difficulty would have a tier rating of around ~35-36 and a Kol Metris rating of around 425. An average tower in this difficulty would feature tons of glitches, such as walking on kill bricks, as well as many purist sections, RNG sections, and jump abuse. The difficulty after this is Malevolent (official chart), which is the last TAS possible difficulty (at least by normal means). If anyone were to try this difficulty, they should use blessed coils, vertical mobility, and god mode (or just use the killbrick immunity tab glitch).\n\nMost towers in this difficulty have tons of instakills, which will most likely respawn people who attempt towers with this difficulty on sight. Towers in this difficulty, and any class 4 difficulty for that matter, will have parts where you will lose tons of progress.",
+		)
+		.setVisualRating("30.33")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(73, 42, 26))
+		.setImage("rbxassetid://78921040512732");
+
+	static readonly Malevolent = new Difficulty("Malevolent")
+		.setName("Malevolent")
+		.setDescription(
+			"Malevolent is a Peak Class 4 sub-difficulty of Malicious that comes after Autism, but before Building. This difficulty is categorized as Humanly Impossible, meaning that raw human skill is not enough to conquer it. Players would need to use assists such as modifying jump power and speed. Formerly regarded as the TAS limit, it represents a point where even tool-assisted runs struggle to complete the challenges. As human skill increases, more may become possible, but for now, this difficulty remains a major challenge.",
+		)
+		.setVisualRating("30.66")
+		.setLayoutRating(math.huge)
+		.setClass(4)
+		.setColor(Color3.fromRGB(76, 36, 76))
+		.setImage("rbxassetid://94673085921482");
+
+	static readonly Building = new Difficulty("Building")
+		.setName("Building")
+		.setDescription(
+			"Building (also known as Builder or Build) is a Baseline Class 5 difficulty that introduces the unique gimmick of allowing players to build their own obstacles. You can create your own tower or obby and then test it out, either alone or with friends. The main challenge is to build and then beat your own creations, with no time limits or restrictions. Building is rated as a 31 on the Main Difficulty Chart and is considered humanly impossible without hacks. The focus is on creativity and experimentation rather than traditional obstacle challenges.",
+		)
+		.setVisualRating("31")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(83, 27, 24))
+		.setImage("rbxassetid://73844596781466");
+
+	static readonly UnderConstruction = new Difficulty("UnderConstruction")
+		.setName("Under Construction")
+		.setDescription(
+			"Under Construction (or UC) is a Class 5 Sub-Difficulty between Building and Does Not Compute. You can try to beat any tower in this difficulty with TAS, but you will fail all of them. In UC, you need to have luck like winning the lottery 10 times in a row to beat a maximum of 5 jumps using TAS. If you want to beat this difficulty, just use Noclip. This is impossible for you to even reach this difficulty, I don't know what you're trying to do.",
+		)
+		.setVisualRating("31.5")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(79, 41, 41))
+		.setImage("rbxassetid://138670910671709");
+
+	static readonly DoesNotCompute = new Difficulty("DoesNotCompute")
+		.setName("Does Not Compute")
+		.setDescription(
+			"Does Not Compute is a Class 5 difficulty that comes after Under Construction and before Exile. In this difficulty, glitches become more common, and players must break the laws of Roblox to succeed. It is a challenge that tests both skill and creativity, requiring players to use advanced techniques and adapt to increasingly unpredictable obstacles.",
+		)
+		.setVisualRating("32")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(132, 63, 66))
+		.setImage("rbxassetid://113608842525403");
+
+	static readonly Exile = new Difficulty("Exile")
+		.setName("Exile")
+		.setDescription(
+			"Exile, formerly known as Hellicious, is a Humanly Impossible difficulty that succeeds Does Not Compute and precedes Invigorating. It is the last Baseline Class 5 difficulty and is known for its punishing obstacles and unforgiving nature. Towers in this difficulty are extremely challenging, and the boss only reinforces this. Exile is notable for its 18-floor citadel and its place as the 100th difficulty in the main chart (before chart changes).",
+		)
+		.setVisualRating("33")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(146, 0, 0))
+		.setImage("rbxassetid://91993034409867");
+
+	static readonly Invigorating = new Difficulty("Invigorating")
+		.setName("Invigorating")
+		.setDescription(
+			'Invigorating is a Class 5, humanly impossible difficulty that lies after Hellicious and before Apocalyptic. It is classified as "TAS impossible," meaning even Tool-Assisted Speedruns cannot complete it. The difficulty is known for its long, punishing obstacles that require extreme precision, timing, and luck.\n\nPlayers are recommended to use special tools or exploits to even attempt this difficulty, as instakills and progress loss are common. The name "Invigorating" reflects the immense strength and energy required to face its challenges. Obstacles are often speedrun-related, and the icon is a simple black-to-red gradient, similar to Noxious.',
+		)
+		.setVisualRating("34")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://74027381360957");
+
+	static readonly Apocalyptic = new Difficulty("Apocalyptic")
+		.setName("Apocalyptic")
+		.setDescription(
+			"Apocalyptic is a Low Class 5 humanly impossible difficulty, and has had many difficulties before and after it, due to being one of the original Class 5 difficulties. It is much harder than Invigorating although slightly easier than Destructive.\n\nApocalyptic has two sub-difficulties called Eternal Outrage and Gar-Insane, from the dark depths of being lost due to the TooChain's removal. This difficulty is, as its name suggests, absolutely ludicrously impossible. There is literally no way you can actually attempt this legitimately. Try as you might, there is no point in attempting to tackle this difficulty, as it features obstacles that you can only complete in your dreams, not even completable by TAS without hacks.",
+		)
+		.setVisualRating("35")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(232, 62, 52))
+		.setImage("rbxassetid://114962482672489");
+
+	static readonly EternalOutrage = new Difficulty("EternalOutrage")
+		.setName("Eternal Outrage")
+		.setDescription(
+			"Eternal Outrage is an unofficial Class 5 sub-difficulty that fits between Apocalyptic and Destructive. It is designed to grant permanent anxiety and distress, with obstacles that adapt and become harder for each new player. The main challenge comes from instant kill lava that rises faster the further you go, requiring speed and precision. Eternal Outrage is just another difficulty to overcome, but its unique AI cat and rising lava make it memorable.",
+		)
+		.setVisualRating("35.5")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://80756899275278");
+
+	static readonly Destructive = new Difficulty("Destructive")
+		.setName("Destructive")
+		.setDescription(
+			"Destructive is a Class 5 difficulty that offers a break from wallwalks and killbricks, but is much harder than Malicious. It features mid-air corner clips and various glitches, requiring both skill and luck. Destructive is known for not following the standard Class 5 progression, being harder than its neighbors. It is the last difficulty before killbrick-spam becomes overwhelming, and marks a turning point toward even more challenging obstacles.",
+		)
+		.setVisualRating("36")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(196, 32, 14))
+		.setImage("rbxassetid://121788887341936");
+
+	static readonly Dissonant = new Difficulty("Dissonant")
+		.setName("Dissonant")
+		.setDescription(
+			"Dissonant is a high Class 5 difficulty that transcends Destructive and sits just below Mischievous. The obstacles in Dissonant are unfathomably hard, requiring inhuman levels of skill and precision, with severe RNG making even a single mistake costly. This difficulty is considered impossible for humans and even challenges tool-assisted runs. Beating any part of Dissonant is a remarkable achievement, as it neutralizes most external aids and demands extraordinary preparation.",
+		)
+		.setVisualRating("37")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://128357239490049");
+
+	static readonly Mischievous = new Difficulty("Mischievous")
+		.setName("Mischievous")
+		.setDescription(
+			"Mischievous is a mid Class 5 difficulty located between Dissonant and Eldritch. It sits at the extreme limit of physically possible and physically impossible, bordering on humanly impossible. Obstacles in this difficulty are almost entirely luck-based and nearly beyond pixel and frame perfect, requiring extreme skill, tools, and patience. Only robots or AIs could realistically complete towers of this difficulty.",
+		)
+		.setVisualRating("38")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(163, 54, 54))
+		.setImage("rbxassetid://85056304095209");
+
+	static readonly LRIH = new Difficulty("LRIH")
+		.setName("ᴇʟᴅʀɪᴛᴄʜ")
+		.setDescription(
+			"ᴇʟᴅʀɪᴛᴄʜ is a difficulty before Monstrous, but succeeding the difficulty Mischievous. To beat this difficulty you must need skills that no human has. You also must complete insanely difficult jumps, and tight areas that you must climb out of. The difficulty is designed to be difficult and hard to follow, as sometimes the confusing mechanics and unknown paths can make it hard to find the right thing to do. Being the last difficulty in Mid class 5 on the Main Difficulty chart, this difficulty is classic and serves a nostalgic service in the chart.",
+		)
+		.setVisualRating("39")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://77462548834145");
+
+	static readonly Monstrous = new Difficulty("Monstrous")
+		.setName("Monstrous")
+		.setDescription(
+			'Monstrous is a Class 5 difficulty that succeeds Malicious and is the fourth hardest difficulty of the Universal Difficulty Chart. It represents a level of challenge beyond Malicious, often labeled as "Beyond Malicious." Monstrous is known for its simple icon featuring the Greek letter Zeta and for obstacles that push the limits of what is considered possible.',
+		)
+		.setVisualRating("40")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://105168049225544");
+
+	static readonly Inimical = new Difficulty("Inimical")
+		.setName("Inimical")
+		.setDescription(
+			"Inimical is a Class 5 sub-difficulty that is considered beyond humanly impossible. No jump in this difficulty can be completed by a human, and any attempt is futile. The challenge is intentionally designed to be impossible, making any effort to complete it a waste of time.\n\nInimical's icon features a red-to-black gradient with the Greek letter 'Σ' (Sigma) in the center, similar to other Class 5 difficulties. The difficulty is known for its extremely high moon wallhops, long wraps, powerful killbrick spinners, and other obstacles that are far beyond human capability. The only way to \"progress\" is to move on to even harder difficulties like Horrendous.",
+		)
+		.setVisualRating("40.33")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(119, 0, 0))
+		.setImage("rbxassetid://138256445357055");
+
+	static readonly Horrendous = new Difficulty("Horrendous")
+		.setName("Horrendous")
+		.setDescription(
+			'Horrendous is a Class 5 sub-difficulty that stands out for its grim and daunting environment. It is directly tied to Monstrous and Inimical, and is part of the "red zone" of the difficulty chart. Horrendous presents a macabre atmosphere filled with instant killbricks, rising lava, and outside obstacles, testing the player\'s determination and endurance. Only those with unwavering strength can persevere through this challenge, making it a true testament to skill and resilience.',
+		)
+		.setVisualRating("40.66")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(100, 0, 0))
+		.setImage("rbxassetid://129857479021431");
+
+	static readonly Ultimate = new Difficulty("Ultimate")
+		.setName("Ultimate")
+		.setDescription(
+			"Ultimate is a Class 5 difficulty that succeeds Horrendous and is the third hardest difficulty of the Universal Difficulty Chart. It represents the assumed limit of difficulty, consisting of the hardest jumps believed to be possible, though not officially verifiable by humans or technology. Ultimate is the final border of what is considered possible, and any tower of this difficulty would be at the absolute peak of challenge.",
+		)
+		.setVisualRating("41")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://70820673610511");
+
+	static readonly Nought = new Difficulty("Nought")
+		.setName("Nought")
+		.setDescription(
+			"Nought is a High Class 5 difficulty, positioned after Ultimate and before System Error. At this stage, physical possibility is almost entirely theoretical, with obstacles requiring inhuman luck, precision, and timing. Even the most skilled players struggle with this difficulty, as it is classified as TAS Impossible. Nought represents a significant leap in challenge, pushing the boundaries of what is considered possible.",
+		)
+		.setVisualRating("41.5")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(75, 6, 6))
+		.setImage("rbxassetid://86766879057618");
+
+	static readonly SystemError = new Difficulty("SystemError")
+		.setName("System Error")
+		.setDescription(
+			"System Error is a Class 5 difficulty that succeeds Ultimate. It is the second hardest difficulty of the True Hardest difficulties section of the Universal Difficulty Chart.\n\nSystem Error is beyond the assumed limit of difficulty; meaning it is uncertain if obstacles here are humanly or physically impossible. If Citadel of Void were humanly possible and were of Ultimate difficulty, for it to be System Error, the citadel would need to be buffed to the point where the human possibility of the gameplay itself is uncertain, and be extended further to inhumane lengths.",
+		)
+		.setVisualRating("42")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(93, 4, 7))
+		.setImage("rbxassetid://96616260494540");
+
+	static readonly Errorexe = new Difficulty("Errorexe")
+		.setName("Error.exe")
+		.setDescription(
+			"Error.exe is a Class 5 difficulty. Even with the usage of TAS, this difficulty is still impossible, and every single obstacle you will find in this difficulty is impossible for humans to complete without TAS. Like every difficulty in this class, the only way to do the difficulty is by modifying speed, health, gravity, jump power, and more. This difficulty is similar to an extremely buffed version of System Error, containing much harder jumps. Error.exe is near the border of Class 5 and is almost on the road of pseudo difficulties.",
+		)
+		.setVisualRating("43")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(50, 0, 0))
+		.setImage("rbxassetid://108180516564698");
+
+	static readonly SimplyBeyond = new Difficulty("SimplyBeyond")
+		.setName("Simply Beyond")
+		.setDescription(
+			"Simply Beyond is a Peak Class 5 difficulty, located between Error.exe and Critical, and is one of the last humanly impossible difficulties before the physically impossible sector of the chart. At this point, obstacles start to become incoherent and usually involve strange techniques without a clear way of performing them. Making a TAS of Simply Beyond is infeasible. As a high-end humanly impossible difficulty, it approaches the border of physical possibility, Supreme.",
+		)
+		.setVisualRating("44")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://98927660064350");
+
+	static readonly Ultra = new Difficulty("Ultra")
+		.setName("Ultra")
+		.setDescription(
+			"Ultra is a Peak class 5 sub-difficulty that follows Simply Beyond as a sub-difficulty, and is the last challenge (optional). This is the end of your victory. Prepare to feel defeated as this difficulty is Humanly Impossible.",
+		)
+		.setVisualRating("44.5")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(122, 1, 5))
+		.setImage("rbxassetid://115648685637711");
+
+	static readonly Critical = new Difficulty("Critical")
+		.setName("Critical")
+		.setDescription(
+			"Critical is a Class 5 difficulty situated between Simply Beyond and Winter. It is highly discouraged for most players due to its extreme challenge—obstacles are tightly packed, with frame-perfect requirements at framerates beyond standard Roblox capabilities. Only with TAS and specialized tools could one hope to complete it. The difficulty is known for its relentless and unforgiving nature, demanding both high-end hardware and exceptional skill.",
+		)
+		.setVisualRating("45")
+		.setLayoutRating(math.huge)
+		.setClass(5)
+		.setColor(Color3.fromRGB(99, 47, 47))
+		.setImage("rbxassetid://96478767044739");
+
+	static readonly Winter = new Difficulty("Winter")
+		.setName("Winter")
+		.setDescription(
+			"Welcome to Winter, the first difficulty of the RoPD chain (or at least, Road of Pseudo Difficulties). Anyone completing this difficulty may want to know that this difficulty has a rating of 46, despite it being the beginning of the RoPD chain, to let anyone attempting to surpass this prepare for the legendary difficulty, Supreme. It still requires a lot of effort and practice to pass this difficulty, even in the 256th bit.\n\nThis difficulty is insurmountable by any life form, with the exception of the powerful boosts and cheats. The only way to beat this difficulty is by using good exploits, since it's the only tool that is required for this difficulty to be beaten. This difficulty also features many very cold aesthetics, which may make anyone completing this difficulty receive a cold or frostbite. Hot chocolate here is also helpful for this difficulty.",
+		)
+		.setVisualRating("46")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(133, 141, 147))
+		.setImage("rbxassetid://110357496152306");
+
+	static readonly FatalError = new Difficulty("FatalError")
+		.setName("Fatal Error")
+		.setDescription(
+			"Fatal Error is a Class 6 difficulty embedded in the Road of Pseudo Difficulties chain, positioned between Winter and U DED SON. With a Main Difficulty Chart rating of 47, it is known for its extreme, TAS-impossible challenges that require exploits or external tools to complete. Created by SoaringStyle and later revamped by Bryanjr7747, Fatal Error is notorious for its unbearable difficulty, frequent buffs, and the expectation that players prepare extensively before attempting it. The difficulty is not part of any official chains or charts, standing out for its unique, punishing gameplay.",
+		)
+		.setVisualRating("47")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://102326241767818");
+
+	static readonly UDEDSON = new Difficulty("UDEDSON")
+		.setName("U DED SON")
+		.setDescription(
+			"U DED SON is a Class 6 difficulty that comes before REEE... !!! and after Fatal Error. The main colors for this difficulty are pink, purple, and peach. It acts as the last barrier before the Low spectrum of Class 6 and is considered impossible, requiring unimaginable glitches and infeasible strategies to beat. Only the most dedicated and skilled players would even attempt it, but it is beyond human capability.",
+		)
+		.setVisualRating("48")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(129, 123, 120))
+		.setImage("rbxassetid://95318986617122");
+
+	static readonly REEE = new Difficulty("REEE")
+		.setName("REEE... !!!")
+		.setDescription(
+			"REEE... !!! is a Class 6 difficulty found on the Road of Pseudo Difficulties, situated between U DED SON and Nonexistent. Towers in this difficulty are considered impossible, and players are warned of the extreme challenge and inevitable failure. The theme is chaotic, with a focus on errors and overwhelming obstacles. The difficulty is characterized by its blue and white color scheme and its reputation for being a place where only those using exploits might survive.",
+		)
+		.setVisualRating("49")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://125790090814061");
+
+	static readonly Nonexistent = new Difficulty("Nonexistent")
+		.setName("Nonexistent")
+		.setDescription(
+			"Nonexistent is a Low Class 6 difficulty in the second-to-last road of pseudo difficulties. It is unbearably hard, requiring extensive practice and skill. Nonexistent is known for its abundance of wallhops, gaps, and killbricks, making it both skill-based and reliant on luck.\n\nThis difficulty is a significant step up from previous challenges and is not recommended for the faint of heart.",
+		)
+		.setVisualRating("50")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(111, 111, 111))
+		.setImage("rbxassetid://87817986130987");
+
+	static readonly DIE = new Difficulty("DIE")
+		.setName("D-I-E")
+		.setDescription(
+			"D-I-E is a Class 6 difficulty that comes after Nonexistent and before Absolutism (or Gar-Extreme in chains). It marks the end of the Road of Pseudo-Difficulties and is classified as humanly impossible. This difficulty is an immense challenge, featuring frame-perfect glitches and obstacles that can frustrate even the best Low Class 6 obbyists. Beating D-I-E is a significant achievement, as it requires exceptional skill and persistence.",
+		)
+		.setVisualRating("51")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Absolutism = new Difficulty("Absolutism")
+		.setName("Absolutism")
+		.setDescription(
+			"Absolutism is a Mid Class 6 difficulty, harder than D-I-E but easier than Insistent. At this point, continuing further is highly discouraged, as the challenges become nearly impossible. The skill and luck required are immense, and even luck manipulators would struggle. Practicing extensively is recommended for anyone attempting this difficulty.",
+		)
+		.setVisualRating("52")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(0, 16, 105))
+		.setImage("rbxassetid://78713652785922");
+
+	static readonly Insistent = new Difficulty("Insistent")
+		.setName("Insistent")
+		.setDescription(
+			"Insistent is a humanly impossible, Normal difficulty located in the middle of Class 6. It follows Absolutism and comes before Shocking. Any legitimate attempt at an Insistent obby is futile, as the obstacles are designed to be impossible to overcome without special tools or gear.\n\nObbies and towers of this difficulty are made for entertainment and are not meant to be completed legitimately. The icon features a mint-green phi symbol on a black-to-green gradient background, with a green outline and four-pointed stars in each corner. Insistent was created as a replacement for the deleted Exigent difficulty and is the first properly finished difficulty by YataDev in over two years.",
+		)
+		.setVisualRating("53")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(12, 65, 15))
+		.setImage("rbxassetid://108923049033099");
+
+	static readonly Shocking = new Difficulty("Shocking")
+		.setName("Shocking")
+		.setDescription(
+			"Shocking is a Mid Class 6 sub-difficulty, lodged between Insistent and Victor. This difficulty originated from the ‘JToH’s Joke Towers Revamp Wiki’ and is known for its gruelling obstacles that no lifeform could dream of passing. Boost items like Gravity Coil and a TAS so complex that very few humans comprehend must be used to get past the first obstacle. Representations of this difficulty are often undermined by issues like inaccuracies and repetitive, unfun gameplay, due to play testing being nearly impossible. Shocking is also notorious for randomly instakilling the player at a 1% chance every minute, and towers of this difficulty are about 30 minutes long.",
+		)
+		.setVisualRating("53.5")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(148, 69, 116))
+		.setImage("rbxassetid://85984002899956");
+
+	static readonly Victor = new Difficulty("Victor")
+		.setName("Victor")
+		.setDescription(
+			"Victor is a Class 6 difficulty, settled within the Middle range of it. This difficulty lies between Insistent and QUANTUM, or Shocking and Oblivion when counting sub-difficulties. This gives it a rating of 54.\n\nThis difficulty is regarded as utterly humanly impossible, meaning there is no chance whatsoever of an attempt of an obby categorised under Victor going well. They also tend to be made not as actual, fair obbies, but rather more as entertainment due to their factual impracticality.",
+		)
+		.setVisualRating("54")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(240, 188, 23))
+		.setImage("rbxassetid://87438758012753");
+
+	static readonly Oblivion = new Difficulty("Oblivion")
+		.setName("Oblivion")
+		.setDescription(
+			"Oblivion is a Class 6 sub-difficulty and one of the last humanly impossible challenges. Every obstacle relies on glitches and movements that are beyond human capability, requiring players to perform actions that are nearly impossible to replicate intentionally. Even the best obbyists have little chance of success, as Oblivion utilizes confusing tactics and illogical physics.",
+		)
+		.setVisualRating("54.5")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(121, 119, 0))
+		.setImage("rbxassetid://126735477137530");
+
+	static readonly QUANTUM = new Difficulty("QUANTUM")
+		.setName("QUANTUM")
+		.setDescription(
+			"Quantum is a Class 6 difficulty that comes after Oblivion and before Miracle, being slightly harder than Oblivion. It is considered the absolute border for using macros to beat a tower. To complete a Quantum difficulty tower, one would need a perfect macro, possibly running on a quantum computer, and even then, it would take weeks or months for the macro to succeed. Quantum represents a point where human skill is no longer sufficient, and even advanced automation struggles to achieve victory.",
+		)
+		.setVisualRating("55")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://115073716814669");
+
+	static readonly Miracle = new Difficulty("Miracle")
+		.setName("Miracle")
+		.setDescription(
+			"Miracle is a normal difficulty located in High Class 6, making it Humanly Impossible. It succeeds QUANTUM and precedes DELETE, with a rating of 56. Miracle is one of the last Humanly Impossible difficulties before reaching the Physically Impossible tier. It was created to replace the removed Everdark difficulty and is currently the latest difficulty in the Main Difficulty Chart.",
+		)
+		.setVisualRating("56")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(68, 48, 114))
+		.setImage("rbxassetid://137291552783636");
+
+	static readonly YEETUS = new Difficulty("YEETUS")
+		.setName("Y E E T U S")
+		.setDescription(
+			"Y E E T U S is a Class 6 Sub-Difficulty at a high range and a Humanly Impossible type. This difficulty is in between Miracle (56) and DELETE (57), with a rating of 56.5 and a sub-difficulty of Miracle. This difficulty is probably one of the oldest difficulties on the wiki, with the first appearance from YEETUS on this wiki in the earliest version of the Difficulty Chart, but the date was created outside the wiki, at around the 1st of March, 2020 at Yeetbox.",
+		)
+		.setVisualRating("56.5")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(243, 255, 255))
+		.setImage("rbxassetid://133553034120751");
+
+	static readonly DELETE = new Difficulty("DELETE")
+		.setName("DELETE")
+		.setDescription(
+			"DELETE is a Class 6 difficulty that follows Miracle. This difficulty is relentless—getting hit by a laser results in instant failure, and a corrupted robot controls the floor, throwing impossible obstacles at the player. DELETE is dominated by a red theme and is known for its unforgiving nature. Surviving DELETE is a rare feat, and moving on means facing even greater challenges.",
+		)
+		.setVisualRating("57")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(111, 33, 31))
+		.setImage("rbxassetid://72589938909656");
+
+	static readonly Interruption = new Difficulty("Interruption")
+		.setName("Interruption")
+		.setDescription(
+			"Interruption is a sub-difficulty in Class 6, classified as humanly impossible. It is harder than DELETE and easier than Xi-Alpha. The difficulty is characterized by obstacles that are not just extremely hard, but also designed to distract and interrupt the player, making completion virtually impossible.\n\nAttempting any obstacle in Interruption is futile, as distractions and interruptions are constant. The icon features a grumpy face with a gray gradient, symbolizing the frustration and interruptions inherent to this difficulty. Interruption is a testament to the idea that some challenges are simply not meant to be overcome by humans.",
+		)
+		.setVisualRating("57.5")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(198, 198, 198))
+		.setImage("rbxassetid://115968127159779");
+
+	static readonly XiAlpha = new Difficulty("XiAlpha")
+		.setName("Xi-Alpha")
+		.setDescription(
+			"Xi-Alpha is a difficulty after DELETE, yet before Theta-Void. It is located in Peak Class 6 and is the first difficulty of MrXY201’s Difficulty Chart. It has three sub difficulties: Gar-Terrifying (Gar Chain), D-E-L-T-A, and Ÿ. It also used to have 2 sub difficulties, Xi-Beta and Xi-Delta, both of which are gone due to being low quality.\n\nIt should not be attempted due to it requiring you to somehow surpass it without the use of TAS, unless you use noclip or even exploits. The tier system is also ineffective at this difficulty, due to it going way out of reach of the system, and the Kol Metris value is high, at around |55| (estimation).",
+		)
+		.setVisualRating("58")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(6, 26, 52))
+		.setImage("rbxassetid://87039736680814");
+
+	static readonly DELTA = new Difficulty("DELTA")
+		.setName("D-E-L-T-A")
+		.setDescription(
+			"D-E-L-T-A is the second difficulty in Mike's Difficulty Chart, following Xi-Alpha and preceding Ẏ. It is one of the original Post-Supreme difficulties and is known for its significant legacy. Obstacles in D-E-L-T-A are essentially Supreme jumps made even harder, requiring immense patience and pixel-perfect timing. This difficulty marks the start of a sub-path in the chart and is recognized for its creative and challenging obstacles, as well as its historical importance in the difficulty progression.",
+		)
+		.setVisualRating("58.33")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(20, 27, 10))
+		.setImage("rbxassetid://122980416835274");
+
+	static readonly Y = new Difficulty("Y")
+		.setName("Ÿ")
+		.setDescription(
+			"Ÿ is a Class 6 sub-difficulty and the third difficulty of Mike's Difficulty Chart, out of 5. Preceding it is the second difficulty of the chain, D-E-L-T-A. After that lies Theta-Void, the penultimate difficulty of the chain. Ÿ is so difficult, it is impossible to complete naturally, even with a TAS. The only way to truly complete something of this nature is to abuse physics in ways that nobody has ever done, or use something like noclip or a coil.\n\nŸ's name originates from the Ÿ found in Dutch and Afrikaans. This follows the pattern of different symbols being used in the difficulties in the chain, such as Delta being used in D-E-L-T-A and Theta-Void containing a theta (in its old icon).\n\nThis difficulty requires unimaginable luck and skill, even more than required in D-E-L-T-A, and incredible motivation to keep pushing through it. Though this difficulty does surpass D-E-L-T-A in difficulty and luck, there are still difficulties that require more to beat, such as Theta-Void.",
+		)
+		.setVisualRating("58.66")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(245, 10, 127))
+		.setImage("rbxassetid://111592193475553");
+
+	static readonly ThetaVoid = new Difficulty("ThetaVoid")
+		.setName("Theta-Void")
+		.setDescription(
+			'Theta-Void is a Class 6 difficulty and the penultimate difficulty of Mike\'s difficulty chart, preceding Ultimaniac. It is TAS impossible, meaning it cannot be beaten even with tool assistance. The name comes from the Greek letter theta (Θ) and the word "Void," signifying its near-impossible nature.\n\nBeating a difficulty of this magnitude would require immense skill and luck, and even greater challenges await in the difficulties that follow. Theta-Void stands as a symbol of the limits of possibility in the chart.',
+		)
+		.setVisualRating("59")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(78, 46, 66))
+		.setImage("rbxassetid://75387106375797");
+
+	static readonly Ultimaniac = new Difficulty("Ultimaniac")
+		.setName("Ultimaniac")
+		.setDescription(
+			"Ultimaniac is the sub-difficulty for the Peak Class 6 difficulty Theta-Void, just before the Class 6 finale Supreme. Its rating ranges from 59.5 to 59.99. Ultimaniac marks the end of Mike's Difficulty Chart Chain and is the last challenge before Supreme. It is an extremely challenging difficulty, requiring both technical skill and luck, and is considered a test of ultimate endurance and ability.",
+		)
+		.setVisualRating("59.5")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(218, 117, 15))
+		.setImage("rbxassetid://104533531457655");
+
+	static readonly Supreme = new Difficulty("Supreme")
+		.setName("Supreme")
+		.setDescription(
+			"Supreme is a legendary difficulty located in Class 6 (or Class 9 in the Community Difficulty Chart) with a rating of 60 (or 79 in the CDC). It succeeds Ultimaniac and precedes Phi. Supreme represents the limit of difficulty—the unknown boundary of what is possible in Roblox, especially with changing physics and TAS mechanics. There is no Low-Mid-High range within Supreme; it is the supreme limit of possible difficulty. Any buff would make it physically impossible.",
+		)
+		.setVisualRating("60")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(102, 19, 235))
+		.setImage("rbxassetid://73134241193423");
+
+	static readonly Phi = new Difficulty("Phi")
+		.setName("Phi")
+		.setDescription(
+			"Phi is a Class 6 Sub-Difficulty of the legendary difficulty Supreme. It succeeds Supreme and is far more tedious, serving as a precursor to UNTHINKABLE. Obstacles in Phi are barely physically impossible and cannot be beaten without exploits, requiring extreme precision and unfathomable amounts of RNG. Even completing a single jump at this level is a remarkable accomplishment, making Phi truly, unobjectively impossible.",
+		)
+		.setVisualRating("60.33")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(98, 98, 98))
+		.setImage("rbxassetid://71254632234278");
+
+	static readonly UNTHINKABLE = new Difficulty("UNTHINKABLE")
+		.setName("UNTHINKABLE")
+		.setDescription(
+			"UNTHINKABLE, undoubtedly, lives up to its name as a humanly impossible class 6 sub-difficulty with a rating of 60.33. Positioned right after Supreme or Phi and before Ultra Instinct, it presents a formidable challenge that will push even the most skilled individuals to their limits.\n\nTo say that this difficulty is bonkers would be an understatement. In fact, it surpasses the already intense Supreme difficulty, offering obstacles that are on a whole new level of insanity. As you step into this realm where death lurks around every corner, only those who possess unwavering focus and an unyielding spirit will have a chance at conquering the UNTHINKABLE.\n\nBrace yourself for an experience like no other, where your sanity will be tested to its very peak.",
+		)
+		.setVisualRating("60.66")
+		.setLayoutRating(math.huge)
+		.setClass(6)
+		.setColor(Color3.fromRGB(134, 121, 123))
+		.setImage("rbxassetid://133766062241418");
+
+	static readonly UltraInstinct = new Difficulty("UltraInstinct")
+		.setName("Ultra Instinct")
+		.setDescription(
+			"Ultra Instinct is a Baseline Class 7 difficulty, originally created by Octogoat YT and later revamped by TasmanianRex. It is positioned between Supreme or UNTHINKABLE and Mortifying. This difficulty requires players to perform unknown glitches and pixel-perfect jumps, often only possible with tool-assisted speedruns (TAS). Ultra Instinct is considered three times as challenging as Supreme or UNTHINKABLE, and is a true test of skill and precision.",
+		)
+		.setVisualRating("61")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(167, 238, 238))
+		.setImage("rbxassetid://119426134982342");
+
+	static readonly Mortifying = new Difficulty("Mortifying")
+		.setName("Mortifying")
+		.setDescription(
+			"Mortifying is a Class 7 difficulty in between Ultra Instinct and Transfinite. This difficulty is not even close to being possible and represents a significant step up from Ultra Instinct. Mortifying is known for its challenging obstacles and its distinctive icon, which features a pink-to-red gradient and a classic emoticon face.",
+		)
+		.setVisualRating("62")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(238, 21, 111))
+		.setImage("rbxassetid://103755413754623");
+
+	static readonly Dreadfulexe = new Difficulty("Dreadfulexe")
+		.setName("Dreadful.exe")
+		.setDescription(
+			'Dreadful.exe is a class 7 difficulty, placed after Mortifying and preceding Transfinite. This is an ".exe" difficulty, themed as an application that can modify your computer or your screen.\n\nTowers in this difficulty are not only extremely challenging, but also feature unfair catches, such as covering your screen with ">:D" signs. Obstacles are incredibly unforgiving, often causing you to lose all your progress by failing a single jump. Attempting a tower in this difficulty requires practicing obstacles blindfolded and with other unfair catches, as well as practicing them normally—and possibly even practicing some obstacles in real life. Completing a tower in this difficulty would be incredibly difficult and a renowned achievement for any obbyist. In fact, completing any obstacle in this difficulty would be an achievement that no obbyist has ever accomplished.',
+		)
+		.setVisualRating("62.5")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(231, 95, 96))
+		.setImage("rbxassetid://131128501444168");
+
+	static readonly Transfinite = new Difficulty("Transfinite")
+		.setName("Transfinite")
+		.setDescription(
+			"Transfinite is a Baseline Class 7 difficulty, marking the beginning of a new level of challenge. It is physically impossible, with obstacles that are highly buffed and cannot be beaten. Towers or citadels within this difficulty are extremely rare and are considered impossible to complete.\n\nTransfinite is a significant milestone in the chart, representing the start of a new class of impossibility. Its obstacles are far beyond what is achievable, even compared to previous extreme difficulties.",
+		)
+		.setVisualRating("63")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(8, 122, 40))
+		.setImage("rbxassetid://96134161618011");
+
+	static readonly RoorXD = new Difficulty("RoorXD")
+		.setName("RoorXD")
+		.setDescription(
+			'RoorXD is a Physically Impossible difficulty placed above Malicious in the chart. It is represented by a black icon with a white skull and is known for containing obstacles that are unverified or unintentionally impossible. RoorXD serves as a classification for challenges that were meant to be a different difficulty but ended up being impossible. It is similar in spirit to the "TooHard" or "WHY" difficulties, representing the theoretical limits of what can be built and completed.',
+		)
+		.setVisualRating("64")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(55, 55, 55))
+		.setImage("rbxassetid://72042311376345");
+
+	static readonly RoorHELL = new Difficulty("RoorHELL")
+		.setName("RoorHELL")
+		.setDescription(
+			"RoorHELL is a Class 7 sub-difficulty and one of the first Physically Impossible challenges. It succeeds RoorXD and is marked by obstacles that require extreme luck and skill, far beyond human or even TAS capabilities. The difficulty is characterized by RNG jumps with very low success rates, and is generally only possible for highly skilled AI or through exploiting. RoorHELL marks the beginning of the Physically Impossible tier, pushing the boundaries of what can be achieved in obby gameplay.",
+		)
+		.setVisualRating("64.5")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://82998898960269");
+
+	static readonly JesusBallin = new Difficulty("JesusBallin")
+		.setName("Jesus Ballin'")
+		.setDescription(
+			"Jesus Ballin' is a Low Class 7, Physically Impossible difficulty, known for its meme origins and extreme challenge. The icon features Jesus playing basketball on a light green background. This difficulty sits between RoorHELL and El Vacio, and includes sub-difficulties like HyperViolent and Enclosed.\n\nObstacles in Jesus Ballin' are considered TAS Impossible, meaning even tool-assisted runs can't complete them. The difficulty is shrouded in mystery and humor, with challenges that are nearly impossible by design. Completing this difficulty is a feat reserved for the most determined (or lucky) players.",
+		)
+		.setVisualRating("65")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly HyperViolent = new Difficulty("HyperViolent")
+		.setName("HyperViolent")
+		.setDescription(
+			"HyperViolent is a Low Class 7 sub-difficulty that lies between Jesus Ballin and El Vacio. This difficulty is classified as Physically Impossible, featuring jumps and obstacles that are not intended to be completed by the Roblox physics engine. It is extremely punishing, with any failure resulting in significant loss of progress. Completing even a single jump at this level is considered an incredible achievement, and the difficulty marks a steep increase in challenge on the chart.",
+		)
+		.setVisualRating("65.33")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 140, 217))
+		.setImage("rbxassetid://81475993254629");
+
+	static readonly Enclosed = new Difficulty("Enclosed")
+		.setName("Enclosed")
+		.setDescription(
+			"Enclosed is a Low Class 9 difficulty. The icon for Enclosed is a GIF of arrows pointing to the center of a shrinking circle. It is in between Jesus Ballin' or HyperViolent and El Vacio. The arrows represent the tight spaces that the player must navigate through, and the shrinking circle represents the increasing difficulty of the level. This difficulty has never been deleted, revived, or had any sub-difficulties created from it. It has a rating of 50.5, making it one of the more challenging difficulties in the wiki. The tight spaces and complex patterns make it difficult to see what is coming, and even with exploits, it is still hard to complete.\n\nEnclosed is a difficulty based on claustrophobia. Every 25 seconds, the tower gets tighter and tighter, but the jumps retain their sizes. Some jumps may clip through the tower frame, causing the player to use advanced techniques to complete them. There is a mechanic where cheesing jumps results in a penalty: for every cheesed jump, all jumps get extended by 0.5 studs.",
+		)
+		.setVisualRating("65.66")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly ElVacio = new Difficulty("ElVacio")
+		.setName("El Vacio")
+		.setDescription(
+			"El Vacio is Spanish for THE VOID. The original icon resembled an SMG4 poorly edited picture that was made creepier. (It was originally going to be black with the SCP-087 face and XD on it, which would have been even more nightmarish.) The current icon is not as creepy as RoorHELL, D-I-E, or Nonexistent. Obbies with this difficulty should be much harder than Jesus Ballin' and are ultimately impossible. Seriously, do not even think about beating this difficulty. Every obstacle in this difficulty is very rare and extremely hard to maneuver. As of now, this difficulty is buffed and is a lot harder than Jesus Ballin', maybe even harder than Universe Disruption or Aleph-cow, and very rarely Megadeath, depending on how you design your obstacle. Attempting an obstacle of this difficulty will cause imminent death.",
+		)
+		.setVisualRating("66")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(42, 25, 25))
+		.setImage("rbxassetid://94143370554748");
+
+	static readonly Unpossible = new Difficulty("Unpossible")
+		.setName("Unpossible")
+		.setDescription(
+			"Unpossible is a variation of a Class Negative Difficulty - Unimpossible. This version has been buffed one hundred billion times or more. If the original version of Unimpossible is Instant Win, this one is Instant Death. Most things about this difficulty are impossible, including humanly impossible, TAS impossible, physically impossible, and more. To even just get past the first barrier, you need an inexplicable amount of luck and skill. As a result, only hackers can circumvent this.\n\nThe difficulty is a successor to El Vacio and a predecessor to Universe Disruption. It was a part of the Class 9 rebirth chain, but everything else got deleted and this is the last piece of it.",
+		)
+		.setVisualRating("66.5")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly UniverseDisruption = new Difficulty("UniverseDisruption")
+		.setName("Universe Disruption")
+		.setDescription(
+			"Universe Disruption is a Class 7 difficulty, and is the first of three challenges to prepare you to face the terminus of the official chart, MegaDeath. It is located after El Vacio and before Illegal (or Complete: Obstacles as sub-difficulty). The difficulty is unfeasible even while using TAS and boost items, meaning stuff like exploits is a must to have an opportunity at moving forward.\n\nOh no, what did you do? You overloaded the universe WAY too much, and now there’s a massive malfunction with the system! You need to fix it by traversing through impossible obstacles to overload the system until it activates its natural safeguard and returns to safe levels.",
+		)
+		.setVisualRating("67")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(191, 97, 103))
+		.setImage("rbxassetid://83766225417436");
+
+	static readonly Spongebob = new Difficulty("Spongebob")
+		.setName("Spongebob")
+		.setDescription(
+			"Spongebob is a peak Class 9 sub-difficulty, currently a sub of 60mmm. It is above 60mmm and behind Malicatious, and is the only sub-difficulty in its class. Spongebob is classified as physically impossible, meaning you must defy physics to beat it. Any successful attempt is considered illegitimate or heavily inaccurate. The difficulty is named after the character Spongebob Squarepants, and its icon features the character on a bright yellow background.",
+		)
+		.setVisualRating("67.33")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly CompleteObstacles = new Difficulty("CompleteObstacles")
+		.setName("Complete: Obstacles")
+		.setDescription(
+			"Complete: Obstacles is a mid Class 7 difficulty that is part of the Complete: Chain. This difficulty is centered entirely around obstacles, featuring a vast array of obstacle spectrums and frequent interruptions for new challenges. It follows Universe Disruption and precedes Illegal, and is classified as Physically Impossible—TAS cannot complete it. Despite its high difficulty, some sections are more forgiving, with breaks and easier segments. The main focus is on creative and numerous obstacles, making it a lengthy and challenging experience.",
+		)
+		.setVisualRating("67.66")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Illegal = new Difficulty("Illegal")
+		.setName("Illegal")
+		.setDescription(
+			'Illegal is a high Class 7 difficulty and one of the first in its class on the chart. It is known for featuring physically impossible jumps and obstacles that require exploits or obscure glitches to complete. Even tool-assisted speedruns are not enough for most challenges at this level. Illegal stands out for its extreme requirements, often demanding actions that go far beyond what is possible in normal gameplay, making it a truly formidable and "illegal" challenge.',
+		)
+		.setVisualRating("68")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(106, 0, 16))
+		.setImage("rbxassetid://93758581117423");
+
+	static readonly BadRequest = new Difficulty("BadRequest")
+		.setName("Bad Request")
+		.setDescription(
+			'Bad Request is a sub-difficulty of Illegal, found in Class 7. It comes before Universal Glitch and has a rating of 68.5. This difficulty is intentionally absurd and extremely punishing—players are likely to "get banned" or face impossible challenges almost immediately. The page humorously suggests that attempting this difficulty is pointless and that you should probably do something else with your time. Bad Request is a parody of impossibly hard or unfair obstacles, and its placement reflects its role as a joke or challenge for only the most determined (or masochistic) players.',
+		)
+		.setVisualRating("68.5")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(62, 56, 49))
+		.setImage("rbxassetid://121760465309467");
+
+	static readonly UniversalGlitch = new Difficulty("UniversalGlitch")
+		.setName("Universal Glitch")
+		.setDescription(
+			"Universal Glitch is a Class 7 difficulty, and is the antepenultimate difficulty of the Difficulty Chart before you reach MegaDeath, which is the terminus of the official chart if you aren't counting Sacred Cataclysmic Corrupted Demon or anything beyond that. It resides in-between the perilous Universe Disruption and the extremely demotivating difficulty Hopeless. Alternatively, it is placed in-between Illegal and either FalseGanar or FalseGanarText.\n\nIt consists of straight-up ludicrous obstacles which require usage of impossible techniques, and are not to be attempted under any circumstance. Obstacles of this difficulty are hard to build accurately, as you will need to have extensive knowledge of the obstacles of its neighboring difficulties in order to maintain a perfect balance in-between them.\n\nUniversal Glitch renders TAS and other boost items useless, due to its sheer difficulty far exceeding the limit of any boost item. However, using exploits, this difficulty could potentially be beaten, although it would not count as legitimate. In tiers, this difficulty would be Tier 2,000 or higher, but due to the inaccuracy of tiers, this measurement could be incorrect. Using Kol Metris, which is a more accurate form of measurement than tiers, this difficulty would have a value of around |1400|.\n\nBefore even thinking of attempting Universal Glitch, it is recommended to clear Universe Disruption (or Multiversal) and any towers measured as being that difficulty, as it will prepare you adequately for the obstacles that you will face whilst in the realm of this difficulty.",
+		)
+		.setVisualRating("69")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://89277398215984");
+
+	static readonly FalseGanar = new Difficulty("FalseGanar")
+		.setName("FalseGanar")
+		.setDescription(
+			'FalseGanar is a High Class 7 difficulty that lies between Universal Glitch and Hopeless. Created by OqYTRXD, its name means "Fake Win" ("false" in English, "ganar" in Spanish), representing the deceptive and punishing nature of this difficulty. Obstacles in FalseGanar are extremely tight, precise, and often require immense luck and years of practice to overcome. The difficulty is infamous for its brutal challenges, making it harder than even the most notorious towers in the game, and is a true test of endurance and skill.',
+		)
+		.setVisualRating("70")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(17, 17, 17))
+		.setImage("rbxassetid://85621472327397");
+
+	static readonly Hopeless = new Difficulty("Hopeless")
+		.setName("Hopeless")
+		.setDescription(
+			"Hopeless is a Class 7 difficulty placed between Universal Glitch and MegaDeath. It is a physically impossible and devilish challenge, designed to shatter all hope for players who attempt it. The gameplay is confusing, complex, and requires perfect precision and timing, making it nearly impossible to complete even with tool-assisted strategies. Hopeless is ranked extremely high on tier lists and is known for its dark, emoticon-themed icon. Beating a tower of this difficulty is considered an extraordinary achievement.",
+		)
+		.setVisualRating("71")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(64, 0, 0))
+		.setImage("rbxassetid://105830160979860");
+
+	static readonly PlumBloc = new Difficulty("PlumBloc")
+		.setName("Plum Bloc")
+		.setDescription(
+			'Plum Bloc is a High Class 7 difficulty, placed between Hopeless and Infinity. It is physically impossible—no tool, TAS, or exploit can help you, as all are banned. The difficulty is notorious for its impossibility, and even attempting it is considered futile. The icon features the text "plum bloc" with a white vignette.',
+		)
+		.setVisualRating("72")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(230, 173, 218))
+		.setImage("rbxassetid://82459598744783");
+
+	static readonly Gameifying = new Difficulty("Gameifying")
+		.setName("Gameifying")
+		.setDescription(
+			'Gameifying is a joke entry in the difficulty chart, referencing a Roblox game that was never fully developed. The page notes that the game hasn\'t been worked on since June 2023 and is considered outdated. It serves as a humorous placeholder, reminding players to "touch grass" and not take it seriously.',
+		)
+		.setVisualRating("72.5")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(240, 240, 240))
+		.setImage("rbxassetid://137147104838917");
+
+	static readonly Infinity = new Difficulty("Infinity")
+		.setName("Infinity")
+		.setDescription(
+			"Infinity is a Class 7, Physically Impossible difficulty found at the beginning of Peak Class 7, near the start of physical impossibility. Originally created by Octogoat YT, it was later revamped by Viranenthusiast and Astrominal. This difficulty features obstacles that are so extreme—such as instakill spinners with 100 speed and jumps requiring inhuman precision—that they cannot be completed by a human or even with Tool-Assisted Speedruns (TAS) unless exploits are used.\n\nInfinity is classified as Physically Impossible, meaning no human or TAS can beat it under normal circumstances. The difficulty introduces spinning insta-kill bricks at mid to high ranges, and offers optional choices to buff or nerf the challenge. With these options, obstacle difficulty ranges from 55 to over 3 million studs, spanning from Hopeless to Vrery hawrfd rdifficutl!!, or Class 7 to Class 9.\n\nAs the first and easiest Peak Class 7 difficulty, Infinity surpasses Plum Bloc and precedes Doog, marking its place between these two in the chart. The difficulty is notorious for its impossible obstacles and is only possible to complete by abusing TAS or exploiting.",
+		)
+		.setVisualRating("73")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(216, 216, 216))
+		.setImage("rbxassetid://127250135963878");
+
+	static readonly Void = new Difficulty("Void")
+		.setName("Void")
+		.setDescription(
+			"Void is a Devilish Difficulty incorporated in Peak Class 7, placed in between Infinity & its successor Doog. This difficulty is physically impossible or basically just impossible in simpler terms.\n\nObstacles of this difficulty are highly complex & janky. However, it is completely pitch-black on your screen, hence its name Void. Which means the difficulty requires inhuman and rough memorization as well. It is speculated that it is TAS-Impossible.",
+		)
+		.setVisualRating("73.5")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://124628920261212");
+
+	static readonly Doog = new Difficulty("Doog")
+		.setName("Doog")
+		.setDescription(
+			"You've encountered this Dog... You don't know what to do. That thing has the face of a demon. If you are going to pass through, you must deal with its face or else you won't be able to defeat him.\n\nDoog is yet another one of the classic difficulties, but stands out as one of the scary icons on the team. The difficulty is placed between Infinity and Dissension. Facing this creature is scary due to its face—it's terrifying. Some people wouldn't consider it as scary, but some would. People have been traumatized from this picture, but let's continue with this difficulty.\n\nObstacles in this difficulty are described as \"Godly Movements\"—they are beyond physically impossible, similar to SUFFER jumps but on another stage of agonizingness. You must be aware of your movements or else you will suffer and fail the whole chart. This is your only chance of passing through this difficulty with this warning. Good luck.",
+		)
+		.setVisualRating("74")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(181, 122, 76))
+		.setImage("rbxassetid://87262667146463");
+
+	static readonly Dissension = new Difficulty("Dissension")
+		.setName("Dissension")
+		.setDescription(
+			"Dissension is a peak Class 7, physically impossible sub-difficulty that once served as the finale of the official chart before MegaDeath took its place. It sits between Doog and MegaDeath and is known for being absolutely, inexorably beyond any form of possibility. The difficulty extends far beyond the tier list, with obstacles that are nearly insurmountable. Dissension is a true test of endurance and skill, marking the end of an era before the arrival of even greater challenges.",
+		)
+		.setVisualRating("74.5")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(23, 87, 44))
+		.setImage("rbxassetid://94243458002770");
+
+	static readonly MegaDeath = new Difficulty("MegaDeath")
+		.setName("MegaDeath")
+		.setDescription(
+			"MegaDeath is a well-known difficulty that concludes Class 7 in the Main Difficulty Chart. It is associated with obstacles impossible even with tool-assisted speedruns (TAS) due to their precise complexity and unimaginable tasks. MegaDeath represents an excruciating level of challenge, requiring inhuman skill, luck, and mental processing to overcome. It is considered the real deal—its obstacles are something to prepare for, no matter what you have already accomplished.",
+		)
+		.setVisualRating("75")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://139570137950060");
+
+	static readonly TooPrecise = new Difficulty("TooPrecise")
+		.setName("TooPrecise")
+		.setDescription(
+			"TooPrecise is the final Class 7 sub-difficulty and the only sub-difficulty of MegaDeath. It requires players to conquer obstacles that are, as the name suggests, too precise. Even the smallest mistake can result in failure, and the difficulty is so high that it is nearly impossible to complete.\n\nAs a sub-difficulty of MegaDeath, TooPrecise is slightly harder and is known for its unconventional, glitch-based obstacles. It is mostly theoretically possible, but the level of precision required is beyond what most players can achieve.",
+		)
+		.setVisualRating("75.5")
+		.setLayoutRating(math.huge)
+		.setClass(7)
+		.setColor(Color3.fromRGB(61, 61, 62))
+		.setImage("rbxassetid://79886518170577");
+
+	static readonly Epitome = new Difficulty("Epitome")
+		.setName("Epitome")
+		.setDescription(
+			"Welcome to the epitome of obstacles. Epitome is the entry of Class 8, standing just after TooPrecise, MegaDeath, or Divine, and before Agony. It is assigned a rating of 76, comparable to its previous difficulties. This difficulty contains a lot of obstacle types, and the obstacles can reach up to 160-171 studs for cylinder wraparounds. Epitome is impossible with the current physics of the average ROBLOX character. For the average player, completing even one massively nerfed jump accurate to this difficulty would be an extraordinary feat.",
+		)
+		.setVisualRating("76")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(90, 23, 139))
+		.setImage("rbxassetid://109899827300738");
+
+	static readonly Agony = new Difficulty("Agony")
+		.setName("Agony")
+		.setDescription(
+			"Agony is the first difficulty in Class 8, known as the 'Near-Unbuildable Class.' It marks the beginning of physically impossible challenges. Even a single jump in Agony is a monumental feat, as the obstacles defy logic and are considered unbeatable. The difficulty is filled with traps and decoys, making first-try completions impossible. Only with extreme exploits or overpowered items could anyone hope to progress.",
+		)
+		.setVisualRating("77")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(223, 150, 207))
+		.setImage("rbxassetid://76089633209024");
+
+	static readonly ILOVEYOU = new Difficulty("ILOVEYOU")
+		.setName("ILOVEYOU")
+		.setDescription(
+			"ILOVEYOU is a Baseline Class 8 difficulty that sits between Agony and Abyssal. Created by Bryan, it is classified as Physically Impossible, meaning it cannot be completed even with tool-assisted speedruns. The difficulty is themed after the infamous ILOVEYOU computer virus, featuring numerous gimmicks and obstacles that make it not only impossible to beat but also intentionally frustrating and chaotic. It is a unique entry on the chart, known for its references to computer viruses and disruptive gameplay elements.",
+		)
+		.setVisualRating("77.5")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Abyssal = new Difficulty("Abyssal")
+		.setName("Abyssal")
+		.setDescription(
+			"Abyssal is the third Class 8 difficulty and the final regular difficulty before Reality and Virtual Reality difficulties. It represents the last barrier before the most extreme challenges. Passing Abyssal requires insane tricks and glitches, and while it is extremely hard, even more difficult challenges lie ahead. The obstacles here are so impossible that MegaDeath is considered easy in comparison.",
+		)
+		.setVisualRating("78")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(244, 248, 244))
+		.setImage("rbxassetid://88058708894282");
+
+	static readonly DillyImpossible = new Difficulty("DillyImpossible")
+		.setName("Dilly Impossible")
+		.setDescription(
+			"Dilly Impossible (D.I.) is a Low Class 8 Fabled Difficulty, formerly a Legendary Difficulty. It is physically impossible for both humans and TAS, requiring exploits or physics abuse to complete. D.I. is considered 500 times harder than MegaDeath, with obstacles that reach thousands of studs in difficulty. It sits between Abyssal and Unreasonable, and is known for its extreme challenge and unique place in the difficulty chart.",
+		)
+		.setVisualRating("79")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://7793296594");
+
+	static readonly Gigaversal = new Difficulty("Gigaversal")
+		.setName("Gigaversal")
+		.setDescription(
+			"Gigaversal is a Low Class 8 difficulty that sits between Dilly Impossible and Unreasonable on the difficulty chart. Ranked 79.5 on the Main Difficulty Chart, it has no sub-difficulties or variations. Created by Bryanjr4474, Gigaversal is known for being a physically impossible challenge, where players must defy the laws of physics to succeed. Any attempt to beat this difficulty is considered illegitimate, as it is designed to be completely impossible.\n\nThe difficulty features challenges inspired by cosmic themes, such as fire, ice, gravity, and other unknown events, with obstacles that are even harder than those in Multiversal. Gigaversal is the fourth nested level in the metric -verse series, containing a vast number of megaverses and existing within a complex hierarchy of universes. Most commonly, gigaverses are described as having between 6 and 11 dimensions.\n\nOverall, Gigaversal is rated 79.5 on the Main Difficulty Chart, Tier 46 on the unofficial tiers, and ~1123 on the Kol Metris. It is a test of the impossible, meant to push the boundaries of what can be conceived in obby challenges.",
+		)
+		.setVisualRating("79.5")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 99, 25))
+		.setImage("rbxassetid://114497844038905");
+
+	static readonly Unreasonable = new Difficulty("Unreasonable")
+		.setName("Unreasonable")
+		.setDescription(
+			"You have been improving over time, but at what cost? It's not like you must conquer thousands of consequences. The entire solar system has been destroyed, the planet is slowly decaying, and it's all your fault. Give up, you're not capable for these types of stuff. It gets tougher every time you proceed, but you'll never make it to the end of the chart. You're a fool, thinking you would actually beat this hell of a difficulty chart.\n\nUnreasonable is a revived Class 8 difficulty that is placed between Dilly Impossible and Resilient Glow. Everything here is practically impossible, and is unnecessary to attempt, not even gods could comprehend because of how difficult it is. You shouldn't even reach here because of its impossibility. But there you are, trying to beat an Unreasonable tower to become famous or whatever. This will be agonizing, don't even try to step inside one of those nerve-wracking and breathtaking towers.",
+		)
+		.setVisualRating("80")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://83360980738504");
+
+	static readonly ResilientGlow = new Difficulty("ResilientGlow")
+		.setName("Resilient Glow")
+		.setDescription(
+			"Resilient Glow is the fourth and final difficulty of Low Class 8, succeeding Unreasonable and preceding Arcane. As a Class 8 difficulty, it is physically impossible to complete and requires defying Roblox's physics engine, relying on luck flings and glitches to perform the required jumps. The obstacles are extremely complex and demand unthinkable skill, with even tool-assisted speedruns (TAS) unable to conquer them. The difficulty is so high that even a single jump would be a monumental achievement, and the luck required is unfathomable. Resilient Glow stands as a testament to the ever-increasing limits of obby challenges, far beyond what was once thought possible.",
+		)
+		.setVisualRating("81")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(80, 159, 116))
+		.setImage("rbxassetid://128570072925847");
+
+	static readonly Arcane = new Difficulty("Arcane")
+		.setName("Arcane")
+		.setDescription(
+			"So, you did Resilient Glow, now what is this? You're in an area where everything is a wave, you don’t like this, you're in confusion, what have you gotten into? Really, why are you trying to complete the difficulty chart? That’s impossible, to me at least. The later difficulties are way too hard. You're already experiencing confusion over where you are. How would you complete this? This is absolutely unrealistic to complete. Even if I saw you beat everything up to Resilient Glow, I don't know if you can do this.\n\nArcane is a Class 8 difficulty that is before COMMUNISM and is after Resilient Glow. Everything here is physically impossible, and it is very unnecessary to attempt. Not even some JToH enthusiast would even know how to even mention this. You shouldn’t even be able to reach here, but here you are, trying to beat an Arcane tower to just be epic or known or something. This difficulty is insanely hard, don’t try even attempting a single tower of this difficulty, as it’s pure insanity.",
+		)
+		.setVisualRating("82")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(37, 54, 190))
+		.setImage("rbxassetid://136019462188843");
+
+	static readonly COMMUNISM = new Difficulty("COMMUNISM")
+		.setName("COMMUNISM")
+		.setDescription(
+			"COMMUNISM is a Mid Class 8 difficulty on the Extended Difficulty Chart, currently ranked 83. It is positioned between Arcane (82) and Satan Tartarus Lucifer Void (84). This difficulty is classified as Physically Impossible, meaning its obstacles defy Roblox's physics engine, making legitimate progress nearly impossible—even with TAS. Only those who can surpass its extreme limits can make progress, as it combines harsh obstacles with parts that are not even TAS-clearable. COMMUNISM stands as the absolute opposite of A and is notable for its unique placement and challenge.",
+		)
+		.setVisualRating("83")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(215, 75, 13))
+		.setImage("rbxassetid://7704216077");
+
+	static readonly Detroit = new Difficulty("Detroit")
+		.setName("Detroit")
+		.setDescription(
+			"Detroit is a Mid Class 8 sub-difficulty that succeeds Sandbox and precedes Sacrificingly Impossible. With a rating of 83.5, it demands a deep understanding of advanced glitches and exceptional skill, often requiring months or years of practice. Detroit is notorious for its unpredictable and nearly impossible obstacles, and even completing a single jump is a major accomplishment. The difficulty is themed around chaos and loss, with no winpads or reliable structures.",
+		)
+		.setVisualRating("83.33")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(135, 31, 31))
+		.setImage("rbxassetid://75406531008468");
+
+	static readonly SacrificinglyImpossible = new Difficulty("SacrificinglyImpossible")
+		.setName("Sacrificingly Impossible")
+		.setDescription(
+			"Sacrificingly Impossible (S.I) is a Class 8 sub-difficulty, formerly Class 11, located in the middle range of Physically Impossible challenges. It cannot be completed by humans or TAS, requiring nearly perfect precision and often exceeding the limits of the Roblox physics engine. Obstacles are harder than those in Dilly Impossible, and the difficulty sits between COMMUNISM and Satan Tartarus Lucifer Void. S.I represents a significant leap in challenge, demanding feats that are virtually unattainable.",
+		)
+		.setVisualRating("83.66")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://127313632491425");
+
+	static readonly SatanTartarusLuciferVoid = new Difficulty("SatanTartarusLuciferVoid")
+		.setName("Satan Tartarus Lucifer Void")
+		.setDescription(
+			"Satan Tartarus Lucifer Void (STLV) is a Class 8 normal difficulty that succeeds COMMUNISM and precedes QR Code. It is divided into four sections—Satan, Tartarus, Lucifer, and Void—each representing a different aspect of the challenge. The difficulty has been intentionally nerfed by its creators to make it just barely attemptable, but it remains impossible in every way. STLV was once the end of Class 11 and is designed to be a torturous, hellish experience that tests the limits of any player who dares to attempt it.",
+		)
+		.setVisualRating("84")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(114, 0, 0))
+		.setImage("rbxassetid://134104695839335");
+
+	static readonly QRCode = new Difficulty("QRCode")
+		.setName("QR Code")
+		.setDescription(
+			"QR Code is a High Class 8 difficulty created by TasmanianRex. It is notable for its unique theme, with the icon representing a typical QR code. This difficulty is the first made by its creator and has a humorous origin. Obstacles in QR Code are nearly impossible to build in sandboxes with space limits, and the difficulty itself was introduced in July 2021. The QR code on the icon leads to a rickroll, and the difficulty cannot have a proper decal due to Roblox's image policies. QR Code once belonged to Class 12 but is now recognized as a distinct, high-level challenge.",
+		)
+		.setVisualRating("85")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(150, 150, 150))
+		.setImage("rbxassetid://135867627758202");
+
+	static readonly Vacant = new Difficulty("Vacant")
+		.setName("Vacant")
+		.setDescription(
+			"Vacant is one of the class 8 difficulties. This is one of the last difficulties before difficulties start going beyond physically impossible. Difficulty spikes will start exploding after this difficulty, as this compared to QR Code will be the same as Easy compared to Immeasurable. It’s time to start doubling up on your practice, so doing every jump in the next few difficulties thousands of times is important, otherwise you can't proceed.",
+		)
+		.setVisualRating("85.33")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(3, 3, 3))
+		.setImage("rbxassetid://135796601716282");
+
+	static readonly How = new Difficulty("How")
+		.setName("How‽")
+		.setDescription(
+			"How‽ (also known as How?!) is a High Class 8 difficulty that sits between Vacant and Errorisation. This difficulty is infamous for its absurd tricks and traps, making it virtually unbeatable by any legitimate means—including with boosts or tool-assisted speedruns. The obstacles are so extreme that even hacks or exploits are said to be ineffective. How‽ is designed to be a truly impossible challenge, pushing the boundaries of what can be conceived in obby gameplay.",
+		)
+		.setVisualRating("85.66")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Errorisation = new Difficulty("Errorisation")
+		.setName("Errorisation")
+		.setDescription(
+			"Errorisation is a High Class 8 difficulty succeeding QR Code but preceding Esoteric. Errorisation is not just hard, but also very annoying. The catches are the reason why this difficulty is so annoying. You could take this difficulty as HELLWRATH but easier. Both of these difficulties follow a lot of similarities. Errorisation is capable of accessing files and data on your computer and injecting malware and other viruses. They are meant to interrupt your gameplay and annoy you. This difficulty is so hard that it would make you scream just by looking at the obstacles.",
+		)
+		.setVisualRating("86")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(49, 123, 57))
+		.setImage("rbxassetid://114556034723957");
+
+	static readonly Godlike = new Difficulty("Godlike")
+		.setName("Godlike")
+		.setDescription(
+			"Godlike is a High Class 8, physically impossible difficulty, located between Errorisation and Esoteric. Rated 86.5, it is essentially a buffed version of Omega. Even a single jump in this difficulty is nearly impossible, and building a tower at this level is a significant achievement. Godlike is designed to be a barrier, discouraging players from progressing further due to its extreme challenge.\n\nThe obstacles in Godlike are meant to hinder and demotivate players, rather than stop them entirely. The difficulty is so high that any attempt to complete it is considered futile. Godlike is a test of endurance and determination, pushing players to their limits and beyond.",
+		)
+		.setVisualRating("86.5")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(63, 53, 55))
+		.setImage("rbxassetid://88060785844238");
+
+	static readonly Esoteric = new Difficulty("Esoteric")
+		.setName("Esoteric")
+		.setDescription(
+			"Esoteric is a Class 8 difficulty which succeeds Errorisation and precedes BobuxDeath. Located within high Class 8, Esoteric lies in the Physically Impossible category, meaning it cannot be beaten by TAS, but its obstacles can be built. Obstacles in this difficulty often span lengths wider than tower frames, leaving inside sections mostly bare except for some kill brick dodging. Punishment is everywhere—going too slow or making a single mistake could end your run immediately.",
+		)
+		.setVisualRating("87")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(54, 51, 48))
+		.setImage("rbxassetid://102411020484571");
+
+	static readonly CompleteUsers = new Difficulty("CompleteUsers")
+		.setName("Complete Users")
+		.setDescription(
+			"Complete: Users is a physically impossible, high Class 8 difficulty with a rating of 87.5. It is located between Esoteric and BobuxDeath. The theme of this difficulty is based on various users and their suggestions, making it highly chaotic and unpredictable. Its icon depicts a disorganized collection of users, reflecting the nature of the wiki itself. The obstacles and challenges are inspired by user contributions, resulting in a unique and varied experience.",
+		)
+		.setVisualRating("87.5")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly BobuxDeath = new Difficulty("BobuxDeath")
+		.setName("BobuxDeath")
+		.setDescription(
+			'BobuxDeath is a joke difficulty in the Death Chain, known for its extreme and absurd challenges. It features the "Bobux Man" as a boss and is notorious for being nearly impossible to complete. All forms of exploits and third-party mechanics are neutralized, making the theoretical completion rate negative. The obstacles are so large and difficult that they defy normal gameplay, and the difficulty has a history of being deleted, revived, and revamped multiple times. BobuxDeath is a parody of impossibly hard content and is not meant to be taken seriously.',
+		)
+		.setVisualRating("88")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(98, 193, 132))
+		.setImage("rbxassetid://132347458698287");
+
+	static readonly AlephDEATH = new Difficulty("AlephDEATH")
+		.setName("Aleph-DEATH")
+		.setDescription(
+			"Aleph-DEATH is a Physically Impossible Class 8 Sub-Difficulty, located between BobuxDeath and Limiting. With a rating of 88.5, it is beyond the reach of legitimate play—only exploits or noclip could allow progress, which is not considered valid. Obstacles are massive and filled with instakills, making god mode essential. Originally a Class 23 difficulty, it was deleted and revived, now existing as a Class 12 difficulty.",
+		)
+		.setVisualRating("88.5")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(156, 156, 156))
+		.setImage("rbxassetid://131497972014100");
+
+	static readonly Limiting = new Difficulty("Limiting")
+		.setName("Limiting")
+		.setDescription(
+			"Limiting is a Peak Class 8, Physically Impossible difficulty, known as the penultimate challenge before entering the Realm of Theoretical Impossibility. It comes after BobuxDeath and before The Crystal Core. Limiting is extremely hard, requiring advanced techniques and a high tolerance for RNG and physically impossible gameplay.\n\nThe icon features a black exterior with a grey octagon and a >:D in the center. Limiting is filled with absurd, theoretical obstacles and is designed to test if players are ready for the next class. It is a collaboration between UnfoundLight and Sanjay2133, and is infamous for its over-the-top requirements and humor.",
+		)
+		.setVisualRating("89")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://118995577062078");
+
+	static readonly TheCrystalCore = new Difficulty("TheCrystalCore")
+		.setName("The Crystal Core")
+		.setDescription(
+			"The Crystal Core is a class 8 difficulty, specifically a fabled difficulty. If built, it would be impossible and would have a massive frame, as it is a former legendary difficulty. It is considered harder than MegaDeath and anything before it. The difficulty is known for its extreme challenge, and millions would fail attempting to conquer it.\n\nThe official music for this difficulty is Crystallion - Crystal Clear. The icon is a transparent crystal surrounded by blue lights, with the brightest point at the bottom illuminating the picture.",
+		)
+		.setVisualRating("90")
+		.setLayoutRating(math.huge)
+		.setClass(8)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://129986246593674");
+
+	static readonly Rush = new Difficulty("Rush")
+		.setName("Rush")
+		.setDescription(
+			"Rush is a Class 9 physically impossible difficulty that comes before Aleph-VSC and after The Crystal Core. The defining feature of Rush is its strict time limits—every obstacle is timed for optimal completion, requiring players to speedrun with near-perfect precision. Even without the time constraints, the obstacles themselves are impossible for humans or TAS to complete. Rush is a high-stakes, high-speed challenge that tests both skill and luck to the extreme.",
+		)
+		.setVisualRating("91")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(27, 151, 199))
+		.setImage("rbxassetid://116347771476982");
+
+	static readonly AlephVSC = new Difficulty("AlephVSC")
+		.setName("Aleph-VSC")
+		.setDescription(
+			"Aleph-VSC is a Class 9 Difficulty. It is way harder than Rush yet still easier than the extremely horrifying difficulty Misery. Aleph-VSC is considered to be a Devillish or Physically Impossible difficulty, meaning no matter what you can not do a single jump in such a difficulty. LITERALLY. Jumps in Aleph-VSC seem to defy logic, having game-breaking bugs and impossibly long distance jumps. This difficulty also has numerous catches, all making it even harder.\n\nAleph-VSC has a rating of 92. For reference, Supreme's rating is just 60, and Megadeath's is 75. If you were to attempt to measure the tier of such a difficulty similar to Aleph-VSC, it would likely land in the trillions. (probably 100,000 as The Middleline is 1,000,000th tier)\n\nIt is impossible to tier such a beast of a difficulty. In Kol Metris, Aleph-VSC would land at around 1900. Such hard difficulties as Aleph-VSC require game-breaking bugs and indescribably long jumps.",
+		)
+		.setVisualRating("92")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(33, 32, 16))
+		.setImage("rbxassetid://83907292740166");
+
+	static readonly Misery = new Difficulty("Misery")
+		.setName("Misery")
+		.setDescription(
+			"Misery is a Baseline Class 9 difficulty in the Extended Difficulty Chart, ranked 93. It is classified as Physically Impossible, meaning it cannot be completed by humans or with TAS. This difficulty is located between Aleph-VSC and Mysterious, and is known for its extreme challenge and unique iconography. Progressing through Misery requires overcoming obstacles that are theoretically possible but practically unattainable.",
+		)
+		.setVisualRating("93")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(41, 16, 70))
+		.setImage("rbxassetid://132810434592546");
+
+	static readonly Mysterious = new Difficulty("Mysterious")
+		.setName("Mysterious")
+		.setDescription(
+			"Mysterious is the first difficulty of the Liminality Chain, embodying the concept of mystery. It is similar to difficulties like Choice and Confusion and is positioned between Misery and Undocumented. Originating from The Difficulty Machine: Revamp, Mysterious is a Class 9, unofficial, and physically impossible difficulty.\n\nObstacles in Mysterious are not definitive and can range widely, often being randomly generated. The difficulty is characterized by its unpredictability and enigmatic nature, making it a unique challenge for players.",
+		)
+		.setVisualRating("94")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(107, 103, 83))
+		.setImage("rbxassetid://103595224281589");
+
+	static readonly Undocumented = new Difficulty("Undocumented")
+		.setName("Undocumented")
+		.setDescription(
+			"Undocumented is the second difficulty of the Liminality Chain, with the other two in the chain being called Mysterious and Denial. It goes between those other difficulties in the chain.\n\nThis difficulty revolves around extremely difficult obstacles, which are very difficult to construct in a tower, let alone complete. You would need tools like exploits in order to even stand a chance against Undocumented.\n\nThis would have a very high tier rating (around tier 3000?) as well as a high Kol Metris rating (maybe |530|?), although neither of those measurements are precise in this format.",
+		)
+		.setVisualRating("95")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Denial = new Difficulty("Denial")
+		.setName("Denial")
+		.setDescription(
+			"Denial is the final difficulty of the Liminality Chain, following Undocumented and preceding Aleph-Something. As the name suggests, players are denied from beating this difficulty—it is physically impossible. Denial originated from The Difficulty Machine: Revamp, where it was placed at Class 36. It is exponentially harder than the actual limit for tiers, making it a true test of endurance and skill.",
+		)
+		.setVisualRating("96")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(202, 69, 25))
+		.setImage("rbxassetid://78941204886682");
+
+	static readonly AlephSomething = new Difficulty("AlephSomething")
+		.setName("Aleph-Something")
+		.setDescription(
+			"You have passed nearly 11 classes. You finally took down Denial after going through events unknown and impossible to comprehend to the average human brain. You are actually thinking you can complete this chart. But then, a new challenge in class 9 arrives.\n\n**ALEPH-SOMETHING.**\n\nUnless you are prepared, you aren’t gonna beat this.\n\nAleph-Something is the 7th difficulty of class 9, and one of the oldest in class 9. It is a difficulty after Denial, the last difficulty of the Liminality Chain, and before Omniscient, the first difficulty of the Omni Chain. Obstacles in this difficulty are inconceivable and even just building a tower of this difficulty is extremely hard. If you didn’t come prepared, then you are in for a surprise.\n\nThe last 4 classes have all been extremely challenging with their own aspects. For example: Class 6 had some difficulties with unfair obstacles, like Everdark where you cannot see anything due to the darkness, El Vacio, where you have to find a way to do a jump without attempting it, MegaDeath, where you put all your skills to the test thus far, and much more. All of this will end right here, right now.",
+		)
+		.setVisualRating("97")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(154, 154, 154))
+		.setImage("rbxassetid://123035725435861");
+
+	static readonly Omniscient = new Difficulty("Omniscient")
+		.setName("Omniscient")
+		.setDescription(
+			"Omniscient is a physically impossible difficulty located in the mid-range of Class 9, harder than Aleph-Something but easier than Enigmatic. Structures of this difficulty cannot be accurately built in most obby games and require advanced building tools. Completing an Omniscient structure rewards the player with the Gift of Omniscience, a powerful item for tackling even greater challenges.",
+		)
+		.setVisualRating("98")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(80, 77, 142))
+		.setImage("rbxassetid://108072937706255");
+
+	static readonly Enigmatic = new Difficulty("Enigmatic")
+		.setName("Enigmatic")
+		.setDescription(
+			"Enigmatic is a normal difficulty which was transferred from the JCC Wiki to the JJT Wiki. Unlike the original, which is in Low Rank 3, this difficulty is the midpoint of Class 9, being in the mid spectrum of the class. However, it used to be in Peripheral Class 15. It is currently a successor to Omniscient, and a predecessor to Vrery hawrfd rdifficutl!!. The ludicrous sizes of these obstacles nullify all uses of boost items, even blessed coil. You will never be able to beat this difficulty, or create towers in this difficulty, due to how high up this difficulty is.",
+		)
+		.setVisualRating("99")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Vreryhawrfdrdifficutl = new Difficulty("Vreryhawrfdrdifficutl")
+		.setName("Vrery hawrfd rdifficutl!!")
+		.setDescription(
+			"HOW u get hehere!!!!111 I will kile yousdanafh!!! I WInt let youf pass this fdififcluty anf go toj fe-smiy.d!21!!121\n\ndei!!1121212121212 TWHi s iSK yoUR lAST hncCHANFfce11!!111 LEbaebv Ror DIre1q!!\n\nVrery hawrfd rdifficultl!! is a Class 9 joke difficulty between Enigmatic and Free-smiley.de! This difficulty looks like it should be deleted, but don't fret, it's meant to look like this! This looks horrible and bad but it's still a pretty popular one. If you make towers like this, EVERYTHING must z-fight, and look lazy, because this is meant to look like a toddler made it... like me!!!!!!",
+		)
+		.setVisualRating("100")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Freesmileyde = new Difficulty("Freesmileyde")
+		.setName("Free-smiley.de")
+		.setDescription(
+			'free-smiley.de is a joke, physically impossible difficulty that follows Vrery hawrfd rdifficutl!! and precedes HELLWRATH. Despite its playful name, the obstacles in this difficulty are absurdly hard and often filled with "free smiley" decals, making it notorious for its chaotic and impossible gameplay. The difficulty is a reference to the now-defunct website free-smiley.de, which was known for its emoji GIFs. Players are warned not to take this difficulty lightly, as it is designed to be unreasonably challenging and is not meant to be completed.',
+		)
+		.setVisualRating("101")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://73876147543170");
+
+	static readonly HELLWRATH = new Difficulty("HELLWRATH")
+		.setName("HELLWRATH")
+		.setDescription(
+			'HELLWRATH is a Class 9 difficulty that comes after Free-smiley.de and before LOOP. It is known for its extreme, computer-breaking obstacles and is considered physically impossible. HELLWRATH requires not only godlike obby skills but also exploiting and mechanical skills, with obstacles that are intentionally unbuildable and designed to overwhelm both the player and their device. The winpad is nearly impossible to find, and the difficulty is infamous for its "virus" and error-themed challenges. HELLWRATH is a true test of endurance and is not meant to be completed by normal means.',
+		)
+		.setVisualRating("102")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(23, 73, 138))
+		.setImage("rbxassetid://114492725013474");
+
+	static readonly Hellacious = new Difficulty("Hellacious")
+		.setName("Hellacious")
+		.setDescription(
+			"Hellacious is a high Class 14 sub-difficulty and a sub of HELLWRATH. It is a physically impossible difficulty, rated 102.5, and is known for requiring players to break the limits of Roblox physics. Hellacious sits between HELLWRATH and LOOP, and is considered one of the most extreme challenges, with obstacles that are unbuildable in normal circumstances. The difficulty is designed to be beyond the reach of even tool-assisted runs, making it a true test of the impossible.",
+		)
+		.setVisualRating("102.5")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(223, 80, 81))
+		.setImage("rbxassetid://131365350360531");
+
+	static readonly LOOP = new Difficulty("LOOP")
+		.setName("LOOP")
+		.setDescription(
+			"LOOP is a difficulty considered to be the most lengthy on the entire difficulty chart. It involves a massive, monolithic tower crossing that includes every other tower, steeple, citadel, obelisk, and even tower rush, making it much longer and more challenging than any other difficulty. Gameplay in this difficulty can take hundreds of hours, as it combines the total difficulty of all these towers into one, resulting in a Class 9 rating.\n\nThe unique aspect of LOOP is its paradox: as more towers are combined, the difficulty and length multiply, but due to huge gaps between the hardest towers, it remains at Class 9. If not for these gaps, LOOP would surpass all other difficulties. It is known for being the longest, most varied, and potentially the hardest difficulty, with countless types of obstacles and challenges.",
+		)
+		.setVisualRating("103")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://97496902157109");
+
+	static readonly Bryanjr4474 = new Difficulty("Bryanjr4474")
+		.setName("Bryanjr4474")
+		.setDescription(
+			"Bryanjr4474 is a Peak Class 9 difficulty named after a community member and contributor. It is a normal difficulty placed between LOOP and Eɼɼosion, with a rating of 104. The unique gimmick is that all obstacles are selected by the creator, Bryan, who acts as the boss. Obstacles can range from basic to extremely challenging, and sometimes even involve real-life tasks. The winpad is nearly impossible to find, and exploits are ineffective. This difficulty is a tribute to the creator's involvement in the community and is filled with personal touches and humor.",
+		)
+		.setVisualRating("104")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://105571651493317");
+
+	static readonly ERRosion = new Difficulty("ERRosion")
+		.setName("Eɼɼosion")
+		.setDescription(
+			"Eɼɼosion is a peak Class 9 buffed difficulty that sits between Bryanjr4474 and Dynamix on the difficulty chart. It is known for its void-like, surreal experience and extremely challenging obstacles, often requiring players to perform nearly impossible feats. The difficulty is characterized by its intense, unpredictable gameplay, including drastic changes in player control, camera movement, and environmental hazards. Eɼɼosion is considered a finale-class challenge, pushing the limits of what is possible in the game and is not intended to have any real, buildable towers due to its extreme nature.",
+		)
+		.setVisualRating("105")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(79, 23, 8))
+		.setImage("rbxassetid://77401679407523");
+
+	static readonly Confusion = new Difficulty("Confusion")
+		.setName("Confusion")
+		.setDescription(
+			'Confusion is a Class difficulty that resides after and before redacted difficulties, making it an Unbuildable difficulty. It is impossible to attempt or replicate its obstacles within Roblox, as the engine cannot handle the required complexity. The only conceivable way to complete it would be through exploits, but even that is unlikely. The difficulty is named Confusion due to its disorienting and indecipherable nature, both in obstacles and in the experience it provides. It is part of the "Confusion Chain" and is intentionally unbuildable and enigmatic.',
+		)
+		.setVisualRating("105.x")
+		.setLayoutRating(math.huge)
+		.setClass(9)
+		.setColor(Color3.fromRGB(59, 34, 18))
+		.setImage("rbxassetid://102553385458018");
+
+	static readonly Dynamix = new Difficulty("Dynamix")
+		.setName("Dynamix")
+		.setDescription(
+			"Dynamix is the first difficulty of Class 10 and one of the last to be considered Physically Impossible. It succeeds Confusion, which is wedged between Class 9 and 10, and precedes Eshinion, a difficulty even harder than Dynamix.\n\nAs a Physically Impossible difficulty, creating an obstacle of Dynamix would require jumps spanning thousands of studs. The classification for physically impossible difficulties ranges from hundreds to millions, with Dynamix approaching the limits of Roblox's velocity system. Assists of any kind become insignificant at this level, as the obstacles are mind-numbingly complex and require techniques that are not yet fully understood. These obstacles are extremely long and would take centuries to master, even for the most skilled obbyists.\n\nAs players ascend the difficulty chart, the gaps between difficulties become enormous. Progressing from Confusion to Dynamix is like skipping from Class Negative all the way to Class 5. Dynamix can also be measured by alternative systems, such as the tier system, where it would be rated in the hundreds, or by Metris, where it would have a rating of around 1800.",
+		)
+		.setVisualRating("106")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(85, 85, 101))
+		.setImage("rbxassetid://126977076530996");
+
+	static readonly Eshinion = new Difficulty("Eshinion")
+		.setName("Eshinion")
+		.setDescription(
+			"Eshinion is a Low Class 10 difficulty that succeeds Dynamix and is much harder than it, but precedes Caught. This difficulty contains immeasurable obstacles that test if you are truly capable of something beyond any mortal mind. Conquering Eshinion means you are worthy of proceeding further up the seemingly never-ending Difficulty Chart. In addition to obstacles, Eshinion contains catches and trials that make the path harder, but also boosts to help you. Even if previous difficulties felt easy, this one will not.",
+		)
+		.setVisualRating("107")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(157, 156, 156))
+		.setImage("rbxassetid://88932469272282");
+
+	static readonly Caught = new Difficulty("Caught")
+		.setName("Caught")
+		.setDescription(
+			"Caught is a Baseline Class 10 unofficial sub-difficulty of Eshinion, preceding TooAbnormal. It is known for being nearly impossible to complete, requiring extreme effort and determination. The icon features a sad emoticon, and the difficulty is characterized by extremely high obstacle requirements and the expectation that almost no one will complete it unironically. Caught is a challenge for only the most dedicated players.",
+		)
+		.setVisualRating("107.5")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(30, 30, 30))
+		.setImage("rbxassetid://113075521712042");
+
+	static readonly TooAbnormal = new Difficulty("TooAbnormal")
+		.setName("TooAbnormal")
+		.setDescription(
+			"TooAbnormal is a Low Class 10 difficulty, classified as Physically Impossible. It is located near the baseline of this class and is impossible to beat, even with tool assistance. The obstacles in this difficulty are designed to be universally impossible, and any attempt to complete them will only lead back to the original position.\n\nTooAbnormal sits between Eshinion and Catch, and is rated as 108. It is a significant milestone in the chart, marking the point where challenges become truly insurmountable.",
+		)
+		.setVisualRating("108")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(27, 22, 22))
+		.setImage("rbxassetid://129523464312872");
+
+	static readonly Catch = new Difficulty("Catch")
+		.setName("Catch")
+		.setDescription(
+			'Catch is a Class 10 difficulty, positioned between TooAbnormal and Exploitist Elite. Created as a collaboration, it is classified as humanly, physically, and TAS impossible. The main twist is that while the obstacles themselves may not seem too hard, each one comes with a "catch"—special conditions or debuffs that make the challenge exponentially harder. These catches can include things like blindness, mirrored controls, or extreme lag, making Catch a uniquely punishing experience.',
+		)
+		.setVisualRating("109")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(182, 49, 183))
+		.setImage("rbxassetid://82596496466968");
+
+	static readonly IMPOSSIBLEEXE = new Difficulty("IMPOSSIBLEEXE")
+		.setName("IMPOSSIBLE.EXE")
+		.setDescription(
+			"IMPOSSIBLE.EXE (I.E) is a Class 10 sub-difficulty, formerly Class 15, and is classified as Physically Impossible. It sits between Catch and Exploitist Elite, with obstacles that are so extreme they surpass the limits of human and even tool-assisted completion. The difficulty is known for its placement in the Impossible Levels chart and features challenges that are beyond the capabilities of any player or TAS. IMPOSSIBLE.EXE is a symbol of the ultimate, unachievable challenge in obby difficulty design.",
+		)
+		.setVisualRating("109.5")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(103, 95, 95))
+		.setImage("rbxassetid://113339012323330");
+
+	static readonly ExploitistElite = new Difficulty("ExploitistElite")
+		.setName("Exploitist Elite")
+		.setDescription(
+			"Exploitist Elite, or E.E. for short, is a High Class 10 difficulty and one of the last before the Extended Difficulty Chart. This difficulty can only be completed by the best exploiters; beating it legit without exploits is nearly impossible. Its obstacles are split into two phases, with Phase 2 being more difficult than Phase 1. Exploitist Elite is considered Physically Impossible, as building even a single obstacle may crash Roblox Studio.",
+		)
+		.setVisualRating("110")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(56, 29, 79))
+		.setImage("rbxassetid://110555661906081");
+
+	static readonly TooTooHard = new Difficulty("TooTooHard")
+		.setName("TooTooHard")
+		.setDescription(
+			"TooTooHard is a Class 10 difficulty that is physically impossible. It defies the ROBLOX physics engine, making it impossible to beat, even with tool assistance or exploits. TooTooHard is a buffed version of TooHard or WHY, and represents a point where even the most ambitious towers cannot be completed.\n\nObstacles in this difficulty are so extreme that attempting them would crash the game or make progress impossible. TooTooHard marks the boundary where challenges become completely unbuildable and unplayable.",
+		)
+		.setVisualRating("111")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(16, 16, 16))
+		.setImage("rbxassetid://95359196188355");
+
+	static readonly TrueObamaPrism = new Difficulty("TrueObamaPrism")
+		.setName("True Obama Prism")
+		.setDescription(
+			"True Obama Prism (T.O.P) is a Mid Class 10 difficulty, ranked as Physically Impossible. It sits between TooTooHard and Zany, and is considered a classic difficulty. This difficulty is extraordinary and impossible to complete due to the limitations of ROBLOX's physics engine. Any attempt to beat a tower of this difficulty would require defying the game's physics, making it unachievable by normal means.",
+		)
+		.setVisualRating("111.5")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(0, 0, 0));
+
+	static readonly Zany = new Difficulty("Zany")
+		.setName("Zany")
+		.setDescription(
+			'Zany is a class 10, High Reality difficulty, which is after TooTooHard yet before Oh Noez!. It is incredibly difficult, as it is not only impossible to complete, but also impossible to build. One could alternatively place this difficulty as a successor of Orpiment, if it was to be placed in the Excavation Chain. If this was to be the case, it would also be a predecessor of Tetra.\n\nIts actual "full" name would be "Zanyte", a fictional mineral that can be obtained through the Orpiment geode, hence why it is after Orpiment. There are also some other interesting facts about this difficulty, but they will be found in the Trivia section of the page.\n\nZany\'s placement indicates that part, or in fact, most of this difficulty is Physically Impossible, and that the regular stud jump would not be physically possible within the Roblox physics. In fact, this difficulty ranges in the hundred thousands, which over the course of this and the next few difficulties residing in High Reality, will approach Pinnacle, or the limit of buildability.',
+		)
+		.setVisualRating("112")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(153, 160, 106))
+		.setImage("rbxassetid://93107844702853");
+
+	static readonly OhNoez = new Difficulty("OhNoez")
+		.setName("Oh Noez!")
+		.setDescription(
+			'Oh Noez! is a Class 10 joke difficulty themed around computer viruses and popups. After beating Zany, players are humorously "infected" with a virtual virus, facing impossible obstacles and a barrage of distractions. The difficulty is intentionally absurd and physically impossible, serving as a playful and comedic entry in the chart.',
+		)
+		.setVisualRating("113")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(228, 205, 125))
+		.setImage("rbxassetid://117978953106994");
+
+	static readonly Viratical = new Difficulty("Viratical")
+		.setName("Viratical")
+		.setDescription(
+			"Viratical is a devilish difficulty, and is the penultimate difficulty of The End of the Official Chart (C10). It is in High Class 10, and is located succeeding Oh Noez!, and preceding Pinnacle. You may be on the last difficulty before you face the End of The Main Difficulty Chart, but that doesn’t mean it’ll be easy. This difficulty stretches the ultimate border between fiction and non-fiction, completely nullifying any type of TAS, or hacks, and your roblox character will be decimated by a spinner at the speed of sound, before you even realize.\n\nOverall, you most likely will never end up beating this, as there’s a limit of capabilities in everything.",
+		)
+		.setVisualRating("114")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(186, 163, 52))
+		.setImage("rbxassetid://91463355176914");
+
+	static readonly Pinnacle = new Difficulty("Pinnacle")
+		.setName("Pinnacle")
+		.setDescription(
+			"Pinnacle is the pinnacle of human buildability, representing the absolute limit of what can be constructed in Roblox. Obstacles at this level require heavy scripting and push the boundaries of the engine, making gameplay nearly impossible. Pinnacle marks the end of buildability, and any difficulty beyond this is not feasible, even for the most skilled players. It serves as a demonstration of the limits of the platform.",
+		)
+		.setVisualRating("115")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(172, 160, 23))
+		.setImage("rbxassetid://105965972570391");
+
+	static readonly TheMiddleline = new Difficulty("TheMiddleline")
+		.setName("The Middleline")
+		.setDescription(
+			"The Middleline is the third of the Primordials and is the only Peak Class 10 difficulty. It is located halfway between The First Difficulty and The Final Difficulty. Due to its position on the chart, it cannot be built or beaten. Obstacles of this difficulty are unfathomably absurd and will never be accomplished by any form of tool assistance, as any potential help is neutralized upon entry.\n\nThis difficulty is rated extremely high, with a Metris value of exactly 2000, as it sits in the exact middle of the chart and the Metris spectrum. The Middleline represents the midpoint of all classes and is a true test of skill, far beyond what is possible in normal gameplay.",
+		)
+		.setVisualRating("115")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(132, 87, 52))
+		.setImage("rbxassetid://91656214417996");
+
+	static readonly Missing = new Difficulty("Missing")
+		.setName("Missing")
+		.setDescription(
+			"Missing is an unknown difficulty that is missing from the chart, with no defined placement. It is not part of Class 10 or 11, nor is it the beginning or end of anything. Missing cannot be unclassified, as it has obstacles dependent on its point between other difficulties. Its nature is undefined, making it a unique and enigmatic entry in the difficulty chart.",
+		)
+		.setVisualRating("?")
+		.setLayoutRating(math.huge)
+		.setClass(10)
+		.setColor(Color3.fromRGB(0, 0, 0))
+		.setImage("rbxassetid://136863391835511");
 
 	static readonly Bonuses = new Difficulty("Bonuses")
 		.setName("Bonuses")
