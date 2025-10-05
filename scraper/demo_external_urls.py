@@ -3,7 +3,7 @@ Example: Show how external wiki URLs are now correctly generated
 """
 import json
 
-with open('difficulties.json', 'r', encoding='utf-8') as f:
+with open('difficulties/difficulties.json', 'r', encoding='utf-8') as f:
     difficulties = json.load(f)
 
 print("=" * 80)

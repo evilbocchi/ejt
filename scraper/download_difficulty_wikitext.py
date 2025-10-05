@@ -96,8 +96,8 @@ def main():
         print(f"Filtering for difficulty name: {specific_name}\n")
 
     # Load difficulties
-    print("Loading difficulties.json...")
-    with open('difficulties.json', 'r', encoding='utf-8') as f:
+    print("Loading difficulties/difficulties.json...")
+    with open('difficulties/difficulties.json', 'r', encoding='utf-8') as f:
         difficulties = json.load(f)
 
     if specific_name:

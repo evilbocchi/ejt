@@ -4,7 +4,7 @@ Test script to verify external wiki URLs are generated correctly
 import json
 
 # Load the parsed difficulties
-with open('difficulties.json', 'r', encoding='utf-8') as f:
+with open('difficulties/difficulties.json', 'r', encoding='utf-8') as f:
     difficulties = json.load(f)
 
 # Find difficulties with external wiki links (EToH difficulties)

@@ -250,11 +250,11 @@ if __name__ == "__main__":
     all_difficulties = unclassified + difficulties
     
     # Save to JSON
-    with open('difficulties.json', 'w', encoding='utf-8') as f:
+    with open('difficulties/difficulties.json', 'w', encoding='utf-8') as f:
         json.dump(all_difficulties, f, indent=2, ensure_ascii=False)
     
     print(f"Parsed {len(all_difficulties)} difficulties ({len(unclassified)} unclassified + {len(difficulties)} classified)")
-    print(f"Saved to difficulties.json")
+    print(f"Saved to difficulties/difficulties.json")
     
     # Print some examples
     print("\nExample difficulties:")

@@ -12,7 +12,7 @@ Parses the main difficulty chart wikitext to extract difficulty information.
 python scraper/parse_main.py
 ```
 
-**Output:** `difficulties.json` containing all difficulties with their metadata (name, rating, class, etc.)
+**Output:** `difficulties/difficulties.json` containing all difficulties with their metadata (name, rating, class, etc.)
 
 ---
 
@@ -20,7 +20,7 @@ python scraper/parse_main.py
 Downloads the full wikitext content for each difficulty from the wiki.
 
 **Prerequisites:**
-- `difficulties.json` must exist (run `parse_main.py` first)
+- `difficulties/difficulties.json` must exist (run `parse_main.py` first)
 
 **Usage:**
 ```bash

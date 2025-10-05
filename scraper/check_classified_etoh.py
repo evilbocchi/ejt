@@ -3,7 +3,7 @@ Check if there are any EToH difficulties in the classified sections
 """
 import json
 
-with open('difficulties.json', 'r', encoding='utf-8') as f:
+with open('difficulties/difficulties.json', 'r', encoding='utf-8') as f:
     difficulties = json.load(f)
 
 # Find classified EToH difficulties

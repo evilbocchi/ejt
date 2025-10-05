@@ -7,7 +7,7 @@ const { PNG } = require("pngjs");
 const unidecode = require("unidecode");
 
 const ROOT = path.resolve(__dirname, "..");
-const DIFFICULTIES_PATH = path.join(ROOT, "difficulties.json");
+const DIFFICULTIES_PATH = path.join(ROOT, "difficulties/difficulties.json");
 const MARKDOWN_DIR = path.join(ROOT, "difficulties", "markdown");
 const IMAGE_DIR = path.join(ROOT, "difficulties", "image");
 const ASSET_MAP_PATH = path.join(ROOT, "assetMap.ts");

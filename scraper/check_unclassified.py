@@ -1,6 +1,6 @@
 import json
 
-with open('../difficulties.json', encoding='utf-8') as f:
+with open('difficulties/difficulties.json', encoding='utf-8') as f:
     data = json.load(f)
 
 unclassified = [d for d in data if d.get('class') == 'Unclassified']
