@@ -30,8 +30,8 @@ def parse_wikitext_difficulties(wikitext_file: str) -> List[Dict]:
     while i < len(lines):
         line = lines[i].strip()
         
-        # Detect class headers
-        class_match = re.search(r'\|Class (Negative|\d+|[A-Z][a-z]+) \| (.+?)(?:\||\n|$)', line)
+        # Detect class headers (with or without <nowiki> tags)
+        class_match = re.search(r'\|(?:<nowiki>)?Class (Negative|\d+|[A-Z][a-z]+) \| (.+?)(?:</nowiki>)?(?:\||\n|$)', line)
         if class_match:
             current_class = f"Class {class_match.group(1)}"
             in_table = False
@@ -162,8 +162,9 @@ def parse_unclassified_difficulties(wikitext_file: str) -> List[Dict]:
         if in_unclassified and 'wikitable' in line:
             in_table = True
         
-        # End of unclassified section
-        if in_unclassified and '|}' in line and 'Navigation between Charts' in content[content.find(line):content.find(line)+200]:
+        # End of unclassified section - stop when we hit Navigation or Class sections
+        if in_unclassified and ('Navigation between Charts' in line or 
+                                re.search(r'Class (Negative|\d+|[A-Z][a-z]+) \|', line)):
             break
         
         # Detect subsections

@@ -272,2736 +272,6 @@
   {
     "name": "The First Difficulty",
     "wiki_name": "The First Difficulty",
-    "rating": "<font size=\"6\">'''<big>-∞</big>'''</font>",
-    "type": "'''<big>Primordial</big>'''",
-    "class": "Unclassified",
-    "class_section": "Baseline (Start of the Chart)",
-    "image": "Tfird.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/The_First_Difficulty"
-  },
-  {
-    "name": "The Lower Gap",
-    "wiki_name": "The Lower Gap",
-    "rating": "<big>'''-∞ to 115'''</big>",
-    "type": "'''<big>Primordial / Gap</big>'''",
-    "class": "Unclassified",
-    "class_section": "Baseline (Start of the Chart)",
-    "image": "TheLowerGapRemake.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/The_Lower_Gap"
-  },
-  {
-    "name": "Negativity",
-    "wiki_name": "Negativity",
-    "rating": "-(FOOT<sup>10</sup>(10<sup>100</sup>))",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline (Start of the Chart)",
-    "image": "Negativity.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Negativity"
-  },
-  {
-    "name": "Unimpossible",
-    "wiki_name": "Unimpossible",
-    "rating": "-Rayo(10<sup>100</sup>)",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Unimpossible New.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Unimpossible"
-  },
-  {
-    "name": "Friendliness",
-    "wiki_name": "Friendliness",
-    "rating": "-TREE(3)",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "FPnew.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Friendliness"
-  },
-  {
-    "name": "True Ease",
-    "wiki_name": "True Ease",
-    "rating": "-G<sub>64</sub>",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "True Ease (New).webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/True_Ease"
-  },
-  {
-    "name": "Felix the ДА",
-    "wiki_name": "Felix the ДА",
-    "rating": "-10<sup>1Qd</sup>",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Square Felix The AA.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Felix_the_ДА"
-  },
-  {
-    "name": "Exist",
-    "wiki_name": "Exist",
-    "rating": "<big>-10<sup>100</sup></big>",
-    "type": "<big>First Legendary</big>",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Exist Difficulty Squared.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Exist"
-  },
-  {
-    "name": "Disco",
-    "wiki_name": "Disco",
-    "rating": "-10<sup>10</sup>",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Discodebug.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Disco"
-  },
-  {
-    "name": "Relax",
-    "wiki_name": "Relax",
-    "rating": "-1,000,000",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "SquareRelaxNew.svg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Relax"
-  },
-  {
-    "name": "Restful",
-    "wiki_name": "Restful",
-    "rating": "-50",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Restful3.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Restful"
-  },
-  {
-    "name": "Ifinity",
-    "wiki_name": "Ifinity",
-    "rating": "-40",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Ifinitely-Winsome.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Ifinity"
-  },
-  {
-    "name": "Instant Win",
-    "wiki_name": "Instant Win",
-    "rating": "'''<big>-31</big>'''",
-    "type": "Class Finale",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Instant Win.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Instant_Win"
-  },
-  {
-    "name": "Pre-Excavation Chain",
-    "wiki_name": "Excavation Chain",
-    "rating": "-F<sub>7</sub><sup>63</sup>(10<sup>100</sup>) to -15",
-    "type": "Chain/Sub-Difficulties",
-    "class": "Unclassified",
-    "class_section": "Chains",
-    "image": "Cash.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Excavation_Chain"
-  },
-  {
-    "name": "Millisecondless",
-    "wiki_name": "Millisecondless",
-    "rating": "-30",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "One Second.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Millisecondless"
-  },
-  {
-    "name": "Astronomical",
-    "wiki_name": "Astronomical",
-    "rating": "-29.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Astronomical.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Astronomical"
-  },
-  {
-    "name": "Winsome",
-    "wiki_name": "Winsome",
-    "rating": "-28",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Winsome.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Winsome"
-  },
-  {
-    "name": "Do Nothing",
-    "wiki_name": "Do Nothing",
-    "rating": "-27",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "SquareDoNothing.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Do_Nothing"
-  },
-  {
-    "name": "Sleepful",
-    "wiki_name": "Sleepful",
-    "rating": "-26.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Sleepful2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Sleepful"
-  },
-  {
-    "name": "Blessing",
-    "wiki_name": "Blessing",
-    "rating": "-26",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Blessing.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Blessing"
-  },
-  {
-    "name": "Vintage",
-    "wiki_name": "Vintage",
-    "rating": "-25",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Vintage.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Vintage"
-  },
-  {
-    "name": "Ifinitude",
-    "wiki_name": "Ifinitude",
-    "rating": "-24.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Re emergence yay.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Ifinitude"
-  },
-  {
-    "name": "Just Air",
-    "wiki_name": "Just Air",
-    "rating": "-24",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Therobloxboss24 JustAir.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Just_Air"
-  },
-  {
-    "name": "Happylike",
-    "wiki_name": "Happylike",
-    "rating": "-23",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Happylike remake.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Happylike"
-  },
-  {
-    "name": "Locomotion",
-    "wiki_name": "Locomotion",
-    "rating": "-22",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Locomotion.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Locomotion"
-  },
-  {
-    "name": "Walkthrough",
-    "wiki_name": "Walkthrough",
-    "rating": "-21",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Walkthrough.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Walkthrough"
-  },
-  {
-    "name": "Automatic Joyful",
-    "wiki_name": "Automatic Joyful",
-    "rating": "-20",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Automatic Joyful Remade.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Automatic_Joyful"
-  },
-  {
-    "name": "Unlosable",
-    "wiki_name": "Unlosable",
-    "rating": "-19",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Unlosable.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Unlosable"
-  },
-  {
-    "name": "Roll",
-    "wiki_name": "Unlosable/Old#Roll",
-    "rating": "-19",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Roll Difficulty.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Unlosable/Old#Roll"
-  },
-  {
-    "name": "Mazeophobia",
-    "wiki_name": "Unlosable/Old#Mazeophobia",
-    "rating": "-19",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Mazeophobia.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Unlosable/Old#Mazeophobia"
-  },
-  {
-    "name": "Shattered Babass",
-    "wiki_name": "Shattered Babass",
-    "rating": "-18.5",
-    "type": "Babass Sequence",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "ShatteredBabass.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Shattered_Babass"
-  },
-  {
-    "name": "Frivolous",
-    "wiki_name": "Frivolous",
-    "rating": "-18",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Frivolous.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Frivolous"
-  },
-  {
-    "name": "Vibeness",
-    "wiki_name": "Vibeness",
-    "rating": "-17.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Vibeness.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Vibeness"
-  },
-  {
-    "name": "Automatic",
-    "wiki_name": "Automatic",
-    "rating": "-17",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "AutomaticDiffIcon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Automatic"
-  },
-  {
-    "name": "Spontaneous",
-    "wiki_name": "Spontaneous",
-    "rating": "'''<big>-16</big>'''",
-    "type": "Class Finale",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Spontaneous.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Spontaneous"
-  },
-  {
-    "name": "Joyful",
-    "wiki_name": "Joyful",
-    "rating": "<big>-15</big>",
-    "type": "<big>2nd Legendary</big>",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "JoyfulDiffIcon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Joyful"
-  },
-  {
-    "name": "Do Something",
-    "wiki_name": "Do Something",
-    "rating": "-14.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Do Something 2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Do_Something"
-  },
-  {
-    "name": "Placid",
-    "wiki_name": "Placid",
-    "rating": "-14",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "PLACID.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Placid"
-  },
-  {
-    "name": "Press a Key",
-    "wiki_name": "Press a Key",
-    "rating": "-13",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Press a Key.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Press_a_Key"
-  },
-  {
-    "name": "Tap to Move",
-    "wiki_name": "Tap to Move",
-    "rating": "-12.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "2Tap2Move.webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Tap_to_Move"
-  },
-  {
-    "name": "Walk A Slope",
-    "wiki_name": "Walk A Slope",
-    "rating": "-12.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "WAS.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Walk_A_Slope"
-  },
-  {
-    "name": "Climb A Truss",
-    "wiki_name": "Climb A Truss",
-    "rating": "-12",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Cat.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Climb_A_Truss"
-  },
-  {
-    "name": "Tranquil",
-    "wiki_name": "Tranquil",
-    "rating": "-11.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Tranquil2024.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Tranquil"
-  },
-  {
-    "name": "Starter",
-    "wiki_name": "Starter",
-    "rating": "-10",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Starter.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Starter"
-  },
-  {
-    "name": "Cakewalk",
-    "wiki_name": "Cakewalk",
-    "rating": "-9.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "CakeWalk.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Cakewalk"
-  },
-  {
-    "name": "Sweet",
-    "wiki_name": "Sweet",
-    "rating": "-9",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Sweet (New).png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Sweet"
-  },
-  {
-    "name": "Sugary",
-    "wiki_name": "Sugary",
-    "rating": "-8.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Sugary (New).png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Sugary"
-  },
-  {
-    "name": "Aesthetic",
-    "wiki_name": "Aesthetic",
-    "rating": "-8.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Aesthetic.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Aesthetic"
-  },
-  {
-    "name": "Glee",
-    "wiki_name": "Glee",
-    "rating": "-7.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Glee Difficulty.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Glee"
-  },
-  {
-    "name": "Flowerness",
-    "wiki_name": "Flowerness",
-    "rating": "-7",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "New flowerness image1.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Flowerness"
-  },
-  {
-    "name": "Coasterifying",
-    "wiki_name": "Coasterifying",
-    "rating": "-6.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "NewestCoasterifying.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Coasterifying"
-  },
-  {
-    "name": "A Difficulty Named Difficulty",
-    "wiki_name": "A Difficulty Named Difficulty",
-    "rating": "-6.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "ADNDnewimage.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/A_Difficulty_Named_Difficulty"
-  },
-  {
-    "name": "Pleasant",
-    "wiki_name": "Pleasant",
-    "rating": "-6",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Pleasant.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Pleasant"
-  },
-  {
-    "name": "Piece o' Cake",
-    "wiki_name": "Piece o' Cake",
-    "rating": "-5.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Piece O Cake UHD.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Piece_o'_Cake"
-  },
-  {
-    "name": "Tutorial",
-    "wiki_name": "Tutorial",
-    "rating": "-5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Tutorial.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Tutorial"
-  },
-  {
-    "name": "Hellish Encore",
-    "wiki_name": "Hellish Encore",
-    "rating": "-4.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Hellish Encore.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Hellish_Encore"
-  },
-  {
-    "name": "Delightful",
-    "wiki_name": "Delightful",
-    "rating": "-4.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "New icon Delight.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Delightful"
-  },
-  {
-    "name": "TooEasy",
-    "wiki_name": "TooEasy",
-    "rating": "-4",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "TooEasy Difficulty Revamped.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/TooEasy"
-  },
-  {
-    "name": "Peaceful",
-    "wiki_name": "Peaceful",
-    "rating": "-3",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "PeacefulNew.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Peaceful"
-  },
-  {
-    "name": "Playful",
-    "wiki_name": "Playful",
-    "rating": "-2.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Playful.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Playful"
-  },
-  {
-    "name": "Babying",
-    "wiki_name": "Babying",
-    "rating": "-2",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "BabyingSDC.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Babying"
-  },
-  {
-    "name": "Magnificent",
-    "wiki_name": "Magnificent",
-    "rating": "-1.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Magnificent Current.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Magnificent"
-  },
-  {
-    "name": "Facile",
-    "wiki_name": "Facile",
-    "rating": "-1.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Facile1.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Facile"
-  },
-  {
-    "name": "Effortlessless",
-    "wiki_name": "Effortlessless",
-    "rating": "'''<big>-1</big>'''",
-    "type": "Class Finale",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "EffortlesslessIconOoIDC.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Effortlessless"
-  },
-  {
-    "name": "Gravel",
-    "wiki_name": "Gravel",
-    "rating": "-0.5",
-    "type": "Normal/Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Gravel.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Gravel"
-  },
-  {
-    "name": "Excavation Chain",
-    "wiki_name": "Excavation Chain",
-    "rating": "-11.25 to ???",
-    "type": "Chain/Sub-Difficulties",
-    "class": "Unclassified",
-    "class_section": "Chains",
-    "image": "Stone.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Excavation_Chain"
-  },
-  {
-    "name": "Effortless",
-    "wiki_name": "Effortless",
-    "rating": "0",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Effortless_difficulty.png",
-    "url": "https://jtoh.fandom.com/wiki/Effortless"
-  },
-  {
-    "name": "Playground",
-    "wiki_name": "Playground",
-    "rating": "0.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Playgrounddif.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Playground"
-  },
-  {
-    "name": "Elementary",
-    "wiki_name": "Elementary",
-    "rating": "0.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Comforting.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Elementary"
-  },
-  {
-    "name": "Simple",
-    "wiki_name": "Simple",
-    "rating": "0.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Simple.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Simple"
-  },
-  {
-    "name": "Easy",
-    "wiki_name": "Easy",
-    "rating": "1",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "EasyDifficulty.jpg",
-    "url": "https://jtoh.fandom.com/wiki/Easy"
-  },
-  {
-    "name": "Neat",
-    "wiki_name": "Neat",
-    "rating": "1.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "NEaT.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Neat"
-  },
-  {
-    "name": "Calm",
-    "wiki_name": "Calm",
-    "rating": "1.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Calmness-New.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Calm"
-  },
-  {
-    "name": "Switch",
-    "wiki_name": "Switch",
-    "rating": "1.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "SWNew.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Switch"
-  },
-  {
-    "name": "Medium",
-    "wiki_name": "Medium",
-    "rating": "2",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "MediumDifficulty.jpg",
-    "url": "https://jtoh.fandom.com/wiki/Medium"
-  },
-  {
-    "name": "Normal",
-    "wiki_name": "Normal",
-    "rating": "2.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Normal2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Normal"
-  },
-  {
-    "name": "Intermediate",
-    "wiki_name": "Intermediate",
-    "rating": "2.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Intermediate.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Intermediate"
-  },
-  {
-    "name": "Rewardable",
-    "wiki_name": "Rewardable",
-    "rating": "2.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Rewardable_diff.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Rewardable"
-  },
-  {
-    "name": "Tricky",
-    "wiki_name": "Tricky",
-    "rating": "3.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "New_Tricky.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Tricky"
-  },
-  {
-    "name": "Onerous",
-    "wiki_name": "Onerous",
-    "rating": "3.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Onerous.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Onerous"
-  },
-  {
-    "name": "Easeful",
-    "wiki_name": "Easeful",
-    "rating": "3.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "EasefulNew.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Easeful"
-  },
-  {
-    "name": "Strenuous",
-    "wiki_name": "Strenuous",
-    "rating": "4.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Strenuous.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Strenuous"
-  },
-  {
-    "name": "Menacing",
-    "wiki_name": "Menacing",
-    "rating": "4.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "MenacingDifficulty.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Menacing"
-  },
-  {
-    "name": "Harming",
-    "wiki_name": "Harming",
-    "rating": "4.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Harming.svg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Harming"
-  },
-  {
-    "name": "Irritating",
-    "wiki_name": "Irritating",
-    "rating": "5.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Irritating_square.PNG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Irritating"
-  },
-  {
-    "name": "Maniacal",
-    "wiki_name": "Maniacal",
-    "rating": "5.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Maniacal.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Maniacal"
-  },
-  {
-    "name": "Hectic",
-    "wiki_name": "Hectic",
-    "rating": "5.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Hectic.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Hectic"
-  },
-  {
-    "name": "TooMedium",
-    "wiki_name": "TooMedium",
-    "rating": "6.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "BetterTooMedium.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/TooMedium"
-  },
-  {
-    "name": "Severe",
-    "wiki_name": "Severe",
-    "rating": "6.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Severe2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Severe"
-  },
-  {
-    "name": "Hellish",
-    "wiki_name": "Hellish",
-    "rating": "6.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Hellish2.PNG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Hellish"
-  },
-  {
-    "name": "C0RrUpT",
-    "wiki_name": "C0RrUpT",
-    "rating": "7.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "CORRUPT.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/C0RrUpT"
-  },
-  {
-    "name": "Psycho",
-    "wiki_name": "Psycho",
-    "rating": "7.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Psycho.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Psycho"
-  },
-  {
-    "name": "Harsh",
-    "wiki_name": "Harsh",
-    "rating": "7.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Harsh.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Harsh"
-  },
-  {
-    "name": "Relentless",
-    "wiki_name": "Relentless",
-    "rating": "'''<big>8</big>'''",
-    "type": "<big>1st Fabled/Class Finale</big>",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Relentless.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Relentless"
-  },
-  {
-    "name": "Gar Chain",
-    "wiki_name": ":Category:Gar Chain",
-    "rating": "0.125 to 225.5",
-    "type": "Chain/Sub-Difficulties",
-    "class": "Unclassified",
-    "class_section": "Chains",
-    "image": "Gar-Effortless.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/:Category:Gar_Chain"
-  },
-  {
-    "name": "Complex",
-    "wiki_name": "Complex",
-    "rating": "8.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Complex.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Complex"
-  },
-  {
-    "name": "Thanos",
-    "wiki_name": "Thanos (Difficulty)",
-    "rating": "9.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "ThanosIcon.jpeg",
-    "url": "https://jtoh.fandom.com/wiki/Thanos_(Difficulty)"
-  },
-  {
-    "name": "Madness",
-    "wiki_name": "Madness",
-    "rating": "9.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Madness.PNG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Madness"
-  },
-  {
-    "name": "Classical",
-    "wiki_name": "Classical",
-    "rating": "9.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "ClassicalHighQuality.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Classical"
-  },
-  {
-    "name": "Turmoil",
-    "wiki_name": "Turmoil",
-    "rating": "10.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Inferiority.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Turmoil"
-  },
-  {
-    "name": "Absurd",
-    "wiki_name": "Absurd",
-    "rating": "10.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "AbsurdNewIcon.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Absurd"
-  },
-  {
-    "name": "Petrifying",
-    "wiki_name": "Petrifying",
-    "rating": "11.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Petrifying2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Petrifying"
-  },
-  {
-    "name": "Horrifying",
-    "wiki_name": "Horrifying",
-    "rating": "11.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Horrifying.PNG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Horrifying"
-  },
-  {
-    "name": "Champion's Road",
-    "wiki_name": "Champion's Road",
-    "rating": "12.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Champion's_Road.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Champion's_Road"
-  },
-  {
-    "name": "Eccentric",
-    "wiki_name": "Eccentric",
-    "rating": "12.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Eccentric_New_New.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Eccentric"
-  },
-  {
-    "name": "Dorcelessness",
-    "wiki_name": "Dorcelessness",
-    "rating": "12.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "DorcelessnessDifficulty.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Dorcelessness"
-  },
-  {
-    "name": "Horrific",
-    "wiki_name": "Horrific",
-    "rating": "13",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "NewHorrific.webp",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/Horrific"
-  },
-  {
-    "name": "Reversed",
-    "wiki_name": "Reversed",
-    "rating": "13.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "No_U.gif",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Reversed"
-  },
-  {
-    "name": "Eternal",
-    "wiki_name": "Eternal",
-    "rating": "13.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Eternalized.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Eternal"
-  },
-  {
-    "name": "Confident",
-    "wiki_name": "Confident",
-    "rating": "13.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Confidence.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Confident"
-  },
-  {
-    "name": "HYPER",
-    "wiki_name": "HYPER",
-    "rating": "14.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "HYPERNew.webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/HYPER"
-  },
-  {
-    "name": "Treacherous",
-    "wiki_name": "Treacherous",
-    "rating": "14.5",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "New_Treacherous_Icon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Treacherous"
-  },
-  {
-    "name": "Oblivious",
-    "wiki_name": "Oblivious",
-    "rating": "14.75",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Oblivious.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Oblivious"
-  },
-  {
-    "name": "Anguish",
-    "wiki_name": "Anguish",
-    "rating": "15",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "AnguishNew2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Anguish"
-  },
-  {
-    "name": "Prodigious",
-    "wiki_name": "Prodigious",
-    "rating": "15.25",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "ProdigiousIcon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Prodigious"
-  },
-  {
-    "name": "The Human Limit",
-    "wiki_name": "The Human Limit",
-    "rating": "'''<big>15.5</big>'''",
-    "type": "<big>3rd Legendary/Class Finale</big>",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "TheHumanLimit.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/The_Human_Limit"
-  },
-  {
-    "name": "nil",
-    "wiki_name": "nil",
-    "rating": "16",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Nil revamp lol.png",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/nil"
-  },
-  {
-    "name": "Jank",
-    "wiki_name": "Jank",
-    "rating": "16.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Jank.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Jank"
-  },
-  {
-    "name": "The Heart of Void",
-    "wiki_name": "The Heart of Void",
-    "rating": "16.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Heart Of The Void.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/The_Heart_of_Void"
-  },
-  {
-    "name": "Nightmare",
-    "wiki_name": "Nightmare",
-    "rating": "17.33",
-    "type": "<big>2nd Fabled/Sub-Difficulty</big>",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Nightmare.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Nightmare"
-  },
-  {
-    "name": "Literal",
-    "wiki_name": "Literal",
-    "rating": "17.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Literal3.webp",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/Literal"
-  },
-  {
-    "name": "WHY",
-    "wiki_name": "WHY",
-    "rating": "18",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "NewWHY.jpeg",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/WHY"
-  },
-  {
-    "name": "MAXIMUM OVERDRIVE",
-    "wiki_name": "MAXIMUM OVERDRIVE",
-    "rating": "18.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Overdrive.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/MAXIMUM_OVERDRIVE"
-  },
-  {
-    "name": "Purgatory",
-    "wiki_name": "Purgatory",
-    "rating": "19.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Purgatory.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Purgatory"
-  },
-  {
-    "name": "DEATH",
-    "wiki_name": "DEATH",
-    "rating": "20",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "DEATH-0.webp",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/DEATH"
-  },
-  {
-    "name": "Nullifying",
-    "wiki_name": "Nullifying",
-    "rating": "21",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "NewNullifying.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Nullifying"
-  },
-  {
-    "name": "HELL",
-    "wiki_name": "HELL",
-    "rating": "22",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "NewHELL.jpeg",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/HELL"
-  },
-  {
-    "name": "Vortex",
-    "wiki_name": "Vortex",
-    "rating": "22.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Vortex.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Vortex"
-  },
-  {
-    "name": "TARTARUS",
-    "wiki_name": "TARTARUS",
-    "rating": "23",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "NewTARTARUS.jpeg",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/TARTARUS"
-  },
-  {
-    "name": "CALAMITY",
-    "wiki_name": "CALAMITY",
-    "rating": "24",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "NewCALAMITY.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/CALAMITY"
-  },
-  {
-    "name": "Neutralize",
-    "wiki_name": "Neutralize",
-    "rating": "24.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Neutralize 2.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Neutralize"
-  },
-  {
-    "name": "Killjoying",
-    "wiki_name": "Killjoying",
-    "rating": "24.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Killjoying.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Killjoying"
-  },
-  {
-    "name": "Unimaginable",
-    "wiki_name": "Unimaginable",
-    "rating": "25",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "UnimaginableDifficulty.webp",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/Unimaginable"
-  },
-  {
-    "name": "Dimension",
-    "wiki_name": "Dimension",
-    "rating": "25.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Me when new dimension icon.webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Dimension"
-  },
-  {
-    "name": "Omega",
-    "wiki_name": "Omega",
-    "rating": "26",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Omega akaTowerRushDifficulty.gif",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/Omega"
-  },
-  {
-    "name": "SUFFER",
-    "wiki_name": "SUFFER",
-    "rating": "27",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "SUFFER.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/SUFFER"
-  },
-  {
-    "name": "CHAOS",
-    "wiki_name": "CHAOS",
-    "rating": "27.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "CHAOS2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/CHAOS"
-  },
-  {
-    "name": "Aleph-Null",
-    "wiki_name": "Aleph-Null",
-    "rating": "28",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "AlephnullDifficulty.webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Aleph-Null"
-  },
-  {
-    "name": "Mystical",
-    "wiki_name": "Mystical",
-    "rating": "28.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Mystical.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Mystical"
-  },
-  {
-    "name": "Reality",
-    "wiki_name": "Reality",
-    "rating": "28.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Shimeshimeyehshimeyehshimeyaah.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Reality"
-  },
-  {
-    "name": "Immeasurable",
-    "wiki_name": "Immeasurable",
-    "rating": "29",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "ImmeasurableDifficulty.webp",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/Immeasurable"
-  },
-  {
-    "name": "Noxious",
-    "wiki_name": "Noxious",
-    "rating": "29.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Noxious.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Noxious"
-  },
-  {
-    "name": "Malicious",
-    "wiki_name": "Malicious",
-    "rating": "<big>'''30'''</big>",
-    "type": "Class Finale",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Malicious.png",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/Malicious"
-  },
-  {
-    "name": "Autism",
-    "wiki_name": "Autism",
-    "rating": "30.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Autism but resized.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Autism"
-  },
-  {
-    "name": "Malevolent",
-    "wiki_name": "Malevolent",
-    "rating": "30.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Malevolence.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Malevolent"
-  },
-  {
-    "name": "Building",
-    "wiki_name": "Building",
-    "rating": "31",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "BuildingNew.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Building"
-  },
-  {
-    "name": "Under Construction",
-    "wiki_name": "Under Construction",
-    "rating": "31.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Under construction detailed.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Under_Construction"
-  },
-  {
-    "name": "Does Not Compute",
-    "wiki_name": "Does Not Compute",
-    "rating": "32",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "DoesNotComputeNew.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Does_Not_Compute"
-  },
-  {
-    "name": "Exile",
-    "wiki_name": "Exile",
-    "rating": "33",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "New epsilon .PNG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Exile"
-  },
-  {
-    "name": "Invigorating",
-    "wiki_name": "Invigorating",
-    "rating": "34",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Invigorating.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Invigorating"
-  },
-  {
-    "name": "Apocalyptic",
-    "wiki_name": "Apocalyptic",
-    "rating": "35",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Apocalyptic.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Apocalyptic"
-  },
-  {
-    "name": "Eternal Outrage",
-    "wiki_name": "Eternal Outrage",
-    "rating": "35.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Eternaloutrage.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Eternal_Outrage"
-  },
-  {
-    "name": "Destructive",
-    "wiki_name": "Destructive",
-    "rating": "36",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "DESTRUCTIVE.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Destructive"
-  },
-  {
-    "name": "Dissonant",
-    "wiki_name": "Dissonant",
-    "rating": "37",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Dissonant Revamp.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Dissonant"
-  },
-  {
-    "name": "Mischievous",
-    "wiki_name": "Mischievous",
-    "rating": "38",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Mischievous.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Mischievous"
-  },
-  {
-    "name": "ᴇʟᴅʀɪᴛᴄʜ",
-    "wiki_name": "ᴇʟᴅʀɪᴛᴄʜ",
-    "rating": "39",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Eldritch.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/ᴇʟᴅʀɪᴛᴄʜ"
-  },
-  {
-    "name": "Monstrous",
-    "wiki_name": "Monstrous",
-    "rating": "40",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "MonstrousNew.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Monstrous"
-  },
-  {
-    "name": "Inimical",
-    "wiki_name": "Inimical",
-    "rating": "40.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Inimical.PNG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Inimical"
-  },
-  {
-    "name": "Horrendous",
-    "wiki_name": "Horrendous",
-    "rating": "40.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Horrendous.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Horrendous"
-  },
-  {
-    "name": "Ultimate",
-    "wiki_name": "Ultimate",
-    "rating": "41",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "UltimateNew.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Ultimate"
-  },
-  {
-    "name": "Nought",
-    "wiki_name": "Nought",
-    "rating": "41.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "NOUGHT.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Nought"
-  },
-  {
-    "name": "System Error",
-    "wiki_name": "System Error",
-    "rating": "42",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "NewSystemErrorIcon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/System_Error"
-  },
-  {
-    "name": "Error.exe",
-    "wiki_name": "Error.exe",
-    "rating": "43",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Error Exe.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Error.exe"
-  },
-  {
-    "name": "Simply Beyond",
-    "wiki_name": "Simply Beyond",
-    "rating": "44",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Simply Beyond.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Simply_Beyond"
-  },
-  {
-    "name": "Ultra",
-    "wiki_name": "Ultra",
-    "rating": "44.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Inferior difficulty.PNG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Ultra"
-  },
-  {
-    "name": "Critical",
-    "wiki_name": "Critical",
-    "rating": "'''<big>45</big>'''",
-    "type": "Class Finale",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Critical.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Critical"
-  },
-  {
-    "name": "Winter",
-    "wiki_name": "Winter",
-    "rating": "46",
-    "type": "Chain",
-    "class": "Unclassified",
-    "class_section": "RoPD Part 1 (Baseline)",
-    "image": "Winter New.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Winter"
-  },
-  {
-    "name": "Fatal Error",
-    "wiki_name": "Fatal Error",
-    "rating": "47",
-    "type": "Chain",
-    "class": "Unclassified",
-    "class_section": "RoPD Part 1 (Baseline)",
-    "image": "Feicon.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Fatal_Error"
-  },
-  {
-    "name": "U DED SON",
-    "wiki_name": "U DED SON",
-    "rating": "48",
-    "type": "Chain",
-    "class": "Unclassified",
-    "class_section": "RoPD Part 1 (Baseline)",
-    "image": "UDEADSONicon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/U_DED_SON"
-  },
-  {
-    "name": "REEE... !!!",
-    "wiki_name": "REEE... !!!",
-    "rating": "49",
-    "type": "Chain",
-    "class": "Unclassified",
-    "class_section": "RoPD Part 2 (Low)",
-    "image": "Funny-windows-error22.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/REEE..._!!!"
-  },
-  {
-    "name": "Nonexistent",
-    "wiki_name": "Nonexistent",
-    "rating": "50",
-    "type": "Chain",
-    "class": "Unclassified",
-    "class_section": "RoPD Part 2 (Low)",
-    "image": "Screen Shot 2020-08-13 at 1.20.05 PM.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Nonexistent"
-  },
-  {
-    "name": "D-I-E",
-    "wiki_name": "D-I-E",
-    "rating": "51",
-    "type": "Chain",
-    "class": "Unclassified",
-    "class_section": "RoPD Part 2 (Low)",
-    "image": "Creepy epic face.gif",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/D-I-E"
-  },
-  {
-    "name": "Absolutism",
-    "wiki_name": "Absolutism",
-    "rating": "52",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Absolutism.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Absolutism"
-  },
-  {
-    "name": "Insistent",
-    "wiki_name": "Insistent",
-    "rating": "53",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Insistent.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Insistent"
-  },
-  {
-    "name": "Shocking",
-    "wiki_name": "Shocking",
-    "rating": "53.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Shocking.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Shocking"
-  },
-  {
-    "name": "Victor",
-    "wiki_name": "Victor",
-    "rating": "54",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Hi.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Victor"
-  },
-  {
-    "name": "Oblivion",
-    "wiki_name": "Oblivion",
-    "rating": "54.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Oblivion4.webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Oblivion"
-  },
-  {
-    "name": "QUANTUM",
-    "wiki_name": "QUANTUM",
-    "rating": "55",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Quantumless.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/QUANTUM"
-  },
-  {
-    "name": "Miracle",
-    "wiki_name": "Miracle",
-    "rating": "56",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Miracle.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Miracle"
-  },
-  {
-    "name": "Y E E T U S",
-    "wiki_name": "Y E E T U S",
-    "rating": "56.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Yeetus revamp.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Y_E_E_T_U_S"
-  },
-  {
-    "name": "DELETE",
-    "wiki_name": "DELETE",
-    "rating": "57",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Non-Transparent Delete.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/DELETE"
-  },
-  {
-    "name": "Interruption",
-    "wiki_name": "Interruption",
-    "rating": "57.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Interruption.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Interruption"
-  },
-  {
-    "name": "Xi-Alpha",
-    "wiki_name": "Xi-Alpha",
-    "rating": "58",
-    "type": "Chain",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Xi-Alpha Icon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Xi-Alpha"
-  },
-  {
-    "name": "D-E-L-T-A",
-    "wiki_name": "D-E-L-T-A",
-    "rating": "58.33",
-    "type": "Chain/Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "D-E-L-T-A Revamped Icon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/D-E-L-T-A"
-  },
-  {
-    "name": "Ÿ",
-    "wiki_name": "Ÿ",
-    "rating": "58.66",
-    "type": "Chain/Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Ÿ revamp icon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Ÿ"
-  },
-  {
-    "name": "Theta-Void",
-    "wiki_name": "Theta-Void",
-    "rating": "59",
-    "type": "Chain",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "ThetaVoidRevamp.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Theta-Void"
-  },
-  {
-    "name": "Ultimaniac",
-    "wiki_name": "Ultimaniac",
-    "rating": "59.5",
-    "type": "Chain/Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "New Ultimaniac Icon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Ultimaniac"
-  },
-  {
-    "name": "Supreme",
-    "wiki_name": "Supreme",
-    "rating": "'''<big>60</big>'''",
-    "type": "<big>4th Legendary/Class Finale</big>",
-    "class": "Unclassified",
-    "class_section": "<big>Skyline</big>",
-    "image": "NewSquareSupreme.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Supreme"
-  },
-  {
-    "name": "Phi",
-    "wiki_name": "Phi",
-    "rating": "60.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "<big>Skyline</big>",
-    "image": "Phi thing yes.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Phi"
-  },
-  {
-    "name": "UNTHINKABLE",
-    "wiki_name": "UNTHINKABLE",
-    "rating": "60.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "<big>Skyline</big>",
-    "image": "UNTHINKABLESquared.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/UNTHINKABLE"
-  },
-  {
-    "name": "Ultra Instinct",
-    "wiki_name": "Ultra Instinct",
-    "rating": "61",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Screen Shot 2020-08-09 at 9.36.26 PM.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Ultra_Instinct"
-  },
-  {
-    "name": "Mortifying",
-    "wiki_name": "Mortifying",
-    "rating": "62",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Mort.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Mortifying"
-  },
-  {
-    "name": "Dreadful.exe",
-    "wiki_name": "Dreadful.exe",
-    "rating": "62.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Dreadful.exeoffical.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Dreadful.exe"
-  },
-  {
-    "name": "Transfinite",
-    "wiki_name": "Transfinite",
-    "rating": "63",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Transfinite Revamp.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Transfinite"
-  },
-  {
-    "name": "RoorXD",
-    "wiki_name": "RoorXD",
-    "rating": "64",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "RoorXD.png",
-    "url": "https://jtohs-hardest-towers.fandom.com/wiki/RoorXD"
-  },
-  {
-    "name": "RoorHELL",
-    "wiki_name": "RoorHELL",
-    "rating": "64.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Roor hell.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/RoorHELL"
-  },
-  {
-    "name": "Jesus Ballin'",
-    "wiki_name": "Jesus Ballin'",
-    "rating": "65",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Jes.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Jesus_Ballin'"
-  },
-  {
-    "name": "HyperViolent",
-    "wiki_name": "HyperViolent",
-    "rating": "65.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "HyperViolent New.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/HyperViolent"
-  },
-  {
-    "name": "Enclosed",
-    "wiki_name": "Enclosed",
-    "rating": "65.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Enfarted.gif",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Enclosed"
-  },
-  {
-    "name": "El Vacio",
-    "wiki_name": "El Vacio",
-    "rating": "66",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "El Vacio Sqaure.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/El_Vacio"
-  },
-  {
-    "name": "Unpossible",
-    "wiki_name": "Unpossible",
-    "rating": "66.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Rebirth Unimpossible.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Unpossible"
-  },
-  {
-    "name": "Universe Disruption",
-    "wiki_name": "Universe Disruption",
-    "rating": "67",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Universe Disruption.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Universe_Disruption"
-  },
-  {
-    "name": "Spongebob",
-    "wiki_name": "Spongebob",
-    "rating": "67.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Spongebob2.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Spongebob"
-  },
-  {
-    "name": "Complete: Obstacles",
-    "wiki_name": "Complete: Obstacles",
-    "rating": "67.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "CompleteObstacles.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Complete:_Obstacles"
-  },
-  {
-    "name": "Illegal",
-    "wiki_name": "Illegal",
-    "rating": "68",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Illegal Newest.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Illegal"
-  },
-  {
-    "name": "Bad Request",
-    "wiki_name": "Bad Request",
-    "rating": "68.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Frick you (3).png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Bad_Request"
-  },
-  {
-    "name": "Universal Glitch",
-    "wiki_name": "Universal Glitch",
-    "rating": "69",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "New UG.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Universal_Glitch"
-  },
-  {
-    "name": "FalseGanar",
-    "wiki_name": "FalseGanar",
-    "rating": "70",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "FalseGanar Z.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/FalseGanar"
-  },
-  {
-    "name": "Hopeless",
-    "wiki_name": "Hopeless",
-    "rating": "71",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "HopelessNewest.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Hopeless"
-  },
-  {
-    "name": "Plum Bloc",
-    "wiki_name": "Plum Bloc",
-    "rating": "72",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "PlumBlocNew.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Plum_Bloc"
-  },
-  {
-    "name": "Gameifying",
-    "wiki_name": "Gameifying",
-    "rating": "72.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Gameifying.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Gameifying"
-  },
-  {
-    "name": "Infinity",
-    "wiki_name": "Infinity",
-    "rating": "73",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Screen Shot 2020-08-10 at 9.50.46 AM.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Infinity"
-  },
-  {
-    "name": "Void",
-    "wiki_name": "Void",
-    "rating": "73.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "2020 09 5675.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Void"
-  },
-  {
-    "name": "Doog",
-    "wiki_name": "Doog",
-    "rating": "74",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Screen Shot 2020-09-20 at 3.42.02 PM.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Doog"
-  },
-  {
-    "name": "Dissension",
-    "wiki_name": "Dissension",
-    "rating": "74.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Diss.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Dissension"
-  },
-  {
-    "name": "TooPrecise",
-    "wiki_name": "TooPrecise",
-    "rating": "75.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "TooPreciseRevamp.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/TooPrecise"
-  },
-  {
-    "name": "Error Chain",
-    "wiki_name": ":Category:Error Chain",
-    "rating": "66.5 to 214.5",
-    "type": "Chain/Sub-Difficulties",
-    "class": "Unclassified",
-    "class_section": "Chains",
-    "image": "AtomError.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/:Category:Error_Chain"
-  },
-  {
-    "name": "Death Chain",
-    "wiki_name": ":Category:Death Chain",
-    "rating": "75.75 to 100.5",
-    "type": "Chain/Sub-Difficulties",
-    "class": "Unclassified",
-    "class_section": "Chains",
-    "image": "GigaDeath2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/:Category:Death_Chain"
-  },
-  {
-    "name": "Epitome",
-    "wiki_name": "Epitome",
-    "rating": "76",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Epitome.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Epitome"
-  },
-  {
-    "name": "Agony",
-    "wiki_name": "Agony",
-    "rating": "77",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Hellifying.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Agony"
-  },
-  {
-    "name": "ILOVEYOU",
-    "wiki_name": "ILOVEYOU",
-    "rating": "77.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "ILOVEYOU.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/ILOVEYOU"
-  },
-  {
-    "name": "Abyssal",
-    "wiki_name": "Abyssal",
-    "rating": "78",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "2020 09 21 Kleki.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Abyssal"
-  },
-  {
-    "name": "Dilly Impossible",
-    "wiki_name": "Dilly Impossible",
-    "rating": "79",
-    "type": "<big>4th Fabled</big>",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "New DI Image.JPG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Dilly_Impossible"
-  },
-  {
-    "name": "Gigaversal",
-    "wiki_name": "Gigaversal",
-    "rating": "79.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Gigaversal.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Gigaversal"
-  },
-  {
-    "name": "Unreasonable",
-    "wiki_name": "Unreasonable",
-    "rating": "80",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Not a reason.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Unreasonable"
-  },
-  {
-    "name": "Resilient Glow",
-    "wiki_name": "Resilient Glow",
-    "rating": "81",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Resilient Glow.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Resilient_Glow"
-  },
-  {
-    "name": "Arcane",
-    "wiki_name": "Arcane",
-    "rating": "82",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Peculiar Wavestats.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Arcane"
-  },
-  {
-    "name": "COMMUNISM",
-    "wiki_name": "COMMUNISM",
-    "rating": "83",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Communism better.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/COMMUNISM"
-  },
-  {
-    "name": "Detroit",
-    "wiki_name": "Detroit",
-    "rating": "83.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Detroit-XPELO4EK-REVAMP.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Detroit"
-  },
-  {
-    "name": "Sacrificingly Impossible",
-    "wiki_name": "Sacrificingly Impossible",
-    "rating": "83.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Sacrificingly-Impossible W effects.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Sacrificingly_Impossible"
-  },
-  {
-    "name": "Satan Tartarus Lucifer Void",
-    "wiki_name": "Satan Tartarus Lucifer Void",
-    "rating": "84",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Satan Tartarus Lucifer Void.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Satan_Tartarus_Lucifer_Void"
-  },
-  {
-    "name": "QR Code",
-    "wiki_name": "QR Code",
-    "rating": "85",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Qr-codedifficulty.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/QR_Code"
-  },
-  {
-    "name": "Vacant",
-    "wiki_name": "Vacant",
-    "rating": "85.33",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "V is for.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Vacant"
-  },
-  {
-    "name": "How‽",
-    "wiki_name": "How‽",
-    "rating": "85.66",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "HowNewest.webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/How‽"
-  },
-  {
-    "name": "Errorisation",
-    "wiki_name": "Errorisation",
-    "rating": "86",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "ErrorisationRevamp.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Errorisation"
-  },
-  {
-    "name": "Godlike",
-    "wiki_name": "Godlike",
-    "rating": "86.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "GodlikeDiff.PNG",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Godlike"
-  },
-  {
-    "name": "Esoteric",
-    "wiki_name": "Esoteric",
-    "rating": "87",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Screenshot 2023-04-28 at 22.00.59.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Esoteric"
-  },
-  {
-    "name": "Complete Users",
-    "wiki_name": "User:Complete Users",
-    "rating": "87.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Complete Users.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/User:Complete_Users"
-  },
-  {
-    "name": "BobuxDeath",
-    "wiki_name": "BobuxDeath",
-    "rating": "88",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "BobuxDeath.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/BobuxDeath"
-  },
-  {
-    "name": "Aleph-DEATH",
-    "wiki_name": "Aleph-DEATH",
-    "rating": "88.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Im bored.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Aleph-DEATH"
-  },
-  {
-    "name": "Limiting",
-    "wiki_name": "Limiting",
-    "rating": "89",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Limitingmoment.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Limiting"
-  },
-  {
-    "name": "The Crystal Core",
-    "wiki_name": "The Crystal Core",
-    "rating": "<big>'''90'''</big>",
-    "type": "<big>5th Fabled/Class Finale</big>",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Screenshot 2020-09-26 032504.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/The_Crystal_Core"
-  },
-  {
-    "name": "Rush",
-    "wiki_name": "Rush",
-    "rating": "91",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Rush.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Rush"
-  },
-  {
-    "name": "Aleph-VSC",
-    "wiki_name": "Aleph-VSC",
-    "rating": "92",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Hhhhhhhhhhhh.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Aleph-VSC"
-  },
-  {
-    "name": "Misery",
-    "wiki_name": "Misery",
-    "rating": "93",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "New Misery Icon.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Misery"
-  },
-  {
-    "name": "Mysterious",
-    "wiki_name": "Mysterious",
-    "rating": "94",
-    "type": "Liminality Chain",
-    "class": "Unclassified",
-    "class_section": "Liminality Chain (Low)",
-    "image": "Mysterious2.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Mysterious"
-  },
-  {
-    "name": "Undocumented",
-    "wiki_name": "Undocumented",
-    "rating": "95",
-    "type": "Liminality Chain",
-    "class": "Unclassified",
-    "class_section": "Liminality Chain (Low)",
-    "image": "Undocumented.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Undocumented"
-  },
-  {
-    "name": "Denial",
-    "wiki_name": "Denial",
-    "rating": "96",
-    "type": "Liminality Chain",
-    "class": "Unclassified",
-    "class_section": "Liminality Chain (Low)",
-    "image": "Liminesque.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Denial"
-  },
-  {
-    "name": "Aleph-Something",
-    "wiki_name": "Aleph-Something",
-    "rating": "97",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "AlphaNothing.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Aleph-Something"
-  },
-  {
-    "name": "Omniscient",
-    "wiki_name": "Omniscient",
-    "rating": "98",
-    "type": "Omni-Chain",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "OmniscientDiff.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Omniscient"
-  },
-  {
-    "name": "Enigmatic",
-    "wiki_name": "Enigmatic",
-    "rating": "99",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Enigmatic.gif",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Enigmatic"
-  },
-  {
-    "name": "Vrery hawrfd rdifficutl!!",
-    "wiki_name": "Vrery hawrfd rdifficutl!!",
-    "rating": "100",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "VHD.gif",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Vrery_hawrfd_rdifficutl!!"
-  },
-  {
-    "name": "Free-smiley.de",
-    "wiki_name": "Free-smiley.de",
-    "rating": "101",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Fs.de.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Free-smiley.de"
-  },
-  {
-    "name": "HELLWRATH",
-    "wiki_name": "HELLWRATH",
-    "rating": "102",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "HELLWRATH.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/HELLWRATH"
-  },
-  {
-    "name": "Hellacious",
-    "wiki_name": "Hellacious",
-    "rating": "102.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Hellasious.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Hellacious"
-  },
-  {
-    "name": "LOOP",
-    "wiki_name": "LOOP",
-    "rating": "103",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "LOOP (NEW).jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/LOOP"
-  },
-  {
-    "name": "Bryanjr4474",
-    "wiki_name": "Bryanjr4474",
-    "rating": "104",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "BRYANJR4474 DIFFICULTY.jpeg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Bryanjr4474"
-  },
-  {
-    "name": "Eɼɼosion",
-    "wiki_name": "Eɼɼosion",
-    "rating": "'''<big>105</big>'''",
-    "type": "Class Finale",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Imageforsomething....png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Eɼɼosion"
-  },
-  {
-    "name": "Confusion",
-    "wiki_name": "Confusion",
-    "rating": "105.x",
-    "type": "Normal / Anonymous Placement",
-    "class": "Unclassified",
-    "class_section": "Anonymous Placement",
-    "image": "Confusion.webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Confusion"
-  },
-  {
-    "name": "Dynamix",
-    "wiki_name": "Dynamix",
-    "rating": "106",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Dynamix.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Dynamix"
-  },
-  {
-    "name": "Eshinion",
-    "wiki_name": "Eshinion",
-    "rating": "107",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Diversity New.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Eshinion"
-  },
-  {
-    "name": "Caught",
-    "wiki_name": "Caught",
-    "rating": "107.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Baseline",
-    "image": "Caught.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Caught"
-  },
-  {
-    "name": "Catch",
-    "wiki_name": "Catch",
-    "rating": "109",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "Catch another alternate.webp",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Catch"
-  },
-  {
-    "name": "IMPOSSIBLE.EXE",
-    "wiki_name": "IMPOSSIBLE.EXE",
-    "rating": "109.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Low",
-    "image": "1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/IMPOSSIBLE.EXE"
-  },
-  {
-    "name": "Exploitist Elite",
-    "wiki_name": "Exploitist Elite",
-    "rating": "110",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Elite phase1.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Exploitist_Elite"
-  },
-  {
-    "name": "TooTooHard",
-    "wiki_name": "TooTooHard",
-    "rating": "111",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "XX.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/TooTooHard"
-  },
-  {
-    "name": "True Obama Prism",
-    "wiki_name": "User blog:EpicTheGamer2014/True Obama Prism",
-    "rating": "111.5",
-    "type": "Sub-Difficulty",
-    "class": "Unclassified",
-    "class_section": "Mid",
-    "image": "Obama Prism Ultimate.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/User_blog:EpicTheGamer2014/True_Obama_Prism"
-  },
-  {
-    "name": "Zany",
-    "wiki_name": "Zany",
-    "rating": "112",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Zanyte.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Zany"
-  },
-  {
-    "name": "Oh Noez!",
-    "wiki_name": "Oh Noez!",
-    "rating": "113",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Ohnoez.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Oh_Noez!"
-  },
-  {
-    "name": "Viratical",
-    "wiki_name": "Viratical",
-    "rating": "114",
-    "type": "Normal",
-    "class": "Unclassified",
-    "class_section": "High",
-    "image": "Viratical.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Viratical"
-  },
-  {
-    "name": "Pinnacle",
-    "wiki_name": "Pinnacle",
-    "rating": "<big><big>'''115'''</big></big>",
-    "type": "<big><big>5th Legendary / End of The Main Chart</big></big>",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "Pinnacle.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Pinnacle"
-  },
-  {
-    "name": "The Middleline",
-    "wiki_name": "The Middleline",
-    "rating": "<big>'''115'''</big>",
-    "type": "<big>'''Primordial'''</big>",
-    "class": "Unclassified",
-    "class_section": "Peak",
-    "image": "The MiddlelineNew.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/The_Middleline"
-  },
-  {
-    "name": "Missing",
-    "wiki_name": "Missing",
-    "rating": "?",
-    "type": "Normal / Anonymous Placement",
-    "class": "Unclassified",
-    "class_section": "Anonymous Placement",
-    "image": "Missing.jpg",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Missing"
-  },
-  {
-    "name": "The First Difficulty",
-    "wiki_name": "The First Difficulty",
     "rating": "-∞",
     "type": "Primordial",
     "class": "Class Negative",
@@ -3694,7 +964,7 @@
     "wiki_name": "Effortless",
     "rating": "0",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Baseline",
     "image": "Effortless_difficulty.png",
     "url": "https://jtoh.fandom.com/wiki/Effortless"
@@ -3704,7 +974,7 @@
     "wiki_name": "Playground",
     "rating": "0.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Baseline",
     "image": "Playgrounddif.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Playground"
@@ -3714,7 +984,7 @@
     "wiki_name": "Elementary",
     "rating": "0.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Baseline",
     "image": "Comforting.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Elementary"
@@ -3724,7 +994,7 @@
     "wiki_name": "Simple",
     "rating": "0.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Baseline",
     "image": "Simple.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Simple"
@@ -3734,7 +1004,7 @@
     "wiki_name": "Easy",
     "rating": "1",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Baseline",
     "image": "EasyDifficulty.jpg",
     "url": "https://jtoh.fandom.com/wiki/Easy"
@@ -3744,7 +1014,7 @@
     "wiki_name": "Neat",
     "rating": "1.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Baseline",
     "image": "NEaT.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Neat"
@@ -3754,7 +1024,7 @@
     "wiki_name": "Calm",
     "rating": "1.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Baseline",
     "image": "Calmness-New.jpeg",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Calm"
@@ -3764,7 +1034,7 @@
     "wiki_name": "Switch",
     "rating": "1.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Baseline",
     "image": "SWNew.jpg",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Switch"
@@ -3774,7 +1044,7 @@
     "wiki_name": "Medium",
     "rating": "2",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Low",
     "image": "MediumDifficulty.jpg",
     "url": "https://jtoh.fandom.com/wiki/Medium"
@@ -3784,7 +1054,7 @@
     "wiki_name": "Normal",
     "rating": "2.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Low",
     "image": "Normal2.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Normal"
@@ -3794,7 +1064,7 @@
     "wiki_name": "Intermediate",
     "rating": "2.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Low",
     "image": "Intermediate.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Intermediate"
@@ -3804,7 +1074,7 @@
     "wiki_name": "Rewardable",
     "rating": "2.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Low",
     "image": "Rewardable_diff.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Rewardable"
@@ -3814,7 +1084,7 @@
     "wiki_name": "Hard",
     "rating": "3",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Low",
     "image": "Hard.png",
     "url": "https://jtoh.fandom.com/wiki/Hard"
@@ -3824,7 +1094,7 @@
     "wiki_name": "Tricky",
     "rating": "3.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Low",
     "image": "New_Tricky.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Tricky"
@@ -3834,7 +1104,7 @@
     "wiki_name": "Onerous",
     "rating": "3.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Mid",
     "image": "Onerous.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Onerous"
@@ -3844,7 +1114,7 @@
     "wiki_name": "Easeful",
     "rating": "3.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Mid",
     "image": "EasefulNew.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Easeful"
@@ -3854,7 +1124,7 @@
     "wiki_name": "Difficult",
     "rating": "4",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Mid",
     "image": "Difficult.png",
     "url": "https://jtoh.fandom.com/wiki/Difficult"
@@ -3864,7 +1134,7 @@
     "wiki_name": "Strenuous",
     "rating": "4.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Mid",
     "image": "Strenuous.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Strenuous"
@@ -3874,7 +1144,7 @@
     "wiki_name": "Menacing",
     "rating": "4.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Mid",
     "image": "MenacingDifficulty.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Menacing"
@@ -3884,7 +1154,7 @@
     "wiki_name": "Harming",
     "rating": "4.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Mid",
     "image": "Harming.svg",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Harming"
@@ -3894,7 +1164,7 @@
     "wiki_name": "Challenging",
     "rating": "5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Mid",
     "image": "Challenging.png",
     "url": "https://jtoh.fandom.com/wiki/Challenging"
@@ -3904,7 +1174,7 @@
     "wiki_name": "Irritating",
     "rating": "5.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Mid",
     "image": "Irritating_square.PNG",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Irritating"
@@ -3914,7 +1184,7 @@
     "wiki_name": "Maniacal",
     "rating": "5.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "High",
     "image": "Maniacal.jpg",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Maniacal"
@@ -3924,7 +1194,7 @@
     "wiki_name": "Hectic",
     "rating": "5.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "High",
     "image": "Hectic.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Hectic"
@@ -3934,7 +1204,7 @@
     "wiki_name": "Intense",
     "rating": "6",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "High",
     "image": "Intense.png",
     "url": "https://jtoh.fandom.com/wiki/Intense"
@@ -3944,7 +1214,7 @@
     "wiki_name": "TooMedium",
     "rating": "6.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "High",
     "image": "BetterTooMedium.jpg",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/TooMedium"
@@ -3954,7 +1224,7 @@
     "wiki_name": "Severe",
     "rating": "6.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "High",
     "image": "Severe2.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Severe"
@@ -3964,7 +1234,7 @@
     "wiki_name": "Hellish",
     "rating": "6.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "High",
     "image": "Hellish2.PNG",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Hellish"
@@ -3974,7 +1244,7 @@
     "wiki_name": "Remorseless",
     "rating": "7",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Peak",
     "image": "Remorseless.png",
     "url": "https://jtoh.fandom.com/wiki/Remorseless"
@@ -3984,7 +1254,7 @@
     "wiki_name": "C0RrUpT",
     "rating": "7.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Peak",
     "image": "CORRUPT.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/C0RrUpT"
@@ -3994,7 +1264,7 @@
     "wiki_name": "Psycho",
     "rating": "7.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Peak",
     "image": "Psycho.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Psycho"
@@ -4004,7 +1274,7 @@
     "wiki_name": "Harsh",
     "rating": "7.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Peak",
     "image": "Harsh.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Harsh"
@@ -4014,7 +1284,7 @@
     "wiki_name": "Relentless",
     "rating": "8",
     "type": "1st Fabled/Class Finale",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Peak",
     "image": "Relentless.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Relentless"
@@ -4024,7 +1294,7 @@
     "wiki_name": "Angerable",
     "rating": "8.25",
     "type": "Sub Difficulty",
-    "class": "Class 1",
+    "class": "Class 2",
     "class_section": "Peak",
     "image": "Angerable.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Angerable"
@@ -4034,7 +1304,7 @@
     "wiki_name": "Complex",
     "rating": "8.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Baseline",
     "image": "Complex.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Complex"
@@ -4044,7 +1314,7 @@
     "wiki_name": "Insane",
     "rating": "9",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Baseline",
     "image": "Insane.png",
     "url": "https://jtoh.fandom.com/wiki/Insane"
@@ -4054,7 +1324,7 @@
     "wiki_name": "Thanos (Difficulty)",
     "rating": "9.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Baseline",
     "image": "ThanosIcon.jpeg",
     "url": "https://jtoh.fandom.com/wiki/Thanos_(Difficulty)"
@@ -4064,7 +1334,7 @@
     "wiki_name": "Madness",
     "rating": "9.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Baseline",
     "image": "Madness.PNG",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Madness"
@@ -4074,7 +1344,7 @@
     "wiki_name": "Classical",
     "rating": "9.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Baseline",
     "image": "ClassicalHighQuality.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Classical"
@@ -4084,7 +1354,7 @@
     "wiki_name": "Extreme",
     "rating": "10",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Low",
     "image": "Extreme.png",
     "url": "https://jtoh.fandom.com/wiki/Extreme"
@@ -4094,7 +1364,7 @@
     "wiki_name": "Uneasy",
     "rating": "10.25",
     "type": "Sub Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Low",
     "image": "Uneasy.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Uneasy"
@@ -4104,7 +1374,7 @@
     "wiki_name": "Turmoil",
     "rating": "10.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Low",
     "image": "Inferiority.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Turmoil"
@@ -4114,7 +1384,7 @@
     "wiki_name": "Absurd",
     "rating": "10.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Low",
     "image": "AbsurdNewIcon.jpeg",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Absurd"
@@ -4124,7 +1394,7 @@
     "wiki_name": "Terrifying",
     "rating": "11",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Low",
     "image": "Terrifying.png",
     "url": "https://jtoh.fandom.com/wiki/Terrifying"
@@ -4134,7 +1404,7 @@
     "wiki_name": "Ghastly",
     "rating": "11.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Low",
     "image": "Ghastly.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Ghastly"
@@ -4144,7 +1414,7 @@
     "wiki_name": "Petrifying",
     "rating": "11.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Mid",
     "image": "Petrifying2.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Petrifying"
@@ -4154,7 +1424,7 @@
     "wiki_name": "Horrifying",
     "rating": "11.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Mid",
     "image": "Horrifying.PNG",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Horrifying"
@@ -4164,7 +1434,7 @@
     "wiki_name": "Catastrophic",
     "rating": "12",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Mid",
     "image": "Catastrophic.png",
     "url": "https://jtoh.fandom.com/wiki/Catastrophic"
@@ -4174,7 +1444,7 @@
     "wiki_name": "Champion's Road",
     "rating": "12.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Mid",
     "image": "Champion's_Road.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Champion's_Road"
@@ -4184,7 +1454,7 @@
     "wiki_name": "Eccentric",
     "rating": "12.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Mid",
     "image": "Eccentric_New_New.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Eccentric"
@@ -4194,7 +1464,7 @@
     "wiki_name": "Dorcelessness",
     "rating": "12.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Mid",
     "image": "DorcelessnessDifficulty.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Dorcelessness"
@@ -4204,7 +1474,7 @@
     "wiki_name": "Horrific",
     "rating": "13",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "High",
     "image": "NewHorrific.webp",
     "url": "https://jtohs-hardest-towers.fandom.com/wiki/Horrific"
@@ -4214,7 +1484,7 @@
     "wiki_name": "Reversed",
     "rating": "13.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "High",
     "image": "No_U.gif",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Reversed"
@@ -4224,7 +1494,7 @@
     "wiki_name": "Eternal",
     "rating": "13.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "High",
     "image": "Eternalized.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Eternal"
@@ -4234,7 +1504,7 @@
     "wiki_name": "Confident",
     "rating": "13.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "High",
     "image": "Confidence.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Confident"
@@ -4244,7 +1514,7 @@
     "wiki_name": "Unreal",
     "rating": "14",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "High",
     "image": "Unreal.png",
     "url": "https://jtohs-hardest-towers.fandom.com/wiki/Unreal"
@@ -4254,7 +1524,7 @@
     "wiki_name": "HYPER",
     "rating": "14.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "High",
     "image": "HYPERNew.webp",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/HYPER"
@@ -4264,7 +1534,7 @@
     "wiki_name": "Treacherous",
     "rating": "14.5",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Peak",
     "image": "New_Treacherous_Icon.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Treacherous"
@@ -4274,7 +1544,7 @@
     "wiki_name": "Oblivious",
     "rating": "14.75",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Peak",
     "image": "Oblivious.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Oblivious"
@@ -4284,7 +1554,7 @@
     "wiki_name": "Anguish",
     "rating": "15",
     "type": "Normal",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Peak",
     "image": "AnguishNew2.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Anguish"
@@ -4294,7 +1564,7 @@
     "wiki_name": "Prodigious",
     "rating": "15.25",
     "type": "Sub-Difficulty",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Peak",
     "image": "ProdigiousIcon.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/Prodigious"
@@ -4304,7 +1574,7 @@
     "wiki_name": "The Human Limit",
     "rating": "15.5",
     "type": "3rd Legendary/Class Finale",
-    "class": "Class 1",
+    "class": "Class 3",
     "class_section": "Peak",
     "image": "TheHumanLimit.png",
     "url": "https://jtohs-joke-towers.fandom.com/wiki/The_Human_Limit"
@@ -4520,14 +1790,14 @@
     "url": "https://jtohs-hardest-towers.fandom.com/wiki/Omega"
   },
   {
-    "name": "Disarray",
-    "wiki_name": "Disarray",
+    "name": "link=Disarray",
+    "wiki_name": "link=Disarray",
     "rating": "26.5",
     "type": "Sub-Difficulty",
     "class": "Class 4",
     "class_section": "High",
     "image": "Disarray.png",
-    "url": "https://jtohs-joke-towers.fandom.com/wiki/Disarray"
+    "url": "https://jtohs-joke-towers.fandom.com/wiki/link=Disarray"
   },
   {
     "name": "SUFFER",
