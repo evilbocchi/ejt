@@ -1,6 +1,6 @@
-<center>
+<div align="center">
     <img src="favicon.png" alt="Logo" width="256" height="256" />
-</center>
+</div>
 
 # EToH Joke Towers
 
