@@ -1,0 +1,189 @@
+----
+{{Humanly Possible}}{{Inclusion
+|reason=The creator (since he’s an admin) approved of this difficulty.}}
+----
+<div class="html5audio" style="clear:both;float:right;" data-file="https://static.wikia.nocookie.net/jtohs-joke-towers/images/6/63/Mafia_Pineapple_-_The_Cosmos.mp3" data-volume="0.1" data-download="false" data-preload="metadata" data-options="autoplay,loop">The official music of <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #00FFFF, #FFFFFF);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Petrifying</span></div>
+{{NewDifficultyInfobox
+|title1=<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #00FFFF, #FFFFFF);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Petrifying</span>
+|image1=Petrifying2.png
+|class=[[:Category:Class 3|Class 3]]
+|rating=11.5
+|type=Difficulty
+|previous={{Class3Difficulties|Terrifying|25px}} [[w:c:jtoh:Terrifying|Terrifying]]
+|next={{Class3Difficulties|Catastrophic|25px}} [[w:c:jtoh:Catastrophic|Catastrophic]]
+|alt_previous={{Class3Difficulties|Horrifying|25px}} [[Horrifying]]
+|alt_next=
+|class_range=Middle
+|difficulty_range=Baseline to Peak
+|decal_id=N/A
+|sub_difficulty(ies)=
+|creator(s)=[[User:MapleIsNotAMapleLeaf|MapleIsNotAMapleLeaf]]|hex_color=#c9ffff|rgb_color=201, 255, 255}}
+<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #00FFFF, #FFFFFF);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Petrifying</span> is a Class 3 difficulty, being considered tougher and more onerous to surpass than {{Class3Difficulties|Terrifying|25px}} [[w:c:jtoh:Terrifying|Terrifying]], yet being considered easier and more elementary to surpass than {{Class3Difficulties|Catastrophic|25px}} [[w:c:jtoh:Catastrophic|Catastrophic]], the final canon '''Juke's Towers of Hell''' difficulty. 
+
+However, this difficulty is alternatively considered as tougher and more onerous to surpass than [[File:Horrifying.PNG|25x25px|link=Horrifying]] [[Horrifying]], as well as being easier and more elementary to surpass than [[File:Alarming.png|25x25px|link=User blog:EpicTheGamer2014/Alarming]] [[User blog:EpicTheGamer2014/Alarming|Alarming]], which is also this difficulties only sub-difficulty.
+
+This difficulty resides within the range of canon '''Juke's Towers of Hell''', being the penultimate canon non-sub difficulty within this range. However, it could alternatively be considered the antepenultimate, if one was to consider [[File:DorcelessnessDifficulty.png|25x25px|link=Dorcelessness]] [[User blog:EpicTheGamer2014/Dorcelessness|Dorcelessness]] as within this range.
+
+This difficulty is equivalent to around an old iteration of [[w:c:jtoh:Tower of Augmented Misery|Tower of Augmented Misery]], due to this old iteration being considered by many too hard to be deemed {{Class3Difficulties|Terrifying|25px}} [[w:c:jtoh:Terrifying|Terrifying]], yet too easy to be deemed {{Class3Difficulties|Catastrophic|25px}} [[w:c:jtoh:Catastrophic|Catastrophic]], hence it has a specific placement between those difficulties.
+
+== Placement ==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 3'''
+|-
+!Difficulty Image
+!Difficulty Name
+! Difficulty Type
+!Difficulty Rating 
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Low'''
+|-
+|{{Class3Difficulties|Extreme|50px}}
+|'''[[w:c:jtoh:Extreme|Extreme]]'''
+|Normal
+|10
+|-
+|[[File:Inferiority.png|50px]]
+|[[Inferiority]]
+|Normal
+|10.5
+|-
+|[[File:AbsurdNewIcon.jpeg|50px]]
+|[[Absurd]]
+|Sub Difficulty
+|10.75
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|{{Class3Difficulties|Terrifying|50px}}
+|'''[[w:c:jtoh:Terrifying|Terrifying]]'''
+|Normal
+|11
+|-
+|{{Class3Difficulties|Ghastly|50px}}
+|[[Ghastly]]
+|Sub Difficulty
+|11.16
+|-
+|[[File:Horrifying.PNG|50px]]
+|[[Horrifying]]
+|Sub Difficulty
+|11.33
+|-
+|[[File:Petrifying2.png|50px]]
+|[[Petrifying]]
+|Normal 
+|11.5
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
+|-
+|{{Class3Difficulties|Catastrophic|50px}}
+|'''[[w:c:jtoh:Catastrophic|Catastrophic]]'''
+|Normal
+|12
+|-
+|[[File:Champion's Road.png|50px]]
+|[[Champion's Road]]
+|Sub Difficulty
+|12.125
+|-
+|[[File:Eccentric_New_New.png|50px]]
+|[[Eccentric]]
+|Normal
+|12.5
+|-
+|[[File:NewHorrific.webp|50px]]
+|[[w:c:jtohs-hardest-towers:Horrific|Horrific]]
+|Normal
+|13 
+|-
+|[[File:No U.gif|50px]]
+|[[Reversed]]
+|Sub-Difficulty
+|13.25
+|-
+|}
+==Obstacles ==
+<tabber>
+Baseline=
+=== Baseline '''Petrifying''' ===
+* 12.10 stud jump (C)
+* 11.90 stud jump (U)
+* 11.10 stud wraparound (C)
+* 10.90 stud wraparound (U)
+* 11.80 stud dance clip jump 
+* 10.20 stud cylindrical wraparound
+|-|
+Low=
+=== Low '''Petrifying''' ===
+* 12.15 stud jump (C)
+* 11.95 stud jump (U)
+* 11.15 stud wraparound (C)
+* 10.95 stud wraparound (U)
+* 11.85 stud dance clip jump 
+* 10.15 stud cylindrical wraparound
+|-|
+Middle=
+=== Middle '''Petrifying''' ===
+* 12.20 stud jump (C)
+* 12.00 stud jump (U)
+* 11.20 stud wraparound (C)
+* 11.00 stud wraparound (U)
+* 11.90 stud dance clip jump 
+* 10.30 stud cylindrical wraparound
+|-|
+High=
+=== High '''Petrifying''' ===
+* 12.25 stud jump (C)
+* 12.05 stud jump (U)
+* 11.25 stud wraparound (C)
+* 11.05 stud wraparound (U)
+* 11.95 stud dance clip jump 
+* 10.25 stud cylindrical wraparound
+|-|
+Peak=
+=== Peak '''Petrifying''' ===
+* 12.30 stud jump (C)
+* 12.10 stud jump (U)
+* 11.30 stud wraparound (C)
+* 11.10 stud wraparound (U)
+* 12.00 stud dance clip jump 
+* 10.30 stud cylindrical wraparound
+</tabber>
+
+==Appearances ==
+
+===Jukes Towers of Hell===
+
+*ToNS - [[w:c:jtoh:Tower of Nervous Sweating|Tower of Nervous Sweating]] (11.50)
+
+=== Another Games===
+
+*ToAD - [[w:c:cscdroblox:Tower of Agonizing Demise|Tower of Agonizing Demise]] (CSCD)
+*ToID - [[w:c:cscdroblox:Tower of Insensible Distress|Tower of Insensible Distress]] (CSCD)
+*OoM - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Obelisk of Megalophobia] (QToN)
+
+=== Standalone Towers ===
+
+* [[Tower of Literally Going Around The Tower]] (ToL''<u>GAT</u>''T)
+* [[Not even a Great Citadel of Escape GTA|Not even a Monolith of Escaping GTA]] (NeaMoEG)
+
+===Fictional Towers===
+
+*Edifice of Everlasting, Unending Trauma (EoEUT)
+*Tower of Time Dilation (ToTD)
+*Citadel of Dastardly Precision Required (CoDPR)
+*Tower of Guaranteed Rage Quitting (TOGRQ)
+
+==Trivia==
+
+*This difficulty was conceptualized 10 months after the original file was uploaded.
+*This is the third instance of a difficulty in this specific placement, and the only active instance. 
+**The inactive instances in question are [[File:74E50275-85D4-471F-916B-A8CEDB2B83B6.png|25px]] '''Get fling horizontally''' and [[File:Galactical Limitation.png|25px]] [[User blog:The Difficulty Enthusiast/Galactic|'''Galactic''']].
+*This difficulty was inspired by [[File:PiUnbuff.png|25px]] [[User blog:AlsoOmori/Pi|Pi]], which was inherently inspired by [[File:Nightmare.png|25px]] [[Nightmare]], therefore by extension making this inspired by the aforementioned difficulty.
+
+==Continuing on from this point==
+A virtuosic soul who had surpassed this difficulty after tons of amassed effort on towers such as [[w:c:jtoh:Tower of Nervous Sweating|Tower of Nervous Sweating]], their main objective would be {{Class3Difficulties|Catastrophic|25px}} [[w:c:jtoh:Catastrophic|Catastrophic]].
+{{DifficultiesNavbox}}
+[[Category:Class 3]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]

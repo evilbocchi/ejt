@@ -1,0 +1,333 @@
+''This is the old variation, with roll and Mazeophobia on it. If you want the current version, go [[Unlosable|here]].''                          <tabber>Unlosable=
+
+== What is Unlosable? ==
+{{Difficulty_Template|title1 = Unlosable|image1 = <gallery>
+Unlosable new.png | Current
+Screenshot 2020-10-21 at 9.17.29 AM.png | Old
+</gallery>|caption1 = Losing is [[undoable]].|type/class =Class 0|previous_difficulty = [[File:TheOfficialJustAir.png|frameless|20px]] 
+[[Just Air]]|next_difficulty = *{{Class0Difficulties|Automatic|20px}}<span style="color: #dcfadb;">[[Automatic]]</span>
+Variations: 
+*[[File:Roll Difficulty.png|frameless|20px]] [[Unlosable#Roll|Roll]]
+*[[File:Mazeophobia.jpg|frameless|20px]] [[Unlosable#Mazeophobia|Mazeophobia]]
+Sub-difficulties:
+*[[File:ShatteredBabass.png|30px]] [[Shattered Babass]]
+|date_it_was_added=October 21, 2020}}
+
+'''Unlosable''' is a Class 0 difficulty that is basically an easier, faster and safe version of Automatic, the difference is that the conveyors are fast, and there are walls and a ceiling to make it near-impossible for you to fall out and fail. The spectrum of this difficulty is determined by the difficulty of failing.
+
+There are two variations to Unloseable, which are [[Unlosable#Roll|Roll]] and [[Unlosable#Mazeophobia|Mazeophobia]].
+
+==Obstacles==
+=== Baseline Unlosable ===
+* You can't move and jump in contraptions, whether type is it
+* Contraptions that you drop onto the next one
+* Elevator contraptions that each elevator covers a vertical portion of a floor
+* Wall supports which are absolutely inescapeable
+* Ball contraptions where balls are heavier than players
+* Droppers that contain downward elevators and supports that push you onto holes
+
+=== Low Unlosable ===
+* Wall supports that escaping is really hard, like hard as [[w:c:jtoh:Intense|Intense]]
+* Fast conveyors (like [[File:Air.png|frameless|20px]] [[Just Air]]), but they are slower, which allow you to delay
+* Ball contraptions where balls are heavier than players
+* Automatic mazes, but wrong ways are raised and contain conveyors
+** You can build teleporters that skip a bit of the correct path and you can make them easier by removing wrong ways
+* A box which is filled with hard conveyor-filled obstacles to prevent failing, with a hole to escape
+
+=== Mid Unlosable ===
+* Conveyors on wall supports
+* Automatic mazes, but wrong ways contain conveyors push you back to the correct path
+* Fast conveyors (like [[File:Air.png|frameless|20px]] [[Just Air]]), but you can walk to delay
+* Cannons (or very fast conveyors that shoot you without dying)
+* 1x2 stud gaps
+** Every 10-15 studs
+
+=== High Unlosable ===
+* Fast conveyors, but you can walk to go back
+* Cannon contraptions with wall supports behind target walls
+* Slow conveyors and you can't move
+* Elevator to another elevator pushing a button then falling down onto a conveyor into a hole which is only accessed by button to the winpad/next difficulty
+** The first elevator takes roughly 5 seconds to go up and the other one has 100 velocity, the conveyor has 16 speed and your speed is 10
+* [[MegaDeath]] but nerfed to this difficulty (no kb's, all contraptions, takes 2-3 minutes to do)
+
+=== Peak Unlosable ===
+* Automatic, but your walkspeed is 1 and you can't jump
+* Very slow conveyors but you have 32 speed
+* Low Unlosable but the walls are 10 studs (with flooring)
+* Mid Unlosable but after is a plinko 
+** Only 1 hole brings you back to [[Win]], the rest bring you to the winpad or next stage
+* [[Dilly Impossible]] but nerfed to this difficulty (no kb's, all contraptions, much faster, takes 4-5 minutes do)
+
+==Towers With This Difficulty==
+* [[Tower of Doing Literally Nothing]] - {{Class0Difficulties|Unlosable}} Mid Unloseable ([https://www.roblox.com/games/5872220253/2-NEW-TOWERS-GreatBears-Noob-Zone-Towers GNZT: Ring 1])
+* [[Tower of Overdetailed Designs]] - {{Class0Difficulties|Unlosable}} Peak Unloseable ([https://www.roblox.com/games/5872220253/2-NEW-TOWERS-GreatBears-Noob-Zone-Towers GNZT: Ring 3])
+* [[Tower of Unlosable and Unfailable]] - {{Class0Difficulties|Unlosable}} Peak Unloseable ([[Tower of Unlosable and Unfailable|TJFD: Ring 0]])
+*[[Spire of Pink Speed]] (SoPS)
+*[[Tower of Descending Slowly]] - Very Low Unlosable.
+
+==Trivia==
+
+*Tower of Climb a Truss is an actual tower in an actual game.
+*Tower of Basically a Floor has only 1 floor due to other floors are mainly N/A.
+*There is another name for this difficulty, "Unfailable", which is more commonly used in obelisk difficulty charts.
+
+==Sub-difficulties==
+
+There are 3 sub difficulties that goes between Unlosable and Automatic. No sub difficulties are overlapped for the purpose of difficulty increments.
+* [[File:Roll Difficulty.png|frameless|20px]] [[Unlosable#Roll|Roll]]: Ball contrapations
+* [[File:Mazeophobia.jpg|frameless|20px]] [[Unlosable#Mazeophobia|Mazeophobia]]: Floors fully filled with automatic mazes
+* [[File:ShatteredBabass.png|frameless|20px]] [[Shattered Babass]]: Final subdifficulty between Unlosable and Automatic
+
+==Moving On From This Difficulty==
+You can move on to {{Class0Difficulties|Automatic|20px}} [[Automatic|<span style="color: #dcfadb;">Automatic</span>]], the conveyors should be slower now, requiring more patience
+
+OR..
+
+You can move on to [[File:Roll Difficulty.png|frameless|20px]] [[Unlosable#Roll|Roll]]  (sub difficulty), which is a hollow ball that is rolling down.
+[[Category:Difficulties]]
+[[Category:Class 0]]
+[[Category:Icons made with pixel art]]
+[[Category:Emoticon Difficulties]]
+
+
+|-|Roll=
+
+==What is Roll?==
+{{Difficulty Template|title1=Roll|image1 = Roll Difficulty.png|previous_difficulty = [[File:Unlosable new.png|frameless|20px]] [[Unlosable]]|next_difficulty = {{Class0Difficulties|Automatic|20px}} <span class="plainlinks">[[Automatic|<span style="color: #dcfadb;">Automatic</span>]]
+Next sub-difficulty: [[File:Mazeophobia.jpg|frameless|20px]] [[Unlosable#Mazeophobia|Mazeophobia]] |date_it_was_added = 22/05/2021|caption1=|previous_name=|original_name=|why_was_it_removed=|date_removal=|type/class=[[:Category:Class 0|class 0]]}}Roll is an [[Unlosable]] Variation but instead of conveyors, you're in a hollow ball that is rolling down a slope/slide, and the ball will automatically disappear once it touches the winpad, making you win. The length of the slide can be any size aslong as it doesnt take over 1 minute, or any less than 1 second, since this difficulty is meant to be completed quickly, and to prevent loopholes such as an infinite slide. 
+
+Imagine it like the slide bit in Tower of One Equals Zero but you don't have to walk
+==Towers in this Difficulty==
+
+* [https://www.roblox.com/games/6849249974 Tower of Marble Mania] (ToMM) [Scrapped]
+* None Other
+
+==Icon==
+The icon is a purple hollow circle with two arrows around it going clockwise, indicating the circle is rolling. The background is a simple lavender to rose pink gradient. If you want the Roblox decal you can find it [https://www.roblox.com/library/6849220574 here].
+
+==Trivia==
+* The icon was made in paint.net. 
+* This difficulty was made by AFasterSlowpoke, and the second one he both made the original difficulty and the wiki page. (First one is [[Avery]])
+* This difficulty was inspired by [https://tenor.com/view/no-way-he-no-way-no-nj-countryball-gif-21153908 this gif.]
+
+==Continuing from this point==
+Well done, you rolled down a slide in a marble and waited. Go onto [[Unlosable#Mazeophobia|Mazeophobia]] if you want to start being able to fail without glitches.
+
+
+|-|Mazeophobia=
+
+== What is Mazeophobia?==
+{{Difficulty_Template|title1=Mazeophobia|caption1=Perfection.|type/class=Class 0|previous_difficulty=[[File:Unlosable new.png|frameless|20px]] [[Unlosable]]
+Previous sub-difficulty: [[File:Roll Difficulty.png|frameless|20px]] [[Unlosable#Roll|Roll]] |next_difficulty = {{Class0Difficulties|Automatic|20px}} <span class="plainlinks">[[w:c:jtohs-easiest-towers:Automatic|<span style="color: #dcfadb;">Automatic</span>]]
+|why_was_it_removed=|date_removal=|date_it_was_added=December 24, 2020|image1=Mazeophobia.jpg}}'''Mazeophobia''' is a Low '''Class 0''' In-between [[Unlosable]] and [[Unmissable]]. Obstacles in this difficulty are much harder than those in Unloseable, its just fast conveyors instead in a form of mazes. This is basically 'Maze Unloseable' where there is a maze, filled with conveyors, and at start the conveyors take you to the exit of the maze, where the winpad/teleporter is at.  
+
+The Background colour of the image: [255,0,72]
+
+=== Towers of this difficulty ===
+
+* Currently None.
+
+==Obstacles:==
+
+===Low Mazeophobia===
+
+* A fast-Small Automatic Maze.
+
+===Mid Mazeophobia===
+
+*A fast-Medium Automatic Maze.
+
+===High Mazeophobia ===
+
+*A fast-Large Automatic Maze
+
+==Trivia==
+
+*This might be a bit of a paragraph, but I actually saw this difficulty in my dream. I was in a tower, and it was like MoCED, and there was Mazeophobia there.
+==Completing From This Point==
+*I think you should go to {{Class0Difficulties|Automatic|20px}}<span style="color: #dcfadb;">[[Automatic]]</span>.
+
+|-|Safe=
+{{Difficulty_Template|title1=Safe|image1=[File:Dvhvv.png]|type/class=Class 0|previous_difficulty=*[[File:Unlosable new.png|frameless|20px]] [[Unlosable]]
+*[[File:Mazeophobia.jpg|frameless|20px]] [[Unlosable#Mazeophobia|Mazeophobia]] {Previous Sub Difficulty}|next_difficulty=*{{Class0Difficulties|Automatic|20px}} [[Automatic|<span style="color: #dcfadb;">Automatic</span>]]
+*[[File:ShatteredBabass.png|frameless|20px]] [[Shattered Babass]] {Next Sub Difficulty}|date_it_was_added=21/06/2022|caption1=It’s safe here, don’t try to escape.}}
+
+== What is '''Safe'''? ==
+'''Safe''' is a Class 0 Difficulty that is 1.2x harder than [[Unlosable|Mazeophobia]] and 1.15x easier than [[Shattered Babass]], It closely resembles [[Unlosable]], but the walls are thinner. In order to fail this difficulty, you will have to glitch out of the obstacle, making failing at this difficulty at least [[Unforgiving]] difficulty.
+
+
+
+
+
+The background color is ''[0, 85, 255]''.
+
+== Obstacles ==
+
+=== (petition to replace obstacles / get an better idea since corner clip is patched) ===
+
+=== Baseline Safe: ===
+An Unlosable section with 2 stud walls and cylinders over corners so you can't corner clip.
+
+=== Low Safe: ===
+An Unlosable section with cylinders over corners so you cant corner clip. '''<small>(you will have to do a laugh clip or a cylinder corner clip)</small>''' 
+
+=== Mid Safe: ===
+An Unlosable section with cylinders over corners, but 0.75 stud thick walls so you can dance clip.
+
+=== High Safe: ===
+An Unlosable section with little protection to prevent you from glitching out.
+
+=== Borderline Safe: ===
+An Unlosable section with CanCollide:True, So it's easier to clip outside.
+
+== Towers with this difficulty ==
+
+* Corridor Edifice (CE) (fictional)
+* Floor of Easing Claustrophobia (FoEC) (fictional)
+* SUPER GIANT FAST CONVEYOR (SGFC) (fictional)
+*[https://www.roblox.com/games/7063031910/mydogsnameisboulders-Place-Number-1 Glitch to win.]
+*[https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Tower of Safety and Security Ensured] (UoFTE)
+
+== Trivia ==
+
+* The creator of this difficulty is not loganroblox1000, but instead LierGuest094331 as you may have figured.
+* This difficulty is a part of the creator's custom difficulty chart.
+
+== Continuing From This Point ==
+Go to [[File:ShatteredBabass.png|frameless|20px]][[Shattered Babass]] or go to {{Class0Difficulties|Automatic|20px}} [[Automatic|<span style="color: #dcfadb;">Automatic</span>]]{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Class 0]]
+[[Category:Sub-Difficulties]]
+[[Category:One color icon]]
+[[Category:Unfailable Difficulties]]
+
+|-|Unmissable=
+
+{{Difficulty_Template|type/class=Class 0|title1=Unmissable|previous_difficulty=[[File:Unlosable new.png|frameless|20px]] [[Unlosable]]
+Previous sub-difficulty: [[File:Dvhvv.png|frameless|20px]] [[Safe]]|next_difficulty = <span class="plainlinks">[[w:c:jtohs-easiest-towers:Automatic|<span style="color: #dcfadb;">Automatic</span>]]
+Next sub-difficulty: [[File:Contraption.jpg|frameless|20px]] [[Contraption]]|date_it_was_added=December 18, 2020|image1=J.png|original_name=|previous_name=Unfallable}}
+
+== What is Unmissable difficulty? ==
+Unmissable is a class 0 sub-difficulty where it is like unloseable, yet it has lowered walls. It is incredibly easy, zero effort needed, you just wait for the conveyor to take you to the winpad.
+
+=== Towers in this difficulty ===
+
+* Tower of Unmissable (ToU)
+* Citadel of Unmissable Confusion (CoUC)
+*[[Monolith of Completely Endless Difficulties]]
+
+=== '''Icon:''' ===
+The icon is represented by an Alder background, the color is [130, 95, 231] if you need it. 
+
+== Trivia ==
+
+* The dude who kind of invented this difficulty (loganroblox1000) made this page!
+* this page was revamped by Jimmy the god
+
+== Continuing on from this point. ==
+Train yourself on doing more unloseable type difficulty obbies except with lower falls/slower conveyors or sometimes even some traps. After this go to [[Contraption]]
+
+
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Class 0]]
+[[Category:One color icon]]
+[[Category:Unfailable Difficulties]]
+
+|-|Contraption=
+
+{{Difficulty_Template|title1=Contraption|image1=Contraption.jpg|type/class=Class 0|previous_difficulty=Previous difficulty: [[Unlosable]]
+Previous sub-difficulty: [[Unmissable]]|next_difficulty=<span class="plainlinks">[[w:c:jtohs-easiest-towers:Automatic|<span style="color: #dcfadb;">Automatic</span>]]|date_it_was_added=January 13, 2021}}
+== What is Contraption Difficulty? ==
+Contraption Difficulty is a class 0 difficulty in-between [[Unmissable]] and Automatic, and is similar to "Dangerous Unloseable" from [[Monolith of Completely Endless Difficulties|MoCED]]. This difficulty appears in only some towers because it is new.
+
+This difficulty is a chain reaction to the winpad. (According to 60mmm)
+
+== Obstacles ==
+
+=== Low Contraption ===
+There is more ice and more things. Basically Big Brain Unlosable, but it's just ice and conveyors.
+
+=== Mid Contraption ===
+Ziplines, Ice , Conveyors, Buttons! There is a lot now.
+
+=== High Contraption ===
+There is many contraptions and some are new.
+
+== Icon Presentation ==
+A light teal background that is 70, 255, 213 in RGB towards the center, and fades into even lighter shades of teal towards the corners. 
+
+== Towers in Contraption Difficulty ==
+
+* Tower of some contraptions (fictional. but coming very soon on obby creator.) (This tower is maybe not going to be real )
+
+* N/A
+*N/A
+
+== Continuing from this point ==
+Do some [[w:c:jtohs-easiest-towers:Automatic|Automatic]] floors/ towers.
+[[Category:Difficulties]]
+[[Category:Class Negative]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 0]]
+[[Category:One color icon]]
+
+|-|Unrebirth Supreme=
+
+== What is '''Unrebirth Supreme'''? ==
+{{NewDifficultyInfobox|title1=Unrebirth Supreme|class=0|previous=[[Unrebirth System Error (JTE)|Unrebirth System Error]]|next=*[[Draw a low effort drawing]]
+*[[w:c:jtohs-easiest-towers:Automatic|Automatic]]|chain(s)=Unrebirth Chain|creator(s)=chiffoncakee, Youjustgotpollinated (REVAMP)|date_added=2021 December 10 (2021 December 16 Revamp)|date_removed=|image1=<gallery>
+Verified Supreme.jpg | New
+Unrebirth Supreme.png | Alternate
+</gallery>|caption1=The Polar Opposite of absolute hell. Which is absolute heaven. (Dont change icon kthx)|type=Unrebirth Difficulty|main_difficulty=Not a sub difficulty.|sub_difficulty(ies)=|short_name=Unsupreme|previous_type(s)=Unrebirth Difficulty|removal_reason=Because of JTE Removal.|prior_previous=Unfailable|prior_next=Automatic|previous_sub_difficulty(ies)=[[Shattered Babass]]|previous_class(es)=Was in the the Same Class when JTE Still Existed back in the day.|original_creator(s)=Too easy wiki is revived and the creator is oldwiki>MegaDie|previous_creator(s)=oldwiki>MegaDie|revamp_date=2021 December 16|revival_date=2021 December 10}}
+
+'''Unrebirth Supreme''' is a class 0 difficulty that has insanely easy obstacles that trace off Class 8, that if you were to reverse them, it would be The Borderline of Non-Phsyically Impossible. Trying to fail any of these without any techniques outside of the game or on the roblox menu ingame, it would reverse itself to switch to the polar opposite, which is how it goes:
+
+Failing an Unrebirth difficulty is that normal varation of the difficulty, so lets say if there was '''Unrebirth Hard.''' Failing would be hard difficulty of course, like for example: For Unrebirth eRRoR, you would have to do a 1 stud squeeze 5 studs far with lodging disabled to a 3 stud far 3 stud up jump. The point is, if you failed this, you would be a class 8 obbyist. Failing in this would just be stupid without reset buttons, shutdown buttons, alt+f4, leave game, basically any event outside of actually doing the obby would NOT classify as class 8 obbyists. Its rather dumb luck if a natural disaster occurs, the powerline cuts, or your house gets torn off the ground. Also, Failing unrebirth difficulties like unrebirth easy or unrebirth nil, etc. Are much harder then their counter part, so this is why unrebirth supreme is supreme to fail. Basically, unrebirth easy shouldn't be easy to fail. 
+==Icon Representation==
+The Icon Represents '''Supreme''' but with a checkmark in the middle, meaning that its impossible to lose, and literally everyone is verified to win.
+==Obstacles==
+
+*Insta-Fade 14 stud non-glitchable wrap with 25 cooldown with conveyor at 17 speed. '''(Difficulty: Baseline Unrebirth Supreme)'''
+*Doing an insanely complex-197 IQ  puzzle with conveyors of 24 speed controlling you to the next part with walls meaning you can legally not fail that takes 45 seconds to beat. '''(Difficulty: Low Unrebirth Supreme)'''
+*NOT getting hit by a tornado in Samoa, an island thats famous for skipping some people's birthdays in 2011, effectively making them one year younger than they are supposed to be, and changing the entire date line in the Pacific ocean. '''(Difficulty: Luck, or Low-Mid Unrebirth Supreme)'''
+*1.5 stud walk in atleast 45 minutes. '''(Difficulty: Mid Unrebirth Supreme)'''
+*0.5 stud high jump with a 10000x10000 stud wide safety net with walls enclosing it. '''(Difficulty: Mid-High Unrebirth Supreme)'''
+*Bearable. '''(Difficulty: Mid-High Unrebirth Supreme)'''
+*13 stud jump up by 6 by a very fast (56) conveyor, slamming into a 100x100 teleporter. '''(Difficulty: High Unrebirth Supreme)'''
+*Roll a 15000^10000e+50000 sided dice. If you get any number under 15000^10000e+50000, you win! '''(Difficulty: High Unrebirth Supreme)'''
+*Fall into a tower, then slide off to the winpad with an insta-tp winpad speed by doing a 0.55 stud high jump with walls that are so freaking T H I C C- onto 10 insanely fast conveyors, one representing each floor, and if you fail, you get teleported to the winpad anyway. (587) '''(Difficulty: Peak Unrebirth Supreme)'''
+*
+*
+*
+
+==Trivia==
+
+*This is one of the only Unrebirth difficulties still on JJT.
+
+== Towers in this Difficulty==
+Unrebirth Supreme Towers (Fictional)
+
+*Obelisk of Thirty Conveyors (OoTC)
+*Great Citadel of Automatic Puzzles and Long Jumps (GCoAPaLJ)
+*Monolith of Instant No Suffer (MoINS)
+
+== Continuing at this point ==
+You love going down of some of the easiest trickery in the planet, eh? No? Whatever, i just think you should skip to [[w:c:jtoh:Effortless|Effortless]] instead of [[w:c:jtohs-easiest-towers:Automatic|Automatic]]. Just dont go through incredibly long dumb stuff that stops you from progressing any further because of the spikes in class 1.<br />{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Transformed from JTE to JJT]]
+[[Category:Class 0]]
+[[Category:Unfailable Difficulties]]
+[[Category:Supreme Variants]]
+[[Category:Unrebirth Chain]]
+
+
+</tabber>{{MainDifficultiesNavbox}}
+[[Category:Two color icon]]
+[[Category:Unfailable Difficulties]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:Class 0]]
+[[Category:Sub-Difficulties]]

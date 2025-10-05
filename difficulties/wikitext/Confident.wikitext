@@ -1,0 +1,226 @@
+__NOTOC__
+{{NoticeScrollboxNew|Notices={{Inclusion|reason=Allowed by staff}}
+{{Humanly Possible}}
+{{Large Page}}}}
+{{Quote (IPeedMyPants' Version)|quote=I’m ‘confident’ you won’t beat this! *cue laughter track*|quoter=Narrator}}{{NewDifficultyInfobox|title1=</u> <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Confident</span>|image1=Confidence.png|caption1=New icon made by [[User:TotallyNotAMeme00|TotallyNotAMeme00]].|class=[[:Category:Class 3|High Class 3]]|type=[[:Category:Sub-Difficulties|Sub Difficulty]]|previous=*[[File:Eternalized.png|30px]] [[Eternal]]|next=*{{Class3Difficulties|Unreal}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]]|alt_previous=|class_range=[[:Category:Class 3|Mid Class 3]]|difficulty_range=Low, Mid, High, Peak|previous_class(es)=[[:Category:Class 3|Low Class 3]]|decal_id=*Current: 11482339285
+*Old: N/A
+*Older: N/A|creator(s)=* [[User:MapleIsNotAMapleLeaf|MapleIsNotAMapleLeaf]] and [[User:Touchgrass210779|Touchgrass210779]]|date_added=19/05/22|alt_next=|main_difficulty=*{{Class3Difficulties|Horrific}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]]}}
+==What is [[File:Confidence.png|frameless|31x31px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">'''Confident?'''==
+[[File:Confidence.png|frameless|31x31px]] '''Confident''' is a Class 3 difficulty, that was originally made to be in the JCC wiki, as [[File:Enigmatic Old.jpeg|frameless|30x30px]] [[Enigmatic/JCC|Unfathomable]], but has since been ported to the '''JToH’s Joke Towers Wiki''', as '''Confident'''. This was before its deletion, however, which was literally just a few hours after its creation, due to it unfortunately being created a few hours before the Difficulty Purge. Now, [[File:Enigmatic.gif|frameless|30x30px]] [[Enigmatic]] is the JJT [[w:c:jtohs-custom-chart:Unfathomable|Unfathomable]].
+
+This difficulty was placed as the absolute borderline between human possibility and human impossibility, but no longer is it the borderline. Still, this difficulty requires a very small amount of luck, but extremely precise movements, and strict timings, where even a small mishap could send you all the way down to a pit of instakills. Hence, it has a placement after {{Class3Difficulties|Eternalized}}[[Eternal]] (also as a sub difficulty of it), and before {{Class3Difficulties|Unreal}} [[w:c:jtoh:Unreal|Unreal]].
+
+For preperation, one should make sure to finish up some lower {{Class3Difficulties|Eternalized}}[[Eternal]] difficulty towers unfinished, and make sure to do lots of practice as you will need it.
+
+==<span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Icon Representation ==
+{| class="fandom-table"
+|+
+!Icon
+!Icon Type
+!Description
+!When added
+!When changed
+|-
+|[[File:Confidence.png|frameless|50x50px]]
+|Current
+|There is a dark grey border. There is a white line in the middle. There is a gradient going from grey to dark grey. There is a diamond shape in the middle.
+This is likely meant to be a representation of a platform between two tightropes.
+|04/07/2022
+|Never
+|-
+|[[File:ConfidentShape.png|frameless|50x50px]]
+|Shape  version
+|This emblem consists of a dark-grey rhombus (like R2 emblem) in a square with lighter tone in another rhombus with much more lighter tone
+|15/09/2025
+|Never
+|-
+|[[File:ConfidentOld.webp|frameless|53x53px]]
+|Old
+|
+*There is a black bit that curves round the top left and bottom right corner of the difficulty.
+*There are 2 dark grey squares on top of those black bits.
+*The rest of the difficulty is the Nil colo(u)r.
+|
+|
+|-
+|[[File:Confident Older.webp|frameless|53x53px]]
+|Original
+|It is dark grey, with a gradient of dark grey. There is also a >:) emoticon in the middle.
+|
+|
+|}
+==<span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Obstacles==
+
+=== Baseline [[File:Confidence.png|frameless|31x31px]] ''' <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Confident''' ===
+These obstacles are doable, when given patience and skill. However, it is extremely hard when even scaled up to just a room. They also resemble Peak {{Class3Difficulties|Horrific}} [[w:c:jtoh:Horrific|Horrific]] . 
+
+* 12.95 stud jumps. (Unclimbable) 
+* 13.05 stud jumps. (Climbable) 
+* 4.2x1.85 stud stickout. 
+* 11.75 stud wrap-arounds. 
+* 1.25 stud long cylindrical wall hops. 
+* 10.65 stud onto a 0.11 stud tightrope. 
+
+==== Baseline Trials ====
+
+* Complete a [[File:Literal3.webp|30x30px]] [[w:c:jtohs-hardest-towers:Literal|Literal]] difficulty tower, it isn’t purist and you have 270 HP, 1.45x speed and 1.45x gravity. difficulty tower, it isn’t purist and you have 270 HP, 1.45x speed and 1.45x gravity.
+* Complete a [[File:Nil revamp lol.png|30x30px]] [[w:c:jtoh:nil|nil]] difficulty obstacle. You have infinite tries and can buy boosts.
+
+===Low [[File:Confidence.png|frameless|31x31px]] ''' <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Confident'''===
+
+* 13 stud jumps. (Unclimbable) 
+* 13.1 stud jumps. (Climbable) 
+* 4.225x1.875 stud stickout. 
+* 11.8 stud wrap-arounds. 
+* 1.3 stud long cylindrical wall hops. 
+* 10.7 stud onto a 0.1 stud tightrope. 
+
+==== Low Trials ====
+
+* Complete a [[File:Literal3.webp|30x30px]] [[w:c:jtohs-hardest-towers:Literal|Literal]] difficulty tower, it isn’t purist, and you have 265 HP, 1.425x speed and 1.425x gravity.
+* Complete a [[File:Heart Of The Void.png|frameless|30x30px]] [[The Heart of Void]] difficulty obstacle. You have infinite tries and can buy boosts.
+
+===Mid [[File:Confidence.png|frameless|31x31px]]  <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">'''Confident'''===
+
+* 13.05 stud jumps. (Unclimbable) 
+* 13.15 stud jumps. (Climbable) 
+* 4.25x1.9 stud stickout. 
+* 11.85 stud wrap-arounds. 
+* 1.35 stud long cylindrical wall hops. 
+* 10.75 stud onto a 0.09 stud tightrope. 
+
+==== Mid Trials ====
+
+* Complete a [[File:Literal3.webp|30x30px]] [[w:c:jtohs-hardest-towers:Literal|Literal]] difficulty tower, it isn’t purist and you have 260 HP, 1.4x speed and 1.4x gravity.
+* Complete a [[File:NightmareOutlineVersion.png|30x30px]] [[Nightmare]] difficulty obstacle. You have infinite tries and can buy boosts.
+
+===High [[File:Confidence.png|frameless|31x31px]]  <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">'''Confident'''===
+
+*13.1 stud jumps. (Unclimbable)
+* 13.2 stud jumps. (Climbable) 
+* 4.275x1.925 stud stickout. 
+* 11.9 stud wrap-arounds. 
+* 1.4 stud long cylindrical wall hops. 
+* 10.8 stud onto a 0.09 stud tightrope. 
+
+==== High Trials ====
+
+* Complete a [[File:Literal3.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Literal|Literal]] difficulty tower, it isn’t purist and you have 255 HP, 1.375x speed and 1.375x gravity.
+* Complete a {{Class4Difficulties|Why}} [[w:c:jtohs-hardest-towers:WHY|WHY]] difficulty obstacle. You have infinite tries and can buy boosts.
+
+===Peak [[File:Confidence.png|frameless|31x31px]]  <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">'''Confident'''===
+*13.15 stud jumps. (Unclimbable)
+* 13.25 stud jumps. (Climbable) 
+* 4.3x1.95 stud stickout. 
+* 11.95 stud wrap-arounds. 
+* 1.45 stud long cylindrical wall hops. 
+* 10.85 stud onto a 0.09 stud tightrope. 
+
+==== Peak Trials ====
+
+* Complete a [[File:Literal3.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Literal|Literal]] difficulty tower, it isn’t purist and you have 250 HP, 1.35x speed and 1.35x gravity.
+* Complete a [[File:Overdrive.jpg|30x30px]] [[MAXIMUM OVERDRIVE]] difficulty obstacle. You have infinite tries and can buy boosts.
+
+== Appearances==
+
+=== Towers ===
+
+==== Non-Fictional ====
+
+* [[w:c:jtoh:Tower of Blind Fate|Tower of Blind Fate]] (ToBF) (JToH)
+* [[w:c:jtohs-hardest-towers:Steeple of Pleasure to Aversion|Steeple of Pleasure to Aversion]] (SoPtA) (JHT)
+* [[Tower of Literally Going Around The Tower]] (ToLGATT)
+* ''Obelisk of Nightmarish Difficulty Ascension'' (''OoNDA'')
+
+==== Fictional ====
+*'''Tower of Etheral Misery''' ('''ToEM''')
+*'''Tower of Dodging Precise Bullets''' ('''ToDPB''')
+*'''Tower of Travelling Through Time''' ('''ToTTT''')
+*'''Great Citadel of Absolutely Terrifying Difficulty Monstrosity: Phase 1''' ('''GCoATDM:P1''') (Potentially gonna become real, i don’t know)
+
+===Other Appearances === 
+
+*None.. yet.
+
+== Icon history ==
+Yes
+{| class="fandom-table"
+!
+!Date/Time
+!Thumbnail
+!Dimensions
+!User
+!Comment
+|-
+|current
+|20:45, 4 July 2022
+|[[File:Confidence.png|100x100px]]
+|300 × 300 (10 KB)
+|[[User:The Difficulty Enthusiast|<bdi>The Difficulty Enthusiast</bdi>]]([[Message Wall:The Difficulty Enthusiast|Message Wall]]<nowiki> | </nowiki>[[Special:Contributions/The Difficulty Enthusiast|contribs]])
+|
+|-
+|revert
+|17:48, 4 July 2022
+|N/A
+|300 × 300 (29 KB)
+|[[User:The Difficulty Enthusiast|<bdi>The Difficulty Enthusiast</bdi>]]([[Message Wall:The Difficulty Enthusiast|Message Wall]]<nowiki> | </nowiki>[[Special:Contributions/The Difficulty Enthusiast|contribs]])
+|
+|-
+|revert
+|17:02, 4 July 2022
+|N/A
+|300 × 300 (13 KB)
+|[[User:The Difficulty Enthusiast|<bdi>The Difficulty Enthusiast</bdi>]]([[Message Wall:The Difficulty Enthusiast|Message Wall]]<nowiki> | </nowiki>[[Special:Contributions/The Difficulty Enthusiast|contribs]])
+|
+|-
+|revert
+|14:49, 2 July 2022
+|[[File:ConfidentOld.webp|100x100px]]
+|453 × 475 (17 KB)
+|[[User:The Difficulty Enthusiast|<bdi>The Difficulty Enthusiast</bdi>]]([[Message Wall:The Difficulty Enthusiast|Message Wall]]<nowiki> | </nowiki>[[Special:Contributions/The Difficulty Enthusiast|contribs]])
+|Reverted to version as of 07:19, 20 May 2022 (UTC)
+|-
+|revert
+|21:23, 20 June 2022
+|[[File:Confident Older.webp|105x105px]]
+|453 × 475 (46 KB)
+|[[User:GlitchedLiness|<bdi>GlitchedLiness</bdi>]]([[Message Wall:GlitchedLiness|Message Wall]]<nowiki> | </nowiki>[[Special:Contributions/GlitchedLiness|contribs]])
+|Reverted to version as of 18:32, 19 May 2022 (UTC)
+|-
+|revert
+|07:19, 20 May 2022
+|[[File:ConfidentOld.webp|100x100px]]
+|453 × 475 (17 KB)
+|[[User:The Difficulty Enthusiast|<bdi>The Difficulty Enthusiast</bdi>]]([[Message Wall:The Difficulty Enthusiast|Message Wall]]<nowiki> | </nowiki>[[Special:Contributions/The Difficulty Enthusiast|contribs]])
+|
+|-
+|revert
+|18:32, 19 May 2022
+|[[File:Confident Older.webp|105x105px]]
+|453 × 475 (46 KB)
+|[[User:The Difficulty Enthusiast|<bdi>The Difficulty Enthusiast</bdi>]]([[Message Wall:The Difficulty Enthusiast|Message Wall]]<nowiki> | </nowiki>[[Special:Contributions/The Difficulty Enthusiast|contribs]])
+|
+|}
+
+==Trivia==
+More trivia facts will be added soon, since most of these are invalid.
+*This difficulty was previously from JCC, as Unfathomable, but it is no longer the JJT version of that difficulty.
+*This was the first Class 3 normal difficulty that isn’t actually a JToH difficulty, but that changed.
+*This was inspired by [[Nightmare]].
+
+==Continuing on from this point==
+Good job, I guess. You’ve gone and beaten a tower that has a difficulty that is soon to be possible. My GGs are with you. Have a nice, well deserved break with your family, and go touch grass as you will likely need to have a break after completing such a daunting challenge. When you’re ready, move onto {{Class3Difficulties|Unreal}} [[w:c:jtoh:Unreal|Unreal]].
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Class 3]]
+[[Category:Humanly Impossible]]
+[[Category:Essay pages]]
+[[Category:Possible]]
+
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Soul Crushing]]
+[[Category:Sub-Difficulties]]
+[[Category:Large Pages]]

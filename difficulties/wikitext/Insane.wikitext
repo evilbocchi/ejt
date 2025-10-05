@@ -1,0 +1,239 @@
+{{DISPLAYTITLE:<span id=Insane>'''Insane}}__NOEDITSECTION____NOTOC__{{DifficultyTab
+|Insane|textcolormain=FFF
+|difficulty1=Remorseless
+|diffcolor1=C800C8
+|textcolor1=FFF
+|difficulty2=Extreme
+|change2=Extreme
+|diffcolor2=0389FF
+|textcolor2=FFF
+|type=Soul Crushing}}
+{{DifficultyInfobox
+|title1=Insane
+|image1=<gallery>
+insaneicon.png|Current
+InsaneIcon.png|Old
+</gallery>
+|type=[[Soul Crushing|Soul-Crushing]]
+|previous={{Difficulty|Rem}} [[Remorseless|<span id="Remorseless">'''Remorseless]]
+|next={{Difficulty|Extreme}} [[Extreme|<span id="Extreme">'''Extreme]]
+|rbg_color=DC: 0, 32, 96
+Menus: 0, 0, 255
+|hex_color=DC: #0028DB
+Menus: #0000FF
+|cmyk_color=DC: 100%, 67%, 0%, 62%
+Menus: 100%, 100%, 0%, 0%
+|hsv_color=DC: 220°, 100%, 37%
+Menus: 240°, 100%, 100%
+|hsl_color=DC: 220°, 100%, 19%
+Menus: 240°, 100%, 50%
+|roblox_name=DC: Navy blue
+Menus: Really blue}}
+{{Difficulty|Insane|20px}} <span id="Insane">[[Insane]]</span> is a [[Soul Crushing]] [[difficulty]] in '''EToH''' that is represented with the color blue. It is depicted with a deep blue 3-pointed star. This is the first and easiest difficulty of the [[Soul Crushing]] difficulty series. Obstacles in [[towers]] of this difficulty are a significant step up in difficulty from <span id="Remorseless">'''Remorseless'''</span> - this results in a large jump in progression for players. As a result, progressing from '''Remorseless''' - '''Insane''' is a large challenge, and many are blocked by this difficulty. These towers are extremely tough without lots of practice, and may take weeks or months to complete, with beating one of these towers being a huge achievement. 
+
+There are currently 19 towers (27 if towers from [[Event]]s and [[Challenge|Monthly Challenges]] are included) confirmed for the game assigned to this difficulty rating. [[Tower of Strategic Mechanics]], [[Tower of Impossible Movement]], [[Tower of Suffering Outside]], [[Tower of Frightening Nightmares]], [[Tower of Frightening and Confusing Trials]], and [[Tower of Panelling Barricades]] used to be this difficulty, but ToFN and ToIM were changed to [[Terrifying|<span id="Terrifying">'''Terrifying'''</span>]], while ToSM, ToSO, ToFaCT, and ToPB were changed to [[Extreme|<span id="Extreme">'''Extreme'''</span>]]. [[Tower of Corrupted Nightmares]], [[Tower of Glitching and Healing]], [[Tower of Zespluz]], [[Citadel of Peril]], and [[Citadel of Quadrilaterals]] were once here, but all were nerfed to <span id="Remorseless">'''Remorseless'''</span>.
+{{Header|Towers in this Difficulty (Organized by Realm)}}
+<tabber>
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+*TT - [[Thanos Tower]] - Bottom Insane (8.05)
+|-|
+Forgotten Ridge=
+<div align=center><font size=5>{{Emblem|FR}} [[Forgotten Ridge]] {{Emblem|FR}}</font></div>
+*ToMB - [[Tower of Mind Breaking]] - Low-Mid Insane (8.36)
+|-|
+Ring 2=
+<div align=center><font size=5>{{Emblem|R2}} [[Ring 2]] {{Emblem|R2}}</font></div>
+*ToDC - [[Tower of Difficulty Chart]] - Bottom Insane (8.03)
+*ToDC:C - [[Tower of Difficulty Chart - Classic]] - Bottom Insane (removed via creator's request)
+|-|
+Ring 3=
+<div align=center><font size=5>{{Emblem|R3}} [[Ring 3]] {{Emblem|R3}}</font></div>
+*ToC - [[Tower of Confusion]] - Peak Insane (8.94)
+|-|
+Ring 4=
+<div align=center><font size=5>{{Emblem|R4}} [[Ring 4]] {{Emblem|R4}}</font></div>
+*ToVS - [[Tower of Vivid Sections]] - Mid-High Insane (8.59)
+|-|
+Ring 5=
+<div align=center><font size=5>{{Emblem|R5}} [[Ring 5]] {{Emblem|R5}}</font></div>
+*ToIB - [[Tower of Icy Blizzards]] - Mid-High Insane (8.57)
+|-|
+Lost River=
+<div align=center><font size=5>{{Emblem|LR}} [[Lost River]] {{Emblem|LR}}</font></div>
+*ToUH - [[Tower of Unsettling Heights]] - Bottom-Low Insane (8.19)
+|-|
+Ring 7=
+<div align=center><font size=5>{{Emblem|R7}} [[Ring 7]] {{Emblem|R7}}</font></div>
+*ToEH - [[Tower of Extreme Hell]] - Bottom-Low Insane (8.17)
+|-|
+Ring 9=
+<div align=center><font size=5>{{Emblem|R9}} [[Ring 9]] {{Emblem|R9}}</font></div>
+*ToHA - [[Tower of High Adrenaline]] - Bottom-Low Insane (8.14)
+*ToBT - [[Tower of Bent Trauma]] - Bottom-Low Insane (8.21)
+*ToCA - [[Tower of Curved Ascent]] - Mid Insane (8.46)
+|-|
+Zone 1=
+<div align=center><font size=5>{{Emblem|Z1}} [[Zone 1]] {{Emblem|Z1}}</font></div>
+*ToTL - [[Tower of Thinning Layers]] - Mid Insane (8.48)
+|-|
+Steelspire Horizon=
+<div align=center><font size=5>{{Emblem|SH}} [[Steelspire Horizon]] {{Emblem|SH}}</font></div>
+*ToSRT - [[Tower of Speeding Right Through]] - Low Insane (8.33)
+|-|
+Zone 2=
+<div align=center><font size=5>{{Emblem|Z2}} [[Zone 2]] {{Emblem|Z2}}</font></div>
+*ToDT - [[Tower of Double Trouble]] - Baseline Insane (8.00)
+|-|
+Zone 4=
+<div align=center><font size=5>{{Emblem|Z4}} [[Zone 4]] {{Emblem|Z4}}</font></div>
+*ToIF - [[Tower of Inevitable Failure]] - Mid Insane (8.45)
+|-|
+Zone 5=
+<div align=center><font size=5>{{Emblem|Z5}} [[Zone 5]] {{Emblem|Z5}}</font></div>
+*ToPZ - [[Tower of Polychromatic Zero]] - High Insane (8.72)
+|-|
+Zone 8=
+<div align=center><font size=5>{{Emblem|Z8}} [[Zone 8]] {{Emblem|Z8}}</font></div>
+*ToRER - [[Tower of Rough Endoplasmic Reticulum]] - Peak Insane (8.89)
+|-|
+Zone 9=
+<div align=center><font size=5>{{Emblem|Z9}} [[Zone 9]] {{Emblem|Z9}}</font></div>
+*ToHR - [[Tower of Hollow Reformations]] - High-Peak Insane (8.88)
+|-|
+Zone 10=
+<div align=center><font size=5>{{Emblem|Z10}} [[Zone 10]] {{Emblem|Z10F}}</font></div>
+*ToRoMW - [[Tower of Rain on My World]] - High-Peak Insane (8.81)
+*ToTHT - [[Tower of Tee Hee Time]] - Peak Insane (8.99)
+|-|
+Events=
+{{#tag:tabber
+|April Fools 2021=
+<div align=center><font size=5>{{Emblem|AF2021}} [[April Fools 2021]] {{Emblem|AF2021}}</font></div>
+*BT - [[Baldi Tower]] - Mid-High Insane (8.62)
+{{!}}-{{!}}
+April Fools 2022=
+<div align=center><font size=5>{{Emblem|AF2022}} [[April Fools 2022]] {{Emblem|AF2022}}</font></div>
+*ToTCA - [[Tower of Terrain Climbing Adventures]] - Bottom-Low Insane (8.12)
+{{!}}-{{!}}
+April Fools 2023=
+<div align=center><font size=5>{{Emblem|AF2023}} [[April Fools 2023]] {{Emblem|AF2023}}</font></div>
+*SoGLUBIC - [[Steeple of Gears Locked Up Because It's Cold]] - High Insane (8.77)
+{{!}}-{{!}}
+Legacy Event 2023=
+<div align=center><font size=5>{{Emblem|LE2023}} [[Legacy Event 2023]] {{Emblem|LE2023}}</font></div>
+*ToC(L) - [[Tower of Confusion (Legacy)]] - Bottom Insane (8.01)
+{{!}}-{{!}}
+April Fools 2024=
+<div align=center><font size=5>{{Emblem|AF2024}} [[April Fools 2024]] {{Emblem|AF2024}}</font></div>
+*MCoMC - [[Mini Citadel of Mini Citadel]] - Bottom Insane (8.04)
+{{!}}-{{!}}
+Legacy Event 2024=
+<div align=center><font size=5>{{Emblem|LE2024}} [[Legacy Event 2024]] {{Emblem|LE2024}}</font></div>
+*ToUB(L) - [[Tower of Unending Bamboozles]] - Peak Insane (8.95)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*SoT&T - [[Steeple of Tombs & Torture]] - High-Peak Insane (8.88)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|October 2022=
+<div align=center><font size=5>October 2022</font></div>
+*ToSTR(M) - [[Tower of Slipping Through Reality]] - High-Peak Insane (8.86)
+{{!}}-{{!}}
+March 2024=
+<div align=center><font size=5>March 2024</font></div>
+*ToQA(M) - [[Tower of Quaint Activations]] - Mid Insane (8.47)
+{{!}}-{{!}}
+July 2024=
+<div align=center><font size=5>July 2024</font></div>
+*ToBD(M) - [[Tower of Boreal Disarray]] - Mid Insane (8.51)
+{{!}}-{{!}}
+May 2025=
+<div align=center><font size=5>May 2025</font></div>
+*ToYAS(M) - [[Tower of You're A Star]] - Bottom Insane (8.08)
+}}
+|-|
+Tower Rushes=
+<div align=center><font size=5>{{Difficulty|TowerRush}} [[Tower Rush]]es {{Difficulty|TowerRush}}</font></div>
+*SHTR - [[Steelspire Horizon Tower Rush]] - Bottom-Low Insane (8.20)
+*FRTR - [[Forgotten Ridge Tower Rush]] - Low-Mid Insane (8.35)
+*R2TR - [[Ring 2 Tower Rush]] - Peak Insane (8.98)
+*R4TR - [[Ring 4 Tower Rush]] - Bottom-Low Insane (8.12)
+*SATR - [[Silent Abyss Tower Rush]] - Bottom-Low Insane (8.15)
+*R6TR - [[Ring 6 Tower Rush]] - Mid Insane (8.45)
+*ATwTR - [[Ashen Towerworks Tower Rush]] - Peak Insane (8.94)
+*R7TR - [[Ring 7 Tower Rush]] - High-Peak Insane (8.78)
+*R9TR - [[Ring 9 Tower Rush]] - Low Insane (8.28)
+*Z2TR - [[Zone 2 Tower Rush]] - High-Peak Insane (8.84)
+*Z5TR - [[Zone 5 Tower Rush]] - Bottom-Low Insane (8.21)
+*Z6TR - [[Zone 6 Tower Rush]] - Low Insane (8.23)
+*Z7TR - [[Zone 7 Tower Rush]] - Bottom Insane (8.06)
+*Z8TR - [[Zone 8 Tower Rush]] - Peak Insane (8.96)
+*TLPTR - [[Time-Lost Plain Tower Rush]] - Peak Insane (8.97)
+</tabber>
+{{Header|Towers in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+* {{emblem|Z2|20px}} ToDT - [[Tower of Double Trouble]] - Baseline Insane (8.00) {{emblem|Z2|20px}}
+* {{emblem|R2|20px}} ToDC - [[Tower of Difficulty Chart]] - Bottom Insane (8.03) {{emblem|R2|20px}}
+* {{emblem|R1|20px}} TT - [[Thanos Tower]] - Bottom Insane (8.05) {{emblem|R1|20px}}
+* {{emblem|R9|20px}} ToHA - [[Tower of High Adrenaline]] - Bottom-Low Insane (8.14) {{emblem|R9|20px}}
+* {{emblem|R7|20px}} ToEH - [[Tower of Extreme Hell]] - Bottom-Low Insane (8.17) {{emblem|R7|20px}}
+* {{emblem|LR|20px}} ToUH - [[Tower of Unsettling Heights]] - Bottom-Low Insane (8.19) {{emblem|LR|20px}}
+* {{emblem|R9|20px}} ToBT - [[Tower of Bent Trauma]] - Bottom-Low Insane (8.21) {{emblem|R9|20px}}
+* {{emblem|SH|20px}} ''ToSRT - [[Tower of Speeding Right Through]] - Low Insane (8.33)'' {{emblem|SH|20px}}
+* {{emblem|FR|20px}} ToMB - [[Tower of Mind Breaking]] - Low-Mid Insane (8.36) {{emblem|FR|20px}}
+* {{emblem|Z4|20px}} ToIF - [[Tower of Inevitable Failure]] - Mid Insane (8.45) {{emblem|Z4|20px}}
+* {{emblem|R9|20px}} ToCA - [[Tower of Curved Ascent]] - Mid Insane (8.46) {{emblem|R9|20px}}
+* {{emblem|Z1|20px}} ToTL - [[Tower of Thinning Layers]] - Mid Insane (8.48) {{emblem|Z1|20px}}
+* {{emblem|R5|20px}} ToIB - [[Tower of Icy Blizzards]] - Mid-High Insane (8.57) {{emblem|R5|20px}}
+* {{emblem|R4|20px}} ToVS - [[Tower of Vivid Sections]] - Mid-High Insane (8.59) {{emblem|R4|20px}}
+* {{emblem|Z5|20px}} ToPZ - [[Tower of Polychromatic Zero]] - High Insane (8.72) {{emblem|Z5|20px}}
+* {{emblem|Z10|20px}} ToRoMW - [[Tower of Rain on My World]] - High-Peak Insane (8.81) {{emblem|Z10F|20px}}
+* {{emblem|Z9|20px}} ToHR - [[Tower of Hollow Reformations]] - High-Peak Insane (8.88) {{emblem|Z9|20px}}
+* {{emblem|Z8|20px}} ToRER - [[Tower of Rough Endoplasmic Reticulum]] - Peak Insane (8.89) {{emblem|Z8|20px}}
+* {{emblem|R3|20px}} ToC - [[Tower of Confusion]] - Peak Insane (8.94) {{emblem|R3|20px}}
+* {{emblem|Z10|20px}} ToTHT - [[Tower of Tee Hee Time]] - Peak Insane (8.99) {{emblem|Z10F|20px}}
+|-|
+Monthly Towers=
+* {{emblem|TL?|20px}} ToYAS(M) - [[Tower of You're A Star]] - Bottom Insane (8.08) {{emblem|Z9|20px}}
+* {{emblem|TLS|20px}} ToQA(M) - [[Tower of Quaint Activations]] - Mid Insane (8.47) {{emblem|LR|20px}}
+* {{emblem|TLT|20px}} ToBD(M) - [[Tower of Boreal Disarray]] - Mid Insane (8.51) {{emblem|Z8|20px}}
+* {{emblem|TLC|20px}} ToSTR(M) - [[Tower of Slipping Through Reality]] - High-Peak Insane (8.86) {{emblem|Z3|20px}}
+|-|
+Event Towers=
+* {{emblem|LE2023|20px}} ToC(L) - [[Tower of Confusion (Legacy)]] - Bottom Insane (8.01) {{emblem|LE2023|20px}}
+* {{emblem|AF2024|20px}} MCoMC - [[Mini Citadel of Mini Citadel]] - Bottom Insane (8.04) {{emblem|AF2024|20px}}
+* {{emblem|AF2022|20px}} ToTCA - [[Tower of Terrain Climbing Adventures]] - Bottom-Low Insane (8.12) {{emblem|AF2022|20px}}
+* {{emblem|AF2021|20px}} BT - [[Baldi Tower]] - Mid-High Insane (8.62) {{emblem|AF2021|20px}}
+* {{emblem|AF2023|20px}} SoGLUBIC - [[Steeple of Gears Locked Up Because It's Cold]] - High Insane (8.77) {{emblem|AF2023|20px}}
+* {{emblem|AF2025|20px}} SoT&T - [[Steeple of Tombs & Torture]] - High-Peak Insane (8.88) {{emblem|AF2025|20px}}
+* {{emblem|LE2024|20px}} ToUB(L) - [[Tower of Unending Bamboozles]] - Peak Insane (8.95) {{emblem|LE2024|20px}}
+|-|
+Tower Rushes=
+* {{emblem|SH|20px}} SHTR - [[Steelspire Horizon Tower Rush]] - Bottom-Low Insane (8.20) {{emblem|SH|20px}}
+* {{emblem|Z7|20px}} Z7TR - [[Zone 7 Tower Rush]] - Bottom Insane (8.06) {{emblem|Z7|20px}}
+* {{emblem|R4|20px}} R4TR - [[Ring 4 Tower Rush]] - Bottom-Low Insane (8.12) {{emblem|R4|20px}}
+* {{emblem|SA|20px}} SATR - [[Silent Abyss Tower Rush]] - Bottom-Low Insane (8.15) {{emblem|SA|20px}}
+* {{emblem|Z5|20px}} Z5TR - [[Zone 5 Tower Rush]] - Bottom-Low Insane (8.21) {{emblem|Z5|20px}}
+* {{emblem|Z6|20px}} Z6TR - [[Zone 6 Tower Rush]] - Low Insane (8.23) {{emblem|Z6|20px}}
+* {{emblem|R9|20px}} R9TR - [[Ring 9 Tower Rush]] - Low Insane (8.28) {{emblem|R9|20px}}
+* {{emblem|FR|20px}} FRTR - [[Forgotten Ridge Tower Rush]] - Low-Mid Insane (8.35) {{emblem|FR|20px}}
+* {{emblem|R6|20px}} R6TR - [[Ring 6 Tower Rush]] - Mid Insane (8.45) {{emblem|R6|20px}}
+* {{emblem|R7|20px}} R7TR - [[Ring 7 Tower Rush]] - High-Peak Insane (8.78) {{emblem|R7|20px}}
+* {{emblem|Z2|20px}} Z2TR - [[Zone 2 Tower Rush]] - High-Peak Insane (8.84) {{emblem|Z2|20px}}
+* {{emblem|AT|20px}} ATwTR - [[Ashen Towerworks Tower Rush]] - Peak Insane (8.94) {{emblem|AT|20px}}
+* {{emblem|Z8|20px}} Z8TR - [[Zone 8 Tower Rush]] - Peak Insane (8.96) {{emblem|Z8|20px}}
+* {{emblem|TLP|20px}} TLPTR - [[Time-Lost Plain Tower Rush]] - Peak Insane (8.97) {{emblem|TLP|20px}}
+* {{emblem|R2|20px}} R2TR - [[Ring 2 Tower Rush]] - Peak Insane (8.98) {{emblem|R2|20px}}
+</tabber>
+{{Header|Notable Feats}}
+*This difficulty is the most common for [[Tower Rush]]es, with fourteen in total.
+{{Difficulty Navibox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Insane]]
+[[Category:Soul Crushing]]

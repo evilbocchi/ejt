@@ -1,0 +1,88 @@
+__NOTOC__
+<div style="box-sizing:border-box; border-radius:10px;border:3px solid black;overflow:hidden;background:linear-gradient(165deg, #000000,#001154)">
+<div style="--theme-accent-color:-webkit-linear-gradient(45deg,black,#000022)">
+{{Physically Impossible}}
+{{Classic}}
+{{Large Page}}
+
+{{NewDifficultyInfobox
+|title1=<span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span>
+|image1=
+<gallery>
+New UG.jpg | Current
+Universalglitch.jpg | Old
+</gallery>
+|class=7
+|rating=69
+|type=
+*''Official Difficulty''
+*''Physically Impossible''
+*''Challenge''
+*''Devilish''
+|previous=
+[[File:Illegal Newest.png|frameless|30x30px]] [[Illegal]]
+|next=
+[[File:FalseGanar Official.png|frameless|30x30px]] [[File:FalseGanarText.png|frameless|link=FalseGanar|65x65px]]
+|alt_previous=
+[[File:Frick you (3).png|frameless|30x30px]] [[Bad Request]]
+|alt_next=
+
+|decal_id=
+*Current: [https://create.roblox.com/store/asset/73171486165222/UniversalGlitch here]
+*Old: [https://create.roblox.com/store/asset/6379413344/UniversalGlitch here]
+|creator(s)=
+*TotallyNotAMeme00 (Revamper)
+*Core1052 (Original)}}
+
+==Description - [[File:New UG.jpg|frameless|40x40px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span>==
+[[File:New UG.jpg|frameless|30x30px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span> is a Class 7 difficulty, and is the antepenultimate difficulty of the [[Difficulty Chart]] before you reach [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg||frameless|50x50px]] [[MegaDeath]], which is the terminus of the official chart if you aren't counting [[File:SCCD Square.png|frameless|30x30px]] <span style="background:linear-gradient(90deg, red,orange,yellow,green,blue,purple,pink); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[User blog:The Difficulty Enthusiast/Sacred Cataclysmic Corrupted Demon|Sacred Cataclysmic Corrupted Demon]]'''</span> or [[Babass dficuklty|anything beyond that]]. It resides in-between the perilous [[File:Universe Disruption.png|frameless|30x30px]] <span style="background:linear-gradient(90deg, salmon, red, hotpink, magenta, indigo, blue, black, darkgray, gray, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Universe Disruption]]'''</span> and the extremely demotivating difficulty [[File:HopelessNewest.png|frameless|30x30px]] [[Hopeless|<span style="color:red">'''Hopeless'''</span>]]. Alternatively, it is placed in-between [[File:Illegal Newest.png|frameless|30x30px]] [[Illegal]] and either [[File:FalseGanar Official.png|frameless|30x30px]] [[File:FalseGanarText.png|frameless|link=FalseGanar|65x65px]].   
+
+It consists of straight-up ludicrous obstacles which require usage of impossible techniques, and are not to be attempted under any circumstance. Obstacles of this difficulty are hard to build accurately, as you will need to have extensive knowledge of the obstacles of it's neighboring difficulties in order to maintain a perfect balance in-between them.  
+
+[[File:New UG.jpg|frameless|30x30px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span> renders TAS and other boost items useless, due to it's sheer difficulty far exceeding the limit of any boost item. However, using exploits, this difficulty could potentially be beaten, although it would not count as legitimate. In tiers, this difficulty would be Tier 2,000 or elevated, but due to the inaccuracy of tiers, this measurement could be incorrect. Using [[Metris|Kol Metris]], which is a more accurate form of measurement than tiers, this difficulty would have a value of around |1400|.
+
+Before even thinking of attempting [[File:New UG.jpg|frameless|30x30px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span>, it is recommended to clear [[File:Universe Disruption.png|frameless|30x30px]] <span style="background:linear-gradient(90deg, salmon, red, hotpink, magenta, indigo, blue, black, darkgray, gray, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Universe Disruption]]'''</span> (or [[File:Multiversal Official.webp|frameless|30x30px]] <span style="background:linear-gradient(90deg, orange,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Multiversal]]'''</span>) and any towers measured as being that difficulty, as it will prepare you adequately for the obstacles that you will face whilst in the realm of this difficulty. 
+
+==Icon Representation - [[File:New UG.jpg|frameless|40x40px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span>==
+{| class="fandom-table"
+|+'''Icon Representation Table'''
+!'''Name'''
+!'''Icon'''
+!'''Description'''
+|-
+|'''New'''
+|[[File:New UG.jpg|frameless|200x200px]]
+|The new icon depicts a starry background with a black to cyan gradient behind. There is a dark cyan border around the edges. There is also a diagonal cyan line going across the entire icon. In the center is a lowercase omega (ω) symbol, which has a light blue to white gradient. It also has a transparent outline. Around it is a light-blue circle.
+|-
+|'''Old'''
+|[[File:Universalglitch.jpg|frameless|200x200px]]
+|The old icon is extremely complex. First of all, there is a cyan background depicting space. Then there are some slightly transparent dark-brown lines. In the center, under the dark brown diagonal line is a ">:D" emoticon, which is duplicated 3 times - one is red, one is black, and one is yellow. There is also some light-green binary text behind the emoticons. At the top there is some light-blue text reading "Ω_Aleph". Finally, in the bottom left, there is a brown aleph symbol with a strange symbol next to it.
+|}
+
+== Obstacles - [[File:New UG.jpg|frameless|40x40px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span>==
+{{ObstacleTableRevamp|JumpClimbableBase=95.571|Increment=1.309}}
+
+==Trivia - [[File:New UG.jpg|frameless|40x40px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span>==
+*The difficulties that used to take this spot were [[File:FalseGanar Official.png|frameless|30x30px]] [[File:FalseGanarText.png|frameless|link=FalseGanar|65x65px]] and {{Class10Difficulties|Infinity}} [[Infinity|<span style="background:linear-gradient(90deg, white, grey, black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Infinity'''</span>]], but those were changed due to this difficulty being more well known.
+* This difficulty appears in GCoCIaND, but with a different placement.
+*This was revamped before by [[User:TotallyNotAMeme00|TotallyNotAMeme00]] too, but he didn't like the original revamp.
+
+==Towers - [[File:New UG.jpg|frameless|40x40px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span>==
+===Fictional===
+*Monolith of Reality's Center (page will be made soon)
+*Palace of Multiversal Energies
+
+===Actual ===
+*[[Monolith of Deadly Difficulties Approaching]] (contains this difficulty, not actually this difficulty)
+*[[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (contains this difficulty, not actually this difficulty)
+*[[Great Citadel of Custom, Impossible, and Normal Difficulties]] (contains this difficulty, not actually this difficulty)
+* Mini Steeple of Falling Into Oblivion (page will be made soon)
+
+==Continuation - [[File:New UG.jpg|frameless|40x40px]] <span style="background:linear-gradient(330deg,darkcyan,navy); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universal Glitch'''</span>==
+Congratulations on beating the 2nd of the 3 challenges. Best you proceed to [[File:HopelessNewest.png|frameless|30x30px]] [[Hopeless|<span style="color:red">'''Hopeless'''</span>]]. It will prepare you well.
+{{MainDifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+[[Category:Physically Impossible]]
+[[Category:Official Difficulty]]

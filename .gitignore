@@ -6,3 +6,4 @@
 /pages
 *.env
 difficulties.html
+__pycache__

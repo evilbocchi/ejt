@@ -1,0 +1,74 @@
+<div style="background:black;padding:1em;font-family:rubik;border:25px solid white">
+{{Humanly Impossible}}
+{{NewDifficultyInfobox
+|title1 = CHAOS
+|image1 = <gallery>
+CHAOS2.png | Current
+OldCHAOSDifficultyIcon.png | Old
+CHAOS.png | Original
+</gallery>
+|caption1 = You are going to have a *chaotic* time.
+|class = [[:Category:Class 4|Class 4]]
+|previous = [[File:SUFFER.png|30px]] [[SUFFER]]
+|next = [[File:AlephnullDifficulty.webp|30px]] [[Aleph-Null]]
+|main_difficulty= 
+|decal_id =*Current: [https://create.roblox.com/store/asset/138636411678510/CHAOS here]
+*Old: [https://create.roblox.com/store/asset/17853091656/CHAOS here]
+*Original: [https://create.roblox.com/store/asset/6668576606/CHAOS here] 
+|original_main_difficulty = 
+|date_added = 04/03/2021 4:00 PM
+|creator(s)=[[User:YataDev|YataDev]]
+|date_removed=Not removed, atleast yet.
+|previous_main_difficulty(ies)=
+|full_name=CHAOS
+|rbg_color=
+|prior_previous=
+|prior_next=
+|type=Sub-Difficulty
+|revamp_date=06/14/2023 (Good Job Yata.)
+|original_class=[[:Category:Class 4|Class 4]]
+|original_creator(s)=WastefulKolyaka|rating=27.5}}
+Not to be confused with SADISTIC CHAOS, a [[Destroiny]] boss.
+
+==What Is '''CHAOS'''==
+'''CHAOS''' is a '''Humanly Impossible High Class 4''' Sub-Difficulty, and comes right after [[File:SUFFER.png|31x31px]] '''[[SUFFER]],''' and is harder than it, however it is still easier than the difficulty which comes after it - [[File:AlephnullDifficulty.webp|30px]] [[Aleph-Null]]. This difficulty is a challenge to even the best '''Tool Assisted Speedrunners''' (TAS), and you shouldn't attempt it, because even with TAS it would be a huge challenge. This difficulty, like the name suggests, will cause absolute chaos.
+
+CHAOS currently has a [[Main Difficulty Chart|M.D.C]] rating of 27.5, a [[Metris|Kol Metris]] rating of around |340|, and a normal tier of around 28-29.
+==Icon Representation==
+
+=== Current/New ===
+The current icon is like the old icon, however the "X" is thinner and neon. The pentagrams have also been removed, and the background is a gradient from black (top) to grey (bottom). Finally, there is a thick white border surrounding the icon. You can find the decal for this icon [https://create.roblox.com/store/asset/18272629195/CHAOS here]
+
+===Old===
+The old icon, which was added in the revamped version, is a >:| on a white circle, which is in the middle of a "X", and also a white empty circle on it, with 4 pentagrams on the sides. You can find the decal for this icon [https://www.roblox.com/library/8538627552/CHAOS-2 here]
+===Original===
+The original icon looks almost as the old one, but the lines are thinner, instead of a circle there is a square. The >:| is also more gray and is flipped. The pentagrams around it are also more grey. You can find the decal for this icon [https://www.roblox.com/library/6668576606/CHAOS-difficulty?Category=Decals&SortType=Relevance&SortAggregation=AllTime&SearchKeyword=CHAOS+difficulty&CreatorId=0&Page=1&Position=1&SearchId=e4db2926-cf2b-4c59-a7a6-51b5dc599de3 here]
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=16.15|Increment=0.0169}}
+==Towers in this difficulty==
+===Fictional===
+
+* Tower of Chaos Goes Here (ToCGH) (Low CHAOS)
+* Tower of Bad Names (ToBN) (Low CHAOS)
+* Chaotic Tower: Nerf (CT:N) (Baseline CHAOS)
+* Tower of Undeserved Heart Stoppings (High CHAOS)
+* Citadel of Pure Chaos (CoPC) (High CHAOS)
+
+===Non-Fictional===
+None yet, you can make one or if you find any, put them on this list please.
+==Trivia==
+*The first version of '''CHAOS''' was possibly one of the most cancerous pages on the wiki. It was improved by '''Meisterfabi''', making it more readable. It was then improved by '''YataDev.''' Even if the page wasn't that bad anymore, '''YataDev''' decided to revamp it entirely, and with YourNuglyGuy's permission, he took ownership of the difficulty.
+
+*The old icon for '''CHAOS''' was made with one of the most basic painting programs - '''Paint 3D'''.
+==CTFP==
+How did you beat a difficulty that doesn't even have proper obstacles? You know what, just move on to [[File:AlephnullDifficulty.webp|30px]] [[Aleph-Null]] so you can destroy yourself there.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:Emoticon Difficulties]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Humanly Impossible]]

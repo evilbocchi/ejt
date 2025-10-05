@@ -1,0 +1,31 @@
+{{DISPLAYTITLE:<span style="color:#105344;">'''Eschaton'''</span>}}
+{{Unfinished}}
+{{DifficultyTab
+|textcolormain = 000
+|type = Event / Joke
+|blank1 =
+|blank2 =
+|Eschaton}}
+{{DifficultyInfobox|image1=Eschaton.png<!--actual eschaton emoji image ripped via esmbot-->|type=Event/Joke|date_added=December 8, 2024}}
+{{Difficulty|Eschaton|20px}} [[Eschaton|<span style="color:#44b38a;">Eschaton</span>]] is a joke difficulty initially added during an [[Event Realm]] event, then later used as a difficulty in the [[April Fools 2025]] event. Currently, there are only two towers in-game assigned to this difficulty, those being [[Tower of Eve Is Ent]] and [[Huvin ja Hauskanpidon Torni]]. 
+{{Header|Towers}}
+<tabber>
+Eventnotes=
+<div align="center"><font size="5">{{Emblem|EN}} [[Eventnotes]] {{Emblem|EN}}</font></div>
+*ToEIE - [[Tower of Eve Is Ent]] - Eschaton (⭕.??)
+|-|
+Event=
+{{#tag:tabber
+|April Fools 2025=
+<div align="center"><font size="5">{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*HjHT - [[Huvin ja Hauskanpidon Torni]] - Peak Eschaton (⭕.99)
+}}
+</tabber>
+{{Header|Trivia}}
+* Albeit being put above [[Unreal]] on the difficulty chart<ref>[[:File:Bioumseschaton.png]]</ref>, this difficulty is not considered [[Soul Crushing]].<ref>https://discord.com/channels/551741409624064011/551938432201654272/1357139820983619735 Towers only appear in #tower-winners if not soul crushing</ref>
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:Event Realm]]
+[[Category:Eschaton]]

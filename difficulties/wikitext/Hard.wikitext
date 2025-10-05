@@ -1,0 +1,349 @@
+{{DISPLAYTITLE:<span id="Hard">'''Hard'''</span>}}__NOEDITSECTION____NOTOC__{{BetterQuote
+|text=Nice one! Hopefully at this point, you can definitely see that this game is by no means easy.
+|quoter=Badge description
+|name=[https://www.roblox.com/badges/2125419256 Beat Your First Hard Tower]}}
+{{DifficultyTab
+|Hard
+|textcolormain=000
+|difficulty1=Medium
+|diffcolor1=FFFE02
+|textcolor1=000
+|difficulty2=Difficult
+|diffcolor2=FF0C04
+|textcolor2=FFF}}
+{{DifficultyInfobox
+|title1=Hard
+|image1=HardIcon100.png
+|type=Regular
+|previous={{Difficulty|Medium}} [[Medium|<span id="Medium">'''Medium'''</span>]]
+|next={{Difficulty|Difficult}} [[Difficult|<span id="Difficult">'''Difficult'''</span>]]
+|rbg_color=DC: 155, 75, 0
+Menus: 254, 124, 0
+|hex_color=DC: #9B4B00
+Menus: #FE7C00
+|cmyk_color=DC: 0%, 52%, 100%, 39%
+Menus: 0%, 51%, 100%, 0%
+|hsv_color=DC: 29°, 100%, 60%
+Menus: 29°, 100% 99%
+|hsl_color=DC: 29°, 100%, 30%
+Menus: 29°, 100%, 50%}}
+{{Difficulty|Hard|20px}} <span id="Hard">[[Hard]]</span> is a [[difficulty]] in '''EToH''' that is represented with an orange square. Obstacles in this difficulty level are similar to those in [[Medium|<span id="Medium">'''Medium'''</span>]], but slightly more abundant.  
+
+Expect more disappearing and transparent platforms, as well as [[conveyor]]s in [[towers]] of this difficulty. Towers in this difficulty can escalate to 8-15 minutes to complete assuming if the player beat several towers on [[Medium|<span id="Medium">'''Medium'''</span>]] difficulty.
+
+There are currently 30 [[tower]]s, 8 [[steeple]]s, 1 [[citadel]] and 1 [[Mini Tower]] confirmed and/or in the game assigned to this difficulty rating. [[Tower of Keyboard Yeeting]], [[Steeple of Pursuit]], [[Tower of Rigid Success]], [[Tower of Slight Inconvenience]], [[Tower of Troublesome Adventures]], [[Steeple of Low Woe]], and [[Tower of Lethean Recollection]] were originally this difficulty. SoP and SoLW were moved/nerfed to <span id="Medium">'''Medium'''</span> difficulty, while ToKY, ToRS, ToSI, ToTA and ToLR were moved to [[Difficult|<span id="Difficult">'''Difficult'''</span>]] difficulty.
+
+Towers in this difficulty can only be beaten by those who are above average obbyists. An average player can struggle in particular areas.
+
+You can practice towers of this difficulty at [https://www.roblox.com/games/6102445989 Starter Practice Time], along with [[Difficult|<span id="Difficult">'''Difficult'''</span>]] and [[Challenging|<span id="Challenging">'''Challenging'''</span>]] towers, although there are some towers not added/work in progress.
+{{Header|Towers in this difficulty (Organized by Realm)}}
+<tabber>
+Ring 0=
+<div align=center><font size=5>{{Emblem|R0}} [[Ring 0]] {{Emblem|R0}}</font></div>
+*ToKTS - [[Tower of Keys To Success]] - Baseline Hard (3.00)
+*CoV - [[Citadel of Victory]] - Mid Hard (3.55)
+*ToDAN - [[Tower of Dancing All Night]] - Mid-High Hard (3.62)
+|-|
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+*ToH - [[Tower of Hecc]] - Low Hard (3.30)
+*ToK - [[Tower of Killjoys]] - Mid Hard (3.47)
+|-|
+Forgotten Ridge=
+<div align=center><font size=5>{{Emblem|FR}} [[Forgotten Ridge]] {{Emblem|FR}}</font></div>
+*TIPAT - [[This Is Probably A Tower]] - Mid-High Hard (3.61)
+*SoUR - [[Steeple of Uninstalling Roblox]] - High Hard (3.74)
+|-|
+Ring 2=
+<div align=center><font size=5>{{Emblem|R2}} [[Ring 2]] {{Emblem|R2}}</font></div>
+*ToBH - [[Tower of Big Hole]] - Low-Mid Hard (3.40)
+*ToOH - [[Tower of Overcoming Hatred]] - Peak Hard (3.96)
+|-|
+Garden of Eeshöl=
+<div align=center><font size=5>{{Emblem|GoE}} [[Garden of Eeshöl]] {{Emblem|GoE}}</font></div>
+*SoOA - [[Steeple of Overgrown Ascension]] - Bottom-Low Hard (3.16)
+*SoGP - [[Steeple of Greenhouse Placidity]] - High Hard (3.70)
+*SoFF - [[Steeple of Feudal Foliage]] - High-Peak Hard (3.80)
+*SoLIQ - [[Steeple of Lost In Quiescence]] - High-Peak Hard (3.84)
+|-|
+Ring 3=
+<div align=center><font size=5>{{Emblem|R3}} [[Ring 3]] {{Emblem|R3}}</font></div>
+*ToF - [[Tower of Fatness]] - Mid Hard (3.54)
+*ToWER - [[Tower of Winning Every Run]] - Mid Hard (3.55)
+|-|
+Ring 4=
+<div align=center><font size=5>{{Emblem|R4}} [[Ring 4]] {{Emblem|R4}}</font></div>
+*ToTM - [[Tower of Terrible Mondays]] - Mid-High Hard (3.60)
+*ToE - [[Tower of Elysium]] - Peak Hard (3.92)
+|-|
+Ring 5=
+<div align=center><font size=5>{{Emblem|R5}} [[Ring 5]] {{Emblem|R5}}</font></div>
+*ToTR - [[Tower of Trivial Resentment]] - Peak Hard (3.99)
+|-|
+Lost River=
+<div align=center><font size=5>{{Emblem|LR}} [[Lost River]] {{Emblem|LR}}</font></div>
+*ToTST - [[Tower of Two Sided Troubles]] - High-Peak Hard (3.79)
+|-|
+Ring 6=
+<div align=center><font size=5>{{Emblem|R6}} [[Ring 6]] {{Emblem|R6}}</font></div>
+*ToFJ - [[Tower of Friendly Jumps]] - Bottom Hard (3.03)
+|-|
+Ashen Towerworks=
+<div align=center><font size=5>{{Emblem|AT}} [[Ashen Towerworks]] {{Emblem|AT}}</font></div>
+*ToVT - [[Tower of Viaduct Traversing]] - High-Peak Hard (3.88)
+|-|
+Ring 8=
+<div align=center><font size=5>{{Emblem|R8}} [[Ring 8]] {{Emblem|R8}}</font></div>
+*ToNBA - [[Tower of Needing Basic Aptitude]] - Peak Hard (3.90)
+|-|
+Zone 1=
+<div align=center><font size=5>{{Emblem|Z1}} [[Zone 1]] {{Emblem|Z1}}</font></div>
+*ToP - [[Tower of Peace]] - Low Hard (3.26)
+*ToHS - [[Tower of Hands Sweating]] - Mid Hard (3.48)
+*ToMH - [[Tower of Mirrored Hecc]] - Peak Hard (3.91)
+|-|
+Steelspire Horizon=
+<div align=center><font size=5>{{Emblem|SH}} [[Steelspire Horizon]] {{Emblem|SH}}</font></div>
+*ToFH - [[Tower of Fly High]] - Bottom Hard (3.10)
+*ToCBTS - [[Tower of Calm Before The Storm]] - High Hard (3.77)
+*ToTFC - [[Tower of Ten Floors Challenge]] - High-Peak Hard (3.85)
+|-|
+Zone 2=
+<div align=center><font size=5>{{Emblem|Z2}} [[Zone 2]] {{Emblem|Z2}}</font></div>
+*ToGLA - [[Tower of Ground Level Ascension]] - Mid-High Hard (3.57)
+|-|
+Arcane Area=
+<div align=center><font size=5>{{Emblem|AA}} [[Arcane Area]] {{Emblem|AA}}</font></div>
+*SoRO - [[Steeple of Realm Odyssey]] - Bottom-Low Hard (3.17)
+*SoAP - [[Steeple of Atmospheric Powers]] - Low-Mid Hard (3.36)
+|-|
+Zone 3=
+<div align=center><font size=5>{{Emblem|Z3}} [[Zone 3]] {{Emblem|Z3}}</font></div>
+*ToCCC - [[Tower of Cracked, Crushed Cubes]] - Mid-High Hard (3.58)
+*ToX - [[Tower of Xanthophobia]] - High-Peak Hard (3.81)
+|-|
+Paradise Atoll=
+<div align=center><font size=5>{{Emblem|PA}} [[Paradise Atoll]] {{Emblem|PA}}</font></div>
+*SoW - [[Steeple of Waterfall]] - Low Hard (3.24)
+*ToCIAD - [[Tower of Call It A Day]] - Mid-High Hard (3.59)
+*SoAU - [[Steeple of Abyssal Upturn]] - Peak Hard (3.94)
+*''ToWWV - [[Tower of Wild West Variadad]] - Hard (3.??)'' (deconfirmed)
+|-|
+Zone 4=
+<div align=center><font size=5>{{Emblem|Z4}} [[Zone 4]] {{Emblem|Z4}}</font></div>
+*ToFaST - [[Tower of Fun and Simple Trials]] - Low Hard (3.29)
+*ToUID - [[Tower of Up Is Down]] - Mid-High Hard (3.56)
+|-|
+Zone 5=
+<div align=center><font size=5>{{Emblem|Z5}} [[Zone 5]] {{Emblem|Z5}}</font></div>
+*ToST - [[Tower of Sovereign Traveling]] - Low-Mid Hard (3.40)
+*ToSSSS - [[Tower of Super Stupid Security Systems]] - Peak Hard (3.91)
+|-|
+Zone 6=
+<div align=center><font size=5>{{Emblem|Z6}} [[Zone 6]] {{Emblem|Z6}}</font></div>
+*ToFD - [[Tower of Foreign Domains]] - Mid-High Hard (3.64)
+|-|
+Zone 7=
+<div align=center><font size=5>{{Emblem|Z7}} [[Zone 7]] {{Emblem|Z7}}</font></div>
+*ToRW - [[Tower of Rough Waters]] - Low Hard (3.23)
+*ToSV - [[Tower of Sweet Victory]] - High Hard (3.72)
+|-|
+Zone 8=
+<div align=center><font size=5>{{Emblem|Z8}} [[Zone 8]] {{Emblem|Z8}}</font></div>
+*ToMIT - [[Tower of Melons In Time]] - High Hard (3.76)
+*ToCT - [[Tower of Cosmic Tides]] - Peak Hard (3.93)
+|-|
+Event=
+{{#tag:tabber
+|Halloween Event 2018=
+<div align=center><font size=5>{{Emblem|H2018}} [[Halloween Event 2018]] {{Emblem|H2018}}</font></div>
+*SoRMR (or ToRMR) - [[Steeple of Rising Molten Rocks]] - Low-Mid Hard (3.41)
+*SoBV (or ToBV) - [[Steeple of Button Venturing]] - Peak Hard (3.94)
+{{!}}-{{!}}
+Christmas Event 2020=
+<div align=center><font size=5>{{Emblem|C2020}} [[Christmas Event 2020]] {{Emblem|C2020}}</font></div>
+*SoST - [[Steeple of Scrumptious Travels]] - High Hard (3.67)
+{{!}}-{{!}}
+April Fools 2022=
+<div align=center><font size=5>{{Emblem|AF2022}} [[April Fools 2022]] {{Emblem|AF2022}}</font></div>
+*ToHQFB - [[Tower of High Quality Fishing Boat]] - Bottom-Low Hard (3.20)
+{{!}}-{{!}}
+Halloween Event 2022=
+<div align=center><font size=5>{{Emblem|H2022}} [[Halloween Event 2022]] {{Emblem|H2022}}</font></div>
+*SoFA - [[Steeple of Forsaken Anguish]] - Low Hard (3.29)
+{{!}}-{{!}}
+April Fools 2023=
+<div align=center><font size=5>{{Emblem|AF2023}} [[April Fools 2023]] {{Emblem|AF2023}}</font></div>
+*RT - [[Rainbow Tower]] - Peak Hard (3.97)
+{{!}}-{{!}}
+Halloween Event 2023=
+<div align=center><font size=5>{{Emblem|H2023}} [[Halloween Event 2023]] {{Emblem|H2023}}</font></div>
+*SoDC - [[Steeple of Dungeon Crawling]] - High-Peak Hard (3.84)
+{{!}}-{{!}}
+April Fools 2024=
+<div align=center><font size=5>{{Emblem|AF2024}} [[April Fools 2024]] {{Emblem|AF2024}}</font></div>
+*ToGKD - [[Tower of Getting Kinda Disappointed]] - Mid Hard (3.52)
+*E(R) - [[EESHOL (Region)]] - High Hard (3.72)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*ToVL - [[Tower of Vesi Leikki]] - Mid Hard (3.50)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|May 2021=
+<div align=center><font size=5>May 2021</font></div>
+*ToOSE(M) - [[Tower of Outer Space Exploration]] - High-Peak Hard (3.81)
+{{!}}-{{!}}
+June 2021=
+<div align=center><font size=5>June 2021</font></div>
+*ToMR(M) - [[Tower of Many Realms]] - Mid Hard (3.46)
+{{!}}-{{!}}
+October 2021=
+<div align=center><font size=5>October 2021</font></div>
+*ToSF(M) - [[Tower of Spaceship Finding]] - Mid-High Hard (3.61)
+{{!}}-{{!}}
+February 2022=
+<div align=center><font size=5>February 2022</font></div>
+*ToMI(M) - [[Tower of Mild Irritation]] - Mid Hard (3.54)
+{{!}}-{{!}}
+June 2022=
+<div align=center><font size=5>June 2022</font></div>
+*SoJT(M) - [[Steeple of Jungle Thrill]] - High-Peak Hard (3.83)
+{{!}}-{{!}}
+March 2023=
+<div align=center><font size=5>March 2023</font></div>
+*ToMD(M) - [[Tower of Medium Demon]] - Low-Mid Hard (3.43)
+{{!}}-{{!}}
+June 2023=
+<div align=center><font size=5>June 2023</font></div>
+*SoOP(M) - [[Steeple of Oversized Picking]] - Low-Mid Hard (3.38)
+{{!}}-{{!}}
+July 2023=
+<div align=center><font size=5>July 2023</font></div>
+*ToSCP(M) - [[Tower of Savory Citrus Platforming]] - Mid Hard (3.48)
+{{!}}-{{!}}
+March 2024=
+<div align=center><font size=5>March 2024</font></div>
+*SoGH(M) - [[Steeple of Garden Hose]] - High Hard (3.75)
+{{!}}-{{!}}
+August 2024=
+<div align=center><font size=5>August 2024</font></div>
+*ToEEE(M) - [[Tower of Easing Exultant Expeditions]] - Peak Hard (3.96)
+{{!}}-{{!}}
+September 2024=
+<div align=center><font size=5>September 2024</font></div>
+*SoVIV(M) - [[Steeple of Vivid Island Venturing]] - Low Hard (3.29)
+{{!}}-{{!}}
+November 2024=
+<div align=center><font size=5>November 2024</font></div>
+*ToAE(M) - [[Tower of Advanced Electronics]] - Mid Hard (3.52)
+{{!}}-{{!}}
+January 2025=
+<div align=center><font size=5>January 2025</font></div>
+*ToJE(M) - [[Tower of Jubilant Exercises]] - Low-Mid Hard (3.36)
+{{!}}-{{!}}
+June 2025=
+<div align=center><font size=5>June 2025</font></div>
+*ToZG(M) - [[Tower of Zingy Gaming]] - High-Peak Hard (3.88)
+{{!}}-{{!}}
+September 2025=
+<div align=center><font size=5>September 2025</font></div>
+*ToRM(M) - [[Tower of Ravelled Motion]] - High-Peak Hard (3.82)
+{{!}}-{{!}}
+October 2025=
+<div align=center><font size=5>October 2025</font></div>
+*ToLT(M) - [[Tower of Linear Troubles]] - High Hard (3.75)
+}}
+</tabber>
+{{Header|Tower in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+* {{emblem|R0|20px}} ''ToKTS - [[Tower of Keys To Success]] - Baseline Hard (3.00)'' {{emblem|R0|20px}}
+* {{emblem|R6|20px}} ToFJ - [[Tower of Friendly Jumps]] - Bottom Hard (3.03) {{emblem|R6|20px}}
+* {{emblem|SH|20px}} ''ToFH - [[Tower of Fly High]] - Bottom Hard (3.10)'' {{emblem|SH|20px}}
+* {{emblem|GoE|20px}} SoOA - [[Steeple of Overgrown Ascension]] - Bottom-Low Hard (3.16) {{emblem|GoE|20px}}
+* {{emblem|AA|20px}} SoRO - [[Steeple of Realm Odyssey]] - Bottom-Low Hard (3.17) {{emblem|AA|20px}}
+* {{emblem|Z7|20px}} ToRW - [[Tower of Rough Waters]] - Low Hard (3.23) {{emblem|Z7|20px}}
+* {{emblem|PA|20px}} SoW - [[Steeple of Waterfall]] - Low Hard (3.24) {{emblem|PA|20px}}
+* {{emblem|Z1|20px}} ToP - [[Tower of Peace]] - Low Hard (3.26) {{emblem|Z1|20px}}
+* {{emblem|Z4|20px}} ToFaST - [[Tower of Fun and Simple Trials]] - Low Hard (3.29) {{emblem|Z4|20px}}
+* {{emblem|R1|20px}} ToH - [[Tower of Hecc]] - Low Hard (3.30) {{emblem|R1|20px}}
+* {{emblem|AA|20px}} SoAP - [[Steeple of Atmospheric Powers]] - Low-Mid Hard (3.36) {{emblem|AA|20px}}
+* {{emblem|R2|20px}} ToBH - [[Tower of Big Hole]] - Low-Mid Hard (3.40) {{emblem|R2|20px}}
+* {{emblem|Z5|20px}} ToST - [[Tower of Sovereign Traveling]] - Low-Mid Hard (3.40) {{emblem|Z5|20px}}
+* {{emblem|R1|20px}} ToK - [[Tower of Killjoys]] - Mid Hard (3.47) {{emblem|R1|20px}}
+* {{emblem|Z1|20px}} ToHS - [[Tower of Hands Sweating]] - Mid Hard (3.48) {{emblem|Z1|20px}}
+* {{emblem|R3|20px}} ToF - [[Tower of Fatness]] - Mid Hard (3.54) {{emblem|R3|20px}}
+* {{emblem|R0|20px}} ''CoV - [[Citadel of Victory]] - Mid Hard (3.55)'' {{emblem|R0|20px}}
+* {{emblem|R3|20px}} ToWER - [[Tower of Winning Every Run]] - Mid Hard (3.55) {{emblem|R3|20px}}
+* {{emblem|Z4|20px}} ToUID - [[Tower of Up Is Down]] - Mid-High Hard (3.56) {{emblem|Z4|20px}}
+* {{emblem|Z2|20px}} ToGLA - [[Tower of Ground Level Ascension]] - Mid-High Hard (3.57) {{emblem|Z2|20px}}
+* {{emblem|Z3|20px}} ToCCC - [[Tower of Cracked, Crushed Cubes]] - Mid-High Hard (3.58) {{emblem|Z3|20px}}
+* {{emblem|PA|20px}} ToCIAD - [[Tower of Call It A Day]] - Mid-High Hard (3.59) {{emblem|PA|20px}}
+* {{emblem|R4|20px}} ToTM - [[Tower of Terrible Mondays]] - Mid-High Hard (3.60) {{emblem|R4|20px}}
+* {{emblem|FR|20px}} TIPAT - [[This Is Probably A Tower]] - Mid-High Hard (3.61) {{emblem|FR|20px}}
+* {{emblem|R0|20px}} ''ToDAN - [[Tower of Dancing All Night]] - Mid-High Hard (3.62)'' {{emblem|R0|20px}}
+* {{emblem|Z6|20px}} ToFD - [[Tower of Foreign Domains]] - Mid-High Hard (3.64) {{emblem|Z6|20px}}
+* {{emblem|GoE|20px}} SoGP - [[Steeple of Greenhouse Placidity]] - High Hard (3.70) {{emblem|GoE|20px}}
+* {{emblem|Z7|20px}} ToSV - [[Tower of Sweet Victory]] - High Hard (3.72) {{emblem|Z7|20px}}
+* {{emblem|FR|20px}} SoUR - [[Steeple of Uninstalling Roblox]] - High Hard (3.74) {{emblem|FR|20px}}
+* {{emblem|Z8|20px}} ToMIT - [[Tower of Melons In Time]] - High Hard (3.76) {{emblem|Z8|20px}}
+* {{emblem|SH|20px}} ''ToCBTS - [[Tower of Calm Before The Storm]] - High Hard (3.77)'' {{emblem|SH|20px}}
+* {{emblem|LR|20px}} ToTST - [[Tower of Two Sided Troubles]] - High-Peak Hard (3.79) {{emblem|LR|20px}}
+* {{emblem|GoE|20px}} SoFF - [[Steeple of Feudal Foliage]] - High-Peak Hard (3.80) {{emblem|GoE|20px}}
+* {{emblem|Z3|20px}} ToX - [[Tower of Xanthophobia]] - High-Peak Hard (3.81) {{emblem|Z3|20px}}
+* {{emblem|GoE|20px}} SoLIQ - [[Steeple of Lost In Quiescence]] - High-Peak Hard (3.84) {{emblem|GoE|20px}}
+* {{emblem|SH|20px}} ''ToTFC - [[Tower of Ten Floors Challenge]] - High-Peak Hard (3.85)'' {{emblem|SH|20px}}
+* {{emblem|AT|20px}} ToVT - [[Tower of Viaduct Traversing]] - High-Peak Hard (3.88) {{emblem|AT|20px}}
+* {{emblem|R8|20px}} ToNBA - [[Tower of Needing Basic Aptitude]] - Peak Hard (3.90) {{emblem|R8|20px}}
+* {{emblem|Z1|20px}} ToMH - [[Tower of Mirrored Hecc]] - Peak Hard (3.91) {{emblem|Z1|20px}}
+* {{emblem|Z5|20px}} ToSSSS - [[Tower of Super Stupid Security Systems]] - Peak Hard (3.91) {{emblem|Z5|20px}}
+* {{emblem|R4|20px}} ToE - [[Tower of Elysium]] - Peak Hard (3.92) {{emblem|R4|20px}}
+* {{emblem|Z8|20px}} ToCT - [[Tower of Cosmic Tides]] - Peak Hard (3.93) {{emblem|Z8|20px}}
+* {{emblem|PA|20px}} SoAU - [[Steeple of Abyssal Upturn]] - Peak Hard (3.94) {{emblem|PA|20px}}
+* {{emblem|R2|20px}} ToOH - [[Tower of Overcoming Hatred]] - Peak Hard (3.96) {{emblem|R2|20px}}
+* {{emblem|R5|20px}} ToTR - [[Tower of Trivial Resentment]] - Peak Hard (3.99) {{emblem|R5|20px}}
+|-|
+Monthly Towers=
+* {{emblem|TLT|20px}} SoVIV(M) - [[Steeple of Vivid Island Venturing]] - Low Hard (3.29) {{emblem|PA|20px}}
+* {{emblem|TLT|20px}} ToJE(M) - [[Tower of Jubilant Exercises]] - Low-Mid Hard (3.36) {{emblem|Z4|20px}}
+* {{emblem|TLS|20px}} SoOP(M) - [[Steeple of Oversized Picking]] - Low-Mid Hard (3.38) {{emblem|GoE|20px}}
+* {{emblem|TLC|20px}} ToMD(M) - [[Tower of Medium Demon]] - Low-Mid Hard (3.43) {{emblem|Z4|20px}}
+* {{emblem|TLP|20px}} ToMR(M) - [[Tower of Many Realms]] - Mid Hard (3.46) {{emblem|R4|20px}}
+* {{emblem|TLS|20px}} ToSCP(M) - [[Tower of Savory Citrus Platforming]] - Mid Hard (3.48) {{emblem|Z3|20px}}
+* {{emblem|TLT|20px}} ToAE(M) - [[Tower of Advanced Electronics]] - Mid Hard (3.52) {{emblem|Z2|20px}}
+* {{emblem|TLP|20px}} ToMI(M) - [[Tower of Mild Irritation]] - Mid Hard (3.54) {{emblem|R2|20px}}
+* {{emblem|TLP|20px}} ToSF(M) - [[Tower of Spaceship Finding]] - Mid-High Hard (3.61) {{emblem|R5|20px}}
+* {{emblem|TLS|20px}} SoGH(M) - [[Steeple of Garden Hose]] - High Hard (3.75) {{emblem|GoE|20px}}
+* {{emblem|TL?|20px}} ToLT(M) - [[Tower of Linear Troubles]] - High Hard (3.75) {{emblem|R2|20px}}
+* {{emblem|TLP|20px}} ToOSE(M) - [[Tower of Outer Space Exploration]] - High-Peak Hard (3.81) {{emblem|Z4|20px}}
+* {{emblem|TL?|20px}} ToRM(M) - [[Tower of Ravelled Motion]] - High-Peak Hard (3.82) {{emblem|Z6|20px}}
+* {{emblem|TLC|20px}} SoJT(M) - [[Steeple of Jungle Thrill]] - High-Peak Hard (3.83) {{emblem|PA|20px}}
+* {{emblem|TL?|20px}} ToZG(M) - [[Tower of Zingy Gaming]] - High-Peak Hard (3.88) {{emblem|LR|20px}}
+* {{emblem|TLT|20px}} ToEEE(M) - [[Tower of Easing Exultant Expeditions]] - Peak Hard (3.96) {{emblem|Z3|20px}}
+|-|
+Event Towers=
+* {{emblem|AF2022|20px}} ToHQFB - [[Tower of High Quality Fishing Boat]] - Bottom-Low Hard (3.20) {{emblem|AF2022|20px}}
+* {{emblem|H2022|20px}} SoFA - [[Steeple of Forsaken Anguish]] - Low Hard (3.29) {{emblem|H2022|20px}}
+* {{emblem|HE2018|20px}} SoRMR - [[Steeple of Rising Molten Rocks]] - Low-Mid Hard (3.41) {{emblem|HE2018|20px}}
+* {{emblem|AF2025|20px}} ToVL - [[Tower of Vesi Leikki]] - Mid Hard (3.50) {{emblem|AF2025|20px}}
+* {{emblem|AF2024|20px}} ToGKD - [[Tower of Getting Kinda Disappointed]] - Mid Hard (3.52) {{emblem|AF2024|20px}}
+* {{emblem|CE2020|20px}} SoST - [[Steeple of Scrumptious Travels]] - High Hard (3.67) {{emblem|CE2020|20px}}
+* {{emblem|AF2024|20px}} E(R) - [[EESHOL (Region)]] - High Hard (3.72) {{emblem|AF2024|20px}}
+* {{emblem|H2023|20px}} SoDC - [[Steeple of Dungeon Crawling]] - High-Peak Hard (3.84) {{emblem|H2023|20px}}
+* {{emblem|HE2018|20px}} SoBV - [[Steeple of Button Venturing]] - Peak Hard (3.94) {{emblem|HE2018|20px}}
+* {{emblem|AF2023|20px}} RT - [[Rainbow Tower]] - Peak Hard (3.97) {{emblem|AF2023|20px}}
+</tabber>
+{{Header|Trivia}}
+*[[Garden of Eeshöl]] currently has the most amount of <span id="Hard">[[Hard]]</span> [[Towers]] out of any [[Realm]], having 5 <span id="Hard">[[Hard]]</span> Towers.
+*[[Silent Abyss]], [[Ring 7]], [[The Starlit Archives]], [[Ring 9]], [[Zone 9]] and [[Zone 10]] are the only Realms without any <span id="Hard">[[Hard]]</span> Towers.
+{{Header|Gallery}}
+<gallery wdiths="185" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+146cd6fe6362a9efcacf9b70e29cd23a.png|The [[badge]] obtained from beating a <span id="Hard">[[Hard]]</span> tower for the first time.
+</gallery>
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Hard]]

@@ -1,0 +1,68 @@
+{{Collaboration}}{{Physically Impossible}}
+{{NewDifficultyInfobox|image1=<gallery>
+HyperViolent New.png | HyperViolent (New)
+Violent.png | HyperViolent (Old)
+</gallery>|caption1=New and revamped!|class=Low Class 7|type=Sub-Difficulty|previous=[[File:JesusBallin.png|30x30px]] '''[[Jesus Ballin'|Jesus Ballin]]'''|next=[[File:El Vacio Sqaure.png|30x30px]] '''[[El Vacio]]'''|class_range=Low Class 7|difficulty_range=Baseline - Peak|creator(s)=Duduska2302wastaken - Difficulty Owner
+
+sanjay2133 - Page Revamper
+
+RedirectX - Obstacle Creator|full_name=HyperViolence|short_name=HV|date_added=9/11/2022|revamp_date=9/11/2022|sub_difficulty(ies)=[[File:Diamond.png|25px]] [[Excavation Chain/Sapphire-Tetra#Diamond|Diamond]]|rating=65.33|alt_next=[[File:Enfarted.gif|30x30px]] '''[[Enclosed]]'''|main_difficulty=[[File:JesusBallin.png|30x30px]] '''[[Jesus Ballin'|Jesus Ballin]]'''|previous_sub_difficulty(ies)=[[File:InevitableIcon.png|30px]] [[User blog:EpicTheGamer2014/Inevitable|Inevitable]]}}
+
+==[[File:HyperViolent New.png|30x30px]] <span style="background:linear-gradient(darkblue,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">'''[[HyperViolent|Its]]'''</span></span> Difficulty Introduction==
+'''[[File:HyperViolent New.png|30x30px]] <span style="background:linear-gradient(darkblue,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">[[HyperViolent]]</span></span>''' is a Low Class 7 sub-difficulty between [[File:JesusBallin.png|30x30px]] '''[[Jesus Ballin'|Jesus Ballin]]''' and [[File:El Vacio Sqaure.png|30x30px]] '''[[El Vacio]]'''. This is not for your average obbyist, as this difficulty is quite a step up from [[File:JesusBallin.png|30x30px]] '''[[Jesus Ballin'|Jesus Ballin]].''' This difficulty is Physically Impossible and should not be attempted without care. 
+
+<span style="background:linear-gradient(darkblue,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">'''[[HyperViolent|It]]'''</span></span> includes jumps that the Roblox physics engine does not intend any player to accomplish without the help of exploits, boosts, or any other type of advantages, and due to that is Physically Impossible. Not only that, but it is incredibly punishing, meaning that if you fail at any jump, you probably will lose a lot of progress. 
+
+Completing ''any'' jump of this difficulty is an incredible accomplishment, that no obbyist has ever done. However, this difficulty is not the end of the difficulty chart, as it's nothing compared to <span><span><span style="background:linear-gradient(90deg,red,#FF0000,#FFFF00,#FF0000,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: red 0px 0.5px 6px;">[[MegaDeath|future difficulties]].</span></span> From Class 7, the step between difficulties will be increasingly bigger, reaching exponentially and tetrationally.</span></span>
+
+To beat a tower of this difficulty, you would need incredible skill and luck, as difficulties past this point require massive amounts of luck. You wouldn't be able to even complete obstacles in made by '''<span style="background:linear-gradient(darkblue,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">[[HyperViolent|itself]]</span></span>''' with TAS, much less legitimately without any sort of items or unfair glitches that would allow you to skip the entire tower. To complete a tower in this difficulty, it would be recommended to use items like a '''Blessed Coil''', or just straightup use noclip to just skip the entirety of the difficulty. 
+
+==Icon Representation==
+{| class="fandom-table"
+!Icon
+!Name
+!Description
+!Creation
+|-
+|[[File:HyperViolent New.png|100x100px]]
+|Current
+|This icon was made by Sanjay2133. The new icon includes a border with a dark blue to sky blue gradient, with two lines in the top left and the bottom right corner. There is also a "shine" in the top-right corner, and an "XD" symbol in the middle, slightly tilted.
+|9/11/2022
+|-
+|[[File:Violent.png|100x100px]]
+|Old 
+| The old icon includes a darker blue background with a red "XD" in the middle with slight zalgo. There also appears to be two expressions slightly cut off in the middle.
+|9/11/2022
+|}
+
+==Obstacles in [[File:HyperViolent New.png|30x30px]] <span style="background:linear-gradient(darkblue,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">HyperViolent</span></span>==
+{{ObstacleTableRevamp|JumpClimbableBase=73.743|Increment=0.143}}
+==Towers ==
+<tabber>
+|-|
+Non-fiction=
+None
+|-|
+Fiction=
+*Tower of Violent Outbreaks
+*Tower of Hypertendency
+*Tower of Calm Deception
+*Tower of Deadly Wind
+*Stowple of Ultimate Climate Hell (UoFTE)
+</tabber>
+
+==Trivia ==
+*This was originally intended as a custom difficulty for the Graveyard subrealm in UoFTE Mercury
+*The icon was revamped by Sanjay2133
+*For about one minute, the table for the icon representation included Calmness' old icon
+**This is because the table was taken from Calmness (even though I didn't really need to)
+
+==Continuing On==
+This difficulty is unlikely to be beaten in the near future. However, if you or someone else has completed an obstacle or obstacle course of <span style="background:linear-gradient(darkblue,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">[[HyperViolent|its creation]]</span></span>, it is recommended to move onto the next Class 7 difficulty ([[File:El Vacio Sqaure.png|30x30px]] '''[[El Vacio]]'''), or  [[File:Diamond.png|30x30px]] [[Excavation Chain/Sapphire-Tetra#Diamond|Diamond]] which is themed around the mineral diamond and is part of the Excavation Chain. Good luck.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+
+[[Category:Collab Page]]

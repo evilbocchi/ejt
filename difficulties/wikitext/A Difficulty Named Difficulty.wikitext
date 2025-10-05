@@ -1,0 +1,152 @@
+<table style="width:100%; border:2px solid #ff0000; border-bottom:10px solid #dd0000; -moz-border-radius:0 14px 7px 7px; -webkit-border-top-right-radius:14px; -webkit-border-bottom-right-radius:10px; -webkit-border-bottom-left-radius:10px; margin-top:10px;" cellpadding="5"><tr><td colspan="4" class="gradient" style="text-align:center; color:black; font-size:110%; font-weight:bold; background-color:#ee0000; -moz-border-radius:0 7px 0 0; -webkit-border-top-right-radius:7px;">[[Origin|<span style="color:black">A Difficulty Named Difficulty</span>]]</td></tr><tr valign="top"><td style="margin-left:10px;"><span style="text-align: center;">
+
+
+
+
+<div class="sm-main" style="border: .4rem solid #cc0c2f; border-left: .4rem solid #cc0c2f; margin-bottom: 1rem"><div style="padding: 1.25rem; font-size: 1rem">
+
+{{Scrollbox|Notices='''Notices'''
+{{Humanly Possible}}
+no more overcolor
+}}
+
+<center><div class="darkblock" style="clear:both; overflow: hidden; z-index: 4; position:relative; display: flex; padding-left: 0; padding-right: 0; flex-direction: column;">
+<div class="mobile-hidden" style="position: absolute; top:{{{top|0}}}; {{{image-align|left}}}:0; z-index: 4;">
+[[File:{{{image|ADNDnewimage.png}}}|{{{size|1500px}}}]]
+</div>
+<div class="blurbehind" style="background: rgba(0,0,0,0.2);padding: 1rem 2em;position:relative; font-size: {{{font-size|90%}}}; font-weight: bold; text-shadow: 0px 0px 3px black; box-shadow: 0px 0px 10px rgba(0,0,0,0.6); z-index: 5; float:right;">
+{{{quote-text|This Difficulty is named Difficulty, don't forget!}}}<div class="blurquote-person" style="text-align: right; font-size: {{{person-font-size|90%}}};"> ~ {{{person|Description of Decal}}} </div></div></div></center>
+
+{{DISPLAYTITLE:<span style="color: #FB395A; text-shadow: 0 0px 2px #FB395A; font-weight: bold;:">A Difficulty Named Difficulty</span>}}
+
+<div style="--theme-accent-color:-webkit-linear-gradient(0deg,#cc0c2f,#b80b2b)">{{NewDifficultyInfobox
+|image1=<gallery>
+
+File:ADNDnewimage.png|Current
+File:Difficultynameddifficulty.png|Old
+</gallery>|class=Class 1|previous=[[File:New flowerness image1.png|frameless|30x30px]] [[Flowerness]]|next=[[File:Pleasant.png|30px]] [[Pleasant]]|title1=[[File:ADNDnewimage.png|30px]] <span style="color: #FB395A;     text-shadow: 0 0px 2px #FB395A;">A Difficulty Named Difficulty</span>|type=Sub-Difficulty|caption1=Grayscale and all.|decal_id=13005175610|creator(s)[[User:Glitchzeri|Glitchzeri]]|date_added=???|date_removed=04.26.2023|removal_reason=not good enough for c1 standards|rating=-6.33|alt_previous=[[File:NewestCoasterifying.png|frameless|25px]] [[Coasterifying]] (sub difficulty)|difficulty_range=Baseline - Skyline|class_range=Peak|short_name=ADND}}
+
+{{NewHeader-Dynamic|text=What is <span style="color: #FB395A;     text-shadow: 0 0px 2px #FB395A;     font-weight: bold;">A Difficulty Named Difficulty</span>?}}
+<b>[[File:ADNDnewimage.png|30px]] <span style="color: #FB395A; text-shadow: 0 0px 2px #FB395A; font-weight: bold;:">A Difficulty Named Difficulty</span></b> is a difficulty between [[File:New flowerness image1.png|frameless|30x30px]] [[Flowerness]] and [[File:Pleasant.png|30px]] [[Pleasant]]. A Difficulty Named Difficulty is not that easy you just need to ride coaster, but not that hard to say "Piece o' Cake". Losing towers in this difficulty, is harder to beat them (Maximum, that can be easy if Roblox servers going down or having bad WiFi). If you will give the tower or obby to a player which started playing early, the player will beat it maximum in a week. That will be insane if you somehow will abandon beating towers in this difficulty. You can easily miss/skip this difficulty because of how useless it can be for you, as you can move to Piece o' Cake without beating any towers in A Difficulty Named Difficulty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{NewHeader-Dynamic|text=Obstacles}}
+{| class="fandom-table"
+|+Obstacles
+!
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: #380101; " |'''<font color="#8c0000">Skyline</font>'''
+|-
+|Jumps
+| style="background-color: #014500;" |<font color="white">2.3 studs</font>
+| style="background-color: #336000;" |<font color="white">2.4 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">2.5 studs</font>
+| style="background-color: #964a00;" |<font color="white">2.6 studs</font>
+| style="background-color: #5a0000;" |<font color="white">2.7 studs</font>
+| style="background-color: #380101;" |<font color="white">2.8 studs</font>
+|-
+|Unclimbable Jumps
+| style="background-color: #014500;" |<font color="white">2.2 studs</font>
+| style="background-color: #336000;" |<font color="white">2.3 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">2.4 studs</font>
+| style="background-color: #964a00;" |<font color="white">2.5 studs</font>
+| style="background-color: #5a0000;" |<font color="white">2.6 studs</font>
+| style="background-color: #380101;" |<font color="white">2.7 studs</font>
+|-
+|Wraparounds
+| style="background-color: #014500;" |<font color="white">0.31 studs</font>
+| style="background-color: #336000;" |<font color="white">0.33 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">0.35 studs</font>
+| style="background-color: #964a00;" |<font color="white">0.37 studs</font>
+| style="background-color: #5a0000;" |<font color="white">0.39 studs</font>
+| style="background-color: #380101;" |<font color="white">0.41 studs</font>
+|-
+|Stickouts
+| style="background-color: #014500;" |<font color="white">0.11 studs</font>
+| style="background-color: #336000;" |<font color="white">0.12 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">0.13 studs</font>
+| style="background-color: #964a00;" |<font color="white">0.14 studs</font>
+| style="background-color: #5a0000;" |<font color="white">0.15 studs</font>
+| style="background-color: #380101;" |<font color="white">0.16 studs</font>
+|-
+|Complex Obstacles
+| style="background-color: #014500;" |<font color="white">Jumping ten times will be good. Also, you need to do it after atleast one obstacle in this section.</font>
+| style="background-color: #336000;" |<font color="white">Jumping eleven times will be good. Also, you need to do it after atleast one obstacle in this section.</font>
+| style="background-color: #6d5c00;" |<font color="white">Jumping twelve times will be good. Also, you need to do it after atleast one obstacle in this section.</font>
+| style="background-color: #964a00;" |<font color="white">Jumping thirteen times will be good. Also, you need to do it after atleast one obstacle in this section.</font>
+| style="background-color: #5a0000;" |<font color="white">Jumping fourteen times will be good. Also, you need to do it after atleast one obstacle in this section.</font>
+| style="background-color: #380101;" |<font color="white">Jumping fifteen times will be good. Also, you need to do it after atleast one obstacle in this section.</font>
+
+|}
+
+{{NewHeader-Dynamic|text=Towers}}
+<tabber>
+|-|
+Towers=
+*A Tower Named Tower (Fictional)
+*[[Tower of Friendly Conveyors]] (Fictional)
+
+|-|
+NEaTs=
+*Currently None
+|-|
+Steeples=
+*Currently None
+|-|
+Citadels=
+*Currently None
+|-|
+Mini-Steeples=
+*Currently None
+|-|
+Obelisk=
+*Currently None
+|-|
+Great Citadel=
+*Currently None
+|-|
+Monolith+=
+*[[Smaller Than a Monolith of The Entire of Easiness till Pure Hell]] (Part 1 and 2)
+</tabber>
+
+{{NewHeader-Dynamic|text=Icon Representation}}
+<tabber>
+|-|
+Current=
+[[File:ADNDnewimage.png|100px]]
+Icon was inspired by [[User blog:EpicTheGamer2014/Schizophrenia|Schizophrenia]]. There is a horizontal gradient from red to light red. On a horizontal gradient there is almost invisible "!!!" (That is not [[Apocalyptic]] reference). Also, there is big text that says "ADND", which is the acronym of A Difficulty Named Difficulty, there is also small text down that says "A Difficulty Named Difficulty", which is name of Difficulty.
+|-|
+Old=
+[[File:Difficultynameddifficulty.png|100px]]
+Basically, this icon is just Vivid Crimson. This isn’t Difficult difficulty, a much harder difficulty that looks like this, and is a class 1 or 2. <small><small><small>(Sponsored by ''Dirt'')</small></small></small>
+</tabber>
+
+{{NewHeader-Dynamic|text=Countiuning from This Point}}
+<b>Congratulations, you beat another difficulty in Class 1, move on to [[Pleasant]], you need it. Or move to  [[Tutorial]], or you can move to-... You understood, do everything you want.{{DifficultiesNavbox}}</b>
+[[Category:Class 1]]
+[[Category:Humanly Possible]]
+[[Category:Long Name]]
+[[Category:Possible]]

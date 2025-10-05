@@ -1,0 +1,60 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:{{{File|DNCBackground.jpg}}}|{{{Size|2500px}}}]]</div>
+
+{{TAS Impossible}}
+{{BetterQuote|text=Now with 75% less Alt!|quoter=TheRealFirstPeacock}}
+<div style="--theme-accent-color:-webkit-linear-gradient(0deg,#30573c,#523057)">{{NewDifficultyInfobox
+|image1=
+<gallery>
+DoesNotComputeNew.png|Current
+DoesNotCompute.png|Original
+</gallery>
+|class=Class 5
+|previous=[[File:BuildingNew.png|30px]] [[Building]]
+|next=[[File:New epsilon .PNG|30px]] [[Exile]]
+|class_range=Baseline C5
+|difficulty_range=Baseline-Peak
+|official_music(s)=Pop'n Music - DOES NOT COMPUTE
+|creator(s)=TheRealFirstPeacock
+|short_name=DNC (haha funny)
+|alt_names="The Alt Difficulty"
+|revamp_date=04/28/2022
+|revival_date=04/28/2022
+|date_removed=03/09/2022
+|removal_reason=Removed During the Page Omnicide due to having Inaccurate Obstacles, Filler Info, and a Lazy Icon.|caption1=Does Not Compute's Icon.
+|original_class=Peak C6|type=Normal Difficulty|sub_difficulty(ies)=|rating=32|alt_next=|alt_previous=[[File:Under construction detailed.png|30px]] [[Under Construction]]|decal_id=*Current: [https://create.roblox.com/store/asset/92757192538790/Does-Not-Compute Here]
+*Original: [https://create.roblox.com/store/asset/8277257952/Does-Not-Compute Here]}}
+
+{{NewHeader-Dynamic|text=What is [[File:DoesNotComputeNew.png|30px]] <span style="background: linear-gradient(#670000, #550000);background-clip: text; -webkit-background-clip: text;color: transparent;text-shadow:0px 0px 3px #E92828, 0px 0px 5px #B94848;font-weight: bold;">Does Not Compute</span>?}}
+
+<span style="background: linear-gradient(#670000, #550000);background-clip: text; -webkit-background-clip: text;color: transparent;text-shadow:0px 0px 3px #E92828, 0px 0px 5px #B94848;font-weight: bold;">'''Does Not Compute'''</span> is a Class 5 difficulty past [[File:Corrupted Serene.png|30x30px]] <s>''Corrupted Calm...''</s> Oh, Wait, that was graved. My bad, I mean [[File:Under construction detailed.png|30px]] [[Under Construction]]. It is also before[[File:Artificial.png.png|30x30px]] ''<s>Artif</s>''... Wait, that was graved too? I guess it’s before [[File:New epsilon .PNG|30x30px]] [[Exile]], then. Here, glitches will become more common, so you'll have to break the laws of Roblox to complete this.  I hope you have some good TAS skills.
+
+{{NewHeader-Dynamic|text=Icon Representation}}
+
+=== Current ===
+Does Not Compute's current icon is very hard to explain, but I'll try my best. First, there is a shade of green and purple at each side. There is also a big red flower-like shape in the middle with an "X" in the middle of the flower. At each corner, there is a black line and outlined text at the top saying "DOES NOT". At the bottom, there is also outlined text saying "COMPUTE". All of the outlined text says "DOES NOT COMPUTE", which is the name of this difficulty. 
+
+=== Original ===
+The original icon is a little easier to explain. On the left side, there are a bunch of filled in purple cubes merged together, and one unfilled in purple cube at the top right. On the right side, there is a bunch of filled in green cubes merged together and some black cubes at the very right.
+
+{{NewHeader-Dynamic|text=Obstacles}}
+{{ObstacleTableRevamp|JumpClimbableBase=22.03|Increment=0.34}}
+
+{{NewHeader-Dynamic|text=Towers Assigned with [[File:DoesNotComputeNew.png|30px]] <span style="background: linear-gradient(#670000, #550000);background-clip: text; -webkit-background-clip: text;color: transparent;text-shadow:0px 0px 3px #E92828, 0px 0px 5px #B94848;font-weight: bold;">Does Not Compute</span> Difficulty}}
+===Non-Fictional===
+* [[Tower of Dear JJT]] (ToDJ)
+* Box of Mid Air Corner Flippin' (BoMACF)
+* [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Pillar of Computational Overload] (PoCO)
+* [https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 45: Does Not Compute] (R45:DNC)
+===Fictional=== 
+* [[Citadel of Corrupting and Reviving]] (CoCaR
+* [[Obelisk of Universal Corruption]] (CoUC)
+* ?????
+
+{{NewHeader-Dynamic|text=Moving on...}}
+Woah, you're actually '''very''' good. Well it is probaly not a surprise by now since you (probaly) managed to beat [[File:BuildingNew.png|30px]] [[Building]] and [[File:Under construction detailed.png|30px]] [[Under Construction]] before this, you've literally surpassed [[Malevolent|the limit of human capabilities]] before so it would be inevitable that this difficulty would be dethroned by you. I don't really have anything else to say, just move onto [[File:New epsilon .PNG|30x30px]] [[Exile]] already. Good luck on your journey to beat [[Supreme|the absolute limit of physical possibilities]].
+{{DifficultiesNavbox}}
+[[Category:Class 5]]
+[[Category:Difficulties]]
+[[Category:Revamped Difficulty]]
+[[Category:Unofficial Difficulty]]
+[[Category:Humanly Impossible]]

@@ -1,0 +1,230 @@
+<div style="background:#00000022;padding:1em;border-left:15px solid #2b281d">
+<center><font size="5">« [[File:Hhhhhhhhhhhh.png|40px]] [[Aleph-VSC]] | [[File:Tt.PNG|40px]] '''Misery''' |  [[File:Mysterious2.png|40px]] [[Mysterious]] »</font></center><br>
+<div style="--theme-accent-color:-webkit-linear-gradient(195deg,#d6d6d4,#8b8b86,#2b281d,#67665a,#4b4534)">{{NoticeScrollboxNew|Notices={{Physically Impossible}}
+{{Large Page}}
+{{Classic}}}}<br>{{JToHW Quote|text=Foolish player. You are a bane to us difficulties. I have been watching your appalling progress for centuries. I will end the existence of You. I sincerely hope not one part of you survives.|quoter=The Creator of Misery}}{{NewDifficultyInfobox|gradient=195deg,#d6d6d4,#8b8b86,#2b281d,#67665a,#4b4534|image1=Tt.PNG|caption1=oh the misery, everybody wants to be my enemy|class=[[:Category:Class 9|Baseline Class 9]]|previous=[[File:Hhhhhhhhhhhh.png|30px]] [[Aleph-VSC]]
+(92)|next=[[File:Mysterious2.png|30px]] [[Mysterious]]
+(94)|decal_id=*Current: 6705452472
+*Previous: N/A
+*Unnoficial: 8799501732|creator(s)=<big>[[User:MSNiiX|MSNiiX]]</big>|full_name=|date_added=Created: Around 29/09/2020
+Page Creation: 23/01/2022|hex_color=|title1=<big><big>Misery</big></big>|type=[[:Category:Physically Impossible|Physically Impossible]]|rating=93|class_range=Baseline - Peak|short_name=4D|official_music(s)=[https://www.youtube.com/watch?v=wGZPOyfDtJ0 Exyl and Creo - Cosmic War]|original_type=|revamp_date=*First: 06/02/2022
+*Second: 29/03/2023|prior_previous=*[[FILE:A Complete Joke.png|30px]] A Complete Joke
+*[[FILE:Untitled.jpg|30px]] Eat Grass
+*[[FILE:Question.jpg|30px]] Questionable
+*[[FILE:WOWSCARY.jpg|30px]] Scary
+*[[FILE:Erratic.jpg|30px]] Erratic
+*[[FILE:Bearthe2.jpg|30px]] Unbearable|prior_next=*[[FILE:Jevil car.jpg|30px]] Jevil Car
+*[[FILE:Screenshot (113).png|30px]] Ta Mort Attend
+**[[FILE:Zerok.png|30px]] Zerok (Sub-difficulty)
+*[[FILE:TRUE HELL.png|30px]] TRUE HELL
+*[[FILE:Cataclysmicreal.jpg|30px]] Cataclysmic
+*[[FILE:Jschirtzer Death.png|30px]] Jschirtzer Death
+*[[FILE:OmniscientDiff.png|30px]] [[Omniscent]]|difficulty_range=Baseline|original_class=[[:Category:Class 15|Class 15]]|previous_class(es)=[[:Category:Class 13|High Class 13]]|date_removed=20/09/2021|rgb_color=|alt_previous=|revival_date=}}
+
+== Introduction ==
+
+=== What is ''{{PAGENAME}}''? ===
+<big>[[File:Tt.PNG|frameless|40x40px]] <span style="background:linear-gradient(195deg,#d6d6d4,#8b8b86,#2b281d,#67665a,#4b4534); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Misery'''</span></big> is a Baseline Class 9 (formerly Class 13, Class 9) difficulty in the ''[[Extended Difficulty Chart]]'', currently ranked 93. The difficulty is classified as ''[[:Category:Physically Impossible|Physically Impossible]]'', which as you've already heard before, you cannot use TAS at any circumstance, nor you can complete yourself since it is physically impossible as the category suggests. Let alone that this difficulty is twice as harder as the previous classes. This difficulty is located between [[File:Hhhhhhhhhhhh.png|frameless|30x30px]] [[Aleph-VSC]] (92) and [[File:Mysterious2.png|frameless|30x30px]] [[Mysterious]] (94) - a difficulty that will begin a chain with its 3 difficulties on the chain, called ''[[:Category:Liminality Chain|Liminality Chain]]'' - while you're trying to make progress on this difficulty, you must know that it has a chance that you could be in a disadvantage, that is according here, owning a ''"BAD SETUP",'' would lead you into a Nintendo DS Setup, just like the icon of this difficulty. THEORETICALLY it is possible to beat on a Nintendo DS but it is highly impossible due to its category. You must be aware that you need to get through this difficulty otherwise you would end up restarting once again, except for classes such as Negative, -1 and 0, they are classified as ''[[:Category:Humanly Possible|Humanly Possible]]'', which they are 100% possible, why would it have disadvantages?
+
+In Tiers, <big>[[File:Tt.PNG|frameless|30x30px]]</big> <span style="background:linear-gradient(195deg,#d6d6d4,#8b8b86,#2b281d,#67665a,#4b4534); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Misery'''</span> in ''[[Metris|Kol Metris]],'' it's rating is |1500|.
+
+=== Icon Representation ===
+{| class="article-table"
+!'''''Name'''''
+!'''''Icon'''''
+!'''''Description'''''
+|-
+|'''Current Icon'''
+|[[File:Tt.PNG|frameless|300x300px]]
+|The current icon is represented by an empty bedroom, with nothing inside the bedroom but onlya Purple Nintendo 3DS on the ground while the day shines bright from the window. It's unsure what's displayed on the Nintendo 3DS.
+The icon has been published by [[User:MinorsuperninjaII|MinorsuperninjaII]], also known as [[User:MSNiiX|MSNiiX]].
+|-
+|'''Previous Icon'''
+|[[File:OLDworld.jpg|frameless|300x300px]]
+|The previous icon is represented by a likely garden or a park with two wooden chairs in the middle of the darken trees trees. The image gives a slightly fog on the area. According to [[User:TheGonerWikiCreator26|TheGonerWikiCreator26]]: ''It is used to represent Misery. Since it's Mythical now, The Icon is bigger.''
+The icon has been published by [[User:TheGonerWikiCreator26|TheGonerWikiCreator26]].
+|-
+|'''Unofficial Icon'''
+|[[File:New Misery Icon.png|frameless|300x300px]]
+|The unofficial icon is represented by a similiar Nintendo 3DS purple, just like the official icon, with a dark purple to black gradient background. The Nintendo 3DS displays the words "''MISERY''" AND "''GAME OVER''".
+This icon has been made and published by [[User:Jpjusto|Jpjusto]].
+|}
+
+=== Placement ===
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 9'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#629592;color:white" |'''Baseline'''
+|-
+|[[File:Rush.png|50x50px]]
+|[[Rush]]
+|Normal
+|91
+|-
+|[[File:Hhhhhhhhhhhh.png|50x50px]]
+|[[Aleph-VSC]]
+|Normal
+|92
+|-
+|[[File:Tt.PNG|frameless|50x50px]]
+|'''<big>Misery</big>'''
+|Normal
+|93
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Liminality Chain (Low)'''
+|-
+|[[File:Mysterious2.png|50x50px]]
+|[[Mysterious]]
+|Liminality Chain
+|94
+|-
+|[[File:Undocumented.png|50x50px]]
+|[[Undocumented]]
+|Liminality Chain
+|95
+|-
+|[[File:Liminesque.png|51x51px]]
+|[[Denial]]
+|Liminality Chain
+|96
+|}
+
+== Towers ==
+
+* ToNW - ''Tower of Never Winning'' (Graved)
+* [[Tower of Vantage Point|ToVP]] - [[Tower of Vantage Point]]
+* ToEM - ''Tower of Eternal Misery'' (Fictional)
+
+== Obstacles ==
+{| class="fandom-table"
+|+Obstacle table
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+! style="background-color: #C800FF; " |'''<font color="#7d007d">Skyline</font>'''
+! style="background-color: #9000ff; " |'''<font color="#7100ad">Peripheral</font>'''
+|-
+|Climbable Jumps
+| style="background-color: #005980;" |2100 studs
+| style="background-color: #014500;" |2220 studs
+| style="background-color: #336000;" |2300 studs
+| style="background-color: #6d5c00;" |2345 studs
+| style="background-color: #964a00;" |2400 studs
+| style="background-color: #5a0000;" |2570 studs
+| style="background-color: #550055;" |2620 studs
+| style="background-color: #50006C;" |2650 studs
+| style="background-color: #4a0082;" |2700 studs
+|-
+|Unclimbable Jumps
+| style="background-color: #005980;" |2000 studs
+| style="background-color: #014500;" |2100 studs
+| style="background-color: #336000;" |2230 studs
+| style="background-color: #6d5c00;" |2300 studs
+| style="background-color: #964a00;" |2410 studs
+| style="background-color: #5a0000;" |2470 studs
+| style="background-color: #550055;" |2500 studs
+| style="background-color: #50006C;" |2535 studs
+| style="background-color: #4a0082;" |2600 studs
+|-
+|Climbable Wraparounds
+| style="background-color: #005980;" |1950 studs
+| style="background-color: #014500;" |2000 studs
+| style="background-color: #336000;" |2100 studs
+| style="background-color: #6d5c00;" |2200 studs
+| style="background-color: #964a00;" |2300 studs
+| style="background-color: #5a0000;" |2345 studs
+| style="background-color: #550055;" |2480 studs
+| style="background-color: #50006C;" |2500 studs
+| style="background-color: #4a0082;" |2550 studs
+|-
+|Unclimbable Wraparounds
+| style="background-color: #005980;" |1900 studs
+| style="background-color: #014500;" |1950 studs
+| style="background-color: #336000;" |2050 studs
+| style="background-color: #6d5c00;" |2100 studs
+| style="background-color: #964a00;" |2270 studs
+| style="background-color: #5a0000;" |2350 studs
+| style="background-color: #550055;" |2400 studs
+| style="background-color: #50006C;" |2450 studs
+| style="background-color: #4a0082;" |2500 studs
+|-
+|Stick-outs
+| style="background-color: #005980;" |1800 studs
+| style="background-color: #014500;" |1900 studs
+| style="background-color: #336000;" |2000 studs
+| style="background-color: #6d5c00;" |2100 studs
+| style="background-color: #964a00;" |2200 studs
+| style="background-color: #5a0000;" |2275 studs
+| style="background-color: #550055;" |2290 studs
+| style="background-color: #50006C;" |2300 studs
+| style="background-color: #4a0082;" |2400 studs
+|-
+|Cylinder Wraparounds
+| style="background-color: #005980;" |1775 studs
+| style="background-color: #014500;" |1800 studs
+| style="background-color: #336000;" |1850 studs
+| style="background-color: #6d5c00;" |1900 studs
+| style="background-color: #964a00;" |2000 studs
+| style="background-color: #5a0000;" |2100 studs
+| style="background-color: #550055;" |2200 studs
+| style="background-color: #50006C;" |2300 studs
+| style="background-color: #4a0082;" |2370 studs
+|-
+|Climbable Walkaround
+| style="background-color: #005980;" |1750 studs
+| style="background-color: #014500;" |1800 studs
+| style="background-color: #336000;" |1835 studs
+| style="background-color: #6d5c00;" |1890 studs
+| style="background-color: #964a00;" |1945 studs
+| style="background-color: #5a0000;" |2050 studs
+| style="background-color: #550055;" |2120 studs
+| style="background-color: #50006C;" |2290 studs
+| style="background-color: #4a0082;" |2350 studs
+|-
+|Unclimbable Walkaround
+| style="background-color: #005980;" |1700 studs
+| style="background-color: #014500;" |1800 studs
+| style="background-color: #336000;" |1820 studs
+| style="background-color: #6d5c00;" |1870 studs
+| style="background-color: #964a00;" |1935 studs
+| style="background-color: #5a0000;" |2020 studs
+| style="background-color: #550055;" |2100 studs
+| style="background-color: #50006C;" |2200 studs
+| style="background-color: #4a0082;" |2300 studs
+|}
+----
+
+=== Misc. Obstacles ===
+
+* Beat [[The Crystal Core]] within 10 seconds.
+* High jump up a Great Citadel.
+* Do a mid-air laugh clip twice but while dodging the spinner from [[Dilly Impossible]].
+* Do 3 2500 unclimable wraparounds, but your speed decreases by 1% every jump you do.
+* Beat [[Dilly Impossible]] while every obstacle has been buffed to its limit.
+* Beat ''OoTRIDC'' buffed to High-Peak [[Misery]].
+
+== Trivia ==
+
+* The origin of the official icon comes from a reddit post, it's not 100% confirmed but that's one source for the icon's origin.
+** [https://www.reddit.com/r/Gamingcirclejerk/comments/ibi5ro/bought_my_first_house_at_the_beginning_of_the/ Here].
+* This difficulty is speculated to be a classic difficulty since the icon's publish date is around september 2020, but the page creation's date is lost media.
+** Originally, this page was re-created on 2021 but it's unsure if this was the official page creation date.
+* An idea for a April Fools change for this page would be turning this to the ''Enemy'' song by ''Imagine Dragons''.
+** ''oh the misery'' ''everybody wants to be my enemy'' ''spare the sympathy'' ''everybody wants to be, my enemy''
+*** Another fun fact is that, some comments on this page is people singing that exact song.
+{{DifficultiesNavbox}}
+[[Category:Class 9]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Physically Impossible]]
+[[Category:Large Pages]]

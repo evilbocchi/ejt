@@ -1,0 +1,293 @@
+{{DISPLAYTITLE:<span id="thetavoid">Theta-Void</span>}}
+{{CSS|content=<nowiki>
+/* Fonts used */
+/** Lexend Deca — Difficulty Name font **/
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
+#thetavoid {
+    font-family: 'Lexend Deca';
+    font-weight: bold;
+    color: #FFF;
+    text-shadow: 0 0 0.2em #FFF7, -0.1em 0 #F66, 0.1em 0 #F6F, 0 0 0.5em #000
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Large Page}}}}
+{{NewDifficultyInfobox|image1=ThetaVoidRevamp.png{{!}}Current
+ThetaVoidOldIcon.png{{!}}Old
+ThetaVoid2ndOldIcon.png{{!}}Older|title1=<big><big><span id="thetavoid">Theta-Void</span></big></big>|caption1=The Theta-Void greets you into its abyss.|class=Class 6|type=Chain Difficulty|previous=[[File:Xi-Alpha Icon.png|25px]] [[Xi-Alpha]]|next=[[File:SquareSupreme.png|45px]] [[Supreme]]|class_range=Peak Class 6|difficulty_range=Baseline to Peak|chain(s)=Mike's Difficulty Chart|creator(s)=* [[User:Sanjay2133|Sanjay2133]] (Revamper)
+* [[User:HorizonOfSingularities|HorizonOfSingularities]] (Creator)|decal_id=[https://create.roblox.com/store/asset/132481761428043/ThetaVoid 132481761428043] (Current)|date_added=Sep. 24, 2020|date_removed=Dec. 14, 2022|removal_reason=It was almost going to be removed due to it being low quality.|revamp_date=Dec. 14, 2022|alt_next=[[File:New Ultimaniac Icon.png|25px]] [[Ultimaniac]]|sub_difficulty(ies)=[[File:New Ultimaniac Icon.png|25px]] [[Ultimaniac]]|rating=59|alt_previous=[[File:Ÿ revamp icon.png|25px]] [[ÿ]]|original_official_music=[https://soundcloud.com/swapfell-i-hate-you/46-red-trail Red Trail] (Part 1 // Inside)
+[https://soundcloud.com/swapfell-i-hate-you/05-magia-infinita MagiA InfinitA] (Part 2 // Outside)
+ [https://www.youtube.com/watch?v=YIklKscfj20 TRIAL OF THE INSANE] (Part 3 // The Obligatory Boss Battle)}}
+==What is [[File:Theta-Void.png|35px]] <span id="thetavoid">Theta-Void</span>?==
+[[File:ThetaVoidRevamp.png|25px]] <span id="thetavoid">Theta-Void</span> is a Class 6 difficulty and also is the penultimate difficulty of [[:Category:Mike's Difficulty Chart Chain|Mike's difficulty chart]], preceding [[File:New Ultimaniac Icon.png|25px]] [[Ultimaniac]]. It also lies after another difficulty in Mike's difficulty chart, [[File:Ÿ revamp icon.png|25px]] [[ÿ|ÿ]]. It is TAS impossible, meaning that [[File:ThetaVoidRevamp.png|25px]] <span id="thetavoid">Theta-Void</span> is impossible even with a TAS.
+
+[[File:ThetaVoidRevamp.png|25px]] <span id="thetavoid">Theta-Void</span><nowiki/>'s name originates from the theta symbol from the Greek alphabet ('''Θ''') and the word "Void". This signifies the fact that this difficulty is quite impossible, like the endless void
+
+If one tried to beat a difficulty of this magnitude, it would require immense skill that no obbyist has and an incredible amount of luck. However, difficulties succeeding this difficulty would require even more skill and even more luck, such as [[File:New Ultimaniac Icon.png|25px]] [[Ultimaniac]].
+
+The difficulty in tiers would be around 59, due to there not being any defined tiers around this difficulty and the nature of tiers being quite confusing. It would also land a Kol Metris rating of |592+| due to its placement.
+
+==Icon Representation==
+{| class="fandom-table mw-collapsible mw-collapsed" style="width: 100%; text-align: center; line-height: 1.6"
+!colspan="3"|<big><big>Icon Representation</big></big>
+|-
+!colspan="2"|<big>Icon, Version and Date</big>
+!<big>Description</big>
+|-
+|Current
+|November<br>2nd, 2024
+|rowspan="2"|This icon was created by [[User:Sushislushwiki|Sushislushwiki]], and is a reimagination of this difficulty's previous icons. In the center is a glowing white lowercase Greek letter theta (θ), with light red and purple pixelated aberrations on the left and right respectively, with both aberrations given a glow effect and sheered across horizontal lines. Below the symbol in the center is a black circular hole to the void with a subtly-glowing off-white red outline and a red pixelated upward-facing glow with various red pixelated particulates strewn around moving upwards. The background is deep purple with an abstract isometric pattern that fades to a solid deep purple at the edges of the icon. And, surrounding the icon is a light red pixelated border with decorated corners with a subtle inward-facing glow. Thanks Slush :P
+|-
+|colspan="2" style="padding: 2px"|[[File:Theta-Void.png|250px]]
+|-
+|Old
+|July<br>24th, 2024
+|rowspan="2"|This icon was created by [[User:Bruhshard1|Bruhshard1]], and is the same as the 'Older' icon with the symbol fixed to appear as a θ. Thanks Frantic :D
+|-
+|colspan="2" style="padding: 2px"|[[File:Theta-VoidOldIcon.png|250px]]
+|-
+|Older
+|August<br>18th, 2021
+|rowspan="2"|This icon was created by [[User:HorizonOfSingularities|HorizonOfSingularities]], and features a pure red placeholder box in the center. Below the symbol in the center is some red text in MS Comic Sans with some noticeable letter spacing that reads "Stop trying". And, the background is a simple top-to-bottom black-to-pure red gradient.
+|-
+|colspan="2" style="padding: 2px"|[[File:Theta-Void2ndOldIcon.png|250px]]
+|-
+|Original
+|August<br>15th, 2020
+|rowspan="2"|This icon was created by [[User:HorizonOfSingularities|HorizonOfSingularities]], with the icon having an irregular aspect ratio. Off-center is a red θ with a curly middle line. The background is a dark red Roblox skybox. The details in the bottom-left corner are unknown.
+|-
+|colspan="2" style="padding: 2px"|[[File:RobloxScreenShot20200924 131542364.png|250px]]
+|}
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=28.96|Increment=0.0525}}
+
+==Recommendations==
+
+* '''Bold = TAS'''
+* WS = WalkSpeed
+* JP = Jumppower
+
+{| class="fandom-table"
+|+Recommended Attributes
+!WSectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>''' 
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Wraparounds
+| style="background-color: #014500;" |100 JP
+'''90 JP'''
+| style="background-color: #336000;" |101.1 JP
+'''91 JP'''
+| style="background-color: #6d5c00;" |102.2 JP
+'''92 JP'''
+| style="background-color: #964a00;" |103.3 JP
+'''93 JP'''
+| style="background-color: #5a0000;" | 104.4 JP
+'''94 JP'''
+|-
+|Unclimbable Long Jump (WS)
+| style="background-color: #014500;" |30 WS
+'''27 WS'''
+| style="background-color: #336000;" |30.3 WS
+'''27.25 WS'''
+| style="background-color: #6d5c00;" |30.6 WS
+'''27.5 WS'''
+| style="background-color: #964a00;" |30.9 WS
+'''27.75 WS'''
+| style="background-color: #5a0000;" |31.2 WS
+'''28 WS'''
+|-
+|Unclimbable Long Jump (JP)
+| style="background-color: #014500;" |90 JP
+'''85 JP'''
+| style="background-color: #336000;" |90.9 JP
+'''85.8 JP'''
+| style="background-color: #6d5c00;" |91.8 JP
+'''86.6 JP'''
+| style="background-color: #964a00;" |92.7 JP
+'''87.4 JP'''
+| style="background-color: #5a0000;" |93.6 JP
+'''88.2 JP'''
+|-
+|Climbable Long Jump (WS)
+| style="background-color: #014500;" |28.5 WS
+'''26 WS'''
+| style="background-color: #336000;" | 28.8 WS
+'''26.3 WS''' 
+| style="background-color: #6d5c00;" |29.1 WS
+'''26.6 WS'''
+| style="background-color: #964a00;" |29.4 WS
+'''26.9 WS'''
+| style="background-color: #5a0000;" |29.7 WS
+'''27.2 WS'''
+|-
+| Climbable Long Jump (JP)
+| style="background-color: #014500;" |90 JP
+'''85 JP'''
+| style="background-color: #336000;" |91 JP
+'''86 JP'''
+| style="background-color: #6d5c00;" | 92 JP
+'''87 JP'''
+| style="background-color: #964a00;" |93 JP
+'''88 JP'''
+| style="background-color: #5a0000;" | 94 JP
+'''89 JP'''
+|-
+|Stickout Wraparounds
+| style="background-color: #014500;" | 95 JP
+'''87.5 JP'''
+| style="background-color: #336000;" |95.5 JP
+'''88 JP'''
+| style="background-color: #6d5c00;" |96 JP
+'''88.5 JP'''
+| style="background-color: #964a00;" |96.5 JP
+'''89 JP'''
+| style="background-color: #5a0000;" |97 JP
+'''89.5 JP'''
+|-
+|Cylinder Wraparounds
+| style="background-color: #014500;" |100 JP
+'''95 JP'''
+| style="background-color: #336000;" |100.5 JP
+'''95.5 JP'''
+| style="background-color: #6d5c00;" |101 JP
+'''96 JP'''
+| style="background-color: #964a00;" |101.5 JP
+'''96.5 JP''' 
+| style="background-color: #5a0000;" |102 JP
+'''97 JP'''
+|-
+|Raised Wraparounds (1)
+| style="background-color: #014500;" | 95 JP
+'''87.5 JP'''
+| style="background-color: #336000;" |96 JP
+'''88.5 JP'''
+| style="background-color: #6d5c00;" |97 JP
+'''89.5 JP''' 
+| style="background-color: #964a00;" |98 JP
+'''90.5 JP'''
+| style="background-color: #5a0000;" |99 JP
+'''91.5 JP'''
+|-
+|Raised Wraparounds (2)
+| style="background-color: #014500;" |100 JP
+'''94 JP'''
+| style="background-color: #336000;" |101.25 JP
+'''95 JP'''
+| style="background-color: #6d5c00;" |102.5 JP
+'''96 JP'''
+| style="background-color: #964a00;" |103.75 JP
+'''97 JP'''
+| style="background-color: #5a0000;" |105 JP
+'''98 JP'''
+|-
+|Truss Long Jump (WS)
+| style="background-color: #014500;" |27 WS
+'''25 WS'''
+| style="background-color: #336000;" | 27.4 WS
+'''25.3 WS'''
+| style="background-color: #6d5c00;" |27.8 WS
+'''25.6 WS'''
+| style="background-color: #964a00;" |28.2 WS
+'''25.9 WS'''
+| style="background-color: #5a0000;" |28.6 WS
+'''26.2 WS'''
+|-
+| Truss Long Jump (JP)
+| style="background-color: #014500;" |85 JP
+'''80 JP'''
+| style="background-color: #336000;" |85.5 JP
+'''80.5 JP'''
+| style="background-color: #6d5c00;" |86 JP
+'''81 JP'''
+| style="background-color: #964a00;" | 86.5 JP
+'''81.5 JP'''
+| style="background-color: #5a0000;" |87 JP
+'''82 WS'''
+|-
+|Wallhop Wraparound
+| style="background-color: #014500;" | 110 JP
+'''105 JP'''
+| style="background-color: #336000;" |111 JP
+'''106 JP'''
+| style="background-color: #6d5c00;" |112 JP
+'''107 JP'''
+| style="background-color: #964a00;" |113 JP
+'''108 JP'''
+| style="background-color: #5a0000;" |114 JP
+'''109 JP'''
+|-
+| Wallhop Stick Out
+| style="background-color: #014500;" |110 JP
+'''100 JP'''
+| style="background-color: #336000;" |112 JP
+'''101.5 JP'''
+| style="background-color: #6d5c00;" |114 JP
+'''103 JP'''
+| style="background-color: #964a00;" |116 JP
+'''104.5 JP'''
+| style="background-color: #5a0000;" |118 JP
+'''106 JP'''
+|-
+|Wallwalk Wraparound
+| style="background-color: #014500;" | 32 WS
+'''30 WS'''
+| style="background-color: #336000;" |32.5 WS
+'''30.5 WS'''
+| style="background-color: #6d5c00;" | 33 WS
+'''31 WS'''
+| style="background-color: #964a00;" | 33.5 WS
+'''31.5 WS'''
+| style="background-color: #5a0000;" | 34 WS
+'''32 WS'''
+|-
+|Climbable Walkaround
+| style="background-color: #014500;" | 40 WS
+'''38 WS'''
+| style="background-color: #336000;" |40.5 WS
+'''38.5 WS'''
+| style="background-color: #6d5c00;" |41 WS
+'''39 WS'''
+| style="background-color: #964a00;" |41.5 WS
+'''39.5 WS'''
+| style="background-color: #5a0000;" |42 WS
+'''40 WS'''
+|-
+|Unclimbable Walkaround
+| style="background-color: #014500;" | 40 WS
+'''38 WS'''
+| style="background-color: #336000;" |40.5 WS
+'''38.5 WS'''
+| style="background-color: #6d5c00;" |41 WS
+'''39 WS'''
+| style="background-color: #964a00;" |41.5 WS
+'''39.5 WS'''
+| style="background-color: #5a0000;" |42 WS
+'''40 WS'''
+|}
+==Towers of this difficulty==
+===Towers in this difficulty===
+*Tower of Theta'd Pain (ToTP) (Fictional)
+*Citadel of Newer Grills (CoNG) (Fictional)
+*gjsghsjgsdgjksgskdgsdkhgjk Tower (gT) (Fictional)
+===Towers with this difficulty === 
+*Monolith of Completely Endless Difficulties (Floor 697)
+*[[Monolith of Beyond Immeasurable Difficulty Chart]] (Floor 107)
+*Obelisk of Hellish Death (Floor 24)
+*[[Great Citadel of Infinity Ascending]] (Floor 107)
+*''Great Citadel of Soul Crushing Difficulty Chart'' (Unknown Floor)
+* [[Monolith of Deadly Difficulties Approaching]] (Unknown Floor, because of the frame is done only to Effortlessless.)
+==Continuing On From This Point==
+Congratulations! You've beaten [[File:ThetaVoidRevamp.png|25px]] <span id="thetavoid">Theta-Void</span>. Now, you can move onto C6's class finale [[File:SquareSupreme.png|30px]], [[Supreme]], or do this difficulty's sub-difficulty [[File:New Ultimaniac Icon.png|25px]] [[Ultimaniac]].
+
+Either way, you've surpassed the Theta Void. Your skill is nothing short of awe-inspiring.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 6]]
+[[Category:Difficulty]]
+[[Category:Mike's Difficulty Chart Chain]]
+[[Category:Humanly Impossible]]
+[[Category:Large Pages]]

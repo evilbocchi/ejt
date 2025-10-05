@@ -1,0 +1,53 @@
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Revamp}}{{Class Finale}}}}<div style = "--theme-accent-color:-webkit-linear-gradient(#AAAAAA, #780000)">{{NewDifficultyInfobox|title1 = <span style = "background:-webkit-linear-gradient(red, black); -webkit-text-fill-color:transparent; -webkit-background-clip:text">Critical</span>|image1 = [[File:Critical.png]]|caption1 = Please, just stop already.|class = 5 (Post-Red Zone)|type = Normal|previous = [[File:Simply Beyond.jpg|30px|link=Simply Beyond]] [[Simply Beyond]]|next = [[File:Winter New.png|30px|link=Winter]] [[Winter]]|official_music(s) = [https://www.youtube.com/watch?v=tYGWAH8p5a4 Waterflame - Stalker]|creator(s) = SodafizzIGuess|date_added = 7/8/2022|rating=45|decal_id=New: 15113573104, Old: 17256072340|alt_previous=[[File:Inferior difficulty.PNG|30px]] [[Ultra]]}}</div>
+==What is '''[[Critical]]'''?==
+'''[[Critical]]''' is a class 5 difficulty sandwiched between [[File:Simply Beyond.jpg|30px|link=Simply Beyond]] [[Simply Beyond]] and [[File:Winter New.png|30px|link=Winter]] [[Winter]]. Attempting this difficulty is highly unrecommended, as it can be very difficult to even understand obstacles, and it's several orders of magnitude harder to complete such obstacles legitimately.
+
+Obstacles of this difficulty are usually several smaller obstacles pieced together with no room in-between to take a break at, plus several frame perfects at framerates higher than preset framerates offered by standard Roblox FPS unlockers, with no-cap options being your only chance plus a very high-end device. However, with TAS, you could potentially render each frame with a small time increment at a very slowed-down pace, given that your TAS actually has these tools for high framerate gameplay.
+
+==<span style="background:-webkit-linear-gradient(#000000, #FF0000); -webkit-text-fill-color:transparent; -webkit-background-clip:text">Icon Representation</span>==
+{| class="fandom-table"
+|+ Icon Representation
+!Icon
+!Description
+! Data added
+|-
+|<center><font size="5">'''Current'''</font></center>
+[[File:Critical.png|200x200px]]
+| Current icon contains 5 dark red exclamation marks on center, laying on gray and crimson gradient
+|21/09/23
+|-
+|<center><font size="5">'''Previous'''</font></center>
+[[File:Old Critical.png|200x200px]]
+|Old icon has 5 exclamation marks have a dark red and red gradient, also gradient on background are darker
+|07/07/22
+|}
+
+==<span style="background:-webkit-linear-gradient(#000000, #FF0000); -webkit-text-fill-color:transparent; -webkit-background-clip:text">Obstacles</span>==
+
+''UNDERGOING REVAMP''
+==<span style="background:-webkit-linear-gradient(#000000, #FF0000); -webkit-text-fill-color:transparent; -webkit-background-clip:text">Trivia</span>== 
+
+*The old icon was made using wikitext.
+**The source code for the wikitext icon is:<br />''<code><div style = "height:100px; width:100px; background:-webkit-linear-gradient(#404040, #800000)"><div style = "height:100px; width:100px; background:-webkit-linear-gradient(transparent, #000000)"><div style = "height:100px; width:100px; background:-webkit-linear-gradient(#000000, #FF0000); -webkit-text-fill-color:transparent; -webkit-background-clip:text; text-align:center; font-size:55px; font-family:a">!!!!!</div></div></div></code>''
+* This was the first difficulty to use the shadow dialogue box.
+* As brushard1 says, this difficulty was supporsed to be diffcult's sub-difficulty<ref>https://jtohs-joke-towers.fandom.com/wiki/Critical?commentId=4400000000000100265</ref>
+
+==Continuing from this point==
+
+{{Key/Expand|invert = yes|id = SplitPath|text = Just head to [[File:Winter New.png|30px|link=Winter]] [[Winter]] already, you're most definitely not human anyways. Hopefully your journey ends soon at Supreme.}}
+
+== Gallery ==
+<gallery>
+File:CriticalEnyara.png|Alternate icon made by [[User:Enyara69|Enyara]].
+</gallery>{{Key/Expand|id = SplitPath|text = {{Key/Button|id = LeftDialogueButtons|button = Click here to move buttons to the left.}}
+{{Key/Expand|invert = yes|id = Dialogue1|text =
+{{Shadow Dialogue Box|image = Player.png|name = {{USERNAME}}|text = What is this secret path? This isn't Class 6...|option1 = continue|id1 = Dialogue1}}}}
+{{Key/Expand|id = Dialogue1|text =
+{{Shadow Dialogue Box|image = Player.png|name = {{USERNAME}}|text = [[Shadow|Wait, where does this portal lead?]]}}}}}}
+{{DifficultiesNavbox}}
+[[Category:Class 5]]
+[[Category:Difficulties]]
+[[Category:Essay pages]]
+[[Category:Humanly Impossible]]
+[[Category:Class Finale Difficulty]]
+[[Category:Class Finale Difficulties]]

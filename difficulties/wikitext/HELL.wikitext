@@ -1,0 +1,34 @@
+__NOTOC__
+{{NewDifficultyInfobox|image1 = <gallery>
+File:HELL.png|Current
+File:HELL2020.png|Old A
+</gallery>|previous = [[DEATH]]|next = [[TARTARUS|<span style="color:#c2dff1">'''TARTARUS'''</span>]]|rating=20|hex_color=<nowiki>#7ab6e9</nowiki>|rgb_color=122, 182, 233}}
+==What is '''<span style="color:#7ab6e9">HELL</span>'''?==
+'''<span style="color:#7ab6e9">HELL</span>''' is a difficulty that is represented by the color light blue, but with text "<code>XD</code>" on it. It is assigned to towers that are harder than '''[[DEATH]]''' difficulty and easier than '''[[TARTARUS|<span style="color:#c2dff1">'''TARTARUS'''</span>]]''' difficulty. 
+
+This is a ''humanly impossible'' difficulty, meaning it is probably impossible for even the most elite of obbyists to do a tower of this magnitude. Most towers in '''<span style="color:#7ab6e9">HELL</span>''' difficulty will utilize jumps that will demotivate/hindrance the player in one way or another. 
+
+To use macros to beat towers in this difficulty, each obstacle must be tested individually with excessive logical and physical calculations. Even beating this with boost items will be absurdly difficult.
+
+==Towers with '''<span style="color:#7ab6e9">HELL</span>''' Difficulty==
+
+*ToTRD - [[Tower of The Roof's Demise]] (Low HELL)
+*ToMS - [[Tower of Monochromatic Symmetry]] (Low-Mid HELL)
+*ToBH - [[Tower of Bullet Hell]] (Mid HELL)
+*ToBDB - [[Tower of Blindingly Dark Bliss]] (Mid HELL)
+*ToCYaN - [[Tower of Corruption, Yelling and Nonsense]] (Peak HELL)
+**
+*
+
+==Trivia==
+
+*Towers here are around the same difficulty as tier 25.
+*This is the third difficulty in a series which some JHT members call the "Heart-Wrenching Difficulties".
+*This is one of the 3 JHT difficulties that have an "<code>XD</code>" used for their icon, the other 2 being '''[[WHY|<span style="color:#000">'''WHY'''</span>]]''' and '''[[TARTARUS|<span style="color:#c2dff1">'''TARTARUS'''</span>]]'''.
+*This difficulty was made by [https://www.roblox.com/users/1710070/profile Bob_9001].
+
+==Continuing from this point==
+Good job, you somehow managed to pass a humanly impossible difficulty. To move on, you can try '''[[TARTARUS|<span style="color:#c2dff1">'''TARTARUS'''</span>]]''' next.
+[[Category:Difficulties]]
+[[Category:HELL]]
+[[Category:Two color icon]]

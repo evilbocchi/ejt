@@ -1,0 +1,130 @@
+{{DISPLAYTITLE:<span id="Catastrophic">'''Catastrophic'''</span>}}__NOEDITSECTION____NOTOC__{{DifficultyTab
+|Catastrophic
+|textcolormain=000
+|difficulty1=Terrifying
+|diffcolor1=01FFFF
+|textcolor1=000
+|noborder1=
+|nopadding1=10
+|difficulty2=Horrific
+|diffcolor2=070002
+|textcolor2=FFF
+|nopadding2=7
+|type=Soul Crushing}}
+{{DifficultyInfobox
+|title1=Catastrophic
+|image1=cataicon.png
+|type=[[Soul Crushing]]
+|previous={{Difficulty|Terrifying}} [[Terrifying|<span id="Terrifying">'''Terrifying'''</span>]]
+|next={{Difficulty|Horrific}} [[Horrific|<span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #AC9AF4, 0px 0px 5px #AC9AF4">'''Horrific</span>]]
+|original_name=Death
+|rbg_color=DC: 155, 155, 155
+Menus: 255, 255, 255
+|hex_color=DC: #FFFFFF
+Menus: #FFFFFF
+|cmyk_color=DC: 0%, 0%, 0%, 39%
+Menus: 0%, 0%, 0%, 0%
+|hsv_color=DC: 0°, 0%, 60%
+Menus: 0°, 0%, 100%
+|hsl_color=DC: 0°, 0%, 61%
+Menus: 0°, 0%, 100%|previous_name=Never Again, Unreal<ref>"[https://discord.com/channels/551741409624064011/551796665598607387/582391075310927873 also after seeing staff + community opinion (and also i find the name good too), Never Again/Unreal will now be renamed to Catastrophic]" - {{PlayerName|Juke}}</ref>}}
+{{Difficulty|Catastrophic|20px}} <span id="Catastrophic">[[Catastrophic]]</span>, originally called <span id="Catastrophic">'''Never Again'''</span>, <span id="Catastrophic">'''Unreal'''</span>, and <span id="Catastrophic">'''Death''',</span> is a [[Soul Crushing]] [[difficulty]] in '''EToH''' that is represented with a white 6-pointed star. It is also the last and the hardest canon soul-crushing difficulty as well as the game's hardest canon difficulty. Win messages for towers that are <span id="Catastrophic">[[Catastrophic]]</span> or a [[Horrific|higher]] [[Unreal|difficulty]] have a different font and larger text. 
+
+Obstacles in these towers are extremely difficult and require proficient skills and practice. The vast majority of towers in this difficulty either rely on punishment or very high raw skill as their main source of difficulty. For example, [[Tower of Cruel Punishment]], at the peak of Catastrophic, is infamous for its outside sections and final stretch, while [[Tower of Champion's Road]] is infamous for its extremely difficult jumps and the halfway net.
+
+Currently, only 8 in-game [[tower]]s (13 towers including non-canon towers and event [[towers]].) are classified as <span id="Catastrophic">[[Catastrophic]]</span>. A ninth tower called [[Sadistically Terrifying Overachieving Neglectful Enragement Facility]] was originally supposed to be in-game but got moved to [[Horrific|<span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #AC9AF4, 0px 0px 5px #AC9AF4">'''Horrific'''</span>]] and was deconfirmed by request from its creator. [[Tower of Overthinking Life Choices]] and [[Was A Tower]] were previously <span id="Catastrophic">[[Catastrophic]]</span>, but they were moved down to <span id="Terrifying">'''Terrifying'''</span>. [[Tower of Getting Gnomed]], [[Tower of Killjoys]], and [[Tower of Inception]] were all moved to <span id="Catastrophic">[[Catastrophic]]</span> as a joke which then got reverted back.{{Header|Towers in this Difficulty}}
+{{Header|Organized by Realm|Sub2}}
+<tabber>
+Ring 7=
+<div align=center><font size=5>{{Emblem|R7}} [[Ring 7]] {{Emblem|R7}}</font></div>
+*ToER - [[Tower of Elongated Runs]] - High-Peak Catastrophic (11.85)
+|-|
+Ring 8=
+<div align=center><font size=5>{{Emblem|R8}} [[Ring 8]] {{Emblem|R8}}</font></div>
+*ToGF - [[Tower of Generation Failure]] -  Bottom-Low Catastrophic (11.17)
+|-|
+Ring 9=
+<div align=center><font size=5>{{Emblem|R9}} [[Ring 9]] {{Emblem|R9}}</font></div>
+*ToAM - [[Tower of Augmented Misery]] - Baseline Catastrophic (11.00)
+*ToCR - [[Tower of Champion's Road]] - High Catastrophic (11.71)
+*ToCP - [[Tower of Cruel Punishment]] - Peak Catastrophic (11.99)
+|-|
+Zone 8=
+<div align=center><font size=5>{{Emblem|Z8}} [[Zone 8]] {{Emblem|Z8}}</font></div>
+*ToDIE - [[Tower of Descent Into Exile]] - Low-Mid Catastrophic (11.36)
+|-|
+Zone 9=
+<div align=center><font size=5>{{Emblem|Z9}} [[Zone 9]] {{Emblem|Z9}}</font></div>
+*ToEMP - [[Tower of Empty Meaningless Patterns]] - Low-Mid Catastrophic (11.42)
+|-|
+Zone 10=
+<div align=center><font size=5>{{Emblem|Z10}} [[Zone 10]] {{Emblem|Z10F}}</font></div>
+*ToRT - [[Tower of Raging Tempest]] - Mid-High Catastrophic (11.64)
+|-|
+Event=
+{{#tag:tabber
+|April Fools 2021=
+<div align=center><font size=5>{{Emblem|AF2021}} [[April Fools 2021]] {{Emblem|AF2021}}</font></div>
+*St - [[Scarey towre]] (Fake Tower)
+*tt - [[tree tower]] (Fake Tower)
+*Tosbw - [[Tower of saying bad word]] (Fake Tower)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*Topp - [[Tower of pro pillars]] - Mid-High Catastrophic (11.66)
+*ToPDoG - [[Tower of Perlin Dreams of Greatness]] - High Catastrophic (11.75)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|April 2025=
+<div align=center><font size=5>April 2025</font></div>
+*ToCOA(M) - [[Tower of Challenging Obstacle Anarchy]] - High-Peak Catastrophic (11.82)
+}}
+|-|
+Pit of Misery= 
+<div align=center><font size=5>{{Emblem|PoM}} [[Pit of Misery]] {{Emblem|PoM}}</font></div>
+*ToVM - [[Tower of Vindictive Maneuvers]] - Bottom Catastrophic (11.04)
+*ToSE - [[Tower of Shunning Excursion]] - Mid-High Catastrophic (11.66)
+</tabber>
+{{Header|Organized by position in the Difficulty Chart|Sub2}}
+<tabber>
+Canon Towers=
+* {{emblem|R9|20px}} ToAM - [[Tower of Augmented Misery]] - Baseline Catastrophic (11.00) {{emblem|R9|20px}}
+* {{emblem|R8|20px}} ToGF - [[Tower of Generation Failure]] - Bottom-Low Catastrophic (11.17) {{emblem|R8|20px}}
+* {{emblem|Z8|20px}} ToDIE - [[Tower of Descent Into Exile]] - Low-Mid Catastrophic (11.36) {{emblem|Z8|20px}}
+* {{emblem|Z9|20px}} ToEMP - [[Tower of Empty Meaningless Patterns]] - Low-Mid Catastrophic (11.42) {{emblem|Z9|20px}}
+* {{emblem|Z10|20px}} ToRT - [[Tower of Raging Tempest]] - Mid-High Catastrophic (11.64) {{emblem|Z10F|20px}}
+* {{emblem|R9|20px}} ToCR - [[Tower of Champion's Road]] - High Catastrophic (11.71) {{emblem|R9|20px}}
+* {{emblem|R7|20px}} ToER - [[Tower of Elongated Runs]] - High-Peak Catastrophic (11.85) {{emblem|R7|20px}}
+* {{emblem|R9|20px}} ToCP - [[Tower of Cruel Punishment]] - Peak Catastrophic (11.99) {{emblem|R9|20px}}
+|-|
+Non-Canon Towers=
+* {{emblem|PoM|20px}} ToVM - [[Tower of Vindictive Maneuvers]] - Bottom Catastrophic (11.04) {{emblem|PoM|20px}}
+* {{emblem|PoM|20px}} ToSE - [[Tower of Shunning Excursion]] - Mid-High Catastrophic (11.66) {{emblem|PoM|20px}}
+|-|
+Monthly Towers=
+* {{emblem|TLT|20px}} ToCOA(M) - [[Tower of Challenging Obstacle Anarchy]] - High-Peak Catastrophic (11.82) {{emblem|R7|20px}}
+|-|
+Event Towers=
+* {{emblem|AF2025|20px}} Topp - [[Tower of pro pillars]] - Mid-High Catastrophic (11.66) {{emblem|AF2025|20px}}
+* {{emblem|AF2025|20px}} ToPDoG - [[Tower of Perlin Dreams of Greatness]] - High Catastrophic (11.75) {{emblem|AF2025|20px}}
+</tabber>
+{{Header|History}}
+*<span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #9691FF, 0px 0px 5px #9691FF">'''[[Horrific]]'''</span> and [[Unreal|<span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #4B00C8, 0px 0px 5px #4B00C8">'''Unreal'''</span>]] were originally planned as the next difficulties, but they were removed from the game, before they were added as non-canon difficulties exclusive to the [[Pit of Misery]]. [[nil|<span id="nil">'''nil'''</span>]] was also planned as the next hardest difficulty, but it was also removed on May 17, 2020.<ref group="lower-alpha">However, {{PlayerName|Gamma}} also stated that a new difficulty harder than <span id="Catastrophic">[[Catastrophic]]</span> might be added if multiple people beat towers around <span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #9691FF, 0px 0px 5px #9691FF">'''Horrific'''</span> difficulty. He also said that if that difficulty is added, its name won't be "Horrific". (Although <span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #9691FF, 0px 0px 5px #9691FF">'''Horrific'''</span> and <span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #4B00C8, 0px 0px 5px #4B00C8">'''Unreal'''</span> are used in the [[Pit of Misery]].)</ref>
+*[[Tower of Generation Failure]] was the very first <span id="Catastrophic">[[Catastrophic]] tower to be beaten fully legitimately.</span> 
+*All {{Difficulty|Easy|20px|name=1}} towers were changed to <span id="Catastrophic">[[Catastrophic]]</span> during [[April Fools 2020]].
+*[[Tower of Astronomically Aimless Annoyances]] was initially classified as <span id="Catastrophic">[[Catastrophic]]</span> and was supposed to be in {{Emblem|R8|20px}} [[Ring 8]], but it couldn't get in due to it surpassing the part limit, despite Tower of Generation Failure having abused the same rule. It was later nerfed to [[Extreme|<span id="Extreme">'''Extreme'''</span>]] and then became [[Zone 4]]'s primary '''SC''' tower. The unnerfed place also got rebalanced to the current version today.
+**The unnerfed version is also considered by some to be the very first Catastrophic difficulty tower beaten, however due to the verification video being privated and the unnerfed version of ToAAA being lost media, it is controversial.
+*Similarly, [[Tower of Alien Radiance]] was also <span id="Catastrophic">[[Catastrophic]]</span> difficulty and was even considered [[Horrific|<span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #9691FF, 0px 0px 5px #9691FF">'''Horrific'''</span>]] difficulty to many, but then it got nerfed somewhere to around Mid-High [[Terrifying|<span id="Terrifying">'''Terrifying'''</span>]], and then moved down to Low-Mid <span id="Terrifying">'''Terrifying'''</span>.
+*Two of the <span id="Catastrophic">[[Catastrophic]]</span> towers were originally classified as <span id="Terrifying">'''Terrifying'''</span>, those towers being [[Tower of Elongated Runs]] and [[Tower of Generation Failure]]. [[Tower of Augmented Misery]] was also first classified as <span id="Terrifying">'''Terrifying'''</span> but was temporarily moved to [[Catastrophic]]. A nerfed version of the tower was added later on, bringing the tower back down to <span id="Terrifying">'''Terrifying'''</span>. Eventually, it was moved back to [[Catastrophic]].
+*[[Tower of Vacant Hindrances]] was moved to <span id="Catastrophic">[[Catastrophic]]</span> during [[April Fools 2024]].
+{{Header|Trivia}}
+*[[Tower of Cruel Punishment]] and [[Tower of Champion's Road]]' <span id="Catastrophic">[[Catastrophic]]</span> colors on their portals are darker than normal.
+*[[Tower of Augmented Misery]] and [[Tower of Vindictive Maneuvers]] are the only towers that were moved to <span id="Catastrophic">[[Catastrophic]]</span> without it being a joke.
+* When [[Tower of Descent Into Exile]] got in-game, half of the canon <span id="Catastrophic">[[Catastrophic]]</span> towers in-game were made, whether in collaborations or by themself, by {{PlayerName|1Khafre}}. However, this is no longer true, though they still have the highest amount of contribution to this difficulty.
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Catastrophic]]
+[[Category:Soul Crushing]]

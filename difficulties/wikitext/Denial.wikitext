@@ -1,0 +1,84 @@
+{{Scrollbox|Notices=
+'''Notices'''
+{{Physically Impossible}}
+----
+}}
+==Introduction==
+{{NewDifficultyInfobox
+|title1=<span style="background:linear-gradient(90deg,orange,white,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Denial'''</span>
+|image1=Liminesque.png
+|class=[[:Category:Class 9|Class 9]]
+|type=* Unofficial Difficulty
+* Physically Impossible
+* [[:Category:Liminality Chain|Liminality Chain]] Difficulty
+|previous=* [[File:Undocumented.png|30px|link=Undocumented]] [[Undocumented]]
+|next=* [[File:AlphaNothing.png|30px|link=Aleph-Something]] [[Aleph-Something]]
+|difficulty_range=Baseline to Peak
+|decal_id=115836808221296
+|class_range=Low (Liminality Chain)
+|rating=96|chain(s)=Liminality Chain|original_class=36 (TDM:R)}}
+<span style="background:linear-gradient(90deg,orange,white,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Denial'''</span> is the final difficulty of the [[:Category:Liminality Chain|Liminality Chain]], with the other 2 in the chain being called [[File:Mysterious2.png|frameless|25x25px]] [[Mysterious]] and [[File:Undocumented.png|25x25px]] [[Undocumented]]. As the name suggests, you are denied from beating this difficulty. It’s that simple.
+
+It also goes between [[File:Undocumented.png|25x25px|link=Undocumented]] [[Undocumented]] and [[File:AlphaNothing.png|25x25px]] [[Aleph-Something]] currently,  due to the fact that The Middleline was moved. <span style="background:linear-gradient(90deg,orange,white,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Denial'''</span> also originated from '''The Difficulty Machine: Revamp''', all the way in Class 36. However, TDM:R has not gotten to class 36, albeit it was approved.
+
+A tier rating for this would be at around 10,000, exponentially harder than the actual limit for tiers, and Kol Metris would be closer to |1500|.
+==Icon Representation==
+'''Denial'''’s icon is represented with an orange background and a dark orange border. There is a black pixel-like X with a smaller, white x in the direct middle. There is a dark orange outer X stretching to the borders, and two circle shaped lines on each of the inner spaces between the sides of the X.
+== Obstacles ==
+=== Baseline '''Denial''' ===
+* 7810 stud jump. (Climbable)
+* 7805 stud jump. (Unclimbable)
+* 7805 stud wrap. (Climbable)
+* 7809 stud wrap. (Unclimbable)
+
+=== Low '''Denial''' ===
+* 8360 stud jump. (Climbable)
+* 8355 stud jump. (Unclimbable)
+* 8355 stud wrap. (Climbable)
+* 8350 stud wrap. (Unclimbable)
+
+=== Middle '''Denial''' ===
+* 8910 stud jump. (Climbable)
+* 8905 stud jump. (Unclimbable)
+* 8905 stud wrap. (Climbable)
+* 8900 stud wrap. (Unclimbable)
+
+=== High '''Denial''' ===
+* 9460 stud jump. (Climbable)
+* 9455 stud jump. (Unclimbable)
+* 9455 stud wrap. (Climbable)
+* 9450 stud wrap. (Unclimbable)
+
+=== Peak '''Denial''' ===
+* 10000  stud jump. (Climbable)
+* 9995 stud jump. (Unclimbable)
+* 9995 stud wrap. (Climbable)
+* 9990  stud wrap. (Unclimbable)
+==Towers==
+
+=== Towers in this difficulty ===
+
+* Obelisk of Denial’s Wrath (OoDW)
+* Tower of Trial and Error (ToTaE)  
+*Spire of Liminesque Liminality (SoLL)  
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Cathedral of Fire Wall] (CaoFW) (QToN Ring 9)
+
+=== Towers with this difficulty ===
+
+* N/A
+
+== Trivia ==
+
+* As said previously, if TDM:R had actually gotten to C36, this would be a Class Post-25/30 difficulty in TDM:R (around C36).
+* This is the replacement for [[File:Soon.png|30px]] [[Hollow]] (which came back).
+
+== Continuing on from this point ==
+After completing <span style="background:linear-gradient(90deg,orange,white,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Denial'''</span>, [[File:AlphaNothing.png|25x25px]] [[Aleph-Something]] is obviously posterior to this and therefore would be the next difficulty you would attempt. 
+{{DifficultiesNavbox}}
+[[Category:Class 9]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Liminality Chain]]
+[[Category:Physically Impossible]]
+ 
+[[Category:Unbuildable]]

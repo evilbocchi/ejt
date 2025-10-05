@@ -1,0 +1,87 @@
+<div style="box-sizing:border-box;padding:1em;border-radius:20px;border:5px solid #868686;overflow:hidden;background:#282828">
+<div style="--theme-accent-color:#868686">
+{{NoticeScrollboxNew|Notices={{JET}}{{Classic}}{{Humanly Possible}}}}
+{{NewDifficultyInfobox|image1=<gallery>
+File:Cat.png|Current
+File:ClimbATruss1.5.png|Alternate
+ClimbATrussAlt2.png|Alternate 2nd
+</gallery>|class=[[:Category:Class 1|1]]|rating=-12|type=[[:Category:JET Difficulties|JET/EET difficulty]], [[:Category:Classic Difficulty|Classic]], [[:Category:Humanly Possible|Humanly possible]]|previous={{Class0Difficulties|Press a Key}} [[Press a Key]]|next=[[File:JumplessResized.PNG|30px]] [[Jumpless]]|alt_previous={{Class0Difficulties|Tap to Move}} [[Tap to Move]]
+[[File:WAS.png|30px]] [[Walk A Slope]]|class_range=<span style="color:#629592">Baseline</span>|difficulty_range=<span style="color:green">Baseline</span> - <span style="color:red">Peak</span>|creator(s)=*[[User:JustAnotherKidLmao|JustAnotherKidLmao]]<sup>JJT creator</sup>
+*[[User:Gabri020g|Gabri020g]]<sup/>revamper|short_name=CAT|date_added=11/23/2020<sup>on JJT</sup>|revamp_date=10/20/2023|hex_color=BG: #868686
+Text: #000000|rgb_color=BG: 134, 134, 134
+Text: 0, 0, 0|cmyk_color=BG: 50, 41, 41, 5
+Text: 75, 68, 67, 90|rgba_color=BG: 134, 134, 134, 1
+Text: 0, 0, 0, 1|previous_type(s)=[[:Category:Classic Difficulty|Classic]]|prior_next=[[File:Heaven.webp|30px]] Heaven|previous_sub_difficulty(ies)=[[File:Heaven.webp|30px]] Heaven|alt_next=[[File:Tranquil2024.png|30px]] [[Tranquil]]|sub_difficulty(ies)=[[File:Tranquil2024.png|30px]] [[Tranquil]]|decal_id=[https://create.roblox.com/store/asset/6382790304/Climb-a-Truss-Difficulty 6382790304]}}</div>
+==Introduction==
+{{Class0Difficulties|Climb A Truss}} <span style="color:#868686; text-shadow:0 0 2px #000">'''{{PAGENAME}}'''</span> (<span style="color:#868686; text-shadow:0 0 2px #000">'''CAT'''</span>) is a baseline [[:Category:Class 1|Class 1]] difficulty<sup>sometimes a sub-difficulty</sup> rated -12 in the [[Main Difficulty Chart]] which follows {{Class0Difficulties|Press a Key}} [[Press a Key]] and its sub-difficulties, {{Class0Difficulties|Tap to Move}} [[Tap to Move]] and {{Class0Difficulties|Walk A Slope}} [[Walk A Slope]], but is placed before {{Class0Difficulties|Jumpless}} [[Jumpless]], as well as its own sub-difficulty, {{Class0Difficulties|Tranquil}} [[Tranquil]]. It is a pretty simple difficulty, as all you need to do is climb a truss. The truss can vary in size, however, and can be anywhere from 4 studs long up to 10K studs long, where you'd have to hold the W key for a while.
+
+==Icon Representation==
+{{IconRepresentationAlternate|image=[[File:Cat.png|50px]]|color=#868686|description=This icon simply displays a gray background with "CAT" as black text on it. It's pretty simple and similar to {{Class0Difficulties|Press a Key}} [[Press a Key]]'s icon.|alt_color=#868686|alt_image=[[File:ClimbATruss1.5.png|50px]]|alt_description=This icon is pretty similar to the current icon; it has a gray background with its foreground being text, "CAT". However, the A in CAT was resized to be smaller, and two trusses were added; one on the bottom left corner, and one on the top right.}}
+
+==Obstacles==
+<tabber>
+|-|Baseline=
+===<span style="color:green">Baseline</span> <span style="color:#868686; text-shadow:0 0 2px #000">'''{{PAGENAME}}'''</span>===
+*You spawn at the bottom of a tower. Everything around you is a truss. Pretty similar to {{Class0Difficulties|Press a Key}} [[Press a Key]].
+|-|Low=
+===<span style="color:#80ff00">Low</span> <span style="color:#868686; text-shadow:0 0 2px #000">'''{{PAGENAME}}'''</span>===
+*In front of you is one truss. Climb it, and you win. It's that easy.
+|-|Mid=
+===<span style="color:yellow">Mid</span> <span style="color:#868686; text-shadow:0 0 2px #000">'''{{PAGENAME}}'''</span>===
+*You spawn at the bottom of a tower... again. This time, instead of trusses all around you, there's a ladder in front of you.
+|-|High=
+===<span style="color:orange">High</span> <span style="color:#868686; text-shadow:0 0 2px #000">'''{{PAGENAME}}'''</span>===
+*Climb a truss that's slanted by 5-10°.
+|-|Peak=
+===<span style="color:red">Peak</span> <span style="color:#868686; text-shadow:0 0 2px #000">'''{{PAGENAME}}'''</span>===
+*Basically <span style="color:orange">high</span> <span style="color:#868686; text-shadow:0 0 2px #000">'''CAT'''</span>. There's a truss slanted by 20°.
+</tabber>
+
+==Towers==
+<tabber>
+|-|In CAT=
+===Towers of this difficulty===
+*[[Great Citadel of Irish]] (GCoI)
+*{{UnclassifiedDifficulties|Epic}} [[w:c:jtoh:tower pf Epc Climbingg|tower pf Epc Climbing]] (tpEC<small>, also [[w:c:jtoh:Epic|Epic]], from EToH [[w:c:jtoh:April Fools 2020|April Fools '20]]</small>)
+*{{UnclassifiedDifficulties|Epic}} [[w:c:jtoh:tower pf Orignl Towrs|tower pf Orignl Towrs]] (tpOT<small>, also [[w:c:jtoh:Epic|Epic]], from EToH [[w:c:jtoh:April Fools 2020|April Fools '20]]</small>)
+*[[Tower of What A Thrill]] (ToWAT)
+*[[Truss Climbing Simulator]] (TCS<small>, TJFD: Ring 0</small>)
+*[https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Citadel of Quick Climbing] (CoQC)
+*[[Tower of Trussed Climb]] (ToTC)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Great Citadel of Great Snake Eaters] (GCoGSE)
+*[https://www.roblox.com/games/130994144609857/RING-2-QToN-XS Polar Opposite of a Great Snake Eaters] (POoaGSE)
+*[https://www.roblox.com/games/8457114449/BIOME-3-Jacks-Tiny-Towers-Of-Hell Tower of Climbing Trusses Is Scary] (ToCTIS)
+|-|With CAT=
+===Towers with this difficulty===
+<small>*uses <span style="color:#868686; text-shadow:0 0 2px #000">'''{{PAGENAME}}'''</span> as a sub-difficulty</small>
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Endless Difficulty Amplifying]]* (OoEDA)
+*[[File:New DI Image.JPG|frameless|30x30px]] [[Great Citadel of Beyond Impossible Difficulties]]* (GCoBID)
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]]* (MoDDA)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Hellish Difficulties]]* (GCoHD)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Custom, Impossible and Normal Difficulties]]* (GCoCIaND)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Hectic Difficulty Ascension]]* (GCoHDA)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Monolith of Every EJT Difficulty]]* (GMoEED)
+</tabber>
+
+==Trivia==
+*This difficulty is sometimes considered a sub-difficulty of {{Class0Difficulties|Press a Key}} [[Press a Key]].
+*Before this difficulty was revamped, this section and the [[Climb A Truss#Icon Representation|Icon Representation]] section didn't exist.
+*This difficulty's revamper made this whole revamp in a couple of hours, with more adjustments later on.
+*<span style="color:#868686; text-shadow:0 0 2px #000">'''{{PAGENAME}}'''</span> is somewhat frequently found in things such as difficulty chart towers.
+==Gallery==
+<gallery>
+File:ClimbATruss1.5.png|An unofficial icon by [[User:Gabri020g|Gabri020g]].
+File:PACAT.png|The <span style="color:#868686; text-shadow:0 0 2px #000">'''CAT'''</span> icon in [[The Pixelation Project]].
+File:Climb a truss shapify project.png|<span style="color:#868686;text-shadow:0 0 2px #000">'''CAT'''</span>'s icon for [[The Shapify Project]].
+File:CATSP.png|Another icon for <span style="color:#868686;text-shadow:0 0 2px #000">'''CAT'''</span> in [[The Shapify Project]].
+File:OOEDA cat floor.PNG|<span style="color:#868686; text-shadow:0 0 2px #000">'''CAT'''</span>'s floor in [[Obelisk of Endless Difficulty Amplifying|OoEDA]].
+File:Caty floor gcohd.PNG|<span style="color:#868686; text-shadow:0 0 2px #000">'''CAT'''</span>'s floor in [[Great Citadel of Hellish Difficulties|GCoHD]].
+File:CATportal GCoHD.png|<span style="color:#868686; text-shadow:0 0 2px #000">'''CAT'''</span>'s portal in [[Great Citadel of Hellish Difficulties|GCoHD]].
+File:ClimbATrussAlt2.png|An unofficial version 2 icon by [[User:Doniabobes|Doniabobes]].
+File:Screenshot 1100.png|alt=Floor ? in GOOED (CaT)|Floor ? in GOOED (CaT)
+</gallery>
+==Continuing from this point==
+Congratulations; you've completed one of the easiest difficulties you'll come across. You can try to complete {{Class0Difficulties|Jumpless}} [[Jumpless]], {{Class0Difficulties|Tranquil}} [[Tranquil]] or skip straight to {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]. Whatever route you pick, good luck.
+{{DifficultiesNavbox}}
+</div>
+[[Category:Difficulties]][[Category:Humanly Possible]][[Category:PaKs]][[Category:Class 1]][[Category:Two color icon]][[Category:Classic Difficulty]][[Category:Starter Zone]]

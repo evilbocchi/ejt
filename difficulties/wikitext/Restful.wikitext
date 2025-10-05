@@ -1,0 +1,209 @@
+<div style="background:#003308;padding:1em;font-family:rubik"><div align="center" style="position:fixed; z-index:-1; top:0; left:0; 8 lmright:0; bottom:0;">[[File:RestfulBackground.jpg|2000px]]</div>
+{{NoticeScrollboxNew|Notices=
+{{Humanly Possible}}
+{{Large Page}}}}
+{{NewDifficultyInfobox|title1=<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(#184a18, forestgreen);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">[[Restful]]</span>|image1=<gallery>
+Restful3.png | Current
+RestfulR.png | Old
+Restful.png | Original
+Restings.png | Alternate
+RestfulAlt2.png | Alternative 2
+</gallery>|class=Class Negative|rating=-50|type=*Humanly Possible
+*Normal|previous=[[File:Skipful.png|30px]] [[Skip]] (-1,000)|next=[[File:Ifinitely-Winsome.png|30px]] [[Ifinity]] (-40)|difficulty_range=High|decal_id=Current: [https://create.roblox.com/marketplace/asset/15097557184/Restful 15097557184]<br>Old: [https://www.roblox.com/library/13968802624/Restful 13968802624]<br>Original: [https://create.roblox.com/store/asset/7923937967/Restful 7923937967]<br>Alternate: [https://create.roblox.com/store/asset/93666391502659/Restful 93666391502659]<br>Alternate 2: [https://create.roblox.com/store/asset/104151065007226/Restful 104151065007226]|creator(s)=ConfusionandTrickery|caption1=zzzzzzzzzz...|alt_names=*Resting
+*Sleepy|sub_difficulty(ies)=[[File:NewShortcut.png|30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(forestgreen, forestgreen);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''[[User blog:Loganboi2/Shortcut|Shortcut]]'''</span> 
+|counterpart=|alt_next=[[File:Sleepful2.png|30px]] '''[[Sleepful]]'''}}
+==Introduction==
+<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(#184a18, forestgreen);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">[[Restful]]</span> is one of the few difficulties that is instant, and it's absolutely impossible to lose even for the worst players. It is located in the high spectrum of class Negative, positioned between [[File:Skipful.png|30x30px]] [[Skip]] (-1,000), a classic difficulty that is instant, and [[File:Ifinitely-Winsome.png|30x30px]] [[Ifinity]] (-40), a new instant difficulty.
+
+This difficulty is incredibly easy and literally instant. You don't even need to perform basic movements like jumping or moving, similar to every other lower difficulty below it. This means an average person can complete it in less than a millisecond. 
+
+The only way you can actually lose is if the teleporter is broken, the experiences are disconnected, the game crashes exactly at the point before traveling to the next difficulty [[File:Ifinitely-Winsome.png|30x30px]] [[Ifinity]], or reaching the win room if it isn’t a difficulty chart type.
+
+This difficulty, along with [[File:Skipful.png|30x30px]] [[Skip]], is first introduced with a few basic parts and simple Client Objects. It also includes the first-ever obstacles for tutoring, such as walking to the X (frame), and is the first difficulty to use conveyors and elevators. Still, this difficulty is completely instantaneous and automatic.
+
+This difficulty is the antipode of [[File:Aleph-Math.jpg|30x30px]] [[Aleph-Math]], meaning that failing this difficulty (excluding broken teleporters, disconnections, or crashes) is equivalent to completing [[Aleph-Math]].
+==Placement== 
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |'''Class Negative - Restful Placement'''
+|-
+| colspan="4" style="background: #867438; color: white" | '''High'''
+|-
+|[[File:Imagecool.png|50x50px]]
+|[[Reversed Peripherality]]
+|Normal
+| -10<sup>10</sup>
+|-
+| [[File:SquareRelaxNew.svg|50x50px]]
+|[[Relax]]
+|Normal
+| -1,000,000
+|-
+|{{Class-1Difficulties|Skip|50px}}
+|[[Skip]]
+|Normal
+| -1,000
+|-
+| colspan="4" style="background: #7A493D; color: white" |'''Peak'''
+|-
+|[[File:Restful3.png|50x50px]]
+|[[Restful]]
+| Normal
+| -50
+|-
+|[[File:Ifinitely-Winsome.png|50px]]
+|[[Ifinity]]
+| Normal
+| -40
+|-
+| {{Class-1Difficulties|Instant Win|50px}}
+|[[Instant Win]] 
+|Class Finale
+| -31
+|}
+==Icon Representation==
+{| class="sortable mw-collapsible fandom-table “fandom-table”"
+!Name
+!Icon
+!Description
+|-
+|Current 
+|[[File:Restful3.png|168px]]
+|The new icon is the simplified icon of the older one, being the white "ZZZ" scattered (other scattered pattern) with dark green background along with a darker green border. There is some cloud like part in top right and bottom left. And the "Restful" and "Sleepful"
+|-
+|Old
+|[[File:RestfulR.png|168x168px]]
+| The old icon is the same but the Zs is scattered. The gradient is from green to dark green and come out from the center. There is the word Restful in the bottom corner although it is pretty hard to see.
+|-
+|Original
+|[[File:Restful.png|center|frameless|180x180px|alt=]]
+|The original icon have a gradient from dark green to black with the Zzz symbol. Nothing much since it is a old classic icon
+|-
+| Alternative
+|[[File:Restings.png|168px]]
+|The first alternative icon represent the white ZZZ scattered (Old pattern) with a blurry dark green to black gradient background and a darker green border shift in by a few pixel
+|-
+|Alternative II
+|[[File:RestfulAlt2.png|168px]]
+|The second alternative icon represent the dark green background with the fade-in color, along with diagonally striped and the darker green ZZZs (New icon pattern)
+|}
+==Requirement==
+These are all requirements that you have to follow when beating this difficulty, but you pretty much completed all of these requirements when you found this difficulty already. 
+
+If you somehow fail to do these requirements, you'll be kicked immediately, making this difficulty a step up from previous difficulty, although you won’t be notice these changes.
+
+It's reccomended to not use the requirement when building a Restful obby, since, those requirements buff the difficulty to around [[File:PleasantOldVer.png|30x30px]] [[Pleasant]].
+
+Each difficulty represents the difficulty ranging from Easy which is literally "you must have it already" and Intense is "hardest of all, but not".
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |'''Restful Requirement'''
+|-
+!Difficulty
+!Requirement
+|-
+|[[File:EasyDifficulty.jpg|50px]]
+
+|Your existence must be 1 and only 1
+|-
+|[[File:Medium Pic.webp|50px]]
+|Your age has to be 2 hours or over.
+|-
+|[[File:HardDifficulty.jpg|50px]]
+|You have to create a Roblox account or have at least 1 Roblox account already.
+|-
+|[[File:DifficultDifficulty.jpg|50px]]
+|You must join the game (with this difficulty or almost to all classic Class Negative difficulties), if you play this difficulty as a stand-alone or pretty much any towers except DC towers then you must access to the game that has those towers
+|-
+|[[File:ChallengingDifficulty.jpg|50px]]
+|You must know how to find the portal and walk to it
+|-
+|[[File:IntenseDifficulty.jpg|50px]]
+|You have to enter the according portals.
+|}
+
+==Obstacles==
+{| class="fandom-table"
+|+
+!Spectrum/Obstacles
+! style="background-color: green;" |Bottom
+! style="background-color: #80ff00;" |Low
+! style="background-color: yellow; " |Mid
+! style="background-color: orange; " |High 
+! style="background-color: red; " |Peak
+|-
+|Waiting
+| style="background-color: #014500;" |50 picoseconds
+| style="background-color: #336000;" |100 picoseconds
+| style="background-color: #6d5c00;" |250 picoseconds
+| style="background-color: #964a00;" |500 picoseconds
+| style="background-color: #5a0000;" |750 picoseconds
+|-
+| Conveyors
+| style="background-color: #014500;" |2000 speed conveyor ride onto a winpad that is 10<sup>-10</sup> studs away from spawn.
+| style="background-color: #336000;" |1800 speed conveyor ride onto a winpad that is 10<sup>-9.5</sup> studs away from spawn. 
+| style="background-color: #6d5c00;" |1600 speed conveyor ride onto a winpad that is 10<sup>-9</sup> studs away from spawn.
+| style="background-color: #964a00;" |1400 speed conveyor ride onto a winpad that is 10<sup>-8.5</sup> studs away from spawn.
+| style="background-color: #5a0000;" |1200 speed conveyor ride onto a winpad that is 10<sup>-8</sup> studs away from spawn.
+|-
+|Elevator
+| style="background-color: #014500;" | 1000 speed elevator ride onto a winpad that is 10<sup>-10</sup> studs away from spawn.
+| style="background-color: #336000;" |980 speed elevator ride onto a winpad that is 10<sup>-9.5</sup> studs away from spawn.
+| style="background-color: #6d5c00;" |600 speed elevator ride onto a winpad that is 10<sup>-9</sup> studs away from spawn.
+| style="background-color: #964a00;" |400 speed elevator ride onto a winpad that is 10<sup>-8.5</sup> studs away from spawn.
+| style="background-color: #5a0000;" | 200 speed elevator ride onto a winpad that is 10<sup>-8</sup> studs away from spawn.
+|-
+|Portals
+| style="background-color: #014500;" |Wait 10<sup>-11</sup> seconds, then Go into a Great Citadel and instantly win
+| style="background-color: #336000;" |Wait 10<sup>-10.5</sup> seconds, then Go into a Monolith and instantly win
+| style="background-color: #6d5c00;" |Wait 10<sup>-10</sup> seconds, then Go into a Great Obelisk and instantly win
+| style="background-color: #964a00;" |Wait 10<sup>-9.5</sup> seconds, then Go into a Space Needle and instantly win
+| style="background-color: #5a0000;" |Wait 10<sup>-9</sup> seconds, then Go into a Megalith and instantly win
+|}
+==Towers==
+''Note: This difficulty is likely unbuildable, so the towers listed below are inaccurate and purely fictional.''
+===Towers in this difficulty ===
+<tabber>
+|-|
+Fictional=
+*Towre of skip skpi (Toss)
+*Steeple of Rest and Relax (SoRaR)
+*Space Needle of A Zeptosecond of Pure Enjoyment (SNoAZoPE)
+*Citadel of Resting Your Own Hand (CoRYOH)
+*Tower of No Punishment, Just Teleporting (ToNPJT)
+*[[Tower of A Restful Night]] (ToARN) (Soon)
+|-|
+Non-Fictional=
+* [[Tower of Resting]] (ToR)
+</tabber>
+===Tower with this difficulty ===
+<tabber>
+|-|
+Room-Obelisk=
+*N/A
+|-|
+Obelisk+=
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]]
+</tabber>
+==Gallery==
+<gallery>
+File:Restful3.png| Current
+File:RestfulR.png|Old
+File:Restful.png|Oldest and Classic
+File:Restings.png|Alternative
+File:RestfulAlt2.png|Alternative (2)
+</gallery>
+==Trivia ==
+*This difficulty is created when Class -1 expanded.
+**Which is now Lower Negative instead of -2.
+** Class -1 has changed into class Upper Negative.
+**Which these new difficulties include: [[Friendliness]], [[Reversed Peripherality]], [[Restful]] and [[Ifinity]] in the lower negative class.
+***This is no longer true as Class Lower Negative was just changed to Negative and Class Upper Negative has been turned into Class 0.
+*Another difficulty called [[Sleepful]] has been made which is the sequel of this difficulty. 
+**The original Sleepful supposedly a sub of Restful, but the new one located in the 0 because Negative are closed (standard).
+*This was made in 10 minutes, there might be a revamp at 25.08.2024.
+
+==Continuing from this point.==
+You just won another instant difficulty. You can move on to [[File:Ifinitely-Winsome.png|30x30px]] [[Ifinity]] on the main chart if you want to taste what the noob zone looks like, or if you want to skip doing this boring stuff right now then just go to [[File:Delightful.webp|30px]] [[Delightful]] already.
+{{DifficultiesNavbox}}
+[[Category:Class Negative]]
+[[Category:Humanly Possible]]
+[[Category:Instant Win Difficulties]]

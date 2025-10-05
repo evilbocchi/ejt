@@ -1,0 +1,102 @@
+<div style="background-color:#AD00FF;background-image:
+radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px; color: white;padding: 50px 20px; border-radius: 100px 100px">{{Humanly Possible}}{{Visual Impairment|reason=Text gradients.}}
+(note: this template might look a little weird sometimes but uhh yeah){{NewDifficultyInfobox|title1=<span style="background:linear-gradient(90deg,Red,Purple,Blue,Limegreen,Yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0.1px 0.1px 20px;">'''Disco'''</span></span>|image1=Discodebug.png|class=Class Negative|previous=[[File:Exist Difficulty Squared.png|30px]] [[Exist]]|next=[[File:SquareRelaxNew.svg|frameless|30x30px]] [[Relax]]|alt_next=|class_range=High|difficulty_range=Bottom to Peak|type=* Humanly Possible|creator(s)=* ''RemorselessJToH'' (page creator)
+* ''Tetranaux'' (old owner, got blocked)
+* ''TotallyNotAMeme00'' (new owner)
+* ''Touchgrass210779'' (revamper, 2nd new owner)
+* ''Koolified001'' (3rd new owner)
+* ''OoOOoOoOOiBEaTtHefINalDiFfIcuLtY'' (Added some quality of life changes, such as adding css links, making new image desc and so)|rating=-10<sup>10</sup>|alt_previous=|sub_difficulty(ies)=There may be some, in the future. However, it is highly unlikely, as the class standard for Class 0 may be "Closed".|official_music(s)=This difficulty is skipped through so quick, the music doesn't even start before a true completion.|decal_id=110329098062391|caption1=Icon by ST3LLARMUSIC}}
+
+==What is [[File:Discodebug.png|frameless|40x40px]] <span style="background:linear-gradient(90deg,Red,Purple,Blue,Limegreen,Yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0.1px 0.1px 20px;">'''Disco'''</span></span>? ==
+[[File:Discodebug.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,Red,Purple,Blue,Limegreen,Yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0.1px 0.1px 20px;">'''Disco'''</span></span> is a Class Negative, humanly possible difficulty, before [[File:SquareRelaxNew.svg|frameless|30x30px]] [[Relax]] and after [[File:Exist Difficulty Squared.png|30x30px]] [[Exist]]. Although some might say this difficulty is "easy." It's not just easy, you don't even have to be near wifi for most towers of this difficulty, let alone play them. It's literally a heaven for players, if you don't count [[The First Difficulty|the start]].
+
+==Icon Description==
+The icon shows a rounded pixelated smiley with a rainbow swirl background including a faint image of a disco ball. Around the smiley there is text saying "PARTY ALL NIGHT :3".<gallery>
+File:Discodebug.png
+</gallery>
+
+==Obstacles==
+
+===Bottom [[File:Discodebug.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,Red,Purple,Blue,Limegreen,Yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0.1px 0.1px 20px;">'''Disco'''</span></span>=== 
+
+*Wait for 1 quectosecond.
+*Wait for 2.5 quectoseconds.
+*Wait for 5 quectoseconds.
+*Be at least 1 quectosecond old.
+
+===Low [[File:Discodebug.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,Red,Purple,Blue,Limegreen,Yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0.1px 0.1px 20px;">'''Disco'''</span></span>===
+
+*Wait for 1 rontosecond.
+*Wait for 5 rontoseconds.
+*Wait for 12.5 rontoseconds.
+*Be at least 1 yoctosecond old.
+
+===Mid [[File:Discodebug.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,Red,Purple,Blue,Limegreen,Yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0.1px 0.1px 20px;">'''Disco'''</span></span>===
+
+*Wait for 25 rontoseconds.
+*Wait for 50 rontoseconds.
+*Wait for 100 rontoseconds.
+*Wait for 250 rontoseconds.
+*Be at least 1 picosecond old.
+
+===High [[File:Discodebug.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,Red,Purple,Blue,Limegreen,Yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0.1px 0.1px 20px;">'''Disco'''</span></span>===
+
+*Wait for 500 rontoseconds.
+*Wait for 1 yoctosecond.
+*Wait for 5 yoctoseconds.
+*Be at least 10 nanoseconds old.
+
+===Peak [[File:Discodebug.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,Red,Purple,Blue,Limegreen,Yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0.1px 0.1px 20px;">'''Disco'''</span></span>: The Difficulty Spike===
+
+*Wait for 12.5 yoctoseconds.
+*Wait for 100 yoctoseconds.
+*Be anywhere near any open source of internet.
+*Touch any piece of hardware that can run the internet. Connect it to your Wi-Fi router.
+*Wait for 155 yoctoseconds to fall onto a winpad, leading towards [[File:SquareRelaxNew.svg|frameless|30x30px]] [[Relax]].
+
+==Towers in this difficulty==
+''Note: This difficulty is unbuildable, so the towers listed below are inaccurate and purely fictional. Except for the fact its too easy other than too impossible to build.''
+*ToIR - [[Tower of Inperipheral Reaches]] (High) 
+*AoNWAA - [[Air of Not Walking At All]] (Baseline)
+*ToINP - [[Tower of It's Not Peripheral]] (Fictional)
+*SoFS - [[Steeple of Flipped Switch]] (Fictional)
+
+== Gallery ==
+
+=== Disco ===
+<gallery>
+File:Discodebug.png|New icon
+File:Disco old.webp|Old icon, got removed because of a text error
+File:Imagecool.png|Original icon. This was a placeholder.
+</gallery>
+
+=== Older Versions (Reversed Peripherality) ===
+<gallery>
+File:Reversed Peripherality Icon.png|The icon when this difficulty was called Reversed Peripherality. 
+File:Jwklong Reversed Peripherality.png|jwklong's unofficial icon.
+File:Reversed peripherality Alternate.png|Alternative version by tafgo
+File:Screenshot 2025-05-30 164353.png|Cooler One By DarnIt
+</gallery>
+
+==Trivia==
+
+*This difficulty's older name originally came from another wiki.
+**Original can be found [[w:c:jjts-insane-difficulties:Reversed Peripherality|here]].
+*The name was changed to Disco due to disagreements with the name, not relating with it being used in other wikis, rather people not liking it.
+*This now has a new css!
+*
+
+==Continuing From This Point==
+Go to [[File:SquareRelaxNew.svg|frameless|36x36px]] [[Relax]]. There is ABSOLUTELY NOTHING achieved from beating this difficulty. Heck, you could've even skipped it but had no time to do it. 
+
+Really, you're getting forced onto the [[Relax|next difficulty]] cause you have no time to skip that, either.
+
+Why dont you go to [[File:JoyfulDiffIcon.png|51x51px]] [[Joyful]] or {{Class1Difficulties|Effortless}} [https://jtoh.fandom.com/wiki/Effortless Effortless]? Its much better. You already beat this ''so'' ''many'' times..
+{{DifficultiesNavbox}}
+[[Category:Class Negative]]
+[[Category:Instant Win Difficulties]]

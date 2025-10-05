@@ -1,0 +1,53 @@
+{{Classic}}{{Humanly Possible}}{{NewDifficultyInfobox|image1=<gallery>
+Horrifying.PNG | New
+OIP (11).jpg | Old
+Horrifying_Alt.png|Alternate
+</gallery>|class=Mid Class 3|type=Sub-Difficulty|next=[[File:CatastrophicIcon.webp|25px]]  [[w:c:jtoh:Catastrophic|Catastrophic]]|previous=[[File:TerrifyingDifficulty.jpg|25px]]  [[w:c:jtoh:Terrifying|Terrifying]]|class_range=Mid|difficulty_range=Baseline to Peak|main_difficulty=[[File:TerrifyingDifficulty.jpg|25px]] [[w:c:jtoh:Terrifying|Terrifying]]|creator(s)=* Veblicon|date_added=10/13/2020|revamp_date=05/27/2022|alt_next=[[File:Petrifying2.png|25px]] [[Petrifying]]|alt_previous=[[File:Ghastly.png|25px]] [[Ghastly]]|original_name=Terrrible|previous_name=Horrible|rating=11.33|decal_id=Current: [https://create.roblox.com/store/asset/119588063845568/Horrifying 119588063845568]<br>Old: [https://create.roblox.com/store/asset/6386769467/Horrifying 6386769467]
+Alternate: [https://create.roblox.com/store/asset/115421148747294/Horrifying-Alt 115421148747294]|hex_color=#bfffff|rgb_color=191, 255, 255}}
+==What is Horrifying?==
+'''Horrifying''' is a Mid [[:Category:Class 3|Class 3]] [[:Category:Soul Crushing|Soul Crushing]] [[:Category:Sub-Difficulties|Sub-Dificulty]] of [[File:TerrifyingDifficulty.jpg|25px]] [[w:c:jtoh:Terrifying|Terrifying]]. You should try to do these towers after completing a [[File:TerrifyingDifficulty.jpg|25px]] [[w:c:jtoh:Terrifying|Terrifying]] tower. Just note that this is insanely hard.
+
+Also, this difficulty is nearly humanly impossible because it is in [[:Category:Class 3|class 3]]. One of the [[w:c:jtoh:Hints|warnings]] for a tower of this difficulty is, "NEARLY IMPOSSIBLE" and, "NOPE, YOU ARE NOT BEATING THIS ON MOBILE" due to how hard it is. Good luck.
+
+===Icon representation===
+*'''New:''' The icon is a cyan square, which is 75% white.
+*'''Old:''' The icon is a <span style="color:#00BFFF;">light blue</span> triangle on a <span style="color:#FFFFFF;">white</span> background.
+The decal doesn't exist yet for either version.
+
+==Towers of this difficulty==
+*[[w:c:jtoh:Tower of Impossible Movement|Tower of Impossible Movement]] (JToH)
+*[[w:c:jtoh:ToAR|Tower of Alien Radiance]] (JToH)
+*[[w:c:jtoh:ToMM|Tower of Micro Management]] (JToH)
+*Triangle Tower (TT) (fictional)
+*S.P.I.D.E.R. Facility (obby creator) (946633575#2)
+*[[Tower of Anger: Substantial Trouble]]
+*Citadel of Horrifying Phobias: Buffed (Fictional buff of a JToH event citadel)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Why Isn't This a Tower?] (QToN)
+
+==Trivia==
+*This is the easiest [[:Category:Sub-Difficulties|sub-difficulty]] in [[Obelisk of Endless Difficulty Amplifying]] that is [[:Category:Soul Crushing|soul crushing]] or above, the hardest being [[User blog:EpicTheGamer2014/Malicious-Zeta|<span style="color:#696969;">Malicious-Zeta</span>]].
+*Some people might get this confused with [[w:c:jtohs-hardest-towers:Horrific|Horrific]].
+*Horrifying's icon was revamped for looking bad.
+
+==Continuing from this point==
+If you want to continue doing [[:Category:Sub-Difficulties|sub-difficulties]], the next [[:Category:Sub-Difficulties|sub-difficulty]] of [[w:c:jtoh:Terrifying|Terrifying]] is ''Intellectual'', which was deleted, or if you just want to the next difficulty, continue on to [[w:c:Jtoh:Catastrophic|Catastrophic]].
+
+==Notes==
+*Note from notaltar/Veblicon:
+*i might change the name again if you guys have good suggestions as i let this lie for over 8 months
+*i have a suggestion -cokelyaa [i did not put this here lmao]
+*make it sussy difficulty
+*i have a idea of the century - musicstage
+*make it imputserss difficulty
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 3]]
+[[Category:Two color icon]]
+[[Category:Possible]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Humanly Possible]]
+[[Category:Difficulty]]
+[[Category:Soul Crushing]]
+[[Category:One color icon]]

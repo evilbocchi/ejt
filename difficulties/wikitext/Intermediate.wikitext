@@ -1,0 +1,261 @@
+<div style="background:#bd8400;padding:1em;font-family:rubik;border-left:5px solid #fcc203">
+<div class="html5audio" style="clear:both;float:right;" data-file="https://static.wikia.nocookie.net/jtohs-joke-towers/images/1/16/IntermediateMusic.mp3" data-volume="0.1" data-download="false" data-preload="metadata" data-options="autoplay,loop">The official music of <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''Intermediate'''</span></div>
+{{Scrollbox|Notices=
+'''Notices'''
+{{Large Page}}
+{{Humanly Possible}}
+{{Inclusion|reason=sanjay2133 + tde approves of this}}
+}}
+----{{JToHW Quote|text='''do you have any idea how hard it is to figure out a name for a class 1 difficulty nowadays?'''|quoter=Sanjay2133}}
+----{{NewDifficultyInfobox|title1=<span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''Intermediate'''</span>|image1=Intermediate.png|caption1=You're getting there, great job!|class=Class 2|rating=2.5|type=*Normal Dificulty
+*Class 1 Difficulty
+*Unofficial Difficulty
+*Humanly Possible Difficulty|previous={{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|'''Medium''']]|next={{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']]|alt_previous=[[File:Normal2.png|30px]] [[Normal]]|alt_next=[[File:Rewardable diff.png|30px]] [[Rewardable]]|class_range=Low Class 2|difficulty_range=Belowground to The Final Stretch|creator(s)=Sanjay2133|date_added=May 20th, 2023|official_music(s)=[https://www.youtube.com/watch?v=Zf2qOWmKiz0 The World Revolving]|sub_difficulty(ies)=[[File:Rewardable diff.png|30px]] [[Rewardable]]|decal_id=13589471943}}
+==Introduction - [[File:Intermediate.png|50px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''<big>''Intermediate''</big>'''</span>==
+[[File:Intermediate.png|30x30px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''''Intermediate'''''</span> is a Low Class 2 difficulty, residing after {{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|'''Medium''']], but preceding {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']], the final JToH difficulty of Low Class 2. Due to this, it is moderately difficult for average Robloxians, but should be easy for difficulty chart obbyists and JToH obbyists.
+
+This is a barrier to transition from {{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|'''Medium''']] to {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']]. Obbyists may somewhat struggle on the transition as  {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']] difficulty towers often feature jumps that are harder and more unforgiving. Due to this, [[File:Intermediate.png|30x30px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''''Intermediate'''''</span> is a good difficulty to attempt before trying to complete {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']].
+
+This difficulty is similar to Peak {{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|'''Medium''']]  and Baseline {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']] towers, such as Tower of Aquatic Contemplation, Tower of Slanted Anticipation, Tower of Rough Waters, and other towers at a similar difficulty. Obstacles in [[File:Intermediate.png|30x30px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''''Intermediate'''''</span> difficulty would be similar, due to them being around the same range.
+
+Additionally, this difficulty also has a sub-difficulty called [[File:Rewardable diff.png|30px]] [[Rewardable]].
+
+In [[File:Intermediate.png|30x30px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''''Intermediate'''''</span>, one may encounter various different types of simple jumps and wraparounds that are easily able to be sight read. There may or may not be safety nets, but it is possible to lose progress on these floors.
+
+Measuring this difficulty in terms of tiers would be inaccurate, due to the tier system being quite different, but it can be said that this difficulty would be around Mid-Tier 2. As in terms of [[Kol Metris]], this difficulty would obtain a rating of |22|. Lastly, the difficulty rating of this difficulty is a 2.5, due to it being in between {{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|'''Medium''']] and {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']]. This indicates that this difficulty should not be too difficult to complete if you have moderate skill in completing obbies. The range this difficulty covers is 2.5 - 2.74.
+==Icon Representation - [[File:Intermediate.png|50px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''<big>''Intermediate''</big>'''</span>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Difficulty’s Icons
+|-
+!'''Icon'''
+!'''Description'''
+|-
+| colspan="3" style="background: #fcc203; color: white" |'''Current'''
+|-
+| style="background-color: #bd8400;" |[[File:Intermediate.png|300x300px]]
+| style="background-color: #bd8400;" |The icon is relatively simple. It consists of an orange background, with a light orange border. There top left and the bottom right corners are also shaded with lighter shades of the color. In the center, there are two lighter concentric circles and a ":/" emoticon in the center of the same color as the background.
+The decal id is [https://create.roblox.com/marketplace/asset/13589471943 13589471943]
+|}
+
+== Placement - [[File:Intermediate.png|50px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''<big>''Intermediate''</big>'''</span> ==
+<tabber>
+|-|Main Difficulty Chart=
+=== Baseline Class 2 ===
+
+* [[File:Effortless difficulty.png|30x30px]] [[w:c:jtoh:Effortless|Effortless]] (0)
+** [[File:Playgrounddif.png|29x29px]] [[Playground]] (0.33)
+** [[File:Simple.png|30x30px]] [[Simple]] (0.66)
+* [[File:EasyDifficulty.jpg|30x30px]] [[w:c:jtoh:Easy|Easy]] (1)
+** [[File:NEaT resized.png|30x30px]] [[Neat]] (1.25)
+* [[File:Calmness.png|30x30px]] [[Calm]] (1.5)
+** [[File:SWNew.jpg|29x29px]] [[Switch]] (1.75)
+
+=== Low Class 2 ===
+
+* [[File:MediumDifficulty.jpg|30x30px]] [[w:c:jtoh:Medium|Medium]] (2)
+** [[File:Normal2.png|30x30px]] [[Normal]] (2.25)
+* [[File:Intermediate.png|30x30px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''''Intermediate'''''</span> (2.5) '''[you are here]'''
+** [[File:Rewardable diff.png|30x30px]] [[Rewardable]] (2.75)
+
+=== Mid Class 2 ===
+
+* [[File:HardDifficulty.jpg|30x30px]] [[w:c:jtoh:Hard|Hard]] (3)
+** [[File:Tricky.png|30x30px]] [[Tricky]] (3.5)
+* [[File:DifficultJToH.png|30x30px]] [[w:c:jtoh:Difficult|Difficult]] (4)
+** [[File:Strenuous.png|30x30px]] [[Strenuous]] (4.5)
+|-|Community Difficulty Chart=
+=== Low Class 2 ===
+
+* [[File:EasyDifficulty.jpg|30x30px]] [[w:c:jtoh:Easy|Easy]] (1)
+** [[File:Lite.png|30x30px]] [[User blog:CreamYellowGoldOlive/Minimal - Spicy|Lite]] (1.1)
+** [[File:NEaT resized.png|30x30px]] [[Neat]] (1.2)
+** [[File:ComfortingNew.png|30x30px]] [[User blog:Bruhshard1/Comfort|Comforting]] (1.3)
+** [[File:Pixel Art Smore.png|30x30px]] [[Smore]] (1.4)
+* [[File:CalmAlt.png|30x30px]] [[User:Viranenthusiast/Calm (CDC)|Calm]] (1.5)
+** [[File:EpicRevamped.png|29x29px]] [[Epic]] (1.6)
+** [[File:SWNew.jpg|29x29px]] [[Switch]] (1.7)
+** [[File:Content.png|29x29px]] [[User blog:Loganboi2/Content|Content]] (1.8)
+** [[File:SWNew.jpg|29x29px]] [[Terrific]] (1.9)
+
+=== Mid Class 2 ===
+
+* [[File:MediumDifficulty.jpg|30x30px]] [[w:c:jtoh:Medium|Medium]] (2)
+** [[File:Destrunt.png|30x30px]] [[User blog:EpicTheGamer2014/Destiny|Destiny]] (2.17)
+** [[File:Normal2.png|30x30px]] [[Normal]] (2.33)
+* [[File:Intermediate.png|30x30px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''''Intermediate'''''</span> (2.5) '''[you are also here]'''
+** [[File:Rewardable diff.png|30x30px]] [[Rewardable]] (2.55)
+** [[File:AverageIsRevived.png|30x30px]] [[Average]] (2.64)
+** [[File:Troublesome.png|30x30px]] [[Troublesome]] (2.73)
+** [[File:Modest.png|30x30px]] [[User blog:Loganboi2/Modest|Modest]] (2.82)
+** [[File:NewPixelableIcon.PNG|29x29px]] [[User blog:EpicTheGamer2014/Pixelable|Pixelable]] (2.91)
+
+=== High Class 2 ===
+
+* [[File:HardDifficulty.jpg|30x30px]] [[w:c:jtoh:Hard|Hard]] (3)
+** [[File:Extraordinary.png|29x29px]] [[Extraordinary]] (3.1)
+** [[File:Unhappynew.png|29x29px]] [[Unhappy]] (3.2)
+** [[File:Full of stress.png|29x29px]] [[User blog:Bruhshard1/Stressful|Stressful]] (3.3)
+** [[File:Tricky.png|30x30px]] [[Tricky]] (3.5)
+** [[File:EasefulOldest.webp|30x30px]] [[Easeful]] (3.6)
+* [[File:Onerous.png|30x30px]] [[Onerous]] (3.8)
+</tabber>
+
+==Catches - [[File:Intermediate.png|50px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''<big>''Intermediate''</big>'''</span>==
+'''<small>(Bold catches are optional)</small>'''
+*There are partial safety nets; however, it is still possible to lose progress.
+*Outsides send the player back a few floors instead of killing them to preserve button progress.
+**Speaking of button progress, there is button progress littered all over.
+*'''Some sections are darker, illuminated by various lighter orbs to make the gameplay more tricky and harder to see.'''
+*'''There may be break sections where the player is safe from losing progress completely.'''
+*'''There is a final unnetted outside section to help the player with nerve control.'''
+==Obstacles - [[File:Intermediate.png|50px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''<big>''Intermediate''</big>'''</span>==
+<div style="overflow-x:scroll">
+{{ObstacleTableEasy|JumpUnclimbableBase=7.4|JumpUnclimbableIncrement=0.05|JumpClimbableBase=7.5|JumpClimbableIncrement=0.05|WraparoundBase=4|WraparoundIncrement=0.1|CylinderBase=3|CylinderIncrement=0.025|Raised1Base=3|Raised1Raise=1|Raised1Increment=0.025|Raised1RaiseIncrement=0.025|Raised2Base=2|Raised2Raise=2|Raised2Increment=0.025|Raised2RaiseIncrement=0.025|StickoutBase=1|StickoutIncrement=0.02|KillbrickBase=1|KillbrickIncrement=0.015|HighJumpBase=7.5|HighJumpIncrement=0.05}}
+</div>
+
+{| class="fandom-table"
+|+The Final Stretch
+!Spectrum/Obstacles
+! style="background-color: #e0e000;" |'''<font color="#c9c900">Peak [[w:c:jtoh:Medium|Medium]]'''
+! style="background-color: #e0e000;" |'''<font color="#c9c900">Skyline [[w:c:jtoh:Medium|Medium]]'''
+! style="background-color: #e0e000;" |'''<font color="#c9c900">Peripheral [[w:c:jtoh:Medium|Medium]]'''
+! style="background-color: #ff9c38;" |'''<font color="#d66c00">Negative [[w:c:jtoh:Hard|Hard]]'''
+! style="background-color: #ff9c38;" |'''<font color="#d66c00">Belowground [[w:c:jtoh:Hard|Hard]]'''
+! style="background-color: #ff9c38;" |'''<font color="#d66c00">Baseline [[w:c:jtoh:Hard|Hard]]'''
+|-
+|Trial of Precision
+| style="background-color: #bdba00;" |<font color="white">Jump onto a 1.25x1.25 stud</font>
+| style="background-color: #bdba00;" |<font color="white">Jump onto a 1.2x1.2 stud</font>
+| style="background-color: #bdba00;" |<font color="white">Jump onto a 1.15x1.15 stud</font>
+| style="background-color: #b05800;" |<font color="white">Jump onto a 1.1x1.1 stud</font>
+| style="background-color: #b05800;" |<font color="white">Jump onto a 1.05x1.05 stud</font>
+| style="background-color: #b05800;" |<font color="white">Jump onto a 1 stud.</font>
+|-
+|Trial of Knowledge
+| style="background-color: #bdba00;" |<font color="white">Solve a simple push box puzzle with 1 color changer</font>
+| style="background-color: #bdba00;" |<font color="white">Solver a slightly harder push box puzzle with 1 color changer</font>
+| style="background-color: #bdba00;" |<font color="white">Solve a slightly harder push box puzzle with 2 color changers</font>
+| style="background-color: #b05800;" |<font color="white">Solve a push box puzzle with multiple push box destroyers and 2 color changers</font>
+| style="background-color: #b05800;" |<font color="white">Solve a push box puzzle with multiple push box destroyers and 3 color changers</font>
+| style="background-color: #b05800;" |<font color="white">Solve a complex push box puzzle and 3 color changers</font>
+|-
+|Trial of Composure
+| style="background-color: #bdba00;" |<font color="white">Complete a short outside section with a partial safety net</font>
+| style="background-color: #bdba00;" |<font color="white">Complete a short outside section with a small safety net</font>
+| style="background-color: #bdba00;" |<font color="white">Complete a medium length outside section with a small safety net</font>
+| style="background-color: #b05800;" |<font color="white">Complete a medium length final outside with a small safety net</font>
+| style="background-color: #b05800;" |<font color="white">Complete a long final outside with a small safety net</font>
+| style="background-color: #b05800;" |<font color="white">Complete a long final outside without a safety net (if you fall you still retain button progress, same with others)</font>
+|}
+==Trivia - [[File:Intermediate.png|50px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''<big>''Intermediate''</big>'''</span>==
+*This was intended to be the last class 1 difficulty.
+**The purpose of this difficulty is to fill the gap in between {{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|'''Medium''']] to {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']], as every other non-soul crushing JToH difficulty has a difficulty in between them.
+*It was originally meant to be a sub-difficulty of [[File:TooEasy Difficulty Revamped.jpg|32x32px]] [[TooEasy]] or [[File:Playful.png|30x30px]] [[Playful]] and was originally going to be named [[File:Marvelous.png|30x30px]] Marvelous.
+**This may still happen, but it is unlikely for now.
+*HelloArt's difficulty chart also has a difficulty of the same name.
+*This is the first difficulty to feature a Bottom and a Skyline section in an obstacle table, as well as a table for the Final Stretch.
+*[[File:Intermediate.png|30x30px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''''Intermediate'''''</span>'s icon is somewhat similar to deleted {{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|'''Medium''']] sub-difficulty, and it was called [[File:Fair.jpg|30px]] '''Fair''' difficulty.
+*The comment at the top of the page is false. Average, Mediocre,  Viable, Tranquil, Neutral, Straightforward and many more are perfect Class 1 names.
+**However, all of these names have been difficulties before. Well, except for Neutral, but I thought Intermediate sounded better.
+**Also, it's not Class 1 anymore. It's Class 2 now.
+==Towers - [[File:Intermediate.png|50px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''<big>''Intermediate''</big>'''</span>==
+{| class="mw-collapsible wikitable" style="text-align:center; width: 100%;"
+|+<span style="font-weight:bold;font-size:100%;background: linear-gradient(to right, #ffcc00,#ffa200); -webkit-background-clip:text; -webkit-text-fill-color:transparent;"><big>Table Format</big></span>
+!'''Unknown'''
+!'''Baseline'''
+'''[2.50 - 2.54]'''
+!'''Low'''
+'''[2.55 - 2.59]'''
+!'''Mid'''
+'''[2.60 - 2.64]'''
+!'''High'''
+'''[2.65 - 2.69]'''
+!'''Peak'''
+'''[2.70 - 2.74]'''
+|-
+| style="background: #c29b00; color: #ffffff" |IO <sub>(EJT) (fictional)</sub>
+SoTT <sub>(QToN)</sub>
+| style="background: #ffcc00; color: #000000" |ToB <sub>(AToS)</sub>
+NEaOI <sub>(AToS)</sub>
+
+ToOA(M) <sub>(EToH)</sub>
+
+ToY:SU <sub>(EToH)</sub>
+
+CoM <sub>(EToH:XL)</sub>
+| style="background: #ffc300; color: #000000" |ToB(R) <sub>(EToH) (removed)</sub>
+| style="background: #ffba00; color: #000000" |ToDS <sub>(AToS)</sub>
+OoAST <sub>(EToH:XXL)</sub>
+
+ToAT <sub>(EToH)</sub>
+
+CoZZ(C) <sub>(EToH:XL)</sub>
+
+CoAJ(M) <sub>(EToH:XL)</sub>
+| style="background: #ffb200; color: #000000" |ToFZ <sub>(EToH)</sub>
+ToGD <sub>(AToS)</sub>
+
+SoO <sub>(EToH)</sub>
+
+SoEH <sub>(EToH:XL)</sub>
+
+ToLaD <sub>(AToS)</sub>
+
+ToVR <sub>(EToH)</sub>
+
+ToKH <sub>(AToS)</sub>
+
+ToMZ <sub>(AToS)</sub>
+| style="background: #ffa200; color: #ffffff" |ToND(M) <sub>(EToH)</sub>ToOE(M) <sub>(EToH)</sub>
+
+CoSH <sub>(EToH:XL)</sub>
+|}
+
+=== Baseline ===
+
+* [[w:c:atos:Tower_of_Beginners|Tower of Beginners]] <sub>(AToS)</sub> '''[2.51]'''
+* [[w:c:atos:Not_Even_an_Original_Idea|Not Even an Original Idea]] <sub>(AToS)</sub> '''[2.52]'''
+* [[w:c:jtoh:Tower_of_Odd_Algorithm|Tower of Odd Algorithm]] <sub>(EToH)</sub> '''[2.53]'''
+* [[w:c:jtoh:Tower_of_Yelling:_Slightly_Upset|Tower of Yelling: Slightly Upset]] <sub>(EToH)</sub> '''[2.54]'''
+* [[w:c:etoh-xl:CoM|Citadel of Madness]] <sub>(EToH:XL)</sub> '''[2.54]'''
+
+=== Low ===
+
+* [[w:c:jtoh:Tower_of_Odd_Algorithm|Tower of Buttons (Removed)]] <sub>(EToH) (removed)</sub> '''[2.58]'''
+
+=== Mid ===
+
+* [[w:c:atos:Tower_of_Detrimental_Shifting|Tower of Detrimental Shifting]] <sub>(AToS)</sub> '''[2.60]'''
+* [[w:c:jtoh-xxl-official:OoAST|Obelisk of Annoyingly Simple Trials]] <sub>(EToh:XXL)</sub> '''[2.60]'''
+* [[w:c:jtoh:ToAT|Tower of Ancient Trickery]] <sub>(EToH)</sub> '''[2.62]'''
+* [[w:c:etoh-xl:CoZZ(C)|Citadel of Zig Zag]] <sub>(EToH:XL)</sub> '''[2.64]'''
+* [[w:c:etoh-xl:CoAJ(M)|Citadel of Average Jumps]] <sub>(EToH:XL)</sub> '''[2.64]'''
+
+=== High ===
+
+* [[w:c:jtoh:ToFZ|Tower of Fruity Zeal]] <sub>(EToH)</sub> '''[2.66]'''
+* [[w:c:atos:Tower_of_Glowing_Destinies|Tower of Glowing Destinies]] <sub>(AToS)</sub> '''[2.66]'''
+* [[w:c:jtoh:SoO|Steeple of Overgrowth]] <sub>(EToH)</sub> '''[2.67]'''
+* [[w:c:etoh-xl:SoEH|Steeple of Egg Hunting]] <sub>(EToH:XL)</sub> '''[2.67]'''
+* [[w:c:atos:Tower_of_Light_and_Darkness|Tower of Light and Darkness]] <sub>(AToS)</sub> '''[2.67]'''
+* [[w:c:jtoh:ToVR|Tower of Venomous Resonance]] <sub>(EToH)</sub> '''[2.68]'''
+* [[w:c:atos:Tower_of_Killbrick_Hullabaloo|Tower of Killbrick Hullabaloo]] <sub>(AToS)</sub> '''[2.69]'''
+* [[w:c:atos:Tower_of_Metal_Zone|Tower of Metal Zone]] <sub>(AToS)</sub> '''[2.69]'''
+
+=== Peak ===
+
+* [[w:c:jtoh:Tower_of_No_DIstress|Tower of No Distress]] <sub>(EToH)</sub> '''[2.71]'''
+* [[w:c:jtoh:Tower_of_Optimistic_Experiences|Tower of Optimistic Experiences]] <sub>(EToH)</sub> '''[2.71]'''
+* [[w:c:etoh-xl:CoSH|Citadel of Spiralling Heights]] <sub>(EToH:XL)</sub> '''[2.72]'''
+
+=== Unknown ===
+
+* Intermediate Obby <sub>(EJT) (Fictional)</sub> '''[2.??]'''
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Steeple of Table Tilt] <sub>(QToN)</sub> '''[2.??]'''
+==Continuing On From This Point - [[File:Intermediate.png|50px]] <span style="color:#ffcc00;text-shadow:0 2px 5px #ffcc00;font-family:Georgia">'''<big>''Intermediate''</big>'''</span>==
+If a player had completed this difficulty, it would be a considerable accomplishment for them. It would be suggested to move onto {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|'''Hard''']], as that would be the next difficulty after this one.
+
+{{DifficultiesNavbox}}</div>
+[[Category:Class 1]]
+[[Category:Humanly Possible]]
+[[Category:Large Pages]]

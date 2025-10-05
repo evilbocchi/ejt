@@ -1,0 +1,30 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(135deg,#FF0505, #FF8D05, #E8FF05, #60FF05, #05FF33, #05BBFF, #0533FF, #6005FF, #FF058D);-webkit-background-clip: text !important; -webkit-text-fill-color: transparent;" class="epinephrine-text">'''Epinephrine'''</span>}}
+{{DifficultyTab
+|Epinephrine
+|textcolormain = 000
+|type = Event / Joke
+|blank1 =
+|blank2 =
+}}
+{{DifficultyInfobox
+|title1=Epinephrine
+|type=Joke
+|image1=1331070329396920320.png
+|date_added=January 19, 2025
+}}
+{{Difficulty|Epinephrine|20px}} <span style="background:linear-gradient(135deg,#FF0505, #FF8D05, #E8FF05, #60FF05, #05FF33, #05BBFF, #0533FF, #6005FF, #FF058D);-webkit-background-clip: text !important; -webkit-text-fill-color: transparent;" class="epinephrine-text">[[Epinephrine]]</span> is a joke [[difficulty]] which was released alongside [[The Stronghold]]. There is only one tower in this difficulty, that being [[Nil's Ultimate Fate]].
+{{Header|Towers}}
+<tabber>
+The Stronghold=
+<div align="center"><font size="5">{{Emblem|TS}} [[The Stronghold]] {{Emblem|TS}}</font></div>
+
+*NUF - [[Nil's Ultimate Fate]]
+</tabber>
+{{Header|Trivia}}
+*This difficulty has previously been used in a few [[Event Realm]] events like reverse bridge.
+*This difficulty is a reference to [[w:c:rex-reincarnated:Epinephrine|Epinephrine]] from REx:Reincarnated.
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:The Stronghold]]

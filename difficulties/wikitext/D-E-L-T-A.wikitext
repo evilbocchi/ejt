@@ -1,0 +1,93 @@
+{{DISPLAYTITLE:<span id="delta">D-E-L-T-A</span>}}
+<!-- CSS Links -->
+{{CSS|User:Sushislushwiki/slushusername.css}}
+<!-- Raw CSS -->
+{{CSS|content=<nowiki>
+/* Fonts */
+/** Quantico - Difficulty name font **/
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap');
+
+/* Difficulty Name */
+#delta {
+    letter-spacing: 0;
+    font-family: Readex Pro;
+    font-weight: bold;
+    color: transparent;
+    background: linear-gradient(to bottom, #ffff9e 30%, #ffff9e 30%, #ffffff 33%, #b5fe02 36%, #b5fe02 50%, #b5fe02 70%, #448600 73%, #6aa900 76%);
+    -webkit-background-clip: text;
+    filter: drop-shadow(0 0 0.2em #000)
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Classic}}}}
+<div style="--theme-accent-color:-webkit-linear-gradient(45deg,#00C27F,#00AA6F,#00C27F)">
+{{NewDifficultyInfobox|title1=<big><big><span id="delta">D-E-L-T-A</span></big></big>|image1=<gallery>
+D-E-L-T-A Revamped Icon.png | Current
+D-E-L-T-A Classic Icon.png | Classic
+RobloxScreenShot20200924 131527677.png | Old
+</gallery>|caption1=Good luck beating this difficulty.|class=6|rating=58.33|type=Chain Difficulty<br>Sub-Difficulty|previous=[[File:Xi-Alpha Icon.png|30px]] [[Xi-Alpha]]|next=[[File:Ÿ revamp icon.png|30px]] [[Ÿ]]|decal_id=* [https://www.roblox.com/library/17876801015/D-E-L-T-A Current] 17876801015
+* [https://www.roblox.com/library/7503855591/D-E-L-T-A-Difficulty Classic] 7503855591|chain(s)=Mike's Chart|creator(s)=* <span class="slush">Sushislushwiki</span> (Icon Revamper)
+* Auserfromrobloxx (Revamper)
+* Miketheoctoling (Creator)|original_creator(s)=Miketheoctoling|date_added=Sep 24 2020|revamp_date=12/15/2022|hex_color=* {{colorbox|#57EFBF}} #57EFBF
+* {{colorbox|#B5FE02}} #B5FE02|rgb_color=* {{colorbox|#57EFBF}} 87, 239, 191
+* {{colorbox|#B5FE02}} 181, 254, 2|official_music(s)=[https://create.roblox.com/marketplace/asset/9046476113/Cyber-Space Cyber-Space (Roblox)]|short_name=DLTA|alt_names=∆|alt_next=|main_difficulty=[[File:Xi-Alpha revamp icon.png|25px]] [[Xi-Alpha]]}}
+==What is [[File:D-E-L-T-A Revamped Icon.png|45x45px]] <span id="delta">D-E-L-T-A</span>?==
+[[File:D-E-L-T-A Revamped Icon.png|25px]] <span id="delta">D-E-L-T-A</span> is the second difficulty in the [[:Category:Mike's Difficulty Chart Chain|MrXY201's Difficulty chart]]. It's right after [[File:Xi-Alpha Icon.png|25px]] [[Xi-Alpha]], and is before [[File:Ÿ revamp icon.png|25px]] [[ÿ|Ÿ]] on this sub-path. It's considered to be one of the original Post-Supreme difficulties, and has a surprisingly big legacy to it. Obstacles in this difficulty are basically Supreme jumps buffed by a significant margin, and require an infinite amount of patience and pixel perfect timing to complete. This difficulty is also the start of the Sub-Path, containing this difficulty as well as  [[File:Ÿ revamp icon.png|25px]] [[ÿ|Ÿ]], as opposed to directly jumping into [[File:ThetaVoidRevamp.png|25px]] [[Theta-Void]].
+
+==Icon Representation==
+{| class="fandom-table mw-collapsible mw-collapsed" style="width: 100%; text-align: center; line-height: 1.6"
+!colspan="3"|<big><big>Icon Representation</big></big>
+|-
+!colspan="2"|<big>Icon, Version and Date</big>
+!<big>Description</big>
+|-
+|Current
+|June<br>16th, 2024
+|rowspan="2"|This version of the icon has a chartreuse (yellow-green) Greek uppercase delta 'Δ' with the appearance of a crystal in the middle, a small turquoise star just below the middle glowing with a blurry lens flare, smaller points of light around the star, and a darker turquoise star vortex around the edges of the icon. This version was created with the permission of [[w:c:jtohs-joke-towers:User:Viranenthusiast|Viranenthusiast]] to make the difficulty icon more readable since the similar chartreuse and turquoise in the Classic icon made it difficult to see the icon properly on small sizes, especially since there was little contrast between foreground and background, and the icon itself didn't age well.
+|-
+|colspan="2" style="padding: 2px"|[[File:D-E-L-T-A Revamped Icon.png|250px]]
+|-
+|Classic
+|August<br>18th, 2021
+|rowspan="2"|This version of the icon is simple, having a blue-green glow going white. There is also a yellow-green triangle that isn't filled in on top; in other words, the ∆ symbol. Simple but effective.
+|-
+|colspan="2" style="padding: 2px"|[[File:D-E-L-T-A Classic Icon.png|250px]]
+|-
+|Old
+|September<br>24th, 2020
+|rowspan="2"|This version of the icon is a yellow sky originating from Roblox with an uncentered approximated Greek uppercase delta 'Δ'. The icon looks a little ugly, but its age makes it justifiable.
+|-
+|colspan="2" style="padding: 2px"|[[File:RobloxScreenShot20200924 131527677.png|250px]]
+|}
+==Obstacles in [[File:D-E-L-T-A Revamped Icon.png|45x45px]] '''[[D-E-L-T-A|<span id="delta">D-E-L-T-A</span>]]'''==
+The obstacles featured in [[File:D-E-L-T-A Revamped Icon.png|25px]] '''[[D-E-L-T-A|<span id="delta">D-E-L-T-A</span>]]''' difficulty should always be creative and be confusing. Examples you can revamp into something more creative are listed here. Make sure they are easier than [[File:Ÿ revamp icon.png|25px]] [[ÿ|Ÿ]] and harder<sub>🐯🦁🐅</sub> than [[File:Xi-Alpha revamp icon.png|25px]] [[Xi-Alpha]].  
+
+{{ObstacleTableRevamp|JumpClimbableBase=28.12|Increment=0.0525}}
+
+==Towers of [[File:D-E-L-T-A Revamped Icon.png|45x45px]] '''[[D-E-L-T-A|<span id="delta">D-E-L-T-A</span>]]'''==
+
+==='''<big>In this difficulty</big>'''===
+
+===Fictional===
+*Tower of Yellow Triangular Death (Fictional)
+*Tower of Delta Core (Fictional)
+*Add here!
+
+===Non-Fictional===
+
+*None currently.
+
+===<big>'''With this difficulty'''</big>=== 
+
+*Add here if a DCT has this difficulty.
+
+==Continuing on from this point==
+Are you proud of yourself for beating [[File:D-E-L-T-A Revamped Icon.png|25px]] '''[[D-E-L-T-A|<span id="delta">D-E-L-T-A</span>]]'''? Good, you should be. Now, you probably would go to the next difficulty, right? So, you should probably make your way towards the next difficulty and challenge [[File:Ÿ revamp icon.png|25px]] [[ÿ|Ÿ]]. After that, prepare for the hell you'll find yourself in.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 6]]
+[[Category:Mike's Difficulty Chart Chain]]
+[[Category:Two color icon]]
+[[Category:Humanly Impossible]]

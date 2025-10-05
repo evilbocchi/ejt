@@ -1,0 +1,68 @@
+__NOTOC__
+{{Scrollbox|Notices=Notices
+{{Classic}}
+{{Revamp|reason=official}}
+{{Humanly Impossible}}
+{{Pseudo}}
+}}
+
+==What is [[File:UDEADSONicon.png|frameless|32x32px]] '''U DED SON'''?==
+{{NewDifficultyInfobox|title1=U DED SON|image1=UDEADSONicon.png|caption1=U DED SON!|class=[[:Category:Class 6|Class 6]]|rating=48|type=Pseudo-Difficulty|previous={{Class7Difficulties|Fatal Error}} [[Fatal Error]]|next=[[File:Funny-windows-error22.jpg|30px]] [[REEE... !!!]]|date_added=29/12/2019|creator(s)=Unknown|alt_previous=|alt_next=|difficulty_range=Low to High|decal_id=[https://www.roblox.com/library/18579950513/yikes Here]|class_range=Bottom|chain(s)=RoPD}}
+[[File:UDEADSONicon.png|frameless|30x30px]] '''U DED SON''' is a Class 6 Difficulty that lies before [[File:Funny-windows-error22.jpg|30px]] [[REEE... !!!|REEE...!!!]] and after {{Class7Difficulties|Fatal Error}} [[Fatal Error|<span style="color:white;text-shadow:0 2px 5px red">'''Fatal Error'''</span>]]. The main colors for this difficulty are going to be pink, purple, and peach. Acting as the last barrier before the Low spectrum of Class 6, you probably shouldn’t attempt it, considering it’s even beyond TAS and human capabilities.
+
+Of course, this is impossible, as you'd have to do unimaginable glitches and use confusing and infeasible strategies to beat this. You'd also have to practice for months and even years if you're a lower tier obbyist.
+
+==Icon Representation==
+[[File:UDEADSONicon.png|frameless|30x30px]] <b>U DED SON</b><nowiki/>'s icon represents a grey jeep in the background, and a dog being hit by a frisbee on the front. And no, it's not fatal.  The icon for this has been confirmed for a while now, and was first seen in the [[Citadel of Impossible Victory]].
+==Obstacles in U DED SON (Organized by Low to High Spectrum) ==
+===<u>Low Spectrum:</u>===
+
+*13.5 stud wrap with a killbrick spinner, that goes at 4 speed, with 9 damage.
+*1 stud deep wall walk with Instant-Killbrick head hitter.
+*1 stud deep 1 stud truss climb with head hitter.
+*Midair 0.05 stud Killbrick flat out.
+*Walking for 50,000 minutes.
+*Surviving 7 Killbrick spinners that are going at 9 speed with 10 damage.
+
+===Mid Spectrum:===
+
+*5 stud wrap with 11 instakill spiners.
+
+===<u>High Spectrum:</u>===
+*Last floor of CT with 10 killbrick spinners going at 10 speed with 10 damage.
+*1.2 stud deep wall walk with Instant-Killbrick head hitter.
+*Midair 0.06 stud Killbrick flat out.
+*14 Stud wrap with a Killbrick spinner that goes 5 speed, with 10 damage.
+*Walking for 55,000 minutes. (This would be walking for 38 days.)
+*Surviving 8 Killbrick spinners that are going at 10 speed with 11 damage.
+
+==Towers in this Difficulty==
+* [[Tower of Jevilm]] (ToJ)
+* Tower of U.D.E.D.S.O.N. (ToUDEDSON) [Fictional]
+* Tower of Destroying Epilepsy And Dehydration (ToDEAD) [Fictional]
+* Tower of Being Killed By a Dog (ToBKBaD) [Fictional]
+* Tower of Absolutely Mentally Suffering (ToAMS) [Fictional]
+
+==Towers with this Difficulty==
+* [[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+* [[Monolith of Deadly Difficulty Cluster]] (MoDDC)
+* [[Great Citadel of Custom, Impossible, and Normal Difficulties]] (GCoCIaND)
+* Monolith of The Endless Difficulty Needles: Revamp (MoTEDN:R)
+* [[The Pyramid Brothers/JJT Pyramid|JJT Pyramid]] (JP)
+* [[Obelisk of Cubox's Difficulty Chart]] (OoCDC)
+
+==Trivia==
+* The release of [[File:UDEADSONicon.png|frameless|30x30px]] '''U DED SON''' is the 22nd of December 2019, making it the oldest difficulty on the [[JToH's Joke Towers (JJT) Wiki|wiki]].
+* This difficulty was revamped by ''Turbomaxwel.''
+* This difficulty is one of the original "[[Difficulties Beyond Malicious]]".
+* The origin of this difficulty's icon is from a Reddit post on r/pics that shows a dog getting hit with a frisbee.
+
+==Continuing from this point==
+You Really beat this difficulty? Well, go to the first difficulty of Low Class 6, [[File:Funny-windows-error22.jpg|frameless|30x30px]] [[REEE... !!!]].
+{{MainDifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 6]]
+[[Category:Difficulty]]
+[[Category:Retro]]
+[[Category:Road of Pseudo Difficulties]]
+[[Category:Humanly Impossible]]

@@ -1,0 +1,98 @@
+__NOTOC__{{Large Page}}{{Unclassified}}{{BetterQuote|quoter=someone random|text=You look on a mirror and look yourself!}}
+<br />{{NewDifficultyInfobox|main_difficulty=|original_class=[[:Category:Class 0|Skyline Class 0]]|previous_class(es)=[[:Category:Class 0|Skyline Class 0]]|prior_previous=* {{Class0Difficulties|Lovely}} [[w:c:jtohs-easiest-towers:Lovely|Lovely]]
+* [[File:Brilliant.png |30px]] [[Brilliant]] (Removed Difficulty)|class=[[:Category:Unclassified |Unclassified]]|prior_next=* [[File:Piece O Cake UHD.jpeg |30px]] [[Piece o' Cake]]|image1=<gallery>
+New  Reflectanceable image.png | Current
+Reflectanceable.jpg | Old
+Reflect.png | Original
+</gallery>|difficulty_range=[[:Category:Class Negative|Class Negative]] - [[:Category:Class 12|Class 12]]|creator(s)=*[[User:Viranenthusiast|Viranenthusiast]]
+*[[User:Astrominal|Astrominal]] (Co-Owner)|date_added=14/01/2021|previous_main_difficulty(ies)=* {{Class0Difficulties|Lovely}} [[w:c:jtohs-easiest-towers:Lovely|Lovely]]
+* [[File:Brilliant.png |30px]] [[Brilliant]] (Removed Difficulty)|type=|title1=<big><big><span style="color:cyan;text-shadow: 0 0 10px #64ffff,2px 4px 0 rgba(0,255,255,.3),-2px -4px 0 rgba(255,255,255,.3)">'''Reflective'''</span></big></big>|original_name=Reflectance|short_name='''R'''|previous_name=Reflectanceable}}
+==What is <span style="color:cyan;text-shadow: 0 0 10px #64ffff,2px 3px 0 rgba(0,255,255,.3),-2px -3px 0 rgba(255,255,255,.3)">'''Reflective'''</span>? ==
+[[File:New  Reflectanceable image.png|frameless|40x40px]] <span style="color:cyan;text-shadow: 0 0 10px #64ffff,2px 2px 0 rgba(0,255,255,.3),-2px -2px 0 rgba(255,255,255,.3)">'''Reflective'''</span> is an [[:Category:Unclassified |'''Unclassified''']] difficulty. This difficulty ranges from [[:Category:Class Negative|'''Class Negative''']] to '''[[:Category:Class 12|Class 12]]''', the obstacle depends how much amount of reflectance the floor has. Take a example of a floor that is 9.22Qn reflectance, the floor will be in [[:Category:Class 8|Class 8]].  
+
+<span style="color:cyan;text-shadow: 0 0 10px #64ffff,2px 2px 0 rgba(0,255,255,.3),-2px -2px 0 rgba(255,255,255,.3)">'''Reflective'''</span> was originally a sub-difficulty located in [[:Category:Class 0|'''Class 0''']], the first version was a sub-difficulty of [[File:101352 (1).jpg|frameless|30x30px]] ''Failable'' (deleted) (14 January 2021 to 30 January 2021‎). Later it was moved to a different difficulty, which was [[File:Brilliant.png |30px]] ''Brilliant'' (deleted) (31 January 2021 to 11 July 2021‎). Even later it was moved again to {{Class0Difficulties|Lovely}} [[Lovely]] (12 July 2021 to 2 February 2022). At February 2022 the page creator ([[User:Astrominal|Astrominal]]) requested [[User:YourNuglyguy|YourNuglyguy]] to move this difficulty to [[:Category:Unclassified |'''Unclassified''']], and it was accepted.  
+
+==Obstacles==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="2" style="text-align:center; width: 1%" |Obstacles
+|-
+!'''n <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+!'''Class'''
+|-
+!'''0 <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|<big>'''[[:Category:Class Negative|Class Negative]]'''</big>
+|-
+!'''0.1 to 1 <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 0|<big>'''Class 0'''</big>]]
+|-
+!'''1 to 5 <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 1|'''<big>Class 1</big>''']]
+|-
+!'''5 to 100 <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 2|'''<big>Class 2</big>''']]
+|-
+!'''100 to 100k <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 3|'''<big>Class 3</big>''']]
+|-
+!'''100k to 100M <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 4|'''<big>Class 4</big>''']]
+|-
+!'''100M to 100B <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 5|'''<big>Class 5</big>''']]
+|-
+!'''100B to 100T <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 6|<big>'''Class 6'''</big>]]
+|-
+!'''100T to 100Qd <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 7|<big>'''Class 7'''</big>]]
+|-
+!'''100Qd to 9.22Qn <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 8|<big>'''Class 8'''</big>]]
+|-
+!'''9.22Qn to 10Dc <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 9|<big>'''Class 9'''</big>]]
+|-
+!'''1x10^34 to 1x10^100 <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 9|<big>'''Class 10'''</big>]]
+|-
+!'''1x10^100 to 1x10^255 <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>'''
+|[[:Category:Class 11|<big>'''Class 11'''</big>]]
+|-
+!'''1x10^255 to''' '''1.79×10^308 <span style="background:linear-gradient(180deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Reflectance</span>, if you go beyond 1.79×10^308, it always turn into inf (infinite) because 1024-bit limit.'''
+|[[:Category:Class 12|<big>'''Class 12'''</big>]]
+|}
+
+==Trivia:==
+
+*This difficulty was originally [[:Category:Class 0|'''Class 0''']] and a Sub-Difficulty of {{Class0Difficulties|Lovely}} [[Lovely]]. 
+**and before that it was different Sub-Difficulty of {{Class0Difficulties|Lovely}} [[Lovely]]. It was [[File:Brilliant.png |30px]] ''Brilliant'' but it sadly got deleted.
+*The [[File:Reflect.png|frameless|35x35px]] Original icon was made by  [[User:Jtohnoob1anonymous|'''Jtohnoob1anonymous''']]. (new account Jtohnoob2anonymous)
+*The [[File: Reflectanceable.jpg|frameless|40x40px]] Old icon is a google image.
+*The [[File:New  Reflectanceable image.png|frameless|35x35px]] [https://jtohs-joke-towers.fandom.com/wiki/Reflectanceable?commentId=4400000000000049028 New icon] was made by [[User:AlephWasTaken|AlephWasTaken]].
+*This difficulty is made by [[User:Astrominal|Astrominal]].
+*This difficulty was moved to [[:Category:Unclassified |'''Unclassified''']] with [[User:YourNuglyguy|YourNuglyguy]]'s permission.
+*The original name for this difficulty was Reflectanceable. This was changed because most people wanted it changed to "Reflective" over "Reflectanceable".
+*''Old grammar fixed by [[User:Noobinthetrash|'''Noobinthetrash''']].''
+
+==Towers with in this Difficulty: ==  
+*Reflected Endless Finalized Eternal Compliances Tower (R.E.F.L.E.C.T) (fictional)
+*[[REFLECTION Facility]] (fictional)
+*[[Toda but reflective difficulty]] (nonfictional)
+*N/A
+
+==Gallery==
+<gallery>
+File:New  Reflectanceable image.png|Current  Reflective Image (image by: AlephWasTaken)
+File: Reflectanceable.jpg|Old  Reflective Image
+File:Reflect.png|Original  Reflective Image
+File:Refle. Armour.JPG| Reflective's Armour
+</gallery>
+
+==Continuing on from this point==
+There is no continuing from this point, but you can practice the mind-easing difficulties from [[:Category:Class Negative|'''Class Negative''']] to [[:Category:Class 15|'''Class 15''']].
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Unclassified]]
+[[Category:Large Pages]]

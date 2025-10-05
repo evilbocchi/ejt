@@ -1,0 +1,76 @@
+{{Scrollbox|Notices='''Notice Scrollbox'''
+{{Classic}}
+{{Humanly Possible}}}}
+==Overview==
+{{NewDifficultyInfobox
+|title1 = Maniacal
+|image1 = ManiacalNew.png
+|caption1 = Hard, I guess.
+|class = [[:Category:Class 2|Class 2]]
+|type = Normal Difficulty
+|previous = {{Difficulty|Challenging}}
+|next = {{Difficulty|Intense}}
+|decal_id = Not Available
+|main_difficulty = 
+
+|date_added = 12/10/2020
+|hex_color = #270000
+|rbg_color = 39, 0, 0
+|cmyk_color = 0%, 100%, 100%, 74%
+|hsv_color = 0% ,100º, 26º
+|hsl_color = 0%, 100º, 13º
+|difficulty_range=Low to High|sub_difficulty(ies)={{Difficulty|Hectic}}|creator(s)=YataDev|rating=5.5|alt_previous={{Difficulty|Irritating}}|alt_next={{Difficulty|Hectic}}|rgb_color=34, 0, 0}}{{Difficulty|Maniacal}} is a Class 2 difficulty that is in between {{Class2Difficulties|Challenging}} [[w:c:jtoh:Challenging|Challenging]] and {{Class2Difficulties|Intense}} [[w:c:jtoh:Intense|Intense]] with a rating of 5.5. The difficulty contains a sub-difficulty called {{Difficulty|Hectic}} with a rating of 5.75. {{Difficulty|Maniacal}} consists of difficult gameplay that can irritate the majority of players, including talented obbyists. If you are not cautious, you will most likely fall off.
+
+The vast bulk of obstacles are hard obstacles and motions that, if not done properly, can lead to failure. Anyone attempting a Maniacal difficulty tower should practice first.
+
+==Icon Representation ==
+{{Difficulty|Maniacal}} icon is representated by a singular dark maroon color. Since the icon is very basic, there isn't much to explain about the icon itself.
+
+==Obstacle Section==
+<tabber> 
+|-| 
+Low=
+===Low [[File:ManiacalNew.png|frameless|40x40px]] <span style="background:linear-gradient(#990000,#990000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #990000 0px 0.25px 1px;">Maniacal</span></span> ===
+*10.4 stud jump (Climbable)
+*10.26 stud jump (Unclimbable)
+* 7.5 stud wrap
+|-|
+Middle=
+===Middle [[File:ManiacalNew.png|frameless|40x40px]] <span style="background:linear-gradient(#990000,#990000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #990000 0px 0.25px 1px;">Maniacal</span></span> ===
+*10.6 stud jump (Climbable)
+*10.4 stud jump (Unclimbable)
+*7.7 stud wrap
+|-|
+High=
+===High [[File:ManiacalNew.png|frameless|40x40px]] <span style="background:linear-gradient(#990000,#990000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #990000 0px 0.25px 1px;">Maniacal</span></span> ===
+*10.8 stud jump (Climbable)
+*10.6 stud jump (Unclimbable)
+*8 stud wrap
+|-|
+</tabber>
+
+==Towers== 
+
+*[[w:c:jtoh:Tower of Angled Scenery|Tower of Angled Scenery]]
+*[[w:c:jtoh:Tower of Menacing Creations|Tower of Menacing Creations]]
+*[[w:c:jtoh:Tower of False Elysium|Tower of False Elysium]]
+
+==Trivia== 
+
+*This difficulty got revamped on August 4 of 2022.
+*Formerly, this difficulty was a sub-difficulty until the revamp.
+
+==Moving On==
+Congratulations on beating this difficulty, you should now move on to beating harder towers such as ToIE or CoLS that are {{Class2Difficulties|Intense}} [[w:c:jtoh:Intense|Intense]] difficulty. 
+
+{{DifficultiesNavbox}}
+
+<br />
+[[Category:Difficulties]]
+[[Category:Class 2]]
+[[Category:Possible]]
+[[Category:Revamped Difficulty]]
+[[Category:Humanly Possible]]
+
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]

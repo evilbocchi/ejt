@@ -1,0 +1,146 @@
+{{DISPLAYTITLE:<span style="color:#DDFADC">'''Automatic'''</span>}}
+{{NoticeScrollboxNew|Notices={{Humanly Possible}}{{JET}}{{Former Class Finale|reason=Spontaneous was added}}}}
+{{ArticleTab|blankgal=|changebg=#3EB489|custom=Revamped Ver}}{{NewDifficultyInfobox|title1=[[File:AutomaticNew.png|30px]] <span style="color:#DDFADC">'''Automatic'''|image1=<gallery>
+AutomaticNew.png | Current/EJT
+SptAutomatic.png | Seven's Pleasant Towers
+</gallery>|caption1='''You don't even need to move to beat this difficulty, which makes it so boring!'''|class=[[:Category:Class 0|''Class 0'']]|type=[[:Category:JET Difficulties|''EET Difficulty'']]|previous=[[File:Frivolous.jpg|30px]] [[Frivolous]]|next=[[File:Spontaneous.png|30px]] [[Spontaneous]]|class_range=Peak|decal_id=''Decal:'' [https://www.roblox.com/library/6382419173/Automatic-Difficulty 6382419173]|sub_difficulty(ies)=|chain(s)=|official_music(s)=[https://youtu.be/JkQ7GhATWv8 nelward - hi]|creator(s)=[[User:KoolTheEpic|''KoolTheEpic'']] and [[User:Touchgrass210779|''Touchgrass210779'']] <sub>New Owners</sub>
+[[User:Rarezites|''Rarezites'']] <sub>(Old Owner)</sub><br/>
+[[User:TasmanianRex|''TasmanianRex'']] <sub>(Oldest Owner)</sub>|short_name=<span style="color:#DDFADC">'''Auto'''|date_added=*19th of January of 2020 (JET)
+*20th of May of 2022 (JJT)|revamp_date=30th of July of 2022|difficulty_range=''Low - High''|rating=-17|alt_previous=[[File:Vibeness.png|30px]] [[Vibeness]]}}
+
+==Introduction==
+Welcome to <span style="color:#DDFADC">'''Automatic,'''</span> {{USERNAME}}! also known as a very boring difficulty. But that's fine, because it is very easy! Actually, you don't even need to do anything to beat this difficulty! Just sit back and watch your Roblox character get pushed to the winpad/teleporter! It is a.. Very boring experience, but. You'll get to the hang of it. Have fun! <small>That was ironic by the way...</small>
+==What is <span style="color:#DDFADC">'''Automatic'''</span>?==
+[[File:AutomaticNew.png|30x30px]] <span style="color:#DDFADC">'''Automatic'''</span> is a [[:Category:Class 0|''Peak'' ''Class 0'']] difficulty, represented with a light-green background and a pixelated ":D" in it. It originates from '''JToH's Easiest Towers''', and was made by [[User:TasmanianRex|''TasmanianRex'']] but revamped by [[User:Rarezites|''Rarezites'']]. It is also placed in-between [[File:Unlosable.png|33x33px]] [[Unlosable|<span style="color:#EB81FC">'''Unlosable'''</span>]] along with it's sub-difficulties, and [[File:JoyfulDiffIcon.png|30x30px]] [[Joyful|<span style="color:#C0FF00">'''Joyful'''</span>]]. But ''Rarezites'' is the new owner as ''TasmanianRex'' has transferred ownership towards them.
+
+Obstacles, in this difficulty are automated by '''JToH's Client Objects & Conveyors''', hence it's name. <span style="color:#DDFADC">'''Automatic'''</span>, it is very boring and they are just basically waiting simulators. You will gain almost no enjoyment over it, other than watching your Roblox character get automatically pushed to the teleporter/WinPad. It is highly recommended to just simply skip difficulties below {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]], as these difficulties bring you no challenge or enjoyment at all. Unless the player fails on purpose (Example: Walking Off), so maybe just skip to {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]. It's for your better good, and you'll have way more fun.
+
+==Icon Representation==
+For you blind people who cannot see the icon on the infobox, let me explain it for you.
+
+{{IconRepresentationOfficialOnly|color=#DDFADC|image=[[File:AutomaticNew.png|100x100px]]|description=Alright! So, let's first represent the background. It is a very light-green background. Representing ease and peace, and then the pixelated black face which represents the icon's happiness! 
+
+
+And for the second one, its dark blue/purplish with a :P white emoticon. Very simple icons eh?}}
+
+==Towers==
+
+===Towers Measured To Be This Difficulty:===
+These are the towers, which are in the difficulty zone of <span style="color:#DDFADC">'''Automatic'''</span>.
+
+''Note that this won't contain every tower which is measured to be Automatic. You can help by adding towers!''
+<tabber>
+|-|
+TNZT=
+*BoER - [[w:c:tnzt:Box of Event Revivals|Box of Event Revivals]] [TNZT // Event]
+*ToD - [[w:c:tnzt:Tower of Doubt|Tower of Doubt]] [TNZT // Ring 2: Mountains]
+*SoEI - [[w:c:tnzt:Steeple of Excess Ink|Steeple of Excess Ink]] [TNZT // Ring 2: Mountains // The Steeple Peak]
+*ToWATF - [[w:c:tnzt:Tower of Wrapping Around The Frame|Tower of Wrapping Around The Frame]] [TNZT // Ring 1: Sky]
+*ToSS - [[w:c:tnzt:Tower of Smooth Sailing|Tower of Smooth Sailing]] [TNZT // Ring 3: Grasslands]
+*ToWO - [[w:c:tnzt:Tower of Wacky Overcomings|Tower of Wacky Overcomings]] [TNZT // Ring 3: Grasslands]
+*SoWT - [[w:c:tnzt:Steeple of Washed Thins|Steeple of Washed Thins]] [TNZT // Ring 3: Grasslands // Temporal Village]
+*ToNMA - [[w:c:tnzt:Tower of No Movements Adventure|Tower of No Movements Adventure]] [TNZT // Ring 4: Archipelago]
+*ToCSFA - [[w:c:tnzt:Tower of Climb Stairs For Admin|Tower of Climb Stairs For Admin]] [TNZT // Ring 1: Sky // Bygone Isles]
+*SoALC - [[w:c:tnzt:Steeple of A Lotta Conveyors|Steeple of A Lotta Conveyors]] [TNZT // Ring 1: Sky // Bygone Isles]
+*ToFaW - [[w:c:tnzt:Tower of Falling and Winning|Tower of Falling and Winning]] [TNZT // Fanon]
+|-|
+LAaBT=
+*ToWanM - [[w:c:laabt:Tower of Winning and no Move|Tower of Waiting and no Move]] [LAaBT // Layer 1: Inner Core]
+*ToPF - [[w:c:laabt:Tower of Planal Falling|Tower of Planal Falling]] [LAaBT // Layer 1: Inner Core]
+*ToJaCW - [[w:c:laabt:Tower of a Jarring and Claustrophobic Wait|Tower of Just a Considerable Wait]] [LaABT // Layer 2: Outer Core]
+*ToBT - [[w:c:laabt:Tower of Balloon Travelling|Tower of Balloon Travelling]] [LaABT // Layer 2: Outer Core]
+=====Tower Rush=====
+*L1TR - [[w:c:laabt:Layer 1 Tower Rush|Layer 1 Tower Rush]] [LAaBT // Layer 1: Inner Core]
+|-|
+Other=
+*NECttETITT - [[Not Even Close to the Easiest Tower In This Temperature]]
+*ToA - [https://www.roblox.com/games/80166612504189/NEON-Not-Too-Easy-Towers Tower of Automation] [NTET // Area 1]
+*NEaWATF - [https://www.roblox.com/games/8407219787/The-TNZT-NEaT-Project Not Even a Wrapping Around The Frame]
+*ToME - [https://www.roblox.com/games/8457114449/BIOME-3-Jacks-Tiny-Towers-Of-Hell Tower of Minimal Effort] [JTTOH // Biome 0: Noob Zone]
+*ToFR - [https://www.roblox.com/games/80166612504189/1K-Event-ToFR-Not-Too-Easy-Towers Tower of Fake Remorseless] [NTET // Area 2]
+*ToLN - [https://jtohs-easiest-towers.fandom.com/wiki/Tower_of_Lol_No Tower of Lol No]
+*ToRU - [https://jtohs-easiest-towers.fandom.com/wiki/Tower_of_Rising_Up Tower of Rising Up]
+|-|
+Fictional=
+*RoAM - [[Room of Automatic Movement]]
+</tabber>
+
+===Appearances:===
+These are projects which have this difficulty but are not measured to be this difficulty.
+<tabber>
+|-|
+Games=
+<font size=5>Games</font></br>
+* DM - [[Difficulty Mines]] ''(Sector 1)''
+* DBS - [[Difficulty Button Simulator]] ''(Class 0)''
+* DRPG - [[Difficulty RPG]] ''(Class 0)''
+* DCRPG - [[Difficulty Chart RPG]] ''(Class 0)''
+* FDR - [[Funny difficulty rpg]] ''(Class 0)''
+* DRT - [[Difficulty RPG Tower]] ''(Class 0/Floor 2)''
+* BaD - [[Be a difficulty|Be a Difficulty]]
+|-|
+Difficulty Chart Towers=
+''These are towers which get harder, literaly all of them are impossible btw.''
+* {{Class8Difficulties|Supreme}} OoIDC - [[Obelisk of Impossible Difficulty Chart]] ''(The Noob Zone)''
+* {{Class8Difficulties|Supreme}} OoEDA - [[Obelisk of Endless Difficulty Amplifying]] ''(Floor 2)''
+* {{Class24Difficulties|DTD}} MoDDA - [[Monolith of Deadly Difficulties Approaching]] ''(Floor 21)''
+* {{Class25Difficulties|TFinD}} MoCED - [[Monolith of Completely Endless Difficulties]] ''(Floor 205)''
+* {{Class25Difficulties|TFinD}} GCoCIaND - [[Great Citadel of Custom, Impossible, and Normal Difficulties]] ''(The Noob Zone)''
+* (Above TFinD) Somhir of Eternally Fabricating Difficulties (very high number)
+* {{Class8Difficulties|Supreme}} OoGDC - [[Obelisk of Great Difficulty Chart]] ''(Floor 5)''
+</tabber>
+
+==Obstacles==
+There are only 3 spectrums, due to how easy it is. Hope that's reasonable for you.
+<tabber>
+|-|
+Low=
+===Low <span style="color:#DDFADC">'''Automatic'''</span>===
+Most obstacles here, rely on speed. They are very automatic though.
+* ''Spawn on a blazing speed conveyor, and very quick client sides objects which move you to the winpad/teleporter.''
+* ''Wait for 325 seconds.''
+* ''Elevators push you at sonic speed.''
+|-|
+Middle=
+===Middle <span style="color:#DDFADC">'''Automatic'''</span>===
+Average Automatic obstacles, very boring aswell.
+* ''Spawn on high speed conveyors, and watch as Client Sides Objects push you towards the winpad/teleporter.''
+* ''Wait for 375 seconds.''
+* ''Spawn on a looping conveyor, but wait for 20 seconds to fall onto the winpad/teleporter''
+|-|
+High=
+===High <span style="color:#DDFADC">'''Automatic'''</span>===
+These obstacles are automatic and push you to victory but they are so boring. That you would wanna leave.
+* ''Spawn on conveyors with slow speed, and basically watch back. And wait to get pushed to the teleporter/winpad.''
+* ''Wait for 425 seconds.''
+* ''Spawn on a slow automatic maze. And you have to WAIT through the entirety of it.''
+</tabber>
+
+==Trivia==
+''This is a trivia section, please add any information. Which relates to this difficulty.''
+
+*This difficulty originated from [[Obelisk of Impossible Difficulty Chart]], meaning this has existed before the EET wiki was created. The same can be true from other [[Obelisk of Impossible Difficulty Chart]]'s TNZT difficulties.
+*Many Obelisk [[Difficulty Chart|Difficulty Chart Towers]] use this difficulty as their first floor.
+*It was transferred from EET to EJT, after EET was abandoned.
+*''TasmanianRex'' has transferred ownership of this difficulty to ''Rarezites'' due to Tas's resignation from his rank and quitting this community. His contributions to this community and wiki will never be forgotten, and his help to shape and build the community the way it is right now will never be forgotten. You will be greatly missed TasmanianRex. Thank you for being here.
+*This difficulty has been revamped for the first time.
+*In Seven's Pleasant Towers (which is a fangame with this, [[Unlosable|Unfailable]] and Effortless-Remorseless), Automatic has a different icon.
+
+==Gallery==
+<gallery>
+File:AutomaticDifficulty..webp|Automatic's Icon
+File:Autosign.PNG|Automatic Sign From a DC Chart
+</gallery>
+
+==What's Next?==
+I'm honestly very surprised you did not just leave the game, and quit out of boredom. Anyways, head on to [[File:JoyfulDiffIcon.png|30x30px]] [[Joyful|<span style="color:#C0FF00">'''Joyful'''</span>]] to continue.
+{{MainDifficultiesNavbox}}
+[[Category:Class 0]]
+[[Category:Difficulties]]
+[[Category:Possible]]
+[[Category:Unfailable Difficulties]]
+[[Category:Emoticon Difficulties]]
+[[Category:Official Difficulty]]
+[[Category:Two color icon]]
+[[Category:Classic Difficulty]]
+[[Category:Starter Zone]]

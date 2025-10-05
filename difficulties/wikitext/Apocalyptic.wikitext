@@ -1,0 +1,298 @@
+<div style="background:#660B0B;padding:1em;font-family:rubik;border-left:5px solid #AA0909">
+{{Scrollbox|Notices=
+'''Notices'''
+{{Large Page}}
+{{Unfinished}}
+{{TAS Impossible}}
+{{Revamp}}
+}}
+----
+{{JToHW Quote|text='''why do i hear boss music????'''|quoter=TheGalgola}}
+----
+==What is <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span>?==
+{{NewDifficultyInfobox|image1=Apocalyptic.png|caption1=The three exclamations mark your screams of agony.|class=[[:Category:Class 5|Low Class 5]]|creator(s)=[[User:Sanjay2133|Sanjay2133]] - Page Owner
+[[User:Viranenthusiast|Vira]] - Revamper!|full_name=|date_added=1/3/22|previous=[[File:Invigorating.jpg|30px]] [[Invigorating]]|original_name=|next=[[File:DESTRUCTIVE.png|30px]] [[Destructive]]|original_class=[[:Category:Class 3|Low Class 3]]|original_main_difficulty={{Class3Difficulties|Catastrophic}} [[w:c:ktoh:Catastrophic|<span style="color:#FFFFFF">Catastrophic</span>]]|original_creator(s)=IDK|title1=Apocalyptic|type=[[:Category:Difficulties|Humanly Impossible Difficulty]]|previous_class(es)=[[Class 3]]|previous_type(s)=|previous_main_difficulty(ies)=|decal_id=17359636968|class_range=Low Class 5|main_difficulty=N/A|original_type=Sub-Difficulty|prior_next=*[[File:TooBad dif.PNG|30px]][[TooBad]]
+*[[File:DESTRUCTIVE.png|30px]] [[Destructive]]
+*Unknown class 3 difficulty|prior_previous=*[[File:7F85D380-1EFD-40B2-A5DE-F2FD159E5D89-1-.png|30x30px]] Underestimating
+*[[File:Destroineasy.png|30x30px]] Unrebirth Destroiny
+*[[File:Uncorrupted Displace.png|30x30px]] Uncorrupted Displace
+*[[File:PissPants.png|30x30px]] Piss Pants
+*Hat Kid
+*[[File:Corrupted Serene.png|30x30px]] Corrupted Calmness
+*[[File:Ifinite dif.PNG|30x30px]] Ifinite
+*[[File:New epsilon .PNG|30x30px]] Hellicious
+*[[File:Malicious.png|30x30px]] [[w:c:jtohs-hardest-towers:Malicious|Malicious]]
+*[[File:Too.Calamity wow so wow.png|30x30px]] TooCALAMITY
+*Unknown class 3 difficulty|short_name=A|alt_names=Apocalypse|rating=35|alt_next=[[File:Eternaloutrage.jpg|30px]] [[Eternal Outrage]]|sub_difficulty(ies)=[[File:Eternaloutrage.jpg|25px]] [[Eternal Outrage]]
+[[File:Aight.jpg|25px]] [[Gar-Insane]]}}
+<tabber>
+Main Introduction=
+[[File:Apocalyptic.png|30px]] <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span> is a '''Low Class 5''' humanly impossible difficulty, and has had many, many difficulties before and after this difficulty, due to it being one of the OG Class 5 difficulties. It is much harder than [[File:Invigorating.jpg|30px]] [[Invigorating]] although slightly easier than [[File:DESTRUCTIVE.png|30px]] [[Destructive]].
+
+[[File:Apocalyptic.png|30px]] <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span> has two sub-difficulties called [[File:Eternaloutrage.jpg|30px]] [[Eternal Outrage]] and [[File:Aight.jpg|30x30px]] [[Gar-Insane]], from the dark depths of being lost due to the TooChain's removal. Oh, one more thing about the sub difficulties. The creator made a Low Budget icon for Low Budget Apocalyptic, which doesn’t exist yet. However, the icon is still here in case someone actually wanted to make a version of it. (which no). You can find the icon right here: [[File:Apocalyptic Low Budget.png|30x30px]]. But the thing is, the creator forgot about all the plans to make Low Budget difficulties, due to the trend dying, but is still possible going to be made.
+
+This difficulty is how its name also suggests, absolutely ludicrously impossible. There is literally ''no way'' you can actually attempt this legitimately. Try as you might, there is no point in attempting to tackle on this difficulty, as it features obstacles that you can only complete in your dreams, not even completable by TAS without hacks.
+|-|
+History=
+===History===
+[[File:Apocalyptic.png|30px]] <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span> was originally harder than [[File:Too.Calamity wow so wow.png|30px]] ''TooCALAMITY'', however that got graved, along with the whole too chain. Then, it was harder than [[File:Malicious.png|30x30px]] [[w:c:jtohs-hardest-towers:Malicious|Malicious]], before [[File:New epsilon .PNG|30x30px]]''Hellicious'' became before Apocalyptic. Somewhere in this mix, it was harder than ''Hat Kid'', which got deleted as well. 
+
+[[File:Apocalyptic.png|30px]] <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span> was easier than [[File:Ifinite dif.PNG|30x30px]] ''Ifinite'', which also got deleted, although this time in Armageddon VI. It was also harder than a horrible difficulty called Piss Pants, but that also got deleted, as you’d expect. Yet again, another difficulty called [[File:Corrupted Serene.png|30x30px]] ''Corrupted Calmness'' came to become the new difficulty before this one, but obviously that got deleted in the difficulty purge. Afterwards, it was harder than  [[File:Uncorrupted Displace.png|30x30px]]''Uncorrupted Displace''.
+
+Of course, [[File:Uncorrupted Displace.png|30x30px]]''Uncorrupted Displace'' IS GONE! That means more continuous updates on this thing, even though it should be kind of completely...dead. So then, it was harder than [[File:DoesNotComputeNew.png|30x30px]] [[Does Not Compute]], which was originally ''harder''. But then, [[File:Uncorrupted Displace.png|30x30px]]''Uncorrupted Displace'' came back! Now you're harder than [[File:Uncorrupted Displace.png|30x30px]]''Uncorrupted Displace''. I can't wait for something to happen to [[File:Uncorrupted Displace.png|30x30px]]''Uncorrupted Displace'' again!
+
+Well, uhh.. now [[File:Destroineasy.png|frameless|30x30px]] ''Unrebirth Destroiny'' is here, so now this difficulty is harder than it. Oh wait, that difficulty got buffed to class 7 to be a true Unrebirth difficulty, so now you're back to being harder than the other UD, which is [[File:Uncorrupted Displace.png|30x30px]] Uncorrupted Displace. Well, as usual, there was another difficulty before this created. It is called ‘[[File:7F85D380-1EFD-40B2-A5DE-F2FD159E5D89-1-.png|30x30px]] ''Underestimating''’.
+
+This stayed for a while, until a very text-based specimen named [[File:Text.jpg|30x30px]] ''Complete: Text'' came in and then proceeded to write a whole essay, that I didn't listen to. But, the essays got it deleted, and so did Underestimating, so now it’s back to being easier than [[File:DoesNotComputeNew.png|30x30px]] [[Does Not Compute]]. It’s gone back to its roots, although not like that’ll last long though.
+
+Well, it was also easier than [[File:DESTRUCTIVE.png|30px]] [[Destructive]], but a difficulty called [[File:TooBad dif.PNG|30x30px]]''TooBad'' went and made that false, but it rewrote itself to be true, since [[File:TooBad dif.PNG|30x30px]]''TooBad'' is gone. Now you're back to being easier than  [[File:DESTRUCTIVE.png|30px]] [[Destructive]]. However, not anymore, hence why it’s in the history section.
+|-|
+Other Info=
+===Rules to making an <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span> floor===
+So, you wanna make a tower or a floor in this difficulty? Well, follow these rules.
+#Divide the floor into multiple sections (optional)
+#Add rising lava (Choose whatever speed you want as long as it fits the difficulty) 
+#Add an alarm sound effect, along with the regular music (If you want the music that is) (also optional)
+#Add an alarm light (cc false) (optional)
+#The floor must be dark, the only light source being the lava and the alarm light.
+</tabber>
+
+==Icon Representation==
+
+===New Icon===
+[[File:Apocalyptic.png|center|200x200px]]
+The newer icon was made by PilipinoG. It was made in pixel art and features two borders, one of brown and another of orange. The background is composed of orange and bright orange, reflecting lava like the nature of the difficulty. In the center, there are 3 exclamation marks representing the difficulty.
+
+However, due to The Difficulty Extermination and this difficulty's move to Class 5, <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span> has since then become red, though having the exact same style.
+
+===Old Icon===
+<center>[[File:ApocalypticOld.webp|200x200px]]</center> 
+The older icon features a background is a red to yellow gradient, representing lava and fire. The icon also includes 3 exclamation marks, representing the alarming and your screams of agony. 
+
+==Rules to making an <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span> floor==
+So you wanna make a tower or a floor in this difficulty? Well, follow these rules.   
+#Divide the floor into multiple sections (optional)
+#Add rising lava (Choose whatever speed you want as long as it fits the difficulty) (may be optional)
+#Add an alarm sound effect, along with the regular music (If you want the music that is) (also optional)
+#Add an alarm light (cc false) (optional)
+#The floor must be dark, the only light source being the lava and the alarm light
+#''<s>The entire floor must be 1,000 x 1,000</s>'' NO. Stop trying to give yourself attention. Like, literally nobody knows about your existence. Except for the fact that this page was edited a lot due to all the difficulty changes.
+
+== Obstacles==
+<tabber>
+Catches=
+===Catches===
+Wait, you thought that there was not going to be any catches? I mean, I know this was made in early 2022, but you still need to endure all of the catches of course.
+*Red lava consumes the individual rooms, obviously insta-kill.
+*There is an apocalypse, noob. All buttons are timed, since you don't have all day.
+*The only source of light is the lava and the alarm light.
+*You must complete 8 separate rooms, each room harder than the prior.
+|-|
+Obstacles=
+==Obstacles in <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">Apocalyptic</span>==
+This difficulty is split into many, many parts. In fact, there are 16 parts to the spectrum.
+{{#tag:tabber|True Negative=
+=== True Negative Apocalyptic ===
+====Generic Obstacles====
+
+* WIP
+
+====Unique Obstacles====
+
+* Walking a 0.001 stud tightrope, but there are multiple insta-kill brick spinners and a 12 stud wrap in the middle.
+* Kaan flick around a 3.5 stud high truss, but there's an insta-kill at the bottom of it.
+* Fit yourself into a 1.5 stud gap, then fling yourself up a 5x5 area dodging multiple teleporters that teleport you back to a random class 5 difficulty
+* Do a backwards 1x11 stud wraparound with a 1.1 stud squeeze in the middle.
+
+{{!}}-{{!}}
+True Negative Gap=
+=== True Negative Gap Apocalyptic ===
+====Generic Obstacles====
+
+*
+====Unique Obstacles====
+
+* WIP
+
+{{!}}-{{!}}
+Negative =
+=== Negative Apocalyptic ===
+====Generic Obstacles====
+
+* WIP
+
+====Unique Obstacles====
+
+* WIP
+
+{{!}}-{{!}}
+Negative Crossing=
+=== Negative Crossing Apocalyptic ===
+====Generic Obstacles====
+
+* WIP
+
+====Unique Obstacles====
+
+* WIP
+
+{{!}}-{{!}}
+Belowground=
+=== Belowground Apocalyptic ===
+*0.61 stud lodge
+*Luck clip through a 3 stud insta-kill spinner across a 14.2 stud gap
+*2.53 stud lodge upwards 20-30 studs with multiple insta-kill spinners
+*Insta-kill mid-air corner flip
+
+{{!}}-{{!}}
+Tutorial=
+=== Tutorial Apocalyptic ===
+*14.24 stud wraparound
+*14.63 stud jump (unclimbable)
+*50 stud upwards diagonal cylindrical wall walk with insta-kill walkarounds every 10 studs
+
+{{!}}-{{!}}
+Baseline=
+=== Baseline Apocalyptic ===
+*0.89 stud squeeze
+*Mid-air luck clip to a laugh glide with a platform that disappears in 0.03 seconds
+*8.23 stud stickout
+*5.23 by 4 stickout
+
+{{!}}-{{!}}
+Low=
+=== Low Apocalyptic ===
+*0.73 stud upwards lodge that becomes insta-kill every 3 seconds
+*14.59 stud jump (climbable)
+*14.21 stud jump raised by a stud
+*13.63 stud jump raised by 4 studs
+
+{{!}}-{{!}}
+Middle=
+=== Middle Apocalyptic ===
+*Cylindrical Vertical Wallwalk for 100 studs with an insta-kill protruding 1 stud every 25 studs
+*3.26 stud laugh clip
+*5.32 stud luck clip
+
+{{!}}-{{!}}
+High=
+=== High Apocalyptic ===
+
+{{!}}-{{!}}
+Peak=
+=== Peak Apocalyptic ===
+*-3.1 velocity spinner to a 0.01 stud with a 12 stud wrap
+*2.54 stud dance clip
+*10.3 stud no-jump
+
+{{!}}-{{!}}
+Borderline=
+=== Borderline Apocalyptic ===
+*11.34 stud jump with half-speed
+*Pick 18 random characters. If those characters are order of "JToH's Joke Towers" then do a <s>EXPAN</s> 14.34 stud wraparound 2 times in a row
+*Make this difficulty a legendary difficulty
+*Do a 3.53 stud laugh-glide
+
+{{!}}-{{!}}
+Skyline=
+=== Skyline Apocalyptic ===
+*Survive on an insta-kill brick for 30 seconds
+*Do a natural horizontal wall-hop with a 7.2 stud stickout
+*Mid-Air luck clip through a 5 stud insta-kill spinner with -2 velocity across a 10.41 stud gap, landing on a 0.01 stud.
+*10.17 stud insta-kill wraparound
+*6.86 stud walkaround (no glitch)
+*Fix every single difficulty in JJT.
+
+{{!}}-{{!}}
+Epitome=
+=== Epitome Apocalyptic ===
+==== Generic Obstacles ====
+*WIP
+==== Unique Obstacles ====
+*WIP
+
+{{!}}-{{!}}
+Peripheral=
+=== Peripheral Apocalyptic ===
+==== Generic Obstacles ====
+*14.735 stud jump.
+==== Unique Obstacles ====
+*Do the final stretch of ToVH buffed to HELL with slowly rising lava.
+
+{{!}}-{{!}}
+Absolute=
+=== Absolute Apocalyptic ===
+==== Generic Obstacles ====
+* Beat Tower of Madness in MToP while buffed to Unreal.
+* Beat Floor 9 of buffed ToTS while surviving every disaster in Natural Disaster Survival for 15 seconds.
+
+==== Unique Obstacles ====
+*WIP
+
+}}
+</tabber>
+
+==Towers with this difficulty==
+===Real===
+*[[Youtube Tower]]
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Citadel of Running From Problems] (QToN Ring 5)
+
+===Fictional=== 
+*Tower of Foreign Invasions [[File:Apocalyptic.png|30px]] (Low <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span>)
+*Citadel of Apocalyptic Futures [[File:Apocalyptic.png|30px]] (Low-Mid <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span>) (UoFTE)
+*Steeple of Pursuit: MEGA BUFF [[File:Apocalyptic.png|30px]] (Mid <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span>) (WIP)
+*Obelisk of Perilous Pursuit [[File:Apocalyptic.png|30px]] (High <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span>)
+*Steeple of Hiding in Bunkers [[File:Apocalyptic.png|30px]] (Peak <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span>)
+*Deathly Extreme Apocalyptic Theoretical Helplessness Facility  [[File:Apocalyptic.png|30px]] (Peripheral <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span>)
+
+==Towers Containing this difficulty== 
+*[[Great Monolith of Every EJT Difficulty]]
+
+==Trivia==  
+*This was originally after the TooChain.
+*This difficulty was created around the start of the first class 6 difficulty boom.
+*There was a sub-difficulty with this name between {{Class3Difficulties|Catastrophic}} [[w:c:ktoh:Catastrophic|Catastrophic]] and {{Class3Difficulties|Horrific}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]]
+*Sanjay2133 created this difficulty
+*It was included in multiple difficulty charts, most of them being all inaccurate.
+*It was the first difficulty to include UoFTE, it was made before it but CoAF was included in UoFTE, so I updated it to say that CoAF was from UoFTE
+*Citadel of Apocalyptic Futures is probably one of the oldest fictional towers in UoFTE
+* This difficulty contains many more higher spectrum parts than low spectrum
+*Hat Kid was removed multiple times, but sanjay2133 undid all the edits made to remove Hat Kid. Eventually, I just made a message saying to stop removing Hat Kid
+*This difficulty was randomly on the explore tab, in 5th or 6th.
+*This difficulty has had 13 different previous difficulty placements, including the 3 times [[File:Uncorrupted Displace.png|30x30px]] ''Uncorrupted Displace'' was before this difficulty, and 11 unique difficulty placements if you don't count the other 2 times.
+*This difficulty's icon appears on 37 different pages, mostly in obstacles or difficulty crossings
+*This difficulty appears in IoDD with its current icon, because Apocalyptic was originally a class 3 sub-difficulty that was put in IoDD
+*This difficulty was the first difficulty to use autoplaying music, with [[File:Spontaneous.png|30x30px]] [[Spontaneous]] being the second.
+
+== Continuing on from this point==
+<div style="text-align:right">{{Key/ImageButton|id = SecretSection|image = CataclysmicNewest.png|size = 5px}}</div>
+{{Key/Expand|invert = yes|id = SecretSection|text = 
+Well. After going through this apocalypse-inducing difficulty, you made it out alive (hopefully?). I think at this point, you should probably take a break, being appreciated as such a great obbyist; a class 6 one, beating an <span style="background:linear-gradient(maroon,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; font-family:Twentieth Century">[[Apocalyptic]]</span> tower.
+
+After that traumatizing experience, you may want to try more towers. Move onto [[File:Eternaloutrage.jpg|30x30px]][[Eternal Outrage]], as the next sub,  [[File:Aight.jpg|30x30px]] [[Gar-Insane]] if you would want a bit more of a challenge or  [[File:DESTRUCTIVE.png|30px]] [[Destructive]] or any of the other difficulties you wanna do next, anyway.
+{{DifficultiesNavbox}}
+}}
+{{Key/Expand|id = SecretSection|text = 
+A secret path opens, revealing 5 extra sections of the difficulty. As soon as you enter, the lava starts rising 2x faster
+
+<tabber>
+|-|
+Beyond=
+|-|
+Reality=
+|-|
+Complexion=
+|-|
+Apocalyptic=
+|-|
+Apocalyption?=
+</tabber>
+''WIP''
+{{DifficultiesNavbox}}
+}}
+[[Category:Difficulties]]
+[[Category:Class 5]]
+[[Category:Difficulty]]
+[[Category:Difficulties made by Sanjay2133]]
+[[Category:Undergoing Revamp]]
+[[Category:Large Pages]]

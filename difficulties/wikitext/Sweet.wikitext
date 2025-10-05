@@ -1,0 +1,106 @@
+{{Humanly Possible}}__NOTOC__
+{{NewDifficultyInfobox
+|title1 = Sweet
+|image1 = <gallery>
+Sweet (New).png | Current
+Sweet (Old).png | Old
+Square Simple (4).png | Original
+</gallery>
+|class = [[:Category:Class 1|Class 1]]
+|type = [[:Category:Difficulties|Normal Difficulty]]
+|previous = {{Class0Difficulties|Starter}} [[Starter]]
+|next = {{Class0Difficulties|Lovely}} [[Lovely]]
+|decal_id =
+* [https://www.roblox.com/library/13940194381/Sweet 13940194381] (New)
+* [https://www.roblox.com/library/7887308415/Sweet-Old 7887308415] (Old, doesnt work)
+* [https://create.roblox.com/store/asset/6529074338/sweet-difficulty 6529074338] (Original, doesnt work)
+|sub_difficulty(ies) =
+* {{Class0Difficulties|Sugary}} [[Sugary]]
+* {{Class0Difficulties|Aesthetic}} [[Aesthetic]]
+|date_added =
+* Original: 2/19/21
+* Revamp: 11/2/21
+|date_removed = Unknown
+|removal_reason = Original page was bad.
+|previous_sub_difficulty(ies) = {{Class0Difficulties|Aesthetic}} [[Aesthetic]]
+|rating=-9|alt_previous={{Class0Difficulties|Cakewalk|25px}} [[Cakewalk]] (sub difficulty)|alt_next=* {{Class0Difficulties|Sugary|25px}} [[Sugary]] (sub difficulty)}}
+
+==What is '''Sweet'''?==
+'''Sweet''' is a Mid '''[[:Category:Class 0|Class 1]]''' difficulty on the [[Main Difficulty Chart|Difficulty Chart]]. This is when the difficulty really starts to ramp up as now you must complete multiple obstacles that involving the following:
+
+*Jumping multiple times throughout the difficulty
+*Walking most of the time throughout the difficulty, meaning you actually have to use your keyboard.
+*Avoiding holes that are escapable.
+
+And much more. Any towers or obbies in this difficulty should be attempted after you've beaten a {{Class0Difficulties|Starter|25px}} [[Starter]] or {{Class0Difficulties|Cakewalk|25px}} [[Cakewalk]] difficulty obby and/or tower.
+
+==History==
+'''Sweet''' was originally on the difficulty chart page as a Class 0 difficulty between {{Class0Difficulties|Cakewalk|20px}} [[Cakewalk]] and {{Class0Difficulties|Lovely|20px}} [[Lovely]]. However, it was eventually removed due to the original page being too garbage to stay on the wiki. This page was made to revive and revamp the original version of Sweet and add more info to it as well many of the obstacles involved in it.
+
+'''Sweet''' also has 2 sub-difficulties: {{Class0Difficulties|Sugary|20px}} [[Sugary]] and {{Class0Difficulties|Aesthetic|20px}} [[Aesthetic]]. {{Class0Difficulties|Sugary|20px}} [[Sugary]] was originally removed because of the same reason as Sweet's removal, but would later get revived and became a sub-difficulty of Sweet again. {{Class0Difficulties|Aesthetic|20px}} [[Aesthetic]] ended up becoming its own difficulty on the difficulty chart after Sweet's original removal, but later became a sub-difficulty of '''Sweet''' again like it originally was.
+
+'''Sweet''' has now been revived, and sits between {{Class0Difficulties|Cakewalk|20px}} [[Cakewalk]] and {{Class0Difficulties|Lovely|20px}} [[Lovely]] again, along with its 2 sub-difficulties.
+
+==Obstacles==
+Here is some of the examples of obstacles you will find in this difficulty. Feel free to add any obstacles to this list!:
+<tabber>
+Basic Obstacles=
+__NOEDITSECTION__
+=== Basic Obstacles (Visual Demonstration) ===
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+File:2 stud jump.PNG|2 stud jump(balanced: 1.8 stud jump)
+File:4 stud hole.PNG|4 stud escapable hole
+File:Cc false 10 stud wrap.PNG|A can-collide false 10 stud wrap (indicated via 0.05 or 0.1 transparency)
+File:Invis plat.PNG|A large "fading" platform (starts becoming transparent then invisible in the middle or end, can collide true) (MUST BE INDICATED!)
+File:0.1 stud killbrick.PNG|Dodging 0.1 stud killbricks (do 5 damage) (taken from SPoS)
+File:4 stud tightrope.PNG|4 stud tightropes (usually 2 stud thick)
+File:4 stud high jump.PNG|4 stud high jumps
+File:Timed button.PNG|Timed button sections with a very large time (ex. 777 seconds) (taken from SPoS)
+</gallery>
+|-|
+Miscellaneous=
+__NOEDITSECTION__
+=== Miscellaneous ===
+* Have a sweet tooth.
+* Buy candy.
+* Eat candy.
+</tabber>
+
+==Towers==
+If you have a tower that is Sweet difficulty, then feel free to add it to this list!
+
+*[[Spire of Sweetness]] ([[The Journey For Difficulties|TJFD]]: [[Ring 0 (The Journey For Difficulties)|Ring 0]]) (WIP) (by vnJayy)
+*Tower of Essay Easy (Gone)
+*Tower if Annoyingly Tedious Walking (Gone)
+*[[Edifice of Delicious Sweets and Pastries]]
+
+==Sub-Difficulties==
+There is currently two sub-difficulties:
+
+* {{Class0Difficulties|Sugary}} [[Sugary]]
+* {{Class0Difficulties|Aesthetic}} [[Aesthetic]]
+
+==Trivia==
+* This difficulty was deleted along wtih {{Class0Difficulties|Sugary|20px}} [[Sugary]] due to low quality. Eventually, '''Sweet''' was revived and later {{Class0Difficulties|Sugary|20px}} [[Sugary]].
+** However, {{Class0Difficulties|Aesthetic|20px}} [[Aesthetic]] was its own difficulty.
+** When both '''Sweet''' and {{Class0Difficulties|Sugary|20px}} [[Sugary]] got revived, {{Class0Difficulties|Aesthetic|20px}} [[Aesthetic]] became a sub difficulty of '''Sweet'''.
+*** However, you probably already knew that due to the History section.
+* The [[Spire of Sweetness]] was the first tower to be placed on '''Sweet''' Difficulty.
+* <b>Sweet</b>'s original icon looks similar compared to {{Class0Difficulties|Sugary|20px}} [[Sugary]]'s original icon in terms of the color of the face.
+
+==Continuing From This Point==
+A very sweet difficulty, isn't it? Good job on completing a tower or any obby in general in this difficulty! Now would be the time to attempt a {{Class0Difficulties|Lovely|20px}} [[Lovely]] tower/obby. (that, or Sweet's sub-difficulties.) We are getting starting of Mid Class 1, and it will only continue going up from here!
+
+{{DifficultiesNavbox}}
+
+<u>(Page revived by vnJayy)</u>
+[[Category:Class 1]]
+[[Category:Icons made with pixel art]]
+[[Category:Two color icon]]
+[[Category:Possible]]
+[[Category:Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Difficulty]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Emoticon Difficulties]]

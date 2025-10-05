@@ -1,0 +1,335 @@
+{{DISPLAYTITLE:<span id="Medium">'''Medium'''</span>}}__NOEDITSECTION____NOTOC__{{BetterQuote
+|text=Not too easy. Not too hard. Keep going!
+|quoter=Badge description
+|name=[https://www.roblox.com/badges/2125419253 Beat Your First Medium Tower]}}
+{{DifficultyTab
+|Medium
+|textcolormain=000
+|difficulty1=Easy
+|diffcolor1=76F447
+|textcolor1=000
+|difficulty2=Hard
+|diffcolor2=FE7C00
+|textcolor2=000}}
+{{DifficultyInfobox
+|title1=Medium
+|image1=medicon.png
+|type=Regular
+|previous={{Difficulty|Easy}} [[Easy|<span id="Easy">'''Easy'''</span>]]
+|next={{Difficulty|Hard}} [[Hard|<span id="Hard">'''Hard'''</span>]]
+|rbg_color=DC: 155, 155, 0
+Menus: 255, 255, 0
+|hex_color=DC: #9B9B00
+Menus: #FFFF00
+|cmyk_color=DC: 0%, 0%, 100%, 39%
+Menus: 0%, 0%, 100%, 0%
+|hsv_color=DC: 60°, 100%, 60%
+Menus: 60°, 100%, 100%
+|hsl_color=DC: 60°, 100%, 30%
+Menus: 60°, 100%, 50%
+|roblox_name=DC: CGA brown
+Menus: New Yeller}}
+{{Difficulty|Medium|20px}} <span id="Medium">[[Medium]]</span> is a [[difficulty]] in '''EToH''' that is represented by a yellow trapezoid. Obstacles at this difficulty level are more challenging and sometimes harder forms of obstacles seen in the [[Easy|<span id="Easy">'''Easy'''</span>]] difficulty. There are slightly longer jumps, more wraps (often 2-3 studs), and the obstacles are generally tougher. One studs (1x1x1 platforms) may start appearing in [[towers]] of this difficulty, like in [[Tower of Phone Snapping]].
+
+There are currently 17 [[tower]]s and 7 [[steeple]]s in the game assigned to this difficulty rating. [[Tower of Hands Sweating]], [[Tower of Sovereign Traveling]], [[Tower of Fatness]], [[Tower of Keys To Success]], and [[Citadel of Victory]] used to be in this difficulty, but they were moved to [[Hard|<span id="Hard">'''Hard'''</span>]]. [[Steeple of Low Woe]] was previously <span id="Hard">'''Hard'''</span> but was moved down to <span id="Medium">[[Medium]]</span>. Towers in this difficulty can be passed fairly easily by an average '''EToH''' player. 
+{{Header|Towers in this difficulty (Organized by Realm)}}
+<tabber>
+Ring 0=
+<div align=center><font size=5>{{Emblem|R0}} [[Ring 0]] {{Emblem|R0}}</font></div>
+*ToBM - [[Tower of B??? M???]] - Baseline Medium (2.00)
+*ToVP - [[Tower of Various Pressures]] - Low Medium (2.24)
+*ToKP - [[Tower of Kinetic Potential]] - Mid Medium (2.54)
+*ToNSA - [[Tower of No Strings Attached]] - High Medium (2.70)
+*ToWT - [[Tower of Woven Technique]] (scrapped) - High Medium (2.??)
+|-|
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+*ToM - [[Tower of Madness]] - Bottom-Low Medium (2.12)
+*ToNI - [[Tower of Noticeable Infuriation]] - High-Peak Medium (2.80)
+|-|
+Forgotten Ridge=
+<div align=center><font size=5>{{Emblem|FR}} [[Forgotten Ridge]] {{Emblem|FR}}</font></div>
+*SoFM - [[Steeple of Fading Memories]] (removed) - Low Medium (2.??)
+*SoLW - [[Steeple of Low Woe]] - High-Peak Medium (2.78)
+*SoP - [[Steeple of Pursuit]] - High-Peak Medium (2.86)
+|-|
+Ring 2=
+<div align=center><font size=5>{{Emblem|R2}} [[Ring 2]] {{Emblem|R2}}</font></div>
+*ToPS - [[Tower of Phone Snapping]] - High Medium (2.76)
+|-|
+Garden of Eeshöl=
+<div align=center><font size=5>{{Emblem|GoE}} [[Garden of Eeshöl]] {{Emblem|GoE}}</font></div>
+*SoIF - [[Steeple of Infectious Foliage]] - Low Medium (2.32)
+*SoO - [[Steeple of Overgrowth]] - High Medium (2.67)
+*SoN - [[Steeple of Nightfall]] - High-Peak Medium (2.81)
+|-|
+Ring 3=
+<div align=center><font size=5>{{Emblem|R3}} [[Ring 3]] {{Emblem|R3}}</font></div>
+*ToIC - [[Tower of Inverted Colors]] - Bottom-Low Medium (2.09)
+*ToAT - [[Tower of Ancient Trickery]] - Mid-High Medium (2.62)
+*ToDS - [[Tower of Deep Sighing]] - High-Peak Medium (2.83)
+|-|
+Ring 4=
+<div align=center><font size=5>{{Emblem|R4}} [[Ring 4]] {{Emblem|R4}}</font></div>
+*ToGG - [[Tower of Getting Gnomed]] - High-Peak Medium (2.84)
+|-|
+Ring 5=
+<div align=center><font size=5>{{Emblem|R5}} [[Ring 5]] {{Emblem|R5}}</font></div>
+*ToNV - [[Tower of Nice Views]] - Mid-High Medium (2.85)
+|-|
+Lost River=
+<div align=center><font size=5>{{Emblem|LR}} [[Lost River]] {{Emblem|LR}}</font></div>
+*ToEW - [[Tower of Excessive Weirdness]] - Mid-High Medium (2.89)
+|-|
+Ashen Towerworks=
+<div align=center><font size=5>{{Emblem|AT}} [[Ashen Towerworks]] {{Emblem|AT}}</font></div>
+*ToFZ - [[Tower of Fruity Zeal]] - Mid-High Medium (2.66)
+|-|
+Ring 8=
+<div align=center><font size=5>{{Emblem|R8}} [[Ring 8]] {{Emblem|R8}}</font></div>
+*ToSSS - [[Tower of Somewhat Simple Scaling]] - Low-Mid Medium (2.38)
+|-|
+Zone 1=
+<div align=center><font size=5>{{Emblem|Z1}} [[Zone 1]] {{Emblem|Z1}}</font></div>
+*ToAD - [[Tower of Atlantic Depths]] - Mid-High Medium (2.65)
+|-|
+Steelspire Horizon=
+<div align=center><font size=5>{{Emblem|SH}} [[Steelspire Horizon]] {{Emblem|SH}}</font></div>
+*ToSL - [[Tower of Sunshower Lambent]] - Mid Medium (2.55)
+*ToQR - [[Tower of Quantum Rhythm]] - High Medium (2.72)
+*ToSaT - [[Tower of Steel and Thunder]] - High-Peak Medium (2.85)
+|-|
+Zone 2=
+<div align=center><font size=5>{{Emblem|Z2}} [[Zone 2]] {{Emblem|Z2}}</font></div>
+*ToRA - [[Tower of Rainforest Ascension]] (scrapped) - Medium (2.??)
+*ToBtD - [[Tower of Brightness to Darkness]] (scrapped) - Medium (2.??)
+*ToB - [[Tower of Buttons (Removed)|Tower of Buttons]] (removed) - Mid-High Medium (2.58)
+*ToVR - [[Tower of Venomous Resonance]] - High Medium (2.68)
+*ToSA - [[Tower of Slanted Anticipation]] - Peak Medium (2.98)
+|-|
+Arcane Area=
+<div align=center><font size=5>{{Emblem|AA}} [[Arcane Area]] {{Emblem|AA}}</font></div>
+*SoBT - [[Steeple of Biome Traversing]] - Low Medium (2.39)
+*SoAS - [[Steeple of Astounding Sorcery]] - Mid Medium (2.44)
+|-|
+Zone 3=
+<div align=center><font size=5>{{Emblem|Z3}} [[Zone 3]] {{Emblem|Z3}}</font></div>
+*ToBB - [[Tower of Broken Bricks]] - Bottom Medium (2.07)
+*ToCOF - [[Tower of Client Object Frenzy]] - High-Peak Medium (2.77)
+|-|
+Paradise Atoll=
+<div align=center><font size=5>{{Emblem|PA}} [[Paradise Atoll]] {{Emblem|PA}}</font></div>
+*SoUV - [[Steeple of Undersea Voyage]] - High Medium (2.74)
+|-|
+Zone 4=
+<div align=center><font size=5>{{Emblem|Z4}} [[Zone 4]] {{Emblem|Z4}}</font></div>
+*ToAC - [[Tower of Aquatic Contemplation]] - Peak Medium (2.95)
+|-|
+Zone 7=
+<div align=center><font size=5>{{Emblem|Z7}} [[Zone 7]] {{Emblem|Z7}}</font></div>
+*ToJ - [[Tower of Jazz]] - High Medium (2.75)
+|-|
+Event=
+{{#tag:tabber
+|Christmas Event 2018=
+<div align=center><font size=5>{{Emblem|C2018}} [[Christmas Event 2018]] {{Emblem|C2018}}</font></div>
+*SoAG - [[Steeple of Amazing Gifts]] - High-Peak Medium (2.83)
+{{!}}-{{!}}
+Spring Event 2019=
+<div align=center><font size=5>{{Emblem|S2019}} [[Spring Event 2019]] {{Emblem|S2019}}</font></div>
+*SoSJ - [[Steeple of Spring Jubilation]] - High Medium (2.76)
+{{!}}-{{!}}
+Christmas Event 2019=
+<div align=center><font size=5>{{Emblem|CE2019}} [[Christmas Event 2019]] {{Emblem|CE2019}}</font></div>
+*SoEA - [[Steeple of Evergreen Ascension]] - Peak Medium (2.98)
+{{!}}-{{!}}
+Halloween Event 2020=
+<div align=center><font size=5>{{Emblem|H2020}} [[Halloween Event 2020]] {{Emblem|H2020}}</font></div>
+*SoRC - [[Steeple of Realm Crossing]] - Peak Medium (2.98)
+{{!}}-{{!}}
+April Fools 2021=
+<div align=center><font size=5>{{Emblem|AF2021}} [[April Fools 2021]] {{Emblem|AF2021}}</font></div>
+*ToYM - [[Tower of Yo Mama]] - Mid Medium (2.48)
+*MSoGM - [[Mini-Steeple of Gamer Moments]] - Peak Medium (2.90)
+{{!}}-{{!}}
+Halloween Event 2022=
+<div align=center><font size=5>{{Emblem|H2022}} [[Halloween Event 2022]] {{Emblem|H2022}}</font></div>
+*SoHE - [[Steeple of Headstone Evocation]] - Mid Medium (2.46)
+{{!}}-{{!}}
+April Fools 2023=
+<div align=center><font size=5>{{Emblem|AF2023}} [[April Fools 2023]] {{Emblem|AF2023}}</font></div>
+*LLLL - [[Lemonade Luh Luh Lemonade]] - High-Peak Medium (2.88)
+{{!}}-{{!}}
+Christmas Event 2023=
+<div align=center><font size=5>{{Emblem|C2023}} [[Christmas Event 2023]] {{Emblem|C2023}}</font></div>
+*SoWO - [[Steeple of Wrathful Ornaments]] - Low-Mid Medium (2.37)
+{{!}}-{{!}}
+April Fools 2024=
+<div align=center><font size=5>{{Emblem|AF2024}} [[April Fools 2024]] {{Emblem|AF2024}}</font></div>
+*WSoCD - [[Water Slide of Crazy Difficult]] - High-Peak Medium (2.82)
+{{!}}-{{!}}
+Legacy Event 2024=
+<div align=center><font size=5>{{Emblem|LE2024}} [[Legacy Event 2024]] {{Emblem|LE2024}}</font></div>
+*ToI(L) - [[Tower of Infuriation]] - Peak Medium (2.94)
+*ToPS(L) - [[Tower of Phone Snapping (Legacy)]] - High-Peak Medium (2.78)
+{{!}}-{{!}}
+The Stronghold=
+<div align=center><font size=5>{{Emblem|TS}} [[The Stronghold]] {{Emblem|TS}}</font></div>
+*BzT - [[Ballze Tower]] (removed) - High-Peak Medium (2.83)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*ToY:SU - [[Tower of Yelling: Slightly Upset]] - Mid Medium (2.54)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|June 2021=
+<div align=center><font size=5>June 2021</font></div>
+*ToG(M) - [[Tower of Grass]] - Bottom Medium (2.01)
+{{!}}-{{!}}
+August 2021=
+<div align=center><font size=5>August 2021</font></div>
+*SoAE(M) - [[Steeple of Adventurous Explorations]] - High-Peak Medium (2.86)
+{{!}}-{{!}}
+October 2021=
+<div align=center><font size=5>October 2021</font></div>
+*ToOE(M) - [[Tower of Optimistic Experiences]] - High Medium (2.71)
+{{!}}-{{!}}
+December 2021=
+<div align=center><font size=5>December 2021</font></div>
+*ToPV(M) - [[Tower of Peaceful Vibes]] - Peak Medium (2.94)
+{{!}}-{{!}}
+January 2022=
+<div align=center><font size=5>January 2022</font></div>
+*ToPO(M) - [[Tower of Pushing Objects]] - High-Peak Medium (2.84)
+{{!}}-{{!}}
+February 2022=
+<div align=center><font size=5>February 2022</font></div>
+*SoQ(M) - [[Steeple of Questions]] - Low-Mid Medium (2.35)
+{{!}}-{{!}}
+September 2022=
+<div align=center><font size=5>September 2022</font></div>
+*ToIV(M) - [[Tower of Intergalactic Voyages]] - High-Peak Medium (2.86)
+{{!}}-{{!}}
+November 2022=
+<div align=center><font size=5>November 2022</font></div>
+*ToND(M) - [[Tower of No Distress]] - High Medium (2.71)
+{{!}}-{{!}}
+September 2023=
+<div align=center><font size=5>September 2023</font></div>
+*ToSN(M) - [[Tower of Standard Newcomings]] - High Medium (2.77)
+{{!}}-{{!}}
+October 2023=
+<div align=center><font size=5>October 2023</font></div>
+*ToCoTS(M) - [[Tower of Camels of The Sky]] - High-Peak Medium (2.86)
+{{!}}-{{!}}
+November 2023=
+<div align=center><font size=5>November 2023</font></div>
+*ToVSD(M) - [[Tower of Very Simple Downfall]] - Low-Mid Medium (2.39)
+{{!}}-{{!}}
+February 2024=
+<div align=center><font size=5>February 2024</font></div>
+*ToOA(M) - [[Tower of Odd Algorithm]] - Mid Medium (2.53)
+{{!}}-{{!}}
+April 2025=
+<div align=center><font size=5>April 2025</font></div>
+*SoE(M) - [[Steeple of Espalier]] - Low-Mid Medium (2.39)
+{{!}}-{{!}}
+May 2025=
+<div align=center><font size=5>May 2025</font></div>
+*ToCW(M) - [[Tower of Cake Walk]] - Low Medium (2.31)
+{{!}}-{{!}}
+July 2025=
+<div align=center><font size=5>July 2025</font></div>
+*SoPE(M) - [[Steeple of Pleasant Enjoyment]] - Peak Medium (2.90)
+}}
+</tabber>
+{{Header|Towers in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+* {{emblem|R0|20px}} ''ToBM - [[Tower of B??? M???]] - Baseline Medium (2.00)'' {{emblem|R0|20px}}
+* {{emblem|Z3|20px}} ToBB - [[Tower of Broken Bricks]] - Bottom Medium (2.07) {{emblem|Z3|20px}}
+* {{emblem|R3|20px}} ToIC - [[Tower of Inverted Colors]] - Bottom Medium (2.09) {{emblem|R3|20px}}
+* {{emblem|R1|20px}} ToM - [[Tower of Madness]] - Bottom-Low Medium (2.12) {{emblem|R1|20px}}
+* {{emblem|R0|20px}} ''ToVP - [[Tower of Various Pressures]] - Low Medium (2.24)'' {{emblem|R0|20px}}
+* {{emblem|GoE|20px}} SoIF - [[Steeple of Infectious Foliage]] - Low Medium (2.32) {{emblem|GoE|20px}}
+* {{emblem|R8|20px}} ToSSS - [[Tower of Somewhat Simple Scaling]] - Low-Mid Medium (2.38) {{emblem|R8|20px}}
+* {{emblem|AA|20px}} SoBT - [[Steeple of Biome Traversing]] -  Low-Mid Medium (2.39) {{emblem|AA|20px}}
+* {{emblem|AA|20px}} SoAS - [[Steeple of Astounding Sorcery]] - Low-Mid Medium (2.44) {{emblem|AA|20px}}
+* {{emblem|R0|20px}} ''ToKP - [[Tower of Kinetic Potential]] - Mid Medium (2.54)'' {{emblem|R0|20px}}
+* {{emblem|SH|20px}} ''ToSL - [[Tower of Sunshower Lambent]] - Mid Medium (2.55)'' {{emblem|SH|20px}}
+* {{emblem|R3|20px}} ToAT - [[Tower of Ancient Trickery]] - Mid-High Medium (2.62) {{emblem|R3|20px}}
+* {{emblem|Z1|20px}} ToAD - [[Tower of Atlantic Depths]] - Mid-High Medium (2.65) {{emblem|Z1|20px}}
+* {{emblem|AT|20px}} ToFZ - [[Tower of Fruity Zeal]] - Mid-High Medium (2.66) {{emblem|AT|20px}}
+* {{emblem|GoE|20px}} SoO - [[Steeple of Overgrowth]] - High Medium (2.67) {{emblem|GoE|20px}}
+* {{emblem|Z2|20px}} ToVR - [[Tower of Venomous Resonance]] - High Medium (2.68) {{emblem|Z2|20px}}
+* {{emblem|R0|20px}} ''ToNSA - [[Tower of No Strings Attached]] - High Medium (2.70)'' {{emblem|R0|20px}}
+* {{emblem|SH|20px}} ''ToQR - [[Tower of Quantum Rhythm]] - High Medium (2.72)'' {{emblem|SH|20px}}
+* {{emblem|PA|20px}} SoUV - [[Steeple of Undersea Voyage]] - High Medium (2.74) {{emblem|PA|20px}}
+* {{emblem|Z7|20px}} ToJ - [[Tower of Jazz]] - High Medium (2.75) {{emblem|Z7|20px}}
+* {{emblem|R2|20px}} ToPS - [[Tower of Phone Snapping]] - High Medium (2.76) {{emblem|R2|20px}}
+* {{emblem|Z3|20px}} ToCOF - [[Tower of Client Object Frenzy]] - High Medium (2.77) {{emblem|Z3|20px}}
+* {{emblem|FR|20px}} SoLW - [[Steeple of Low Woe]] - High-Peak Medium (2.78) {{emblem|FR|20px}}
+* {{emblem|R1|20px}} ToNI - [[Tower of Noticeable Infuriation]] - High-Peak Medium (2.80) {{emblem|R1|20px}}
+* {{emblem|GoE|20px}} SoN - [[Steeple of Nightfall]] - High-Peak Medium (2.81) {{emblem|GoE|20px}}
+* {{emblem|R3|20px}} ToDS - [[Tower of Deep Sighing]] - High-Peak Medium (2.83) {{emblem|R3|20px}}
+* {{emblem|R4|20px}} ToGG - [[Tower of Getting Gnomed]] - High-Peak Medium (2.84) {{emblem|R4|20px}}
+* {{emblem|R5|20px}} ToNV - [[Tower of Nice Views]] - High-Peak Medium (2.85) {{emblem|R5|20px}}
+* {{emblem|SH|20px}} ''ToSaT - [[Tower of Steel and Thunder]] - High-Peak Medium (2.85)'' {{emblem|SH|20px}}
+* {{emblem|FR|20px}} SoP - [[Steeple of Pursuit]] - High-Peak Medium (2.86) {{emblem|FR|20px}}
+* {{emblem|LR|20px}} ToEW - [[Tower of Excessive Weirdness]] - Peak Medium (2.89) {{emblem|LR|20px}}
+* {{emblem|Z4|20px}} ToAC - [[Tower of Aquatic Contemplation]] - Peak Medium (2.95) {{emblem|Z4|20px}}
+* {{emblem|Z2|20px}} ToSA - [[Tower of Slanted Anticipation]] - Peak Medium (2.98) {{emblem|Z2|20px}}
+|-|
+Monthly Towers=
+* {{emblem|TLP|20px}} ToG(M) - [[Tower of Grass]] - Bottom Medium (2.01) {{emblem|R1|20px}}
+* {{emblem|TL?|20px}} ToCW(M) - [[Tower of Cake Walk]] - Low Medium (2.31) {{emblem|Z2|20px}}
+* {{emblem|TLP|20px}} SoQ(M) - [[Steeple of Questions]] - Low-Mid Medium (2.35) {{emblem|FR|20px}}
+* {{emblem|TLT|20px}} SoE(M) - [[Steeple of Espalier]] - Low-Mid Medium (2.39) {{emblem|GoE|20px}}
+* {{emblem|TLS|20px}} ToVSD(M) - [[Tower of Very Simple Downfall]] - Low-Mid Medium (2.39) {{emblem|R4|20px}}
+* {{emblem|TLS|20px}} ToOA(M) - [[Tower of Odd Algorithm]] - Mid Medium (2.53) {{emblem|Z4|20px}}
+* {{emblem|TLC|20px}} ToND(M) - [[Tower of No Distress]] - High Medium (2.71) {{emblem|R1|20px}}
+* {{emblem|TLP|20px}} ToOE(M) - [[Tower of Optimistic Experiences]] - High Medium (2.71) {{emblem|Z2|20px}}
+* {{emblem|TLS|20px}} ToSN(M) - [[Tower of Standard Newcomings]] - High Medium (2.77) {{emblem|Z1|20px}}
+* {{emblem|TLP|20px}} ToPO(M) - [[Tower of Pushing Objects]] - High-Peak Medium (2.84) {{emblem|R5|20px}}
+* {{emblem|TLS|20px}} ToCoTS(M) - [[Tower of Camels of The Sky]] - High-Peak Medium (2.86) {{emblem|Z2|20px}}
+* {{emblem|TLC|20px}} ToIV(M) - [[Tower of Intergalactic Voyages]] - High-Peak Medium (2.86) {{emblem|Z4|20px}}
+* {{emblem|TLP|20px}} SoAE(M) - [[Steeple of Adventurous Explorations]] - High-Peak Medium (2.86) {{emblem|AA|20px}}
+* {{emblem|TL?|20px}} SoPE(M) - [[Steeple of Pleasant Enjoyment]] - Peak Medium (2.90) {{emblem|FR|20px}}
+* {{emblem|TLP|20px}} ToPV(M) - [[Tower of Peaceful Vibes]] - Peak Medium (2.94) {{emblem|Z1|20px}}
+|-|
+Event Towers=
+* {{emblem|CE2023|20px}} SoWO - [[Steeple of Wrathful Ornaments]] - Low-Mid Medium (2.37) {{emblem|CE2023|20px}}
+* {{emblem|H2022|20px}} SoHE - [[Steeple of Headstone Evocation]] - Mid Medium (2.46) {{emblem|H2022|20px}}
+* {{emblem|AF2021|20px}} ToYM - [[Tower of Yo Mama]] - Mid Medium (2.48) {{emblem|AF2021|20px}}
+* {{emblem|AF2025|20px}} ToY:SU - [[Tower of Yelling: Slightly Upset]] - Mid Medium (2.54) {{emblem|AF2025|20px}}
+* {{emblem|SE2019|20px}} SoSJ - [[Steeple of Spring Jubilation]] - High Medium (2.76) {{emblem|SE2019|20px}}
+* {{emblem|LE2024|20px}} ToPS(L) - [[Tower of Phone Snapping (Legacy)]] - High-Peak Medium (2.78) {{emblem|LR2|20px}}
+* {{emblem|AF2024|20px}} WSoCD - [[Water Slide of Crazy Difficult]] - High-Peak Medium (2.82) {{emblem|AF2024|20px}}
+* {{emblem|CE2018|20px}} SoAG - [[Steeple of Amazing Gifts]] - High-Peak Medium (2.83) {{emblem|CE2018|20px}}
+* {{emblem|AF2023|20px}} LLLL - [[Lemonade Luh Luh Lemonade]] - High-Peak Medium (2.88) {{emblem|AF2023|20px}}
+* {{emblem|AF2021|20px}} MSoGM - [[Mini-Steeple of Gamer Moments]] - Peak Medium (2.90) {{emblem|AF2021|20px}}
+* {{emblem|LE2024|20px}} ToI(L) - [[Tower of Infuriation]] - Peak Medium (2.94) {{emblem|LR1|20px}}
+* {{emblem|CE2019|20px}} SoEA - [[Steeple of Evergreen Ascension]] - Peak Medium (2.98) {{emblem|CE2019|20px}}
+* {{emblem|HE2020|20px}} SoRC - [[Steeple of Realm Crossing]] - Peak Medium (2.98) {{emblem|HE2020|20px}}
+|-|
+Removed Towers=
+* {{emblem|Z2|20px}} ToRA - [[Tower of Rainforest Ascension]] - Medium (2.??) {{emblem|Z2|20px}}
+* {{emblem|Z2|20px}} ToBtD - [[Tower of Brightness to Darkness]] - Medium (2.??) {{emblem|Z2|20px}}
+* {{emblem|FR|20px}} SoFM - [[Steeple of Fading Memories]] - Low Medium (2.??) {{emblem|FR|20px}}
+* {{emblem|Z2|20px}} ToB - [[Tower of Buttons (Removed)|Tower of Buttons]] - Mid-High Medium (2.58) {{emblem|Z2|20px}}
+* {{emblem|R0|20px}} ToWT - [[Tower of Woven Technique]] - High Medium (2.??) {{emblem|R0|20px}}
+* {{emblem|TS|20px}} BzT - [[Ballze Tower]] - High-Peak Medium (2.83) {{emblem|TS|20px}}
+</tabber>
+{{Header|Trivia}} 
+*[[Garden of Eeshöl]] and [[Ring 3]] have the most <span id="Medium">[[Medium]]</span> [[Towers]] out of any [[Realm]], having 3 <span id="Medium">[[Medium]]</span> [[Towers]].
+**However, they will be dethroned by [[Ring 0]], which will have 5 upon its release.
+{{Header|Gallery}}
+<gallery wdiths="185" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+9a98d3158d19c2d5d0c4ce3247ffc88e.png|The [[badge]] obtained from beating a <span id="Medium">[[Medium]]</span> tower for the first time.
+</gallery>
+{{Difficulty Navibox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Medium]]

@@ -1,0 +1,50 @@
+{{Classic}}
+{{Physically Impossible}}
+==What is [[File:Illegal Newest Version.png|frameless|35x35px]]'''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]'''<span>?==
+{{NewDifficultyInfobox|class=Mid Class 7|date_added=1/13/2021|title1=<span style="color:  #A50000;font-family: Segoe UI">Illegal|image1=Illegal Newest.png|type=Normal Difficulty|previous=[[File:Universe Disruption.png|30px]] [[Universe Disruption]]|next=[[File:New UG.jpg|30px]] [[Universal Glitch]]|date_removed=None|revamp_date=23/04/2022|caption1=You got here ILLEGALLY.|rating=68|alt_next=[[File:Frick you (3).png|30x30px]] [[Bad Request]]|sub_difficulty(ies)=[[File:Frick you (3).png|30x30px]][[Bad Request]]|alt_previous=[[File:CompleteObstacles.png|30px]] [[Complete: Obstacles]]|decal_id=*New: [https://create.roblox.com/store/asset/131175101873229/Illegal Here]
+*Old: [https://create.roblox.com/store/asset/7568741053/Illegal Here]
+*Oldest: [https://create.roblox.com/store/asset/13510132189/Illegal Here]}}
+[[File:Illegal Newest Version.png|frameless|30x30px]] '''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]'''<span> is a high Class 7 difficulty. It is one of the first Class 7's on the difficulty chart. What can I say except this is impossibly hard? This difficulty features physically impossible jumps. For example, a 125 stud jump or a 60x120 stud stick out. Not even doing a hundred of 45 studs in a row is enough for this difficulty. You cannot complete most of these jumps in [[File:Illegal Newest Version.png|frameless|30x30px]] <span>'''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]'''<span> even with TAS (pretty obvious if you've seen the difficulties in the wiki).
+
+Obstacles in [[File:Illegal Newest Version.png|frameless|30x30px]] '''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]'''<span> are usually mega buffed jumps of Class 2 or 3 difficulties, but most of them are extremely obscure and will most likely require exploits to carry out. Unlike other difficulties before and after this, doing a jump in this difficulty is quite simple, all you need is to use exploits.. or use some obscure, never-before-seen glitch that either makes you go extremely long distances or survive instakill bricks. But that's just for a small type of jumps featured in this difficulty. Some puzzles might require you to complete the whole of JToH 50 times (Low-Mid), or delete a part via glitching to progress (Very-High).
+
+==Icon Representation==
+<span>
+[[File:Illegal.png|frameless|50x50px]]''Oldest Icon:'' [[File:Illegal.png|frameless|30x30px]] '''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]'''<span> 's icon is represented with the number 13 and a dark red background. Nothing to say anymore, just a number 13 and a common dark red background.
+
+<span><span><span>[[File:IllegalNew.jpg|frameless|50x50px]]''Old Icon:'' [[File:IllegalNew.jpg|frameless|30x30px]] '''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]'''<span> 's icon represents the same dark red backround, but instead of the number 13, it is just a very-black "X". Still a simple icon, because that's all on it.
+
+<span><span><span><span><span>[[File:Illegal Newest Version.png|frameless|50x50px]]''New Icon:'' [[File:Illegal Newest Version.png|frameless|30x30px]] '''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]'''<span> 's icon represents the very same dark red background, but now with more details. The icon got a dark-black outline, the "X" became some bigger and some less pixelated, and now there are 4 circles near the "X" too. Also, most likely the "X" represents that you did something wrong, you did something truly illegal. Okay now, that's all.
+==Types of obstacles in [[File:Illegal Newest Version.png|frameless|35x35px]] '''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]'''<span> ==
+{{ObstacleTableRevamp|JumpClimbableBase=84.871|Increment=1.3203}}
+
+==Towers in and with this Difficulty==
+<tabber>
+Towers in this Difficulty=
+*[[Obelisk of Perpetual Sadness]] (OoPS)
+*[[Tower of Certain Death]] (ToCD)
+*Tower of Illegaly Robbing The White House (ToIRTWH) [Fictional]
+*Tower of Doing Illegal Things on Roblox (ToDIToR) [Fictional]
+*Tower of Instant Multiple Death (ToIMD) [Fictional]
+*[[Tower of Commiting Fedral Crimes|Tower of Commiting Fedral Crimes (ToCFC)]] [Fictional]
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Pillar of Extremly Unauthorized Obstacles] (PoEUO) (QToN Ring 7)
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 71: Illegal] (R71:I)
+|-|
+Towers with this Difficulty=
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*[[Monolith of Deadly Difficulty Cluster]] (MoDDC)
+*Monolith of The Endless Difficulty Needls: Revamp (MoTEDN:R)
+*[[Obelisk of Cubox's Difficulty Chart]] (OoCDC)
+</tabber>
+
+==Illegaly continuing from this point==
+So, completed [[File:Illegal Newest Version.png|frameless|30x30px]] '''<span style="color:  #A50000;font-family: Segoe UI">[[Illegal]]''', huh? Wow, that's like impressive. For an obbyist like you, completing a Class 7 difficulty? But lol, actually, I know you used god mode, noclip or just exploits to beat this, because this is absolutely impossible. Also, exploits are illegal in Roblox, so you can get banned every second from now. Oh, and how funny, [[File:Frick you (3).png|frameless|30x30px]] [[Bad Request]]'s icon is the distored icon of the official Roblox error icon, that pops up if you go to someone's banned profile page, or when you encounter an error! So yeah, head to, [[File:Frick you (3).png|frameless|30x30px]] [[Bad Request]].{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+[[Category:Previously Unclassified]]
+[[Category:Two color icon]]
+[[Category:Essay pages]]
+[[Category:Fictional Towers]]

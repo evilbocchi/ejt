@@ -1,0 +1,87 @@
+{{DISPLAYTITLE:Eternal Outrage}}{{TAS Impossible}}{{JToHW Quote|text=This is just a remake of eternal outrage, because it sucked previously.|quoter=Red catto}}
+
+== What is [[File:Eternaloutrage.jpg|frameless|30x30px]] Eternal Outrage? ==
+{{NewDifficultyInfobox|image1=Eternaloutrage.jpg|caption1=Remade version of this difficulty. 
+Yes, I am using the older one.|class=[[:Category:Class 5|Low Class 5]]|type=Sub-Difficulty|previous=[[File:Apocalyptic.png|30px]] [[Apocalyptic]]|next=[[File:DESTRUCTIVE.png|30px]] [[Destructive]]|title1=[[File:Eternaloutrage.jpg|30px]] [[Eternal Outrage]]|difficulty_range=Low - High|decal_id=Old: 8725733972
+New: 11355063791|creator(s)=*Current owner: [[User:Tafgo7162|Tafgo7162]]
+*Co-Owner: [[User:Touchgrass210779|Touchgrass210779]]|revival_date=1st March 2023|original_creator(s)=Red Catto|previous_creator(s)=KoolTheEpic|main_difficulty=[[File:Apocalyptic.png|30px]] [[Apocalyptic]]|rating=35.5|alt_next=[[File:Aight.jpg|30px]] [[Gar-Insane]]}}[[File:Eternaloutrage.jpg|frameless|25x25px]] Eternal Outrage is an unofficial [[:Category:Class 5|Class 5]] sub difficulty that squeezes into the gap of the Apocalyptical [[File:Apocalyptic.png|frameless|25x25px]] [[Apocalyptic]], as well as the [[File:DESTRUCTIVE.png|30px]] [[Destructive|Destruction]] with a >:3 face. 
+
+[[File:Eternaloutrage.jpg|frameless|25x25px]] Eternal Outrage is created for the purpose of granting you permanent anxiety and distress disorders, as well as mainly to do its job, obliterate players. The cat inside this box is not sentient, but its more of an artificial intelligence robot that learns from the player's skill, which if the person who beats this difficulty, its obstacles shift into something new, and trying to find ways to make it harder for the next person to complete. Still, at the same difficulty.
+
+Fortunately, [[File:Eternaloutrage.jpg|frameless|25x25px]] Eternal Outrage's cat does not affect the gameplay, but however, the further you go, the faster the instant kill lava rises. The obstacles itself are kind of alright but most of its difficulty relies on its instant kill lava flood, so you have to be fast if you do not want to get consumes by the flowing lava underneath you.
+
+[[File:Eternaloutrage.jpg|frameless|25x25px]] Eternal Outrage is just another difficulty after all. You will be able to beat this... right?    
+
+== Breaking down the icon ==
+[[File:Eternaloutrage.jpg|frameless|25x25px]] Eternal Outrage's '''Current''' icon is a cat in an unfamiliar looking box, that has two colors. In the middle the AI cat can be seen in the middle, observing you.
+
+=== '''Current icon''' ===
+[[File:Eternaloutrage.jpg|frameless|101x101px]]
+
+
+[[File:Eternaloutrage.jpg|frameless|25x25px]] Eternal Outrage's '''Unofficial''' icon seems more complicated and advanced. The reason why I did not replace eternal outrage's icon with this is because it (sort of) gives vibes that this difficulty is harder than it seemed. Maybe I will change it to this in the future? Anyways, the icon is a cat in another unfamiliar looking box, but this time its slightly corrupted. The AI cat inside the box is angered for some reason, emitting a strange glow behind it. And on the sides is just random symbols including the satanic ring, an omega sign, an infinite symbol and a traditional emoticon that [[File:SUFFER.png|frameless|25x25px]] [[SUFFER]] uses.
+
+=== '''Unofficial icon''' ===
+[[File:Eternal outrage new.png|frameless|100x100px]]
+
+With that done, lets head to the obstacles section.
+
+== Obstacles (Low - High [[File:Eternaloutrage.jpg|frameless|30x30px]] Eternal Outrage) ==
+Sadly, the more you get further, the lava gets higher. Sorry, but this is forced by the AI cat itself. Good luck!<tabber>
+|-|
+LOW=
+===Low Eternal Outrage===
+* 14.25 stud jumps (Climbable).
+* 14.15 stud jumps (Unclimbable).
+* 12.75 stud wraparounds (Climbable).
+* 12.6 stud wraparounds (Unclimbable).
+* Beat Does not compute two times.
+* 23 stud glitch wraparound. (UNPATCHED)
+* 15.5 stud high jump.
+|-|
+MID=
+===Mid Eternal Outrage===
+* 14.325 stud jumps (Climbable).
+* 14.225 stud jumps (Unclimbable).
+* 12.75 stud wraparounds (Climbable).
+* 12.6 stud wraparounds (Unclimbable).
+* Beat Apocalyptic again.
+* 23.15 stud glitch wraparound. (UNPATCHED)
+* 15.75 stud high jump.
+|-|
+HIGH=
+===High Eternal Outrage===
+* 14.35 stud jumps (Climbable).
+* 14.25 stud jumps (Unclimbable).
+* 12.8 stud wraparounds (Climbable).
+* 12.7 stud wraparounds (Unclimbable).
+* Beat LOW  eternal outrage again (You do not need to beat Does not compute again.)
+* 23.25 stud glitch wraparound. (UNPATCHED)
+* 16 stud high jump.
+</tabber>
+
+== Towers with this difficulty ==
+
+* [[File:Eternaloutrage.jpg|frameless|30x30px]] Box of Extreme Outrage (FICTIONAL)
+* [[File:Eternaloutrage.jpg|frameless|30x30px]] Steeple of Eternalized Cat Cafe ([[Universe of Free To Edit/Mercury|UoFTE]], FICTIONAL)
+* [[File:Eternaloutrage.jpg|frameless|30x30px]] Steeple of Loving Calm and Domestic Cats in Captivity ([[Universe of Free To Edit/Mercury|UoFTE]], FICTIONAL)
+* [[File:Eternaloutrage.jpg|frameless|30x30px]] [[Tower of Distant Demolition]] (FICTIONAL)
+
+== Trivia ==
+
+* If this somehow gets deleted, I do not know what to even say anymore.
+* I mean, I do not care about this being deleted, but eh, who even reads these?
+
+== Epilogue ==
+Well, you managed to beat a class 5 difficulty. Well, what can I say? Good game? I do not know, since there is many more difficulties approaching, so try beating as much as you want, alright?
+
+Well, small GG for you, player.
+
+Your next destination is in [[File:DESTRUCTIVE.png|30px]] [[Destructive]]. Be careful though, its obstacles can intimidate even TAS users!
+
+{{DifficultiesNavbox}}
+[[Category:Class 5]]
+[[Category:Humanly Impossible]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]

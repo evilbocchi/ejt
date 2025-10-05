@@ -1,0 +1,62 @@
+{{DISPLAYTITLE:<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">Blessing}}<div style="background:linear-gradient(#00b18d, #00a382);padding:1em;border:5px solid #00b18d">
+{{Scrollbox|Notices={{Humanly Possible}}{{Squint to Win|reason="The main body of text and background have a contrast ratio of 1.62." - [[User:Sushislushwiki|Sushislushwiki]]}}}}<br>
+{{BetterQuote|quoter=an idiot|text=welcome to blessing where u have fun yes yes yes}}
+== <span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">INTRODUCTION==
+{{NewDifficultyInfobox|image1=[[File:Blessing.jpeg]]|class=<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">Class 0|rating=<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">-26|title1=[[File:Blessing.jpeg|frameless|30x30px]] <span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">Blessing|type=<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">Normal Difficulty|previous=[[Do Nothing]]|next=[[Vintage]]|creator(s)=Sanjay2133|date_added=<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">6/7/2023|decal_id=[https://create.roblox.com/store/asset/15671964480/Blessing 15671964480]|alt_previous=[[Sleepful]]}}
+<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">Welcome to Blessing! Where you can have fun, have some good days, and even beating it easily! Plus this difficulty is between [[Do Nothing]] and [[Vintage]].<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">This difficulty contains mechanics such as: elevators, conveyors, jump pads and more! these are painless so don't worry, you will be fine. <span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">Well, you will just have fun there since this difficulty is already a [[:Category:Class 0|Class 0]] even though its longer and harder than [[Do Nothing]].
+==<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif"><span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif"> ICON REPRESENTATION  ==
+{| class="fandom-table"
+|+Icon Representation
+!Icon
+!Representation
+|-
+|[[File:Blessing.jpeg|thumb]]
+|<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">This icon represents a centered <P face slightly rotated a bit, there are also transparent circles around the face and there's also dark teal borders around the icon too.
+|}
+== <span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">OBSTACLES==
+
+{| class="fandom-table"
+|+Obstacle Table
+!Bottom
+!Low
+!Mid
+!High
+!Peak
+|-
+|Stay on a 40 velocity conveyor that stretches 50 studs
+|15 studs wide and 55 studs long conveyor with 33 velocity that has a 2 studs wide and 10 studs long wall in the middle
+|Wait for 3.5 seconds while being carried by an elevator
+|A fake 0.01 studs wide conveyor, that's actually 15 studs wide
+|A really short and fast conveyor maze.
+|-
+|Wait for 30 Seconds.
+|Stay inside a huge sphere that rolls down a 35 studs long path.
+|Get hit by a turret shooting a single bullet that deals 1 DMG.
+|Fall 500 studs to the winpad.
+|Stay on a 28.5 velocity conveyor that stretches 50 studs and deals 0.7 damage/s
+|-
+|Get carried by 2 spinners
+|Get launched 325 studs into the air by an elevator
+|A really short elevator maze
+|Listen to a song for 5 seconds
+|Get carried by three 30 velocity conveyors that stretch 20 studs each
+|-
+|5 elevators that fling you across the floor and to the winpad
+|Take 150 damage while having 25000 health
+|Stay on a 30 velocity conveyor that stretches 40 studs
+|Tower of Generation Failure nerfed down to only 3 conveyors that bring you to the winpad.
+|Wait for 4 seconds, while taking 0.25 damage/s
+|}
+
+==<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif"> Towers ==
+
+*<span style="text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif"> [[Room of Blessed Victory]]
+
+==<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif"> Continuing from this point ==
+<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black, Gadget, sans-serif">Well, congrats on beating Blessing, I guess? Ok then just move on to [[Vintage]] since this difficulty is already just too easy for you, if you want to move on to non-automatic things, move on to [[Press a Key]]. I don't care.
+
+{{DifficultiesNavbox}}
+[[Category:Humanly Possible]]
+[[Category:Class 0]]
+[[Category:Emoticon Difficulties]]
+[[Category:Starter Zone]]

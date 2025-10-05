@@ -1,0 +1,42 @@
+{{DISPLAYTITLE:<span id="Epic">'''Epic'''</span>}}
+__NOEDITSECTION____NOTOC__
+{{DifficultyTab
+|Epic
+|textcolormain = 000
+|type = Event / Joke
+|blank1 =
+|blank2 =
+}}
+{{Difficulty Infobox v2.0
+|current_icon = EpicModified100.png
+|difficulty_number = * 0.5 ([[tower pf Orignl Towrs]] / [[tower pf Epc Climbingg]])
+* 17 ([[tower pf Fuin jumps]] (With Removed and Unused Difficulties)
+* 12 ([[tower pf Fuin jumps]] (Without Removed or Unused Difficulties)
+* 13 ([[tower pf Fuin jumps]] (If [[TooHard]] was an Official Difficulty)
+|class=Event / Joke Difficulty
+|reason_of_removal = End of [[April Fools 2020]].|image1=EpicModified.png|hex_color=B5D2E6|rgb_color=181, 210, 230|cmyk_color=21%, 9%, 0%, 10%|hsv_color=206°, 21%, 90%|hsl_color=206°, 49%, 81%}}{{Difficulty|Epic|20px}} <span id="Epic">[[Epic]]</span> is a joke [[difficulty]] added in the [[April Fools 2020]] [[Event]]. It is represented by the color dockside blue. This difficulty was removed at the end of the event. There were only 3 event [[Tower]]s with this difficulty. 
+
+{{Header| Towers }}
+<tabber>
+Event=
+{{#tag:tabber
+|April Fools 2020=
+<div align="center"><font size="5">{{Emblem|AF2020}} [[April Fools 2020]] {{Emblem|AF2020}}</font></div>
+
+* tpEC - [[tower pf Epc Climbingg]] - Low Epic
+* tpOT - [[tower pf Orignl Towrs]] - Mid Epic
+* tpFj - [[tower pf Fuin jumps]] - High Epic
+}}
+</tabber>
+
+{{Header|Trivia}}
+*This is the first event difficulty to be added to '''EToH''', the second being [[OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo|<span style="color:#000000;">oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo</span>]] and the third being '''[[Sisyphean|<span style="color:#969664;">Sisyphean</span>]]'''.
+**'''oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo''' and '''Sisyphean''' were also added in an April Fools event.
+*This has the widest difficulty range out of any difficulty in the game, from just climbing a truss all the way to Floor 10 to having a non-functioning winpad.
+
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Epic]]
+[[Category:April Fools 2020]]
+[[Category:Joke Difficulties]]

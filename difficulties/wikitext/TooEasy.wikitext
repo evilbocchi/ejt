@@ -1,0 +1,118 @@
+{{NoticeScrollboxNew|Notices={{Large Page}}{{Humanly Possible}}{{Nerfed}}}}{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen"><big>'''TooEasy'''</big></span>}}
+{{NewDifficultyInfobox|image1=TooEasy Difficulty Revamped.jpg|title1=<span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen">[[TooEasy]]</span>|caption1=It's literally too easy.|class=Class 1|type=*Humanly Possible Difficulty
+*"Official" Difficulty|previous=[[File:Tutorial.png|30px]] [[Tutorial]]|next=[[File:PeacefulNew.png|30px]] [[Peaceful]]|class_range=High|difficulty_range=Baseline to Peak|creator(s)=*TheGalgola - Original
+*Sanjay2133 - Revamper|date_added=24 March 2021|revamp_date=3 February 2023|rating=-4|alt_next=|alt_previous=|sub_difficulty(ies)=None|decal_id=Current: [https://create.roblox.com/store/asset/6652254018/TooEasy-difficulty 6652254018]
+Old: [https://create.roblox.com/store/asset/117078373137049/TooEasy-Old-Version 117078373137049]}}
+==Introduction - [[File:TooEasy Difficulty Revamped.jpg|50x50px]] ''<span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen"><big>[[TooEasy]]</big></span>''==
+[[File:TooEasy Difficulty Revamped.jpg|30x30px]] <span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen">[[TooEasy]]</span> is a Class 1 difficulty that is harder than  [[File:Tutorial.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,#ECDA8C,#E6D073); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px #E6D073">'''[[Tutorial]]'''</span> and easier than [[File:PeacefulNew.png|30px]] [[Peaceful]]. It's the final difficulty of High Class 1 and has a rating of -4. It's a very simple and easy humanly possible difficulty that almost any player can beat, Real.
+
+[[File:TooEasy Difficulty Revamped.jpg|30x30px]] <span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen">[[TooEasy]]</span>'s name references how it is one of the easiest difficulties. Almost all Difficulty Chart obby players and all JToH obbyists would find this difficulty a cakewalk. Even Mega Fun Obby players would be able to beat this difficulty.
+
+The difficulty would have a tier 0-1 if this used the Tier rating. However, it would land a [[Metris|Kol Metris]] rating of |~12-13| due to its placement.
+==Icon Representation - [[File:TooEasy Difficulty Revamped.jpg|50x50px]] ''<span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen"><big>[[TooEasy]]</big></span>'' ==
+{| class="fandom-table"
+|+'''Icon Representation'''
+!'''Name'''
+!'''Icon'''
+!'''Date Added'''
+!'''Description'''
+|-
+|'''New'''
+| [[File:TooEasy Difficulty Revamped.jpg|300x300px]]
+|'''March 24, 2021'''
+|The icon is quite simple and represents the difficulty well. It has a dark green to black gradient in the background, with the green symbolizing the easiness of the difficulty and also a ":D" emoticon, representing the joy of this difficulty. The icon was made by Galagola. 
+|-
+|'''Old'''
+|[[File:TooEasy.png|center]]
+|'''Feb 16, 2021'''
+|The older icon has a completely black background with text saying "XXD" in the center, similar to the one of [[File:NewWHY.jpeg|frameless|31x31px]] [[w:c:jtohs-hardest-towers:WHY|<span style="color:black">'''WHY'''</span>]]. It was made by TechnicallyTr.
+|}
+== Obstacles - [[File:TooEasy Difficulty Revamped.jpg|50x50px]] ''<span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen"><big>[[TooEasy]]</big></span>''==
+{| class="fandom-table"
+|+ Obstacles (credit to Malignant)
+!
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|"Jumps"
+| style="background-color: #014500;" |4 stud
+| style="background-color: #336000;" |4.2 stud
+| style="background-color: #6d5c00;" |4.4 stud
+| style="background-color: #964a00;" |4.6 stud
+| style="background-color: #5a0000;" |4.8 stud
+|-
+|Stick-In Wraparounds
+| style="background-color: #014500;" |2 stud
+| style="background-color: #336000;" |<font color="white">1.9 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">1.8 stud</font>
+| style="background-color: #964a00;" |<font color="white">1.7 stud</font>
+| style="background-color: #5a0000;" |<font color="white">1.6 stud</font>
+|-
+|Walking
+| style="background-color: #014500;" |<font color="white">50 studs dodging multiple holes</font>
+| style="background-color: #336000;" |75 studs dodging multiple holes
+| style="background-color: #6d5c00;" |<font color="white">100 studs dodging multiple holes</font>
+| style="background-color: #964a00;" |<font color="white">125 studs dodging multiple holes and poles</font>
+| style="background-color: #5a0000;" |<font color="white">150 studs dodging multiple holes and poles</font>
+|-
+|Conveyors
+| style="background-color: #014500;" | <font color="white">Dodge poles on a slow 50 stud conveyors</font>
+| style="background-color: #336000;" |<font color="white">Dodge poles on a slow 75 stud conveyors</font>
+| style="background-color: #6d5c00;" | <font color="white">Dodge poles on a slow 100 stud conveyor</font>
+| style="background-color: #964a00;" |<font color="white">Do a turn and dodge poles on a slow 125 stud conveyor</font>
+| style="background-color: #5a0000;" |<font color="white">Do a turn and dodge poles on a slow 150 stud conveyor</font>
+|-
+|Walking On Slopes
+| style="background-color: #014500;" |Walk up a slope jumping over various 1 stud gaps
+| style="background-color: #336000;" |<font color="white">Walk up a slope jumping over various 1.1 stud gaps</font>
+| style="background-color: #6d5c00;" |<font color="white">Walk up a slope jumping over various 1.2 stud gaps</font>
+| style="background-color: #964a00;" |<font color="white">Walk up a slope jumping over various 1.3 stud gaps</font>
+| style="background-color: #5a0000;" |<font color="white">Walk up a slope jumping over various 1.4 studs</font>
+|-
+| High Jump
+| style="background-color: #014500;" |5 stud
+| style="background-color: #336000;" |<font color="white">5.1 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">5.2 stud</font>
+| style="background-color: #964a00;" |<font color="white">5.3 stud</font>
+| style="background-color: #5a0000;" |<font color="white">5.4 stud</font>
+|}
+==Towers - [[File:TooEasy Difficulty Revamped.jpg|50x50px]] ''<span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen"><big>[[TooEasy]]</big></span>''==
+''Note: Towers listed here are likely inaccurate.''
+===Towers in this difficulty===
+*Not Even a Tower: Nerfed (does not have a page)
+*Steeple of Leafy Abundance ''(UoFTE:S)''
+*Tower of Overly Entertaining Zephyrs ''(UoFTE:S)''
+*Tower of Super Simplistic Straightforward Sections ''(UoFTE:S)''
+*[[Not A Tower At All]] ''(NATAL)''
+*[[Close To a Tower]] (CTaT)
+*[[Tower of Precarious Phantasy Pipeline]] (QToN R1)
+===Towers with this difficulty===
+*{{Class25Difficulties|The Final Difficulty.}} [[Monolith of Completely Endless Difficulties]]
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Monolith of Every EJT Difficulty]]
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]]
+*[[File:New DI Image.JPG|30x30px]] [[Great Citadel of Beyond Impossible Difficulties]]
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]]
+*Obelisk of The Easiest Zone of The Difficulty Chart (Tower Creator)
+==Trivia - [[File:TooEasy Difficulty Revamped.jpg|30x30px]] <span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen">''[[TooEasy]]''</span>==
+*This is the second difficulty [[User:TheGalagola|TheGalagola]] has ever created.
+**The first difficulty to be created was a sub difficulty called [[File:Fair.jpg|30px]] '''Fair'''.
+*[[User:TechnicallyTr|TechnicallyTr]] created this difficulty in February 16 2021 which then got deleted.
+*Believe it or not, this difficulty was moved not once, nor twice, but (technically) thrice.
+**[[Category:Class 1|Class 1]] [[Category:Class 0|Class 0]] This difficulty was moved to [[:Category:Class 1|Class 1]] because [[:Category:Class 0|Class 0]] was full.
+**[[Category:Class 0|Class 0]] Later, this difficulty was moved back down to [[:Category:Class 0|Class 0]] due to the Difficulty Rearrangement event. (or whatever that is) 
+**This difficulty is now in Class 1 again due to TDEx causing everything below the original Class 1 to be shifted up by one. 
+*This is one of the Too[blank] difficulties to stay unharmed for over two years.
+**This is also one of the nerfed difficulties to stay, as this is a nerfed version of {{Class4Difficulties|Why|30px}} [[w:c:jtohs-hardest-towers:WHY|WHY]].
+***"how tf did this not have the nerfed template before i edited it 💀" -Maxalon
+==Continuing On - [[File:TooEasy Difficulty Revamped.jpg|50x50px]] ''<span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen"><big>[[TooEasy]]</big></span>''==
+Well done, you've completed [[File:TooEasy Difficulty Revamped.jpg|30x30px]] <span style="background:linear-gradient(90deg,black,darkgreen,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px darkgreen">[[TooEasy]]</span>! You can now try [[File:PeacefulNew.png|frameless|30x30px]] [[Peaceful|<span style="color:thistle; text-shadow:0px 0px 2px thistle">'''Peaceful'''</span>]] as it is the next difficulty. The choice is yours.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 1]]
+[[Category:Large Pages]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+[[Category:Too Chain]]

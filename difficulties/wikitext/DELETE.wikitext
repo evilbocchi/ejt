@@ -1,0 +1,66 @@
+{{Humanly Impossible}}{{NewDifficultyInfobox
+|title1 = DELETE
+|image1 = Non-Transparent Delete.png
+|caption1 = YOU. WILL. BE. DELETED. INITIATE SEQUENCE
+|class = [[:Category:Class 6|Class 6]]
+|type = [[:Category:Difficulties|Normal Difficulty]]
+|previous = [[File:Miracle.png|30px]] [[Miracle]]
+|next = [[File:Xi-Alpha Icon.png|30px]] [[Xi-Alpha]]
+|decal_id = 243861944
+|original_name = DELETING
+|date_added = 22/1/2021 (Found in Tower of Supreme Difficulty)
+|rating=57|alt_previous=[[File: Yeetus revamp.png|30px]] [[Y E E T U S]]|alt_next=[[File:Interruption.png|26px]] [[Interruption]] (sub-difficulty)|sub_difficulty(ies)=[[File:Interruption.png|30px]] [[Interruption]]|creator(s)=[[User:Astrominal|Astrominal]]}}
+==What is Delete?==
+[[File:Non-Transparent Delete.png|frameless|40x40px]] <span style="color:#000000"><span style="text-shadow: #FF0000 0px 0.5px 6px;">'''DELETE'''</span></span> is a Class 6 difficulty which is right after [[File:Miracle.png|30x30px]] [[Miracle]] in most Towers/Great Citadels it is included in. This difficulty will straight up delete you, and there’s no way to stop that. Getting hit by a laser is an instant ban and death. The floor is also ran by a corrupted robot which is impossible to destroy. This robot will be sure to throw obstacles that will surely mean your demise. If you will proceed and get deleted, all I can say is that you’ll never return.
+
+==Icon Representation ==
+DELETE’s icon has a bunch of things on it. On the background, there are many <span style="color:#B00000;">'''Dark Red'''</span> lasers arranged in a grid. Near a top, there is a triangle with <span style="color:#FF0000;">'''Red'''</span> glow on the edges. It is separated in half into two segments. One is a <span style="color:#000000"><span style="text-shadow: #FFFFFF 0px 0.5px 6px;">'''Black'''</span></span> segment and the other has nothing on it, but the other still has the <span style="color:#B22222;">'''Dark Red'''</span> laser background. At the bottom, there is text saying “DELETE,” the difficulties name. It is <span style="color:#FFFFFF;">white</span>, and has a <span style="color:#B00000;">'''Dark Red'''</span> outline surrounding it. As you can see, <span style="color:#B00000;">'''Red'''</span> mainly dominates this difficulty.
+
+==Obstacles in DELETE==
+{{ObstacleTableRevamp|JumpClimbableBase=16.596|Increment=0.015}}
+==Towers With This Difficulty: ==  
+
+*OoEDaID - [[Obelisk of Easy Difficult and Impossible Difficulties]]
+*OoUDR - [[Obelisk of Uncomfortable Difficulty Rising]]
+*DO - [https://www.roblox.com/games/10192366782/DELETE-OBELISK DELETE OBELISK]
+*OTKYWYUI - Orb That Kills You When You Use It ''(maybe fictional)''
+*ToUSTL - Tower of Ultimately Spicy Turkey Leg ''(fictional)''
+*sowl - stowple of waliuigi launcher ''(Fictional)''
+*ToAZURE - Tower of Astecinianity Zappytonian Ustenahiror Restartinlessness Emilyontic ''(fictional)''
+*ToCoOoGCoMoR - [[Tower of Citadel of Obelisk of Great Citadel of Monolith of Repetition]] ''(fictional)''
+
+== Trivia==  
+
+*The first three towers to have this difficulty included are:  
+**[[w:c:jtohs-impossible-towers.fandom:Tower of Supreme Difficulty|Tower of Supreme Difficulty]] (originally created)
+**[[Great Citadel of Custom, Impossible, and Normal Difficulties]] (first appearance)
+**[[Great Citadel of Hellish Difficulties]]
+*The icon originally came from a model ([https://www.roblox.com/library/3011096626/ heres the model]).
+* This difficulty is 2 years and 8 months old (3rd october 2023) and at original game ([[w:c:jtohs-impossible-towers.fandom:Tower of Supreme Difficulty|ToSD]]) is come from is from a bit older that the page.
+
+== Moving On==
+After avoiding being deleted on Delete by narrowly dodging killbricks and cannons, you’ve finally made it to the end. I don’t get it. '''''WHY WILL YOU NOT BE DELETED?''''' This difficulty was sure to kill you. Did the robot not work? Whatever. It’s time to move onto even harder stuff. First off, after delete, head over to [[File:Xi-Alpha Icon.png|26px]] [[Xi-Alpha]] or [[File:Interruption.png|26px]] [[Interruption]] There, your atoms will be fully destroyed.
+
+== Gallery==
+<gallery>
+File:DELETE Beginning Signs.jpg|DELETE’s beginning signs in GCoHD.
+File:DELETE Obstacles GCoHD.jpg|First few DELETE obstacles in GCoHD. This is unbelievably hard.
+File:DELETE Outside Section GCoHD.jpg|Outside of DELETE. Also in GCoHD.
+File:DELETE SPONGEBOB Decal.jpg|DELETE’s Spongebob decal. Why does this exist?
+File:DELETE Side B Sign.jpg|DELETE Side B sign. Hard to see, but easy to die.
+File:DELETE Frame GCoHD.jpg|DELETE’s frame in GCoHD.
+File:DELETE Extra Objects GCoHD.jpg|Some extra kit objects outside of DELETE in GCoHD.
+File:DELETE on ground.jpg|DELETE difficulty has fallen off ToSD’s difficulty chart!
+File:DELETE DC on GCoCIaND.jpg|DELETE on GCoCIaND’s chart.
+File:DELETE portal GCoCIaND.jpg|DELETE’s portal in GCoCIaND.
+File:DELETE sign GCoCIaND.jpg|DELETE sign in GCoCIaND.
+File:DELETE frame GCoCIaND.jpg|DELETE frame in GCoCIaND.
+File:Rainbow truss in DELETE.jpg|A rainbow truss, in an otherwise red environment. That’s a change.
+File:DELETE Logo.webp|DELETE’s logo.
+File:Delete Difficulty.png|DELETE's frame in SPOoEH.
+</gallery>{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:GCoCIaND Difficulties]]
+[[Category:Class 6]]
+[[Category:Humanly Impossible]]

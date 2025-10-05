@@ -3,70 +3,110 @@
 {|style="border:2px solid #414CAD;background:rgba(65,76,173,0.2);border-radius:10px;text-align:center"width="100%"
 |width="100%" style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500"|Introduction
 |-
-|style="padding:10px"|<big>Hello, '''{{USERNAME}}'''! Welcome to the '''Main Difficulty Chart'''!</big>
-This list is similar to the [[Difficulty Chart]], but with having unofficial and uncanon difficulties on the [[Eternal Joke Towers (EJT) Wiki]]. It includes the canon difficulties and classes to group the difficulties that are in a similar difficulty range together, which goes from easiest to hardest in order, with the easier ones in the lower classes and the logically impossible ones being in the higher classes.
+|style="padding:10px"|<big>Hello, '''{{USERNAME}}'''! Welcome to the '''Difficulty Chart'''!</big>
+This is the current official Difficulty Chart on the [[Eternal Joke Towers (EJT) Wiki]]. It includes all mainspace difficulty pages as well as chains. The chart is split into two parts to reduce lag from the byte count. Difficulties are split into classes, which are sections to classify difficulties appropriately. Each class is then split into a Baseline, Low, Middle, High, Peak and sometimes Skyline classification, with 3 Main Difficulties in each section. Difficulties can have sub-difficulties as well, to help bridge the gap between main difficulties, though this is mostly false due to most sub-difficulties appearing when they're least needed.
 
-Some classes will be closed/locked due to them being quite important, but you can create difficulties in every other class albeit having them moderated. They require a page if they are to be made. Note: '''This is not the [[Difficulty Chart|Official Difficulty Chart]] or any other unrelated difficulty chart, so please don't modify said difficulty charts other than the Alternate Difficulty Chart where you can add your unofficial difficulties.'''
+This is the first part of the chart, or the '''Regular Chart''' if you'll call it. It contains difficulties from Instantaneous to nearly Unbuildable. It starts as Class Negative, and moves up to Class 10. The second part of the chart, or the '''Spiritual Chart''' if you'll call it, contains Class 11 to Class 22, with a total of 25 classes. The second half includes difficulties that are literally unbuildable in the Roblox engine, to infinitely long obstacles to the absolute breakdown of definition. Anything above Penultimate is classified as ''''Rinti-Penultimate'''', which contains TUC and the [[:Category:Cardinals|cardinals]] and [[:Category:Ordinal Quintet|ordinals]].
 
-'''<big>NOTICE: UNAPPROVED RESERVED DIFFICULTIES SHALL BE DELETED WITHOUT EXCEPTION. CONSULT YOUR LOCAL <u>ADMIN FOR PERMISSION TODAY VIA EJT DISCORD OR THROUGH THEIR MESSAGE WALLS ON FANDOM</u>.</big>'''
+There are also [[:Category:Unclassified|Unclassified]] difficulties for difficulties that can change depending on situations like luck, gimmicks, or arbitrariness. In specific circumstances, a difficulty may be in an [[:Category:Anonymous Placement|anonymous placement]], not fitting in any classes. [[:Category:Chains|Chains]] are a set of difficulties that relate to each other or are a set of connected difficulties. Currently there are 10 chains as of now. 
+
+Certain difficulties may have a different status than the usual ones. These difficulties are special, in the case that they represent something that makes it special compared to others. The most common of these is a [[:Category:Class Finale Difficulties|Class Finale]], indicating the difference between each class. There are also [[:Category:Fabled Difficulty|Fabled]] difficulties, usually high quality, popular difficulties or degraded Legendary difficulties. [[:Category:Legendary Difficulty|Legendary]] difficulties are difficulties that have importance to the entire chart. Finally, there's the [[:Category:Primordial Difficulties|Primordial]] classification for the difficulties that form the entire chart.
 |-
 |style="background:#414CAD;border-radius:0 0 5px 5px;font-size:5px"width="100%"|&nbsp;
 |}
 {|style="border:2px solid #414CAD;background:rgba(65,76,173,0.2);border-radius:10px;text-align:center"width="100%"
-|width="100%" style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500"|Recent Difficulties
+|width="100%" style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500"|Recent Changes
 |-
-|style="padding:10px"|Recently added difficulties this year will be listed here and split into 2 sections; ''Deleted'' and ''Non-Deleted''. This board will be archived and removed for when next year arrives for a new board of recently added difficulties.
-
-Note: It's hard to tell what difficulties are complete jokes made to ruin the wiki or just joke difficulties, so difficulties that might be weird will appear here (Example: ''[[Tranquil]]'' was added, but not ''Penis Difficulty'', due to having the obvious purpose of ruining the wiki). Pages that break the rules will be excluded.
-
-Also,any bad grammar or weird usage of punctuation in difficulty names is ''(usually)'' intentional.
+|style="padding:10px"|This section is dedicated to any Difficulty Chart changes that happen throughout the year. This includes slot changes, rating changes, difficulty additions and removals. Ever since the refining and standardization of the chart, recent changes start to become more rare, so this section is pretty useless most of the time. Only MDC and EDC changes are showcased.
 <tabber>
 January=
 <h2> January </h2>
-None.
+No changes were made in this month.
 
 |-|February=
 <h2> February </h2>
-* [[File:Insistent.png|25px]] [[Insistent]]
-* [[File:Resilient Glow.png|25px]] [[Resilient Glow]]
+<h3> Additions </h3>
+*[[File:Insistent.png|30px]] [[Insistent]] ''(Exigent replacement)''
+*[[File:Resilient Glow.png|30px]] [[Resilient Glow]] ''(Imperative replacement)''
+
+<h3> Removals </h3>
+*[[File:Exigent.png|30px]] Exigent ''(Author request)''
+*[[File:Imperative.png|30px]] Imperative ''(Author request)''
+
 |-|March=
 <h2> March </h2>
-None.
+No changes were made in this month.
 
 |-|April=
 <h2> April </h2>
-None.
+<h3> Additions </h3>
+*[[File:Miracle.png|30px]] [[Miracle]] ''(Everdark replacement)''
 
 |-|May=
 <h2> May </h2>
-None.
+<h3> Additions </h3>
+* [[File:BabyingSDC.png|30px]] [[Babying]] ''(Forgot to be added)''
 
 |-|June=
 <h2> June </h2>
-None.
+No changes were made in this month.
 
 |-|July=
 <h2> July </h2>
-None.
+<h3> ''Additions'' </h3>
+*[[File:Hello..png|30px]] [[Linguistic]] ''(Forgot to be added)''
+*[[File:V is for.png|30px]] [[Vacant]] ''(Forgot to be added)''
+*[[File:Comforting.png|30px]] [[Elementary]] ''(Class 2 and 3 expansion)''
+*[[File:Onerous.png|30px]] [[Onerous]] ''(Class 2 and 3 expansion)''
+*[[File:Psycho.png|30px]] [[Psycho]] ''(Class 2 and 3 expansion)''
 
 |-|August=
 <h2> August </h2>
-None.
+<h3> Additions </h3>
+*[[File:MenacingDifficulty.png|30px]] [[Menacing]] ''(Class 2 and 3 Expansion)''
+*[[File:Harming.svg|30px]] [[Harming]] ''(Class 2 and 3 Expansion)''
+*[[File:Hellish2.PNG|30px]] [[Hellish]] ''(Class 2 and 3 Expansion)''
+*[[File:Harsh.png|30px]] [[Harsh]] ''(Class 2 and 3 Expansion)''
+*{{Class2Difficulties|Angerable|30px}} [[Angerable]] ''(Class 2 and 3 Expansion)''
+*[[File:MeshugaNew.png|30px]] [[Meshuga]] ''(Class 2 and 3 Expansion)''
+*{{Class3Difficulties|Uneasy|30px}} [[Uneasy]] ''(Class 2 and 3 Expansion)''
+*[[File:DorcelessnessDifficulty.png|30px]] [[Dorcelessness]] ''(Class 2 and 3 Expansion)''
+*[[File:Confidence.png|30px]] [[Confident]] ''(Class 2 and 3 Expansion)''
+*[[File:Oblivious.png|30px]] [[Oblivious]] ''(Class 2 and 3 Expansion)''
+*[[File:ProdigiousIcon.png|30px]] [[Prodigious]] ''(Class 2 and 3 Expansion)''
+*[[File:Discodebug.png|30px]] [[Disco]] ''(Reversed Peripherality replacement)''
+
+<h3> Removals </h3>
+*Artificial ''(Using AI)''
+*[[File:Reversed Peripherality Icon.png|30px]] [[Reversed Peripherality]] ''(Replaced by Disco)''
 
 |-|September=
 <h2> September </h2>
-None.
+<h3> Additions </h3>
+*[[File:EasefulNew.png|30px]] [[Easeful]] ''(Class 2 and 3 Expansion Contest Winner)'' (01/09/25)
+*[[File:Hectic.png|30px]] [[Hectic]] ''(Class 2 and 3 Expansion Contest Winner)'' (01/09/25)
+*[[File:Complex.png|30px]] [[Complex]] ''(Replacement for Meshuga)'' (28/09/25)
+
+<h3> Removals </h3>
+*[[File:MeshugaNew.png|30px]] [[Meshuga]] ''(Unfulfilled purpose)'' (28/09/25)
 
 |-|October=
 <h2> October </h2>
-None.
+<h3> Additions </h3>
+*[[File:HowNewest.webp|30px]] [[How‽]] ''(TDEx false deletion)'' (01/10/25)
+*''Factorial (TDEx false deletion)'' (02/10/25)
+*''Megalomaniacal (TDEx false deletion)'' (02/10/25)
+*''Pandora (TDEx false deletion)'' (02/10/25)
+*''Unpossible (TDEx false deletion)'' (02/10/25)
+*''Spongebob (TDEx false deletion)'' (02/10/25)
+*''Flummoxing (TDEx false deletion)'' (02/10/25)
 
 |-|November=
 <h2> November </h2>
 None.
 
 |-|December=
-<h2> December </h2>
+<h2> December </h2>particularly 
 None.
 </tabber>
 |-
@@ -75,105 +115,161 @@ None.
 {|style="border:2px solid #414CAD;background:rgba(65,76,173,0.2);border-radius:10px;text-align:center"width="100%"
 |width="100%" style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500"|Unclassified Difficulties
 |-
-|style="padding:10px"|These difficulties have no classification and thus don't have any proper idea of where they belong. It's possible to discuss a difficulty's placement such as [[THE CURSED DIFFICULTY]] although it has only been done a few times. Note: The [[Alternate Difficulty Chart]] is the only chart that'll list such difficulties here.
+|style="padding:10px"|These difficulties have no classification and thus don't have any proper idea of where they belong. Note: The [[Main Difficulty Chart]] is the only chart that'll list such difficulties here.
 {| class="wikitable mw-collapsible" style="text-align:center;"
-!colspan="25"style="text-align:center;width:1%"|'''Unclassified'''
+! colspan="26" style="text-align:center;width:1%" |'''Unclassified'''
 |-
 !Difficulty Image
 !Difficulty Name
-!Class Range
+!Difficulty Type
+!Difficulty Rating
 |-
-|colspan="4"style="background:#7f7ca3;color:white"|'''EJT'''
+| colspan="4" style="background:#7f7ca3;color:white" |'''EJT'''
 |-
-|[[File:Randomize Icon Minus 1.png|46px]]
-|[[Randomization]]
-| 1 to 8.
+| colspan="4" style="background:#908991;color:white" |'''Unclassified Difficulties'''
 |-
-|[[File:Empty.png|46px]]
+|[[File:Empty.png|50px]]
 |[[Blank]]
-|Blank
+|Unclassified
+|Anonymous Placement
 |-
-|[[File:Construct New Icon.svg|46px]]
-|[[Construct]]
-| 0 to 22
+|[[File:Hello..png|50px]]
+|[[Linguistic]]
+|Unclassified
+|Anonymous Placement
 |-
-|[[File:Walking.2.png|46px]]
-|[[Walking]]
-|1 to 6 
+|[[File:Randomize Icon Minus 1.png|50px]]
+|[[Randomization]]
+|Unclassified
+| -∞ to ∞
 |-
-|[[File:New Reflectanceable image.png|46px]]
-|[[Reflective]]
-| Negative to 12
-|-
-|[[File:Sketchy.png|46px]]
+|[[File:Sketchy.png|50px]]
 |[[Sketchy]]
-| Negative to 20
+|Unclassified
+| -∞ to ∞
 |-
-|[[File:PuzzlingNew.png|46px]]
-|[[Puzzling]]
-|0 to 3
-|-
-|[[File:15.png|46px]]
-|[[15]] (EVENT)
-|5 to 15
-|-
-|[[File:Newiconzemb.png|46px]]
-|[[Zemblanity]]
-|[[Madness]] to <small>[[Uncomputable]]</small>
-|-
-|[[File:NewSpectrumplex.png|46px]]
+|[[File:NewSpectrumplex.png|50px]]
 |[[Spectrumplex]]
-| Negative to 22
+|Unclassified
+| -∞ to ∞
 |-
-|colspan="4"style="background:#8a7a9e;color:white"|'''EToH'''
+|[[File:New Reflectanceable image.png|50px]]
+|[[Reflective]]
+|Unclassified
+| -∞ to 145.99
 |-
-|[[File:GingerbreadDifficulty.jpg|46px]]
+|[[File:Construct New Icon.svg|50px]]
+|[[Construct]]
+|Unclassified
+| -30 to ∞
+|-
+|[[File:PuzzlingNew.png|50px]]
+|[[Puzzling]]
+|Unclassified
+| -28 to 15.99
+|-
+|[[File:Walking.2.png|50px]]
+|[[Walking]]
+|Unclassified
+| -15 to 60.99 
+|-
+|[[File:Factorial.png|50x50px]]
+|[[Factorial]]
+|Unclassified
+|1 to 120
+|-
+|[[File:Newiconzemb.png|50px]]
+|[[Zemblanity]]
+|Unclassified
+|9.5 to 248.99
+|-
+| colspan="4" style="background:#908991;color:white" |'''Event Difficulties'''
+|-
+|[[File:16.png|50x50px]]
+|[[16]]
+|Event
+|18.5 to 150.99
+|-
+|[[File:PUMPKINDEATHNew.png|50px]]
+|[[Halloween Chaotic Collaboration Event Difficulty|PUMPKINDEATH]]
+|Event
+|246 to 249.99
+|-
+|[[File:Pumkin.png|52x52px]]
+|[[Lunatic Halloween Difficulty]]
+|Event
+|246.33033
+|-
+| colspan="4" style="background:#8a7a9e;color:white" |'''EToH'''
+|-
+| colspan="4" style="background:#908991;color:white" |'''Joke Difficulties'''
+|-
+|[[File:GingerbreadDifficulty.jpg|50px]]
 |[[w:c:jtoh:Gingerbread|Gingerbread]]
-|Used when people can't agree on a difficulty.
+|Unclassified
+|Unconfirmed Ratings
 |-
-|[[File:Epic April Fools edition.webp|46px]]
+|[[File:Epic April Fools edition.webp|50px]]
 |[[w:c:jtoh:Epic|Epic (EToH)]]
-|[[Climb A Truss]] to [[Jesus Ballin'|Jesus Ballin]] (According to the EToH Wiki's ratings, Epic is placed at 12 assuming you use the EToH chart, but -6.75 to 65 in EJT due to how hard)
+|Unclassified
+| -6.75 to 65
 |-
-|[[File:korn.webp|46px]]
+|[[File:korn.webp|50px]]
 |[[w:c:jtoh:korn|korn]]
-| 1 to 3 
+|Unclassified
+| -15 to 15.99
 |-
-|[[File:Above_Catastrophic.webp|46px]]
+|[[File:Above_Catastrophic.webp|50px]]
 |[[w:c:jtoh:OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo|OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo]]
-|Any rating above 12
+|Event
+|12 to ∞
 |-
-|[[File:SisyphusDifficulty.png|40x46px]]
+|[[File:SisyphusDifficulty.png|40x50px]]
 |[[w:c:jtoh:Sisyphus|Sisyphus]]
-|babass (Negative to 4)
+|Event
+| -∞ to 30.99
 |-
-|[[File:EpinephrineIcon.png|46px]]
+|[[File:EpinephrineIcon.png|50px]]
 |[[w:c:jtoh:Epinephrine|Epinephrine]]
-|Unknown
+|Event
+|Anonymous Placement
 |-
-|[[File:OVERKILLIcon.png|46px]]
+|[[File:OVERKILLIcon.png|50px]]
 |[[w:c:jtoh:OVERKILL|OVERKILL]]
-|Unknown
+|Event
+|Anonymous Placement
 |-
-|[[File:MSDSpeedyIcon.png|46px]]
+|[[File:MSDSpeedyIcon.png|50px]]
 |[[w:c:jtoh:MSD Speedy|MSD Speedy]]
-|Unknown
+|Event
+|Anonymous Placement
 |-
-|[[File:Guiremorselessicon.png|46px]]
+|[[File:Guiremorselessicon.png|50px]]
 |[[w:c:jtoh:Gui remorseless|gui remorseless]]
-|Unknown
+|Event
+|Anonymous Placement
 |-
-|[[File:DivineIcon.png|46px]]
+|[[File:Eschaton.webp|50px]]
+|[[w:c:jtoh:Eschaton|Eschaton]]
+| Anonymous Placement
+| -30 to ∞
+|-
+| colspan="4" style="background:#908991;color:white" |'''Extraneous Difficulties'''
+|-
+|[[File:DivineIcon.png|50px]]
 |[[w:c:etoh-misc:Divine|Divine (EToH)]]
-|Unknown
+|Event
+|Anonymous Placement
 |-
-|[[File:Guinilicon.png|46px]]
+|[[File:Guinilicon.png|50px]]
 |[[w:c:etoh-misc:Gui nil|gui nil]]
-|Unknown
+|Event
+|Anonymous Placement
 |-
-|[[File:AntiBobyIcon.png|46px]]
+|[[File:AntiBobyIcon.png|50px]]
 |[[w:c:etoh-misc:Anti Boby|Anti Boby]]
-|Unknown
+|Event
+|Anonymous Placement
 |}
 |-
 |style="background:#414CAD;border-radius:0 0 5px 5px;font-size:5px"width="100%"|&nbsp;
@@ -188,7 +284,6 @@ None.
 *[[The Grand Difficulty Chart Archive]] ''(Archived difficulties are here)''
 *[[The GREAT Decal Difficulty Chart Container]] ''(Decals of all difficulties for your roblox obbies)''
 *[[User blog:YourNuglyguy/shtuff]] ''(Archive of the old difficulty chart)''
-<i>Each class has recently had their descriptions changed, click [https://jtohs-joke-towers.fandom.com/wiki/Main_Difficulty_Chart?oldid=268020 here].</i>
 |-
 |style="background:#414CAD;border-radius:0 0 5px 5px;font-size:5px"width="100%"|Okay lets start with the chart now&nbsp;
 |}
@@ -196,14 +291,13 @@ None.
 {| style="border:2px solid #414CAD;background:rgba(65, 76, 173, 0.2);border-radius:10px;text-align:center" width="100%"
 |width="100%"style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500"|Class Negative | Unlosable
 |-
-| style="padding:10px" |Welcome to the start of the difficulty chart. These difficulties are so easy you're probably not noticing you're winning so many times a second. In fact, as you are reading this, you're probably winning an uncountable times per second. These difficulties are so easy that trying to lose them is as hard as the end of the difficulty chart itself. You don’t have to be in any Roblox game, let alone even doing anything. Some of these difficulties don’t even require you to exist.
-
-However, due to the fact that we can't have 5 classes of infinite easiness, this class is going to be pretty short in size compared to the other classes because of the large difficulty gaps between TFirD and Instant Win.
+| style="padding:10px" |Welcome to the start of the difficulty chart. These difficulties are so easy you're probably not noticing you're winning them so many times a second. In fact, as you are reading this, you're probably winning these difficulties an uncountable times per second. These difficulties are so easy that trying to lose them is as hard as the end of the difficulty chart itself. You don’t have to be in any Roblox game, let alone even doing anything. Some of these difficulties don’t even require you to exist.
 ----
 *Rating Range: -∞ to -31
 *Difficulties: 15
 *Sub-Difficulties: 0
-*Total: 15
+*Chains: 2
+*Total: 17
 {| class="wikitable mw-collapsible" style="text-align:center;"
 !colspan="25"style="text-align:center;width:1%"|'''Class Negative'''
 |-
@@ -216,13 +310,13 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |-
 |[[File:Tfird.png|150px]]
 |[[The First Difficulty]]
-|Primordial
-|<font size="6">-∞</font>
+|'''<big>Primordial</big>'''
+|<font size="6">'''<big>-∞</big>'''</font>
 |-
 |[[File:TheLowerGapRemake.png|150px]]
 |[[The Lower Gap]]
-|Primordial / Gap
-| -∞ to 115
+|'''<big>Primordial / Gap</big>'''
+| <big>'''-∞ to 115'''</big>
 |-
 |[[File:Negativity.png|50px]]
 |[[Negativity]]
@@ -261,12 +355,12 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |[[File:Exist Difficulty Squared.png|100px]]
 |<big>[[Exist]]</big>
 |<big>First Legendary</big>
-| -10<sup>100</sup>
+| <big>-10<sup>100</sup></big>
 |-
 | colspan="4" style="background:#867438;color:white" |'''High'''
 |-
-|[[File:Imagecool.png|50px]]
-|[[Reversed Peripherality]]
+|[[File:Discodebug.png|50x50px]]
+|[[Disco]]
 |Normal
 | -10<sup>10</sup>
 |-
@@ -313,9 +407,10 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 | style="padding:10px" |This class is automatic, meaning no inputs are required to beat a difficulty, therefore literally anyone can do difficulties of this class. Losing to this class may result from intentionally messing up, disconnection, or bugged physics.
 ----
 *Rating Range: -30 to -16
-*Difficulties: 15 (not counting variations)
-*Sub-Difficulties: 7 (5 not counting variations)
-*Total: 22 (20 not counting variations)
+*Difficulties: 15
+*Sub-Difficulties: 6
+*Chains: 2
+*Total: 23
 {| class="wikitable mw-collapsible" style="text-align:center;"
 ! colspan="25" style="text-align:center;width:1%" |'''Class 0'''
 |-
@@ -409,17 +504,17 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |-
 |[[File:Roll Difficulty.png|50px]]
 |[[Unlosable/Old#Roll|Roll]]
-|Variation/Sub-Difficulty
+|Sub-Difficulty
 | -19
 |-
 |[[File:Mazeophobia.jpg|50px]]
 |[[Unlosable/Old#Mazeophobia|Mazeophobia]]
-|Variation/Sub-Difficulty
+|Sub-Difficulty
 | -19
 |-
 |[[File:ShatteredBabass.png|50px]]
 |[[Shattered Babass]]
-|Chain/Sub-Difficulty
+|Babass Sequence
 | -18.5
 |-
 | colspan="4" style="background:#7A493D;color:white" |'''Peak'''
@@ -464,7 +559,7 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |[[File:JoyfulDiffIcon.png|100px]]
 |<big>[[Joyful]]</big>
 |<big>2nd Legendary</big>
-| -15
+| <big>-15</big>
 |-
 |[[File:Do Something 2.png|50px]]
 |[[Do Something]]
@@ -604,15 +699,20 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |Sub-Difficulty
 | -2.5
 |-
-|[[File:Magnificent Current.png|50px]]
-|[[Magnificent]]
+|[[File:BabyingSDC.png|49x49px]]
+|[[Babying]]
 |Normal
 | -2
+|-
+|[[File:Magnificent Current.png|50px]]
+|[[Magnificent]]
+|Sub-Difficulty
+| -1.66
 |-
 |[[File:Facile1.png|50px]]
 |[[Facile]]
 | Sub-Difficulty
-| -1.5
+| -1.33
 |-
 |[[File:EffortlesslessIconOoIDC.png|75px]]
 |[[Effortlessless]]
@@ -628,14 +728,14 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |-
 |[[File:Stone.png|50px]] to [[File:Capsuled Singularity.png|50px]]
 |[[Excavation Chain]]
-| Chain/Sub-Difficulty
-| -6.125 to 172.125
+| Chain/Sub-Difficulties
+| -11.25 to ???
 |}
 |-
 | style="background:#414CAD;border-radius:0 0 5px 5px;font-size:5px" width="100%" |&nbsp;
 |}
 {| style="border:2px solid #414CAD;background:rgba(65, 76, 173, 0.2);border-radius:10px;text-align:center" width="100%"
-| width="100%" style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500" |Class 2 | Normal
+| width="100%" style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500" |<nowiki>Class 2 | Normal</nowiki>
 |-
 | style="padding:10px" |The majority of Roblox players’s skill level is at this class, including the skill of average EToH players. These difficulties consist of the non-soul crushing EToH difficulties, the one you would find in the majority of EToH towers. This class ranges from small jumps such as a 1 stud wraparound in Effortless all the way up to advanced techniques like basic wall-hopping, 10 stud wraparounds, and many others.
 {| class="wikitable mw-collapsible" style="text-align:center;"
@@ -648,7 +748,7 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |-
 | colspan="4" style="background:#629592;color:white" |'''Baseline'''
 |-
-|[[File:Effortless difficulty.png|50px]]
+|[[File:Effortless_difficulty.png|50px]]
 |[[w:c:jtoh:Effortless|Effortless]]
 |Normal
 |0
@@ -656,12 +756,17 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |[[File:Playgrounddif.png|50px]]
 |[[Playground]]
 |Sub-Difficulty
-|0.33
+|0.25
+|-
+|[[File:Comforting.png|50px]]
+|[[Elementary]]
+|Normal
+|0.5
 |-
 |[[File:Simple.png|50px]]
 |[[Simple]]
 |Sub-Difficulty
-|0.66
+|0.75
 |-
 |[[File:EasyDifficulty.jpg|50px]]
 |[[w:c:jtoh:Easy|'''Easy''']]
@@ -700,22 +805,32 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |Normal
 |2.5
 |-
-|[[File:Rewardable diff.png|50px]]
+|[[File:Rewardable_diff.png|50px]]
 |[[Rewardable]]
-|Sub-Difficulty 
+|Sub-Difficulty
 |2.75
-|-
-| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
 |-
 |{{Class1Difficulties|Hard|50px}}
 |[[w:c:jtoh:Hard|'''Hard''']]
 |Normal
 |3
 |-
-|[[File:New Tricky.png|50px]]
+|[[File:New_Tricky.png|50px]]
 |[[Tricky]]
 |Sub-Difficulty
+|3.25
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|[[File:Onerous.png|50px]]
+|[[Onerous]]
+|Normal
 |3.5
+|-
+|[[File:EasefulNew.png|50px]]
+|[[Easeful]]
+|Sub-Difficulty
+|3.75
 |-
 |{{Class2Difficulties|Difficult|50px}}
 |[[w:c:jtoh:Difficult|'''Difficult''']]
@@ -725,24 +840,39 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |[[File:Strenuous.png|50px]]
 |[[Strenuous]]
 |Sub-Difficulty
+|4.25
+|-
+|[[File:MenacingDifficulty.png|50px]]
+|[[Menacing]]
+|Normal
 |4.5
 |-
-| colspan="4" style="background:#867438;color:white" |'''High'''
+|[[File:Harming.svg|50px]]
+|[[Harming]]
+|Sub-Difficulty
+|4.75
 |-
 |{{Class2Difficulties|Challenging|50px}}
 |[[w:c:jtoh:Challenging|'''Challenging''']]
 |Normal
 |5
 |-
-|[[File:Irritating square.PNG|50px]]
+|[[File:Irritating_square.PNG|50px]]
 |[[Irritating]]
 |Sub-Difficulty
 |5.25
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
 |-
 |[[File:Maniacal.jpg|50px]]
 |[[Maniacal]]
 |Normal
 |5.5
+|-
+|[[File:Hectic.png|50px]]
+|[[Hectic]]
+|Sub-Difficulty
+|5.75
 |-
 |{{Class2Difficulties|Intense|50px}}
 |[[w:c:jtoh:Intense|'''Intense''']]
@@ -754,12 +884,17 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |Sub-Difficulty
 |6.25
 |-
-| colspan="4" style="background:#7A493D;color:white" |'''Peak'''
-|-
 |[[File:Severe2.png|50px]]
 |[[Severe]]
 |Normal
 |6.5
+|-
+|[[File:Hellish2.PNG|50px]]
+|[[Hellish]]
+|Sub-Difficulty
+|6.75
+|-
+| colspan="4" style="background:#7A493D;color:white" |'''Peak'''
 |-
 |{{Class2Difficulties|Remorseless|50px}}
 |[[w:c:jtoh:Remorseless|'''Remorseless''']]
@@ -769,28 +904,42 @@ However, due to the fact that we can't have 5 classes of infinite easiness, this
 |[[File:CORRUPT.png|50px]]
 |[[C0RrUpT]]
 |Sub-Difficulty
+|7.25
+|-
+|[[File:Psycho.png|50px]]
+|[[Psycho]]
+|Normal
 |7.5
 |-
-|[[File:Relentless.png|75px]]
+|[[File:Harsh.png|50px]]
+|[[Harsh]]
+|Sub-Difficulty
+|7.75
+|-
+|[[File:Relentless.png|75x75px]]
 |[[Relentless]]
 |<big>1st Fabled/Class Finale</big>
 |'''<big>8</big>'''
 |-
+|{{Class2Difficulties|Angerable|50px}}
+|[[Angerable]]
+|Sub Difficulty
+|8.25
+|-
 | colspan="4" style="background:#878787;color:white" |'''Chains'''
 |-
-|[[File:Gar1.jpg|50px]] to [[File:PA G-H.webp|50px]]
+|[[File:Gar-Effortless.png|50px]] to [[File:Gar-AnguishV2.png|50px]]
 |[[:Category:Gar Chain|Gar Chain]]
-|Chain/Sub-Difficulty
-|1.15 to 197.5
+|Chain/Sub-Difficulties
+|0.125 to 225.5
 |}
 |-
 | style="background:#414CAD;border-radius:0 0 5px 5px;font-size:5px" width="100%" |&nbsp;
 |}
 {| style="border:2px solid #414CAD;background:rgba(65,76,173,0.2);border-radius:10px;text-align:center" width="100%"
-| width="100%" style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500" |Class 3 | Soul-Crushing
+| width="100%" style="background:#414CAD;border-radius:5px 5px 0 0;font-size:1.7em;font-weight:500" |<nowiki>Class 3 | Soul-Crushing</nowiki>
 |-
 | style="padding:10px" |This class marks the start of soul crushing difficulties, and is near the limit of human possibility. People who beat towers of this class of difficulties are considered to be "Elite Obbyists". Many people beat towers such as [[w:c:jtoh:ToDC|Tower of Difficulty Chart]], [[w:c:jtoh:ToDT|Tower of Double Trouble]], or [[w:c:jtoh:ToTL|Tower of Thinning Layers]] as their first towers in this class. A lot of towers in this class are mostly [[w:c:jtoh:Purism|purist]], but plenty of towers in this class are based around client objects. Almost every tower in [[w:c:jtoh:PoM|Pit of Misery]] is in this class range as well.
-
 People who make it to difficulties that are this deep are very good at obbies, whether they have 30 or 250 towers beaten. People on the higher end of Class 3 have beaten many towers in the top list, which might only be [[w:c:jtoh:Terrifying|Terrifying]]/[[w:c:jtoh:Catastrophic|Catastrophic]] or have even beaten the hardest towers verified, that is, [[w:c:jtoh:ToBF|Tower of Blind Fate]] and [[w:c:jtoh:CoIV|Citadel of Infinite Void]].
 
 Many tiered obbyists, are in this class. For context, tiered obbies are [[w:c:jtoh:Purism|purist]] that usually do not have a frame, and have their own dimensions. They are usually the same length as EToH towers.
@@ -803,6 +952,16 @@ Many tiered obbyists, are in this class. For context, tiered obbies are [[w:c:jt
 !Difficulty Rating
 |-
 | colspan="4" style="background:#629592;color:white" |'''Baseline'''
+|-
+|[[File:VexatiousIcon.png|50px]]
+|''Vexatious''
+|Placeholder/Normal
+|8.5
+|-
+|[[File:Complex.png|50px]]
+|[[Complex]]
+|Sub-Difficulty
+|8.75
 |-
 |{{Class3Difficulties|Insane|50px}}
 |'''[[w:c:jtoh:Insane|Insane]]'''
@@ -831,6 +990,11 @@ Many tiered obbyists, are in this class. For context, tiered obbies are [[w:c:jt
 |Normal
 |10
 |-
+|{{Class3Difficulties|Uneasy|50px}}
+|[[Uneasy]]
+|Sub Difficulty
+|10.25
+|-
 |[[File:Inferiority.png|50px]]
 |[[Turmoil]]
 |Normal
@@ -841,8 +1005,6 @@ Many tiered obbyists, are in this class. For context, tiered obbies are [[w:c:jt
 |Sub-Difficulty
 |10.75
 |-
-| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
-|-
 |{{Class3Difficulties|Terrifying|50px}}
 |'''[[w:c:jtoh:Terrifying|Terrifying]]'''
 |Normal
@@ -851,75 +1013,95 @@ Many tiered obbyists, are in this class. For context, tiered obbies are [[w:c:jt
 |{{Class3Difficulties|Ghastly|50px}}
 |[[Ghastly]]
 |Sub-Difficulty
-|11.16
+|11.25
 |-
-|[[File:Horrifying.PNG|50px]]
-|[[Horrifying]]
-|Sub-Difficulty
-|11.33
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
 |-
 |[[File:Petrifying2.png|50px]]
 |[[Petrifying]]
 |Normal
 |11.5
 |-
-| colspan="4" style="background:#867438;color:white" |'''High'''
+|[[File:Horrifying.PNG|51x51px]]
+|[[Horrifying]]
+|Sub-Difficulty
+|11.75
 |-
 |{{Class3Difficulties|Catastrophic|50px}}
 |'''[[w:c:jtoh:Catastrophic|Catastrophic]]'''
 |Normal
 |12
 |-
-|[[File:Champion's Road.png|50px]]
+|[[File:Champion's_Road.png|50px]]
 |[[Champion's Road]]
 |Sub-Difficulty
-|12.125
+|12.25
 |-
 |[[File:Eccentric_New_New.png|50px]]
 |[[Eccentric]]
 |Normal
 |12.5
 |-
+|[[File:DorcelessnessDifficulty.png|51x51px]]
+|[[Dorcelessness]]
+|Sub-Difficulty
+|12.75
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
+|-
 |[[File:NewHorrific.webp|50px]]
 |[[w:c:jtohs-hardest-towers:Horrific|Horrific]]
 |Normal
 |13
 |-
-|[[File:No U.gif|50px]]
+|[[File:No_U.gif|50px]]
 |[[Reversed]]
 |Sub-Difficulty
 |13.25
-|-
-| colspan="4" style="background:#7A493D;color:white" |'''Peak'''
 |-
 |[[File:Eternalized.png|frameless|50px]]
 |[[Eternal]]
 |Normal
 |13.5
 |-
+|[[File:Confidence.png|50px]]
+|[[Confident]]
+|Sub-Difficulty
+|13.75
+|-
 |{{Class3Difficulties|Unreal|50px}}
 |[[w:c:jtohs-hardest-towers:Unreal|Unreal]]
 |Normal
 |14
 |-
-|[[File:New Treacherous Icon.png|50px]]
-|[[Treacherous]]
-| Sub-Difficulty
-|14.33
-|-
-|[[File:HYPERNew.webp|50x50px]]
+|[[File:HYPERNew.webp|50px]]
 |[[HYPER]]
 |Sub-Difficulty
-|14.66
+|14.25
 |-
-|[[File:Anguish2.png|50px]]
+| colspan="4" style="background:#7A493D;color:white" |'''Peak'''
+|-
+|[[File:New_Treacherous_Icon.png|50px]]
+|[[Treacherous]]
+|Normal
+|14.5
+|-
+|[[File:Oblivious.png|frameless|50px]]
+|[[Oblivious]]
+|Sub-Difficulty
+|14.75
+|-
+|[[File:AnguishNew2.png|50px]]
 |[[Anguish]]
 |Normal
 |15
 |-
-| colspan="4" style="background:#333333;color:white" |<big>'''Skyline'''</big>
+|[[File:ProdigiousIcon.png|50px]]
+|[[Prodigious]]
+|Sub-Difficulty
+|15.25
 |-
-|[[File:TheHumanLimit.png|100px]]
+|[[File:TheHumanLimit.png|100x100px]]
 |<big>[[The Human Limit]]</big>
 |<big>3rd Legendary/Class Finale</big>
 |'''<big>15.5</big>'''
@@ -1047,7 +1229,7 @@ Bottom Class 4 towers may be possible to beat, but the near-impossible obstacles
 |Normal
 |25
 |-
-|[[File:Me when new dimension icon.webp|50x50px]]
+|[[File:Me when new dimension icon.webp|50px]]
 |[[Dimension]]
 | Sub-Difficulty
 |25.5
@@ -1084,7 +1266,7 @@ Bottom Class 4 towers may be possible to beat, but the near-impossible obstacles
 |Sub-Difficulty
 |28.33
 |-
-|[[File:Shimeshimeyehshimeyehshimeyaah.jpg|50x50px]]
+|[[File:Shimeshimeyehshimeyehshimeyaah.jpg|50px]]
 |[[Reality]]
 |Sub-Difficulty
 |28.66
@@ -1149,13 +1331,8 @@ Also, random history facts! This class is a combination of previous class 6 (whi
 |Normal
 |32
 |-
-|[[File:Artificial Difficulty Icon.png|50px]]
-|[[Artificial]]
-|Sub-Difficulty 
-|32.5
-|-
 |[[File:New epsilon .PNG|50px]]
-|[[Hellicious]]
+|[[Exile]]
 |Normal
 | 33
 |-
@@ -1304,7 +1481,7 @@ There also happens to be two chains here; the Road to Pseudo-Difficulties, a pro
 |Chain
 |51
 |-
-| colspan="4" style="background:#666B2C;color:white" |'''Post-RoPD (Mid)'''
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
 |-
 |[[File:Absolutism.png|50px]]
 |[[Absolutism]]
@@ -1326,7 +1503,7 @@ There also happens to be two chains here; the Road to Pseudo-Difficulties, a pro
 |Normal
 |54
 |-
-|[[File:Oblivion2.png|50px]]
+|[[File:Oblivion4.webp|50px]]
 |[[Oblivion]]
 |Sub-Difficulty
 |54.5
@@ -1338,8 +1515,8 @@ There also happens to be two chains here; the Road to Pseudo-Difficulties, a pro
 |Normal
 |55
 |-
-|[[File:Placeholder white.PNG|50px]]
-|N/A
+|[[File:Miracle.png|50px]]
+|[[Miracle]]
 |Normal
 |56
 |-
@@ -1353,7 +1530,7 @@ There also happens to be two chains here; the Road to Pseudo-Difficulties, a pro
 |Normal
 |57
 |-
-|[[File:Interruption.png|50x50px]]
+|[[File:Interruption.png|50px]]
 |[[Interruption]]
 |Sub-Difficulty
 |57.5
@@ -1375,19 +1552,19 @@ There also happens to be two chains here; the Road to Pseudo-Difficulties, a pro
 |Chain/Sub-Difficulty
 |58.66
 |-
-|[[File:ThetaVoidRevamp.png|50x50px]]
+|[[File:ThetaVoidRevamp.png|50px]]
 |[[Theta-Void]]
 |Chain
 |59
 |-
-|[[File:New Ultimaniac Icon.png|50x50px]]
+|[[File:New Ultimaniac Icon.png|50px]]
 |[[Ultimaniac]]
 |Chain/Sub-Difficulty
 |59.5
 |-
 | colspan="4" style="background:#9900FF;color:white" |'''<big>Skyline</big>'''
 |-
-|[[File:SquareSupreme.png|100px]]
+|[[File:NewSquareSupreme.png|100x100px]]
 |<big>[[Supreme]]</big>
 |<big>4th Legendary/Class Finale</big>
 |'''<big>60</big>'''
@@ -1397,7 +1574,7 @@ There also happens to be two chains here; the Road to Pseudo-Difficulties, a pro
 |Sub-Difficulty
 |60.33
 |-
-|[[File:UNTHINKABLESquared.png|50x50px]]
+|[[File:UNTHINKABLESquared.png|50px]]
 |[[UNTHINKABLE]]
 |Sub-Difficulty
 |60.66
@@ -1474,6 +1651,11 @@ Obstacles also start to get exponentially larger in size. At this point, the gap
 |Normal
 |66
 |-
+|[[File:Rebirth Unimpossible.png|52x52px]]
+|[[Unpossible]]
+|Sub-Difficulty
+|66.5
+|-
 | colspan="4" style="background:#666B2C;color:white" |'''Mid'''
 |-
 |[[File:Universe Disruption.png|50px]]
@@ -1481,10 +1663,15 @@ Obstacles also start to get exponentially larger in size. At this point, the gap
 |Normal
 |67
 |-
+|[[File:Spongebob2.jpeg|53x53px]]
+|[[Spongebob]]
+|Sub-Difficulty
+|67.33
+|-
 |[[File:CompleteObstacles.png|50px]]
 |[[Complete: Obstacles]]
 |Sub-Difficulty
-|67.5
+|67.66
 |-
 |[[File:Illegal Newest.png|50px]]
 |[[Illegal]]
@@ -1518,19 +1705,19 @@ Obstacles also start to get exponentially larger in size. At this point, the gap
 |Normal
 |72
 |-
-|[[File:Placeholder white.PNG|50x50px]]
+|[[File:Gameifying.jpeg|50px]]
 |[[Gameifying]]
 |Sub-Difficulty
 |72.5
 |-
 | colspan="4" style="background:#7A493D;color:white" |'''Peak'''
 |-
-|[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|50x50px]]
+|[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|50px]]
 |[[Infinity]]
 |Normal
 |73
 |-
-|[[File:2020 09 5675.png|50x50px]]
+|[[File:2020 09 5675.png|50px]]
 |[[Void]]
 |Sub-Difficulty
 |73.5
@@ -1550,11 +1737,22 @@ Obstacles also start to get exponentially larger in size. At this point, the gap
 |<big>3rd Fabled/Class Finale</big>
 |'''<big>75</big>'''
 |-
-|[[File:TooPreciseRevamp.png|50x50px]]
+|[[File:TooPreciseRevamp.png|50px]]
 |[[TooPrecise]]
 |Sub-Difficulty
 |75.5
 |-
+| colspan="4" style="background:#878787;color:white" |'''Chains'''
+|-
+|[[File:AtomError.png|50px]] to [[File:NewHyperversalError.jpg|50px]]
+|[[:Category:Error Chain|Error Chain]]
+|Chain/Sub-Difficulties
+|66.5 to 214.5
+|-
+|[[File:GigaDeath2.png|50px]] to [[File:OmniDeath Newest.jpg|51x51px]]
+|[[:Category:Death Chain|Death Chain]]
+|Chain/Sub-Difficulties
+|75.75 to 100.5
 |}
 |-
 | style="background:#414CAD;border-radius:0 0 5px 5px;font-size:5px" width="100%" |&nbsp;
@@ -1633,12 +1831,12 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |[[File:Detroit-XPELO4EK-REVAMP.png|50px]]
 |[[Detroit]]
 |Sub-Difficulty
-|83.5
+|83.33
 |-
-|[[File:Sacrificingly-Impossible W effects.jpg|50x50px]]
+|[[File:Sacrificingly-Impossible W effects.jpg|50px]]
 |[[Sacrificingly Impossible]]
 |Sub-Difficulty
-|83.75
+|83.66
 |-
 |[[File:Satan Tartarus Lucifer Void.png|50px]]
 |[[Satan Tartarus Lucifer Void]]
@@ -1652,7 +1850,17 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |Normal
 |85
 |-
-|[[File:ErrorisationRevamp.png|50x50px]]
+|[[File:V is for.png|50px]]
+|[[Vacant]]
+|Sub-Difficulty
+|85.33
+|-
+|[[File:HowNewest.webp|50x50px]]
+|[[How‽]]
+|Sub-Difficulty
+|85.66
+|-
+|[[File:ErrorisationRevamp.png|50px]]
 |[[Errorisation]]
 |Normal
 |86
@@ -1679,7 +1887,7 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |Normal
 |88
 |-
-|[[File:Im bored.png|50x50px]]
+|[[File:Im bored.png|50px]]
 |[[Aleph-DEATH]]
 |Sub-Difficulty
 |88.5
@@ -1772,7 +1980,7 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |Normal
 |101
 |-
-|[[File:HELLWRATH.png|50x50px]]
+|[[File:HELLWRATH.png|50px]]
 |[[HELLWRATH]]
 |Normal
 |102
@@ -1801,7 +2009,7 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |-
 | colspan="4" style="background:#908991;color:white" |'''Anonymous Placement'''
 |-
-|[[File:Confusion.webp|50x50px]]
+|[[File:Confusion.webp|50px]]
 |[[Confusion]]
 |Normal / Anonymous Placement
 |105.x
@@ -1840,7 +2048,7 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |-
 | colspan="4" style="background:#4D9F6C;color:white" |'''Low'''
 |-
-| [[File:Wer.webp|50x50px]]
+| [[File:Wer.webp|50px]]
 |[[TooAbnormal]]
 |Normal
 |108
@@ -1862,7 +2070,7 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |Normal
 |110
 |-
-|[[File:XX.png|50x50px]]
+|[[File:XX.png|50px]]
 |[[TooTooHard]]
 |Normal
 |111
@@ -1897,6 +2105,11 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |<big><big>5th Legendary / End of The Main Chart</big></big>
 |<big><big>'''115'''</big></big>
 |-
+|[[File:The MiddlelineNew.png|150x150px]]
+|[[The Middleline|<big>The Middleline</big>]]
+|<big>'''Primordial'''</big>
+|<big>'''115'''</big>
+|-
 | colspan="4" style="background:#908991;color:white" |'''Anonymous Placement'''
 |-
 |[[File:Missing.jpg|50px]]
@@ -1905,7 +2118,7 @@ This class is also home to 2 popular difficulties from old EJT, both of which ar
 |?
 |}
 |-
-|The first half ends on C10 to save space. The second half goes up to C22(?) where [[TFinD]] is located and can be viewed [[Extended Difficulty Chart|here]].
+|The first half ends on C10 to stop lag. The second half goes up to C22(?) where [[TFinD]] is located and can be viewed [[Extended Difficulty Chart|here]].
 |-
 | style="background:#414CAD;border-radius:0 0 5px 5px;font-size:5px" width="100%" |&nbsp;
 |}

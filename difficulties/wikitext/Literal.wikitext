@@ -1,0 +1,24 @@
+{{DISPLAYTITLE:<span style="color:#203a56">'''Literal'''</span>}}
+__NOTOC__{{NewDifficultyInfobox|previous='''[[Error|<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #562424, #ffaeae );-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Error</span>]]'''|next='''[[Why|<span style="color:#000000;-webkit-text-stroke-color:white;-webkit-text-stroke-width:0.5px;">'''WHY'''</span>]]'''|rating=16|image1=<gallery>
+File:Literal4.png|Current
+File:Literal3.png|Old
+File:Literal2.png|Older
+File:Literal.png|Oldest
+</gallery>|caption1=The new new new Literal icon.|rgb_color=32, 58, 86|hex_color=<nowiki>#</nowiki>203a56}}
+== What is <span style="color:#203a56">'''Literal'''</span>?==
+<span style="color:#203a56">'''Literal'''</span> is a difficulty that is represented with '''Earth Blue''' [<span style="color:#203a56">'''32, 58, 86'''</span>]. It is labelled for towers harder than '''[[Error|<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #562424, #ffaeae );-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Error</span>]]''' but easier than '''[[WHY|<span style="color:#000000;-webkit-text-stroke-color:white;-webkit-text-stroke-width:0.5px;">'''WHY'''</span>]]'''.
+
+Literal currently serves to define towers with obstacles that are almost impossible to verify normally and must be proved physically possible using Tool Assistance. It is differentiated from Error in that individual obstacles of this difficulty are very difficult to perform, making towers nearly impossible to be all-jumped. Towers of this difficulty serve as rigorous tests for the upper limits of possibility, often demanding significant time investments and a comprehensive understanding of many if not all known mechanics used in obbies. Towers of this difficulty usually just spam 7-8 jumps.
+
+=='''Towers'''==
+No towers as of now are properly rated.
+*NEaUI - [[Not Even a Unfathomable Impediments]] (Mid-High Literal?)
+==Trivia== 
+* This difficulty represented in arbitrarily placed tiers is comparable to the '''21st tier.'''
+* The difficulty was added on '''December 18th, 2021,''' as part of the Difficulty Chart shift, to balance out the lack of practical difficulties within the difficulty chart and to improve on a properly accessible section of the EHT difficulty chart.
+*<span style="color:#203a56">'''Literal'''</span>'s color, '''Earth Blue,''' is a '''"rare BrickColor" in Roblox,''' which means that it '''does not appear within the color palette,''' but does have an official BrickColor when typed in, which is represented in '''RGB [<span style="color:#203a56">32, 58, 86</span>].''' In other words, Roblox hid the color but it can still be used. However, the '''neon portal color is RGB [62, 72, 89].'''
+*This difficulty '''had 2 difficulty redesigns,''' starting out with having a '''white "'''<code>L</code>'''" in the center''' ([[File:Literal.png|25px]]), to then having '''a white "'''<code>:(</code>'''" in the center''' ([[File:Literal2.png|25px]]), before '''becoming just a single color difficulty''' ([[File:Literal3.png|25px]]), before being redesigned as part of a wiki overhaul. 
+*This difficulty got its name for four things.
+
+[[Category:Difficulties]]
+[[Category:Literal]]

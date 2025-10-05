@@ -1,0 +1,111 @@
+{{NoticeScrollboxNew|Notices=
+
+{{Classic}}
+{{Humanly Possible}}
+}}
+{{NewDifficultyInfobox
+|title1=[[File:Normal2.png|frameless|25x25px]] <span style="color:yellow">'''Normal'''</span>
+|image1=<gallery>
+Normal2.png |  Current
+Normal.png |  Old
+</gallery>
+|caption1=It’s just normal!
+|class=2
+|rating=2.25
+|type=Sub Difficulty
+|previous={{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|Medium]] 
+|alt_previous=
+|next={{Class1Difficulties|Intermediate}} [[Intermediate]]
+|alt_next=
+|main_difficulty={{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|Medium]]
+|date_added=28/12/2020
+|prior_previous=Abstract
+|prior_next=Mild
+|creator(s)=[[User:Dreadful.exe|Dreadful.exe]]
+[[User:Viranenthusiast|Viranenthusiast]] (Revamper)|decal_id=7846030126}}
+[[File:Normal2.png|frameless|25x25px]] <span style="color:#ffff64">'''Normal'''</span> is a sub-difficulty of [[File:MediumDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Medium|Medium]] with a rating of 2.25. It is humanly possible, therefore meaning it is very simple for any human to complete. Minor trouble will be experienced by very few, mostly newbies who have just started playing obbies. 
+
+One completing this difficulty will encounter some one studs, but they are generally minimal and not that intricate. Most of the time there are also safety nets to save one’s fall. 
+==Icon Representation==
+[[File:Normal2.png|frameless|25x25px]] <span style="color:#ffff64">'''Normal'''</span>’s icon is represented with a light yellow background and a 16-bit worried black emoticon. It’s simple and gets to the point. 
+
+==Obstacles==
+
+===Baseline [[File:Normal2.png|frameless|25x25px]] <span style="color:#ffff64">'''Normal'''</span>===
+
+* 7.2 stud jump (C)
+* 7.1 stud jump (UC)
+* 3.1 stud wraparound (C)
+* 3 stud wraparound (UC)
+
+=== Low [[File:Normal2.png|frameless|25x25px]] <span style="color:#ffff64">'''Normal'''</span> ===
+
+* 7.3 stud jump (C)
+* 7.2 stud jump (UC)
+* 3.2 stud wraparound (C)
+* 3.1 stud wraparound (UC)
+
+===Middle [[File:Normal2.png|frameless|25x25px]] <span style="color:#ffff64">'''Normal'''</span>===
+
+* 7.4 stud jump (C)
+* 7.3 stud jump (UC)
+* 3.3 stud wraparound (C)
+* 3.2 stud wraparound (UC)
+
+=== High [[File:Normal2.png|frameless|25x25px]] <span style="color:#ffff64">'''Normal'''</span> ===
+
+* 7.5 stud jump (C)
+* 7.4 stud jump (UC)
+* 3.4 stud wraparound (C)
+* 3.3 stud wraparound (UC)
+
+=== Peak [[File:Normal2.png|frameless|25x25px]] <span style="color:#ffff64">'''Normal'''</span> ===
+
+* 7.6 stud jump (C)
+* 7.5 stud jump (UC)
+* 3.5 stud wraparound (C)
+* 3.4 stud wraparound (UC)
+
+==Towers in this difficulty ==
+
+===Fictional===
+*Citadel of Normal and Ordinary Obstacles (CoNaOO) (Fictional)
+*Tower of Normality (ToN) (Fictional?)
+*Steeple of Simple Endeavours (SoSE) (Fictional)
+
+===Non-Fictional===
+*None yet.
+
+===Towers with this difficulty===
+
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*[[Centurial of Mind Exploding Difficulties]] (CoMED) (Fictional)
+*[[File:The MiddlelineNew.png|frameless|30x30px]] [[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (MoEJD:R:P1)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Hellish Difficulties]] (GCoHD)
+*[[File:New DI Image.JPG|frameless|30x30px]] [[Great Citadel of Beyond Impossible Difficulties]] (GCoBID)
+*SO many others.
+
+==Trivia==
+
+*This section didn’t exist before the revamp.
+*This difficulty was previously deleted because it was bone.
+*This difficulty was previously an official difficulty.
+*This difficulty received a revamp on the 27th November.
+
+==Gallery==
+<gallery>
+File:Normal2.png|<span style="color:#ffff64">'''Normal'''</span>’s current icon.
+File:Normal.png|<span style="color:#ffff64">'''Normal'''</span>’s old icon.
+File:Normal's Portal.png|<span style="color:#ffff64">'''Normal'''</span> in the [[Great Citadel of Hellish Difficulties]].
+</gallery>
+
+== Continuing on from this point ==
+After completing this difficulty, one would go to the next difficulty of Class 2, which is [[File:Intermediate.png|frameless|30x30px]] [[Intermediate]].
+{{DifficultiesNavbox}}
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Class 2]]
+[[Category:Emoticon Difficulties]]
+[[Category:Possible]]
+[[Category:Icons made with pixel art]]
+[[Category:Humanly Possible]]

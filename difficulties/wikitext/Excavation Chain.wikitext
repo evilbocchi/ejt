@@ -1,0 +1,56 @@
+<center><h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #212121;background:#212121;color:#fff;font-size:120%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif">Introduction</h2>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #2f2f2f;background:#2f2f2f;color:#fff;font-size:100%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif"><center>
+The Excavation Chain is based off of the game Button Simulator: Excavation Discoveries and consists of 30 (this may be shortened) different difficulties in the chain. The chain is made by Sanjay2133. The difficulties are based off and themed on the normal stats of Button Simulator: ED.
+
+The original branch is linked at [[w:c:button-simulatored:Normal Stats|Normal Stats]] on the Button Simulator: ED wiki.
+
+All the difficulty pages will be provided in 3 subpages to not fill the wiki up with 30 pages.
+
+https://jtohs-joke-towers.fandom.com/f/p/4400000000000119263, https://jtohs-joke-towers.fandom.com/f/p/4400000000000117459 and https://jtohs-joke-towers.fandom.com/f/p/4400000000000119082/r/4400000000000398319 are the posts containing the icons for the difficulties as well as the placements.</center></h2>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #212121;background:#212121;color:#fff;font-size:120%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif">Pre-Chain Difficulties</h2>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #2f2f2f;background:#2f2f2f;color:#fff;font-size:100%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif"><center><big>
+[[File:Cash.png|30px]] [[/Cash-Rebirth|Cash]]<br>
+[[File:Multiplier.png|30px]] [[/Cash-Rebirth#Multiplier|Multiplier]]<br>
+[[File:Rebirth.png|30px]] [[/Cash-Rebirth#Rebirth|Rebirth]]
+</big></center></h2>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #212121;background:#212121;color:#fff;font-size:120%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif">Difficulties</h2></center>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #2f2f2f;background:#2f2f2f;color:#fff;font-size:100%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif"><center><big>
+[[File:Stone.png|30px]] [[/Stone-Emerald#Stone|Stone]]<br>
+[[File:White Gem Official.png|30px]] [[/Stone-Emerald#White Gem|White Gem]]<br>
+[[File:Crystal.webp|30px]] [[/Stone-Emerald#Crystal|Crystal]]<br>
+[[File:Iron.webp|30px]] [[/Stone-Emerald#Iron|Iron]]<br>
+[[File:GoldExcavation.webp|30px]] [[/Stone-Emerald#Gold|Gold]]<br>
+[[File:Quartz.png|30px]] [[/Stone-Emerald#Quartz|Quartz]]<br>
+[[File:JadeRevamp.png|30px]] [[/Stone-Emerald#Jade|Jade]]<br>
+[[File:ObsidianDifficulty.png|30px]] [[/Stone-Emerald#Obsidian|Obsidian]]<br>
+[[File:Ruby.png|30px]] [[/Stone-Emerald#Ruby|Ruby]]<br>
+[[File:Emerald.png|30px]] [[/Stone-Emerald#Emerald|Emerald]]<br>
+[[File:Sapphire.png|30px]] [[/Sapphire-Tetra#Sapphire|Sapphire]]<br>
+[[File:Diamond.png|30px]] [[/Sapphire-Tetra#Diamond|Diamond]]<br>
+[[File:StarlightExcavation.png|30px]] [[/Sapphire-Tetra#Starlight|Starlight]]<br>
+[[File:Ion.webp|30px]] [[/Sapphire-Tetra#Ion|Ion]]<br>
+[[File:Uranium Alternate.png|30px]] [[/Sapphire-Tetra#Uranium|Uranium]]<br>
+[[File:Bismuth.gif|30px]] [[/Sapphire-Tetra#Bismuth|Bismuth]]<br>
+[[File:Boracite.png|30px]] [[/Sapphire-Tetra#Boracite|Boracite]]<br>
+[[/Sapphire-Tetra#Nissonite|Nissonite]]<br>
+[[/Sapphire-Tetra#Orpiment|Orpiment]]<br>
+[[/Sapphire-Tetra#Tetra|Tetra]]<br>
+[[/Volt-Capsuled Singularity#Volt|Volt]]<br>
+[[/Volt-Capsuled Singularity#Aquamarine|Aquamarine]]<br>
+[[/Volt-Capsuled Singularity#Lollipop|Lollipop]]<br>
+[[/Volt-Capsuled Singularity#C0RR8PT10N|C0RR8PT10N]]<br>
+[[/Volt-Capsuled Singularity#Stargazed Metal|Stargazed Metal]]<br>
+[[/Volt-Capsuled Singularity#Gyge|Gyge]]<br>
+[[/Volt-Capsuled Singularity#Auly Plate|Auly Plate]]<br>
+[[/Volt-Capsuled Singularity#Shell Piece|Shell Piece]]<br>
+[[/Volt-Capsuled Singularity#Singularity|Singularity]]<br>
+<big><big><big>[[/Volt-Capsuled Singularity#Capsuled Singularity|Capsuled Singularity]]</big></big></big>
+</big></center></h2>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #212121;background:#212121;color:#fff;font-size:120%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif">Alternate-Chain Difficulties</h2>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #2f2f2f;background:#2f2f2f;color:#fff;font-size:100%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif">
+<center><big>[[File:Zanyte.png|30px]] [[Zany]]</big></center></h2>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #212121;background:#212121;color:#fff;font-size:120%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif">Post-Chain Difficulties</h2>
+<h2 style="padding:0.4em 0.4em;margin:0;border:3px solid #2f2f2f;background:#2f2f2f;color:#fff;font-size:100%;font-weight:bold;text-align:center;border-radius:0.5em;-moz-border-radius:0.5em;font-family:'Gotham',sans-serif">
+<center><big>[[File:Starglass.png|30px]] ''Starglass''</big></center></h2>
+[[Category:Chains]]
+[[Category:Excavation Chain]]

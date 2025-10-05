@@ -1,0 +1,70 @@
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Buffed}}{{WIP}}}}
+
+__NOTOC__
+{{BetterQuote|text=Good luck traveler, as to do this legitimately, you'll need a wide knowledge of different skills such as wraparounds, trusses, and many, many glitches. Class 4 is not for humans to complete, and it isn't for you to complete either. However, you completed [[File:NewestCalamity.png|30x30px]] [[CALAMITY]], so who knows?|quoter=[[Neutralize]]}} 
+{{NewDifficultyInfobox|image1=
+<gallery>
+Neutralize 2.jpg | Current
+Neutralize_Old.jpg | Old
+Neutraize.jpg | Oldest
+</gallery>
+|type/class=Class 4|previous=[[File:NewestCalamity.png|30x30px]] [[CALAMITY]]|next=[[File:UnimaginableDifficulty.webp|30x30px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]]|caption1=This difficulty is deadly. Try to escape instead of dwelling.|chain(s)=*The XD Chain|creator(s)=Core1052 (OG page creator)
+Sanjay2133 (Revamper)|date_added=1/14/2021|date_removed=|removal_reason=|revamp_date=8/19/2022|class=Class 4|type=*Sub-Difficulty
+*Humanly Impossible Difficulty
+*Class 4 Difficulty|class_range=Mid|difficulty_range=Low-Mid|main_difficulty=[[File:NewestCalamity.png|30x30px]] [[CALAMITY]]|alt_previous=|title1=[[File:Neutralize 2.jpg|50px]] <span style="color:#ECC9F7">'''NEUTRALIZE'''</span>|alt_next=[[File:Killjoying.jpg|30px]] [[Killjoying]] (Next Sub-Difficulty)|rating=24.33|decal_id=115910001043032|original_name=Neutralize|previous_name=Neutralize|original_full_name=Neutralize|counterpart={{Class3Difficulties|Horrific}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]]}}
+
+==Introduction: [[File:Neutralize 2.jpg|frameless|50x50px]] <span style="color:#ECC9F7">'''NEUTRALIZE'''</span>==
+[[File:Neutralize 2.jpg|30x30px]] [[Neutralize]] is a mid class 4 humanly impossible sub-difficulty that is apart of [[File:NewCALAMITY.jpeg|30x30px]] [[CALAMITY]]. Its most often used to describe the midrange of [[File:NewCALAMITY.jpeg|30x30px]] [[CALAMITY]] which is 24.25 to 24.49 on the difficulty scale.  
+
+
+
+==Icon Representation: [[File:Neutralize 2.jpg|frameless|50x50px]] <span style="color:#ECC9F7">'''NEUTRALIZE'''</span>==
+{| class="fandom-table"
+|+ Icon Table
+!Icon
+!Explanation
+|-
+|[[File:Neutralize 2.jpg|frameless|100x100px]] Current
+
+|The icon has a black to pink background with a lighter pink surrounding border and “XD” emoticon in the middle.
+|-
+|[[File:Neutralize_Old.jpg|frameless|103x103px]] Old
+|The icon has a light pink background with a lighter pink "XD" emoticon in the middle. 
+|-
+| [[File:Neutraize.jpg|frameless|103x103px]] Older
+|The icon has a light purple background with a lighter purple "XD" emoticon in the middle.
+|}
+==Placement: [[File:Neutralize 2.jpg|frameless|50x50px]] <span style="color:#ECC9F7">'''NEUTRALIZE'''</span>==
+*{{Class4Difficulties|DEATH}} [[w:c:jtohs-hardest-towers:DEATH|DEATH]] (20)
+*{{Class4Difficulties|Nullifying}} [[Nullifying]] (21)
+*{{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]] (22)
+**[[File:Vortex.png|30x30px]] [[Vortex]] (22.5)
+*[[File:NewTARTARUS.jpeg|30x30px]] [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]] (23)
+*[[File:NewCALAMITY.jpeg|30x30px]] [[CALAMITY]] (24)
+**[[File:Neutralize 2.jpg|30x30px]] [[Neutralize]] (24.33) '''(You are here)'''
+**[[File:Killjoying.jpg|30x30px]] [[Killjoying]] (24.66)
+
+==Towers that have this Difficulty: [[File:Neutralize 2.jpg|frameless|50x50px]] <span style="color:#ECC9F7">'''NEUTRALIZE'''</span>==
+
+* [https://www.roblox.com/games/10474520658/Ring-4 Steeple of Neutralized Insanity]<br />
+
+==Obstacles: [[File:Neutralize 2.jpg|frameless|50x50px]] <span style="color:#ECC9F7">'''NEUTRALIZE'''</span>==
+{{ObstacleTableRevamp|JumpClimbableBase=15.38|Increment=0.0039}}
+==Gallery: [[File:Neutralize 2.jpg|frameless|50x50px]] <span style="color:#ECC9F7">'''NEUTRALIZE'''</span>==
+<span style="color:#FF0000">'''<big>{HEAVY W.I.P, CONTRIBUTATION NEEDED}</big>'''</span>
+
+== Trivia: [[File:Neutralize 2.jpg|frameless|50x50px]] <span style="color:#ECC9F7">'''NEUTRALIZE'''</span>==  
+
+*This was revamped by Sanjay2133.
+*This difficulty was going to be killed by the 6th Armageddon.
+* This is the first difficulty in the XD chain that is a sub-difficulty
+* In [[Difficulty Button Simulator]], this difficulty is misspelled as "Nuetralize".
+
+== '''Moving Forward: [[File:Neutralize 2.jpg|frameless|50x50px]] <span style="color:#ECC9F7">NEUTRALIZE</span>'''==
+That's truly impressive. How did you complete a Humanly Impossible difficulty, that would even take ages to make a TAS out of it? Well, I don't know why it was done, but it's okay. Go to [[File:Killjoying.jpg|31x31px]] [[Killjoying]], as it is the next sub difficulty and the final difficulty in this chain. Good luck, since at this point, you'll definitely need it.<br />{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:XD Chain]]
+[[Category:Emoticon Difficulties]]
+[[Category:Humanly Impossible]]

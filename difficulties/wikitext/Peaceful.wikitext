@@ -1,0 +1,89 @@
+{{Scrollbox|Notices='''Notice Scrollbox'''
+{{JET}}{{Classic}}{{Squint to Win|reason="That icon tho. Mmm, ''1.39'' contrast ratio. You can see it, don't you?" - [[User:Sushislushwiki|Sushislushwiki]]}}{{Humanly Possible}}}}
+== What is [[File:PeacefulNew.png|frameless|35x35px]] <span style="color: #CCCCFF;text-shadow:0 5px 10px #CCCCFF">Peaceful</span>? ==
+{{NewDifficultyInfobox|title1=<span style="color: #CCCCFF;text-shadow:0 5px 10px #CCCCFF"> <big><big><big>Peaceful</big></big></big>|image1=
+<gallery>
+PeacefulNew.png|Current
+PeacefulRemakeIcon.png|Alternative
+</gallery>|caption1=How easy!|class=Peak Class 1|type=Normal (JET)|previous=* [[File:TooEasy Difficulty Revamped.jpg|30px]] [[TooEasy]]|next=
+  * [[File:BabyingSDC.png|frameless|30x30px]] [[Babying]]
+|date_added=* May 20 2022 (JJT)
+* January 5 2020 (JET)|revamp_date=07/04/2022|creator(s)=F0xygaimer932 (JET)|decal_id=[https://www.roblox.com/library/5831118184/Peaceful-Difficulty 5831118184]|alt_names=Peace|hex_color=* Background: #c7b0da
+* Smile: #e8d1ff|rbg_color=|cmyk_color=* Background: 9, 19, 0, 15
+* Smile: 9, 18, 0, 0|sub_difficulty(ies)=[[File:Playful.png|30px]] [[Playful]]|alt_previous=|alt_next=|rating=-3|rgb_color=* Background: 199, 176, 218
+* Smile: 232, 209, 255}}[[File:PeacefulNew.png|frameless|35x35px]] <span style="color: #CCCCFF;text-shadow:0 5px 10px #CCCCFF">'''Peaceful'''</span> is a Low Class 1 difficulty represented with a light greyish purple color making up a smile with a brighter shade. It's easier than [[File:Playful.png|30px]] [[Playful]] (its sub-difficulty) and [[File:Magnificent Current.png|frameless|30x30px]] [[Magnificent]], but harder than  [[File:TooEasy Difficulty Revamped.jpg|frameless|30x30px]] [[TooEasy]]. Hindrances in this difficulty are usually elementary, and should be accomplished easily by everyone.
+
+Now you have to start jumping here, and complete basic obstacles along your way instead of just existing.
+
+==Icon Representation==
+<span style="color: #CCCCFF;text-shadow:0 5px 10px #CCCCFF">'''Peaceful'''</span>‘s icon is represented by a thistle-colored smile emoticon in the middle of the periwinkle background. The icon itself is really simplistic, but not too tedious either.
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Icon Colors.
+|-
+!Location
+!HEX
+!RGB
+!CMYK
+|-
+! style="background: #c7b0da; color: white" |'''Background'''
+| style="background: #c7b0da; color: white" |c7b0da
+| style="background: #c7b0da; color: white" |199, 176, 218
+| style="background: #c7b0da; color: white" |9, 19, 0, 15
+|-
+! style="background: #e8d1ff; color: black" |'''Smile'''
+| style="background: #e8d1ff; color: black" |e8d1ff
+| style="background: #e8d1ff; color: black" |232, 209, 255
+| style="background: #e8d1ff; color: black" |9, 18, 0, 0 
+|-
+|}
+
+<!--==Obstacle Section==
+{{ObstacleTableEasy|JumpUnclimbableBase=5.75|JumpUnclimbableIncrement=0.05|JumpClimbableBase=6|JumpClimbableIncrement=0.05|StickoutBase=-1|StickoutIncrement=0.025|HighJumpBase=6|HighJumpIncrement=0.125}} this is horrible someone pls finish or something -->
+
+==Tower Section==
+''Note: Towers listed here are most likely '''inaccurate.''' ''
+<tabber>
+|-|
+TNZT=
+*[https://tnzt.fandom.com/wiki/Tower_of_Speed_Runs Tower of Speed Runs] (TNZT Ring 1)
+*[https://tnzt.fandom.com/wiki/Steeple_of_Blocks Steeple of Blocks] (TNZT Bygone Isles)
+*[https://tnzt.fandom.com/wiki/Steeple_of_Unhealthy_Magnitude Steeple of Unhealthy Magnitude] (TNZT Bygone Isles)
+*[https://tnzt.fandom.com/wiki/Tower_of_Some_Creative_Ideas Tower of Some Creative Ideas] (TNZT Ring 2)
+*[[w:c:tnzt:Tower of Conveyors|Tower of Conveyors]] (TNZT Ring 2)
+*[https://tnzt.fandom.com/wiki/Tower_of_Sea_Exploration Tower of Sea Exploration] (TNZT Ring 4)
+*[https://tnzt.fandom.com/wiki/Mini_Tower_of_Two_Colored_Trouble Mini Tower of Two Colored Trouble] (TNZT Ring 4)
+*[[w:c:tnzt:Tower of Epic Surprises|Tower of Epic Surprises]] (TNZT Fanon)
+*[[w:c:tnzt:Steeple of Declining Quality|Steeple of Declining Quality]] (TNZT Fanon)
+*[https://tnzt.fandom.com/wiki/Tower_of_Lovely_Descension Tower of Lovely Descension] (TNZT Fanon)
+*[https://tnzt.fandom.com/wiki/Steeple_of_Oxidized_Gameplay Steeple of Oxidized Gameplay] (TNZT Fanon)
+|-|
+Other=
+*Tower of Possible Expectations (NNZN Ring 1)
+*[[Not Even a Speed Runs]] (TTNZTNP Ring 1)
+*[[Tower of Spiralling Ascension]] (NTET Area 1)
+*[[Edifice of Sakura's Stability]] (QToN Ring 1)
+*[https://www.roblox.com/games/80166612504189/1K-Event-ToFR-Not-Too-Easy-Towers Tower of Visually Unpleasant] (NTET Area 2)
+*[https://www.roblox.com/games/80166612504189/1K-Event-ToFR-Not-Too-Easy-Towers Citadel of Basic Parts] (NTET Area 2)
+</tabber>
+
+==Trivia==
+*'''Peaceful''' originates from JToH Easiest Towers wiki, and was made in 2020.    
+**Because of the fact it was made in 2020, but added to JJT in 2022, it is unknown if this difficulty is considered classic or not.
+*On July 4 of 2022 this page got revamped by PeacefullyPeaceful.
+*This difficulty used to have a sub-difficulty called [[File:TranquilIcon.png|frameless|30x30px]] <span style="color: cyan;text-shadow:0 5px 10px blue">''Tranquil''.</span>
+** Now it has a sub-difficulty again due to TDEx only allowing three normal difficulties per spectrum. This time, it's called [[File:Playful.png|frameless|30x30px]] [[Playful]].
+
+== Continuing from this Point==
+You successfully completed '''Peaceful'''. Move on to [[File:Magnificent Current.png|frameless|30x30px]] [[Magnificent]], or [[File:EffortlesslessIconOoIDC.png|30px]] [[Effortlessless]].
+
+{{DifficultiesNavbox}}
+
+<sup>Credit to JET wiki.</sup>
+[[Category:Difficulties]]
+[[Category:Class 1]]
+[[Category:Possible]]
+[[Category:Revamped Difficulty]]
+[[Category:Humanly Possible]]
+[[Category:Revamped]]
+[[Category:Official Difficulty]]
+[[Category:Two color icon]]

@@ -1,0 +1,418 @@
+{{CSS|content=<nowiki>
+#placeholder {
+  font-size: 45px;
+  font-family:Montserrat;
+  background:linear-gradient(90deg, #fdb389, #ff3232);
+  -webkit-text-stroke: 2px white;
+  -webkit-background-clip:text;
+  -webkit-text-fill-color: transparent;
+}
+#easeful{
+    font-weight: bold;
+    color: #fdb389;
+    text-shadow: 0 0 4px #fdb389;
+}
+#bottom {
+    color: #23CA83;
+    font-weight: bold;
+}
+#low {
+    font-weight: bold;
+    color: #59CA24;
+}
+#mid {
+    font-weight: bold;
+    color: #C9CA24;
+}
+#high {
+    font-weight: bold;
+    color: #CA7D23;
+}
+#peak {
+    font-weight: bold;
+    color: #CA2323;
+}
+#c2{
+    color: #ff3232;
+    text-shadow: 0 0 4px #ff3232;
+    font-weight: bold;
+}
+/*LOL ITS SO TUFFFFFFFF*/
+#tough{
+    color: #fc3a00;
+    text-shadow: 0 0 4px #ff3232;
+    font-weight: bold;
+}
+#peakb{
+    color: #971111;
+    font-weight: bold;
+}
+/* Custom table effect :3 */
+table{
+  border: 5px solid #fdb389;
+  padding: 0.5em 1em 0.5em;
+  background-color: #260e00aa;
+}
+.portable-infobox {
+    border-image: linear-gradient(180deg, #fdb389, #ff3232) 30;
+	border-width: 6px;
+    box-shadow: inset 0 0 0 3px #fdb389;
+    --pi-background: #a86034;
+}
+.portable-infobox .pi-border-color {
+    border-color: #fdb389;
+}
+</nowiki>}}
+<div style="background:linear-gradient(180deg, #a86034, transparent);padding:1em;font-family:montserrat;border:5px solid; border-image:linear-gradient(#fdb389, transparent)1;border-radius:0px">
+<div style="background:linear-gradient(90deg, #fdb389, #ff3232);padding:1em;font-family:rubik;border:0px solid #000;border-radius:15px">
+{{NoticeScrollboxNew|Notices={{Humanly Possible}}
+{{Inclusion|reason="This page won the contest for the [[Onerous]] sub difficulty spot."}}
+{{Large Page}}
+{{Former Class Finale|reason="This was initially deleted after the Extermination and got readded in a different spot and as a sub-difficulty."}}}}
+</div>
+{{NewDifficultyInfobox
+|gradient=#fdb389,#fdb389
+|title1='''<span style="background:linear-gradient(180deg, #a86034, #aa0000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">🙞 Easeful 🙝</span>'''
+|image1=<gallery>
+EasefulShape.png.png | Current
+EasefulNew.png | Square
+EasefulOld.webp | Previous
+Easeful Old.jpeg | Original
+Easeful Okkk.png | Unofficial
+</gallery>
+|caption1="It's been a while huh?"
+|class=[[:Category:Class 2|<span id=mid>'''Mid</span> <span id="c2">Class 2'''</span>]]
+|rating=3.75
+|type=*[[:Category:Sub-Difficulty|Sub-Difficulty]]
+*[[:Category:Former Class Finale|Former Class Finale]]
+|previous=[[File:Onerous.png|30px|link=[[Onerous]]]] [[Onerous]]
+|next={{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]]
+|difficulty_range=Baseline - Peak (3.75 - 3.99)
+|main_difficulty=[[File:Onerous.png|30px|link=[[Onerous]]]] [[Onerous]]
+|previous_type(s)=*[[:Category:Difficulty|Normal Difficulty]]
+*[[:Category:Class Finale|Class Finale]]
+|chain(s)=Encore Chain (Scrapped)
+|date_added=(DD/MM/YY) 
+20/5/2022
+|prior_previous=*[[File:MiniBirth.png|30px|link=[[User blog:Bruhshard1/MiniBirth]]]] [[User blog:Bruhshard1/MiniBirth|<span style="text-shadow: 0 0 4px #00ff00; background:linear-gradient:#000000, #00ff00; -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;""><b>MiniBirth</b>]]
+|revamp_date=(DD/MM/YY) 
+7/6/2022
+|revival_date=(DD/MM/YY) 
+12/8/2025
+|prior_next=*[[File:Wowie.webp|30px|link=[[User blog:Bruhshard1/Iconealizer]]]] [[User blog:Bruhshard1/Iconealizer|<span style="text-shadow: 0 0 4px #ffffff; color:#fffff; -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;>Iconealizer]]
+|decal_id=
+*Current: [https://create.roblox.com/store/asset/104733755603185/ <span id="easeful">Here]</span>
+*Square: [https://create.roblox.com/store/asset/125108431247816/ <span id="easeful">Here]
+*Old: [https://create.roblox.com/store/asset/13947453171/ <b><span style="text-shadow: 0 0 4px #fb7a5b; color:#fb7a5b">Here]</b>
+*Original: [https://create.roblox.com/store/asset/9703996298/ <b><span style="text-shadow: 0 0 4px #81ff40; color:#81ff40">Here]</b>
+|alt_next=[[File:Stressful.png|30px|link=[[User blog:Jtoh gaming/Tough]]]] [[User blog:Jtoh gaming/Tough|<span id="tough">Tough]]<br>(Sub Difficulty)<br>([[Community Difficulty Chart/Main|CDC]] Exclusive)|creator(s)=*[[User:Evstalk|Evstalk]] (Writer)
+*[[User:InvertedVertically|<span style="text-shadow: 0 0 4px #ffdd00; color:#ffdd00; font-family:Comfortaa; font-weight: bold;">InvertedVertically]] (Scripter)|original_creator(s)=*[[User:Viranenthusiast|Viranenthusiast]]|hex_color=*Current Icon<br>
+Gradient Top: <span style="color:#fdb389; font-weight: bold;>#fdb389</span><br>
+Gradient Bottom: <span style="color:#ff3232; font-weight: bold;>#ff3232</span><br><br>
+*Previous Icon<br>
+Gradient Top: <span style="color:#ffb4a0; font-weight: bold;>#ffb4a0</span><br>
+Gradient Bottom: <span style="color:#f87a57; font-weight: bold;>#f87a57</span><br>
+Top Light: <span style="color:#febeb7; font-weight: bold;>#febeb7</span><br>
+Bottom Light: <span style="color:#e06141; font-weight: bold;>#e06141</span><br>
+Face: <span style="color:#ff0000; font-weight: bold;>#ff0000</span><br>
+Face Outline: <span style="color:#620000; font-weight: bold;>#620000</span><br><br>
+*Old Icon<br>
+Main: <span style="color:#82fe40; font-weight: bold;>#82fe40</span><br>
+Effortless + Text: <span style="color:#00ce00; font-weight: bold;>#00ce00</span><br>
+Medium: <span style="color:#ffff00; font-weight: bold;>#ffff00</span><br>
+Hard: <span style="color:#fe7c00; font-weight: bold;>#fe7c00</span><br>
+Peaceful: <span style="color:#c7b0da; font-weight: bold;>#c7b0da</span><br>
+Peaceful Face: <span style="color:#ead3ff; font-weight: bold;>#ead3ff</span><br>
+Face: <span style="color:#000; font-weight: bold;>#000000</span><br>}}
+== <u><div style="font-size: 45px; font-weight: bold;font-family:Fredoka+One; background:linear-gradient(90deg, #fdb389, #ff3232); -webkit-text-stroke: 2px white; -webkit-background-clip:text; -webkit-text-fill-color: transparent; text-align: center;">Introduction</div></u> ==
+Welcome to the difficulty of Easeful! It's a sub-difficulty of [[File:Onerous.png|link=Onerous|30x30px]] [[Onerous]], and is thus by definition also within the bounds of the 3.50 to 3.99 range, although more specifically takes up the upper half of that range, spanning 3.75 to 3.99. This difficulty also happens to coincide with the end of the EET Wiki's (formerly known as JET) Noob Crushings, and thus this difficulty represents the barrier between what is possible for the untrained and towers that require a more dedicated grind. If you're at this skill level, you're most likely just beginning.
+
+In terms of it's position in the MDC, it is placed after [[File:Onerous.png|link=Onerous|30x30px]] [[Onerous]] (another old Class 2 Finale) and before {{Class2Difficulties|Difficult}} [https://jtoh.fandom.com/Difficult Difficult] with its sub, [[File:Strenuous.png|link=Strenuous|30x30px]] [[Strenuous]].  The CDC version of this sub-difficulty is a bit more complicated with it's rating instead being 3.8 and being succeeded by [[File:Stressful.png|link=User blog:Jtoh gaming/Tough|30x30px]] [[User blog:Jtoh gaming/Tough|<span style="text shadow: 0 0 4px #fc3a00; color:#fc3a00";><b>Tough</b>]]. Of course, since the CDC is non-canon the hypothetical 3.8 rating is negligible.
+
+This difficulty, being just before {{Class2Difficulties|Difficult}} [https://jtoh.fandom.com/Difficult Difficult] will also go over some of the new concepts that come with exiting the Noob Zone, such as how to properly grind, tutorials on how to get more distance, better strategies for jumping, and the proper usage of Shiftlock, to name a few.
+
+== <u><div style="font-size: 45px; font-weight: bold;font-family:Fredoka+One; background:linear-gradient(90deg, #fdb389, #ff3232); -webkit-text-stroke: 2px white; -webkit-background-clip:text; -webkit-text-fill-color: transparent; text-align: center;">Placement</div></u> ==
+
+=== Low Class 2 ===
+
+* {{Class1Difficulties|Medium|30px}} [[w:c:jtoh/Medium|Medium]] (2)
+** {{Class1Difficulties|Normal|30px}} [[Normal]] (2.25)
+* {{Class1Difficulties|Intermediate|30px}} [[Intermediate]] (2.5)
+** {{Class1Difficulties|Rewardable|30px}} [[Rewardable]] (2.75)
+* {{Class1Difficulties|Hard|30px}} [[w:c:jtoh/Hard|Hard]] (3)
+** {{Class1Difficulties|Tricky|30px}} [[Tricky]] (3.25)
+
+*
+
+*
+
+=== Mid Class 2 ===
+
+* [[File:Onerous.png|link=Onerous|30x30px]] [[Onerous]] (3.5)
+** [[File:EasefulNew.png|30x30px]] <span id="easeful">Easeful</span> (3.75)   '''You are here.'''
+***
+* {{Class2Difficulties|Difficult}} [https://jtoh.fandom.com/Difficult Difficult] (4)
+** [[File:Strenuous.png|link=Strenuous|30x30px]] [[Strenuous]] (4.25)
+* [[File:MenacingDifficulty.png|link=Menacing|30x30px]] [[Menacing]]</span> (4.5)
+** {{Class2Difficulties|Harming}} [[Harming]] (4.75)
+* {{Class2Difficulties|Challenging}} [[w:c:jtoh/Challenging|Challenging]] (5)
+** {{Class2Difficulties|Irritating}} [[Irritating]] (5.25)
+
+*
+
+=== High Class 2 ===
+
+* <u>{{Class2Difficulties|Maniacal}}</u> [[Maniacal]] (5.5)
+** [[File:Hectic.png|link=User:Sushislushwiki/Hectic|30x30px]] [[User:Sushislushwiki/Hectic|Hectic]]</span> (5.75)
+* <u>{{Class2Difficulties|Intense}}</u> [[w:c:jtoh/Intense|Intense]] (6)
+** <u>{{Class2Difficulties|TooMedium}}</u> [[TooMedium]] (6.25)
+* <u>{{Class2Difficulties|Severe}}</u> [[Severe]]</span> (6.5)
+** [[File:Hellish2.PNG|link=Hellish|30x30px]] [[Hellish]] (6.75)
+
+=== <u><div style="font-size: 45px; font-weight: bold;font-family:Fredoka+One; background:linear-gradient(90deg, #fdb389, #ff3232); -webkit-text-stroke: 2px white; -webkit-background-clip:text; -webkit-text-fill-color: transparent; text-align: center;">Obstacles</div></u> ===
+
+== <u><div style="font-size: 45px; font-weight: bold;font-family:Fredoka+One; background:linear-gradient(90deg, #fdb389, #ff3232); -webkit-text-stroke: 2px white; -webkit-background-clip:text; -webkit-text-fill-color: transparent; text-align: center;">Raw Length</div></u> ==
+
+==== <span id="bottom">Bottom</span> ====
+
+* 7.2 stud jumps (Climbable)
+* 7 stud jumps (Unclimbable)
+* 3.3 stud wraps (Climbable)
+* 3 stud wraps (Unclimbable)
+* 1.5 stud stickouts (Climbable)
+* 1.2 stud stickouts (Unclimbable)
+* Mounting and dismounting spinners with a revolution length of 5
+* 7 stud jumps onto studs of size 0.75 x 0.75 x 0.75
+
+==== <span id="low">'''Low'''</span> ====
+
+* 7.4 stud jumps (Climbable)
+* 7.2 stud jumps (Unclimbable)
+* 3.4 stud wraps (Climbable)
+* 3.1 stud wraps (Unclimbable)
+* 1.6 stud stickouts (Climbable)
+* 1.3 stud stickouts (Unclimbable)
+* Mounting and dismounting spinners with a revolution length of 4.75
+* 7 stud jumps onto studs of size 0.7 x 0.7 x 0.7
+
+==== <span id="mid">'''Mid'''</span> ====
+
+* 7.6 stud jumps (Climbable)
+* 7.4 stud jumps (Unclimbable)
+* 3.5 stud wraps (Climbable)
+* 3.2 stud wraps (Unclimbable)
+* 1.65 stud stickouts (Climbable)
+* 1.35 stud stickouts (Unclimbable)
+* Mounting and dismounting spinners with a revolution length of 4.5
+* 7 stud jumps onto studs of size 0.65 x 0.65 x 0.65
+
+==== <span id="high">'''High'''</span> ====
+
+* 7.9 stud jumps (Climbable)
+* 7.7 stud jumps (Unclimbable)
+* 3.55 stud wraps (Climbable)
+* 3.3 stud wraps (Unclimbable)
+* 1.7 stud stickouts (Climbable)
+* 1.4 stud stickouts (Unclimbable)
+* Mounting and dismounting spinners with a revolution length of 4.25
+* 7 stud jumps onto studs of size 0.55 x 0.55 x 0.55
+
+==== <span id="peak">'''Peak'''</span> ====
+
+* 8.2 stud jumps (Climbable)
+* 8.0 stud jumps (Unclimbable)
+* 3.6 stud wraps (Climbable)
+* 3.4 stud wraps (Unclimbable)
+* 1.75 stud stickouts (Climbable)
+* 1.5 stud stickouts (Unclimbable)
+* Mounting and dismounting spinners with a revolution length of 4
+* 7 stud jumps onto studs of size 0.5 x 0.5 x 0.5
+
+=== Complex Obstacles ===
+<gallery>
+File:Easeful Jump 1.png|A long jump onto another platform. A wall has been placed, making for slightly harder gameplay.
+File:Easeful Jump 2.png|A long jump in which the next platform can only be reached at the apex of your jump height.
+File:Easeful Jump 3.png|A two-stud wrap, but the platform beneath it is instant-fade.
+</gallery>
+== <u><div style="font-size: 45px; font-weight: bold;font-family:Fredoka+One; background:linear-gradient(90deg, #fdb389, #ff3232); -webkit-text-stroke: 2px white; -webkit-background-clip:text; -webkit-text-fill-color: transparent; text-align: center;">Towers</div></u> ==
+{| class="wikitable" style="text-align:center; width: 100%; font-weight: bold;" 
+|+<span id="easeful"><big>Table Format</big></span><table>
+!'''Unknown'''
+!'''Baseline'''
+'''[3.75 - 3.79]''' 
+
+!'''Low'''
+'''[3.80 - 3.84]'''
+
+!'''Mid'''
+'''[3.85 - 3.89]'''
+
+!'''High'''
+'''[3.90 - 3.94]'''
+
+!'''Peak'''
+'''[3.95 - 3.99]'''
+|-
+| style="background: #ca8056; color: #000" |
+| style="background: #fdb389; color: #000"|
+'''SoGH(M) <sub>(EToH)</sub>'''
+
+'''ToNA <sub>(AToS)</sub>'''
+
+'''ToMIT <sub>(EToH)</sub>'''
+
+'''ToP <sub>(EToH:XL)</sub>'''
+
+'''ToTST <sub>(EToH)</sub>'''
+
+
+
+| style="background: #fd9871; color: #000"|
+'''SoFF <sub>(EToH)</sub>'''
+
+'''ToPP:C <sub>(AToS)</sub>'''
+
+'''CoVM(C) <sub>(EToH:XL)</sub>'''
+
+'''ToX <sub>(EToH)</sub>'''
+
+'''ToOSE(M) <sub>(EToH)</sub>'''
+
+'''SoJT(M) <sub>(EToH)</sub>'''
+
+'''ToZV <sub>(AToS)</sub>'''
+
+'''SoLIQ <sub>(EToH)</sub>'''
+
+'''SoDC <sub>(EToH)</sub>'''
+
+'''ToZV <sub>(AToS)</sub>'''
+
+'''ToHB(M) <sub>(AToS)</sub>'''
+
+| style="background: #fe7b5d; color: #000"|
+
+
+'''ToTM <sub>(AToS)</sub>'''
+
+'''ToHO <sub>(AToS)</sub>'''
+
+'''ToVT <sub>(EToH)</sub>'''
+
+'''ToZG(M) <sub>(EToH)</sub>'''
+
+
+
+| style="background: #fe5948; color: #000"|
+'''ToNBA <sub>(EToH)</sub>'''
+
+'''ToMH <sub>(EToH)</sub>'''
+
+'''ToSSSS <sub>(EToH)</sub>'''
+
+'''ToE <sub>(EToH)</sub>'''
+
+'''ToCT <sub>(EToH)</sub>'''
+
+'''SoAU <sub>(EToH)</sub>'''
+
+'''SoBV <sub>(EToH)</sub>'''
+
+
+| style="background: #ff3232; color: #000"|
+'''ToOH <sub>(EToH)</sub>'''
+
+'''ToEEE(M) <sub>(EToH)</sub>'''
+
+'''RT <sub>(EToH)</sub>'''
+
+'''CoSaS <sub>(EToH:XL)</sub>'''
+
+'''ToTR <sub>(EToH)</sub>'''
+
+
+</table>
+|}
+<br>
+<div style="background:linear-gradient(180deg, #a86034, #983023);padding:1em;border:5px solid; border-image:linear-gradient(#fdb389, #ff3232)1; border-radius:0px">
+<span style="text-algin: left;">
+<span id="bottom">Bottom</span> <span id="easeful">Easeful</span>
+
+* [[w:c:jtoh:SoGH(M)|Steeple of Garden Hose]] <sub>(EToH)</sub> (3.75)
+* [[w:c:atos:Tower_of_Nebulous_Attitudes|Tower of Nebulous Attitudes]] <sub>(AToS)</sub> (3.75)
+* [[w:c:jtoh:ToMIT|Tower of Melons in Time]] <sub>(EToH)</sub> (3.76)
+* [[w:c:etoh-xl:ToP|Tower of Pursuit]] <sub>(EToH:XL)</sub> (3.78)
+* [[w:c:jtoh:ToTST|Tower of Two Sided Troubles]] <sub>(EToH)</sub> (3.79)
+
+<span id="low">Low</span> <span id="easeful">Easeful</span>
+
+* [[w:c:jtoh:SoFF|Steeple of Feudal Foliage]] <sub>(EToH)</sub> (3.80)
+* [[w:c:atos:Tower_of_Peaceful_Pathways:_Classic|Tower of Peaceful Pathways: Classic]] <sub>(AToS)</sub> (3.80)
+* [[w:c:etoh-xl:CoVM(C)|Citadel of Vengeful Motives]] <sub>(EToH:XL)</sub> (3.80)
+* [[w:c:jtoh:ToX|Tower of Xanthophobia]] <sub>(EToH)</sub> (3.81)
+* [[w:c:jtoh:ToOSE(M)|Tower of Outer Space Exploration]] <sub>(EToh)</sub> (3.81)
+* [[w:c:jtoh:SoJT(M)|Steeple of Jungle Thrill]] <sub>(EToH)</sub> (3.83)
+* [[w:c:jtoh:SoLIQ|Steeple of Lost in Quiescence]] <sub>(EToH)</sub> (3.84)
+* [[w:c:jtoh:SoDC|Steeple of Dungeon Crawling]] <sub>(EToH)</sub> (3.84)
+* [[w:c:atos:Tower_of_Zealous_Vibrance|Tower of Zealous Vibrance]] <sub>(AToS)</sub> (3.84)
+* [[w:c:atos:Tower_of_Hello_Bro|Tower of Hello Bro]] <sub>(AToS)</sub> (3.84)
+
+<span id="mid">Mid</span> <span id="easeful">Easeful</span>
+
+* [[w:c:atos:Tower_of_Tunneling_Mess|Tower of Tunneling Mess]] <sub>(AToS)</sub> (3.85)
+* [[w:c:atos:Tower_of_Hanging_On|Tower of Hanging On]] <sub>(AToS)</sub> (3.87)
+* [[w:c:jtoh:ToVT|Tower of Viaduct Traversing]] <sub>(EToH)</sub> (3.88)
+* [[w:c:jtoh:ToZG(M)|Tower of Zingy Gaming]] <sub>(EToH)</sub> (3.88)
+
+<span id="high">High</span> <span id="easeful">Easeful</span>
+
+* [[w:c:jtoh:ToNBA|Tower of Needing Basic Aptitude]] <sub>(EToH)</sub> (3.90)
+* [[w:c:jtoh:ToMH|Tower of Mirrored Hecc]] <sub>(EToH)</sub> (3.91)
+* [[w:c:jtoh:ToSSSS|Tower of Super Stupid Security Systems]] <sub>(EToH)</sub> (3.91)
+* [[w:c:jtoh:ToE|Tower of Elysium]] <sub>(EToH)</sub> (3.92)
+* [[w:c:jtoh:ToCT|Tower of Cosmic Tides]] <sub>(EToH)</sub> (3.93)
+* [[w:c:jtoh:SoAU|Steeple of Abyssal Upturn]] <sub>(EToH)</sub> (3.94)
+* [[w:c:jtoh:SoBV|Steeple of Button Venturing]] <sub>(EToH)</sub> (3.94)
+
+<span id="peakb">Peak</span> <span id="easeful">Easeful</span>
+
+* [[w:c:jtoh:ToOH|Tower of Overcoming Hatred]] <sub>(EToH)</sub> (3.96)
+* [[w:c:jtoh:ToEEE(M)|Tower of Easing Exultant Expeditions]]  <sub>(EToH)</sub> (3.96)
+* [[w:c:jtoh:RT|Rainbow Tower]] <sub>(EToH)</sub> (3.97)
+* [[w:c:etoh-xl:Citadel_of_Slow_and_Steady|Citadel of Slow and Steady]] <sub>(EToH:XL)</sub> (3.98)
+* [[w:c:jtoh:ToTR|Tower of Trivial Resentment]] <sub>(EToH)</sub> (3.99)</span></div>
+
+== <u><div style="font-size: 45px; font-weight: bold;font-family:Fredoka+One; background:linear-gradient(90deg, #fdb389, #ff3232); -webkit-text-stroke: 2px white; -webkit-background-clip:text; -webkit-text-fill-color: transparent; text-align: center;">Continuing From this Point</div></u> ==
+
+=== New Strategies ===
+Now that you're leaving the Noob Zone, there's a couple of new tricks you should learn before attempting {{Class2Difficulties|Difficult}} [https://jtoh.fandom.com/Difficult Difficult], {{Class2Difficulties|Challenging}} [https://jtoh.fandom.com/wiki/Challenging Challenging], or [https://jtoh.fandom.com/wiki/Intense a][https://jtoh.fandom.com/wiki/Remorseless b][https://jtoh.fandom.com/wiki/Insane o][https://jtoh.fandom.com/wiki/Extreme v][https://jtoh.fandom.com/wiki/Terrifying e].
+
+==== Shiftlock Usage ====
+Before this section please make sure that Shiftlock is even on to begin with. You can find this setting in the Roblox Menu, relatively close to the top. If the option is set to “Off:, click it to switch it to “On”. If the option instead says “Set by Developer, it is not usable in that game and you will have to instead simply enter first person by moving your camera all the way inwards with the Scroll Wheel. Once you’ve turned this setting on, pressing Shift inside of the game will activate Shiftlock.
+
+When using Shiftlock, your camera’s rotation is no longer determined by whether you’re holding Right Click. It is instead determined by the horizontal position of your mouse, meaning your camera turns to make sure your mouse is always centered on the screen. It also makes your avatar rotate around with your camera, so that you are always facing forward.
+
+Now, instead of wrapping/jumping by walking forward, you can now jump sideways to do the obstacles. In the case of normal jumps, you can get an extra stud of distance just by jumping sideways. In the case of wraps, you can now clear 10 studs of wrap before you’re stuck again, due to the fact you can now do them as if they were slightly modified gaps.
+
+You can also use this tech to do various other things that were otherwise impossible:
+
+* Fit through one stud gaps
+* Double your speed on truss glides
+* Spinning while standing still
+* Wallhops
+
+Have fun!
+
+=== Grinding ===
+After this difficulty, you’ll find that you just can’t seem to beat towers as easily as before. Instead of completing {{Class2Difficulties|Difficult}} [[w:c:jtoh/Difficult|Difficult]] towers on your first try, it may take dozens or hundreds of failures before you complete them. And as you go higher, this just gets more and more troublesome.
+
+What can you do to fix this? Well, all you have to do is employ a basic grinding strategy.
+
+First, choose a tower that you wish to beat. Now, make sure you like this tower, as you now cannot go to a harder grind without first completing the one you’re in. If you stop practicing a tower, it results in rapid muscle memory loss, effectively nullifying your progress in the hardest of towers and making you have to retrain in easier ones. 
+
+Now, whenever you’re practicing a tower in your grind and you fail a jump, find a way to retry that jump until you can do it consistently. Use a practice place, VM, or even rebuild the jump in Studio. Once you’ve got the jump to a ~95% consistency rate, return to your original game (EToH, AToS, etc.) and retry the tower from the start. Repeat practicing your failed jumps until you can get all the way through!
+
+Now that you've learned about these new techniques AND you've beaten this difficulty, it's time for you to head on to  {{Class2Difficulties|Difficult}} [[w:c:jtoh/Difficult|Difficult]]. Good luck, and happy obbying!
+[[Category:Humanly Possible]]
+[[Category:Class 2]]
+[[Category:Sub-Difficulties]]

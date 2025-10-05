@@ -1,0 +1,176 @@
+__NOTOC____NOEDITSECTION__{{DISPLAYTITLE:<span style="background:linear-gradient(#1d48ae,#002457); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Uneasy</big></span>}}
+<div style="background:linear-gradient(#000000,#002457);padding:1em;font-family:rubik;border:1px solid #0061e8">
+{{Inclusion|reason=Allowed by staff}}
+{{Humanly Possible}}
+{{NewDifficultyInfobox|image1=<gallery>
+UneasyIcon.png | Current
+Uneasy.jpeg | Old
+</gallery>|removal_reason=Not removed|original_name=Uneasy|previous_name=|original_full_name=Uneasy|previous_full_name(s)=|original_short_name=Uneasy|previous_short_name(s)=|date_added=14th March 2021|date_removed=Not removed|revamp_date=6/3/2023|original_creator(s)=Fakealizer|revival_date=Not deleted once yet.|prior_previous=[[Absurd]]|prior_next=[[Raging]]|previous_sub_difficulty(ies)=|hex_color=Top: #1d48ae
+Bottom: #0d2764
+Face: ##a0bae6|rbg_color=|cmyk_color=|hsv_color=|hsl_color=|previous_creator(s)=|previous_official_music(s)=|class=Class 3|chain(s)=|type=Sub-Difficulty|previous=[[w:c:jtoh:Extreme|Extreme]]|next=[[Turmoil]]|class_range=Low|difficulty_range=Bottom - Peak|decal_id=10865488136|main_difficulty=Extreme|sub_difficulty(ies)=|official_music(s)=None|original_official_music=None|creator(s)=Fakealizer|full_name=Uneasy|short_name=Uneasy|alt_names=|original_class=Class 23|original_type=Logically Impossible Difficulty|previous_type(s)=Sub-Difficulty|original_main_difficulty=None|previous_main_difficulty(ies)=|rgba_color=Top: 29,72,174,255
+Bottom: 13,39,100,255
+Face: 160,186,230,255|rating=10.2}}
+
+= What is <span style="background:linear-gradient(#2459d6,#1d48ae); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Uneasy</span>?=
+'''<span style="background:linear-gradient(#2459d6,#153582); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Uneasy</span>''' is a Class 3 sub-difficulty of [[w:c:ktoh:Extreme|<span style="color:#009DFF">Extreme</span>]]. This difficulty is insanely hard to beat, and most obbyists may not even reach this difficulty. Even professional obbyists may struggle with towers of this difficulty, with it being even harder than [[Madness]]. There is of course the occasional trap, and obstacles here may consist of difficulty among the qualities of [[w:c:jtoh:Tower of Confusion|<span style="color:0000FF">Tower of Confusion</span>]] except slightly buffed. '''As a Class 3 difficulty, it has a real tower''' (refer to below).
+
+After beating [[w:c:ktoh:Extreme|<span style="color:#009DFF">Extreme</span>]]. You faced uneasy difficulty, This difficulty has some obstacles which are gonna make you feel uneasy to do the tower despite it being like that the tower itself is mostly short and half empty making the tower you're doing bearable to beat, Tower with this difficulty is hard to get consistent at due to its own very confusing and difficult obstacle to memorize.
+
+Trying to beat this difficulty can cause you to go uneasy on it even if you can do it simply.                  
+
+==<span style="background:linear-gradient(#bdc8d9,#0056db); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Icon Representation</span>==
+
+=== <span style="background:linear-gradient(#95accc,#95accc); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Alternate Icon</span> ===
+<u><big>It was created by Inception.</big></u>
+
+The current icon represents a face made of light blue colored text representing uneasiness on a blue gradient. with outlines and >:D Text.
+
+===<span style="background:linear-gradient(#95accc,#95accc); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Current Icon</span>===
+The current icon represents a face made of light blue colored text representing uneasiness on a blue gradient.
+
+<u><big>It was created by [[User:Fakealizer|Fakealizer]].</big></u>
+
+===<span style="background:linear-gradient(#344863,#344863); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Old Icon</span>===
+The old icon is a worried iOS emoji on a white background.
+
+<u><big>It was created by [[User:Jtohfanlover|Jtohfanlover]].</big></u>
+
+==<span style="background:linear-gradient(#bdc8d9,#0056db); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Obstacles in Uneasy</span>==
+<tabber>
+|-|
+Bottom=
+=== Bottom Uneasy ===
+These obstacles are in the bottom range of this difficulty and easiest part of the difficulty.
+==== Basic ====
+*12.35 Stud jump.
+*12.05 Stud unclimbable jump.
+*3.45 Stud stickout.
+*10.45 Stud wraparound.
+*<0.225x0.225 Stud platform.
+*<0.055 Stud tightrope.
+==== Advanced ====
+*Fit into a 1.1x2.1 killbrick hole
+*Elevators.
+*Survival section where everything is moving.
+*Beat ToAST under 3:30.00 minutes.
+|-|
+Low=
+=== Low Uneasy ===
+These obstacles are in the low spectrum of this difficulty however, It doesn't mean that it's easy.
+==== Basic ====
+12.4 Stud jump.
+12.1 Stud unclimbable jump.
+3.5 Stud stickout.
+10.5 Stud wraparound.
+<0.2x0.2 Stud platform.
+<0.05 Stud tightrope.
+==== Advanced ====
+*Killbrick Maze.
+*Dance Clipping onto a 0.2 stud tightrope.
+*Conveyors.
+*Beat ToA in JToH under 4:30.00 minutes.
+|-|
+Mid=
+=== Mid Uneasy ===
+These obstacles are in the middle range of uneasy They still consist of very difficult and confusing gameplay despite it being only the middle spectrum of the difficulty.
+==== Basic ====
+*12.5 Stud jump.
+*12.2 Stud unclimbable jump.
+*3.55 Stud stickout.
+*10.55 Stud wraparound.
+*<0.0175x0.0175 Stud platform.
+*<0.045 Stud tightrope.
+==== Advanced ====
+*<1x1 Falling platform on an instakill pit.
+*Extremely fast spinner.
+*Really tight timed section.
+*Beat ToM in under 2:45.00 minutes.
+|-|
+High=
+=== High Uneasy ===
+Now we're at the high spectrum of uneasy, These obstacles contain some uneasy COs gameplay and tight purism jump to handle.
+==== Basic ====
+*12.6 Stud jump.
+*12.3 Stud unclimbable jump.
+*3.6 Stud stickout.
+*10.6 Stud wraparound.
+*<0.015x0.015x Stud platform.
+*<0.035 Stud tightrope.
+==== Advanced ====
+*100+ Stud tall pillar with fast lava rising.
+*Beat ToH but replaced with beatblocks with a break on start of every floor
+*Beat any remorseless tower but you have 10 minutes.
+*Do a section with conveyors facing random way.
+|-|
+Peak=
+=== Peak Uneasy ===
+This is the peak spectrum of uneasy which means you're at the end of the difficulty, All you need to do is get through these obstacles then your done with this sub-difficulty.
+==== Basic ====
+*12.65 Stud jump.
+*12.35 Stud unclimbable jump.
+*3.65 Stud stickout.
+*10.65 Stud wraparound.
+*<0.0125x0.0125x Stud platform.
+*<0.03 Stud tightrope.
+==== Advanced ====
+*Dropper with ouchbrick spam.
+*Whole 0.9-0.95 transparency floor.
+*Very uneasy puzzle.
+*Beat ToKY in under 4:05.00 minutes.
+</tabber>
+
+==<span style="background:linear-gradient(#bdc8d9,#93afd9); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Trivia</span>==  
+
+*The icon was made using Microsoft Office PowerPoint 2007.
+*'''Uneasy''' was previously in ''Class 23''.
+*'''Uneasy''' became the 4th most popular/edited page on March 15, 2021.
+*The difficulty name works both ways; This difficulty will make you '''uneasy''', and it won't be easy, making it '''uneasy'''.
+*'''Uneasy''' is no longer in the Popular Pages section.
+*'''Uneasy''' was in hitlist of armageddon having red status.
+
+==<span style="background:linear-gradient(#bdc8d9,#93afd9); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Towers</span>==
+<tabber>
+|-|
+Towers in this difficulty=
+Here is some tower to practice up your skills.
+==== Non-Fictional ====
+*[[w:c:jtoh:Tower of Confusion|Tower of Confusion]] | Juke's Towers of Hell > Ring 3 (Estimated)
+*[[w:c:jtoh:Tower of Rough Endoplasmic Reticulum|Tower of Rough Endoplasmic Reticulum]] | Juke's Towers of Hell > Zone 8 (Estimated)
+*[[w:c:jtoh:Tower of Frightening and Confusing Trials|Tower of Frightening and Confusing Trials]] | Juke's Towers of Hell > Ring 9 (Estimated)
+*[[w:c:jtoh:Tower of Astral Eclipse|Tower of Astral Eclipse]] | Juke's Towers of Hell > Zone 8 (Estimated)
+*[https://www.roblox.com/games/7211857966/why-are-you-looking-at-the-link| Tower of Failing Fuin Circumstances] | Own game place | [[Tower of Failing Fuin Circumstances|Link to page]]
+==== Fictional ====
+*Tower of Inconsistent Obstacle.
+*Tower of Uneasy Gameplay.
+*[[Tower of Heccifying Rage]].
+|-|
+Towers with this difficulty=
+==== Non-Fictional ====
+*All of the difficulty chart tower/citadel/obelisk/great citadel/monolith.
+==== Fictional ====
+*Tower of Uneasy Difficulties Escalating
+*Citadel of Weird Difficulties Pattern
+</tabber>[[File:Tower of Failing Fuin Circumstances.png|thumb|Screenshot of Tower of Failing Fuin Circumstances.]]
+
+==<span style="background:linear-gradient(#bdc8d9,#93afd9); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Continuing from this point</span>==
+Good job on beating this! These obstacles are probably really uneasy for you to get through, you might just be one of the most elite obbyists on Roblox! Move on to the next difficulty.
+
+==<span style="background:linear-gradient(#bdc8d9,#93afd9); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Gallery</span>==
+<gallery widths="185">
+File:UneasyIcon.png|The current icon for Uneasy.
+File:Uneasy.jpeg|The old icon for Uneasy.
+File:Popular Pages List 17.3.21.png|Uneasy as the 3rd most popular page.
+File:UnEasyRevamp.png|Unofficial icon revamp by [[User:Ru1325|Ru1325]]
+</gallery>
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 3]]
+[[Category:Emoticon Difficulties]]
+[[Category:Soul Crushing]]
+[[Category:Possible]]
+[[Category:Cancerous]]
+[[Category:Humanly Possible]]
+[[Category:Unofficial Difficulty]]
+[[Category:Unofficial]]

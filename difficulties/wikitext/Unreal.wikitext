@@ -1,0 +1,94 @@
+{{NewDifficultyInfobox
+|image1 = <gallery>
+Unreal.png|New
+Unreal-0.png|Old
+</gallery>
+|previous = {{DiffIcon|Horrific}} [[Horrific|<span style="color:#9691ff">'''Horrific'''</span>]]
+|next = {{DiffIcon|nil}} [[nil|<span style="color:#5e5e62">'''nil'''</span>]]
+|rating=13
+}}
+{{DISPLAYTITLE:<span style="color:#4B00C8">'''Unreal'''</span>}}
+
+__TOC__
+
+== What is <span style="color:#4B00C8">'''Unreal'''</span>? ==
+<span style="color:#4B00C8">'''Unreal'''</span> is a difficulty represented by dark purple with a black square. It is above '''[[Horrific|<span style="color:#9691ff">Horrific</span>]]''' and below '''[[nil|<span style="color:#5e5e62">nil</span>]]''' on the difficulty chart. Towers in this difficulty demand absurd skill, to the point of almost being considered luck. This difficulty is barely humanly possible, since you need an ungodly amount of skill and strategy up your sleeve to comfortably do it. The accuracy of towers in this difficulty is quite low as there are not many towers people can compare difficulties with, meaning some <span style="color:#4B00C8">'''Unreal'''</span> towers may be very over– or underrated. Above Mid Unreal (around STH difficulty) is generally considered to be humanly impossible on only 60 fps, so towers of a higher difficulty must be completed with FPS switching.
+== In Eternal Towers of Hell ==
+<span style="color:#4B00C8">'''Unreal'''</span> used to be a split difficulty from '''[[Catastrophic|<span style="color:white">Catastrophic</span>]]''' between '''[[nil|<span style="color:#5e5e62">nil</span>]]''' and the latter, and was once official in '''EToH'''. However, the difficulty was removed for being redundant according to Jukecallaa. In 2022, it had been re-added in the non-canon Pit of Misery subrealm however that also got removed from EToH and now only exists in The Eternal Abyss, Pit of Misery's official sequal owned by bLockerman666.
+
+== On Completion ==
+You are unbelievable. Greatest job ever if you have beaten a tower of this difficulty because currently only like ten people have beaten a tower of this difficulty as of early November 2024. Can I even be sure if you are human? You are impossibly talented and lucky. You must be the best obbyist out there.
+
+== Towers ==
+A tower's name in bold means it has been beaten.
+A double asterisk (**) on the verifier's name means there's no recording.
+
+*'''ToQU - [[Tower of Qwerty Uiop]] (Baseline Unreal, 13.00) [Verified by JeanTheObbyist<ref>https://www.youtube.com/watch?v=v5f32f4Poks&t=51s</ref>]'''
+* ToSFA - [https://www.roblox.com/games/12591631758/Tower-of-Sorrows-For-Anguish Tower of Sorrows For Anguish] (Bottom Unreal)
+*ToZT - [https://www.roblox.com/games/14206274864/Tower-of-Zettai-Tekina Tower of Zettai Tekina] (Bottom Unreal)
+*ToTE - [https://www.roblox.com/games/106774390801206/Tower-of-Every-End Tower of Every End] (Bottom Unreal)
+*ToTSSS - [https://www.roblox.com/games/71449243141491/Tower-of-The-Super-Silly-Seven Tower of The Super Silly Seven] (Bottom Unreal)
+*ToLW - [https://www.roblox.com/games/11265364581/Lethal-Weapon Tower of Lethal Weapon] (Bottom Unreal)
+*ToMM - [https://www.roblox.com/games/7565700624/tower-of-muscle-mania Tower of Muscle Mania] (Bottom Unreal)
+*'''ToSD -''' '''[[Tower of Sudden Death]]''' '''(Bottom Unreal, 13.06) [Verified by llyaria (skitsuna)<ref>https://www.youtube.com/watch?v=GEUZ8UeB9VI</ref>]'''
+*ToP - [[Tower of Paradise]] (Mid Unreal, 13.07)
+*ToMIM - [https://www.roblox.com/games/74094089242894/Tower-of-Maybe-in-Mumbai Tower of Maybe in Mumbai] (Bottom Unreal)
+*'''CoTEC -''' '''[[Citadel of The Eternal Calamity]]''' '''(Bottom-Low Unreal, 13.15) [Verified by Marqulitt<ref>https://www.youtube.com/watch?v=cZefNeSBC40&t=61s</ref>]'''
+*CoTSFT - [[Citadel of The Strive for Tensegrity]] (Bottom-Low Unreal, 13.16)
+* '''ToBF -''' '''[[Tower of Blind Fate]]''' '''(Bottom-Low Unreal, 13.19) [Verified by SerenityDiesAlone**/skitsuna<ref>https://www.youtube.com/watch?v=uALJaitSYNs</ref>]'''
+*ToDB - [https://www.roblox.com/games/96317559509982/Tower-of-Dense-Beauty Tower of Dense Beauty] (Low Unreal)
+*GT - [[Greninja Tower]] (Low Unreal)
+*'''CoIV - [[Citadel of Infinite Void]] (Low Unreal, 13.22) [Verified by skitsuna<ref name=":0">https://www.youtube.com/watch?v=Mtcliw0KJ4w</ref>]'''
+*'''ToSF - [[Tower of Spiralling Fates]]''' '''(Low Unreal, 13.25) [Verified by MonsterIsABlock<ref>https://www.youtube.com/watch?v=Wc3IJivXjfE&t=394s</ref>]'''
+*'''ToMIH - [[Tower of My Inner Hatred]] (Low Unreal, 13.26) [Verified by SwiftThunder06'''<ref>https://www.youtube.com/watch?v=yyRIYdJi0Ig&t=83s</ref>''']'''
+*ToXP - [https://www.roblox.com/games/6723370539/Tower-of-Xaerning-Pain Tower of Xaerning Pain] (Low Unreal, 13.26)
+*ToTGA - [https://www.roblox.com/games/111259719932747/tower-of-thje-giggles-ascent Tower of Thje Giggles Ascent] (Low Unreal, 13.3)
+*TT - [https://www.roblox.com/games/16730891689/ Target Tower] (Low-Mid Unreal)
+*EMP - [https://www.roblox.com/games/132477929973038/Edens-Malevolent-Purgatory Eden's Malevolent Purgatory] (Low-Mid Unreal)
+*ToOM - [https://www.roblox.com/games/11876008667/Tower-of-Ohio-Melon Tower of Ohio Melon] (Low-Mid Unreal)
+*'''ToMH - [https://www.roblox.com/games/117307574423766/Tower-of-Monochromatic-Haze-List-Version Tower of Monochromatic Haze] (Low-Mid Unreal, 13.36) [Verified by Gehadimad<ref>https://www.youtube.com/watch?v=HxCV-_zrLW0</ref>]'''
+*'''ToID - [[Tower of Impending Doom]] (Low-Mid Unreal, 13.38) [Verified by greenbean1421'''<ref>https://www.youtube.com/watch?v=DRGmoqF1T_E</ref>''']'''
+*ToVL:C - [[Tower of Vague Luminescense: Classic]] (Low-Mid Unreal, 13.4)
+*ToSW - [[Tower of Superstar World]] (Mid Unreal)
+*'''ToW - [[Tower of Wigglecore]] (Mid Unreal, 13.48) [Verified by Boomsasok<ref>https://www.youtube.com/watch?v=nj2vwu0LeG8</ref>]'''
+*ToML - [https://www.roblox.com/games/12943307893/OoER-Split-into-smaller-versions#!/game-instances Tower of Magnified Longing] (Mid Unreal)
+*ToF - [https://www.roblox.com/games/122216628163093/Tower-of-Flotage Tower of Flotage] (Mid Unreal)
+*ToZS - [[Tower of Zen Surplus]] (Mid Unreal)
+*ToINE - [[Tower of It Never Ends]] (Mid-High Unreal)
+*GCoDC - [[Great Citadel of Difficulty Chart]] (High Unreal)
+*ToMB - [https://www.roblox.com/games/124905417592060/Tower-of-Malignant-Bounds Tower of Malignant Bounds] (High Unreal)
+*ToIZ - [[Tower of Insane Zodiac]] (High Unreal, 13.69)
+*SToTS - [https://www.roblox.com/games/132338143944382/Silent-Tower-of-True-Skill Silent Tower of True Skill] (High Unreal)
+*ToTQFP - [[Tower of The Quest For Perfection]] (High Unreal)
+*ToIR - [https://www.roblox.com/games/98398052000643/Tower-Facility Tower of Indivine Reflectance] (High Unreal)
+*NT - [https://www.roblox.com/games/18160220478/Nokia-Tower#!/about Nokia Tower] (High Unreal)
+*OoER - [[Obelisk of Elongated Runs]] (High Unreal)
+*ToTFS - [https://www.roblox.com/games/79573295226454/Tower-of-Thje-Final-Stretch-Itemless Tower of Thje Final Stretch] (High Unreal)
+*LT - [[Long Tower]] (High-Peak Unreal, 13.8)
+*SoWB - [[Steeple of Literal Floor Spam|Steeple of Wicked Boogers]]
+*ToCG - [[Tower of Chewing Gum]] (High-Peak Unreal, 13.84) 
+*SoES - [https://www.roblox.com/ko/games/121990219081062/Steeple-of-Eating-Snakes Steeple of Eating Snakes] (High-Peak Unreal)
+*CoEOE - [https://www.roblox.com/games/106609706220951/Citadel-of-Eschaton-Obstructa-Exitium Citadel of Eschaton Obstructa Exitium] (High-Peak Unreal)
+*ToEXC - [https://www.roblox.com/games/71644854306627/Tower-of-Extended-Difficulty-Chart Tower of Extended Difficulty Chart] (High-Peak Unreal)
+*ToNF - [https://www.roblox.com/games/14872884661/Tower-of-Neglectful-Force Tower of Neglectful Force] (Peak Unreal)
+* ToM - [https://www.roblox.com/games/11857764752/Tower-of-Mushroom Tower of Mushroom] (Peak Unreal, 13.93)
+*ToV - [[Tower of Void]] (Peak Unreal, 13.95)
+*STONE:R - [[Sadistically Terrifying Overachieving Neglectful Enragement Facility|Sadistically Terrifying Overachieving Neglectful Enragement: Revamp]] (Skyline Unreal, 13.99)
+
+=== Unclassified ===
+
+* GOoIaIH - [https://jtohs-joke-towers.fandom.com/wiki/Great_Obelisk_of_Interminable_and_Insufferable_Heights Great Obelisk of Interminable and Insufferable Heights] (?)
+* CoTD - [[Citadel of True Destiny]] (?)
+* OoF - [https://www.roblox.com/games/13591867749/living-like-a-pop-car Obelisk of Fathes] (?)
+
+==Trivia== 
+
+*In '''EToH''', '''[[Catastrophic|<span style="color:white">Catastrophic</span>]]''' used to be named '''Unreal'''.
+*[[Citadel of Infinite Void]] was the first full-length tower of this difficulty to be beaten by a human. It was supposedly beaten by SerenityDiesAlone with the lack of raw footage, and later by skitsuna, with recorded proof of legitimacy<ref name=":0" />.
+*This difficulty used to be represented with only a dark purple color. This changed when the difficulty was semi-officially re-added to JToH, being changed to reflect the design still in use today.
+
+[[Category:Difficulties]] 
+[[Category:Unreal]] 
+[[Category:Two Color Icon]]
+
+<references />

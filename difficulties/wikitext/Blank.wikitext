@@ -1,0 +1,82 @@
+{{Background|File=Blank2.png|Size=2000px}}
+<div style="padding:0.5em; background: #434446; -webkit-text-fill-color: block;-webkit">
+<div style="padding:1em; background: #000;-webkit-text-fill-color: block;-webkit">
+{{DISPLAYTITLE:<span id="blank">Blank</span>}}
+<!-- CSS Links -->
+{{CSS|User:Sushislushwiki/slushusername.css}}
+<!-- Raw CSS -->
+{{CSS|content=
+/* Difficulty Name */
+#blank {
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: #434446;
+    text-shadow: 0 0 0.2em rgba(67,68,70,0.5)
+}
+
+/* Text styling */
+.portable-infobox, .page-content p, .page-content h2, .table, .page-content h3, .page-content ul, .page-content li {
+    font-family: Century Gothic;
+    color: #e0e0e0
+}
+.page-content h2, .page-content h3 {
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: #FFF
+}
+
+/* Infobox styling */
+.portable-infobox {
+    border-image: linear-gradient(#434446, #434446) 30;
+	border-width: 2px;
+    --pi-background: #000
+}
+.portable-infobox .pi-border-color {
+	border-color: #434446
+}
+.portable-infobox .wds-tabs__tab {
+	color: #e0e0e0
+}
+.portable-infobox .pi-header {
+    color: #FFF
+}
+}}
+{{NoticeScrollboxNew|Notices={{Unclassified}}{{Unfinished}}}}<br>
+{{BetterQuote|quoter=<span style="font-family: Century Gothic">Original caption in [[File:Empty.png|15px]] <span id="blank">Blank</span>'s Infobox.</span>|text=<p>This is cursed. Nothing can get to this difficulty. This difficulty is unexplainable, yet nothing can be unexplainable. That's how confusing this difficulty is. This is the true definition of mayhem. You should not be here. Nothing should be in this difficulty either.</p>}}
+{{NewDifficultyInfobox|gradient=#434446,#434446|title1=<big><big>Blank</big></big>|image1=<gallery>
+Empty.png | Current
+Blank2.png | Alternative
+</gallery>|class=[[:Category:Unclassified|Unclassified]]|rating=Unrankable|creator(s)=* TechnicallyTr (Creator)
+* [[User:Sushislushwiki|Sushislushwiki]] (Revamper)|alt_names=‎|class_range=''Unknown.''|date_added=May 1st, 2021|difficulty_range=''Unknown.''|hex_color={{colorbox|#484444}} #484444|rgb_color={{colorbox|#484444}} 67,68,70}}
+<h2>Introduction</h2>
+How the actual hell did you end up here? Which part of your brain is sending you here? You are literally in the middle of absolutely nowhere, inside a blank nothingness void. This supposed "difficulty" does not even exist. It's unclear how or why you're here,  perhaps you sought it out, only to fall into this conceptual trap. Now that you're here, just try to wake up and escape this reality. Good luck escaping this.
+
+==What is this monstrosity of a difficulty, Blank? ==
+Blank is an ''[[:Category:Unclassified|unclassified]]'' difficulty, or... is it?
+
+Technically, Blank is not a difficulty; in fact, it may not be anything at all. The concept of this so-called difficulty is the epitome of nothingness—no concepts, no challenges, nothing at all. It is unclassified with absolutely no known properties.
+
+The "difficulty" that may or may not be Blank is unexplainable and undefined in every possible way. It is theoretically impossible to determine anything about. 
+
+When the obstacles themselves are literally unexplainable in every shape or form, they don't exist at all, and will never be. Although, in this "difficulty," terms such as ω100 or ω<sup>100</sup> are used correctly—though how they apply here is anyone's guess—but not absurd iterations like ω^^^^^^^^^^^^100 or (ω100<sup>A_0</sup>)<sup>ω100,000</sup>. Still...
+
+<big>'''WAKE UP'''</big>
+==Icon Representation?==
+
+The icon of this "difficulty" is completely blank, covered with a empty grey and completely devoid of objects. There isn't anything and can be called as the void.
+
+==What are the '''''Obstacles'''''?==
+The "obstacles" defy explanation and are completely incomprehensible. They exist outside the bounds of reality and cannot be defined or understood. This supposed "difficulty" is actually an empty void devoid of any substance. There is nothing to grasp or comprehend within it.
+Your confusion is understandable, but this so-called difficulty is simply nothingness. Your mind is conjuring up imaginary concepts like location and existence.  
+
+Look, everything here is a lie, nothing is real and your mind is making up these fictional obstacles. You need to try to stop and get out of this reality.
+
+
+This so-called difficulty suprisingly has a "tower" called [[⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀]] . (Click on the invisible part)
+
+''<big>I need to '''GET OUT'''.</big>''
+
+{{DifficultiesNavbox}}
+[[Category:Unclassified]]
+[[Category:Difficulties]]
+[[Category:Unknown]]

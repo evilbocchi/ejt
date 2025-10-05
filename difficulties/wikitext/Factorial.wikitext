@@ -1,0 +1,29 @@
+{{Inclusion|reason=Falsely TDEx'd}}{{Unclassified}}{{Classic}}{{Difficulty_Template|title1=Factorial|image1=Factorial.png|caption1=i'm so mad that it's spiking up so fast!!!|previous_difficulty=N/A|next_difficulty=N/A|date_it_was_added=11/10/2020|type/class=Unclassified}}
+==Factorial - Overview==
+Generally, towers with F'''actorial''' [[Difficulty Chart|difficulty]] are noted for their length and numbers of floors due to the value of factorials being exponentially larger than their input variable.
+
+What is a factorial?
+
+*n! is just n times (n - 1) times (n - 2) all the way until it's multiplied by 3, 2, and then you dont have to do 1 as it keeps it the same.
+**3! is 3 x 2 (x 1) which is 6 either way.
+***6! is 720, or 6 x 5 x 4 x 3 x 2.
+****720! is a very large number, and in cheap calculators it is hastily and lazily described as "Infinity". It's 38e+..
+==Factorial Chain==
+Factorial difficulties would be their rating on the ADC/EADC (or ODC if possible) factorialized. This makes Factorial-Challenging and Factorial-Demanding would be the last possible whole JToH difficulty and it's sub-difficulty.
+
+The former would be a sub-difficulty of [[RoorOmega|Roor-Omega]] while the latter is a sub-difficulty of [[Abjunctive]], or maybe a sub-difficulty of a future sub-difficulty that could exist.. It would be the normal icon with the factorial exclamation mark (!) on it.
+
+<nowiki>*</nowiki>'''Technically a difficulty with a rating of 5.294867921592! or 5.294867921593! would be the closest rating pre-30 and the last is 5.2977! being a sub of TFD but we won't go over that.'''
+==Trivia==
+*Factorial is the first and possibly only difficulty to not begin the first section's paragraph with it's name.
+**Most difficulties do this.
+*The idea for Factorial difficulty's icon was first created after the creator of this difficulty watched a number size comparison where large numbers were represented as a cube with !!! on it (presumably showing that it's a really big number)
+*Towers (or literally any other tower type) with this difficulty are usually 100-99,999 floors long
+*It's not worth your time doing Factorial-difficulty towers since they are ridiculously long and sometimes ridiculously easy and becomes ridiculously hard.
+==Towers in this difficulty==
+*[[Could Have A Difficulty]] (Mini Tower)
+==Note==
+The creator of this difficulty is making a GC with this difficulty at the last floor which is a 1Bx1B (use the borderline from GCoCIaND as a comparison) where your walkspeed is set to 0.1 and you have to walk over one stud bricks with one stud gaps for the whole floor
+*link: https://www.roblox.com/games/5807566712/Great-Citadel-of-Joke-Official-Custom-Difficult
+*dc that also goes up to factorial (somehow): https://www.roblox.com/games/5794413809/nitros-difficulty-chart
+{{DifficultiesNavbox}}[[Category:Unclassified]][[Category:Difficulties]]

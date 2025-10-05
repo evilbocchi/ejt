@@ -1,0 +1,228 @@
+{{WIP}}
+
+(To specify, new difficulties are being added to the chain)
+
+== '''How does the <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(145deg, #212121, #DA8541, #4800C8, #824172, #9691FF, #E3E2FF, #FFFFFF, #C9FFFF, #00FFFF, #028AFF, #0077FF, #0000FF, #4800FF, #C900C8, #6D3A79, #19222D, #270000, #A00000, #FF3232, #FE7C00, #FFBB00, #00FF00, #95CE3A, #76F447, #00CE00); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Gar-Chain</span> work?''' ==
+{{NewDifficultyInfobox|title1=Gar Chain|image1=Gar Chain Icon.jpg|rating=|class=|class_range=2-18 (2-22)|difficulty_range=0.01-225.01 (0.01-Ω)|original_creator(s)=[[User:AlexJN|AlexJN]]|creator(s)=Chain: AlexJN
+Difficulties: Various}}Gar is a silly sounding name, somewhat innocuous, but in reality, it's a bit more complicated than that. It's a mathematical prefix, invented by Kieran Cockburn, to make fairly large numbers. Putting this prefix in front of any number squares it, and putting it in front of any difficulty will therefore square its difficulty. It's fairly innocuous at first, but it becomes impossible by Gar-Difficult and unbuildable by Gar-Terrifying.
+
+'''''Note from the Gar-Chain owner: You are not allowed to make any difficulties using the Gar prefix which are harder than Babass (this does not include Gar-Babass itself), or The Final Difficulty (ditto). This includes offsite. I cannot enforce this, but please respect my request.'''''
+
+'''[[w:c:googology:Gar-|Read more about the prefix Gar here]].'''
+
+== The Gar Chain ==
+
+=== Mainline Gar-Chain (Canon) ===
+# [[File:Gar-Effortless.png|30x30px]] [[Gar-Effortless]] - Baseline C2, sub of [[File:Effortless difficulty.png|30px]] [[w:c:jtoh:Effortless|Effortless]] (0.25)
+#[[File:Gar-Easy.png|30x30px]] [[Gar-Easy]] - Baseline C2, sub of [[File:EasyDifficulty.jpg|30px]] [[w:c:jtoh:Easy|Easy]] (1.25)
+#[[File:Gar-Medium.png|30x30px]] [[Gar-Medium]] - Mid C2, sub of [[File:DifficultJToH.png|30px]] [https://jtoh.fandom.com/wiki/Difficult Difficult] (4.25)
+#[[File:Just Gar Hard.png|30px]] [[Gar-Hard]]: Baseline C3, sub of [[File:InsaneDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Insane Insane] (9.125)
+#[[File:Gar-Difficult.png|30px]] [[Gar-Difficult]]: Baseline C4, sub of [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|nil]] (16.25)
+#[[File:Gar-Challenging.png|30x30px]] [[Gar-Challenging]]: High C4, sub of [[File:UnimaginableDifficulty.webp|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Unimaginable Unimaginable] (25.25)
+#[[File:Gar-Intense.png|30x30px]] [[Gar-Intense]]: Low C5, sub of [[File:DESTRUCTIVE.png|frameless|30x30px]] [[Destructive]] (36.5)
+#[[File:Gar-Remorseless2.png|30px]] [[Gar-Remorseless]]: Low C6, sub of [[File:Funny-windows-error22.jpg|frameless|30x30px]] [[REEE... !!!]] (49.5)
+#[[File:Gar-Relentess.png|30px]] [[Gar-Relentless]]: Low C7, sub of [[File:RoorXDOutline.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/RoorXD RoorXD] (64.25)
+#[[File:Gar-Insane.png|30x30px]] [[Gar-Insane]]: Low C8, sub of [[File:Resilient Glow.png|frameless|30x30px]] [[Resilient Glow]] (81.5)
+#[[File:Gar-Extreme.png|30x30px]] [[Gar-Extreme]]: High C9, sub of [[File:VHD.gif|frameless|35x35px]] [[Vrery hawrfd rdifficutl!!]] (100.5)
+#[[File:Image (24).png|30px]] [[Gar-Terrifying]]: Mid C11, sub of [[File:New deathfinite.jpg|frameless|30x30px]] [[DEATHfinite]] (121.5)
+#[[File:Gar-Catastrophic.png|30x30px]] [[Gar-Catastrophic]]: Peak C12, sub of [[File:Broken.png|frameless|30x30px]] [[Broken]] (144.5)
+#[[File:GarHorrificNew.png|30px]] [[Gar-Horrific]]: Mid C14, sub of [[File:TADI without effect.JPG|frameless|30x30px]] [[The Absolute Dilly Impossible]] (169.25)
+#[[File:GarUnrealNew.png|30px]] [[Gar-Unreal]]: Low C16, sub of [[File:Psychomania.png|frameless|30x30px]] [[Psychomania]] (196.5)
+#[[File:Gar-AnguishV2.png|30px]] [[Gar-Anguish]]: Low C18, sub of [[File:I can’t believe it’s just a… a… burning… such a sacred thing to… memory?.jpg|frameless|30x30px]] [[It's Just A Burning Memory]] (225.5)
+
+=== Alternate path difficulties (Semi-Canon) ===
+These difficulties are an alternate path to [[The Rebirth System]]. They do not have pages (except Gar-HELL) and they don't really need them either.
+#[[File:Gar-Nil Outline Version.png|30px]] '''Gar-nil''':  Cardinals C20A, sub of [[Absolute Undefined]] (256) or take the alternate path to Low C19:Rebirth I, sub of [[11th Dimension|12th Dimension]] (256)
+#[[File:GarError.png|30x30px]] '''Gar-eRRoR''': Mid C19:Rebirth III, sub of [[Primal Babass|Ancient Babass]] (289) (Semi-Canon)
+#[[File:GarWHY.png|30x30px]] '''Gar-WHY''': Peak C19:Rebirth V, sub of [[Undefinable|Undefined:Rebirth V]] (324) (Semi-Canon)
+#[[File:GarNoR.png|30x30px]] '''Gar-No''': Low C19:Rebirth VIII, sub of [[11th Dimension|19th Dimension]] (361) (Semi-Canon)
+#[[File:GarDEATH.png|30x30px]] '''Gar-DEATH''': Skyline C19:Rebirth X, sub of [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Infinire]] (400) (Semi-Canon)
+
+=== Beyond the Gar-Chain (Non-Canon) ===
+#[[File:GarNullifying.png|30x30px]] '''Gar-Nullifying''': 441, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarHELL.png|30x30px]] [[Gar-HELL]]: 484, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarTARTARUS.png|30x30px]] '''Gar-TARTARUS''': 529, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarCALAMITY.png|30x30px]] '''Gar-CALAMITY''': 576, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarUnimaginable.png|30x30px]] '''Gar-Unimaginable''': 625, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarOmega.gif|30x30px]] '''Gar-Omega''': 676, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarSUFFER.png|30x30px]] '''Gar-SUFFER''': 729, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarAN.png|30x30px]] '''Gar-Aleph-Null''' (aka Aleph-Gar) : 784, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarImmeasurable.png|30x30px]] '''Gar-Immeasurable''': 841, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+#[[File:GarMalicious.png|30x30px]] '''Gar-Malicious''': 900, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (Non-Canon)
+
+== Semi-Official Difficulties ==
+These difficulties are rendered official by the creator, but don't necessarily have or need pages and are not a part of the mainline series. Any Gar-subdifficulty, difficulty easier than Gar-Effortless, or harder than Gar-Malicious goes here.
+
+# '''[[File:Gar-InstantWin.png|frameless|30x30px]] Gar-Instant Win''': Baseline C20, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (961.01)
+#[[File:Gar-Unlosable.png|frameless|30x30px]] '''Gar-Unlosable''': Baseline C20, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (361.01)
+#[[File:Gar-Automatic.png|frameless|30x30px]] '''Gar-Automatic''': Baseline C20, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (289.01)
+#[[File:Gar-Joyful.png|frameless|30x30px]] '''Gar-Joyful''': Low C18, sub of [[File:I can’t believe it’s just a… a… burning… such a sacred thing to… memory?.jpg|frameless|30x30px]] [[It's Just A Burning Memory]] (225.02)
+#[[File:Gar-Press a Key.png|frameless|30x30px]] '''Gar-Press a Key''': Mid C14, sub of [[File:TADI without effect.JPG|frameless|30x30px]] [[The Absolute Dilly Impossible]] (169.02)
+#[[File:Gar-Jumpless.png|frameless|30x30px]] '''Gar-Jumpless''': Mid C11, sub of [[File:New deathfinite.jpg|frameless|30x30px]] [[DEATHfinite]] (121.02)
+#[[File:Gar-Lovely.png|frameless|30x30px]] '''Gar-Lovely''': Low C7, sub of [[File:RoorXDOutline.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/RoorXD RoorXD] (64.02)
+#[[File:Gar-Pleasantv2.png|frameless|30x30px]] '''Gar-Pleasant''': Low C5, sub of [[File:DESTRUCTIVE.png|frameless|30x30px]] [[Destructive]] (36.02)
+#[[File:Gar-TooEasy.png|frameless|32x32px]] '''Gar-TooEasy''': Baseline C4, sub of [[File:Nil revamp lol.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Nil nil] (16.02)
+#[[File:Gar-Peaceful.png|frameless|30x30px]] '''Gar-Peaceful''': Baseline C3, sub of [[File:InsaneDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Insane Insane] (9.02)
+#[[File:Gar babying3.png|30x30px]] '''Gar-Babying''': Mid C2, sub of Hard (4.02)
+#[[File:Gar-Effortlessless.png|30px]] [[Gar-Effortlessless]]: Baseline C2, sub of [[File:EasyDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Easy Easy] (1.02)
+#[[File:GarPlayground.png|30x30px]] '''Gar-Playground''': Baseline C2, sub of Effortless (0.06)
+#[[File:GarElementary.png|30x30px]] '''Gar-Elementary''': Baseline C2, sub of Effortless (0.26)
+#[[File:GarSimple.png|30x30px]] '''Gar-Simple''': Baseline C2, sub of Effortless (0.56)
+#[[File:GarNeat.png|30x30px]] '''Gar-Neat''': Baseline C2, sub of Easy (1.56)
+#[[File:GarCalm.png|30x30px]] '''Gar-Calm''': Low C2, sub of Medium (2.26)
+#[[File:GarSwitch.png|30x30px]] '''Gar-Switch''': Low C2, sub of Hard (3.06)
+#[[File:GarNormal.png|30x30px]] '''Gar-Normal''': Mid C2, sub of Challenging (5.06)
+#[[File:GarIntermediate.png|30x30px]] '''Gar-Intermediate''': High C2, sub of Intense (6.26)
+#[[File:GarRewardable.png|30x30px]] '''Gar-Rewardable''': Peak C2, sub of Remorseless (7.56)
+#[[File:GarTricky.png|30x30px]] '''Gar-Tricky''': Low C3, sub of Extreme (10.56)
+#[[File:GarOnerous.png|30x30px]] '''Gar-Onerous''': High C3, sub of Catastrophic (12.26)
+#[[File:GarStrenuous.png|30x30px]] '''Gar-Strenuous''': Low C4, sub of DEATH (20.25)
+#[[File:GarIrritating.png|30x30px]] '''Gar-Irritating''': High C4, sub of SUFFER (27.56)
+#[[File:GarManiacal.png|30x30px]] '''Gar-Maniacal''': Peak C4, sub of Malicious (30.25)
+#[[File:GarTooMedium.png|30x30px]] '''Gar-TooMedium''': Mid C5, sub of ELDRITCH (39.06)
+#'''WORK IN PROGRESS'''
+
+== '''Extended Version''' ==
+# '''[[File:Gar-InstantWin.png|frameless|30x30px]] Gar-Instant Win''': Baseline C20, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (961.01)
+#[[File:Gar-Unlosable.png|frameless|30x30px]] '''Gar-Unlosable''': Baseline C20, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (361.01)
+#[[File:Gar-Automatic.png|frameless|30x30px]] '''Gar-Automatic''': Baseline C20, located in [[File:Penultimate.png|frameless|30x30px]] [[Penultimate|Rinti-Penultimate]] (289.01)
+#[[File:Gar-Joyful.png|frameless|30x30px]] '''Gar-Joyful''': Low C18, sub of [[File:I can’t believe it’s just a… a… burning… such a sacred thing to… memory?.jpg|frameless|30x30px]] [[It's Just A Burning Memory]] (225.02)
+#[[File:Gar-Press a Key.png|frameless|30x30px]] '''Gar-Press a Key''': Mid C14, sub of [[File:TADI without effect.JPG|frameless|30x30px]] [[The Absolute Dilly Impossible]] (169.02)
+#[[File:Gar-Jumpless.png|frameless|30x30px]] '''Gar-Jumpless''': Mid C11, sub of [[File:New deathfinite.jpg|frameless|30x30px]] [[DEATHfinite]] (121.02)
+#[[File:Gar-Lovely.png|frameless|30x30px]] '''Gar-Lovely''': Low C7, sub of [[File:RoorXDOutline.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/RoorXD RoorXD] (64.02)
+#[[File:Gar-Pleasantv2.png|frameless|30x30px]] '''Gar-Pleasant''': Low C5, sub of [[File:DESTRUCTIVE.png|frameless|30x30px]] [[Destructive]] (36.02)
+#[[File:Gar-TooEasy.png|frameless|32x32px]] '''Gar-TooEasy''': Baseline C4, sub of [[File:Nil revamp lol.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Nil nil] (16.02)
+#[[File:Gar-Peaceful.png|frameless|30x30px]] '''Gar-Peaceful''': Baseline C3, sub of [[File:InsaneDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Insane Insane] (9.02)
+#[[File:Gar-Effortlessless.png|30px]] [[Gar-Effortlessless]]: Baseline C2, sub of [[File:EasyDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Easy Easy] (1.02)
+#[[File:Gar2.jpg|30px]] [[Gar-Effortless]] - Baseline C2, sub of [[File:Effortless difficulty.png|30px]] [[w:c:jtoh:Effortless|Effortless]] (0.01)
+#[[File:Geasy revamp.PNG|30px]] [[Gar-Easy]] - Baseline C2, sub of [[File:EasyDifficulty.jpg|30px]] [[w:c:jtoh:Easy|Easy]] (1.01)
+#[[File:Gar_calm.png|frameless|30x30px]] '''Gar-Calm''' - Low C2, sub of [[File:MediumDifficulty.jpg|30px]] [[w:c:jtoh:Medium|Medium]] (2.26)
+#[[File:Gar4.jpg|30px]] [[Gar-Medium]] - Mid C2, sub of [[File:DifficultJToH.png|30px]] [https://jtoh.fandom.com/wiki/Difficult Difficult] (4.01)
+#[[File:Gar-Intermediate.png|frameless|30x30px]] '''Gar-Intermediate''': High C2, sub of [[File:IntenseDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Intense Intense] (6.26)
+#[[File:Just Gar Hard.png|30px]] [[Gar-Hard]] - Baseline C3, sub of [[File:InsaneDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Insane Insane] (9.01)
+#'''[[File:Gar-Trickyv2.png|frameless|30x30px]] Gar-Tricky''' - High C3, sub of [[File:CatastrophicDifficulty.jpg|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]] (12.25)
+# [[File:Gar-Difficult.png|30px]] [[Gar-Difficult]] - Baseline C4, sub of [[File:Nil revamp lol.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Nil nil] (16.01)
+# [[File:GarChalleng.png|30px]] [[Gar-Challenging]] - High C4, sub of [[File:UnimaginableDifficulty.webp|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Unimaginable Unimaginable] (25.01)
+# [[File:Gar-Maniacal.png|frameless|30x30px]] '''Gar-Maniacal''' - Peak C4, sub of [[File:Malicious.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Malicious Malicious] (30.25)
+# [[File:Gar intense.png|30px]] [[Gar-Intense]] - Low C5, sub of [[File:DESTRUCTIVE.png|frameless|30x30px]] [[Destructive]] (36.01)
+# [[File:Gar-Severe.png|frameless|30x30px]] '''Gar-Severe''' - High C5, sub of [[File:NewSystemErrorIcon.png|frameless|30x30px]] [[System Error]] (42.25)
+# [[File:Gar-Remorseless2.png|30px]] [[Gar-Remorseless]] - Low C6, sub of [[File:Funny-windows-error22.jpg|frameless|30x30px]] [[REEE... !!!|REEE !!!]] (49.01)
+#[[File:Gar-Relentess.png|30px]] [[Gar-Relentless]] - Low C7, sub of [[File:RoorXDOutline.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/RoorXD RoorXD] (64.01)
+# [[File:Aight.jpg|30px]] [[Gar-Insane]] - Low C8, sub of [[File:Resilient Glow.png|frameless|30x30px]] [[Resilient Glow]] (81.01)
+# [[File:Gar-Madness.png|frameless|30x30px]] '''Gar-Madness''' - Peak C8, sub of [[File:Screenshot 2020-09-26 032504.jpg|frameless|30x30px]] [[The Crystal Core]] (90.25)
+# [[File:New Gar-Extreme.png|30px]] [[Gar-Extreme]] - High C9, sub of [[File:VHD.gif|frameless|35x35px]] [[Vrery hawrfd rdifficutl!!]] (100.01)
+# [[File:Gar_turmoil.png|frameless|30x30px]] '''Gar-Turmoil''' - Mid C10, sub of [[File:Elite phase1.png|frameless|30x30px]]/[[File:Elite phase 2.jpg|frameless|30x30px]] [[Exploitist Elite]] (110.25)
+# '''[[File:Gar-Absurd.png|frameless|30x30px]] Gar-Absurd''' - Peak C10, sub of [[File:Pinnacle.png|30x30px]] [[Pinnacle]] (115.56)
+# [[File:Image (24).png|30px]] [[Gar-Terrifying]] - Mid C11, sub of [[File:New deathfinite.jpg|frameless|30x30px]] [[DEATHfinite]] (121.01)
+# [[File:Gar-Petrifying.png|frameless|30x30px]] '''Gar-Petrifying''' - Baseline C12, sub of [[File:DualityUserblog.png|frameless|30x30px]] [[Splitting]] (132.25)
+# [[File:Gar-Catastrophic.png|30px]] [[Gar-Catastrophic]] - Peak C12, sub of [[File:Broken.png|frameless|30x30px]] [[Broken]] (144.01)
+# [[File:Gar-Eccentric.png|frameless|30x30px]] '''Gar-Eccentric''' - High C13, sub of [[File:Unorganized Reality.png|frameless|30x30px]] [[Unorganized Reality]] (156.25)
+# [[File:GarHorrificNew.png|30px]] [[Gar-Horrific]] - Mid C14, sub of [[File:TADI without effect.JPG|frameless|30x30px]] [[The Absolute Dilly Impossible]] (169.01)
+# [[File:Gar-Eternalized.png|frameless|30x30px]] '''Gar-Eternal''' - Mid C15, sub of [[File:TON 618.png|frameless|30x30px]] [[TON 618]] (182.25)
+# [[File:GarUnrealNew.png|30px]] [[Gar-Unreal]] - Low C16, sub of [[File:Psychomania.png|frameless|30x30px]] [[Psychomania]] (196.01)
+# [[File:Gar-AnguishV2.png|30px]] '''Gar-Anguish''' - Low C18, sub of [[File:I can’t believe it’s just a… a… burning… such a sacred thing to… memory?.jpg|frameless|30x30px]] [[It's Just A Burning Memory]] (225.01)
+# [[File:Gar-The Human Limit.png|frameless|30x30px]] '''Gar-The Human Limit''' - Low C19, sub of [[File:Kenos..png|frameless|30x30px]] [[Kenos]] (240.25)
+# [[File:Gar-Nil Outline Version.png|frameless|30x30px]] Gar-nil - C20B, located with [[The Rebirth System]] or [[File:11.gif|30x30px]] [[11th Dimension|11th Dimension: Rebirth I]] (256)
+# [[File:GarError.png|30x30px]] '''Gar-eRRoR''': 289 (All other information is disincluded as it will stay the same)
+#[[File:GarWHY.png|30x30px]] '''Gar-WHY''': 324
+#[[File:GarNoR.png|30x30px]] '''Gar-No''': 361
+#[[File:GarDEATH.png|30x30px]] '''Gar-DEATH''': 400
+#[[File:GarNullifying.png|30x30px]] '''Gar-Nullifying''': 441
+#[[File:GarHELL.png|30x30px]] [[Gar-HELL]]: 484
+#[[File:GarTARTARUS.png|30x30px]] '''Gar-TARTARUS''': 529
+#[[File:GarCALAMITY.png|30x30px]] '''Gar-CALAMITY''': 576
+#[[File:GarUnimaginable.png|30x30px]] '''Gar-Unimaginable''': 625
+#[[File:GarOmega.gif|30x30px]] '''Gar-Omega''': 676
+#[[File:GarSUFFER.png|30x30px]] '''Gar-SUFFER''': 729
+#[[File:Awesome placeholder.png|30x30px]] '''Gar-Aleph-Null''': 784
+#[[File:Awesome placeholder.png|30x30px]] '''Gar-Immeasurable''': 841
+#[[File:Awesome placeholder.png|30x30px]] '''Gar-Malicious''': 900
+
+== Non Canon Difficulties ==
+Because they're not in the MDC and have a different system than the MDC, they won't be added. Feel free to make any Gar CDC difficulties and have them here. '''Basically a fanon zone, Non-Canon difficulties can appear in canon areas'''
+
+#[[File:Mageable gar WOWOWOW.png|30px]] '''Gar-Managable''' (1.1025) (Sub-Difficulty of [[File:Lite.png|30px]] [[User blog:CreamYellowGoldOlive/Minimal - Spicy|Lite]])
+#'''[[File:Gar-Dorcelessness.png|frameless|30x30px]] Gar-Dorcelessness (161.5)'''
+#'''[[File:Gar-Prodigious.png|frameless|30x30px]] Gar-Prodigious (208.5)'''
+#'''[[File:Gar-Misanthrope.png|frameless|30x30px]] Gar-Misanthrope (250.01)'''
+#[[File:Gar-Jank.png|frameless|30x30px]] '''Gar-Jank''' - Baseline C20B, located in [[File:Mythic.gif|30x30px]] [[Mythic|Mythic: Rebirth II]] (266.67)
+#'''[[File:Gar-Elemental.png|frameless|30x30px]] Gar-Incognizant (285)'''
+#[[File:Gar-NightmareV2.png|frameless|30x30px]] '''Gar-Nightmare''' (277.56)
+#[[File:Gar-ERROR.png|30px]] '''Gar-eRRoR''' (289)
+#[[File:Gar-LiteralV2.png|frameless|30x30px]] '''Gar-Literal''' (311.88)
+#[[File:GarWhy3.png|30px]] '''Gar-WHY''' (324)
+#[[File:Gar-MAXIMUM OVERDRIVE V2.png|frameless|30x30px]] '''Gar-Maximum Overdrive''' (342.25)
+#[[File:GarNo.jpg|30x30px]] '''Gar-No''' (361)
+#[[File:Gar-PurgatoryV2.png|frameless|30x30px]] '''Gar-Purgatory''' (380.25)
+#[[File:Gar-DEATH.jpg|30x30px]] '''Gar-DEATH''' (400)
+#[[File:Gar-Nullifying.jpg|31x31px]] '''Gar-Nullifying''' (441)
+#[[File:Gar-HELL.jpg|30x30px]] '''Gar-HELL''' (484)
+#[[File:Gar-Vortex.png|30x30px]] '''Gar-Vortex''' (529)
+#[[File:Gar-TARTARUS V2.webp|frameless|30x30px]] '''Gar-TARTARUS''' (576)
+#[[File:GAR-CALAMITY REMASTER.png|30x30px]] '''Gar-CALAMITY''': (625)
+#[[File:Awesome placeholder.png|30x30px]] '''Gar-Penultimate''': 40,000, alt path to [[File:Loxus.gif|frameless|29x29px]] [[Liminal]]
+#'''''[[File:Placeholder white.PNG|frameless|30x30px]]''''' '''Gar-Neutralize''' to [[File:Gar-Unimaginable1.png|30x30px]] '''Gar-Unimaginable''': C21, sub of [[File:Loxus.gif|frameless|29x29px]] [[Liminal]] (251+)
+#Everything from [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-Dimension''' to [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-Noxious''' is a sub of [[File:Transcendence less speed.gif|frameless|29x29px]] [[Transcendence]] (251+)
+#Everything from [[File:Gar-Malicious1.png|frameless|30x30px]] '''Gar-Malicious''' to [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-Delete''' is a sub of [[File:Uber Current.gif|frameless|29x29px]] [[Uber]] (251+)
+#Everything from [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-Interruption''' to [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-Aleph-VSC''' is a sub of [[File:IneffableRemake.png|frameless|28x28px]] [[Ineffable]] (251+)
+#Everything from [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-Misery''' to [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-Doggo''' is a sub of [[File:Thisistheend.gif|frameless|28x28px]] [[Inutilis]] (251+)
+#Everything from [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-Shoving''' to [[File:Placeholder white.PNG|frameless|30x30px]] '''Gar-The Upper Gap''' is a sub of [[File:The Upper Gap.png|frameless|29x29px]] [[The Upper Gap]] (∞)
+#'''''[[File:Placeholder white.PNG|frameless|30x30px]]''''' '''Gar-The Final Difficulty''' is a sub of [[File:Final.png|frameless|28x28px]] [[The Final Difficulty.|The Final Diffi]][[The Final Difficulty.|cul]][[The Final Difficulty.|ty]] (∞)
+#'''''[[File:Placeholder white.PNG|frameless|30x30px]]''''' '''Gar-Babass dficuklty''' is a sub of [[File:Babass (4).png|frameless|29x29px]] [[Babass dficuklty]] (TooLarge+)
+
+== '''Legacy Chart''' ==
+'''''Do not change any icons of legacy or extended legacy difficulties.'''''
+*[[File:Gar-Effortlessless.png|30px]] [[Gar-Effortlessless]]: Baseline C2, sub of [[File:EasyDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Easy Easy] (1.16)
+*[[File:Gar2.jpg|30px]] [[Gar-Effortless]]: Low C2, sub of [[File:Intermediate.png|frameless|30x30px]] [[Intermediate]] (2.66)
+*[[File:Geasy revamp.PNG|30px]] [[Gar-Easy]]: Mid C2, sub of [[File:DifficultJToH.png|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Difficult Difficult] (4.25)
+*[[File:Gar4.jpg|30px]] [[Gar-Medium]]: High C2, sub of [[File:IntenseDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Intense Intense] (6.33)
+*[[File:Just Gar Hard.png|30px]] [[Gar-Hard]]: Baseline C3, sub of [[File:InsaneDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Insane Insane] (9.43)
+*[[File:Gar-Difficult.png|30px]] [[Gar-Difficult]]: High C3, sub of [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/wiki/Catastrophic Catastrophic] (12.3)
+*[[File:GarChalleng.png|30px]] [[Gar-Challenging]]: Baseline C4, sub of [[File:Why2.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/WHY WHY] (18.25)
+*[[File:Gar intense.png|30px]] [[Gar-Intense]]: Mid C4, sub of [[File:NewHELL.jpeg|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/HELL HELL] (22.25)
+*[[File:Gar-Remorseless2.png|30px]] [[Gar-Remorseless]]: High C4, sub of [[File:Omega akaTowerRushDifficulty.gif|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Omega Omega] (26.75)
+*[[File:Gar-Relentess.png|30px]] [[Gar-Relentless]]: Peak C4, sub of [[File:AlephnullDifficulty.webp|frameless|30x30px]] [[Aleph-Null]] (28.5)
+*[[File:Aight.jpg|30px]] [[Gar-Insane]]: Low C5, sub of [[File:Apocalyptic.png|frameless|30x30px]] [[Apocalyptic]] (35.25)
+*[[File:New Gar-Extreme.png|30px]] [[Gar-Extreme]]: Low C6, sub of [[File:D-I-E.png|frameless|30x30px]] [[D-I-E]] (51.5)
+*[[File:Image (24).png|30px]] [[Gar-Terrifying]]: Peak C6, sub of [[File:Xi-Alpha Icon.png|frameless|30x30px]] [[Xi-Alpha]] (58.125)
+*[[File:Gar-Catastrophic.png|30px]] [[Gar-Catastrophic]]: Low C7, sub of [[File:Roor hell.jpeg|frameless|30x30px]] [[RoorHELL]] (64.75)
+*[[File:GarHorrificNew.png|30px]] [[Gar-Horrific]]: Baseline C8, sub of [[File:2020 09 21 Kleki.png|frameless|30x30px]] [[Abyssal]] (78.5)
+*[[File:GarUnrealNew.png|30px]] [[Gar-Unreal]]: Baseline C9, sub of [[File:Hhhhhhhhhhhh.png|frameless|30x30px]] [[Aleph-VSC]] (92.5)
+*[[File:Gar-Nil Outline Version.png|30px]] [[Gar-Nil|Gar-nil]]: Low C10, sub of [[File:TooAbNormal Remake.jpg|frameless|30x30px]] [[TooAbnormal]] (108.5)
+*[[File:Gar-ERROR.png|30px]] [[Gar-ERROR|Gar-eRRoR]]: Baseline C12, sub of [[File:Microwave.png|frameless|30x30px]] [[Microwave]] (131.5)
+*[[File:GarWhy3.png|30px]] [[Gar-Why|Gar-WHY]]: High C13, sub of [[File:Unorganized Reality.png|frameless|30x30px]] [[Unorganized Reality]] (156.5)
+*[[File:GarNo.jpg|30x30px]] [[Gar-No]]: Mid C14, sub of [[File:TADI without effect.JPG|frameless|30x30px]] [[The Absolute Dilly Impossible]] (169.5)
+*[[File:Gar-DEATH.jpg|30x30px]] [[Gar-DEATH]]: Mid C16, sub of [[File:Zer.PNG|frameless|30x30px]] [[Zerstörung]] (199.5)
+*[[File:Gar-Nullifying.jpg|31x31px]] [[Gar-Nullifying]]: in High C17, sub of [[File:Choice.png|frameless|30x30px]] [[Choice]] (217.5)
+*[[File:Gar-HELL.jpg|30x30px]] [[Gar-HELL]]: Low C19, sub of [[File:Effortful.png|frameless|29x29px]] [[Effortful]] (246.5)
+*[[File:Gar-Vortex.png|30x30px]] [[User blog:The Difficulty Enthusiast/Gar-Vortex|Gar-Vortex]]: Peak C19, sub of [[File:Penultimate.png|frameless|30x30px]] [[Penultimate]] (???)
+
+== '''Legacy Unofficial Chart''' ==
+(All Unofficial gar icons by Nolan1025 except Gar-TooEasy and Gar-Peaceful)
+* [[File:Gar-InstantWin.png|frameless|30x30px]] '''Gar-Instant Win''': High C-, sub of [[File:SquareRelaxNew.svg|frameless|29x29px]] [[Relax]] (-10^50,000)
+*[[File:Gar-Unlosable.png|frameless|30x30px]] '''Gar-Unlosable''': Baseline C0, sub of [[File:Win (i guess).png|frameless|29x29px]] [[Win]] (-285,000)
+*[[File:Gar-Automatic.png|frameless|30x30px]] '''Gar-Automatic''': Low C0, sub of [[File:Vintage.png|frameless|29x29px]] [[Vintage]] (-2,475)
+*[[File:Gar-Joyful.png|frameless|30x30px]] '''Gar-Joyful''': Mid C0, sub of [[File:Locomotion.png|frameless|29x29px]] [[Locomotion]] (-215)
+*[[File:Gar-Press a Key.png|frameless|30x30px]] '''Gar-Press a Key''': High C0, sub of [[File:ShatteredBabass.png|frameless|29x29px]] [[Shattered Babass]] (-18.25)
+*[[File:Gar-Jumpless.png|frameless|30x30px]] '''Gar-Jumpless''': Baseline C1, sub of [[File:JoyfulDiffIcon.png|frameless|28x28px]] [[Joyful]] (-14.75)
+*[[File:Gar-Lovely.png|frameless|30x30px]] '''Gar-Lovely''': Low-Mid C1, sub of [[File:CakeWalk.png|frameless|29x29px]] [[Cakewalk]] (-9.25)
+*[[File:Gar-Pleasantv2.png|frameless|30x30px]] '''Gar-Pleasant''': Mid C1, sub of [[File:New flowerness image1.png|frameless|29x29px]] [[Flowerness]] (-6.75)
+*[[File:Gar-TooEasy.png|frameless|32x32px]] '''Gar-TooEasy''': Peak C1, sub of [[File:Magnificent Current.png|frameless|29x29px]] [[Magnificent]] (-1.75)
+*[[File:Gar-Peaceful.png|frameless|30x30px]] '''Gar-Peaceful''': Baseline C2, sub of [[File:Playgrounddif.png|frameless|29x29px]] [[Playground]] (0.5)
+*[[File:Gar-Calmness.png|frameless|30x30px]] '''Gar-Calmness''': High C2, sub of [[File:TooMedium.pmg.webp|frameless|28x28px]] [[TooMedium]] (6.33)
+*[[File:Gar-Intermediate.png|frameless|30x30px]] '''Gar-Intermediate''': Mid C2, sub of [[File:CORRUPT.png|frameless|29x29px]] [[C0RrUpT]] (7.75)
+*[[File:Gar-Trickyv2.png|frameless|30x30px]] '''Gar-Tricky''': Mid C3, sub of [[File:Horrifying.PNG|frameless|29x29px]] [[Horrifying]] (11.42)
+*[[File:Gar-Maniacal.png|frameless|30x30px]] '''Gar-Maniacal''': Baseline C4, sub of [[File:Overdrive.jpg|frameless|29x29px]] [[Maximum Overdrive]] (18.75)
+*[[File:Gar-SevereV2.png|frameless|30x30px]] '''Gar-Severe''': Mid C4, sub of [[File:NewCALAMITY.jpeg|frameless|29x29px]] [[CALAMITY]] (24.05)
+*[[File:Gar-Absurd.png|frameless|30x30px]] '''Gar-Absurd''': Baseline-Low C6, sub of [[File:Quantumless.jpg|frameless|29x29px]] [[QUANTUM]] (55.5)
+*[[File:Gar-Dorcelessness.png|frameless|30x30px]] '''Gar-Dorcelessness''': Low C10, sub of [[File:Illegal Newest.png|frameless|29x29px]] [[Illegal]] (68.25)
+*[[File:Gar-Eternalized.png|frameless|30x30px]] '''Gar-Eternalized''': Low C12, sub of [[File:Qr-codedifficulty.png|frameless|29x29px]] [[QR Code]] (85.5)
+*[[File:Gar-Prodigious.png|frameless|30x30px]] '''Gar-Prodigious''': High C13, sub of [[File:New Misery Icon.png|frameless|29x29px]] [[Misery]] (93.5)
+*[[File:Gar-AnguishV2.png|frameless|30x30px]] '''Gar-Anguish''': Low C14, sub of [[File:Fs.de.jpg|frameless|29x29px]] [[Free-smiley.de|Free-smileyde]] (101.5)
+*[[File:Gar-Misanthrope.png|frameless|30x30px]] '''Gar-Misanthrope''': High C14, sub of [[File:Confusion.webp|frameless|29x29px]] [[Confusion]] (105x)
+*[[File:Gar-Jank.png|frameless|30x30px]] '''Gar-Jank''': Baseline C16, sub of [[File:Stardark.png|frameless|29x29px]] [[Stardark]] (116.5)
+*[[File:Gar-NightmareV2.png|frameless|30x30px]] '''Gar-Nightmare''': Peak C16, sub of [[File:OmnipresentDiff.png|frameless|29x29px]] [[Omnipresent]] (123.25)
+*[[File:Gar-Elemental.png|frameless|30x30px]] '''Gar-Incognizant''': Low C17, sub of [[File:Afflictive.png|frameless|29x29px]] [[Afflictive]] (129.5)
+*[[File:Gar-LiteralV2.png|frameless|30x30px]] '''Gar-Literal''': Baseline C18, sub of [[File:DeathwrathNew.png|frameless|29x29px]] [[DeathWrath]] (136.5)
+*[[File:Gar-MAXIMUM OVERDRIVE V2.png|frameless|30x30px]] '''Gar-MAXIMUM OVERDRIVE''': Peak C19, sub of [[File:Fearfulness.jpeg|frameless|29x29px]] [[Fearfulness]] (166.5) <small>(This was formerly an official difficulty as a sub of Unfairness, but it got deleted)</small>
+[[Category:Chains]]

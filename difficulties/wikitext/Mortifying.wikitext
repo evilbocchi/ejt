@@ -1,0 +1,85 @@
+<div style="padding:1em;border:10px solid #A80057;background:#A80057">
+
+{{NewDifficultyInfobox|caption1=The difficulty might make you feel <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span> when you fail it. It is a huge embarrassment.|image1=<gallery>
+Mort.png | Current
+Screen Shot 2020-08-25 at 4.42.01 PM.png | Old
+</gallery>|previous_name=Distracted|hex_color=No HEX color.|hsv_color=No HSV color.|hsl_color=No HSL color.|class=7|decal_id=*Current: [https://www.roblox.com/library/5945105524/Mortifying 5945105524]
+*Old: [https://create.roblox.com/store/asset/89066398373073/Mortifying 89066398373073]|chain(s)=None|creator(s)=Auserfromrobloxx for the Revamp.
+Originally by Octogoat YT.|alt_names=No alternative names.|date_added=25th of August 2020.|date_removed=None.|cmyk_color=No CMYK color.|next=[[File:Transfinite Revamp.png|32x32px]] [[Transfinite]]|main_difficulty=|full_name=<span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>|title1=[[File:Mort.png|32x32px]] <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>|type=Difficulty|sub_difficulty(ies)=[[File:Dreadful.exeoffical.png|25px]] [[Dreadful.exe]]|official_music(s)=None|short_name=Mort?|original_class=Unknown if there is any.|previous_class(es)=Unknown if there is any.|original_type=None|previous_type(s)=None.|original_main_difficulty=None|previous_main_difficulty(ies)=None, as this was always a difficulty.|original_official_music=None|previous_official_music(s)=No official music.|original_creator(s)=Octogoat YT|previous_creator(s)=Octogoat YT|original_name=Distracted|original_full_name=None|previous_full_name(s)=None.|original_short_name=None|previous_short_name(s)=Unknown if there is any.|removal_reason=None|revamp_date=4/15/2022|revival_date=None|prior_previous=Unknown if there is any.|prior_next=Unknown if there is any.|previous_sub_difficulty(ies)=Unknown if there is any.|rbg_color=No RGB color.|previous=[[File:UltraInstinct.png|32x32px]] [[Ultra Instinct]]|rating=62|alt_next=[[File:Dreadful.exeoffical.png|32x32px]] [[Dreadful.exe]]}}
+==Introduction → <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>==
+Welcome to [[File:Mort.png|42x42px]]<span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>. This difficulty is going to be very hard for you, but if you've made it this far, you'll probably get past this eventually with your unstoppable skill level.
+
+==What is <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>?==
+<big>[[File:Mort.png|42x42px]] <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span></big> is a [[:Category:Class 7|Class 7]] difficulty in between [[File:UltraInstinct.png|32x32px]] [[Ultra Instinct]] and [[File:Transfinite Revamp.png|32x32px]] [[Transfinite]]. This difficulty isn't even close to being possible. This is a step up from [[File:UltraInstinct.png|32x32px]] [[Ultra Instinct]]. This will be your hardest challenge yet.
+
+==Icon → <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>==
+===The current icon.===
+That classic <big>''>:D''</big> face you always see in these things. But this is different. It also has a <span style="color:#CE0099">'''pink'''</span> to <span style="color:#FF0004">'''red'''</span> gradient with a bit of <span style="color:#F00074">'''brighter pink'''</span> in the middle.
+
+=== The old icon.===
+Henry Stickmin dancing. He has a white outline for some reason, and also a splash of the <span style="background:linear-gradient(90deg,Red,Orange,Yellow,Green,Blue,Purple,Pink); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''rainbow'''</span> for the foreground.
+
+==Towers → <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>==
+
+===Has <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span> in it=== 
+
+*Unknown if there are any. If so, add them here!
+
+===Is <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span> difficulty=== 
+
+*[[Tower of Atychiphobia]]
+*Tower of Power: Retromode ''(Fictional)''
+*Steeple of Structurally Unstable Structures ''(Fictional)''
+
+==Obstacles → <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>==
+If you don't think these fit, you can edit them.<tabber>|-|Baseline =
+*Beat [[Tower of Atychiphobia]] when it is done.
+*Beat a [[File:UltraInstinct.png|32x32px]] [[Ultra Instinct]] tower, but it's buffed to Baseline [[File:Mort.png|32x32px]] <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>.
+*Beat a [[File:Transfinite Revamp.png|32x32px]] [[Transfinite]] obstacle, but it's nerfed by 50%.
+*An Insta-Kill Ladder Flick with 3 killbrick lava spinners.
+*6.5 stud stickout
+|-|Low =
+*Beat a buffed [[Tower of Atychiphobia]] when it is done.
+*Beat a [[File:UltraInstinct.png|32x32px]] [[Ultra Instinct]] tower, but it's buffed to Low [[File:Mort.png|32x32px]] <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>.
+*Beat a [[File:Transfinite Revamp.png|32x32px]] [[Transfinite]] obstacle, but it's nerfed by 40%.
+*An Insta-Kill Ladder Flick with 4 killbrick lava spinners.
+* 6.51 stud stickout
+|-|Mid =
+*Beat a superbuffed [[Tower of Atychiphobia]] when it is done.
+*Beat a [[File:UltraInstinct.png|32x32px]] [[Ultra Instinct]] tower, but it's buffed to [[File:Mort.png|32x32px]] <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>.
+*Beat a [[File:Transfinite Revamp.png|32x32px]] [[Transfinite]] obstacle, but it's nerfed by 25%.
+*An Insta-Kill Ladder Flick with 3 killbrick lava spinners and a kill brick and a 6 stud stickout wrap afterwards.
+*6.52 stud stickout
+|-|High = 
+*Beat a megabuffed [[Tower of Atychiphobia]] when it is done.
+*Beat a [[File:UltraInstinct.png|32x32px]] [[Ultra Instinct]] tower, but it's buffed to High [[File:Mort.png|32x32px]] <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>.
+*Beat a [[File:Transfinite Revamp.png|32x32px]] [[Transfinite]] obstacle, but it's nerfed by 20%.
+*An Insta-Kill Ladder Flick with 4 killbrick lava spinners and a kill brick and a 6 stud stickout wrap afterwards.
+*6.53 stud stickout
+|-|Skyline =
+*Beat a gigabuffed [[Tower of Atychiphobia]] when it is done.
+*Beat a [[File:UltraInstinct.png|32x32px]] [[Ultra Instinct]] tower, but it's buffed to Skyline [[File:Mort.png|32x32px]] <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>.
+* Beat a [[File:Transfinite Revamp.png|32x32px]] [[Transfinite]] obstacle, but it's nerfed by 10%.
+*An Insta-Kill Ladder Flick with 5 killbrick lava spinners and a kill brick and a 6 stud stickout wrap afterwards.
+*6.54 stud stickout
+</tabber>
+
+==Trivia → <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>==
+
+*The original version of [[File:Mort.png|32x32px]] <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span> was by OctogoatYT.
+*Most of the edits in the revamp were a few minutes apart.
+*The original ending for the introduction was: "Goodbye life, hello hell!".
+*ngl this was so bad so like i changed it a bit
+*AwesomeRylan1214 added the background on August 17th, 2024. This will likely be the final update to this page.
+
+== Continuing from <span style="background:linear-gradient(0deg,#FF0004,#F00074,#CE0099); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mortifying'''</span>==
+Wow.
+
+You did it, somehow. You beat this very clearly impossible difficulty. Your next step is [[File:Transfinite Revamp.png|32x32px]] [[Transfinite]]. I wish you good luck. You probably won't beat it anyways, so good luck is not very useful.{{DifficultiesNavbox}}
+
+<br />
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+[[Category:Emoticon Difficulties]]
+[[Category:Large Pages]]

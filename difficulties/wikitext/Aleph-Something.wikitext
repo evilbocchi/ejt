@@ -1,0 +1,210 @@
+<br />
+{{Background|File=leanis.png|Size=2000px}}
+<div style="background:#808080;padding:1em;font-family:rubik;border:10px solid#5A5A5A">{{NoticeScrollboxNew|Notices=
+
+{{Physically Impossible}}
+
+{{Classic}}
+}}
+
+== Introduction ==
+'''You have passed nearly 11 classes. You finally took down [[Denial]] after going through events unknown and impossible to comprehend to the average human brain. You are actually thinking you can complete this chart. But then, a new challenge in class 9 arrives.''' 
+
+<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(160deg, grey,#5A5A5A);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"><big><big>'''''ALEPH-SOMETHING.'''''</big></big>
+
+'''Unless you are prepared, you aren’t gonna beat this.'''
+
+{{NewDifficultyInfobox
+|title1 = <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(160deg, grey,#5A5A5A);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Aleph-Something
+|image1 = <gallery>
+AlphaNothing.png|Current
+AlefSomething.png|Old
+Aleph-Something.png|Older
+E.sketchpad.png|Original
+</gallery>
+|caption1 = There is something there. Trust me.
+|class = 9
+|type = Normal
+|previous = [[File:Liminesque.png|30px]] [[Denial]]
+|alt_previous = 
+|next = [[File:OmniscientDiff.png|30px]] [[Omniscient]]
+|class_range =Mid
+|difficulty_range =Belowground to Peripheral
+|decal_id =[https://create.roblox.com/store/asset/98282948012415/AlephSomething 98282948012415]
+|main_difficulty =
+|sub_difficulty(ies) =
+|chain(s) = 
+|official_music(s) =Stained, Brutal Calamity
+|creator(s) = * jetcatz1093 
+* Touchgrass210779 (rebalancer)
+|full_name = <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(160deg, grey,#5A5A5A);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Aleph-Something
+|short_name = <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(160deg, grey,#5A5A5A);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">AS
+|alt_names =
+
+|original_class =
+|previous_class(es) =
+|original_type =
+|previous_type(s) =
+|original_main_difficulty =
+|previous_main_difficulty(ies) =
+|original_official_music =
+|previous_official_music(s) =
+|original_creator(s) = 
+|previous_creator(s) =
+|original_name =
+|previous_name =
+|original_full_name = <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(160deg, grey,#5A5A5A);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Aleph-JacksEpicYoutubeChannelFullOfFunTimesAndFunHiRickX
+|previous_full_name(s) =
+|original_short_name =
+|date_added = 12/11/2020
+|date_removed =
+|removal_reason =
+|revamp_date = June 2023
+|revival_date = 
+|prior_previous = [[File:Joke.png|30px]] [[Vrery hawrfd rdifficutl!!]]
+|prior_next =
+|previous_sub_difficulty(ies) =
+
+|hex_color =
+|rbg_color =
+|cmyk_color =
+|hsv_color =
+|hsl_color =
+|rating=97}}
+
+==What is '''''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(160deg, grey,#5A5A5A);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Aleph-Something'''''?==
+'''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(160deg, grey,#5A5A5A);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Aleph-Something''' is the 7th difficulty of class 9, and one of the oldest in class 9 is a difficulty after [[File:Liminesque.png|frameless|30x30px]] [[Denial]], the last difficulty of the Liminality Chain, and before [[File:OmniscientDiff.png|frameless|30x30px]] [[Omniscient]], the first difficulty of the Omni Chain. Obstacles in this difficulty are inconceivable and even just building a tower of this difficulty is extremely hard. If you didn’t come prepared, then you are in for a surprise.                                                                                                                                       
+
+The last 4 classes have all been extremely challenging with their own aspects. For example: Class 6 had some difficulties with unfair obstacles, like [[File:Everdark.png|frameless|30x30px]] [[Everdark]] where you cannot see anything due to the darkness, [[File:El Vacio Sqaure.png|frameless|30x30px]] [[El Vacio]], where you have to find a way to do a jump without attempting it, [[File:MegaDeath.png|frameless|50x50px]] [[MegaDeath]], where you put all your skills to the test thus far, and much more. All of this will end right here, right now.
+
+==Icon Representation==
+<tabber>
+|-|
+Current=
+[[File:AlphaNothing.png|frameless|90x90px]]
+This icon is the simplest of the 4, with just an aleph and a small question mark.
+|-|
+Old=
+[[File:AlefSomething.png|frameless|90x90px]]
+
+This one is way more expressive, however looks really weird. This icon has a sign saying “ALEPH-Something” on top with a dead emoticon above. Below is an aleph and a small x.
+|-|
+Older=
+[[File:Aleph-Something.png|frameless|90x90px]]
+This one is a less detailed version of the old icon, with just an XD and an upside down Aleph-Null.
+|-|
+Original=
+[[File:E.sketchpad.png|frameless|90x90px]]
+This icon features an aleph null slapped on top of JacksEpicYoutubeChannelFullOfFunTimesAndFunHiRickX’s channel PFP.
+</tabber>
+
+==Obstacles in this difficulty==
+Reminder that these might not be accurate.
+
+Please note that all stickouts are x 200,000 and all obstacles are proportional to the [https://jtohs-joke-towers.fandom.com/f/p/4400000000000122574 Great Rebalancing II].
+
+{| class="fandom-table"
+
+|+ Obstacle Table
+
+!Spectrum/Obstacles
+
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>''' 
+
+|-
+
+|Jumps
+
+| style="background-color: #005980;" |<font color="white"></font>11,000,000 studs
+
+| style="background-color: #014500;" |<font color="white">11,250,000 studs</font>
+
+| style="background-color: #336000;" |<font color="white">11,500,000 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">11,750,000 studs</font>
+
+| style="background-color: #964a00;" | <font color="white">12,000,000 studs</font>
+
+| style="background-color: #5a0000;" | <font color="white">12,250,000 studs</font>
+
+| style="background-color: #550055;" | <font color="white">12,500,000 studs</font>
+|-
+
+|Wraps
+
+| style="background-color: #005980;" |<font color="white"></font>10,800,000 studs
+
+| style="background-color: #014500;" |<font color="white">11,050,000 studs</font>
+
+| style="background-color: #336000;" |<font color="white">11,300,000 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">11,550,000 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">11,800,000 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">12,050,000 studs</font>
+
+| style="background-color: #550055;" |<font color="white">12,300,000 studs</font> 
+
+|-
+
+|Stickouts
+
+| style="background-color: #005980;" |<font color="white"></font>7,500,000 studs
+
+| style="background-color: #014500;" |<font color="white">7,750,000 studs</font>
+
+| style="background-color: #336000;" |<font color="white">8,000,000 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">8,250,000 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">8,500,000 studs</font> 
+
+| style="background-color: #5a0000;" |<font color="white">8,750,000 studs</font>
+
+| style="background-color: #550055;" |<font color="white">9,000,000 studs</font>
+
+|}
+
+==Trivia==
+
+*This was previously named Aleph-JacksEpicYoutubeChannelFullOfFunTimesAndFunHiRickX (or Aleph-JEYCFOFTAFHRX, for short.)
+* This is one of the only difficulties to have >3 icons.
+
+== Towers That Have This Difficulty ==
+
+=== Real Towers ===
+
+* 1000 Rooms of Pure Madness (1000RoPM)
+* Box of Aleph-What (BoAW)
+* [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Pain of Regret] (PaoR) (QToN Ring 9)
+
+=== Fictional/Deleted Towers ===
+
+* Citadel of Class 9 Difficulties (CoC9D)
+* Tower of Extreme Muscle Strain (ToEMS)
+* Tower of Unnecessary Creation (ToUC)
+
+==Continuing on After This Point==
+''You did it. You mad lad. You actually did it. You defeated this difficulty. This was meant to be your end point. It wasn’t. You persevered through this one hell of a difficulty. You finally built up the courage to do this. And you did. Congratulations.''
+
+It seems like you were either prepared for this, or just got lucky. Either way, congratulations on beating this extremely difficult and enraging difficulty. With the successful completion of this difficulty, go on to [[File:OmniscientDiff.png|frameless|30x30px]] [[Omniscient]]. Nobody is stopping you at this rate.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 9]]
+[[Category:Physically Impossible]]
+[[Category:Physically Impossible Difficulties]]
+[[Category:Aleph Sequence]]

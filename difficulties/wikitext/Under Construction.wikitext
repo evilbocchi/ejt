@@ -1,0 +1,116 @@
+<div style="background: linear-gradient(0deg, #cccccc, #555555); padding: 5px">
+<div style="background: linear-gradient(0deg, #cccccc, #555555); padding: 5px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.8)">
+<div style="background: black; border: 5px solid transparent; border-image: linear-gradient(0deg, #cccccc, #8e8e8e, #555555) 1 round; no-repeat; border-radius: 2px; padding: 20px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.6), 0px 0px 20px #000000; color: white;">
+{{DISPLAYTITLE:<span style="color: #555555;text-shadow:0 2px 5px #555555">'''Under Construction'''</span>}}
+{{TAS Impossible}}
+<div style="--theme-accent-color:-webkit-linear-gradient(0deg,#3e4a56,#1c1c1c)">{{BetterQuote|text=That difficulty is under construction, it will be finished soon.|quoter=Description of Decal}}
+{{NewDifficultyInfobox
+|image1=<gallery>
+
+File:Under construction difficulty.png|Current
+File:Under construction detailed.png|Detailed
+</gallery>
+|class=Class 5
+|previous=[[File:BuildingNew.png|30px]] [[Building]]
+|next=[[File:DoesNotComputeNew.png|30px]] [[Does Not Compute]]
+|title1=[[File:Under construction difficulty.png|30x30px]] <span style="color: #4f5a66;text-shadow:0 2px 5px #4f5a66">Under Construction</span>|type=Sub-Difficulty|caption1=That difficulty is under construction, see the page later.|decal_id=13059965427|creator(s)=[[User:Glitchzeri|Glitchzeri]]|date_added=04.10.2023|date_removed=None|removal_reason=None|prior_previous=[[File:Absolutism.png|frameless|30x30px]][[Absolutism|<span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span>]]|prior_next=[[File:Blue Screen of Death.png|frameless|30x30px]] [[User blog:EpicTheGamer2014/Blue Screen of Death|<span style="color:blue;">'''BSOD'''</span>]]|rating=31.5|main_difficulty=[[File:BuildingNew.png|30px]] [[Building]]|short_name=UC|original_class=Class 7}}
+
+{{NewHeader-Dynamic|text=What is [[File:Under construction difficulty.png|30x30px]] <span style="color: #3e4a56;text-shadow:0 2px 5px #3e4a56">Under Construction</span>?}}
+
+[[File:Under construction difficulty.png|30x30px]] <span style="color: #3e4a56;text-shadow:0 2px 5px #3e4a56">'''Under Construction'''</span> (or UC) is a Class 5 Sub-Difficulty between [[File:BuildingNew.png|30x30px]] [[Building]] and [[File:DoesNotComputeNew.png|30px]] [[Does Not Compute]]. You can try to beat any tower in this difficulty with TAS, but I guarantee you will fail all of them. Seriously, in UC, you need to have luck like winning the lottery 10 times in a row to beat a maximum of 5 jumps using TAS. If you want to beat this difficulty, just use Noclip. This is impossible for you to even reach this difficulty, I don't know what you're trying to do.
+
+{{NewHeader-Dynamic|text=Icon Representations}}
+<tabber>
+|-|
+Current=
+[[File:Under construction difficulty.png|100px]]
+The Icon looks like nil difficulty, but reversed. There is also a crane at the middle. This difficulty has took inspiration from: [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:nil|<span style="color:#696969">nil</span>]], [[File:Literal3.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Literal|<span style="color:#203A56">Literal</span>]] and [[File:Overtowering.png|30x30px]] ''Overtowering''. Icon was made in Pixelart.
+|-|
+Detailed=
+[[File:Under construction detailed.png|100px]]
+Almost the same as the normal icon, but there are shadows. The background has also turned red.
+</tabber>
+
+{{NewHeader-Dynamic|text=Obstacles}}Obstacles can be very inaccurate.<tabber>
+|-|
+Baseline=
+=== Baseline [[File:Under construction difficulty.png|30x30px]] <span style="color: #3e4a56;text-shadow:0 2px 5px #3e4a56">Under Construction</span> ===
+*19.7 Stud Jump (Climbable)
+*19.6 Stud Jump (Unclimbable)
+*19.3 stud wrap.
+*17.1x2 stud stickout.
+*9.2 Stud Walkaround
+|-|
+Low=
+=== Low [[File:Under construction difficulty.png|30x30px]] <span style="color: #3e4a56;text-shadow:0 2px 5px #3e4a56">Under Construction</span> ===
+*19.8 Stud Jump (Climbable)
+*19.7 Stud Jump (Unclimbable)
+*19.35 stud wrap.
+*17.2x2 stud stickout.
+*9.3 Stud Walkaround
+|-|
+Mid=
+=== Mid [[File:Under construction difficulty.png|30x30px]] <span style="color: #3e4a56;text-shadow:0 2px 5px #3e4a56">Under Construction</span> ===
+*19.9 Stud Jump (Climbable)
+*19.8 Stud Jump (Unclimbable)
+*19.40 stud wrap.
+*17.3x2 stud stickout.
+*9.4 Stud Walkaround
+|-|
+High=
+=== High [[File:Under construction difficulty.png|30x30px]] <span style="color: #3e4a56;text-shadow:0 2px 5px #3e4a56">Under Construction</span> ===
+*20 Stud Jump (Climbable)
+*19.9 Stud Jump (Unclimbable)
+*19.45 stud wrap.
+*17.4x2 stud stickout.
+*9.5 Stud Walkaround
+|-|
+Borderline=
+=== Borderline [[File:Under construction difficulty.png|30x30px]] <span style="color: #3e4a56;text-shadow:0 2px 5px #3e4a56">Under Construction</span> ===
+*20.1 Stud Jump (Climbable)
+*20 Stud Jump (Unclimbable)
+*19.50 stud wrap.
+*17.5x2 stud stickout.
+*9.6 Stud Walkaround
+</tabber>
+
+{{NewHeader-Dynamic|text=Towers}}
+Feel free to add towers!
+<tabber>
+|-|
+Towers=
+Fictional
+*Tower of Constrcutions (ToC)
+*Tower of This Breaking, Go Fix (ToTBGF)
+*[[Nothing Is Done]] (NID)
+*Tower of It Does Not Exist (ToIDNE)
+*None, None, None (NNN)
+|-|
+Citadels=
+*None
+|-|
+Steeples=
+*None
+|-|
+Obelisks=
+*None
+|-|
+Rooms=
+*None
+|-|
+Other=
+*None
+</tabber>
+
+{{NewHeader-Dynamic|text=Continuing from This Point}}Wait... You beat it? That's impossible... But if you are real, move to [[File:DoesNotComputeNew.png|30px]] [[Does Not Compute]].
+
+{{NewHeader-Dynamic|text=Trivia}}
+*The icon uses the WIP template (which fits to be honest).
+*The difficulty used to be a Class 7, but it’s unknown how did it become a Class 6.
+**Now it is Class 5 because of Difficulty Chart changes
+[[Category:Class 5]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Humanly Impossible]]{{DifficultiesNavbox}}
+[[Category:Two color icon]]

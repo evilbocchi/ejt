@@ -1,0 +1,64 @@
+{{DISPLAYTITLE:<span id="suffer">SUFFER</span>}}
+{{CSS|content=<nowiki>
+/* Difficulty Name */
+#suffer {
+    font-weight: bold;
+    color: transparent;
+    background: linear-gradient(to bottom, #ff7777 0%, #ff7777 27%, #ff0000 27%, #ff0000 60%, #ff0000 60%, #9e0000 80%);
+    background-clip: text;
+    filter: drop-shadow(0 0 0.1em #FF00007F) drop-shadow(0 0 0.2em #5D0000A0)
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices={{Classic}}{{Humanly Impossible}}}}
+{{NewDifficultyInfobox
+|title1=<big><big><span id="suffer">SUFFER</span></big></big>|image1=<gallery>
+SUFFER.png|Current (De-Jure)
+OldSUFFERDifficultyIcon.png|Current (De-Facto)
+Suffer_Original.png|Original
+SUFFER-New.jpg|Alternate
+</gallery>|class=[[:Category:Class 4|Class 4]]|previous={{Class5Difficulties|Omega}} [[w:c:jtohs-hardest-towers:Omega|Omega]]|next=[[File:AlephnullDifficulty.webp|30px]] [[Aleph-Null]]|main_difficulty=|decal_id=6418989936|original_main_difficulty=|date_added=*14/12/2020|creator(s)=[[User:Dreadful.exe|Dreadful.exe]]|original_name=CHAOS|previous_name=CHAOS|sub_difficulty(ies)=[[File:CHAOS2.png|25px]] [[CHAOS]]|rating=27|type=*[[:Category:Difficulties|Difficulty]]
+*[[Category:Humanly Impossible|Humanly Impossible]]|class_range=[[:Category:Class 4|High Class 4]]|official_music(s)=Unknown|difficulty_range=Low-Peak|alt_next=[[File:CHAOS2.png|30px]] [[CHAOS]] (sub-difficulty)}}
+==What is [[File:SUFFER.png|25px]] <span id="suffer">SUFFER</span>?==
+[[File:SUFFER.png|25px]] <span id="suffer">SUFFER</span> is a Class 4 Difficulty which succeeds {{Class5Difficulties|Omega}} [[w:c:jtohs-hardest-towers:Omega|<span>'''Omega''']], but precceeds [[File:AlephnullDifficulty.webp|30px]] [[Aleph-Null]] or {{Class5Difficulties|CHAOS}} '''[[CHAOS]]'''.
+
+Suffer is notorious for tormenting glitches. As an example, a book glitch wrap or a very fast falling platform on top with an instakill at the bottom. Making significantly tougher and generally more impossible than {{Class5Difficulties|Omega}} [[w:c:jtohs-hardest-towers:Omega|<span>'''Omega''']], but however, remaining easier than  [[File:AlephnullDifficulty.webp|30px]] [[Aleph-Null]] or {{Class5Difficulties|CHAOS}} '''[[CHAOS]]'''.
+
+== Icon Representation ==
+
+=== Current ===
+The current icon is a maroon to red radial gradient with a black upright evil cat face emoticon (>:3) on it.
+
+=== Old ===
+The old icon of SUFFER includes a >:3 rotated by 90 degrees and red surrounded by it. On the outside, there's an outline in a different color than the inside.
+
+=== Original ===
+placeholder
+
+=== Alternate ===
+The alternate icon is a bolded out >:] emoticon with a white outline on a red to black gradient background, similar to the ones in [[:Category:Class 7|Class 7]]. The >:] emoticon is a red to white gradient.
+==Obstacles in [[File:SUFFER.png|25px]] <span id="suffer">SUFFER</span>==
+
+'''Unless you have TAS, you’re screwed. >:3'''
+{{ObstacleTableRevamp|JumpClimbableBase=16|Increment=0.034}}
+
+==Towers==
+
+*[[Obelisk of The Holy Difficulty Chart]]
+*[[Obelisk of Giant Blacks]] (Fictional)
+*[[Obelisk of Symbol's Difficulty Chart]]
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 39: SUFFER]
+*[[Box of Obliteration]]
+
+==Trivia==
+
+*In [[Obelisk of Impossible Difficulty Chart|OoIDC]], the angry cat face is flipped to the left, making it look like an ">:3".
+*This difficulty had a deleted sub difficulty named '''Mad Suffer'''.
+*This difficulty was revamped by YataDev. (Grammar was fixed by Rarezites)
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 4]]
+[[Category:Emoticon Difficulties]]
+[[Category:Humanly Impossible]]
+[[Category:Classic Difficulty]]
+[[Category:Classic]]

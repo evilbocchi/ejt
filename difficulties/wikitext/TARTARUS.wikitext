@@ -1,0 +1,23 @@
+__NOTOC__
+{{NewDifficultyInfobox|image1=<gallery>
+Image:TARTARUS.png|Current
+Image:TartarusClassic.png|Old
+</gallery>|previous=[[HELL|<span style="color:#7ab6e9">'''HELL'''</span>]]|next=[[Unimaginable|<span style="color:#f00>'''Unimaginable'''</span>]]|rating=21|hex_color=BG: <nowiki/>#C2DFF1<br/>Text: <nowiki/>#FFFFFF|rgb_color=BG: 194, 223, 241<br/>Text: 255, 255, 255}}
+==What is <span style="color:#c2dff1">'''TARTARUS'''</span>?==
+<span style="color:#c2dff1">'''TARTARUS'''</span> is a difficulty assigned to towers harder than [[HELL|<span style="color:#7ab6e9">'''HELL'''</span>]] but easier than [[Unimaginable|<span style="color:#f00">'''Unimaginable'''</span>]]. It is represented with a very light blue with an XD on it. <span style="color:#c2dff1">'''TARTARUS'''</span> difficulty towers truly bend the limits of conceptual Roblox physics, which is superficially impossible to understand obstacles of <span style="color:#c2dff1">'''TARTARUS'''</span> difficulty as they are extremely esoteric. Using TAS, this difficulty is still very much impossible, as it is filled with frame-perfect, pixel-perfect, and RNG inputs for most of the constituent parts whilst needing nigh perfect understanding of physics, which in itself is already an impressive breakthrough feat. 
+
+==Towers with TARTARUS Difficulty== 
+*E - [[Exit]]
+*ToMAGW - [[Tower of Mid Air Glitch Wraps]]
+*NEaToHWaJ - [[Not Even a Tower of Hard Wraps and Jumps]]
+*ToTD - Tower of TARTARUS Difficulty (W.I.P)
+
+==Trivia==
+*Towers here are around tier 26 difficulty.
+*This is one of the 3 difficulties to have an "<code>XD</code>" used for their icon, the other 2 being [[WHY|<span style="color:#000">'''WHY'''</span>]] and [[HELL|<span style="color:#7ab6e9">'''HELL'''</span>]].
+*This difficulty was made by [https://www.roblox.com/users/1710070/profile Bob_9001].
+*All difficulties following this become hyperbolic.
+
+[[Category:Difficulties]]
+[[Category:TARTARUS]]
+[[Category:Two color icon]]

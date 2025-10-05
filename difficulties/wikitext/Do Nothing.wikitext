@@ -1,0 +1,141 @@
+{{Classic}}{{Humanly Possible}}{{NewDifficultyInfobox|image1=
+<gallery>
+SquareDoNothing.png | Current
+Do Nothing Revamp.png | Alternate
+Do Nothing Unofficial.png | Unofficial
+DO NOTHING.png | Old
+Do Nothing.png | Oldest
+</gallery>|caption1=The icon of Do Nothing. Just a ? over a light blue background.|class=Class 0|rating=-27|type=Classic Difficulty|previous=[[File:Winsome.png|30px]] [[Winsome]]|next=[[File:Blessing.jpeg|30px]] [[Blessing]]|alt_previous=|alt_next=[[File:Sleepful2.png|30px]] [[Sleepful]]|class_range=Low|difficulty_range=Baseline to Peak|decal_id=*7662806869 (Current)
+*6418688141 (Old)
+*6382366694 (Older)|creator(s)=*Givemefreepets642|full_name=Do Nothing|short_name=DN|original_type=*Difficulty
+*Classic Difficulty
+*Classic Unofficial Difficulty|date_added=*28/12/20|hex_color=*#99D1E5 (Background)
+*#FFFFFF (Question Mark)|title1=Do Nothing|sub_difficulty(ies)=[[File:Sleepful2.png|25px]] [[Sleepful]]}}
+
+== What is <span style="color:#99d1e5;text">Do Nothing</span>?==
+<span style="color:#99d1e5;text">'''Do Nothing'''</span> is a Class 0 difficulty that succeeds [[File:Winsome.png|30x30px]] [[Winsome]], but preceeds [[File:Sleepful2.png|30px]] [[Sleepful]]. As the name says, you'd do absolutely nothing, Not even breathe and you some how still manage to win. This difficulty is pretty quick, and even if you look away or blink slightly, you'd miss it, at least on the lower parts.
+
+== Icon representation ==
+<span style="color:#99d1e5;text">Do Nothing's</span> icon consists of a white question mark (?) in the middle of a pastel-blue background. Pretty simple for JJT, right? The background color is Sky Blue (#99D1E5), and the question mark color is White (#FFFFFF).              
+
+==Obstacles in <span style="color:#99d1e5;text">Do Nothing</span> ==
+
+=== Belowground <span style="color:#99d1e5;text">Do Nothing</span>===
+
+* Fall 30 studs (0.3 floors) to the winpad. This is the lowest possible for <span style="color:#99d1e5;text">Do Nothing</span>
+* Solve 0+0 but the answers will be given after 2 seconds.
+* Wait 5 seconds.
+
+=== Baseline <span style="color:#99d1e5;text">Do Nothing</span>===
+
+* Fall 70 studs (0.7 floors) to the winpad, as the name says you don't do anything.
+* Solve 0+1 but the answers will be given after 3 seconds.
+* Wait 6 seconds.
+
+===Low <span style="color:#99d1e5;text">Do Nothing</span>===
+
+*Fall 100 studs (1 floor) to the winpad, nothing really different.
+*Solve 1+1 but the answers will be given after 4 seconds.
+*Wait 8 seconds.
+
+===Mid <span style="color:#99d1e5;text">Do Nothing</span>:===
+
+*Fall 200 studs (2 floors) into the winpad. Congrats! You didn't do anything and fell 2 floors into the winpad!
+*Solve 0+2 but the answers will be given after 5 seconds.
+*Wait 10 seconds.
+
+===High <span style="color:#99d1e5;text">Do Nothing</span>:===
+
+*Fall 220 studs (2.2 floors) into the winpad, nothing really to say here except you've fallen, like, half a steeple.
+*Solve 1+2 but the answers will be given after 6 seconds.
+*Wait 11 seconds.
+
+=== Peak <span style="color:#99d1e5;text">Do Nothing</span>: ===
+
+* Fall 250 studs (2.5 floors) to the winpad.
+* Solve 0+3 but the answers will be given after 7 seconds.
+* Wait 12 seconds.
+
+=== Peripheral [[Do Nothing]] ===
+
+* Fall 300 studs (3 floors) to the winpad.
+* Solve 1+3 but the answers will be given after 8 seconds.
+* Wait 14 seconds.
+
+==Towers in <span style="color:#99d1e5;text">Do Nothing</span>==
+<tabber>
+|-|
+Non-fictional=
+*[https://eztoe.fandom.com/wiki/Tower_of_Falling_Heights Tower of Falling Heights] (ToFH) - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([https://www.roblox.com/games/8656499797/EZs-Towers-of-Easiness EToE])
+*[https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Mini Steeple of Fast Winning] (MSoFW) - [[File:SquareDoNothing.png|frameless|20px]] Low-Mid Do Nothing ([https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers CET])
+*[https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Steeple of Falling In Style] (SoFIS) - [[File:SquareDoNothing.png|frameless|20px]] Mid-High Do Nothing ([https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 UoFTE])
+*[[Tower of Too Easy Difficulties]] (ToTED) - [[File:SquareDoNothing.png|frameless|20px]] Do Nothing? (Obby Creator)
+|-|
+LAaBT=
+* Tower of Circular Nonexistence - [[File:SquareDoNothing.png|frameless|20px]] Baseline Do Nothing ([[w:c:laabt:Tower of Circling Nonexistence|LAaBT: Layer 1 Subrealm]])
+* Tower of Four Floor Fall - [[File:SquareDoNothing.png|frameless|20px]] Low Do Nothing ([[w:c:laabt:Tower of Four Floor Fall|LAaBT: Layer 1]])
+* Tower of Standardized Falling - [[File:SquareDoNothing.png|frameless|20px]] Low-Mid Do Nothing ([[w:c:laabt:Tower of Standardized Falling|LAaBT: Layer 1 ]])
+* Steeple of Falling Into Depths - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([[w:c:laabt:Steeple of Falling Into Depths|LAaBT: Layer 1 Subrealm]])
+* Tower of Generic Falling - [[File:SquareDoNothing.png|frameless|20px]] Mid-High Do Nothing ([[w:c:laabt:Tower of Generic Falling|LAaBT: Layer 1 Subrealm]])
+* Tower of Falling in the Dark - [[File:SquareDoNothing.png|frameless|20px]] Peak Do Nothing ([[w:c:laabt:Tower of Falling in the Dark|LAaBT: Layer 1 ]])
+* Tower of Alternate Falling - [[File:SquareDoNothing.png|frameless|20px]] High-Peak Do Nothing ([[w:c:laabt:Tower of Alternate Falling|LAaBT: Layer 1 ]])
+* Tower of Circling Contrast - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([[w:c:laabt:Tower of Circling Contrast|LAaBT: Layer 1 ]])
+* Tower of Reversing Polarity - [[File:SquareDoNothing.png|frameless|20px]] Mid-High Do Nothing ([[w:c:laabt:Tower of Reversing Polarity|LAaBT: Layer 1 ]])
+* Tower of Cannons - [[File:SquareDoNothing.png|frameless|20px]] Bottom-Low Do Nothing ([[w:c:laabt:Tower of Cannons|LAaBT: Layer 1 Subrealm]])
+* Comfortably A Tower - [[File:SquareDoNothing.png|frameless|20px]] Bottom Do Nothing ([[w:c:laabt:Comfortably A Tower|LAaBT: Layer 1 Subrealm]])
+* Tower of Hype - [[File:SquareDoNothing.png|frameless|20px]] Low-Mid Do Nothing ([[w:c:laabt:Tower of Hype|LAaBT: Layer 1 Subrealm]])
+* Tower of Cut Blocks - [[File:SquareDoNothing.png|frameless|20px]] Peak Do Nothing ([[w:c:laabt:Tower of Cut Blocks|LAaBT: Layer 1 Subrealm]])
+* Tower of Epic Slow Mo - [[File:SquareDoNothing.png|frameless|20px]] Peak Do Nothing ([[w:c:laabt:Tower of Epic Slow Mo|LAaBT: Layer 1 Subrealm]])
+* Steeple of Silliness - [[File:SquareDoNothing.png|frameless|20px]] Peak Do Nothing ([[w:c:laabt:Steeple of Silliness|LAaBT: Layer 1 Subrealm]])
+* Tower of A Slanted Winpad - [[File:SquareDoNothing.png|frameless|20px]] Low-Mid Do Nothing ([[w:c:laabt:Tower of A Slanted Winpad|LAaBT: Layer 1 Subrealm]])
+* Tower of Wiggles - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([[w:c:laabt:Tower of Wiggles|LAaBT: Layer 1 Subrealm]])
+* Tower of Breaking To Pieces - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([[w:c:laabt:Tower of Breaking To Pieces|LAaBT: Layer 1 Subrealm]])
+* Tower of Sliding to Victory - [[File:SquareDoNothing.png|frameless|20px]] Mid-High Do Nothing ([[w:c:laabt:Tower of Sliding To Victory|LAaBT: Layer 1 Subrealm]])
+* Tower of Side To Side - [[File:SquareDoNothing.png|frameless|20px]] High Do Nothing ([[w:c:laabt:Tower of Side To Side|LAaBT: Layer 1 Subrealm]])
+* Tower of Ground To Sky - [[File:SquareDoNothing.png|frameless|20px]] High Do Nothing ([[w:c:laabt:Tower of Ground To Sky|LAaBT: Layer 1 Subrealm]])
+* Steeple of Off The Walls - [[File:SquareDoNothing.png|frameless|20px]] Peak Do Nothing ([[w:c:laabt:Steeple of Off The Walls|LAaBT: Layer 1 Subrealm]])
+* Tower of a Lengthy Fall - [[File:SquareDoNothing.png|frameless|20px]] High Do Nothing ([[w:c:laabt:Tower of a Lengthy Fall|LAaBT: Layer 2 ]])
+* Tower of Falling Down, But Up - [[File:SquareDoNothing.png|frameless|20px]] High Do Nothing ([[w:c:laabt:Tower of Falling Down, But Up|LAaBT: Layer 2 ]])
+* Tower of Inverted Neon - [[File:SquareDoNothing.png|frameless|20px]] Low-Mid Do Nothing ([[w:c:laabt:Tower of Inverted Neon|LAaBT: Layer 2 ]])
+* Tower of Spiralling Spectrum - [[File:SquareDoNothing.png|frameless|20px]] Low Do Nothing ([[w:c:laabt:Tower of Spiralling Spectrum|LAaBT: Layer 2 ]])
+* Tower of Spatial Anomaly - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([[w:c:laabt:Tower of Spatial Anomaly|LAaBT: Layer 2 ]])
+|-|
+TNZT=
+* Tower of Quadrant Falling - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([[w:c:tnzt:Tower of Quadrant Falling|TNZT: Ring 3]])
+* Tower of Falling and Descending - [[File:SquareDoNothing.png|frameless|20px]] High Do Nothing ([[w:c:tnzt:Tower of Falling and Descending|TNZT: Ring 1]])
+* Tower of Rising Chroma - [[File:SquareDoNothing.png|frameless|20px]] Peak Do Nothing ([[w:c:tnzt:Tower of Rising Chroma|TNZT: Ring 3]])
+* Tower of Going Down, Then Up - [[File:SquareDoNothing.png|frameless|20px]] High-Peak Do Nothing ([[w:c:tnzt:Tower of Going Down, Then Up|TNZT: Ring 4]])
+* Tower of Hasty Halves - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([[w:c:tnzt:Tower of Hasty Halves|TNZT: Bygone Isles]])
+* Steeple of Spring Ascension - [[File:SquareDoNothing.png|frameless|20px]] Low-Mid Do Nothing ([[w:c:tnzt:Steeple of Spring Ascension|TNZT: Easter Event 2021]])
+* Steeple of Delivering Presents - [[File:SquareDoNothing.png|frameless|20px]] Low-Mid Do Nothing ([[w:c:tnzt:Steeple of Delivering Presents|TNZT: Xmas Event 2020]])
+* Steeple of Cylindrical Antics - [[File:SquareDoNothing.png|frameless|20px]] Mid Do Nothing ([[w:c:tnzt:Steeple of Cylindrical Antics|TNZT: Temporal Village]])
+* Tower of Up to Victory - [[File:SquareDoNothing.png|frameless|20px]] Baseline(?) Do Nothing ([[w:c:tnzt:Tower of Up to Victory|TNZT: Fanon]])
+|-|
+Fictional=
+*[[Spire of Falling and that's it]] (SPoFati) - [[File:SquareDoNothing.png|frameless|20px]] High Do Nothing ([[Ring 0 (The Journey For Difficulties)|TJFD: Ring 0]])
+</tabber>
+
+==Trivia ==
+*<span style="color:#99d1e5;text">Do Nothing</span> was made by epic givemefreepets642, although Bruhshard1 revamped it.
+*The icon used to be made on MS Paint, the old icon got replaced by a better one.
+
+== Gallery ==
+<gallery>
+File:Do Nothing.png|Oldest image.
+File:Pixil-frame-0 (78).png|Another unofficial icon by jwklong.
+File:Unoffnothing.png|The 3rd unofficial icon (Made by Winlogon95)
+</gallery>
+
+==After You Completed <span style="color:#99d1e5;text">Do Nothing.</span>==
+You literally did nothing, congratulations! Incase you got bored, skip to {{Class1Difficulties|Effortless|20px}} [[w:c:jtoh:Effortless|Effortless]] already, please, I beg you. Although, if you wanna wait like a loser, just move on to [[File:Therobloxboss24 JustAir.png|frameless|30x30px]] [[Just Air]].
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:GCoCIaND Difficulties]]
+[[Category:Class 0]]
+[[Category:Icons made by ThenHedge]]
+[[Category:Two color icon]]
+[[Category:Possible]]
+[[Category:Starter Zone]]
+[[Category:Difficulty]]

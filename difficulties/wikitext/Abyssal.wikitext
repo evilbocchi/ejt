@@ -1,0 +1,67 @@
+{{ArticleTab|custom=Unofficial Revamp|blankgal=|custom2=}}{{Physically Impossible}}{{Classic}}
+
+{{NewDifficultyInfobox
+|title1 = <span style="background:linear-gradient(45deg,white, #49fd83, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> Abyssal </span>
+|image1 = 2020 09 21 Kleki.png
+|caption1 = Deep fried XD with a white background
+|class = [[:Category:Class 8|Baseline Class 8]]
+|previous = 
+{{Class11Difficulties|Agony}} [[Agony]]
+|next = 
+{{Class11Difficulties|Dilly Impossible}} [[Dilly Impossible]]
+|decal_id = [https://www.roblox.com/library/6830077307/Abyssal 6830077307]
+|original_name = Hell
+|previous_name = THE LIMIT
+|previous_sub_difficulty(ies) = [[Gar-Horrific]]
+|prior_previous=|creator(s)=[[User:Eisenhover|Eisenhover]]|previous_class(es)=Class 10|rating=78|type=*Difficulty
+*Former TFinD|class_range=[[:Category:Class 8|Baseline Class 8]]|official_music(s)=Unknown|difficulty_range=None|alt_previous=[[File:ILOVEYOU.png|30px]] [[ILOVEYOU]]}}
+
+==What is <span style="background:linear-gradient(45deg,white, #49fd83, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Abyssal'''?</span> ==
+<span style="background:linear-gradient(45deg,white, #49fd83, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Abyssal'''</span> is the third Class 8 difficulty and the final regular difficulty. This is the final barrier before Reality and Virtual Reality difficulties collide. This is the final infinity before everything starts over. This difficulty requires insane tricks and glitches to be able to pass.
+
+But this is not the end. Even though this is already extremely hard, the next difficulties are going to be even harder. There are no more regular obstacles after this. Only virtually & obviously impossible ones.
+
+This difficulty has a barrier of obstacles so impossible that [[MegaDeath]] is [[Win]] compared to this difficulty of true impossibility. 
+
+== Icon Representation ==
+This difficulty is represented by a white background with a very deep fried XD, representing the laughable impossibility obbies of this difficulty contain.
+
+==Obstacles==
+
+*1x200 stud wrap
+*15x15 stickout
+*150 stud wrap
+*170 stud long jump
+* Do the first jump of [[Dilly Impossible]], but nerfed by 10000%
+*10x20 stud wrap
+*100 stud stickout
+* 40 stud no jump wrap
+*5x5 stickout without jumping
+*Beat [[Agony]] but every platform is an instakill
+*Laugh clip through 40 studs
+*R15 flex walk glitch through 400 studs
+===Joke Obstacles===
+*Make [[User:Sanjay2133|Sanjay2133]] friends with 131073c
+==Towers with <span style="background:linear-gradient(45deg,white, #49fd83, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Abyssal'''</span> Difficulty == 
+
+*Box of The Limit (DCT Ring 13)
+*[https://www.roblox.com/games/5676980712/i-dare-you-too-try-beat-this A Box And A Half Of Ok]
+*Tower of Lagovernment part hELP
+== Trivia==
+
+*At one point in time, this difficulty was the hardest difficulty on the chart.
+**Now, it's one of the simplest.
+*<s>''If we count it 1 by 1, difficulties only, then '''Abyssal''' is the 200th difficulty on the chart.''</s>
+
+==Continuing from This Point ==
+Wow, congrats on beating this. Head to your 3rd legendary difficulty, [[Dilly Impossible]].
+
+__FORCETOC__
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 8]]
+[[Category:Emoticon Difficulties]]
+[[Category:Physically Impossible]]
+[[Category:Physically Impossible Difficulties]]
+[[Category:Classic]]

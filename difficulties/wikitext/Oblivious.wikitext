@@ -1,0 +1,64 @@
+__NOTOC__
+{{DISPLAYTITLE:<span style="background:linear-gradient(135deg,#723443,#080808,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Oblivious'''</span>}}
+{{Inclusion|reason=Allowed by staff}}
+{{Humanly Possible}}
+
+{{NewDifficultyInfobox|title1=Oblivious|class=3|type=• Unofficial
+• Sub-difficulty|previous=[[File:New_Treacherous_Icon.png|25x25px]] [[Treacherous]]|next=[[File:Anguish2.png|25x25px]] [[Anguish]]|alt_next=[[File:Misanthrope.png|25x25px]] [[Misanthrope]]|class_range=[[File:TheHumanLimit.png|25x25px]] [[The Human Limit]]|difficulty_range=Low-High|main_difficulty=[[File:Anguish2.png|25x25px]] [[Anguish]]|creator(s)=Astro6284|short_name=Oblivion (not to be confused with the Class 8 difficulty)|alt_names=Unready
+Untidy|date_added=12th March, 2023|image1=Oblivious.png|caption1=The difficulty keeps you unaware of the hazardness that is coming up.|decal_id=12927473747|rating=15.16}}
+
+==Introduction ==
+So you have really surpassed all of the possible difficulties you can do on your own, and you are in an final test before you arrive at the ''limit of obbying genuinely''. You have proved to others that you can truly surpass the final possible and genuine difficulty until the impossibilities of difficulties start. Well, I hope you are not ready for this.
+
+Obstacles in this difficulty may make you feel fine, until you really know how hard this could be. But you already know you are reaching the final point of possible and <s>fun</s> difficulties. At this point, you should give up on accomplishing this difficulty and instead learn about TAS. Any difficulty beyond this and [[File:TheHumanLimit.png|25x25px]] [[The Human Limit]] is required at least TAS, and only the most insane people can surpass these both difficulties. So, what even is the point of going past this? Just accept your way to flying to the top instead of showing true skills and going through the obstacles beyond this. You may be worried about going into [[File:TheHumanLimit.png|25x25px]] [[The Human Limit]], but you should be really worried because you won't be able to even surpass this difficulty.
+
+[[File:Oblivious.png|25x25px]] <span style="background:linear-gradient(135deg,#723443,#080808,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Oblivious'''</span> is an sub-difficulty of [[File:Anguish2.png|25x25px]] [[Anguish]] that is before [[File:TheHumanLimit.png|25x25px]] [[The Human Limit]], and after [[File:Anguish2.png|25x52px]] [[Anguish]]. The difficulty was made by Astro6284 on the 12th of March, 2023 as an blog post. The difficulty will test you for the last time before you reach the last genuine difficulty that someone has ever passed, which is The Human Limit. Your skill may be astonishing and suprisingly good, but the spike of these both sub-difficulties may make you fail. Now, lets show you the representation of the icon.
+
+==Icon Representation==
+The icon consists of a reddish-pink / coral outline with a few sloped corners on the outline. There also is a black square thats in the middle, with very faint text saying "??" which represents that the difficulty will confuse you into losing it. The font for the text is Gotham, and the outline color is nearly close to the icon of [[File:Anguish2.png|25x25px]] [[Anguish]].
+
+==Obstacles in this difficulty==
+
+=== Low===
+
+*12.85 stud jump (climbable)
+*12.6 stud jump (unclimbable)
+*11.3 stud wraparound (climbable)
+* 11.15 stud wraparound (unclimbable)
+
+===Mid===
+
+*12.9 stud jump (climbable)
+*12.65 stud jump (unclimbable)
+*11.4 stud wraparound (climbable)
+*11.25 stud wraparound (unclimbable)
+
+=== High===
+
+*13 stud jump (climbable)
+*12.75 stud jump (unclimbable)
+*11.55 stud wraparound (climbable)
+*11.35 stud wraparound (unclimbable)
+
+==Towers of / with this difficulty==
+
+===Towers of this difficulty ===  
+
+*Add your tower here.
+*Add your tower here.
+
+===Towers with this difficulty=== 
+
+*Add your tower here.
+* Add your tower here.
+
+== Gallery ==
+<gallery>
+File:ObliviousShape.png|Shape version
+</gallery>
+
+==Continuing on==
+Well done, you have actually made it. You have proven to me that you can surpass and possibly get higher than The Human Limit. Go on then, you can now move to The Human Limit, but be wary that things over there get way more cautious and hazardous. So, ''good luck.''
+[[Category:Unofficial]]
+[[Category:Difficulty]]
+[[Category:Class 3]]

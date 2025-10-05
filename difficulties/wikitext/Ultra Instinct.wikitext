@@ -1,0 +1,168 @@
+{{Classic}}
+{{Physically Impossible}}
+{{NewDifficultyInfobox
+|title1 = {{Class8Difficulties|Ultra Instinct}} Ultra Instinct {{Class8Difficulties|Ultra Instinct}}
+|image1 = <gallery>
+Screen_Shot_2020-08-09_at_9.36.26_PM.png | Current
+XD(1).png | Higher Quality
+</gallery>
+|caption1 = Triple upside down question marks, just like Immeasurable and Superior.
+|class = [[:Category:Class 7|Baseline Class 7]]
+|type = [[:Category:Difficulties|Normal Difficulty]]
+|previous =
+[[File:SquareSupreme.png|35px]] [[Supreme]]
+|next = [[File:Mort.png|30px]] [[Mortifying]]
+|decal_id = [https://www.roblox.com/library/6387184061/Ultra-Instinct-Difficulty 6387184061]
+|official_music(s) = [https://www.youtube.com/watch?v=j-p6snTktgg Sakuzyo - Instinct]
+|creator(s) =
+* [[User:Octogoat YT|Octogoat YT]] ''(Original)''
+* [[User:TasmanianRex|TasmanianRex]] ''(Revamp)''
+|date_added = 10 August 2020
+|revamp_date = 19 April 2022
+|prior_previous = Soon.
+|prior_next = Soon.
+|previous_sub_difficulty(ies) = Super Saiyan ''<span style="color:#FF0000" class="Level">[Deleted]</span>''
+|hex_color =
+* {{colorbox|#B3FBFB}} #B3FBFB ''(Background)''
+* {{colorbox|#090C0C}} #090C0C ''(Question Marks)''
+|rgb_color =
+* {{colorbox|#B3FBFB}} 179, 251, 251 ''(Background)''
+* {{colorbox|#090C0C}} 9, 12, 12 ''(Question Marks)''
+|cmyk_color =
+* {{colorbox|#B3FBFB}} 29%, 0%, 0%, 2% ''(Background)''
+* {{colorbox|#090C0C}} 25%, 0%, 0%, 95% ''(Question Marks)''
+|hsv_color =
+* {{colorbox|#B3FBFB}} 180%, 29°, 98° ''(Background)''
+* {{colorbox|#090C0C}} 180%, 25°, 5° ''(Question Marks)''
+|hsl_color =
+* {{colorbox|#B3FBFB}} 180%, 90°, 84° ''(Background)''
+* {{colorbox|#090C0C}} 180%, 14°, 4° ''(Question Marks)''
+|alt_previous=[[File:UnthinkableSquare.png|30px]] [[UNTHINKABLE]]|rating=61}}
+
+{{Background|File=XD (1).png|opacity=0|Size=2000px|Align=1}}
+
+== Overview ==
+'''[[Ultra Instinct]]''' is a Baseline [[:Category:Class 7|Class 7]] difficulty made by [[User:Octogoat YT|Octogoat YT]] and later revamped by [[User:TasmanianRex|TasmanianRex]]. It is between the [[File:SquareSupreme.png|25x25px]] [[Supreme]] or [[File:UnthinkableSquare.png|20x20px]] [[UNTHINKABLE]] and [[File:Mort.png|20x20px]] [[Mortifying]] difficulties, and its position was changed many times since the creation date. This difficulty used to have a sub difficulty named ''Super Saiyan'', but it was deleted due to rising standards of this wiki.
+
+Obstacles on this difficulty requires the player to perform unknown glitches, pixel perfect jumps that require TAS to perform, and requires time and effort to attempt this difficulty. Comparing this to [[File:SquareSupreme.png|25x25px]] [[Supreme]] or [[File:UnthinkableSquare.png|20x20px]] [[UNTHINKABLE]], this difficulty is thrice as challenging in terms of obstacles and glitches.
+
+You should attempt The Final Universe before this difficulty, but you need to practice hard. The challenge is that there is a lack of [[w:c:jtoh:Tower|Towers]] besides [[Main Difficulty Chart|Difficulty Chart Towers]], which they can take a while to complete. You should try to attempt the previous [[w:c:jtoh:Tower|Tower]] depending on the difficulty.
+
+== Icon Representation ==
+<tabber>
+|-|
+Current=
+<font size=5>Current Icon</font></br>
+'''Ultra Instinct'''’s icon represents a light blue background with three upside down question marks, comparing to {{Class5Difficulties|Unimaginable|20px}} [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]] and Superior icon design. These upside down question marks indicate that this difficulty has unknown glitches that is challenging to perform successfully.
+</tabber>
+
+== Obstacles ==
+<tabber>
+|-|
+Unclassified=
+<font size=5>Unclassified</font></br>
+* 1 x 10.5 stud lava stickout.
+* 20 stud moon wallhop
+* Frog jump to the Roblox’s farlands
+|-|
+Baseline=
+<font size=5>Baseline</font></br>
+* 19.5 stud jump
+* 18 stud jump ''(Unclimbable)''
+* 19 stud wraparound
+* 18.8 stud wraparound ''(Unclimbable)''
+* 18.2 stud highjump
+* 18 stud highjump ''(Without LHJ)''
+* 6.45 stud stickout
+|-|
+Low=
+<font size=5>Low</font></br>
+* 19.55 stud jump
+* 18.1 stud jump ''(Unclimbable)''
+* 19.125 stud wraparound
+* 18.9 stud wraparound ''(Unclimbable)''
+* 18.3 stud highjump
+* 18.1 stud highjump ''(Without LHJ)''
+* 6.456 stud stickout
+|-|
+Mid=
+<font size=5>Mid</font></br>
+* 19.625 stud jump
+* 18.25 stud jump ''(Unclimbable)''
+* 19.25 stud wraparound
+* 19 stud wraparound ''(Unclimbable)''
+* 18.33 stud highjump
+* 18.2 stud highjump ''(Without LHJ)''
+* 6.462 stud stickout
+|-|
+High=
+<font size=5>High</font></br>
+* 19.7 stud jump
+* 18.3 stud jump ''(Unclimbable)''
+* 19.4 stud wraparound
+* 19.125 stud wraparound ''(Unclimbable)''
+* 18.4 stud highjump
+* 18.25 stud highjump ''(Without LHJ)''
+* 6.468 stud stickout
+|-|
+Skyline=
+<font size=5>Skyline</font></br>
+* 20 stud jump
+* 18.5 stud jump ''(Unclimbable)''
+* 21.4 stud wraparound
+* 21 stud wraparound ''(Unclimbable)''
+* 18.5 stud highjump
+* 18.33 stud highjump ''(Without LHJ)''
+* 6.474 stud stickout
+</tabber>
+
+== Towers ==
+<tabber>
+|-|
+Obby Creator=
+<font size=5>Obby Creator</font></br>
+* WOoMY - [[Wicked Obstacle of Madness Yeeting|Wicked Obstacles of Madness Yeeting]]
+|-|
+Others (Unplaced)=
+<font size=5>Others (Unplaced)</font></br>
+* R64:UI - [https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 64: Ultra Instinct]
+|-|
+Fictional=
+<font size=5>''Fictional''</font></br>
+* ToILSD - Tower of Impossible, Light Speed Dodging
+* ToOID - Tower of Omega Impossibly Decisions
+* ToACS - Tower of Absolute Catastrophic Suffering
+* CoUID - Citadel of Ultra Instinctive Decisions
+* OoDEAD - Obelisk of Devastation, Extermination, Agonizing Demises
+</tabber>
+
+== Appearances ==
+<tabber>
+|-|
+Others (Unplaced)=
+<font size=5>Others (Unplaced)</font></br>
+* {{Class8Difficulties|Supreme}} OoEDA - [[Obelisk of Endless Difficulty Amplifying]] ''(Room 6)''
+* {{Class25Difficulties|TFinD}} GCoCIaND - [[Great Citadel of Custom, Impossible, and Normal Difficulties]] ''(Floor ???)''
+* {{Class25Difficulties|TFinD}} GCoHD - [[Great Citadel of Hellish Difficulties]] ''(Floor ???)''
+* {{Class25Difficulties|TFinD}} TIDC - [[The Infinite Difficulty Chart]] ''(Floor ???)''
+</tabber>
+
+== Trivia ==
+* This difficulty was a classic along with a few difficulties on JJT wiki dating back to 2020.
+
+== Gallery ==
+<gallery widths="100">
+File:XD (1).png|Revamp version by IHaveInternetIssues
+</gallery><gallery widths="120">
+File:Ultra Instinct NewNew.webp|Fanmade version by [[User:Tafgo7162|Tafgo7162]]
+</gallery>
+
+== Continuing from this point ==
+After you have beaten this difficulty, you should attempt [[File:Mort.png|20x20px]] [[Mortifying]] as your next difficulty. [[Wicked Obstacle of Madness Yeeting|Wicked Obstacles of Madness Yeeting]] is the only [[w:c:jtoh:Tower|Tower]] with this difficulty, so attempting this [[w:c:jtoh:Tower|Tower]] would prepare you for the next difficulty. 
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 7]]
+[[Category:Difficulty]]
+[[Category:Octo's Pages of Awesomeness]]
+[[Category:Super Important Page]]

@@ -1,0 +1,63 @@
+<div style="box-sizing:border-box; border-radius:15px;border:5px solid red;overflow:hidden;background:linear-gradient(90deg,black,maroon); padding: 0.8em">
+{{Humanly Impossible}}{{Quote (IPeedMyPants' Version)|quote=I will force you to be "Σ" (Sigma) for the rest of your life!|quoter=<span style="color:#FF0000">Inimical}}
+
+==What is [[File:Inimical.PNG|frameless|30x30px]] <span style="color:#FF0000">'''Inimical'''</span>?==
+{{NewDifficultyInfobox|caption1=|class=[[:Category:Class 5|High Class 5]]|creator(s)=[[User:IdklolXDXDXD|IdklolXDXDXD]] (Original)|date_added=7 March 2022|date_removed=Nope|image1=Inimical.PNG|next=[[File:UltimateNew.jpg|30x30px]] [[Ultimate]]|decal_id=18399287387|title1=<span style="color:#FF0000">Inimical|type=Sub Difficulty|previous=[[File:MonstrousNew.jpg|30x30px]] [[Monstrous|<span style="color:#FF0000">Monstrous</span>]]|revamp_date=16/04/2022 (By Turbomaxwel)|full_name=<span style="color:#FF0000">Inimical</span>|alt_next=[[File:Horrendous.png|30x30px]] [[Horrendous]]|rating=40.33|main_difficulty=[[File:UltimateNew.jpg|30x30px]] [[Ultimate]]}}
+[[File:Inimical.PNG|frameless|30x30px]] <span style="color:#FF0000">'''{{PAGENAME}}'''</span> is a Class 5 sub-difficulty. This sub-difficulty is beyond humanly impossible, and never will be humanly possible. Trying any jump in this difficulty is a waste of time. Even if you try your hardest to even complete a jump, you will fail to do so. But don't worry, that's my goal isn't it? 
+
+== Icon Representation==
+[[File:Inimical.PNG|frameless|30x30px]] <span style="color:#FF0000">'''{{PAGENAME}}'''</span>'s icon looks similar to a lot of the icons of other Class 5 difficulties. It has a gradient from red to black. Staying true to the other difficulties in this section, it also contains the Greek letter 'Σ', known as 'Sigma' in the middle.
+==Obstacles in this difficulty. ==
+
+===Low '''{{PAGENAME}}'''===
+*Very high moon wallhops.
+*MACCs.
+*13.1-13.4 Stud long Wraps.
+*Survive a 75 Damage Killbrick spinner, that goes at 0.92 Speed.
+*14.7-14.9 Stud long Jumps.
+*5.5 Stud long Stickouts.
+*Evuuz Fling 23 studs.
+*200 Stud long Glitchwrap.
+*Lava jumps, but there are 5 Instant-Killbrick spinners that go at 0.001 Speed in random places.
+*Complete [[File:MonstrousNew.jpg|frameless|30x30px]] [[Monstrous]] in 5 minutes.
+
+=== Mid '''{{PAGENAME}}'''===
+*Like, a way too high Moon Wallhop.
+*Evuus Fling 24 studs.
+*203 Stud long Glitchwrap.
+*Complete [[File:MonstrousNew.jpg|frameless|30x30px]] [[Monstrous]] in 4.8 minutes.
+*5.6 Stud long Stickouts.
+*Even more MACCs.
+*15-15.2 Stud long jumps.
+*Lava jumps, but there are 6 Instant-Killbrick spinners that go at 0.001 Speed in random places.
+*13.5-13.7 Stud long wraps.
+
+===High '''{{PAGENAME}}'''===
+*A ton more MACCs.
+*An extremely high Moon Wallhop.
+* Survive a 80 Damage Killbrick spinner, that goes at 1 Speed.
+* 13.8-14 Stud long wraps.
+*15.3-15.5 Stud long jumps
+*Complete [[File:MonstrousNew.jpg|frameless|30x30px]] [[Monstrous]] in 4.61 minutes.
+* 5.7 Stud long Stickouts.
+*Lava jumps, but there are 7 Instant-Killbrick spinners that go at 0.001 Speed in random places.
+*Evuuz fling 25 studs.
+
+==Towers in this Difficulty==
+* [https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 54.33: Inimical]
+* (Fictional towers are forbidden here.)
+=== Towers with this difficulty===
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*''[[Monolith of The Endless Difficulty Needle: Revamp]]'' (MoTEDN:R)
+*[[Great Monolith of Every EJT Difficulty]] (GMoEED)
+==Continuing from this point==
+You haven't completed this difficulty in reality, have you? Well. I don't care. Since you "triumphed" over this difficulty, your next goal would to be "completing" [[File:Horrendous.png|30x30px]] [[Horrendous]]. Good luck with that.
+
+{{DifficultiesNavbox}}
+[[Category:Class 5]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Humanly Impossible]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]

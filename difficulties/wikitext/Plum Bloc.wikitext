@@ -1,0 +1,87 @@
+{{DISPLAYTITLE: <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">''Plum Bloc''</span>}}  
+<div style="border: 3px solid #eb4181;margin:0em;padding:10px;">   
+{{Physically Impossible}}   
+{{NewDifficultyInfobox|title1=<span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">''Plum Bloc''</span>|caption1=bruh|class=High Class 7|rating=72|type=*Normal Difficulty
+*Joke Difficulty|previous=[[File:HopelessNewest.png|frameless|30x30px]] [[Hopeless]]|next=[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|frameless|30x30px]] [[Infinity]]|date_removed=5/21/2021|removal_reason=the page was just bad|revival_date=6/19/2023|prior_previous=[[File:Spongebob2.jpeg|frameless|30x30px]] [[User blog:EpicTheGamer2014/Spongebob|Spongebob]]|prior_next=[[†hê †rµê Çhåð†ï¢]]|image1=<gallery>
+PlumBlocNew.png | Current
+PlumBloc.png | Original
+</gallery>|class_range=High Class 7|decal_id=13855654390|official_music(s)=None|difficulty_range=Baseline-Peak|alt_next=[[File:Placeholder white.PNG|30px]] [[Gameifying]]|sub_difficulty(ies)=[[File:Placeholder white.PNG|25px]] [[Gameifying]]}} 
+==What is [[File:PlumBlocNew.png|frameless|40x40px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span>?==  
+[[File:PlumBlocNew.png|frameless|30x30px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span> is a High Class 7 difficulty. It is placed in-between [[File:HopelessNewest.png|frameless|30x30px]] [[Hopeless]] and [[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|frameless|30x30px]] [[Infinity]], with a rating of 72. Funny name, huh? Like, what's with the plums? Those questions are not necessary. It '''is''' necessary to tell you that you really shouldn't even try with this thing.    
+
+This difficulty is physically impossible, meaning nothing, no TAS, no item, not even exploits can help you, because all of them are banned. If you use anything along those lines, you'd be kicked from the game. ''Why even attempt this difficulty, when you know how terrible it'll get?''   
+==[[File:PlumBlocNew.png|frameless|40x40px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span> - Icon Representation== 
+[[File:PlumBlocNew.png|frameless|30x30px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span>'s icon has two versions. 
+===Current ===
+The icon shows text that says "plum bloc" in Arial font with a white shadow. There are two darker lines at the top, and two at the bottom. The whole thing has a white vignette over it.
+===Original===
+The old icon shows the words "Plum bloc", and has a more saturated line at the top. The whole thing is tinted pink and, like the current icon, has a white vignette. The only reason this icon was discarded was because it is rectangular.
+==[[File:PlumBlocNew.png|frameless|40x40px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span> - Obstacles== 
+  
+===Baseline [[File:PlumBlocNew.png|frameless|35x35px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span>===  
+  
+*95 stud jump. (Climbable)
+*93.5 stud jump. (Unclimbable)
+*93 stud wrap.
+*75 stud stickout.
+*88 stud wrap raised by 4 studs.
+*90 stud cylinder wrap.
+  
+===Low [[File:PlumBlocNew.png|frameless|35x35px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span>=== 
+  
+*95.5 stud jump. (Climbable)
+* 94 stud jump. (Unclimbable)
+*93.5 stud wrap.
+*75.5 stud stickout.
+*88.5 stud wrap raised by 4 studs.
+*90.5 stud cylinder wrap.
+  
+===Middle [[File:PlumBlocNew.png|frameless|35x35px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span>===  
+  
+*96 stud jump. (Climbable)
+*94.5 stud jump. (Unclimbable)
+*94 stud wrap.
+* 76 stud stickout.
+*89 stud wrap raised by 4 studs.
+*91 stud cylinder wrap.
+  
+===High [[File:PlumBlocNew.png|frameless|35x35px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span>=== 
+  
+*96.5 stud jump. (Climbable)
+* 95 stud jump. (Unclimbable)
+*94.5 stud wrap.
+*76.5 stud stickout.
+*89.5 stud wrap raised by 4 studs.
+*91.5 stud cylinder wrap.
+  
+===Peak [[File:PlumBlocNew.png|frameless|35x35px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span>=== 
+  
+*97 stud jump. (Climbable)
+*96 stud jump. (Unclimbable)
+*95 stud wrap.
+*77 stud stickout.
+*90 stud wrap raised by 4 studs.
+*92 stud cylinder wrap.
+
+==[[File:PlumBlocNew.png|frameless|40x40px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span> - Towers==
+
+===Fictional===
+*Tower of Plum (Middle Plum Bloc)
+
+===Non-Fictional===
+
+*[[Plum Destroyer]]
+
+==[[File:PlumBlocNew.png|frameless|40x40px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span> - Trivia==
+
+*This difficulty was originally a sub-difficulty of [[File:60mmm.jpg|frameless|30x30px]] [[User blog:EpicTheGamer2014/60mmm|60mmm]], but it was deleted back in 2021. It has now been revived in 2023, as a normal difficulty in High Class 10, and now is placed at Class 7.
+*I actually do not know the source of the unedited version of the old icon.
+
+==[[File:PlumBlocNew.png|frameless|40x40px]] <span style="text-shadow: 0 0 4px #d78bd4,0 0 10px #c68bd4 ; color:#eb3949">'''''Plum Bloc'''''</span> - Trivia==
+You're becoming way too persistent. If you want to keep being useless, go on to [[File:HopelessNewest.png|frameless|30x30px]] [[Hopeless]].{{MainDifficultiesNavbox}}
+[[Category:Physically Impossible]]
+[[Category:Difficulty]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Physically Impossible Difficulties]]
+[[Category:Class 7]]

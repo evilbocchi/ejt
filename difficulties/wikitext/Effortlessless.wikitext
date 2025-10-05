@@ -1,0 +1,193 @@
+{{JET}}
+{{Humanly Possible}}
+<br>
+==[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span> - Introduction==
+{{NewDifficultyInfobox|title1=[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span>|image1=<gallery>
+EffortlesslessIconOoIDC.png|OoIDC
+EffortlesslessOoEDA.png|OoEDA
+</gallery>|caption1=The final roadblock before the JToH difficulties.|class=[[:Category:Class 1|Peak Class 1]]|type=[[:Category:JET Difficulties|JET Difficulty]]|previous=[[File:BabyingSDC.png|30px]] [[Babying]]|next={{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]|difficulty_range=Baseline - Peak|decal_id=129551657497872|sub_difficulty(ies)={{Class0Difficulties|Gravel}} [[Gravel]]|creator(s)=*[[User:RainbowmanPL|RainbowmanPL]] (Original Creator, JET Wiki)
+*[[User:Krazycoolguy|Krazycoolguy]] (Original Creator, JJT Wiki)
+*[[User:Viranenthusiast|Viranenthusiast]] (Revamper)|date_added=*05/01/2020 (JET Page Creation Date)
+*20/05/2022 (JJT Page Creation Date)|alt_previous=|rating=-1|class_range=Peak|hex_color=#99d9ea|rgb_color=153, 217, 234|cmyk_color=36%, 2%, 7%, 0%|hsl_color=193, 66, 76|rgba_color=153, 217, 234, 1|alt_next={{Class0Difficulties|Gravel}} [[Gravel]]}}
+[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Effortlessless'''</span> is a '''EET''' difficulty, located in Peak Class 1. This difficulty is the final barrier before the EToH difficulties, being easier than {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]], but harder than [[File:Magnificent Current.png|30px]] [[Magnificent]]. This is the first difficulty with actual obstacles in it, just imagine any obstacle that could be beaten by anybody. 
+
+It is not a joke like most of the other lower difficulties, but rather now can be played by beginners who have little to no experience with obbies. You won't struggle here, and you will easily get to the next difficulty. This is like a "tutorial", because there are now new jumps instead of simply holding keys or just existing. 
+
+You're likely going to win, most people do not find this as a challenge. This is the difficulty a newbie should start at if they're experienced at Roblox. Difficulties placed lower than this may be a good training tool for AI.
+
+==Icon Representation - [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span>==
+[[File:EffortlesslessIconOoIDC.png|center|frameless|60x60px]]
+It's represented with the color Pastel Blue (#99D9EA) with 100% vibrancy.
+[[File:EffortlesslessOoEDA.png|center|frameless|60x60px]]
+This icon is simply a teal color (#0EFFD4).
+[[File:EffortlesslessDifficulty.jpg|center|frameless|60x60px]]
+This color is a vibrant, light purple (#AAABED). Very simple, right?
+
+==Obstacles in this difficulty==
+
+===Baseline [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span>===  
+
+*1.9 raised by 0.9 stud jump (Unclimbable).
+* 2.1 raised by 1.1 stud jump (Climbable).
+*0.07 stud wraparounds (Unclimbable).
+*0.075 stud wraparounds (Unclimbable).
+*4.5 stud high-jumps.
+
+====Special Obstacles==== 
+
+*Slow Conveyors, around 5 speed.
+*Walking around a hole on a 4.1 stud tightrope.
+
+===Low [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span>===    
+
+* 2 raised by 1 stud jump (Unclimbable).
+*2.2 raised by 1.2 stud jump (Climbable).
+* 0.08 stud wraparounds (Unclimbable).
+*0.085 stud wraparounds (Unclimbable).
+*4.6 stud high-jumps.
+
+====Special Obstacles==== 
+
+*Slow Conveyors, around 4.75 speed.
+*Walking around a hole on a 4 stud tightrope.
+
+===Mid [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span>===
+
+*2.1 raised by 1.1 stud jump. (Unclimbable)
+*2.3 raised by 1.3 stud jump. (Climbable)
+* 0.09 stud wraparounds. (Unclimbable)
+*0.095 stud wraparounds. (Unclimbable)
+*4.7 stud high-jumps.
+
+====Special Obstacles====    
+
+*Slow Conveyors, around 4.5 speed.
+*Walking around a hole on a 3.9 stud tightrope.
+
+===High [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span>===  
+
+*2.2 raised by 1.2 stud jump. (Unclimbable)
+*2.4 raised by 1.4 stud jump. (Climbable)
+*0.1 stud wraparounds. (Unclimbable)
+*0.105 stud wraparounds. (Unclimbable)
+*4.8 stud high-jumps.
+
+====Special Obstacles====  
+
+*Slow Conveyors, around 4.25 speed.
+*Walking around a hole on a 3.8 stud tightrope.
+
+===Peak [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span>===
+
+*2.3 raised by 1.3 stud jump (Unclimbable).
+*2.5 raised by 1.5 stud jump (Climbable).
+*0.11 stud wraparounds (Unclimbable).
+*0.115 stud wraparounds (Unclimbable).
+*4.9 stud high-jumps.
+
+====Special Obstacles====
+
+*Slow Conveyors, around 4 speed.
+*Walking around a hole on a 3.7 stud tight rope.
+
+==Towers with [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, skyblue, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Effortlessless</span> as its difficulty==
+''Note: Towers listed here are likely inaccurate.''
+<tabber>
+|-|Non-Fictional=
+=== Non-Fictional===  
+*[[w:c:jtohs-easiest-towers:Tower of Slow And Steady|Tower of Slow and Steady]] (ToSAS)
+*[[w:c:jtohs-easiest-towers:Citadel of Relaxing Meditation|Citadel of Relaxing Meditation]] (CoRM)
+*[[The Noob Zone]] (Tower) (TNZ)
+*[[Spire of Calming Jumps]] (SoCJ)
+*[[Not Even a Getting Pretty Funky]] (NEaGPF)
+*[[Tower of Frameless Escalation]] (ToFE)
+*[[Citadel of Serious Darkness]] (CoSD)
+*[[Citadel of Blueberry Berserk]] (CoBB)
+*[[Obelisk of Noob Zone Difficulties]] (OoNZD)
+*[[Citadel of a Basic Journey]] (CoaBJ)
+
+|-|The Noob Zone Towers=
+===The Noob Zone Towers===
+*[[w:c:tnzt:Tower of Getting Pretty Funky|Tower of Getting Pretty Funky]] (ToGPF) (Ring 1)
+*[[w:c:tnzt:Tower of Pretty Creative Chambers|Tower of Pretty Creative Chambers]] (ToPCC) (Ring 2)
+*[[w:c:tnzt:Tower of Increasingly Creative Rooms|Tower of Increasingly Creative Rooms]] (ToICR) (Ring 4)
+*[[w:c:tnzt:Citadel of Easiest Difficulty Chart|Citadel of Easiest Difficulty Chart]] (CoEDC) (Ring 1)
+*[[w:c:tnzt:Citadel of Boring Outcomes|Citadel of Boring Outcomes]] (CoBO) (Ring 2)
+*[[w:c:the-noob-zone-towers:Tower of Overachieving|Tower of Overachieving]] (ToO) (Ring 3)
+*[[w:c:tnzt:Tower of Turbulent Scaling|Tower of Turbulent Scaling]] (ToTS) (Bygone Isles)
+*[[w:c:tnzt:Citadel of Perplexing Exercises|Citadel of Perplexing Exercises]] (CoPE) (Bygone Isles)
+*[[w:c:tnzt:Mini Tower of Solitary Sorrow|Mini Tower of Solitary Sorrow]] (MToSS) (Bygone Isles)
+*[[w:c:tnzt:Tower of Wedges|Tower of Wedges]] (ToW) (Ring 2)
+*[[w:c:tnzt:Tower of Fair Button Usage|Tower of Fair Button Usage]] (ToFBU) (Ring 5)
+
+===Event/Fanon===
+*[[w:c:the-noob-zone-towers:Steeple of Desolate Dawn|Steeple of Desolate Dawn]] (SoDD) (Halloween 2021)
+*[[w:c:tnzt:Egg Steeple|Egg Steeple]] (ES) (TNZT Monthly Event)
+*[[w:c:tnzt:Steeple of Icy Hiking|Steeple of Icy Hiking]] (SoIH) (Xmas 2021) (Playable in [[w:c:tbp:Steeple of Icy Hiking|TBP]] as [[Medium]])
+*[[w:c:tnzt:Steeple of The Big Blizzard|Steeple of The Big Blizzard]] (SoTBB) (Xmas 2020)
+*[[w:c:the-noob-zone-towers:Steeple of Cool Escalation|Steeple of Cool Escalation]] (SoCE) (Fanon)
+*[[w:c:the-noob-zone-towers:Tower of Whatever This Is|Tower of Whatever This Is]] (ToWTI) (Fanon)
+*[[w:c:tnzt:Not Even a Bridge Crossing|Not Even a Bridge Crossing]] (NEaBC) (Fanon)
+*[[w:c:tnzt:Tower of Effortlessless Jumps|Tower of Effortlessless Jumps]] (ToEJ)
+
+|-|FALT=
+===FNA_Fs Absurdly Long Towers===
+'''They're not actually effortlessless, all of them are low effort joke towers.'''
+*[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] [[room of waiting a while 0]] (rowaw0) (Map 1)
+*[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] [[Tower of King of The Speedy]] (ToKoTS) (Map 1)
+*[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] [[Great Citadel of Existance]] (GCoE) (Map 1)
+*[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] [[Just Click 1 x 2 x 3 x 4 x 5 x 6 x 7 x 8 x 9 x 10 x 11 x 12 x 13 x 14 / 15 x 16 / 17 / 18 / 19 / 20 / 21 Times]] (JC1x2x3x4x5x6x7x8x9x10x11x12x13x14/15/16/17/18/19/20/21T) (Map 1)
+*[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] [[Citadel of 100 Speed Elevator]] (Co100SE) (Map 1)
+*[[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] [[Megalith of Sadly the truth]] (MeoStt) (Map 1)
+
+|-|Fictional=
+===Fictional===     
+
+*Room of Tranquil Adventures (RoTA)
+*Tower of Difficulty Chart: Relaxing Nerf (ToDC:RN)
+
+===Unknown===
+'''Not known if they are fictional or real.'''
+*Citadel of The Entire Class 0 Difficulty Chart (CoTEC0DC)
+*Tower of The Main Class 0 Difficulty Chart (ToTMC0DC)
+<!-- *Tower of Speedruns (ToS) most likely referring to tnzt's tower of speed runs which isnt even effortlessless anymore -->
+
+|-|
+Upcoming=
+===Upcoming Towers===
+*[[w:c:laabt:Effortlessless|Citadel of Illumination]] (CoI) (LAaBT Layer 2 Subrealm)
+
+|-|
+Other Appearances=
+===Other Appearances===
+'''Note: Add any tower that this difficulty appears in, as long as they aren’t already listed here. This difficulty is very popular!'''   
+
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Impossible Difficulty Chart]] (OoIDC) [Finale of The Noob Zone]
+*''Obelisk of Nightmarish Difficulty Ascension'' (OoNDA) [Floor 1]
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Custom, Impossible and Normal Difficulties]] (GCoCIaND)
+*''Monolith of Every Actual Difficulty Imaginable'' (MoEADI) [Floor Number Not Counted]
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]] (MoDDA) (Floor Number Not Counted]
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Endless Difficulty Amplifying]] (OoEDA)
+*{{Class4Difficulties|Why}} [[Citadel of Suffering]] (CoS)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Hellish Difficulties]] (GCoHD) [Floor 6]
+*[[File:New DI Image.JPG|frameless|30x30px]] [[Great Citadel of Beyond Impossible Difficulties]]
+</tabber>
+==Trivia== 
+
+*In JET, it is the equivalent of  {{Class2Difficulties|Remorseless}} {{jtoh|Remorseless}}. 
+**Is Gravel the equivalent of [[C0RrUpT]], then?
+*This was revamped on the 4th of July by [[User:Viranenthusiast|Viranenthusiast]]. 
+*Because this difficulty includes "less" twice, they cancel out so this difficulty could also be called "Effort", which is very different from what this difficulty is supposed to be. You could also argue it would be [[File:Effortful.png|30x30px]] [[Effortful]], which is even further off.
+*
+
+== Continuing from this point==
+Congratulations, after beating this difficulty, you’re finally ready for the EToH difficulties. Start with {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]. However, you may want to complete the sub-difficulties of this, which you are free to do. If so, {{Class0Difficulties|Gravel}} [[Gravel]] is your best bet at this point.
+
+{{MainDifficultiesNavbox}}
+
+<sup>Credit to JET wiki.</sup>
+[[Category:Class 1]]
+[[Category:Difficulties]]
+[[Category:Revamped Difficulty]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]

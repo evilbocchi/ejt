@@ -1,0 +1,150 @@
+{{DISPLAYTITLE:<span id="Terrifying">'''Terrifying'''</span>}}__NOEDITSECTION____NOTOC__{{DifficultyTab
+|Terrifying
+|textcolormain=000
+|difficulty1=Extreme
+|diffcolor1=0389FF
+|textcolor1=FFF
+|difficulty2=Catastrophic
+|diffcolor2=FFF
+|textcolor2=000
+|type=Soul Crushing}}
+{{DifficultyInfobox
+|title1=Terrifying
+|image1=terricon.png
+|type=[[Soul Crushing|Soul-Crushing]]
+|previous={{Difficulty|Extreme}} [[Extreme|<span id="Extreme">'''Extreme'''</span>]]
+|next={{Difficulty|Cata}} [[Catastrophic|<span id="Catastrophic">'''Catastrophic'''</span>]]
+|rbg_color=DC: 0, 155, 155
+Menus: 0, 255, 255
+|hex_color=DC: #00FFFF
+Menus: #00FFFF
+|cmyk_color=DC: 100%, 0%, 0%, 39%
+Menus: 100%, 0%, 0%, 0%
+|hsv_color=DC: 180°, 100%, 60%
+Menus: 180°, 100%, 100%
+|hsl_color=DC: 180°, 100%, 30%
+Menus: 180°, 100%, 50%
+|previous_name=GODSPEED
+|roblox_name=Menus: Toothpaste}}
+{{Difficulty|Terri|20px}} <span id="Terrifying">[[Terrifying]]</span> is a [[Soul Crushing]] [[difficulty]] in '''EToH''', represented by a turquoise/cyan 5-pointed star. It is the second hardest canon difficulty in the game. Obstacles in [[towers]] of this difficulty are even harder than those in {{Difficulty|Extreme|20px}} [[Extreme|<span id="Extreme">'''Extreme'''</span>]] towers. All of these towers have very few legitimate completions.  
+
+Towers of this difficulty require a large amount of skill to beat. As these towers are known to be extremely difficult and can take a long time to complete, and beating one of them is a very great achievement. 
+
+There are currently 11 <span id="Terrifying">[[Terrifying]]</span> towers in the game (18 if you are counting deconfirmed towers, {{Emblem|PoM|20px}} [[Pit of Misery]] and, [[event]] [[steeple]]s/[[towers]].) Previously, [[Thanos Tower]] was at this difficulty but was subsequently lowered to [[Insane|<span id="Insane">'''Insane'''</span>]]. [[Tower of Elongated Runs]], [[Tower of Generation Failure]], [[Tower of Augmented Misery]], and [[Tower of Vindictive Maneuvers]] were all previously <span id="Terrifying">[[Terrifying]]</span> but were changed to [[Catastrophic|<span id="Catastrophic">'''Catastrophic'''</span>]]. [[Tower of Externalizing Insanity]] was previously <span id="Terrifying">[[Terrifying]]</span> for a few months but was moved down to <span id="Extreme">'''Extreme'''</span>. [[100M Revenge]] was briefly listed as <span id="Terrifying">[[Terrifying]]</span> until it was nerfed to <span id="Extreme">'''Extreme'''</span>. [[Tower of Fractured Memories]] was previously <span id="Extreme">'''Extreme'''</span> but was moved to this difficulty.
+[[Tower of Tee Hee Time]] has a challenge where all nets in the tower are removed, making it <span id="Terrifying">[[Terrifying]].</span>
+{{Header|Towers in this Difficulty (Organized by Realm)}}
+<tabber>
+Mount Rad=
+<div align=center><font size=5>{{Emblem|Unknown}} [[Mount Rad]] {{Emblem|Unknown}}</font></div>
+*''SS - [[Sans Steeple]] - Terrifying (10.??)'' (Deconfirmed)
+|-|
+Ring 4=
+<div align=center><font size=5>{{Emblem|R4}} [[Ring 4]] {{Emblem|R4}}</font></div>
+*ToI - [[Tower of Inception]] - High-Peak Terrifying (10.87)
+|-|
+Ring 5=
+<div align=center><font size=5>{{Emblem|R5}} [[Ring 5]] {{Emblem|R5}}</font></div>
+*ToFN - [[Tower of Frightening Nightmares]] - Bottom-Low Terrifying (10.14)
+|-|
+Ring 6=
+<div align=center><font size=5>{{Emblem|R6}} [[Ring 6]] {{Emblem|R6}}</font></div>
+*ToIM - [[Tower of Impossible Movement]] - Bottom Terrifying (10.10)
+|-|
+Ring 9=
+<div align=center><font size=5>{{Emblem|R9}} [[Ring 9]] {{Emblem|R9}}</font></div>
+*ToJE - [[Tower of Journey's End]] - Mid Terrifying (10.50)
+*ToNS - [[Tower of Nervous Sweating]] - Mid-High Terrifying (10.60)
+*''ToIG - [[Tower of Inferno Galore]] - Mid-High Terrifying (10.60)'' (Deconfirmed)
+|-|
+Zone 2=
+<div align=center><font size=5>{{Emblem|Z2}} [[Zone 2]] {{Emblem|Z2}}</font></div>
+*''CoLDC - [[Citadel of Latest Difficulty Chart]]'' (Deconfirmed)
+|-|
+Zone 5=
+<div align=center><font size=5>{{Emblem|Z5}} [[Zone 5]] {{Emblem|Z5}}</font></div>
+*ToAR - [[Tower of Alien Radiance]] - Low Terrifying (10.33)
+|-|
+Zone 6=
+<div align=center><font size=5>{{Emblem|Z6}} [[Zone 6]] {{Emblem|Z6}}</font></div>
+*ToMM - [[Tower of Micro Management]] - Low Terrifying (10.33)
+|-|
+Zone 7=
+<div align=center><font size=5>{{Emblem|Z7}} [[Zone 7]] {{Emblem|Z7}}</font></div>
+*ToFM - [[Tower of Fractured Memories]] - Baseline Terrifying (10.00)
+*ToUA - [[Tower of Uncanny Agony]] - High Terrifying (10.76)
+|-|
+Zone 9=
+<div align=center><font size=5>{{Emblem|Z9}} [[Zone 9]] {{Emblem|Z9}}</font></div>
+*ToWWW - [[Tower of Wildly Wacky Wonders]] - Mid-High Terrifying (10.66)
+|-|
+Zone 10=
+<div align=center><font size=5>{{Emblem|Z10}} [[Zone 10]] {{Emblem|Z10F}}</font></div>
+*ToTHT:TPR - [[Tower of Tee Hee Time|Tower of Tee Hee Time: The Perfect Run]]
+*ToCaV - [[Tower of Complexity and Volatility]] - Bottom-Low Terrifying (10.15)
+|-|
+Events=
+{{#tag:tabber
+|April Fools 2021=
+<div align=center><font size=5>{{Emblem|AF2021}} [[April Fools 2021]] {{Emblem|AF2021}}</font></div>
+*ToDB - [[Tower of Da Baby]] - Low-Mid Terrifying (10.35)
+{{!}}-{{!}}
+28.5M Event=
+<div align=center><font size=5>{{Emblem|Unknown}} [[28.5M Event]] {{Emblem|Unknown}}</font></div>
+*''28.5MW - [[28.5 Million Withdrawal]] - Terrifying (10.??)'' (Scrapped)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*Tom - [[Tower of muumitalo]] - Low Terrifying (10.24)
+*MIKU - [[Maybe I Know U]] - Peak Terrifying (10.90)
+}}
+|-|
+Pit of Misery= 
+<div align=center><font size=5>{{Emblem|PoM}} [[Pit of Misery]] {{Emblem|PoM}}</font></div>
+*ToXIC - [[Tower of Xerically Infuriating Calamity]] - Low Terrifying (10.27)
+*ToOLC - [[Tower of Overthinking Life Choices]] - High-Peak Terrifying (10.79)
+*WAT - [[Was A Tower]] - Peak Terrifying (10.99)
+|-|
+Tower Rushes=
+<div align=center><font size=5>{{Difficulty|TowerRush}} [[Tower Rush]]es {{Difficulty|TowerRush}}</font></div>
+*Z1TR - [[Zone 1 Tower Rush]] - Bottom-Low Terrifying (10.16)
+*Z10TR - [[Zone 10 Tower Rush]] - Mid Terrifying (10.46)
+*TLSTR - [[Time-Lost Sands Tower Rush]] - Low-Mid Terrifying (10.30)
+*TLTTR - [[Time-Lost Tempest Tower Rush]] - Low Terrifying (10.36)
+</tabber>
+{{Header|Towers in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+* {{emblem|Z7|20px}} ToFM - [[Tower of Fractured Memories]] - Baseline Terrifying (10.00) {{emblem|Z7|20px}}
+* {{emblem|R6|20px}} ToIM - [[Tower of Impossible Movement]] - Bottom Terrifying (10.10) {{emblem|R6|20px}}
+* {{emblem|R5|20px}} ToFN - [[Tower of Frightening Nightmares]] - Bottom-Low Terrifying (10.14) {{emblem|R5|20px}}
+* {{emblem|Z10|20px}} ToCaV - [[Tower of Complexity and Volatility]] - Bottom-Low Terrifying (10.15) {{emblem|Z10F|20px}}
+* {{emblem|Z5|20px}} ToAR - [[Tower of Alien Radiance]] - Low Terrifying (10.33) {{emblem|Z5|20px}}
+* {{emblem|Z6|20px}} ToMM - [[Tower of Micro Management]] - Low Terrifying (10.33) {{emblem|Z6|20px}}
+* {{emblem|R9|20px}} ToJE - [[Tower of Journey's End]] - Mid Terrifying (10.50) {{emblem|R9|20px}}
+* {{emblem|R9|20px}} ToNS - [[Tower of Nervous Sweating]] - Mid-High Terrifying (10.60) {{emblem|R9|20px}}
+* {{emblem|Z9|20px}} ToWWW - [[Tower of Wildly Wacky Wonders]] - Mid-High Terrifying (10.66) {{emblem|Z9|20px}}
+* {{emblem|Z7|20px}} ToUA - [[Tower of Uncanny Agony]] - High Terrifying (10.76) {{emblem|Z7|20px}}
+* {{emblem|R4|20px}} ToI - [[Tower of Inception]] - High-Peak Terrifying (10.87) {{emblem|R4|20px}}
+|-|
+Non-Canon Towers=
+* {{emblem|PoM|20px}} ToXIC - [[Tower of Xerically Infuriating Calamity]] - Low Terrifying (10.27) {{emblem|PoM|20px}}
+* {{emblem|PoM|20px}} ToOLC - [[Tower of Overthinking Life Choices]] - High-Peak Terrifying (10.79) {{emblem|PoM|20px}}
+* {{emblem|PoM|20px}} WAT - [[Was A Tower]] - Peak Terrifying (10.99) {{emblem|PoM|20px}}
+|-|
+Event Towers=
+* {{emblem|Unknown|20px}} 28.5MW - [[28.5 Million Withdrawal]] - Terrifying (10.??) {{emblem|Unknown|20px}}
+* {{emblem|AF2025|20px}} Tom - [[Tower of muumitalo]] - Low Terrifying (10.24) {{emblem|AF2025|20px}}
+* {{emblem|AF2021|20px}} ToDB - [[Tower of Da Baby]] - Low-Mid Terrifying (10.35) {{emblem|AF2021|20px}}
+* {{emblem|AF2025|20px}} MIKU - [[Maybe I Know U]] - Peak Terrifying (10.90) {{emblem|AF2025|20px}}
+|-|
+Tower Rushes=
+* {{emblem|Z1|20px}} Z1TR - [[Zone 1 Tower Rush]] - Bottom-Low Terrifying (10.16) {{emblem|Z1|20px}}
+* {{emblem|TLS|20px}} TLSTR - [[Time-Lost Sands Tower Rush]] - Low-Mid Terrifying (10.30) {{emblem|TLS|20px}}
+* {{emblem|TLT|20px}} TLTTR - [[Time-Lost Tempest Tower Rush]] - Low Terrifying (10.36) {{emblem|TLT|20px}}
+* {{emblem|Z10|20px}} Z10TR - [[Zone 10 Tower Rush]] - Mid Terrifying (10.46) {{emblem|Z10F|20px}}
+</tabber>
+{{Difficulty Navibox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Soul Crushing]]
+[[Category:Terrifying]]

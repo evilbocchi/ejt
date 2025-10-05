@@ -1,0 +1,97 @@
+<div style="background:linear-gradient(90deg, #242424, #242424, #8a8a8a);padding:1em;font-family:rubik;border:10px solid #ffffff">{{Humanly Possible}}
+{{Visual Impairment|reason=Wrong decoration use}}
+
+==<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Pre-Introduction</big></span></center>==
+<center><span style="background: linear-gradient(to right, gray, black); color: white;">So you have beaten [[File:Therobloxboss24 JustAir.png|30px]] [[Just Air]] after about 10 seconds. Well, this difficulty will be a lot longer, but still very easy to complete. You can AFK to win this, just like every previous difficulty. You are also going to complete this really fast.</span></center>{{NewDifficultyInfobox|title1=<span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Happylike</big></span>|image1=<gallery>
+Happylike remake.png|Current
+Happylike Difficulty.png|Original
+</gallery>|caption1=The icon (May change)|class=0|rating=-23|type=*Normal Difficulty
+|previous=[[File:Therobloxboss24 JustAir.png|30px]] [[Just Air]] (-24)|next=[[File:Locomotion.png|30px]] [[Locomotion]] (-22)|alt_next=|class_range=Middle Class 0|difficulty_range=Belowground to Peripheral|creator(s)=*[[User:MinusDavid|MinusDavid]]
+*alternatevly, [[User:NewMinusDavid|NewMinusDavid]]|original_name=Heavenlike (Was planned)|previous_name=Heavenlike (Was planned)|date_added=7/5/2023|decal_id=13964564417|alt_previous=[[File:Rebirth.png|frameless|30px]] [[Excavation Chain/Cash-Rebirth|Rebirth]] (-23.5)}}
+==<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>What is Happylike?</big></span></center>==
+<center><span style="background: linear-gradient(to right, gray, black); color: white;">Welcome to Happylike! As you can see in the infobox, it's between [[File:Therobloxboss24 JustAir.png|30px]] [[Just Air]] and [[File:Locomotion.png|30px]] [[Locomotion]].</span></center>
+
+<center><span style="background: linear-gradient(to right, gray, black); color: white;">You can obviously see that this is [[File:Therobloxboss24 JustAir.png|30px]] [[Just Air]] but 1.2x harder. Altrough, it's 1.1x easier than [[File:Locomotion.png|30px]] [[Locomotion]]. And obviously, this difficulty is honestly pretty easy if you ask. Heck, it is automatic. There will sure be many obstacles but again, all of these are automatic. (NO NOT THE DIFFICULTY)</span>  </center>
+
+<center><span style="background: linear-gradient(to right, gray, black); color: white;">This difficulty has an MDC rating of -23 and comparing this to the last difficulty of C0, [[File:Spontaneous.png|30px]] [[Spontaneous]], it's like comparing [[File:Imagecool.png|30px]] [[Reversed Peripherality]] (not to be confused with [[File:No U.gif|30px]] [[Reversed]]) with [[File:Square Simple (100).png|30px]] [[Skip]] which are instant win difficulties.</span></center>
+
+==<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Catches (and chances)</big></span></center>==
+
+<center><span style="background: linear-gradient(to right, gray, black); color: white;">Catches, we can't forget about catches. Catches are always needed these days but these catches, these catches are extremely harmless but can affect some things. Also they can happen every 5 seconds</span><span style="background: linear-gradient(to right, gray, black); color: white;">
+
+*You will take 0.1 damage. (70%)
+*Conveyors will be 30% slower for 10 seconds. (15%)
+*You will jump 0.3 studs. (5%)
+*There will appear some cute images. (5%)
+*Conveyors will be 50% faster for 5 seconds. (4%)
+*You will instantly win. (1%)
+*You will lose the tower. (0.8%)
+==<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Obstacles</big></span></center>==
+
+{| class="fandom-table"
+|+Obstacle Table (credit to [[File:Spontaneous.png|30px]] [[Spontaneous]] for this)
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Conveyors
+| style="background-color: #005980;" |<font color="white">Ride an extremely fast conveyor for 50 studs.</font>
+| style="background-color: #014500;" |<font color="white">Ride a very fast conveyor for 50 studs.</font>
+| style="background-color: #336000;" |<font color="white">Ride a very fast conveyor for 50 studs while sitting.</font>
+| style="background-color: #6d5c00;" |<font color="white">Ride a fast conveyor for 50 studs.</font>
+| style="background-color: #964a00;" |<font color="white">Ride a pretty fast conveyor for 50 studs.</font>
+| style="background-color: #5a0000;" |<font color="white">Ride a not so fast conveyor for 50 studs.</font>
+| style="background-color: #550055;" |<font color="white">Ride a not so fast conveyor for 50 studs while sitting.</font>
+|-
+| Spinners
+| style="background-color: #005980;" |<font color="white">Ride a fast spinner.</font>
+| style="background-color: #014500;" |<font color="white">Ride a pretty fast spinner.</font>
+| style="background-color: #336000;" |<font color="white">Ride a pretty fast spinner while going up.</font>
+| style="background-color: #6d5c00;" |<font color="white">Ride a not so fast spinner.</font>
+| style="background-color: #964a00;" |<font color="white">Ride multiple fast spinners.</font>
+| style="background-color: #5a0000;" |<font color="white">Ride a medium speed spinner.</font>
+| style="background-color: #550055;" |<font color="white">Ride a not so fast spinner while going up and ride multiple pretty fast spinners.
+|-
+| Total Time
+| style="background-color: #005980;" |<font color="white">75 seconds</font>
+| style="background-color: #014500;" |<font color="white">80 seconds</font>
+| style="background-color: #336000;" |<font color="white">85 seconds</font>
+| style="background-color: #6d5c00;" |<font color="white">90 seconds</font>
+| style="background-color: #964a00;" |<font color="white">95 seconds</font>
+| style="background-color: #5a0000;" |<font color="white">97 seconds</font>
+| style="background-color: #550055;" |<font color="white">99 Seconds</font>
+|}
+
+==<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Towers (2 Parts)</big></span></center>==
+
+===<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Fictional</big></span></center>===
+
+Tower of At Peace 
+
+===<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Existent</big></span></center>===
+
+====<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>In this difficulty</big></span></center>====
+
+<center><big><big>are ya kidding me? T_T</big></big></center>
+
+====<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>With this difficulty</big></span></center>====
+
+<span style="background: linear-gradient(to right, gray, black); color: white;">{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]]<br> 
+<span style="background: linear-gradient(to right, gray, black); color: white;">[[File:RoorXDHd.png|30x30px]] [[The Pyramid Brothers/JJT Pyramid|JJT Pyramid]] (Stage 26)
+
+<span style="background: linear-gradient(to right, gray, black); color: white;">
+
+==<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>Trivia</big></span></center>==
+<center><span style="background: linear-gradient(to right, gray, black); color: white;">
+*This difficulty was reserved by [[User:MinusDavid|MinusDavid]].
+*This difficulty formerly had a penguinz being dissapointed image, taken from Vindication, a now deleted difficulty, however, that's gone.
+</span></center>
+==<center><span style="background:linear-gradient(90deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>CTFP</big></span></center>== 
+<center><span style="background: linear-gradient(to right, gray, black); color: white;">As you did this, you feel more happy from the difficulty. Well, you will see how this gets harder, but in C0, it will always be extremely easy. Ok, now go to [[File:Locomotion.png|30px]] [[Locomotion]]. It's longer, but still extremely easy.</span></center>{{DifficultiesNavbox}}
+[[Category:Emoticon Difficulties]]
+[[Category:Starter Zone]]

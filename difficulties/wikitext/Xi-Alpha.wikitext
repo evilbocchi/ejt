@@ -1,0 +1,99 @@
+{{DISPLAYTITLE:<span id="xialpha">Xi-Alpha</span>}}
+{{CSS|content=<nowiki>
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol:wght@400;500;700&display=swap');
+#xialpha {
+    font-family: Kaisei Decol;
+    font-weight: bold;
+    color: #DCE8F5;
+    text-shadow: 0 0 0.2em #A8C9F0, 0 0 0.4em #000215, 0 0 0.5em #00021540
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices={{Classic}}{{Humanly Impossible}}}}
+{{NewDifficultyInfobox|title1=<big><span id="xialpha">Xi-Alpha</span></big>|image1=<gallery>
+File:Xi-Alpha Icon.png|Current
+File:Old Xi-Alpha Icon.png|Legacy
+File:RobloxScreenShot20200924 131522047.png|Original
+File:Xi-Alpha Alt.png|Alternative
+</gallery>|class=[[:Category:Class 6|Class 6]]|type=* Normal difficulty
+* Chain difficulty|previous=[[File: Non-Transparent Delete.png|30px]] [[DELETE]]|next=[[File:ThetaVoidRevamp.png|30px]] [[Theta-Void]]
+|decal_id=* [https://create.roblox.com/store/asset/98279631518045/XiAlpha-Icon 98279631518045] (Current)
+* [https://create.roblox.com/store/asset/7615369699/XiAlpha-difficulty 7615369699] (Legacy)
+|sub_difficulty(ies)=* [[File:Image (24).png|30px]] [[Gar-Terrifying]]
+* [[File:D-E-L-T-A Revamped Icon.png|30px]] [[D-E-L-T-A]]
+* [[File:Ÿ revamp icon.png|30px]] [[Ÿ]]
+|creator(s)=* [[User:Viranenthusiast|Viranenthusiast]] (Revamper)
+* [[User:Sanjay2133|Sanjay2133]] (Original Revamper)
+* [[User:HorizonOfSingularities|HorizonOfSingularities]] (Owner)
+|date_added = 9/24/2020
+|caption1=This is how a revamp should be, just improving the page!|revamp_date=16/12/2022|previous_sub_difficulty(ies)=* Xi-Beta (gone)
+* Xi-Delta (gone)|original_class=Class 8.5|alt_next=[[File:D-E-L-T-A Revamped Icon.png|30px]] [[D-E-L-T-A]]|rating=58|alt_previous=[[File:Interruption.png|30px]] [[Interruption]]|official_music(s)=[https://www.youtube.com/watch?v=aHUVqV5CO6w Children of The City] (The actual difficulty)
+[https://www.youtube.com/watch?v=vEESR9L0mcI Underwaterfun] (THE CHOICE. (between [[File:D-E-L-T-A Revamped Icon.png|30px]] [[D-E-L-T-A]] and [[File:ThetaVoidRevamp.png|30px]] [[Theta-Void]] ))}}
+==Introduction==
+[[File:Xi-Alpha Icon.png|25px]] <span id="xialpha">Xi-Alpha</span> is a difficulty after {{Class8Difficulties|DELETE}} [[DELETE]], yet before [[File:ThetaVoidRevamp.png|25px]] [[Theta-Void]]. It is located in Peak [[:Category:Class 6|Class 6]] and is the first the first difficulty of [[:Category:Mike's Difficulty Chart Chain|MrXY201’s Difficulty Chart]]. It has three sub difficulties, which they are [[File:Image (24).png|25px]] [[Gar-Terrifying]] (Gar Chain), [[File:D-E-L-T-A Revamped Icon.png|25px]] [[D-E-L-T-A]] and [[File:Ÿ revamp icon.png|25px]] [[Ÿ]]. It also used to have 2 sub difficulties, ''Xi-Beta'' and ''Xi-Delta'', both of which are gone due to being low quality.
+
+It should not be attempted due to it requiring you to somehow surpass it without the use of TAS, unless you use noclip or even exploits. The tier system is also ineffective at this difficulty, due to it going way out of reach of the system, and the Kol Metris value is high, at around |55| (estimation).  
+
+You should also attempt towers like the old [[Obelisk of Symbol's Difficulty Chart|Obelisk of Symbols Difficulty Chart]] (back when the difficulty was [[Everdark]]) before beating this monstrosity (despite you obviously not being able to). That is all there is to something like this.
+
+==Icon Representation==
+{| class="fandom-table mw-collapsible" style="width: 100%; text-align: center; line-height: 1.6"
+!colspan="3"|<big><big>Icon Representation</big></big>
+|-
+!colspan="2"|<big>Icon, Version and Date</big>
+!<big>Description</big>
+|-
+|Current
+|November<br>17th, 2024
+|rowspan="2"|This icon was created by [[User:Sushislushwiki|Sushislushwiki]], and is a reimagination of this difficulty's previous icons, with some additional theming. In the center is a light blue lowercase Greek letter Xi (ξ) with a stone texture which is illuminated from top-to-bottom, a translucent blue [https://roblox.fandom.com/wiki/Respawn?file=Spawn_Decal.png Roblox respawn decal] whose opacity tapers off at the edges, and two sets of light blue glowing rings with eight concave four-pointed stars joined by eight arcs of an outlined circle, the outermost of which is much dimmer and given a [https://affinity.help/photo2/en-US.lproj/index.html?page=pages/Filters/filter_lensBlur.html&title=Lens%20Blur Lens blur] effect. The background of the icon is obsidian black ocean water with dim blue fog and blue bubbles strewn around, which also fades to a solid obsidian black at the edges of the icon. And, surrounding the icon is a glowing light blue outline that fades in opacity from top-to-bottom.
+|-
+|colspan="2" style="padding: 2px"|[[File:Xi-Alpha Icon.png|250px]]
+|-
+|Legacy
+|August<br>18th, 2021
+|rowspan="2"|This icon was created by [[User:HorizonOfSingularities|HorizonOfSingularities]], and is a cleaned-up version of the Original icon. The light blue lowercase Greek letter Xi (ξ) in the center is now a more saturated light blue that is now also hand-drawn. Behind the center symbol is three blue small uppercase Greek letter Xis (Ξ). And the background has been changed into a blue-to-black top-to-bottom gradient.
+|-
+|colspan="2" style="padding: 2px"|[[File:Old Xi-Alpha Icon.png|250px]]
+|-
+|Alternative (Unused)
+|May<br>21th, 2024
+|rowspan="2"|This icon was created by [[User:YeruAuttp|YeruAuttp]], and is an alternate version of a of the Legacy icon that went unused. The icon is now surrounded by a large irregular blue pentagon-shaped blur which appears to be stacked with a slightly smaller version of itself on-top. On top of that, there are also four smaller identical copies of the center light blue lowercase Greek letter Xi (ξ) around the center.
+|-
+|colspan="2" style="padding: 2px"|[[File:Xi-Alpha Alt.png|250px]]
+|-
+|Original
+|September<br>24th, 2020
+|rowspan="2"|This icon was created by [[User:HorizonOfSingularities|HorizonOfSingularities]], and is the original icon for this difficulty, with an irregular aspect ratio. In the center is a light blue lowercase Greek letter Xi (ξ), and the background is a dark blue low-quality Roblox skybox.
+|-
+|colspan="2" style="padding: 2px"|[[File:RobloxScreenShot20200924 131522047.png|250px]]
+|}
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=27.915|Increment=0.01}}
+
+==Tower Section ==
+
+===Towers in this difficulty ===
+
+* Steeple of MrXY201's Difficulty Chart (SoMDC) (Fictional)
+* Box of No You Don’t Get To Play (BoNYDGTP) (Fictional)
+*Tower of Xi-Alpha (ToXA) (Fictional)
+
+===Towers with this difficulty===
+
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*[[Monolith of Deadly Difficulty Cluster]] (MoDDC)
+*Theres a ton more.
+
+== Trivia==
+
+*[[User:Sanjay2133|Sanjay2133]] originally revamped this, but I replaced it with my revamp as sanjay pretty much just copy and pasted from Ultimaniac and modified it.
+*This difficulty has a huge legacy behind it, due to it being classic.
+*
+
+==Continuing on from this point==
+Congratulations on beating the beginning of the MrXY201’s difficulty chart, [[File:Xi-Alpha Icon.png|25px]] <span id="xialpha">Xi-Alpha</span>! You can move onto [[File:ThetaVoidRevamp.png|25px]] [[Theta-Void]], [[File:Image (24).png|25px]] [[Gar-Terrifying]] or [[File:D-E-L-T-A Revamped Icon.png|25px]] [[D-E-L-T-A]] now.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 6]]
+[[Category:Difficulty]]
+[[Category:Mike's Difficulty Chart Chain]]
+[[Category:Humanly Impossible]]

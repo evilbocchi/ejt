@@ -1,0 +1,240 @@
+{{Background|File=Aleph Null background.png}}
+<div style="padding:0.2em; background: #646464;-webkit-text-fill-color: block;-webkit">
+<div style="padding:1em; background: linear-gradient(to bottom, #141414, #080808);-webkit-text-fill-color: block;-webkit">
+{{DISPLAYTITLE:<span class="alephn"><big>Aleph-Null</big></span>}}
+<!-- CSS Links -->
+{{CSS|User:Sushislushwiki/slushusername.css}}
+<!-- Raw CSS -->
+{{CSS|content=<nowiki>
+@import url('https://fonts.cdnfonts.com/css/linux-libertine-o');
+/* Difficulty Name */
+span.alephn {
+    font-family: Linux Libertine O;
+    font-weight: bold;
+    color: #848484;
+    text-shadow: 0 0 4px #646464
+}
+
+/* Text styling */
+.page-content, .page-content h2, .page-content h3 {
+    font-family: Linux Libertine O;
+    color: #dddddd
+}
+.page-content h2 {
+    font-size: 1.8em;
+    border-bottom: 2px solid #e0e0e0
+}
+.page-content h3 {
+    font-size: 1.5em;
+}
+.page-content h2, .page-content h3 {
+    font-weight: bold;
+    color: #e0e0e0
+}
+.page-content .text {
+    color: #AAA;
+    transition: 0.3s
+}
+.page-content .text:hover {
+    color: #DDD;
+    text-shadow: 0 0 0.4em #CCCCCCC0
+}
+
+/* Infobox styling */
+.portable-infobox {
+    border-image: linear-gradient(#bbbbbb, #bbbbbb) 30;
+	border-width: 2px;
+    box-shadow: inset 0 0 0 2px #080808;
+    --pi-background: #141414
+}
+.portable-infobox .pi-border-color {
+	border-color: #bbbbbb
+}
+.portable-infobox .pi-image {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.portable-infobox .wds-tabs__tab {
+	color: #e6e6e6;
+}
+.portable-infobox .pi-header {
+    color: #e6e6e6
+}
+
+/* Table styling */
+.table {
+	border-collapse: collapse;
+	text-align: center;
+	border: 2px solid #bbbbbb;
+    background-color: #080808
+}
+th.table {
+	padding: 1em 0.5em 1em;
+    width: auto
+}
+td.table {
+	padding: 0.5em 1em 0.5em;
+}
+td.image {
+    padding: 2px
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Large Page}}}}<br>
+{{BetterQuote|quoter=Original caption in [[File:AlephnullDifficulty.webp|15px]] <span class="alephn">Aleph Null</span>'s Infobox.|text=it’s aleph null lmao}}
+{{NewDifficultyInfobox|gradient=#080808,#080808|title1=<span class="alephn"><big><big>Aleph-Null</big></big></span>|image1=<gallery>
+AlephnullDifficulty.webp|Current
+Aleph-Null high res.png|Classic
+Aleph-Null Alt.gif|Unofficial
+</gallery>|class=[[:Category:Class 4|<span class="text">Class 4</span>]]|rating=28|type=Difficulty|previous={{Class5Difficulties|SUFFER}} [[SUFFER]]|next={{Class5Difficulties|Immeasurable}} [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]]|alt_next=[[File:Mystical.jpeg|30px]] [[Mystical]] (sub difficulty)|decal_id=[https://create.roblox.com/store/asset/6418993086/AlephNull?externalSource=www <span class="text">6418993086</span>]|sub_difficulty(ies)=[[File:Mystical.jpeg|25px]] [[Mystical]] 
+[[File:RealityCool.png|25px]] [[Reality]]|creator(s)=* [[w:c:jtohs-hardest-towers:User:Zorloth1|<span class="text">Zorloth1</span>]] (JHT)
+*[[User:Viranenthusiast|Viranenthusiast]] (Transferrer)
+*[[User:Astrominal|Astrominal]] (Initial Revamper)
+*<span class="slush">Sushislushwiki</span> (Revamper)|date_added=Before JJTs Creation (JHT)
+1/02/2023 (Transferral Date)}}
+<h2>What is [[File:AlephnullDifficulty.webp|30px]] <span class="alephn">Aleph-Null</span>?</h2>
+<span class="alephn">Aleph-Null</span> [[File:AlephnullDifficulty.webp|25px]] is a [[:Category:Class 4|<span class="text">Class 4</span>]] (C4) difficulty between [[SUFFER]] {{Class5Difficulties|SUFFER}} and [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]] {{Class5Difficulties|Immeasurable}}. <span class="alephn">Aleph-Null</span> [[File:AlephnullDifficulty.webp|25px]] was originally created in the [[w:c:jtohs-hardest-towers|<span class="text">JToH's Hardest Towers wiki</span>]] (JTH wiki) before eventually being transferred onto the JJT wiki since it was "JJT-like". Though, this was changed eventually, and now <span class="alephn">Aleph-Null</span> [[File:AlephnullDifficulty.webp|25px]] exists in both the JJT ''and'' JHT.
+
+As expected from the C4 difficulty, it's impossible to complete this difficulty without performing a [[wikipedia:Tool-assisted speedrun|<span class="text">Tool-Assisted Speedrun</span>]] (TAS). And even then, this is the start of Peak C4; even completing a TAS of this difficulty is an achievement in itself, and a monumental one at that.
+
+== Placement ==
+
+=== High Class 4 ===
+
+* [[File:UnimaginableDifficulty.webp|30x30px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]] (25)
+** [[File:Me when new dimension icon.webp|30x30px]] [[Dimension]] (25.5)
+* [[File:Omega akaTowerRushDifficulty.gif|30x30px]] [[w:c:jtohs-hardest-towers:Omega|Omega]] (26)
+** [[File:Disarray.png|30x30px]] [[Disarray]] (26.5)
+* [[File:SUFFER.png|30x30px]] [[SUFFER]] (27)
+** [[File:CHAOS2.png|30x30px]] [[CHAOS]] (27.5)
+
+=== Peak Class 4 ===
+
+* [[File:AlephnullDifficulty.webp|50x50px]] <big><span class="alephn">Aleph-Null</span> (28) '''You are here.'''</big>
+** [[File:Mystical.jpeg|30x30px]] [[Mystical]] (28.33)
+** [[File:Shimeshimeyehshimeyehshimeyaah.jpg|30x30px]] [[Reality]] (28.66)
+* [[File:ImmeasurableDifficulty.webp|30x30px]] [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]] (29)
+** [[File:Noxious.png|30x30px]] [[Noxious]] (29.5)
+* [[File:Malicious.png|30x30px]] [[w:c:jtohs-hardest-towers:Malicious|Malicious]] (30)
+** [[File:Autism but resized.png|30x30px]] [[Autism]] (30.33)
+** [[File:Malevolent.png|30x30px]] [[Malevolent]] (30.66)
+<h2>Icon Representation</h2>
+<table class="table" style="width: 100%">
+<tr>
+<th class="table"><big>'''Version'''</big></th>
+<th class="table"><big>'''Icon'''</big></th>
+<th class="table"><big>'''Description'''</big></th>
+</tr>
+<tr>
+<td class="table">'''Current'''</td>
+<td class="table image">[[File:AlephnullDifficulty.webp|250px]]</td>
+<td class="table">This icon is similar to the original icon, barring a few differences. Notably, the [[w:c:googology:Aleph-zero|<span class="text">Aleph-Null</span>]] symbol (ℵ₀) is slightly smaller, and the icon has been given a light gray-to-black outline and gray-to-dark gray background to match the rest of C4.</td>
+</tr>
+<tr>
+<td class="table">'''Classic'''</td>
+<td class="table image">[[File:Aleph-Null high res.png|250px]]</td>
+<td class="table">This icon is an [[w:c:googology:Aleph-zero|<span class="text">Aleph-Null</span>]] symbol (ℵ₀) on a gray background; simple, nothing much to it. Though, the black-on-gray color scheme and the symbol that this icon is adorned with, which is also where this difficulty got its name from, represents the challenge that this difficulty presents quite well; unsurpassable, but it's only the beginning.</td>
+</tr>
+<tr>
+<td class="table">'''Unofficial'''</td>
+<td class="table image">[[File:Aleph-Null Alt.gif|250px]]</td>
+<td class="table">This icon is similar to the current icon, having the [[w:c:googology:Aleph-zero|<span class="text">Aleph-Null</span>]] symbol (ℵ₀) symbol and an outline. This icon ditches the gradient of the current design while still being gray, and inverts the Aleph-Null symbol to make it white. The background contains a spiral of black Aleph-Nulls, with the outline having splashes of different shades of gray. The icon itself is covered in multiple frames of pixelated static.</td>
+</tr>
+</table>
+<h2>Obstacle Table</h2>
+{{ObstacleTableRevamp|JumpClimbableBase=16.3|Increment=0.03469}}
+<h2>Structure List</h2>
+<table class="table">
+<tr>
+<th class="table"><big>'''Name'''</big></th>
+<th class="table"><big>'''Exact Difficulty'''</big></th>
+<th class="table"><big>'''Status'''</big></th>
+</tr>
+<tr>
+<td class="table">'''Room of Red Fun''' ('''RoRF''')</td>
+<td class="table">Low [[File:AlephnullDifficulty.webp|25px]] <span class="alephn">Aleph-Null</span> (28.XX)</td>
+<td class="table">Has a page in the JHT [[w:c:jtohs-hardest-towers:Room of Red Fun|<span class="text">here</span>]].</td>
+</tr>
+<tr>
+<td class="table">'''Edifice of Terror From Below''' ('''EoTFB''')</td>
+<td class="table">Mid [[File:AlephnullDifficulty.webp|25px]] <span class="alephn">Aleph-Null</span> (28.XX)</td>
+<td class="table">Has a page in the JHT [[w:c:jtohs-hardest-towers:Edifice of Terror From Below|<span class="text">here</span>]].</td>
+</tr>
+<tr>
+<td class="table">'''Box of Aleph Null''' ('''BoAN''')</td>
+<td class="table">Mid [[File:AlephnullDifficulty.webp|25px]] <span class="alephn">Aleph-Null</span> (28.XX)</td>
+<td class="table">Has a page in the JHT [[w:c:jtohs-hardest-towers:Box of Aleph Null|<span class="text">here</span>]].</td>
+</tr>
+<tr>
+<td class="table">'''Tower of Fever Dreams''' ('''ToFD''')</td>
+<td class="table">Mid-High [[File:AlephnullDifficulty.webp|25px]] <span class="alephn">Aleph-Null</span> (28.XX)</td>
+<td class="table">Has a page in the JHT [[w:c:jtohs-hardest-towers:Tower of Fever Dreams|<span class="text">here</span>]].</td>
+</tr>
+<tr>
+<td class="table">'''Steeple of Muted Madness''' ('''SoMM''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Tower of Infinite Losses''' ('''ToIL''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Tower of Aggravated Ascension''' ('''ToAA''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Citadel of the Start of Infinities and Beyond''' ('''CotSoIaB''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Obelisk of Buffed Void''' ('''OoBV''') </td>
+<td class="table">''Unknown.''</td>
+<td class="table">In Tower Creator<br> ID: 3396447637#5</td>
+</tr>
+<tr>
+<td class="table">[[The Centurial Tower|'''The Centurial Tower''' ('''TCT''')]]</td>
+<td class="table">"probably way harder than Aleph-Null but who tf cares" - Original text in parentheses.</td>
+<td class="table">In Tower Creator<br> ID: 394743976#6</td>
+</tr>
+<tr>
+<td class="table">'''Sarsen of Ascension Lasting Endless Progression Hopelessly''' ('''SoALEPH''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Nonosi of Infinita Minima''' ('''NoIM''')</td>
+<td class="table">''Unknown.'' </td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td>'''[[Citadel of Some Difficulty Chart]] (CoSDC)'''</td>
+<td class="table">Skyline [[File:AlephnullDifficulty.webp|frameless|25x25px]][[Aleph-Null]] (28.99)</td>
+<td class="table">In Tower Creator ID: 5187647055#3</td>
+</tr>
+<tr>
+<td class="table">'''[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Tower of The Roof's Pique: Thinning Layers] (ToTRP:TL)'''</td>
+<td class="table">''Unknown.'' </td>
+<td class="table">Can be found in [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense QToN's Ring 4]</td>
+</tr>
+</table>
+<sub>Note: TCT's Tower Creator ID hasn't been checked yet.</sub>
+<h2>Trivia</h2> 
+*This difficulty has been very popular in JJT, with many, many variations made.  
+**However, it was later removed from JHT’s Difficulty Chart due to it being too JJT-like. It was for that reason that '''Aleph-Null''' was transferred to JJT's main chart.
+***'''Aleph-Null''' eventually returned to JHT, and now both the JJT and [[w:c:jtohs-hardest-towers:Aleph-Null|<span class="text">JHT</span>]] pages coexist.
+
+*'''Aleph-Null''' in mathematics refers to the smallest cardinal number that is infinite.
+*This difficulty is one of the no-longer 4 '''Brain Melting''' difficulties from Omega-Malicious/[[Supreme]]. Some charts extend the BM range to the latter, most do former.
+*Since <span class="slush">Sushislushwiki</span> was too lazy to re-write anything in the Trivia section, all of the original text above this is kept verbatim; no changes at all.
+*The background is a blurred version of Obelisk of Buffed Void (OoBV) that's been darkened significantly.
+
+<h2>Continuing On from this Point</h2>
+What a marvel, {{USERNAME}}, you've completed [[File:AlephnullDifficulty.webp|25px]] <span class="alephn">Aleph Null</span>! You've completed the first difficulty of Peak C4, and have the option to either progress to this difficulty's sub-difficulties [[Mystical]] [[File:Mystical.jpeg|25px]] and [[Reality]] [[File:Shimeshimeyehshimeyehshimeyaah.jpg|25px]], or go straight for the next difficulty [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]] {{Class5Difficulties|Immeasurable}}. If your experience with <span class="alephn">Aleph Null</span> [[File:AlephnullDifficulty.webp|25px]] was nothing short of treacherous, then I'd recommend going for the sub-difficulties. Otherwise, if you're ready for it, feel free to move on to next difficulty up instead. Either way, good luck, {{USERNAME}}!
+{{MainDifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 4]]
+[[Category:Humanly Impossible]]
+[[Category:JToH’s Hardest Towers]]

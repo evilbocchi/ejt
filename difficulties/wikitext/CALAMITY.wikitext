@@ -1,0 +1,61 @@
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Buffed}}}}{{NewDifficultyInfobox|image1=<gallery>NewestCalamity.png|Current
+OldCALAMITY.png|Old
+CALAMITY.png|Oldest</gallery>|title1=[[File:NewCALAMITY.jpeg|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>|Class=Mid-High Class 4|previous=[[File:NewTARTARUS.jpeg|30px]][[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]]|next=[[File:UnimaginableDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:Unimaginable|<span style="color:#FF0000">Unim</span><span style="color:#FF0000">agi</span><span style="color:#FF0000">na</span><span style="color:#FF0000">ble</span>]]|class=4|type=*Normal Difficulty
+*Humanly Impossible Difficulty
+*Class 4 Difficulty|class_range=Mid|difficulty_range=Baseline To Peak|official_music(s)=[https://www.youtube.com/watch?v=-Syn1mJVt7U DM DOKURO - Scourge of the Universe]|caption1=Keep going! you can make it! only two more difficulties to go untill you are out of the "XD" chain!|chain(s)=*The XD Chain|creator(s)=Owen_RCat (Owner)|date_added=12/31/2020|revamp_date=4/19/2024|rating=24|alt_next=[[File:Neutralize 2.jpg|30px]] [[Neutralize]]|decal_id=Current: [https://create.roblox.com/store/asset/86882470115600/CALAMITY 86882470115600]<br>Old: [https://create.roblox.com/store/asset/9185671196/CALAMITY 9185671196]<br>Oldest: [https://create.roblox.com/store/asset/6418983349/CALAMITY 6418983349]|sub_difficulty(ies)=*[[File:Neutralize 2.jpg|30px]] [[Neutralize]] (24.33)
+*[[File:Killjoying.jpg|30px]] [[Killjoying]] (24.66)|revival_date=2/18/2021|counterpart={{Class3Difficulties|Catastrophic}} [[w:c:jtoh:Catastrophic|Catastrophic]]}}
+==Introduction: [[File:NewCALAMITY.jpeg|frameless|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>==
+[[File:NewCALAMITY.jpeg|30px]] [[CALAMITY]] is a Mid Class 4 Humanly Impossible difficulty after [[File:NewTARTARUS.jpeg|30px]] [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]]. Obstacles here are more Pixel Perfect and RNG Based than [[File:NewTARTARUS.jpeg|30px]] [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]], but not as physic-breaking as [[File:UnimaginableDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:Unimaginable|<span style="color:#FF0000">Unim</span><span style="color:#FF0000">agi</span><span style="color:#FF0000">na</span><span style="color:#FF0000">ble</span>]].
+
+[[File:NewCALAMITY.jpeg|30px]] [[CALAMITY]] is in-between of [[File:NewTARTARUS.jpeg|30px]] [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]] and [[File:UnimaginableDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:Unimaginable|<span style="color:#FF0000">Unim</span><span style="color:#FF0000">agi</span><span style="color:#FF0000">na</span><span style="color:#FF0000">ble</span>]]. It is also near the end of the "XD" Chain, a difficulty chain spanning from [[File:NewNullifying.jpeg|frameless|30px]] <span style="color:#0000FF">'''Nullifying'''</span> to [[File:NewCALAMITY.jpeg|30px]] [[CALAMITY]].
+==Icon Representation: [[File:NewCALAMITY.jpeg|frameless|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>==
+{|class="fandom-table"
+|+Icon Table
+!Icon
+!Explanation
+|-
+|[[File:NewestCalamity.png|frameless|100px]] Current
+|The icon has a black to grey background with a white surrounding border and “XD” emoticon in the middle.
+|-
+|[[File:OldCALAMITY.png|frameless|100px]] Old
+|The icon has a white background with a black bolded "XD" emoticon in the middle.
+|-
+|[[File:CALAMITY.png|frameless|100px]] Older
+|The icon has a white background with a faint white "XD" emoticon in the middle.
+|}
+==Placement: [[File:NewCALAMITY.jpeg|frameless|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>== 
+*[[File:Purgatory.png|30px]] [[Purgatory]] (19.5)
+*{{Class4Difficulties|DEATH}} [[w:c:jtohs-hardest-towers:DEATH|DEATH]] (20)
+*{{Class4Difficulties|Nullifying}} [[Nullifying]] (21)
+*{{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]] (22)
+**[[File:Vortex.png|30px]] [[Vortex]] (22.5)
+*[[File:NewTARTARUS.jpeg|30px]][[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]] (23)
+*[[File:NewCALAMITY.jpeg|30px]] [[CALAMITY]] (24) '''(You are here)'''
+**[[File:Neutralize 2.jpg|30px]] [[Neutralize]] (24.33)
+**[[File:Killjoying.jpg|30px]] [[Killjoying]] (24.66)
+==Towers that have this Difficulty: [[File:NewCALAMITY.jpeg|frameless|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>==  
+*ToEF - [[Tower of Elongated Failure]]
+*ToCDC - [[Tower of Chomik Difficulty Chart]]
+*R36:C - [https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 36: CALAMITY]
+==Obstacles: [[File:NewCALAMITY.jpeg|frameless|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>== 
+{{ObstacleTableRevamp|JumpClimbableBase=15.3|Increment=0.0247}}
+==Gallery: [[File:NewCALAMITY.jpeg|frameless|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>==
+<gallery widths="185">GCoID CALAMITY.jpg|CALAMITY’s floor in [[Great Citadel of Hellish Difficulties]].
+CALAMITY Portal GCoHD.jpg|CALAMITY’s portal in [[Great Citadel of Hellish Difficulties]].
+RobloxScreenShot20210326 170833854.png|What.exe</gallery>
+==Trivia: [[File:NewCALAMITY.jpeg|frameless|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>== 
+*The page was created and revamped by [[User:Owenpithan|<bdi>RoundCat</bdi>]].
+*Calamity is actually a synonym of Catastrophic
+*Originally the concept for this difficulty was that it was a buffed catastrophic until its revamp.
+*TooHard Difficulty has fixed a bit of grammar
+==Moving Forward: [[File:NewCALAMITY.jpeg|frameless|50px]] <span style="color:#FFFFFF">'''CALAMITY'''</span>==
+Are you a god? This is dumb, my calculations didn’t know that you would pass [[CALAMITY]]. How did you make it past? Well I guess [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]] will pay you a visit.
+
+'''''Heh. I’m kidding.''''' I think you forgot about the portals in the lobby. There are actually <s>three</s> '''''TWO''''' sub difficulties of [[CALAMITY]] that you'll do. [[Neutralize]], [[Killjoying]]<s>, and [[User blog:EpicTheGamer2014/Contradiction|Contradiction]]</s>. These difficulties will hold you off while I prepare more. Good luck..!{{MainDifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 4]]
+[[Category:XD Chain]]
+[[Category:Emoticon Difficulties]]
+[[Category:Humanly Impossible]]
+[[Category:Official]]
+[[Category:Official Difficulty]]

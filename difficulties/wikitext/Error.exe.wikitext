@@ -1,0 +1,72 @@
+<div style="background:linear-gradient(#000000, #590000);background-image:
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px; color: white;padding: 50px 20px; border-radius: 100px 100px">
+{{TAS Impossible}}{{NewDifficultyInfobox|title1=[[File:Error Exe.png|30x30px]] Error.exe|image1=Error Exe.png|caption1=this isn’t your Sonic.Exe fanmade wiki -YataDev|class=[[:Category:Class 5|Class 5]]|type=[[:Category:Difficulties|Normal Difficulty]]|previous={{Class7Difficulties|System Error}} [[System Error]]|next={{Class7Difficulties|Simply Beyond}} [[Simply Beyond]]|difficulty_range=Baseline to Peak|date_added=4/25/2022|date_removed=12/10/2021|removal_reason=Fictional Towers|rating=43|decal_id=[https://create.roblox.com/store/asset/7281359720/Error.exe 7281359720]}}
+==What is '''{{PAGENAME}}'''?                                                            ==
+'''{{PAGENAME}}''' is a Class 5 difficulty. Even with the usage of TAS, this difficulty is still impossible, and every single obstacle you will find in this difficulty is impossible for humans to complete without TAS. Like every difficulty in this class, the only way to do the difficulty is by modifying speed, health, gravity, jump power, and more. This difficulty is similar to an extremely buffed version of [[System Error]], containing much harder jumps. This difficulty is near the border of Class 5 and is almost on the road of pseudo difficulties.
+
+==Icon Representation==
+The icon is a up-to-down black-to-red gradient with a black shaky >8D emoticon in the center, similar to the shaky WTH in now-deleted [[File:What the heck.png|frameless|30x30px]] What The Heck.
+
+== Catches ==
+Inspired by [[User blog:EpicTheGamer2014/Unplayable|Unplayable]]
+{| class="fandom-table"
+!Catches
+! style="background-color: #008F95;" |'''Belowground'''
+! style="background-color: green;" |'''Baseline''' 
+! style="background-color: #80ff00;" |'''Low'''
+! style="background-color: yellow; " |'''Mid'''
+! style="background-color: orange; " |'''High''' 
+! style="background-color: red; " |'''Peak'''
+! style="background-color: #ff007d; " |''Skyline''
+! style="background-color: #A400D0; " |'''Peripheral'''
+|-
+|Chance of being sent back 1 obstacle every minute.
+| style="background-color: #005154;" |1.5%
+| style="background-color: #014500;" |1.75%
+| style="background-color: #336000;" |2%
+| style="background-color: #6d5c00;" |2.25%
+| style="background-color: #964a00;" |2.5%
+| style="background-color: #5a0000;" |2.75%
+| style="background-color: #97004A;" |3%
+| style="background-color: #4F0065;" |3.25%
+|-
+|Amount of time to do a [[System Error]] Obstacle
+| style="background-color: #005154;" |20 secs
+| style="background-color: #014500;" |17.5 secs
+| style="background-color: #336000;" |15.5 secs
+| style="background-color: #6d5c00;" |13.5 secs
+| style="background-color: #964a00;" |11.5 secs
+| style="background-color: #5a0000;" |10 secs
+| style="background-color: #97004A;" |9.5 secs
+| style="background-color: #4F0065;" |9.25 secs
+|}
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=16.9|Increment=0.35}}
+
+== Special Obstacles ==
+*30 wallhops in a row onto a 0.3 stud platform.
+*Dodging an instakill spinner at 9999 speed for 2 minutes straight.
+*Doing a system error obstacle in under 200 seconds.
+*Having to get past 40 instakill pusher platforms in a row that are always moving.
+*Jumping on 30 0.5 stud conveyers at 1000 speed.
+*Doing 15 stud jumps while your screen is completely black.
+
+==Trivia==
+*This difficulty's page references System Error difficulty multiple times.
+
+==Towers==
+*[[Bed of Some Sleep]]<br />
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense The Great Triennial] (QToN Ring 5)
+
+==Continuing from this point==
+So you somehow beat this? I completely doubt that but if you think you are skilled enough move onto [[Simply Beyond]] and I'll see you soon at [[File:SquareSupreme.png|20px]] [[Supreme]].
+
+{{DifficultiesNavbox}}
+[[Category:Class 5]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Unofficial Difficulty]]
+[[Category:Unofficial]]
+[[Category:Revived]]
+[[Category:Humanly Impossible]]

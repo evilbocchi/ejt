@@ -1,0 +1,543 @@
+{{DISPLAYTITLE:<span id="resilient">Resilient Glow</span>}}
+{{Background|File=How To See Through Walls.webp|Size=1750px}}
+{{CSS|content=<nowiki>
+/** Gabarito — Font used for difficulty name **/
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&display=swap');
+
+/* Difficulty Name */
+#resilient {
+    font-family: Times New Roman;
+    font-weight: bold;
+    color: #000;
+    text-shadow: -0.04em 0.04em #00FFD3, 0 0.04em #00FFD3, 0.04em 0.04em #00FFD3, -0.04em 0 #00FFD3, 0.04em 0 #00FFD3, -0.04em -0.04em #00FFD3, 0 -0.04em #00FFD3, 0.04em -0.04em #00FFD3, 0 0.15em 0.15em #0008, 0 -0.15em 0.15em #0008, 0 0 0.3em #00FFD3
+}
+
+/* Fullscreen */
+
+/* Hide unnecessary elements */
+.global-navigation,
+.fandom-sticky-header,
+.page-side-tools,
+.page__right-rail,
+footer,
+.wds-global-footer,
+.mcf-en,
+.license-description,
+#WikiaRail,
+#WikiaBar,
+.WikiaRailWrapper,
+.wds-global-navigation__content-bar,
+.fandom-community-header,
+.wds-global-navigation__content-bar {
+    display: none !important;
+}
+
+/* Hide the left sidebar */
+.wds-global-navigation__content-bar,
+.fandom-community-header__top-container {
+    display: none !important;
+}
+
+/* Adjust the main content to take full width */
+.main-container {
+    margin-left: 0;
+    width: 100%;
+}
+
+/* brrrrr */
+.page-footer__languages {
+    display: none;
+}
+
+/* Page Main Special */
+
+.page__main {
+    background-color: rgba(0, 0, 0, 0)
+}
+
+:root {
+    --widget-border-color--light: transparent;
+    --widget-frame-background-color: transparent;
+    --widget-frame-button-background: transparent;
+    --widget-frame-button-background--hover: transparent;
+    --widget-frame-button-icon-fill: transparent;
+    --widget-frame-text-color: transparent;
+    --widget-image-empty-state-color--secondary: transparent;
+    --widget-link-color: transparent;
+    --widget-link-color--hover: transparent;
+    --widget-primary-background-color: transparent;
+    --widget-text-color--secondary: transparent;
+    --widget-text-color--secondary--hover: transparent;
+}
+
+/* Shameland */
+
+#global-top-navigation,
+#global-explore-navigation {
+    display: none !important;
+}
+
+</nowiki>}}
+{{Music Player|AudioLink=https://static.wikia.nocookie.net/jtohs-joke-towers/images/b/bb/240p.mp3|Volume=1|Options=autoplay,loop, preload=metadata|Caption=b}}
+<div style="background-color: rgba(64, 224, 208, 0.34); color: white; padding: 50px 20px; border: 15px solid transparent; border-image: linear-gradient(to bottom, #98FF98, #00FFFF) 1;">
+{{NoticeScrollboxNew|Notices={{WIP}}{{Large Page}}{{Physically Impossible}}}}<br>
+<font size="5"><center>« [[File:Not a reason.jpg|40px]] [[Unreasonable]] | [[File:Resilient Glow.png|60x60px]] <span id="resilient">Resilient Glow</span> | [[File:Peculiar Wavestats.png|40px]] [[Arcane]] »</center></font>
+----
+{{BetterQuote|text=how do you feel|quoter=Windows96}}
+----
+{{NewDifficultyInfobox|title1=<big><big><big><span id="resilient">Resilient Glow</span></big></big></big>|image1=[[File:Resilient Glow.png|300px]]|caption1=240p|class=Low Class 8|rating=81|type=Normal Difficulty|previous=[[File:Not a reason.jpg|30px]] [[Unreasonable]]|next=[[File:Peculiar Wavestats.png|30px]] [[Arcane]]|class_range=Low|difficulty_range=Belowground - Peripheral|decal_id=102269139581176|official_music(s)=Every song from the album, How To See Through Walls, by Windows96.|creator(s)=Akui No Chuushin}}
+==Introduction==
+[[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> is the fourth and final difficulty of Low Class 8. It succeeds  [[File:Not a reason.jpg|30px]] [[Unreasonable]] and proceeds [[File:Peculiar Wavestats.png|30px]] [[Arcane]]. Being in Class 8, it is Physically Impossible to complete and it will be required to defy Roblox's Physics Engine in order to complete it. To achieve this, you will need to luck flings as well as other glitches in order to do jumps of this difficulty. Due to this, it is nigh-impossible for any human, even TAS, to complete this difficulty. Since luck flinging is required, improbable luck is also needed to complete this difficulty. Jumps of this difficulty are also very complex, with many fine details, making it difficult to accurately build a tower of this difficulty. Succeeding [[File:Not a reason.jpg|30px]] [[Unreasonable]], it is more difficult and complex than it, requiring more skill and luck in order to beat it. Proceeding [[File:Peculiar Wavestats.png|30px]] [[Arcane]], it is much easier and simpler than it, requiring less glitches and abusing in order to beat.
+
+Due to these factors, the jumps contained in [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> are incredibly absurd and would require unthinkable skill to do. Even the usage of TAS abuse won't allow you to beat this difficulty, as this difficulty is Physically Impossible. A tower of this difficulty would most likely have extended frames, this is due to the fact that the jumps are too immense to be contained in a regular 100x100x100 floor, building a tower of this difficulty would most likely require frames extended to be 1000x1000x1000, or by adding more floors, turning the tower into a Great Citadel. Immense punishment would be included in this difficulty. Banbricks, Poisonbanbricks, and Termminationbricks would be very common in this difficulty, a single fail could terminate your account, instantly ending you.
+
+Performing a single jump of [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> would be of extreme difficulty, requiring just as much skill as completing a full [[File:New DI Image.JPG|30px]] [[Dilly Impossible]] Monolith. This makes it so that the gap between [[File:Not a reason.jpg|30px]] [[Unreasonable]] and [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> is insanely large, a single floor of [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> could be harder than a full [[File:Not a reason.jpg|30px]] [[Unreasonable]] tower. This also means that the difference between [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> and [[File:Peculiar Wavestats.png|30px]] [[Arcane]] is even larger, like comparing [[File:Purgatory.png|30px]] [[Purgatory]] and [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|30px]] [[MegaDeath]], a very large difference. Even though this is immensely difficult, it still pales in comparison against harder difficulties like [[File:TCC Resized.png|30px]] [[The Crystal Core]], which is on another dimension in difficulty, with one jump being hundreds, if not thousands and times harder than a [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> tower.
+
+Luck required in [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> would be unfathomable, possibly being in the one in vigintillions, so immense that even if this difficulty was played to the heat death of the universe, it still most likely wouldn't be completed. Doing a tower of [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> difficulty would be incredibly difficult even with Vertical Mobility. Not even the best obbyists, using TAS, with Vertical mobility would be able to complete [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span>. Subsequently, any sort of completion is not possible even with the usage of broken items and TAS abuse.
+
+[[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> has a rating of 81 and a Kol Metris of around |1190|, it is extremely far beyond the Physical Possibility limits. Tiers simply break down at this level of difficulty, exceeding the trillions and possibly even quadrillions.
+
+==Difficulty Placement==
+
+===Baseline Class 8===
+
+*[[File:Epitome.png|30px]] [[Epitome]] (76) (SURPASSED)
+*[[File:Hellifying.png|30px]] [[Agony]] (77) (SURPASED)
+*[[File:ILOVEYOU.png|30px]] [[ILOVEYOU]] (77.5) (SURPASSED)
+*[[File:2020 09 21 Kleki.png|30px]] [[Abyssal]] (78) (SURPASSED)
+
+===Low Class 8===
+
+*[[File:New DI Image.JPG|30px]] [[Dilly Impossible]] (79) (SURPASSED)
+*[[File:Gigaversal.png|30px]] [[Gigaversal]] (79.5) (SURPASSED)
+*[[File:Not a reason.jpg|30px]] [[Unreasonable]] (80) (SURPASSED)
+*[[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> (81) (NOW AT)
+
+===Mid Class 8=== 
+
+*[[File:Peculiar Wavestats.png|30px]] [[Arcane]] (82) (NOT REACHED)
+*[[File:Communism better.png|30px]] [[COMMUNISM]] (83) (NOT REACHED)
+*[[File:Detroit-XPELO4EK-REVAMP.png|30px]] [[Detroit]] (83.5) (NOT REACHED)
+*[[File:Sacrificingly-Impossible W effects.jpg|30px]] [[Sacrificingly Impossible]] (83.75) (NOT REACHED)
+*[[File:Satan Tartarus Lucifer Void.png|30px]] [[Satan Tartarus Lucifer Void]] (84) (NOT REACHED)
+
+==Icon Representation==
+
+{| class="mw-collapsible fandom-table"
+|+Icon Table
+!Icon
+!Details
+!Date It Was Used
+|-
+|[[File:Resilient Glow.png|frameless|150x150px]] 
+Current Icon (By [[User:UserNosajButNo|UserNosajButNo]]) 
+|[[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span>'s current icon uses the album art for Windows96 - How to See Through Walls as a background, although with perspective blur and some other effects. On top of that is the logo for Windows96, which is simply a "96". It also has some perspective blur applied to it. Finally, the border for the icon is this light green color, with some bloom applied to make it look cooler.
+|January 26th, 2025
+|}
+
+==Catches==
+Being a Class 8 Difficulty, [[File:Resilient Glow.png|30px]] <span id="resilient">Resilient Glow</span> has some catches. 
+
+*You are not allowed to jump, somehow jumping will send you back to [[File:Not a reason.jpg|30px]] [[Unreasonable]]
+*Your Jump Power and Walk Speed are both nerfed by 10
+*Every single time you do a jump, you must beat ToWWW and ToSF, both buffed to [[File:Not a reason.jpg|30px]] [[Unreasonable]]
+*Every frame, a random song is chosen. If the song is not a Windows96 song, you instantly lose and is sent back to [[File:Not a reason.jpg|30px]] [[Unreasonable]]
+*Every part is an Instantpermabanbrick, and every part also has a 10% chance every frame to turn into an Instantterminationbrick, and it also has a 0.01% to turn into an Instantgarbrick.
+*Every part has a 50% to turn into CC false every second, and vice versa. CC false killbricks retain their property of dealing damage.
+
+== Obstacles==
+
+===Warm-Up===
+A Warm-Up is required before you progress onto the main obstacles.
+
+First, just rebeat [[File:Not a reason.jpg|30px]] [[Unreasonable]] 100 times. Now, rebeat [[File:Gigaversal.png|30px]] [[Gigaversal]] 200 times. Then, rebeat [[File:New DI Image.JPG|30px]] [[Dilly Impossible]] 400 times, and so on. Repeat this until you reach [[File:Thefirstdifficultynewimage.png|30px]] [[The First Difficulty]]. Next, do a 270-stud jump into a Jupiter Wallhop into a Luck Fling, then into a Luck Teleport, then clip through a 100-stud wall. After you did this, roll a die with 1000 sides, if you get the number 240, you win. Otherwise, you will get sent back to [[File:New DI Image.JPG|30px]] [[Dilly Impossible]]. Repeat this obstacle 100 times, then you would have completed this simple Warm-Up.
+
+===Main Obstacles===
+
+{| class="mw-collapsible fandom-table"
+|-
+!Spectrum/Obstacles
+! style="background-color: #707aff;" |'''Belowground'''
+! style="background-color: #3d8ef1;" |'''<font color="#63c2eb">Belowground-Baseline</font>'''
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Baseline</font>'''
+! style="background-color: #1EA48C;" |'''<font color="#053C0F">Baseline-Bottom</font>'''
+! style="background-color: green;" |'''<font color="#003305">Bottom</font>'''
+! style="background-color: #00E617;" |'''<font color="#3C7B29">Bottom-Low</font>'''
+! style="background-color: #80ff00;" |'''<font color="#1EE620">Low</font>'''
+! style="background-color: #C9EA29;" |'''<font color="00e617">Low-Mid</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: #FEBB2D; " |'''<font color="#A07332">Mid-High</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: #E64305; " |'''<font color="#843933">High-Peak</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: #E7298A; " |'''<font color="#7d003d">Peak-Skyline</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Skyline</font>'''
+! style="background-color: #8333FF; " |'''<font color="#7700AD">Skyline-Peripheral</font>'''
+! style="background-color: #9000ff; " |'''<font color="#7100ad">Peripheral</font>'''
+|-
+|Jump (Climbable)
+| style="background-color: #000dbd;" |270 stud
+| style="background-color: #0033BD;" |271 stud
+| style="background-color: #005980;" |272 stud
+| style="background-color: #014C40;" |273 stud
+| style="background-color: #014500;" |274 stud
+| style="background-color: #1A5200;" |275 stud
+| style="background-color: #336000;" |277 stud
+| style="background-color: #506000;" |278 stud
+| style="background-color: #6d5c00;" |279 stud
+| style="background-color: #815C00;" |280 stud
+| style="background-color: #964a00;" |281 stud
+| style="background-color: #782500;" |282 stud
+| style="background-color: #5a0000;" |283 stud
+| style="background-color: #570055;" |285 stud
+| style="background-color: #550055;" |286 stud
+| style="background-color: #4F0082;" |288 stud
+| style="background-color: #4a0082;" |290 stud
+|-
+|Jump (Unclimbable)
+| style="background-color: #000dbd;" |269.5 stud
+| style="background-color: #0033BD;" |270.5 stud
+| style="background-color: #005980;" |271.5 stud
+| style="background-color: #014C40;" | 272.5 stud
+| style="background-color: #014500;" | 273.5 stud
+| style="background-color: #1A5200;" | 274.5 stud
+| style="background-color: #336000;" | 276.5 stud
+| style="background-color: #506000;" | 277.5 stud
+| style="background-color: #6d5c00;" | 278.5 stud
+| style="background-color: #815C00;" | 279.5 stud
+| style="background-color: #964a00;" | 280.5 stud
+| style="background-color: #782500;" | 281.5 stud
+| style="background-color: #5a0000;" | 282.5 stud
+| style="background-color: #570055;" | 284.5 stud
+| style="background-color: #550055;" | 285.5 stud
+| style="background-color: #4F0082;" | 287.5 stud
+| style="background-color: #4a0082;" | 289.5 stud
+|-
+|Wraparound (Climbable)
+| style="background-color: #000dbd;" |268 stud
+| style="background-color: #0033BD;" |269 stud
+| style="background-color: #005980;" |270 stud
+| style="background-color: #014C40;" |271 stud
+| style="background-color: #014500;" |272 stud
+| style="background-color: #1A5200;" |273 stud
+| style="background-color: #336000;" |275 stud
+| style="background-color: #506000;" |276 stud
+| style="background-color: #6d5c00;" |277 stud
+| style="background-color: #815C00;" |278 stud
+| style="background-color: #964a00;" |279 stud
+| style="background-color: #782500;" |280 stud
+| style="background-color: #5a0000;" |281 stud
+| style="background-color: #570055;" |283 stud
+| style="background-color: #550055;" |284 stud
+| style="background-color: #4F0082;" |286 stud
+| style="background-color: #4a0082;" |288 stud
+|-
+|Wraparound (Unclimbable)
+| style="background-color: #000dbd;" |268.5 stud
+| style="background-color: #0033BD;" |269.5 stud
+| style="background-color: #005980;" |270.5 stud
+| style="background-color: #014C40;" | 271.5 stud
+| style="background-color: #014500;" | 272.5 stud
+| style="background-color: #1A5200;" | 273.5 stud
+| style="background-color: #336000;" |275.5 stud 
+| style="background-color: #506000;" |276.5 stud 
+| style="background-color: #6d5c00;" |277.5 stud 
+| style="background-color: #815C00;" | 278.5 stud
+| style="background-color: #964a00;" | 279.5 stud
+| style="background-color: #782500;" | 280.5 stud
+| style="background-color: #5a0000;" | 281.5 stud
+| style="background-color: #570055;" | 283.5 stud
+| style="background-color: #550055;" | 284.5 stud
+| style="background-color: #4F0082;" | 286.5 stud
+| style="background-color: #4a0082;" |288.5 stud 
+|-
+|Stickout (Climbable)
+| style="background-color: #000dbd;" |266 stud
+| style="background-color: #0033BD;" |267 stud
+| style="background-color: #005980;" |268 stud
+| style="background-color: #014C40;" |269 stud
+| style="background-color: #014500;" |270 stud
+| style="background-color: #1A5200;" |271 stud
+| style="background-color: #336000;" |273 stud
+| style="background-color: #506000;" |274 stud
+| style="background-color: #6d5c00;" |275 stud
+| style="background-color: #815C00;" |276 stud
+| style="background-color: #964a00;" |277 stud
+| style="background-color: #782500;" |278 stud
+| style="background-color: #5a0000;" |279 stud
+| style="background-color: #570055;" |281 stud
+| style="background-color: #550055;" |282 stud
+
+| style="background-color: #4F0082;" |284 stud
+| style="background-color: #4a0082;" |286 stud
+|-
+| Stickout (Unclimbable)
+| style="background-color: #000dbd;" |265.5 stud
+| style="background-color: #0033BD;" |266.5 stud
+| style="background-color: #005980;" |267.5 stud
+| style="background-color: #014C40;" |268.5 stud 
+| style="background-color: #014500;" |269.5 stud 
+| style="background-color: #1A5200;" | 270.5 stud
+| style="background-color: #336000;" | 272.5 stud
+| style="background-color: #506000;" | 273.5 stud
+| style="background-color: #6d5c00;" | 274.5 stud
+| style="background-color: #815C00;" | 275.5 stud
+| style="background-color: #964a00;" | 276.5 stud
+| style="background-color: #782500;" | 277.5 stud
+| style="background-color: #5a0000;" | 278.5 stud
+| style="background-color: #570055;" | 280.5 stud
+| style="background-color: #550055;" | 281.5 stud
+| style="background-color: #4F0082;" | 283.5 stud
+| style="background-color: #4a0082;" | 285.5 stud
+|-
+|Walkaround (Climbable)
+| style="background-color: #000dbd;" |250 stud
+| style="background-color: #0033BD;" |251 stud
+| style="background-color: #005980;" |252 stud
+| style="background-color: #014C40;" |253 stud
+| style="background-color: #014500;" |254 stud
+| style="background-color: #1A5200;" |255 stud
+| style="background-color: #336000;" |257 stud
+| style="background-color: #506000;" |258 stud
+| style="background-color: #6d5c00;" |259 stud
+| style="background-color: #815C00;" |260 stud
+| style="background-color: #964a00;" |261 stud
+| style="background-color: #782500;" |262 stud
+| style="background-color: #5a0000;" |263 stud
+| style="background-color: #570055;" |265 stud
+| style="background-color: #550055;" |266 stud
+| style="background-color: #4F0082;" |268 stud
+| style="background-color: #4a0082;" |270 stud
+|-
+|Walkaround (Unclimbable)
+| style="background-color: #000dbd;" |249.5 stud
+| style="background-color: #0033BD;" |250.5 stud
+| style="background-color: #005980;" |251.5 stud
+| style="background-color: #014C40;" | 252.5 stud
+| style="background-color: #014500;" | 253.5 stud
+| style="background-color: #1A5200;" | 254.5 stud
+| style="background-color: #336000;" | 256.5 stud
+| style="background-color: #506000;" | 257.5 stud
+| style="background-color: #6d5c00;" | 258.5 stud
+| style="background-color: #815C00;" | 259.5 stud
+| style="background-color: #964a00;" | 260.5 stud
+| style="background-color: #782500;" | 261.5 stud
+| style="background-color: #5a0000;" | 262.5 stud
+| style="background-color: #570055;" | 264.5 stud
+| style="background-color: #550055;" | 265.5 stud
+| style="background-color: #4F0082;" | 267.5 stud
+| style="background-color: #4a0082;" | 269.5 stud
+|-
+|Killbrick Wrap (Climbable)
+| style="background-color: #000dbd;" |254 stud
+| style="background-color: #0033BD;" |255 stud
+| style="background-color: #005980;" |256 stud
+| style="background-color: #014C40;" |257 stud
+| style="background-color: #014500;" |258 stud
+| style="background-color: #1A5200;" |259 stud
+| style="background-color: #336000;" |261 stud
+| style="background-color: #506000;" |262 stud
+| style="background-color: #6d5c00;" |263 stud
+| style="background-color: #815C00;" |264 stud
+| style="background-color: #964a00;" |265 stud
+| style="background-color: #782500;" |266 stud
+| style="background-color: #5a0000;" |267 stud
+| style="background-color: #570055;" |269 stud
+| style="background-color: #550055;" |270 stud
+| style="background-color: #4F0082;" |272 stud
+| style="background-color: #4a0082;" |274 stud
+
+|-
+|Killbrick Wrap (Unclimbable)
+| style="background-color: #000dbd;" |253.5 stud
+| style="background-color: #0033BD;" |254.5 stud
+| style="background-color: #005980;" |255.5 stud
+| style="background-color: #014C40;" | 256.5 stud
+| style="background-color: #014500;" | 257.5 stud
+| style="background-color: #1A5200;" | 258.5 stud
+| style="background-color: #336000;" | 260.5 stud
+| style="background-color: #506000;" | 261.5 stud
+| style="background-color: #6d5c00;" | 262.5 stud
+| style="background-color: #815C00;" | 263.5 stud
+| style="background-color: #964a00;" | 264.5 stud
+| style="background-color: #782500;" | 265.5 stud
+| style="background-color: #5a0000;" | 266.5 stud
+| style="background-color: #570055;" | 268.5 stud
+| style="background-color: #550055;" | 269.5 stud
+| style="background-color: #4F0082;" | 271.5 stud
+| style="background-color: #4a0082;" | 273.5 stud
+|-
+|Truss Jump 
+| style="background-color: #000dbd;" |268 stud
+| style="background-color: #0033BD;" |269 stud
+| style="background-color: #005980;" |270 stud
+| style="background-color: #014C40;" |271 stud
+| style="background-color: #014500;" |272 stud
+| style="background-color: #1A5200;" |273 stud
+| style="background-color: #336000;" |275 stud
+| style="background-color: #506000;" |276 stud
+| style="background-color: #6d5c00;" |277 stud
+| style="background-color: #815C00;" |278 stud
+| style="background-color: #964a00;" |279 stud
+| style="background-color: #782500;" |280 stud
+| style="background-color: #5a0000;" |281 stud
+| style="background-color: #570055;" |283 stud
+
+| style="background-color: #550055;" |284 stud
+| style="background-color: #4F0082;" |286 stud
+
+| style="background-color: #4a0082;" |288 stud
+
+|-
+| Wallhop Jump
+| style="background-color: #000dbd;" |266 stud
+| style="background-color: #0033BD;" |267 stud
+| style="background-color: #005980;" |268 stud
+| style="background-color: #014C40;" |269 stud
+| style="background-color: #014500;" |270 stud
+| style="background-color: #1A5200;" |271 stud
+| style="background-color: #336000;" |273 stud
+| style="background-color: #506000;" |274 stud
+| style="background-color: #6d5c00;" |275 stud
+| style="background-color: #815C00;" |276 stud
+| style="background-color: #964a00;" |277 stud
+| style="background-color: #782500;" |278 stud
+| style="background-color: #5a0000;" |279 stud
+| style="background-color: #570055;" |281 stud
+| style="background-color: #550055;" |282 stud
+| style="background-color: #4F0082;" |284 stud
+| style="background-color: #4a0082;" |286 stud
+|-
+|}
+
+=== Special Obstacles ===
+WIP
+
+==Towers==
+
+<tabber>
+Non-Fictional=
+*[[Pikachu Tower]] (Mid) [https://www.roblox.com/games/10406214285/Pikachu-Tower-R8-Quasis-Towers-of-Nonsense QToN Ring 8]
+|-|
+Fictional=
+*Tower of Windows Ninety-Six: True Ending: Resislient Glow (ToWN:RG) (Bottom)
+*[[Citadel of Distant Horizons]] (CoDH) (Low)
+*Tower of Wildly Wacky Wonders: Omega Buff (ToWWW:OB) (Low-Mid)
+*[[Pikachu Tower]] (Mid)
+*Steeple of Ascending Red (SoAR) (Mid-High)
+*Tower of Spiralling Fates: Omega Buff (ToSF:OB) (High)
+*Futuristic Ascension Troublesome Extremity Facility (Tower) (FATE Facility) (High-Peak)
+*Obelisk of Counting The Years (OoCTY) (Peak)
+|-|
+Containing=
+Currently none, feel free to add this difficulty into your Difficulty Charts!
+|-|
+</tabber>
+
+==Trivia==
+* While the icon, background, and music are also related to the album, Windows96 - How To See Through Walls, the name for the difficulty is Resilient Glow, a track in the album †Nematophy, also by Windows96. The former track used is Visage from One Hundred Mornings, which is still by Windows96
+*This is Akui's second Difficulty
+*This difficulty took 5 hours to finish (including breaks)
+**Though, it is currently receiving an overhaul
+
+==Continuing From This Point==
+
+I have no words. You're truly perfect at obbying. This is perhaps the biggest achievement in obbying. While most would have said that this would remain as the eternal hardest, it’s actually a meaningless title. The skill is improving exponentially, obbyists have gone rampant in conquering difficulties. It seems like that there’s no stopping you now. This difficulty was just another small roadblock, nowhere near the end of the road. There’s still much left to be conquered. You are still at the start of the difficulty chart. And even though skill is improving exponentially, there’s still more difficulties left. There will always be more left, and they will never be conquered. You should have realized that every difficulty conquered is meaningless, and you should have stopped a long time ago. But if you still want to attempt to conquer the difficulty chart, something that will be impossible, head over to [[File:Peculiar Wavestats.png|30px]] [[Arcane]], not your stopping point, but maybe in a few classes, you will realize how big of a mistake it was to attempt the impossible challenge of the difficulty chart.
+
+I’m not telling you to give up, even if you realize that it’s impossible, you should never give up. Keep trying, and maybe, the impossible would be defied yet again. Head over to [[File:ArcaneDifficulty.png|30px]] [[Arcane]], and I wish you good luck on it and the rest of the chart.
+
+<div class="mw-collapsible mw-collapsed" style="float: left;">
+<div class="mw-collapsible-toggle">A few words of advice…</div>
+<div class="mw-collapsible-content"><div style="background: linear-gradient(to bottom, #000000, #360000); border: 12px solid #000; padding: 30px 13px;">
+
+...
+
+On September 18th, 2019, the first Soul-Crushing tower was added, Tower of Confusion, being in "GODSPEED" difficulty. Now [[File:InsaneDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Insane|Insane]] difficulty, it was the hardest tower to be added into the game at the time, so hard that it was deemed higher than [[File:RemorselessDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Remorseless|Remorseless]], truly impossible. Later, Goose4000 became the first person to conquer the Tower of Confusion, subsequently becoming the first Soul-Crushing player and Elite Obbyist. People thought it was impossible, the final hardest tower. Little did they know that this was merely the start of difficulty. More Soul-Crushing towers would be added, including the original Tower of Difficulty Chart. Each floor would be a difficulty, but at the time, there were only 8 different difficulties. They had to create new difficulties, even above the seemingly impossible GODSPEED. The final 2 floors of the tower have the difficulty of DEATH and Slamo, which later became [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]] and [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|Nil]]. The difficulty GODSPEED would later be split into the 4 Soul-Crushings we know today as [[File:InsaneDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Insane|Insane]], [[File:ExtremeDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Extreme|Extreme]], [[File:TerrifyingDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Terrifying|Terrifying]], and [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]].
+
+Tower of Confusion would be deemed as  [[File:InsaneDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Insane|Insane]] difficulty, the first quarter of the stretch of impossibility and difficulty known as the Soul-Crushings. At the end of the road was [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]], the final difficulty, and the one that sits above all the other difficulties, seemingly out of reach, most likely forever. January of the next year, 2019, the Tower of Inception was added. Breaking through another barrier of difficulty, it was [[File:TerrifyingDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Terrifying|Terrifying]], the penultimate difficulty. It seemed impossible, sitting 2 difficulties above the infamous Tower of Confusion. Until it was beaten.
+
+"You seem very persistent in these towers... Hopefully, ToER will stop you"
+
+January 2020, ToER was added. More than a year after the initial creation of the difficulty [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]], it would finally be reached. However, it was another full difficulty above Tower of Inception, a whole new level of difficulty, far beyond the current skill limit. [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]] seemed impossible, just too far up, too punishing, too demanding. Until July. Tower of Generation Failure, being Bottom [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]], a bit higher than the High-Peak [[File:TerrifyingDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Terrifying|Terrifying]] of Tower of Inception, just barely in the range of possibility.
+
+But when will it be conquered? August and September pasted, and still, no one beat it. But, on October 18th, 2020, possibilities were defied. [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]] would be conquered, with Tower of Generation Failure being defeated. But that was just merely the start of the [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]] difficulty, just barely putting your hands through the gate of impossibility, just a tiny bit of [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]].
+
+April of 2021, the long-awaited final ring of The Great Inferno, Ring 9, released. Being the final ring, the ring was a Soul-Crushing ring, with the majority of the tower's difficulty being Soul-Crushing, [[File:InsaneDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Insane|Insane]], [[File:ExtremeDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Extreme|Extreme]], [[File:TerrifyingDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Terrifying|Terrifying]], and [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]]. And 2 more challenges, Tower of Champion's Road and the Tower of Cruel Punishment, a Peak [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]], 11.99, the true end of all difficulties. Exactly one year after the Tower of Generation Failure was added, the Tower of Cruel Punishment was conquered, right there in Ring 9, July 19th, 2021.
+
+This was the end of the road, the finale of the final difficulty, [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]], there's now nothing left. What was once deemed pure death and completely impossible has now been fully conquered.
+
+Or was it.
+
+March 20th, 2022, the Pit of Misery was added. You see, [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]] was never the true end of difficulties. There had been three difficulties sitting above it, [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]], [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]], and [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|Nil]]. They had all been previous removed due to being impossible, far beyond the skill celling at the time. They were unnecessary, not needed, and too difficult to ever be conquered. 
+
+But now they weren't. 
+
+[[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]] and [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] had now both been re-added back, as they now weren't impossible with the conquering of the Tower of Cruel Punishment. With 4 unconquered [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]] towers, Tower of Vacant Hindrances, Tower of Water Melon, Tower of The Roof's Pique, and Tower of Eternal Void, there was now more beyond the final difficulty of  [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]]. Stretching another level above that, the true final barrier than would most likely not be surpassed, was  [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]], with 2 towers, Tower of Blind Fate and Tower of Spiralling Fates. Way far beyond  [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]], it would be downright ridiculous to claim that you had completed an [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] tower. But [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]] wasn't, it seemed to be just barely possible to be beaten, since the difference between Tower of Cruel Punishment and Tower of Vacant Hinderances was merely 0.01. It was definitely possible to be reached. But it wasn't going to be easy. At all. 
+
+A year after the Tower of Cruel Punishment, the once thought final hardest tower, would be surpassed. [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]] would be reached, with Tower of Vacant Hindrances being conquered, March 22nd, 2022. We barely reached [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]], it was the end. Stepping deep into the depths of impossibility, our feet could barely brush against the sand, barely staying alive from drowning. But surely this wasn't the end. We just stepped foot in [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]], surely this wasn't the end of [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]]? Surely there would be more to be conquered in [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]]. 
+
+July 26th, 2022, the hardest [[File:NewHorrific.webp|frameless|30x30px]] [[w:c:jtoh:Horrific|Horrific]] tower would be beaten. Tower of Eternal Void. There was once a tower called the Citadel of Void. It was a Peak [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|Nil]] tower, never to ever be conquered, something impossible. It served no purpose other than being a hardest tower, as it wouldn't ever be beaten. May 17th, 2020, it was cancelled, never seen again. Or would it. Risen from the shadows of the Citadel of Void emerges the Tower of Eternal Void, the first ten floors of the citadel, nerfed to be barely within human possibility. However, the citadel still twelve more floors to offer, much more difficult than the first ten floors. The remaining twelve floors would be nerfed and became the Citadel of Infinite Void, being a Bottom-Low [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] tower. 
+
+More than a year after the conquering of the Tower of Eternal Void, Citadel of Infinite Void would be defeated, on October 15th, 2023. [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] had been reached, but just barely. It was like the new Tower of Generation Failure, barely stepping into the hardest difficulty, the end of possibility. February 16th, 2024, another [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] would be conquered, that being the Tower of Blind Fate. And now there was only one tower in JToH left. Tower of Spiralling Fates. It was Low[[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]], a bit harder than the Citadel of Infinite Void. It would be conquered. It would take a long time, but one day. JToH would be fully conquered. 
+
+"I LOVE JTOH!!!" 
+
+And that day was October 27th, 2024. JToH was fully conquered. All [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] towers in JToH have been defeated. But it was still merely a Low [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]], still just barely stepping foot into the [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] range. There was still more. There was more. And the end of [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] was the Tower of Hyperfantasian Daydreams. Just like its name, beating it was not possible, daydreaming. But would [[File:NewUnrealIcon.png|frameless|30x30px]] [[w:c:jtoh:Unreal|Unreal]] ever be fully conquered? Eventually, it would be conquered, the Tower of Hyperfantasian Daydreams. 
+
+But there was still something above.  
+
+[[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|Nil]].  
+
+What was once merely a joke difficulty named after Slamo had now came back, the final challenge. Being humanly impossible. Or will it? Would [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|Nil]] be conquered? And what tower would it be? Tower of Vague Luminescence? Tower of the Drive Towards Human Limits? It doesn't matter which are these would be conquered, it would always be the final achievement, the end, the impossible. But even if these towers were to be conquered, [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|Nil]] would still remain not fully conquered. There were still more towers left. The Great Centurial, Peak [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|Nil]]. The end. The end of everything that had ever been added in JToH. Every difficulty. Every tower. Every area. It was the true end, the truest it could be. You couldn't go beyond, or merely even touch it. 
+
+It was never meant to be this way. 
+
+And yet, [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|Nil]] wasn't the end. It didn't stop anyone. And it didn't stop you. [[File:ErrorDifficulty.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Error|Error]] still sat above it. And Tower of Spiralling Fates: Buffed was conquered. We have officially gone past the end. It wasn't meant to be.  
+
+[[File:Literal3.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Literal|Literal]] was conquered.  
+
+[[File:WhySDC.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:WHY|WHY]] was defeated.  
+
+[[File:NoDifficulty.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:NO|No]], [[File:Purgatory.png|frameless|30x30px]] [[Purgatory]], [[File:DEATH-0.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:DEATH|DEATH]], everything that was thought impossible had been conquered. 
+
+[[File:NullifyingRevampedIcon.png|frameless|31x31px]] [[Nullifying|NULLIFYING]], [[File:NewHELL.jpeg|frameless|30x30px]] [[w:c:jtohs-hardest-towers:HELL|HELL]], [[File:NewTARTARUS.jpeg|frameless|30x30px]] [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]], [[File:NewCALAMITY.jpeg|frameless|30x30px]] [[CALAMITY]], [[File:Neutralize 2.jpg|frameless|30x30px]] [[Neutralize|NEUTRALIZE]], [[File:Killjoying.jpg|frameless|30x30px]] [[Killjoying|KILLJOYING]], [[File:Contradiction Alternative.jpeg|frameless|30x30px]] [[User blog:EpicTheGamer2014/Contradiction|CONTRADICTION]], all shadows of the long-conquered Soul-Crushings have been defeated. 
+
+[[File:MosaicNew.png|frameless|30x30px]] [[User blog:EpicTheGamer2014/Mosaic|Mosaic]], [[File:UnimaginableDifficulty.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]], [[File:Me when new dimension icon.webp|frameless|30x30px]] [[Dimension]], [[File:Disarray.png|frameless|30x30px]] [[Disarray]], they all couldn't stop you. 
+
+[[File:Omega akaTowerRushDifficulty.gif|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Omega|Omega]],  [[File:SUFFER.png|frameless|30x30px]] [[SUFFER]], [[File:CHAOS2.png|frameless|30x30px]] [[CHAOS]], [[File:Incomprehensible2.png|frameless|30x30px]] [[User blog:EpicTheGamer2014/Incomprehensible|Incomprehensible]], [[File:Shimeshimeyehshimeyehshimeyaah.jpg|frameless|30x30px]] [[Reality]], [[File:AlephnullDifficulty.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Aleph-Null|Aleph-Null]], [[File:ImmeasurableDifficulty.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]], [[File:Noxious.png|frameless|30x30px]] [[Noxious]], all luck and reality has been defied. 
+
+[[File:Malicious.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Malicious|Malicious]]. The end of the JHT spectrum. Once created as the finale of the finale, it is the end. Even TAS would struggle immensely on this difficulty. Yet you preserved. Defied another and another barrier. Defeating another and another difficulty. And it brought you to the end. The end of TAS. It would require something with precision even higher than TAS to surpass this. But all of these warnings, all of these so called "impossible" difficulties never stopped you. You still persevered and continued. [[File:Malicious.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Malicious|Malicious]] would still be conquered. Were you the first to conquer it? Probably not. But still, you had surpassed this. The limit of TAS. 
+
+But you didn't stop.  
+
+All sorts of difficulties have been conquered, from [[File:Malevolent.png|frameless|30x30px]] [[Malevolent]] to [[File:Invigorating.jpg|frameless|30x30px]] [[Invigorating]], from [[File:Apocalyptic.png|frameless|30x30px]] [[Apocalyptic]] to [[File:DESTRUCTIVE.png|frameless|30x30px]] [[Destructive]]. They've brought you to the finale before the final stretch. But it wasn't impossible. [[File:Vicious.png|frameless|30x30px]] [[User blog:EpicTheGamer2014/Vicious|Vicious]], it wasn't the end, rather the beginning of the next chapter, taking immeasurably longer than the previous. And it was going to be reached. [[File:MonstrousNew.jpg|frameless|30x30px]] [[Monstrous]] to [[File:Critical.png|frameless|30x30px]] [[Critical]], the red zone of the finale of physical possibility. The Road of Pseudo Difficulties of [[File:Winter New.png|frameless|30x30px]] [[Winter]] to [[File:D-I-E.png|frameless|30x30px]] [[D-I-E]], they've all brought you to this point. This difficulty, the final stretch before the end of physical possibility, known as [[File:SupremeRemake.webp|frameless|30x30px]] [[Supreme]]. What lies ahead of you is the true end. The end of physical possibility. If what you have done is improbable, then this overcoming this is downright impossible. It is physically impossible. And right here is the start of the finale. The true finale.
+
+But that never deterred you, you ended up passing all of these difficulties. We were naive thinking that there would be an ultimate final difficulty and ultimate final tower. But there was none, everything claimed impossible, they were always wrong. Over these years, numerous things believed to be impossible were done; the nil difficulty, the physical possibility limits. Seeing these challenges being overcome must have been very gratifying and pleasant. These difficulties are endless, like a layer of dreams, waking up from one and one, just to be sent into another layer. Difficulties beaten time and time again, yet always sent to the next. In one way or another, our progress is accelerating at an alarming rate. It must have been extremely hard to keep up with the progress that we saw. It’s a little reminiscent of our progression in technology, people never believed flight was possible, yet it still happened. In ancient times, the moon has often been associated with religious means. Yet now, we have stepped on it. Explore the vast unknown and the far beyond. We began as wanderers, and we are wanderers still. We’ve been exploring the landscape of difficulties just like how it was to take your first steps in the Tower of Annoyingly Simple Trials. Ascending that tower, taking each step cautiously. And now ascending the realm of the difficulties. We are not just ascending the tower of difficulties, we are building it with more and more difficulties added. It grows every single day, taller and taller, as an attempt to reach the grand finale of it all; the shoreline of totality.
+
+The completion of Tower of Confusion brought a blessing and a curse, we advanced towards a new era full of opportunities, yet seemingly, we have trapped ourselves within this new era. Your first soul-crushing beaten must have made you so grateful, a feeling that cannot be accurately described, and a feeling will only ever be experienced once and only once. The struggles on Floor 10 was unpleasant, yet it will never be experienced ever again. We failed on the Tower of Thinning Layers for the last time, then beating it. Unknowingly, that would be the last time you experience that adrenaline rush on that exact tower. In the moment, it would have felt bad, but in the far future you will see just how far you come and how you will miss the old times with these struggles.
+
+Over and over again there was a barrier. We’ve always thought that this was the end, yet there was no end, just more and more endless advancements. A long time ago, the [[File:InsaneDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Insane|Insane]] Tower of Confusion was the hardest. It was well-known to be the hardest tower, something nearly impossible.  
+
+But Insane merely has a rating of 9. 
+
+Looking back, we see it with a different perspective? This is the unimaginably hard Tower of Confusion? And that was the impossible Citadel of Void? And that was what they thought would bring them to the end of difficulty? Impressive, but merely just a quark of what we have now. Just look at what we have now, just how hard we can reach, how high we can go, how fast we're improving. Surely now we would be reaching the gods, surely now we would be reaching the end of difficulties. Yet in a few years or so, the people of the future will look at us just like how we looked the at Tower of Confusion. Impressive, but merely a spec of dust compared to now.
+
+... 
+
+GG.
+
+</div> </div>
+</div>
+
+<span style="color: transparent;">stop reading this</span>
+
+<span style="color: transparent;">stop reading this</span>
+
+<span style="color: transparent;">stop reading this</span>
+
+----{{BetterQuote|text=And all of that brought you here, to another minor roadblock of a series of infinitely many, roadblocks. Perhaps only through the reflection of mirroring of these overlooked entries could we see the truth of the endless progression of difficulties and the reason why we made so far; residing behind the layers of mist obfuscating it all.|quoter=???}}
+----<font size="5"><center>« [[File:Not a reason.jpg|40px]] [[Unreasonable]] | [[File:Resilient Glow.png|60x60px]] <span id="resilient">Resilient Glow</span> | [[File:Peculiar Wavestats.png|40px]] [[Arcane]] »</center></font>
+{{DifficultiesNavbox}}
+[[Category:Essay pages]]
+[[Category:Difficulties]]
+[[Category:Music Related]]

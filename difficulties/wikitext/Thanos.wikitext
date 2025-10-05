@@ -1,0 +1,56 @@
+{{DISPLAYTITLE:<span id="Thanos">'''Thanos'''</span>}}
+__NOEDITSECTION____NOTOC__
+{{Removed}}{{Needs Polishing}}{{BetterQuote
+|text=R.I.P Thanos difficulty
+|quoter=Grave at [[Thanos Tower]]'s winroom}}
+{{DifficultyTab
+|mainchange=Thanos
+|changebg=#450096
+|textcolormain=FFF
+|difficulty1=Insane
+|diffcolor1=0035CC
+|textcolor1=FFF
+|difficulty2=Extreme
+|diffcolor2=0389FF
+|textcolor2=FFF
+|type=Removed
+|custom=Gallery
+}}
+{{DifficultyInfobox
+|title1=Thanos
+|image1=ThanosIcon.png
+|type=[[Soul Crushing|Soul-Crushing]]
+|previous={{Difficulty|Insane}} [[Insane|<span id="Insane">'''Insane'''</span>]]
+|next={{Difficulty|Extreme}} [[Extreme|<span id="Extreme">'''Extreme'''</span>]]
+|prior_previous={{Difficulty|Extreme}} [[Extreme]] (before TT was nerfed)
+|prior_next=* {{Difficulty|Insane}} [[Insane]] (before TT was updated)
+* {{Difficulty|Terrifying}} [[Terrifying]] (before TT was nerfed)
+|rbg_color=69, 0, 150
+|hex_color=440096
+|cmyk_color=55%, 100%, 0%, 41%
+|hsv_color=267°, 100%, 58.8%
+|hsl_color=267°, 100%, 29.4%}}
+''Not to be confused with [[Thanos Tower]].''
+
+{{Difficulty|Thanos|20px}} <span id="Thanos">'''Thanos'''</span> was a sub-difficulty represented by the color Indigo placed to the left side of [[Insane|<span id="Insane">'''Insane'''</span>]] on the Difficulty Chart, the difficulty was formerly exclusive to one Tower, [[Thanos Tower]] in [[Ring 1]]. Thanos Tower was factually High-Peak <span id="Insane">'''Insane'''</span> back then along with the difficulty being useless, which is why it was removed from the game. Since its removal, in TT's [[winroom]], there is a grave on one of the corners of the island reading "R.I.P Thanos Difficulty".
+{{Header|[[Towers]] with this Difficulty}}
+<tabber>
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+*TT - [[Thanos Tower]] (formerly)
+</tabber>
+{{Header|History}}
+This difficulty, similarly to [[Effortless|<span id="Effortless">'''Effortless'''</span>]] and [[nil|<span id="nil">'''nil'''</span>]], was used for one [[Tower]]. <span id="Thanos">'''Thanos'''</span> difficulty used to be a removed difficulty just like <span id="Effortless">'''Effortless'''</span>, [[Horrific|<span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #9691FF, 0px 0px 5px #9691FF">'''Horrific'''</span>]],  [[Unreal|<span style="color:#070002;text-shadow:0 0 1px #070002, 0px 0px 5px #4B00C8, 0px 0px 5px #4B00C8">'''Unreal'''</span>]] and <span id="nil">'''nil'''</span>. This difficulty used to be in between [[Extreme|<span id="Extreme">'''Extreme'''</span>]] and [[Terrifying|<span id="Terrifying">'''Terrifying'''</span>]] difficulties before Thanos Tower was nerfed to High <span id="Insane">'''Insane'''</span> difficulty. When it was nerfed, <span id="Thanos">'''Thanos'''</span> difficulty changed to be in between [[Remorseless|<span id="Remorseless">'''Remorseless'''</span>]] and <span id="Insane">'''Insane'''</span>, until it was removed. It was recently brought back with the Thanos Tower update. However, it was once again removed when "The Purple Update" arrived.<ref group="lower-alpha">More about that [https://discord.com/channels/551741409624064011/551911984149299220/895107383284617216 here].</ref> It has been removed from the difficulty chart for unknown reasons though, so it is hypothetical that it could come back before "The Purple Update" arrives.
+
+{{Header|Gallery}}
+<gallery widths="185" spacing="small" columns="3" captionsize="large" captionalign="center" hideaddbutton="true">
+File:Screen Shot 2019-05-25 at 9.30.56 AM.png|Thanos Tower at <span id="Thanos">'''Thanos'''</span> difficulty.
+</gallery>
+''To view more images relating to '''{{PAGENAME}}''', click [[/Gallery|here]].''
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Soul Crushing]]
+[[Category:Ring 1]]
+[[Category:Thanos]]
+[[Category:Removed]]

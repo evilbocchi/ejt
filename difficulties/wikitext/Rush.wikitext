@@ -1,0 +1,98 @@
+__NOTOC__
+{{Scrollbox|Notices=
+'''Notices'''
+{{Challenge Page}}
+{{Physically Impossible}}
+}}
+----
+{{JToHW Quote|text='''ahoashdgipahsdpighadsiphgioaw help me i only have 15 minutes to make this page'''|quoter='''sanjay2133 person'''}}
+----
+{{NewDifficultyInfobox|title1=<span style="color:cornflowerblue;text-shadow:0 2px 5px:cornflowerblue;font-family:Josefin Slab">Rush</span>|image1=Rush.png|caption1=AAAA WHAT DO I PUT HERE|class=Class 9|rating=91|type=*Normal
+*Physically Impossible
+*Challenge
+*Unofficial|previous=[[File:Screenshot 2020-09-26 032504.jpg|35px]] [[The Crystal Core]]|next=[[File:Hhhhhhhhhhhh.png|30px]] [[Aleph-VSC]]|class_range=Baseline Class 13|difficulty_range=Baseline to Peak|creator(s)=Sanjay2133|date_added=Apr 3, 2023|decal_id=[https://create.roblox.com/store/asset/80806772936546/Rush 80806772936546]}}
+
+==What is [[File:Rush.png|50x50px]] <span style="color:cornflowerblue;text-shadow:0 2px 5px:cornflowerblue;font-family:Josefin Slab">Rush</span>?==
+[[File:Rush.png|30px]] <span style="color:cornflowerblue;text-shadow:0 2px 5px:cornflowerblue;font-family:Josefin Slab">Rush</span> is a physically impossible difficulty that resides in class 9, before [[File:Hhhhhhhhhhhh.png|30px]] [[Aleph-VSC]], yet after [[File:Screenshot 2020-09-26 032504.jpg|35px]] [[The Crystal Core]]. It has certainly impossible jumps, obstacles the Roblox engine may not even be able to handle.
+
+[[File:Rush.png|30px]] <span style="color:cornflowerblue;text-shadow:0 2px 5px:cornflowerblue;font-family:Josefin Slab">Rush</span> is a gimmicky difficulty, as it resides on time limits. Similarly, the page of this difficulty was made in 15 minutes, meaning that this isn't going to be one of the most high quality pages.
+
+Due to this, the raw difficulty of this difficulty may be easier, but the constrained time limit certainly won't make it easy. Despite the time limit, it still won't be easy. You won't be able to beat the obstacles even without the time constraints. The time limits are designed in such a way that one would have to speedrun the obstacles in an almost optimal manner.
+
+The Kol Metris rating of this difficulty is |~1920| and the tier rating of this difficulty would be around 20No.
+
+==Icon Representation==
+[[File:Rush.png|center|200x200px]]
+<center> The icon depicts a dark blue with a few squares in the corners and various lines forming a border. In the center, there is text saying "RUSH" with light blue lines at the bottom. </center>
+
+== Catches==
+
+*Every obstacle of this difficulty is timed to be optimal
+*There are also timed buttons throughout this difficulty.
+*Luck is a big factor in this difficulty
+*Some obstacles require incredibly precise timing.
+
+==Obstacles==
+<tabber>
+|-|
+Baseline=
+*385 stud wraparound (unclimbable)
+*425 stud jump (unclimbable)
+*440 stud (climbable)
+*400 stud wraparound (climbable)
+*185 stud stickout
+|-|
+Low=
+*390 stud wraparound (unclimbable)
+*430 stud jump (unclimbable)
+*445 stud (climbable)
+*405 stud wraparound (climbable)
+*187.5 stud stickout
+|-|
+Mid=
+*395 stud wraparound (unclimbable)
+*430 stud jump (unclimbable)
+*445 stud (climbable)
+*410 stud wraparound (climbable)
+*190 stud stickout
+|-|
+High=
+*400 stud wraparound (unclimbable)
+*435 stud jump (unclimbable)
+*450 stud (climbable)
+*415 stud wraparound (climbable)
+*192.5 stud stickout
+|-|
+Peak=
+*405 stud wraparound (unclimbable)
+*440 stud jump (unclimbable)
+*455 stud (climbable)
+*420 stud wraparound (climbable)
+*195 stud stickout
+</tabber>
+
+==Trivia == 
+
+*This difficulty was made in 15 minutes
+**The icon of this difficulty was made in 3 minutes, meaning that in total this difficulty was made in 18 minutes
+*The creator made this while in school which is kinda funny
+*I only have like a minute left AAAAA
+
+==Towers ==
+
+===In this difficulty=== 
+
+*Tower of Time Constraints (fictional)
+* Steeple of Optimal Speedrunning (fictional)
+
+===Consisting this difficulty===
+
+*N/A
+
+==Continuing On==
+Please continue onto [[File:Hhhhhhhhhhhh.png|30px]] [[Aleph-VSC]] as soon as possible I have like 15 seconds left ok bye.
+{{DifficultiesNavbox}}
+[[Category:Class 9]]
+[[Category:Dificulty]]
+[[Category:Dificulties]]
+[[Category:Physically Impossible]]

@@ -1,0 +1,147 @@
+__NOTOC__{{Scrollbox|Notices='''Notice Scrollbox'''
+{{Humanly Impossible}}
+{{Large Page|reason='''11k+ Bytes'''}}}}<center><font size="5"><center>« <small>{{Class6Difficulties|Dissonant}} [[Dissonant]]</small> | <u>'''[[File:Mischievous.png|frameless|25x25px]]'''</u> <span><span>Mischievous</span></span> | [[File:Eldritch.jpg|30px]] [[ᴇʟᴅʀɪᴛᴄʜ]] »</center></font></center>{{NewDifficultyInfobox|title1=Mischievous|class=Class 5|type=Normal 
+|previous={{Class6Difficulties|Dissonant}} [[Dissonant]]|next=[[File:Eldritch.jpg|30px]] [[ᴇʟᴅʀɪᴛᴄʜ]]|<span style="background:linear-
+gradient(90deg,black,maroon,red,orange,black); -webkit-background-clip:text !important; -webkit-text-fill-
+color:transparent;">'''Vicious'''</span>]|class_range=Mid class 5|difficulty_range=Baseline to 
+Peak|creator(s)=Galaktor|date_added=05/21/2022|hex_color=#a83434|rbg_color=|image1=Mischievous.png|rgb_color=168, 52, 52|rating=38}}
+==What is [[File:Mischievous.png|frameless|30x30px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #a83434 0px 0.5px 6px;">Mischievous</span></span>?==
+[[File:Mischievous.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #a83434 0px 0.5px 6px;">Mischievous</span></span> is a mid class 5 difficulty located inbetween {{Class6Difficulties|Dissonant}} [[Dissonant]] and [[File:Eldritch.jpg|30px]] [[ᴇʟᴅʀɪᴛᴄʜ]]. This difficulty is located in the extreme limit of '''physically possible''' and '''physically impossible'''. The difficulty is borderline humanly impossible and would take years to verify a single obstacle from this difficulty. Even with '''Tool Assisted Superplay''' (TAS) and macros it would take hours. Lag spikes can make [[File:Mischievous.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #a83434 0px 0.5px 6px;">Mischievous</span></span> difficulty obstacles impossible at this point. It is almost beyond pixel and frame perfect.
+
+Doing a tower of this difficulty seems crazy. Everything is luck based and because of that, not even skill will be enough. To be able to beat a tower with [[File:Mischievous.png|frameless|30x30px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #a83434 0px 0.5px 6px;">Mischievous</span></span> difficulty, you'll need to use macros and FPS unlocker. But it's still not legit, so... Good luck.
+
+Overall, only robots and AIs would be humanly able to do any towers with this difficulty, if it's programmed correctly it could even do things harder.
+==Icon's representation==
+The icon is a simple red-greyish background, it's basically [[File:Nil revamp lol.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|<span>nil</span>]] icon but tinted with red. The colors in RGB and hex are:
+* a83434 (HEX)
+* 111, 57, 57 (RGB)
+The icon was made of a single color to fit perfectly a normal JToH-like difficulty.
+==Obstacles of [[File:Mischievous.png|frameless|30x30px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #a83434 0px 0.5px 6px;">Mischievous</span></span>==
+Obstacles are almost completely, if not, 100% luck based and are almost beyond frame and pixel perfect, so you will need a lot of tools and patience. Unless it's just an AI beating this but if it's the case I don't have anything to say. You will require extreme skill that no one would probably be able to get, it is utterly humanly impossible right now as of these current days.<div style="overflow:auto; height:400px;">
+{| class="fandom-table"
+|+Obstacles
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="black">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="black">Low</font>'''
+! style="background-color: yellow; " |'''<font color="black">Mid</font>'''
+! style="background-color: orange; " |'''<font color="black">High</font>'''
+! style="background-color: red; " |'''<font color="black">Peak</font>'''
+|-
+|Wraparounds
+| style="background-color: #014500;" |<font color="white">13.6 stud</font>
+| style="background-color: #336000;" |<font color="white">13.625 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">13.65 stud</font>
+| style="background-color: #964a00;" |<font color="white">13.675 stud</font>
+| style="background-color: #5a0000;" |<font color="white">13.7 stud</font>
+|-
+|Unclimbable Long Jump
+| style="background-color: #014500;" |<font color="white">13.9 stud</font>
+| style="background-color: #336000;" |<font color="white">13.95 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">14.0 stud</font>
+| style="background-color: #964a00;" |<font color="white">14.05 stud</font>
+| style="background-color: #5a0000;" |<font color="white">14.1 stud</font>
+|-
+|Climbable Long Jump
+| style="background-color: #014500;" |<font color="white">14.25 stud</font>
+| style="background-color: #336000;" |<font color="white">14.30 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">14.35 stud</font>
+| style="background-color: #964a00;" |<font color="white">14.4 stud</font>
+| style="background-color: #5a0000;" |<font color="white">14.45 stud</font>
+|-
+|Stick Out Wraparounds
+| style="background-color: #014500;" |<font color="white">1x6.3 stud</font>
+| style="background-color: #336000;" |<font color="white">1x6.35 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">1x6.4 stud</font>
+| style="background-color: #964a00;" |<font color="white">1x6.45 stud</font>
+| style="background-color: #5a0000;" |<font color="white">1x6.5 stud</font>
+|-
+|Cyllinder Wraparounds
+| style="background-color: #014500;" |<font color="white">12 stud</font>
+| style="background-color: #336000;" |<font color="white">12.05 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">12.1 stud</font>
+| style="background-color: #964a00;" |<font color="white">12.15 stud</font>
+| style="background-color: #5a0000;" |<font color="white">12.2 stud</font>
+|-
+|Raised Wraparounds (1)
+| style="background-color: #014500;" |<font color="white">12.6 stud</font> <font color="white">1.5 stud</font><font color="white">raised</font>
+| style="background-color: #336000;" |<font color="white">12.65 stud</font> <font color="white">1.5 stud</font><font color="white">raised</font>
+| style="background-color: #6d5c00;" |<font color="white">12.7 stud</font> <font color="white">1.5 stud</font><font color="white">raised</font>
+| style="background-color: #964a00;" |<font color="white">12.75 stud</font> <font color="white">1.5 stud</font><font color="white">raised</font>
+| style="background-color: #5a0000;" |<font color="white">12.8 stud</font> <font color="white">1.5 stud</font><font color="white">raised</font>
+|-
+|Raised Wraparounds (2)
+| style="background-color: #014500;" |<font color="white">12.8 stud</font> <font color="white">1.25 stud</font><font color="white">raised</font>
+| style="background-color: #336000;" |<font color="white">12.85 stud</font> <font color="white">1.25 stud</font><font color="white">raised</font>
+| style="background-color: #6d5c00;" |<font color="white">12.9 stud</font> <font color="white">1.25 stud</font><font color="white">raised</font>
+| style="background-color: #964a00;" |<font color="white">12.95 stud</font> <font color="white">1.25 stud</font><font color="white">aised</font>
+| style="background-color: #5a0000;" |<font color="white">13 stud</font> <font color="white">1.25 stud</font><font color="white">raised</font>
+|-
+|Truss Long Jump
+| style="background-color: #014500;" |<font color="white">16.1 stud</font>
+| style="background-color: #336000;" |<font color="white">16.15 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">16.2 stud</font>
+| style="background-color: #964a00;" |<font color="white">16.25 stud</font>
+| style="background-color: #5a0000;" |<font color="white">16.3 stud</font>
+|-
+|Wallhop Wraparound
+| style="background-color: #014500;" |<font color="white">12.3 stud</font>
+| style="background-color: #336000;" |<font color="white">12.35 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">12.4 stud</font>
+| style="background-color: #964a00;" |<font color="white">12.45 stud</font>
+| style="background-color: #5a0000;" |<font color="white">12.5 stud</font>
+|-
+|Wallhop Stick Out
+| style="background-color: #014500;" |<font color="white">1x5.8 stud</font>
+| style="background-color: #336000;" |<font color="white">1x5.85 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">1x5.9 stud</font>
+| style="background-color: #964a00;" |<font color="white">1x5.95 stud</font>
+| style="background-color: #5a0000;" |<font color="white">1x6 stud</font>
+|-
+|Wallwalk Wraparound
+| style="background-color: #014500;" |<font color="white">4 stud</font>
+| style="background-color: #336000;" |<font color="white">4.025 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">4.05 stud</font>
+| style="background-color: #964a00;" |<font color="white">4.075 stud</font>
+| style="background-color: #5a0000;" |<font color="white">4.1 stud</font>
+|-
+|Climbable Walkaround
+| style="background-color: #014500;" |<font color="white">9.1 stud</font>
+| style="background-color: #336000;" |<font color="white">9.133 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">9.166 stud</font>
+| style="background-color: #964a00;" |<font color="white">9.2 stud</font>
+| style="background-color: #5a0000;" |<font color="white">9.233 stud</font>
+|-
+|Unclimbable Walkaround
+| style="background-color: #014500;" |<font color="white">7.9 stud</font>
+| style="background-color: #336000;" |<font color="white">7.925 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">7.95 stud</font>
+| style="background-color: #964a00;" |<font color="white">7.975 stud</font>
+| style="background-color: #5a0000;" |<font color="white">8 stud</font>
+|}</div>
+==Towers in this difficulty==
+*Tower of Huge Evilness (ToHE, Mid Mischievous)
+*[[Mischievous Box]] (MB)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Citadel of Uneasy Splitting] (CoUS, Low-Mid Mischievous) (QToN Ring 5)
+*[https://www.roblox.com/games/12540885283/Difficulty-Rooms-EJT Room 51: Mischievous] (R51:M)
+==Trivia==
+*<span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #a83434 0px 0.5px 6px;">Mischievous</span></span> is one of the difficulties that can work on a difficulty chart.
+*The amount of simple obstacles is way higher so it can be easier to make obbies with this difficulty.
+*This difficulty is the second last difficulty located on class 6. behind [[User blog:EpicTheGamer2014/Vicious|Vicious]].
+*This difficulty was like abandoned by the creator, but the creator decided to actually continue it.
+*This is the first difficulty to use a '''scrollbox''' for the obstacles.
+==Gallery==
+[[File:Mischievous.png|thumb|180x180px|Current Mischievous' Icon|none]]
+==Completion of any tower with this difficulty==
+This is a huge achievement, you are probably the best obbyist if you ever completed a tower with this punishing and cruel difficulty. You would probably need a reward, but you already got a reward.. The completion of a tower with this difficulty.
+
+Your skill is utterly amazing and your luck is higher than a 4-leaves clover.  Maybe you want to beat more '''Mischievous''' difficulty tower, if that's the case then good luck!
+
+{{DifficultiesNavbox}}
+[[Category:Humanly Impossible]]
+[[Category:Difficulties]]
+[[Category:Class 5]]
+[[Category:Difficulty]]
+[[Category:One color icon]]
+[[Category:Essay pages]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]

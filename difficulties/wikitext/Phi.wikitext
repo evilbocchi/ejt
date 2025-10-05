@@ -1,0 +1,170 @@
+<div style="background:#222222;padding:1em;font-family:rubik;border:5px solid #111112">
+<!-- Raw CSS -->
+{{CSS|content=
+/* Table Styling */
+.table {
+	border-collapse: collapse;
+	text-align: center;
+	border: 2px solid #ffffff;
+    background-color: #141414
+}
+th.table {
+	padding: 1em 0.5em 1em;
+	width: 100%
+}
+td.table {
+	padding: 0.5em 1em 0.5em;
+}
+}}
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Classic}}}}
+<div style="--theme-accent-color:-webkit-linear-gradient(45deg,#333333,#CCCCCC)">{{NewDifficultyInfobox
+|title1 = <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>
+|image1 = Phi thing yes.png
+|caption1 = Phi moment?!?
+|type = Sub-Difficulty
+|class = Class 6
+|previous = 
+[[File:SquareSupreme.png|frameless|35px]] [[Supreme]]
+|next = 
+[[File:UltraInstinct.png|frameless|30x30px]] [[Ultra Instinct]]
+|decal_id = 7539461310
+|main_difficulty = [[File:SquareSupreme.png|frameless|40px]] [[Supreme]]
+|date_added = 1/2/2021
+|official_music(s) = 
+*[https://www.youtube.com/watch?v=zMsxKPtZDZ8 Solkrieg - Phobos]
+|revamp_date=18/12/2022
+|creator(s)=
+*Zerofrozen987 (true original creator)
+*Alp139 (original creator)
+*TotallyNotAMeme00 (revamper)
+|rbg_color = 
+*2,2,2 (Top of the gradient)
+*172, 172, 172 (Bottom of the gradient)
+*255, 255, 255 (The symbol itself)|rating=60.33|alt_next=[[File:UnthinkableSquare.png|frameless|30x30px]] [[UNTHINKABLE]]}}
+Not to be confused with [[Psi]].
+==What is <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>?==
+<span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span> is a  Class 6 Sub-Difficulty of the legendary difficulty <span style="background:linear-gradient(90deg,fuchsia,mediumblue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Supreme]]'''</span>. It is a successor to <span style="background:linear-gradient(90deg,fuchsia,mediumblue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Supreme]]'''</span>, and is far more tedious to beat than it. It also is the precursor to [[UNTHINKABLE]], which is a lot more complicated and confusing to beat. Obstacles in this difficulty are barely physically impossible, and because of this can not be beaten without usage of exploits. These obstacles also integrate unfathomable amounts of RNG and require precision to the 2048th bit. Building <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span> is also extremely hard to do, as you will need to build immaculately, and precise calculations must be made to determine the accuracy of the obstacles. Furthermore, ALL obstacles must be placed slightly above the physical limit, making accurate representations of the difficulty extremely hard to create.
+
+Even completing a singular jump identified as being <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span> difficulty would be a remarkable accomplishment due to this difficulty's extremely punishing nature, where even being off by an unimaginably miniscule amount will cost you all your progress. In tiers, this difficulty would come in at around Tier 51-52 or potentially higher, further proving the fact that this difficulty is truly, unobjectively impossible.
+
+==Icon Representation==
+<!-- The redundancy to make a class called 'table' that's meant to be a generic name for a table in this page is to make sure that the table styling doesn't affect EVERY table; that includes Notices in the Notice Scrollbox, which would look REALLY bad. - Sushislushwiki -->
+<table class="table">
+<tr>
+<th class="table"><big>'''Version:'''</big></th>
+<th class="table"><big>'''Current'''</big></th>
+</tr>
+<td class="table">'''Icon'''</td>
+<td class="table">[[File:Phi thing yes.png|200px|center]]</td>
+<tr>
+<td class="table">'''Description'''</td>
+<td class="table">This difficulty's icon contains a vertical gradient going from black to light grey, with the Greek letter Phi (Φ) in the middle, in white. This icon bears resemblance to the difficulty's harder neighbouring difficulty called <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Cyrillic]]'''</span>.</td>
+</tr>
+</table>
+==Obstacles in <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>==
+
+<tabber>
+Baseline=
+===Baseline <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>===
+*18.5 stud jump (Climbable).
+*18.4 stud jump (Unclimbable).
+*17.6 stud wrap.
+*7.5 stud stickout (Climbable).
+*6 stud stickout (Unclimbable).
+*16.5 stud ice wrap.
+______________________
+
+*0.6 stud high wallwalk.
+*Performing a fling control using a truss.
+
+|-|
+Low=
+===Low <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>===
+
+*18.6 stud jump (Climbable).
+*18.5 stud jump (Unclimbable).
+*17.7 stud wrap.
+*7.503 stud stickout (Climbable).
+*6.002 stud stickout (Unclimbable).
+*16.6 stud ice wrap.
+______________________
+
+*/e dance2 clip through a 2.75 stud wall.
+*Perform a mid air luck fling and land over 250 studs away.
+
+|-|
+Mid=
+===Mid <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>===
+
+*18.7 stud jump (Climbable).
+*18.6 stud jump (Unclimbable).
+*17.8 stud wrap.
+*7.506 stud stickout (Climbable).
+*6.004 stud stickout (Unclimbable).
+*16.7 stud ice wrap.
+______________________
+
+*4.7 stud instakill stickout (Unclimbable).
+*Perform a wedge fling with 10 mid-air luck clips in the way.
+
+|-|
+High=
+===High <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>===
+
+*18.8 stud jump (Climbable).
+*18.7 stud jump (Unclimbable).
+*17.9 stud wrap.
+*7.509 stud stickout (Climbable).
+*6.006 stud stickout (Unclimbable).
+*16.8 stud ice wrap.
+______________________
+
+*Getting a 1/2<sup>100</sup> chance.
+*Rebeat <span style="background:linear-gradient(90deg,fuchsia,mediumblue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Supreme]]'''</span> in 500 seconds.
+
+|-|
+Peak=
+===Peak <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>===
+
+*18.9 stud jump (Climbable).
+*18.8 stud jump (Unclimbable).
+*18 stud wrap.
+*7.512 stud stickout (Climbable).
+*6.008 stud stickout (Unclimbable).
+*16.9 stud ice wrap.
+______________________
+
+*Rebeat every single special obstacle from this difficulty.
+*Beat [[Obelisk of Impossible Difficulty Chart]] without dying.
+</tabber>
+
+==Towers==
+
+===Towers in this difficulty===
+
+*Satan's Great Obelisk (Fictional)
+* Peak of Physicality (Citadel) (Fictional)
+*[[Edifice of Impossibility]] (Fictional)
+*[[Tower of the Pinning Deceivers]] (Fictional)
+*[[Slap Facility]] (Fictional)
+
+===Towers with this difficulty===
+
+*[[Monolith of Deadly Difficulties Approaching]]
+*[https://www.roblox.com/games/10290570621/Great-Citadel-Of-hellish-difficulty-chart-R Great Citadel of Hellish Difficulty Chart: Revamped]
+*[[Great Citadel of Yet Another Great Difficulty Chart]]
+*[[Obelisk of Cubox's Difficulty Chart]]
+
+==Trivia==
+
+*This difficulty originated from Zerofrozen987's game called A Jump Per Difficulty. Unfortunately, the game is now private.
+*This is one of the more known sub-difficulties of <span style="background:linear-gradient(90deg,fuchsia,mediumblue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Supreme]]'''</span>.
+
+==Continuation==
+Well, it seems that you have bested the challenges of <span style="background:linear-gradient(90deg,black,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Phi'''</span>. Proceed to [[UNTHINKABLE]], or even just head straight to [[Ultra Instinct]] if you want a challenge.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 6]]
+[[Category:Sub-Difficulties]]
+[[Category:Humanly Impossible]]

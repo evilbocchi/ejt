@@ -1,0 +1,93 @@
+__NOTOC__{{Humanly Possible}}{{BetterQuote|text=Multiple difficulties have tried to be a non-sub between {{Class2Difficulties|Intense}} [https://ktoh.fandom.com/wiki/Intense <span style="color:#322e56">Intense</span>] and {{Class2Difficulties|Remorseless}} [https://ktoh.fandom.com/wiki/Remorseless <span style="color:#FF00FF">Remorseless</span>]. All of them have fallen.. until now. You are now facing Severe, the only difficulty too easy to be a Remorseless sub, yet too hard to be an Intense sub either.|quoter=Somewhere... a sign. Probably in a DC tower.}}<div style="background:#000000;padding:1em;font-family:rubik;border-left:5px solid #cc99ff">
+==Difficulty Information==
+{{NewDifficultyInfobox|title1=[[File:Severe2.png|30x30px]] <span style="color:#cc99ff">Severe</span>|image1=Severe2.png|caption1=omg a non-sub difficulty in the JToH range??|class={{Class2Difficulties|Remorseless}} [[:Category:Class 2|<span style="color:#FF00FF"> High Class 2</span>]]|type={{Class1Difficulties|Easy}} [[:Category:Difficulties|<span style="color:#00FF00"> Normal Difficulty</span>]]|previous={{Class2Difficulties|Intense}} [[w:c:jtoh:Intense|Intense]]|next={{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]|difficulty_range=Baseline to Peak|sub_difficulty(ies)=|rating=6.5|hex_color=#6d3a79|rbg_color=109,58,121|alt_next=|creator(s)=[[User:Ashdvhudfyhsabdj|Ashdvhudfyhsabdj]]|alt_previous={{Class2Difficulties|TooMedium}} [[TooMedium]]|rgb_color=109, 58, 121}}[[File:Severe2.png|30x30px]] <span style="color:#cc99ff">'''Severe'''</span> is a {{Class2Difficulties|Remorseless}} [[:Category:Class 2|<span style="color:#FF00FF">Peak class 2</span>]] {{Class1Difficulties|Easy}} [[:Category:Difficulties|<span style="color:#00FF00">Normal Difficulty</span>]] that is represented with the color pale, dim purple. It surpasses the strenuous {{Class2Difficulties|Intense}} [[w:c:jtoh:Intense|Intense]], and preceding the onerous {{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]. This difficulty is one of many that have tried to be the border between Intense and Remorseless.
+
+[[File:Severe2.png|30x30px]] <span style="color:#cc99ff">'''Severe'''</span> acts and looks like like a fanmade JToH difficulty, projecting obstacles too hard to be Intense, yet too sub-standard to be Remorseless either. Around this point, we are at the beginning of JToH’s second, more impossible half, and as such you must be committed at obbies to surpass this, and completing this is deemed quite the achievement.
+
+<small>Credit to Rarezites for the padding (☹️)</small>
+==Obstacles==
+<tabber>
+Baseline=
+=== Baseline [[File:Severe2.png|30x30px]] '''Severe''' ===
+*8.65 stud wraparound (Climbable).
+*8.15 stud wraparound (Unclimbable).
+*10.55 stud long jump (Climbable).
+*10.05 stud long jump (Unclimbable).
+|-|
+Low=
+=== Low [[File:Severe2.png|30x30px]] '''Severe''' ===
+
+*8.7 stud wraparound (Climbable).
+*8.2 stud wraparound (Unclimbable).
+*10.6 stud long jump (Climbable).
+*10.1 stud long jump (Unclimbable).
+|-|
+Middle=
+=== Middle [[File:Severe2.png|30x30px]] '''Severe''' ===
+*8.75 stud wraparound (Climbable).
+*8.25 stud wraparound (Unclimbable).
+*10.65 stud long jump (Climbable).
+*10.15 stud long jump (Unclimbable).
+|-|
+High=
+=== High [[File:Severe2.png|30x30px]] '''Severe''' ===
+*8.8 stud wraparound (Climbable).
+*8.3 stud wraparound (Unclimbable).
+*10.7 stud jump (Climbable).
+*10.2 stud long jump (Unclimbable).
+|-|
+Peak=
+=== Peak [[File:Severe2.png|30x30px]] '''Severe''' ===
+*8.85 stud wraparound (Climbable).
+*8.35 stud wraparound (Unclimbable).
+*10.75 stud long jump (Climbable).
+*10.25 stud long jump (Unclimbable).
+</tabber>
+==Towers in this difficulty==
+<tabber>
+JToH=
+* [[w:c:jtoh:Steeple_of_Treacherous_Toxins| Steeple of Treacherous Toxins]] (SoTT)
+* [[w:c:jtoh:Tower_of_True_Skill| Tower of True Skill]] (ToTS)
+* [[w:c:jtoh:Tower_of_Nonsensical_Platforms| Tower of Nonsencial Platforms]] (ToNP)
+* [[w:c:jtoh:Tower_of_Glitching_and_Healing| Tower of Glitching and Healing]] (ToGaH)
+* [[w:c:jtoh:Tower_of_Questionable_Trials| Tower of Questionable Trials]] (ToQT)
+* [[w:c:jtoh:Tower_of_Beat_Block_Berserk| Tower of Beat Block Berserk]] (ToBBB)
+* [[w:c:jtoh:Tower_of_Extreme_Dystopia| Tower of Extreme Dystopia]] (ToED)
+* [[w:c:jtoh:Tower_of_Great_Displeasure| Tower of Great Displeasure]] (ToGD)
+* [[w:c:jtoh:Tower_of_Icy_Adventures| Tower of Icy Adventures]] (ToIA)
+* [[w:c:jtoh:Tower_of_Dance_Dance_Destruction| Tower of Dance Dance Destruction]] (ToDDD)
+* [[w:c:jtoh:Tower_of_Astral_Fusion| Tower of Astral Fusion]] (ToAF)
+* [[w:c:jtoh:Tower_of_Tallying_Every_Mistake| Tower of Tallying Every Mistake]] (ToTEM)
+* [[w:c:jtoh:Tower_of_Forever-Sleeping_Flower| Tower of Forever-Sleeping Flower]] (ToFSF)
+* [[w:c:jtoh:Tower_of_Overbearing_Vertigo| Tower of Overbearing Vertigo]]
+* [[w:c:jtoh:Tower_of_Annoying_Paths| Tower of Annoying Paths]] (ToAP(M))
+* [[w:c:jtoh:Citadel_of_Squiggly_Wiggly| Citadel of Squiggly Wiggly]] (CoSW(M))
+* [[w:c:jtoh:Citadel_of_Pyramid_Escapades| Citadel of Pyramid Escapades]] (CoPE)
+* [[w:c:jtoh:Citadel_of_Treats_and_Tricks| Citadel of Treats and Tricks]] (CoTaT)
+|-|
+Fictional=
+* Tower of Exigent Fakeouts (ToEF) (Pretends to be a [[User blog:EpicTheGamer2014/Exigent|Exigent]] difficulty tower, but it’s actually a Severe difficulty tower)
+* Spire of Destructive Oddities (SPoDO)
+* [[Stud of Whatever Gives You a Cool Abriveration]]
+</tabber>
+==Towers with this difficulty==
+*''Citadel of Troublesome Difficulty Chart'' (CoTDC) [Floor ??]
+*[[The Pyramid Brothers/JJT Pyramid|JJT Pyramid]] (JP) [Stage 89]
+*[[The Pyramid Brothers/Difficulty Pyramid|Difficulty Pyramid]] (DP) [Stage 25]
+*[[The Pyramid Brothers/Char's Difficulty Pyramid of Uncanonical Possibility|Char's Difficulty Pyramid of Uncanonical Possibility]] (CDPoUP) [Stage 89]
+*Silver's JJT Pyramid (SJP) [Stage 15]
+==Trivia==
+*The color was originally just going to be the exact middle between Intense and Remorseless, but [[User blog:EpicTheGamer2014/Unforgiving|Unforgiving]] had that color already. Thus, the creator just made the color dimmer.
+
+*This difficulty originally had a LOT of towers during development.
+**Most of them were picked from Peak Intense to Bottom Remorseless towers, however.
+***The creator sadly lost the revision though, as it refreshed before he could save it. Therefore, there’s less towers than there would be.
+==Continuing on from this point==
+You’ve completed [[File:Severe2.png|30x30px]] <span style="color:#cc99ff">'''Severe'''</span>. You must’ve had severe rage while doing this. Now, you have 2 choices, either move onto {{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]], or just.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 2]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+
+[[Category:Unofficial]]

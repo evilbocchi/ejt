@@ -1,0 +1,87 @@
+{{Scrollbox|Notices='''Notices'''
+{{Humanly Possible}}}}{{BetterQuote|text=The obstacles of this difficulty are exactly what you will feel here.|quoter=The average DC tower sign in [[File:Glee Difficulty.png|30x30px]] <span style="background:linear-gradient(90deg,pink,pink); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Glee</span>.}}
+==Difficulty Introduction==
+{{NewDifficultyInfobox|image1=Glee Difficulty.png|title1=<div style="background: linear-gradient(to right, lightpink 0%, magenta 100%)"><span style="border:5px solid; border-image: linear-gradient(to top left, navy, purple) 9;height:150px;padding:5px;"><span style="background:linear-gradient(90deg,purple,purple); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Glee</span></div>|class=[[:Category:Class 1|Mid Class 1]]|type=[[:Category:Sub-Difficulties|Sub-Difficulty]]|previous={{Class0Difficulties|Lovely}} [[Lovely]]|next=[[File:New flowerness image1.png|30px]] [[Flowerness]]|creator(s)=[[User:Viranenthusiast|Viranenthusiast]] (former owner)
+[[User:InverseCorrelation|InverseCorrelation]] (current owner)|date_added=Currently not added.|difficulty_range=Baseline to Peak|original_class=Mid Rank 0|prior_previous={{Class0Difficulties|Starter}} [[Starter]]|prior_next={{Class0Difficulties|Cakewalk}} [[Cakewalk]]|caption1=The obstacles of this difficulty are exactly what you will feel here.|alt_next=[[w:c:jtohs-custom-chart:Heavenlike|Heavenlike]]|sub_difficulty(ies)=|decal_id=12646702968|alt_previous=[[w:c:jtohs-custom-chart:Tranquil|Tranquil]]|rating=-7.5|previous_sub_difficulty(ies)=[[File:Stone.png|30px]] [[Excavation Chain/Stone-Emerald|Stone]]|main_difficulty=[[File:LovelyDifficulty..webp|30px]] [[Lovely]]}}[[File:Glee Difficulty.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,magenta,pink); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Glee'''</span> is a High Class 1 sub-difficulty, surpassing {{Class0Difficulties|Lovely}} [[Lovely]], yet preceding [[File:New flowerness image1.png|30px]] [[Flowerness]]. It also had one sub-difficulty, called [[File:Stone.png|30px]] [[Excavation Chain/Stone-Emerald|Stone]], in the excavation chain.
+
+[[File:Glee Difficulty.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,magenta,pink); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Glee'''</span> used to be located in '''Mid Class 0''' (before TDEx), as a successor to '''[[w:c:jtohs-custom-chart:Tranquil|Tranquil]]''' (JCC), and meanwhile was a predecessor of [[w:c:jtohs-custom-chart:Heavenlike|Heavenlike]]. However, this difficulty was transferred from JCC to JJT, and will reside here from now onwards.
+
+Due to its placement, essentially anyone can beat this difficulty. It consists of very basic obstacles, which are extremely easy and you will most likely get bored while playing this difficulty. You should move into something harder, like [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] '''[[Effortlessless]]''', or maybe even [[File:EffortlessDifficulty.jpg|frameless|30x30px]] '''[[w:c:jtoh:Effortless|Effortless]]''', or you can just stay on this difficulty.
+==Icon Representation==
+<center>[[File:Glee Difficulty.png|frameless|60x60px]]</center>[[File:Glee Difficulty.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,magenta,pink); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Glee'''</span>’s icon is represented by a 180 degree gradient from very light red to light red, with a magenta emoticon in the middle left. There is a magenta star in the bottom left and top right corner, and there is a smaller magenta star to the right of Glee’s smile.
+==Obstacles==
+<tabber>
+Baseline=
+===Baseline '''Glee''' ===
+
+*1.9 stud jumps. (Climbable)
+*1.8 stud jumps. (Unclimbable)
+*0.2 stud wraparounds. (Climbable)
+*0.1 stud wraparounds. (Unclimbable)
+*1 stud high jumps.
+* 7 stud thick tightrope.
+|-|
+Low=
+===Low '''Glee''' ===
+
+*1.92 stud jumps. (Climbable)
+*1.82 stud jumps. (Unclimbable)
+*0.25 stud wraparounds. (Climbable)
+*0.15 stud wraparounds. (Unclimbable)
+*1.25 stud high jumps.
+* 6.5 stud thick tightrope.
+|-|
+Middle=
+===Middle '''Glee''' ===
+
+*1.94 stud jumps. (Climbable)
+*1.84 stud jumps. (Unclimbable)
+*0.2 stud wraparounds. (Climbable)
+*0.15 stud wraparounds. (Unclimbable)
+*1.5 stud high jumps.
+* 6 stud thick tightrope.
+|-|
+High=
+===High '''Glee''' ===
+
+*1.96 stud jumps. (Climbable)
+*1.86 stud jumps. (Unclimbable)
+*0.25 stud wraparounds. (Climbable)
+*0.2 stud wraparounds. (Unclimbable)
+*1.75 stud high jumps.
+* 5.75 stud thick tightrope.
+|-|
+Peak=
+===Peak '''Glee''' ===
+
+*1.98 stud jumps. (Climbable)
+*1.88 stud jumps. (Unclimbable)
+*0.3 stud wraparounds. (Climbable)
+*0.25 stud wraparounds. (Unclimbable)
+*1.9 stud high jumps.
+* 5.25 stud thick tightrope.
+* 1 stud jump raised by 2
+</tabber>
+==Tower Section==
+===Towers in this difficulty===
+*Tower of A Gleeful Era (ToAGE) (Fictional) (Baseline '''Glee''')
+*Edifice of GlitchedLiness’s Chart Controversy (Fictional) (EoGCC) (Low '''Glee''')
+*Steeple of The Newbie Zone (SoTNZ) (Fictional) (Middle '''Glee''')
+*Citadel of Relaxing Difficulty Chart (CoRDC) (Fictional) (High '''Glee''')
+*[[Not Even Some Unhappiness]] (NESU) (High '''Glee)'''
+*Cathedral of Heavenlike Relaxation (CAoHR) (Fictional) (Peak '''Glee''')
+===Towers with this difficulty===
+*N/A
+==Trivia==
+*In JCC, this difficulty had some controversy because ''GlitchedLiness'' added this to his custom chart without the og creators permission.
+*This was originally going to be called Peacefulness.
+==Continuing on from this point==
+Well, what can I say? You’ve passed [[File:Glee Difficulty.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,magenta,pink); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Glee'''</span>, it isn’t really that much of a achievement. Move onto [[File:New flowerness image1.png|30px]] [[Flowerness]], I guess.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 1]]
+[[Category:Transformed/Ported from JCC]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]

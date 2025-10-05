@@ -1,0 +1,182 @@
+<div style="padding:1e">{{NoticeScrollboxNew|Notices={{Physically Impossible}}{{Classic}}{{Large Page}}{{Former Class Finale|reason=This used to be the TFinD of the old era of JJT, but it isn't now.}}
+{{CSS|content=
+/* Manual Import of Font(s) */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Difficulty Name */
+span.Infinity {
+    font-family: kefa;
+    font-weight: 700;
+    background: -webkit-linear-gradient(90deg ,#FFF, #FFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 2px 5px rgba(255, 255, 255, 79%) /* Nice. :smug: */
+}
+
+/* Other Difficulty Names */
+
+/* Text styling */
+.page-content, .page-content h2, .page-content h3 {
+    font-family: outfit;
+    color: #fff
+}
+.page-content h2, .page-content h3 {
+    font-weight: 600;
+    color: #fff
+}
+.page-content h2 {
+    border-bottom: 2px solid #fff
+}
+}}}}
+
+{{NewDifficultyInfobox|title1=<big><span class="Infinity">Infinity</span></big>|image1=<gallery>
+Screen Shot 2020-08-10 at 9.50.46 AM.png|Current
+Infinityicon.png|Alternative
+</gallery>|class=[[:category:Class 7|Class 7]]|rating=73|type=Normal|previous=[[File:PlumBlocNew.png|frameless|30x30px]] [[Plum Bloc]] (72)|next=[[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|30px]] [[Doog]] (74)|class_range=Peak|difficulty_range=Belowground to Peripheral|decal_id=[https://create.roblox.com/store/asset/107144228737497/Infinity/ Here]|creator(s)=[[User:OctogoatYT|Octogoat YT]] (creator)<br>[[User:Viranenthusiast|Viranenthusiast]] (previous revamp)<br>[[User:Astrominal|Astrominal]] (current revamp)|date_added=August 10, 2020|alt_previous=[[File: Placeholder white.PNG|30px]] [[Gameifying]] (72.5)}}
+<h2>What is <span class="Infinity">Infinity</span>? </h2>
+[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|35x35px]] <span class="Infinity">Infinity</span> is a [[:Category:Class 7|Class 7]], [[:Category:Physically Impossible|Physically Impossible]] difficulty that can be found in the beginning of Peak Class 7, which is near the beginning of physical impossibility. It was originally made by [[User:OctogoatYT|Octogoat YT]]. It got revamped by [[User:Viranenthusiast|Viranenthusiast]] and was revamped again by [[User:Astrominal|Astrominal]]. This difficulty contains insanely impossible obstacles such as Instakill spiners with 100 speed, as well as jumps that are so precise that they can't be done by a human. It is only possible by abusing TAS or exploiting. Speaking of impossibility, [[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|35x35px]] <span class="Infinity">Infinity</span> can be classified as a [[:Category:Physically Impossible|Physically Impossible]] type difficulty, meaning these difficulties that are in this classification cannot be beaten by a human or a TAS. The obstacles can still be done by TAS abuse or by using exploits. [[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|35x35px]] <span class="Infinity">Infinity</span> introduces spinning Insta-Killbricks at mid to high ranges as well as optional choices to buff or nerf the difficulty. Using the optional choices, the obstacles ranges from 55 to 3.46M studs, marking the classification difficulty range [[File:HopelessNewest.png|25x25px]] [[Hopeless]] to [[File:Joke.png|30x30px]] [[Vrery hawrfd rdifficutl!!|Vrery hawrfd rdifficut!!!]] or 3 classes ([[:Category:Class 7|Class 7]] to [[:Category:Class 9|Class 9]]). 
+
+[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|35x35px]] <span class="Infinity">Infinity</span> is a Peak Class 7 difficulty (as well as the first and easiest), surpassing [[File:PlumBlocNew.png|frameless|25x25px]] [[Plum Bloc]], the end of high range of Class 9 (not counting subs). And preceding [[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|25x25px]] [[Doog]], the second difficulty of peak range. Marking [[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|35x35px]] <span class="Infinity">Infinity</span> between [[File:PlumBlocNew.png|frameless|25x25px]] [[Plum Bloc]] and [[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|25x25px]] [[Doog]]. 
+<h2>Placement </h2>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Placement'''
+|-
+!Difficulty Image
+! Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#867438;color:white" |'''High - Class 7'''
+|-
+|[[File:FalseGanar Z.png|50px]]
+|[[FalseGanar]]
+|Normal
+|70
+|-
+|[[File:HopelessNewest.png|50px]]
+|[[Hopeless]]
+|Normal
+|71
+|-
+|[[File:PlumBlocNew.png|50px]]
+|[[Plum Bloc]]
+|Normal 
+|72
+|-
+|[[File:Placeholder white.PNG|50x50px]]
+|[[Gameifying]]
+|Sub-Difficulty
+|72.5
+|-
+| colspan="4" style="background:#7A493D;color:white" |'''Peak - Class 7'''
+|-
+|[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|50x50px]]
+|<big><span class="Infinity">Infinity</span>, you're here.</big>
+|Normal
+|73
+|-
+|[[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|50px]]
+|[[Doog]]
+|Normal
+|74
+|-
+|[[File:Diss.png|50px]]
+|[[Dissension]]
+|Sub-Difficulty
+|74.5
+|-
+|{{Class10Difficulties|MegaDeath|100px}}
+|[[MegaDeath]]
+|<big>5th Legendary / Class Finale</big>
+|'''<big>75</big>'''
+|-
+|[[File:TooPreciseRevamp.png|50x50px]]
+|[[TooPrecise]]
+|Sub-Difficulty
+|75.5
+|-
+| colspan="4" style="background:#629592;color:white" |'''Baseline - Class 8'''
+|-
+|[[File:Epitome.png|50px]]
+|[[Epitome]]
+| Normal
+|76
+|-
+|[[File:Hellifying.png|50px]]
+|[[Agony]]
+|Normal
+|77
+|-
+|[[File:ILOVEYOU.png|50px]]
+|[[ILOVEYOU]]
+|Sub-Difficulty
+|77.5
+|-
+|[[File:2020 09 21 Kleki.png|50px]]
+|[[Abyssal]]
+|Normal
+|78
+|}
+<h2>Icon Representation </h2>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |''<big><big><big>Icon Representation</big></big></big>''
+|-
+!<big>''Version:''</big>
+!<big>''Icon:''</big>
+!<big>''Description:''</big>
+!<big>''Date was made:''</big>
+|-
+! style="background:linear-gradient(to top, #FFF,#FFF); color: #000000; padding:0.6em" |''<big><big>Current</big></big>''
+| style="background:linear-gradient(to top, #FFF,#FFF); color: #000000; padding:0.6em" |[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|250x250px]]
+| style="background:linear-gradient(to top, #FFF,#FFF); color: #000000; padding:0.6em" |The current icon is represented by a simple white icon and a low-quality black infinity symbol in the middle.
+| style="background:linear-gradient(to top, #FFF,#FFF); color: #000000; padding:0.6em" |August 10th 2020
+|-
+! style="background:linear-gradient(180deg, #000000 ,#FFF 23% ,#FFF 77%, #000000); color: #000000; padding:0.6em" |''<big><big>Alternative</big></big>''
+| style="background:linear-gradient(180deg, #000000 ,#FFF 23% ,#FFF 77%, #000000); color: #000000; padding:0.6em" |[[File:Infinityicon.png|250x250px]]
+| style="background:linear-gradient(180deg, #000000 ,#FFF 23% ,#FFF 77%, #000000); color: #000000; padding:0.6em" |'''The Alternative icon is represented by an infinity symbol, this time with higher quality. The background is a room with tiles as a roof and lines as the floor. It gets brighter as it goes inwards, and there is white splatters on the infinity symbol.'''
+| style="background:linear-gradient(180deg, #000000 ,#FFF 23% ,#FFF 77%, #000000); color: #000000; padding:0.6em" |June 15th 2024
+|}
+<h2>Obstacles</h2>
+{{ObstacleTableRevamp|JumpClimbableBase=121|Increment=0.5925925925925925889}}
+<h2> Towers</h2>
+{| class="wikitable mw--" style="text-align:center;"
+|-
+!<big>''Tower Name''</big>
+!<big>''Exact Difficulty''</big>
+!<big>''Status''</big>
+|-
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |[https://www.roblox.com/games/5621476445/Tower-Of-Just-Stop Tower of Just Stop] ('''ToJS''')
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|45x45px]] <span class="Infinity"><big>Infinity</big></span>
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |Real 
+|-
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |Tower of Infinite Incomprehensibility ('''ToII''')
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|45x45px]] <span class="Infinity"><big>Infinity</big></span>
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |Fictional
+|-
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |Room of Uncompletable Madness ('''RoUM''')
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|45x45px]] <span class="Infinity"><big>Infinity</big></span>
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" | Fictional
+|-
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |Tower of Crazy Infinites ('''ToCI''')
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|45x45px]] <span class="Infinity"><big>Infinity</big></span>
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |Fictional
+|-
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 76: Infinity] ('''R76:I''')
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|45x45px]] <span class="Infinity"><big>Infinity</big></span>
+| style="background:linear-gradient(180deg, #000000,#808080,#000000); color: #000000" |Real
+|}
+<h2>Trivia </h2> 
+*This difficulty was the original [[The Final Difficulty.|TFinD]] back in August ~ November 2020.
+*This has been planned to be revamped a few months back.
+*This used to be an official difficulty before [[File:HopelessNewest.png|25x25px]] [[Hopeless]] got revived and became official.
+*This difficulty used to be in Class -1 or Class Negative.
+''<h2> <center><big><big>Difficulty Navigation</big></big></center> </h2>''
+
+<center><font size="5">« [[File:PlumBlocNew.png|frameless|40px]] [[Plum Bloc]] | [[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|Current|45px]] <span class="Infinity">'''Infinity'''</span> |  [[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|40px]] [[Doog]] »</font></center>
+{{DifficultiesNavbox}}
+[[Category:Physically Impossible Difficulties]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+[[Category:Physically Impossible]]
+[[Category:Former Legendary Difficulties]]

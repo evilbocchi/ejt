@@ -1,0 +1,114 @@
+{{DISPLAYTITLE:<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">System Error}}
+{{ArticleTab}}{{Classic}}
+{{Humanly Impossible}}
+
+==What is <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''System Error'''</span>?==
+{{NewDifficultyInfobox
+|title1 = System Error
+|image1 = Spacefan633.png
+|class = [[:Category:Class 5|Class 5]]
+|previous = {{Class7Difficulties|Ultimate}} [[Ultimate]] (OoIDC)
+|next = {{Class8Difficulties|Supreme}} [[Supreme]] (OoIDC)
+|decal_id = 8271540491
+|alt_previous=[[File:NOUGHT.png|30px]] [[Nought]]|creator(s)=yourNuglyguy|rating=42|alt_next=[[File:Error Exe.png|30px]] [[Error.exe]]}}{{Class7Difficulties|System Error}} <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">System Error</span> is a Class 5 difficulty that succeeds {{Class7Difficulties|Ultimate}} [[Ultimate]]. It is the second hardest difficulty of the ''True Hardest difficulties'' section of the Universal Difficulty Chart. 
+
+{{Class7Difficulties|System Error}} <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">System Error</span> is beyond the assumed limit of difficulty; meaning it is uncertain if obstacles here are humanly or physically impossible. If Citadel of Void were humanly possible and were of Ultimate difficulty, for it to be System Error, the citadel would need to be buffed to the point where the human possibility of the gameplay itself is uncertain, and be extended further to inhumane lengths.
+
+<div class="mw-collapsible mw-collapsed">
+== <small>Icon Representation</small> ==
+<div class="mw-collapsible-content">
+{{Class7Difficulties|System Error}} <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">[[System Error]]</span> has a similar color scheme to both <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">[[Monstrous]]</span> and <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">[[Ultimate]]</span>. 
+
+The background has a black to red gradient, identical to the two previous difficulties, with less black as it fades into the crimson. The icon contains an unknown symbol colored in bright red, and holds the phrase ''<nowiki/>'System Error'.'' The words themselves have a gradient, the first letter of each word are a red tinted with white; the following letters gradually redden. 
+</div>
+</div>
+
+== Obstacles Section ==
+As stated it is uncertain if currently named System Error obstacles are humanly impossible or physically impossible, but System Error ''is'' meant to be humanly impossible.
+<tabber>
+|-|
+Confirmed=
+=== Confirmed {{Class7Difficulties|System Error}} <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">System Error</span> Obstacles ===
+*Currently None.
+|-|Unconfirmed=
+=== Unconfirmed {{Class7Difficulties|System Error}} <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">System Error</span> Obstacles ===
+*Natural wall walks.
+*13.75 stud jumps with an obstacle in between.
+*13.25 Stud Long Normal Wrap
+*13.9 stud unclimbable jumps.
+*Invisible spinning wall hops.
+*Doing a Malicious difficulty obstacle within 360 secs.
+*Beating 10,000 bosses within a single floor.
+*3 stud wrap on a collide false platform.
+*10 stud walk around.
+* 2 Stickout 4 Stud spacebar Wall hop
+* 6 Stickout (Climable)
+*MACC but Corner Spin
+*0.5 Stud Spacebar Wall hop (+10 Stud long)
+*dodge a conveyor with 0.01 velocity
+*Mid air 6 stud wallwalk with 3 instakill spinners
+*r15 flex walk glitch through 10.7 studs
+</tabber>
+
+==Towers Section==
+<tabber>
+|-|
+Towers / Real=
+=== Towers ===
+*[[True Chaotic Tower]] (TCT)
+*[https://www.roblox.com/games/15008769071/Box-of-Pastel-Colors Box of Pastel Colors] (BoPC)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Tower of Really Mentally Exercising Nameless Trials] (ToRMENT) (QToN Ring 5)
+|-|Towers / Fictional=
+=== Towers ===
+*[[Tubers93 World Journey]] (TWJ) (Fictional)
+*YTREWQ (YTREWQ) (Deconfirmed-Fictional)
+*DAESTROPHE (D) (Deconfirmed-Fictional)
+|-|Appearances in other towers=
+=== Appearances of System Error ===
+This section contains appearances of System Error in other towers, those towers that are of a different difficulty.
+{{#tag:tabber|Citadels=
+=== Citadels ===
+*[[Citadel of Monstrous Ascension]] (Floor 7)
+
+{{!}}-{{!}}
+Obelisks=
+=== Obelisks ===
+*[[Obelisk of Impossible Difficulty Chart]] (Floor 31)
+*[[Obelisk of Jet's Difficulty Chart|Obelisk of Jet’s Difficulty Chart]] (Floor 41 - 42)
+*[[Obelisk of Endless Difficulty Amplifying]] (Floor 42)
+{{!}}-{{!}}
+Great Citadels=
+=== Great Citadels ===
+*[[Great Citadel of Hellish Difficulties]] (Floor 37)
+*[[Great Citadel of Custom, Impossible and Normal Difficulties]] (Floor ???)
+*[[Great Citadel of TooExtreme Difficulty Chart]] (Floor 50)
+*[[Big Boi Citadel of Transinfinite Difficulties]] (Floor ???)
+{{!}}-{{!}}
+Monoliths=
+=== Monoliths ===
+*[[Monolith of Deadly Difficulties Approaching]] (Floor ???)
+*[[The Mother of All Difficulties]] (Floor ???)
+*[[Monolith of Every JJT Difficulty]] (Floor 83 according to portal order)
+*[[Monolith of Pure Hellish Difficulties]] (Floor 74)
+*[[Monolith of Completely Endless Difficulties]] (Floor 714)
+}}
+</tabber>
+
+==Other Information ==
+
+*This was the third difficulty of the '''True Hardest difficulties''<nowiki/>' to be made; following Ultimate and Autism.
+* The original icon of this difficulty was made back in 2013, in which several years later found itself in this wiki.
+**[https://www.roblox.com/library/138305723/System-Error-Group-Shutdown The original System Error decal can be found here].
+==Gallery==
+<gallery widths="500" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#fff" bordercolor="#000" captionsize="large">
+File:System Error.PNG|System Error’s other logo. Looks similar to Monstrous’ and Ultimate’s logos in terms of colors.
+File:System ErrorV2.png|An alt by [[Nolan1025]]
+</gallery>''To view more images relating to '''{{PAGENAME}}''' Difficulty, click [[/Gallery|here]].''
+==Continuing from this point==
+You're probably sick of seeing the same color schemes and playing these maximally-edgy towers. However you will not find that; for the next difficulty you'll face is the great [[Supreme]], though if that is far too much for you, then simply just head onto [[Simply Beyond]]. May thee not surpass t'...
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 5]]
+[[Category:Difficulty]]
+[[Category:Humanly Impossible]]

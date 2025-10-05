@@ -1,0 +1,138 @@
+<div style="background:#913913912392;padding:1em;font-family:twentieth century;border:25px solid #239392929">
+{{Background|File=emer.jpg|1500px}}
+{{Humanly Possible}}
+{{NewDifficultyInfobox
+|title1 = Ifinitude
+|image1 = re emergence yay.png
+|caption1 = theres an icon now
+|class = Class 0
+|rating = -24.25
+|type = [[:Category:Sub-Difficulties|Sub-difficulty]]
+|previous = [[File:Vintage.png|30px]] [[Vintage]]
+|next = [[File:Justairrevamprevamp.png|30px]] [[Just Air]]
+|class_range = Low Class 0
+|difficulty_range = Baseline to Peak
+|decal_id = 16257720556 
+|main_difficulty = [[File:Vintage.png|30px]] [[Vintage]]
+|creator(s) = [[User:Qwerzy|Qwerzy]]<br>[[User:Loganboi2|Loganboi2]] (Ifinite Chain)<br>The various revampers
+|previous_class(es) = Old class negative technically
+|original_type = difficulty technically
+|original_main_difficulty = none technically
+|date_added = 7/07/2023 (blog post)<br>October 5th and 6th (Ifinite Chain)
+|date_removed = late 2022 or early 2023 or something
+|removal_reason = uselessness
+|revival_date = 7/07/2023 technically
+|original_name=Emergence}}
+
+==<center>A Remembrance</center>==
+
+The ifinite chain (based on a pun of the word infinite) was a chain that once existed in [[:Category:Class Negative|Class Negative]], created by [[User:Loganboi2|Loganboi2]] on 5th October 2020. The difficulties that were part of it were:
+
+*[[File:Longifinite.png|30px]] [[Ifinite-Ifinite-Easy-Ifinite-Easy-Alpha-Easy-Null-Ifinite|Ifinite-Ifinite-Easy-Ifinite-Easy-Alpha-Easy-Null-Ifinite]]
+*[[File:Ifinite-Dot.png|30px]] [[Ifinite-Dot|Ifinite-Dot]]
+*[[File:IIIrevamp.png|30px]] [[User blog:Loganboi2/Ifinite-Ifinite-Ifinite|Ifinite-Ifinite-Ifinite]]
+*[[File:DISCOIE.png|30px]] [[User blog:Loganboi2/Disco-Ifinite-Easy|Disco-Ifinite-Easy]]
+*[[File:Ifinite-easy2.png|30px]] [[User blog:Loganboi2/Ifinite-Easy|Ifinite-Easy]]
+
+All of these pages have been a long-standing piece of JJT's history until they were removed for being largely useless. With the expansion of Class Negative and the splitting of Class Negative between the Upper and Lower regions, this difficulty intends to bring at least a piece of the ifinite chain back into the chart. They only exist now in the CDC.
+
+==<center>Introduction</center>==
+Ifinitude is a sub-difficulty of [[File:Vintage.png|30px]] [[Vintage]] that lies between Vintage and [[File:Justairrevamprevamp.png|30px]] [[Just Air]]. The difficulty is currently in Class 0, and like other difficulties in this class, you do not have to do anything to complete it. That's right, you don't even need to touch your keyboard once you enter the structure, theres also an INFINITUDE alternate ways to win it. The difficulty is a remembrance of the ifinite chain that had existed since 2020 but has now since graved.
+
+The difficulty as said above is extremely easy, if this difficulty was in a difficulty chart tower, Ifinitude would only be showing up for a few seconds before passing to the next floor which would be [[File:Justairrevamprevamp.png|30px]] [[Just Air]].
+
+
+Placement on the chart:
+
+'''Baseline Class 0'''
+
+*[[File:One Second.png|30px]] [[Millisecondless]]
+**[[File:Astronomical.png|25x25px]] [[Astronomical]] (sub-difficulty)
+*[[File:2020 10 28 0ec Kleki.png|30px]] [[Win]]
+*[[File:Winsome.png|30px]] [[Winsome]]
+
+'''Low Class 0'''
+
+*[[File:SquareDoNothing.png|30px]] [[Do Nothing]]
+**[[File:Sleepful2.png|25x25px]] [[Sleepful]] (sub-difficulty)
+*[[File:Blessing.jpeg|30px]] [[Blessing]]
+*[[File:Vintage.png|30px]] [[Vintage]]
+**[[File:Re emergence yay.png|30px]] ''Ifinitude'' <small>(YOU ARE HERE)</small>
+
+'''Mid Class 0'''
+
+*[[File:Justairrevamprevamp.png|30px]] [[Just Air]]
+*[[File:Happylike remake.png|30px]] [[Happylike]]
+*[[File:Locomotion.png|30px]] [[Locomotion]]
+
+==<center>Icon Representation</center>==
+
+{| class="fandom-table"
+|+<center>'''Icon Representation Table'''</center>
+! style="background-color: #202020;" |'''Name'''
+! style="background-color: #202020;" |'''Icon'''
+! style="background-color: #202020;" |'''Description'''
+|-
+| style="background-color: #000000;" | ''''''Current'''''
+| style="background-color: #000000;" |[[File:re emergence yay.png|302px]]
+| style="background-color: #000000;" | The icon has a space background with a pulsar in the center. There are 5 circles encircling the pulsar each showing the difficulties once in the ifinite chain. Outside the circles are some -----∞ that are glowing.
+|-
+| style="background-color: #000000;" |'''SCRAPPED'''
+| style="background-color: #000000;" |[[File:Bad icon scrapped h.png|302px]]
+| style="background-color: #000000;" | Icon is a black background with the corners having ifinite chain. In the center is some infinities with dashes.
+|}
+
+==<center>Obstacles</center>==
+Obstacles here are non-standard from most of the [[Main Difficulty Chart|Alternate Difficulty Chart]] because you do not need to do anything. It is mostly just waiting.
+
+<tabber>
+|-|Baseline=
+*Wait 55 seconds
+*Wait 55.5 seconds
+*Wait 56 seconds
+
+|-|Low=
+*Wait 56.5 seconds
+*Wait 57 seconds
+*Wait 57.5 seconds
+
+|-|Middle=
+*Wait 58 seconds
+*Wait 58.5 seconds
+*Wait 59 seconds
+
+|-|High=
+*Wait 59.2 seconds
+*Wait 59.4 seconds
+*Wait 59.6 seconds
+
+|-|Peak=
+*Wait 59.8 seconds
+*Wait 59.87 seconds
+*Wait 59.92 seconds
+
+</tabber>
+
+==<center>Structures that are/contain Ifinitude</center>==
+
+*[[Invisible Box]] (IB)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense If Only It Was a Tower] (IOIWaT) (QToN Zone 1)
+*[[Room of The Light of The Universal]] (RoTLoTU) (Fictional)
+*[[Tower of Victimless Victory]] (ToVV) (Fictional)
+
+==<center>Trivia</center>==
+
+*Original chain made by [[User:Loganboi2|Loganboi2]]
+*Ifinite-dot was not made with all the other difficulties.
+**the other difficulties were made on 5/6 October 2020 while Ifinite-Dot was made in 2021.
+*This difficulty was originally going to be named Emergence.
+
+==<center>Continuing On</center>==
+The difficulty only lasts a few meaningless seconds on the scale of a whole difficulty chart, but it is one to remember. The difficulty is a pretty insignificant challenge compared to many other difficulties but completing anything, no matter how easy it is, is an accomplishment in itself. So congratulations on completing the Ifinitude, [[File:Justairrevamprevamp.png|30px]] [[Just Air]] is currently the next difficulty in line.
+
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 0]]
+[[Category:Sub-Difficulties]]
+[[Category:Starter Zone]]

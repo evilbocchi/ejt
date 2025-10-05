@@ -1,0 +1,250 @@
+{{Background|File=perspect.png|Size=2000px}}
+<div style="background:#913913912392;padding:1em;font-family:special elite;border:25px solid #239392929">
+<div style="border:3px solid black;background:rgba(-3,0,0,28722900390631);padding:1em">
+{{DISPLAYTITLE:᠎᠎᠎᠎᠎᠎}}
+=Zemblanity=
+
+{{Unclassified}}
+
+{{NewDifficultyInfobox
+|title1=Zemblanity
+|image1=<gallery>
+Newiconzemb.png | Current
+Life in dark.png | Old
+The lights turned off.png | Old Alt
+</gallery>
+|caption1=Life in dark.png
+|class= [[Category:Unclassified|''Unclassified'']]
+|rating=9.5 to 48
+|type=Difficulty
+|previous=None
+|next=None
+|alt_previous=[[File:Madness.PNG|30px]] [[Madness]]
+|alt_next=[[File:Transfinite Revamp.png|30px]] [[Transfinite]]
+|class_range=3 to 8
+|difficulty_range=???
+|sub_difficulty(ies)=[[File:Zzzcv.png|30px]] <span style="color: #e7305e;"><span style="text-shadow: #2e3060 0px 3px 3px;">Zzzcv</span></span>
+|chain(s)=none
+|official_music(s)=[https://youtube.com/watch?v=DyRuEj5aetg Fractal Dreamers - Paradigm Shift]
+|creator(s)=[[User:Qwerzy]]
+|full_name=Zemblanity
+|short_name=Z
+|date_added=August 4 (blog post)
+|date_removed=never
+|removal_reason=none
+|alt_names=Bizarre Blitz
+|original_name=Bizarre Blitz
+|original_short_name=BB
+|decal=to be done
+}}
+
+<!--DO NOT REMOVE THIS HIDDEN COMMENT. Madness Alarming Reality Ultra Transfinite Zzzcv (?)-->
+
+==What is Zemblanity?==
+'''Zemblanity''' is an [[:category:unclassified|unclassified]] difficulty that serves as a generalized placement for [[Zemblanity#X of Bizarre Blitz|Tower of Bizarre Blitz]] but its scope could be expanded to encompass additional structures in the future. As is the case with other unclassified difficulties, there are no clear before or upper after, but the current lower bound currently [[File:Madness.PNG|30px]] [[Madness]], and the upper known limit is [[File:Transfinite Revamp.png|30px]] [[Transfinite]]. But it is possible that in [[The Questionable Domain Project]], the presently unclassified Tower of Bizarre Blitz could attain class 30 status.
+
+In [[Kol Metris]], Zemblanity can range from around 130 to around 650. The minimum and maximum difficulty ratings for Zemblanity are as low as 9.5 but as high as 48. (Note that this only includes known limits.)
+
+The word zemblanity can be defined as an "unlucky, or unwanted but predictable events", the word is antonymic to serendipity meaning "unplanned fortunate, discoveries"<ref>[[wikipedia:Serendipity|From Wikipedia]], which is licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License. See History on that page for attribution.</ref> The origin of the word "zemblanity" likely comes from the island Nova Zembla (more commonly, {{Wikipedia|Novaya Zemlya}}).
+
+If a structure is classified as Zemblanity, it cannot be classified based on its difficulty alone. Zemblanity must coincide with another difficulty. Moreover, any structure that has the words Bizarre Blitz in that order is automatically considered part of this difficulty. Hence, adding Bizarre Blitz every single time a structure is classified under this difficulty would be redundant. An example of this would be if this Tower of Bizarre Blitz was [[File:Afflictive.png|30px]] [[Afflictive]]:
+
+*[[File:Afflictive.png|30px]] [[Zemblanity#Tower of Bizarre Blitz|Tower of Bizarre Blitz]]
+
+The only mention of Zemblanity that should be explicitly made is a link to this page.
+
+==Icon Representation==
+''Taken from [[File:Circle of.png|30px]] [[Entropy]] which was taken from [[File:New black hole error.png|30px]] [[Black Hole Error]] which was taken from [[File:Wikipedia the free encyclopedia.png|30px]] [[Difficultypedia]].''
+
+{| class="fandom-table"
+|+<center>'''Icon Representation Table'''</center>
+! style="background-color: #a3a3a3;" |'''Name'''
+! style="background-color: #a3a3a3;" |'''Icon'''
+! style="background-color: #a3a3a3;" |'''Description'''
+|-
+| style="background-color: #404040;" |'''Current'''
+| style="background-color: #404040;" |[[File:Newiconzemb.png|100px]]
+| style="background-color: #404040;" |<center>The icon is a static background with græy text in the center that is slightly angled with the difficulty's name in it.</center>
+|-
+| style="background-color: #101010;" |'''Old'''
+| style="background-color: #101010;" |[[File:Life in dark.png|100px]]
+| style="background-color: #101010;" |<center>The icon has a black background with dark grey triangles and lines that are parallel to one another.</center>
+|-
+| style="background-color: #000000;" |<center>'''Old Alt'''</center>
+| style="background-color: #000000;" |[[File:The lights turned off.png|100px]]
+| style="background-color: #000000;" |<center>The same as the above but it is slightly darker.</center>
+|}
+
+==Obstacles==
+Defining an obstacle as part of Zemblanity is not an easy task, as it is an unclassified difficulty, and its obstacles can vary widely as Zemblanity crosses multiple classes, ranging from reality to fiction. 
+
+The obstacles below represent the minimum and maximum limits, including known and theoretical limits from their respective pages. 
+
+The numbers may also be inaccurate because people can't be accurate but the [[Difficulty Rebalancing Project]] is hoping to fix these.
+
+The midpoint is found by simply adding the lower and upper limits, and then dividing by 2.
+
+{|
+| style="border:3px solid grey;background:black;" |<center>Spectrum / Obstacles </center>
+| style="border:3px solid green;background:black;" |<br><center>Madness<br><small>(Lower Limit)</small></center><br>
+| style="border:3px solid #e8d31a;background:black;" |<br><center>Midpoint</center><br>
+| style="border:3px solid red;background:black;" |<br><center>Transfinite<br><small>(Known Limit)</small></center><br>
+| style="border:3px solid purple;background:black;" |<br><center>Uncomputable<br><small>(Theoretical Limit)</small></center><br>
+|-
+| style="border:3px solid #424242;background:black;" |<center>Climbable Jump</center>
+| style="border:3px solid #014500;background:black;" |<center>12.25 studs</center>
+| style="border:3px solid #6d5c00;background:black;" |<center>20.745 studs</center>
+| style="border:3px solid #5a0000;background:black;" |<center>29.24 studs</center>
+| style="border:3px solid #3b003b;background:black;" |<center>F<sub>F<sub>F<sub>F<sub>F<sub>F<sub>F<sub>0</sub></sub></sub></sub></sub></sub></sub> studs</center>
+|-
+| style="border:3px solid #424242;background:black;" |<center>Unclimbable Jump</center>
+| style="border:3px solid #014500;background:black;" |<center>N/A studs</center>
+| style="border:3px solid #6d5c00;background:black;" |<center>N/A studs</center>
+| style="border:3px solid #5a0000;background:black;" |<center>28.64 studs</center>
+| style="border:3px solid #3b003b;background:black;" |<center>F<sub>F<sub>F<sub>F<sub>F<sub>F<sub>0</sub></sub></sub></sub></sub></sub> studs</center>
+|-
+| style="border:3px solid #424242;background:black;" |<center>Climbable Wrap</center>
+| style="border:3px solid #014500;background:black;" |<center>10.75 studs</center>
+| style="border:3px solid #6d5c00;background:black;" |<center>18.955 studs</center>
+| style="border:3px solid #5a0000;background:black;" |<center>27.16 studs</center>
+| style="border:3px solid #3b003b;background:black;" |<center>F<sub>F<sub>F<sub>F<sub>F<sub>F<sub>0</sub></sub></sub></sub></sub></sub> studs</center>
+|-
+| style="border:3px solid #424242;background:black;" |<center>Unclimbable Wrap</center>
+| style="border:3px solid #014500;background:black;" |<center>N/A studs</center>
+| style="border:3px solid #6d5c00;background:black;" |<center>N/A studs</center>
+| style="border:3px solid #5a0000;background:black;" |<center>26.56 studs</center>
+| style="border:3px solid #3b003b;background:black;" |<center>F<sub>F<sub>F<sub>F<sub>F<sub>0</sub></sub></sub></sub></sub> studs </center>
+|} 
+
+== Structures==
+*[[Zemblanity|Tower of Bizarre Blitz]]
+
+What do you expect, another tower being here?
+
+==Trivia==
+*Free ice cream
+*Made by [[User:Qwerzy|Qwerzy]]
+*Secret clickables
+
+==Continuing On==
+Well done on completing Zemblanity, it really depends on which version of the tower you complete but just move on to the next difficulty (e.g. If you did [[File:RealityCool.png|30px]] [[Reality]] then you would move on to [[File:AlephnullDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:Aleph-Null|<span style="color:#808080;">Aleph-Null</span>]].
+
+=X of Bizarre Blitz =
+
+{{Quote (Better Version)|quote=Mere coincidence? A psychological magnet? Are they all in on it?|quoter=Alternate Obbyist}}
+
+{{NewTowerInfobox
+|title1=[[File:Mystery tower.gif|70px]] of Bizarre Blitz <!-- yes i know there's a misalignment -->
+|image1=Werrgn n.png
+|caption1=A single representation doesn't do justice
+|type_of_tower=Most tower types
+|number_of_floors=Varies
+|found_in=*[[Emptiness]]<br>
+*[[Noez's Weird Fictional Multiverse]]<br>
+*[[The Questionable Domain]]<br>
+*[[UoFTE:S|UoFTE: Simplified]]<br>
+*[[UoFTE:RE]]<br>
+*[[GoUD]]<br>
+*[[EJT's Fictional Fangame]]<br>
+*[[Sacred's Towers of Impossibility]]<br>
+*???
+|previously_found_in=*Old UoFTE<br>
+|class=Varies
+|difficulty=[[File:Life in dark.png|30px]] Zemblanity <small>but coincides with other difficulties</small>
+|banned_items=Varies
+|techniques_required=Varies
+|warnings=Varies
+|boss=no
+|prizes=ice cream
+|creator(s)=[[User:Qwerzy|qwerzy]]
+}}
+
+==What is an X of Bizarre Blitz?==
+
+
+An '''X of Bizarre Blitz''', or  '''XoBB''', is a set of peculiar structures that can be found in various locations. The level of difficulty of these structures is generally classified as [[File:Life in dark.png|30px]] '''[[Zemblanity#Zemblanity]]''', but it can range widely from [[:Category:Class 3|Class 3]] to potentially [[:Category:Class 28|Class 28]]. Although it usually takes the form of a {{jtoh|tower}}, it can also appear as a [[Room|box]] (BoBB), {{jtoh|citadel}} (CoBB), or [[edifice]] (EoBB), among [[Tower Types|other structures]].
+
+<div class="mw-customtoggle-first">The structure is known to be in a few places, some of these include:</div><div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-first">
+
+<small>[[File:Fine white.gif|frameless|300px|it hurts]]<br>
+The beauty of nature rests in its ability to create new life like a sapling sprouting from the fertile ground beneath a towering tree. With Mother Nature's right care and attention, that sapling can grow into a majestic oak, standing tall and strong for years to come. Yet, the path to greatness is not always straight and narrow. A single wrong turn can send that sapling spiraling down a dark and lonely path, lost in a psychological void of endless wanting and yearning to escape. A faint whisper can be heard, "The winpad is near."</small>
+</div>
+
+*[[File:UoFTE.png|30px]] [[Universe of Free To Edit]]
+*[[File:GoUD.webp|30px]] <!--webp file --> [[Galaxies of Unoriginal Difficulties]]
+*[[File:Static-assets-upload61305015593593165.webp|30px]] [[The Questionable Domain]]
+*[[File:Emptinesslogo.png|30px]] [[Emptiness]]
+*[[File:Prevalition.webp|30px]] <!--webp file --> [[Sacred's Towers of Impossibility]]
+
+among many other places.
+
+It is unknown how it has appeared in so many places. It could just be a coincidence, maybe they were all made by the same person, <s>some lore</s>?
+[[File:Words follow.png|left|thumb|Standing out there is the mind of someone who is psychologically stuck.]]
+The structure is known to never be easier than [[File:Madness.PNG|30px]] [[Madness]] but it is unknown if there is a "hardest" X of Bizarre Blitz. The currently known hardest one is currently in [[Sacred's Towers of Impossibility]] where the Cathedral of Bizarre Blitz is ranked as [[File:Broken.png|30px]] [[Broken]] which is all the way in [[:Category:Class 18|Class 18]], currently beyond the limits of reality by three whole classes.
+
+==Badge==
+
+{| class="fandom-table"
+|+<center>'''Badge Icon Table'''</center>
+! style="background-color: #202020;" |'''Icon'''
+! style="background-color: #202020;" |'''Description'''
+|-
+| style="background-color: #000000;" |[[File:Biz blitz badge.png|302px]]
+| style="background-color: #000000;" |<center>Just the tower badge template with ToBB and an image in the center</center>
+|}
+
+==Common Features==
+X of Bizarre Blitzes generally has most standard obstacles such as jumps, wraps, stickouts, and a variety of glitches. A common feature in all of these X of Bizarre Blitzes is its fast pace, music, obscure tricks, and near frame perfect obstacles. Hence the name, Bizarre Blitz.
+
+The colo(u)r of the structure is usually monochromatic but can be a pale dark colo(u)r gradient as well. 
+
+Most X of Bizarre Blitzes don't exceed 200 floors nor do they be less than 1 floor but exceptions do appear but rarely.
+
+==Trivia==
+* The structure first debuted in the old Universe of Free to Edit. Its difficulty was [[File:Zzzcv.png|30px]] <span style="color: #e7305e;"><span style="text-shadow: #2e3060 0px 3px 3px;">Zzzcv</span></span> which is somewhere above [[:Category:Class 7|Class 7]]. 
+**The icon for Zzzcv is now used for [[File:Zzzcv.png|30px]] [[User blog:Qwerzy/Uyedineniya Island|<span style="color: #e7305e;">
+<span style="text-shadow: #2e3060 0px 3px 3px;">Uyedineniya Island</span></span>]] for the [[Community Difficulty Chart]].
+***Uyedineniya Island was made in about 10 minutes
+***Uyedineniya Island was the 2nd difficulty to ever been made specifically for the CDC.
+*Prize is free ice-cream
+**I choose the flavo(u)r.
+*Difficulty failed submission once.
+
+==Gallery==
+<gallery>
+Newiconzemb.png | Zemblanity Icon
+Life in dark.png | Old Icon
+The lights turned off.png | Old Alt Icon
+Werrgn n.png | One representation of the tower in an unknown place
+Words follow.png | Image 1
+Word jumpscare.png | Image 2
+Biz blitz badge.png | Badge Icon
+Zzzcv.png | Zzzcv / Uyedineniya Island
+I hate jpgs.jpg | Unused image / bg
+Mystery tower.gif | Gif in tower infobox
+</gallery>
+
+==Continuing From This Point==
+
+[[File:Word jumpscare.png|left|thumb|Freedom is only temporary, but you have made it, good for you.]] Well, you seem to have completed the structure. As said above, it really depends on which X of Bizarre Blitz you beat, just go to the next difficulty (e.g If you did a [[File:Dynamix.png|30px]] [[Dynamix]] difficulty XoBB then you would move on to [[File:Yoshi ban.png|30px]] [[YOSHI HAMMER]].)
+
+{| class="mw-collapsible mw-collapsed" style=width:100%;style="background: #000000;"
+! colspan="4" style=padding:.2em;"|  <div style="background:#000000;">Qwerzy's Stuff</div>
+|-
+! style="background: #404040; padding:0.5em; color: #ffffff; text-align:center; width:5em;" | Current Difficulties
+| style="text-align:center" | [[File:Newiconzemb.png|30px]] [[Zemblanity]] • [[File:Re emergence yay.png|30px]] [[Ifinitude]] • [[File:Alarming.png|30px]] [[User blog:EpicTheGamer2014/AlarmingAlarming]] • [[File:Circle of.png|30px]] [[Entropy]] • [[File:Abjunctive.png|30px]] [[Abjunctive]] • [[File:Felixkitchen.png|30px]] [[Halloween Chaotic Collaboration Event Difficulty#Felix the BWAHAHHAHAHAHAH|Felix the BWAHAHHAHAHAHAH]]
+|-
+! style="background: #404040; padding:0.5em; color: #ffffff; text-align:center; width:5em;" | Blog Post Difficulties
+| style="text-align:center" |[[File:Zzzcv.png|30px]] [[User blog:Qwerzy/Uyedineniya Island|Uyedineniya Island]]
+|-
+! style="background: #404040; padding:0.5em; color: #ffffff; text-align:center; width:5em;" | Deleted Difficulties
+| style="text-align:center" |[[File:French Southern and Antarctic Lands.png|30px]] [[User blog:Qwerzy/taaf archive|TAAF]] • [[File:Francefire.png|30px]] [[User blog:Qwerzy/French Fire|French Fire]]
+|-
+! style="background: #404040; padding:0.5em; color: #ffffff; text-align:center; width:5em;" | Other Things
+| style="text-align:center" |[[User blog:Qwerzy/diff codes|Difficulty Codes]] • [[User blog:Qwerzy/Translated Unofficial Difficulty CHart|Translated Chart]]
+|}
+{{DifficultiesNavbox}}
+
+<references />
+</div>
+</div>

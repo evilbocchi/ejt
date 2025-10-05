@@ -1,0 +1,123 @@
+{{DISPLAYTITLE:<span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">'''{{PAGENAME}}'''</span>}}
+{{CSS|content=<nowiki>
+.theme-fandomdesktop-dark {
+    --theme-link-color: #95A3FF;
+}
+a {
+color:darkblue;
+}
+</nowiki>}}
+<!--<div style="background:#E11584;padding:1em;font-family:rubik;border:20px solid #FF1694">-->{{Background|File=Msbg.png|Size=1900px}}
+{{NoticeScrollboxNew|Notices={{Humanly Possible}}{{Large Page}}}}
+{{NewDifficultyInfobox|title1=[[File:One Second.png|40px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>|image1=One Second.png|caption1=The title says it all; beating this will be, well, millisecondless.|class=[[File:Winsome.png|30px]] <span style="color:#8080FF">'''Baseline Class 0'''</span>|rating=-30|type=*Normal Difficulty
+*Automatic Difficulty
+*Humanly Possible Difficulty|previous=[[File:Instant Win.png|30px]] [[Instant Win]]|next=[[File:Win (i guess).png|30px]] [[Win]]|difficulty_range=Baseline to Peak|creator(s)=[[User:MapleIsNotAMapleLeaf|MapleIsNotAMapleLeaf]] (Owner)|date_added=7/4/23|decal_id=[https://create.roblox.com/store/asset/13964360470/Millisecondless 13964360470]|alt_next=[[File:Astronomical.png|25px]] [[Astronomical]] (Sub-Difficulty)|sub_difficulty(ies)=[[File:Astronomical.png|25px]] [[Astronomical]]|hex_color=*#f470fe (Background)
+*#fac2ff (One)|rgb_color=*244,112,254 (Background)
+*250,194,255 (One)}}
+==Introduction: [[File:One Second.png|frameless|40x40px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>==
+[[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span> is a difficulty in [[File:Winsome.png|30px]] <span style="color:#8080FF">'''Baseline Class 0'''</span> with a rating of -30, placing it after [[File:Instantwin.png|frameless|30x30px]] [[Instant Win]],  [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>’ predecessor, and the final class negative difficulty,  but placing it before [[File:Win (i guess).png|frameless|30x30px]] [[Win]],  [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>’ successor. It also does have a sub-difficulty, [[File:Astronomical.png|frameless|30x30px]] [[Astronomical]], however, you'll see more about that in it's own page. This difficulty also has a Kol Metris rating of approximately |0.5|, meaning that it in the middle/near the middle of the [[File:SquareRelaxNew.svg|frameless|30x30px]] [[Relax]] through [[File:AutomaticNew.png|frameless|30x30px]] [[Automatic]] range of difficulty. This difficulty is humanly possible, meaning that literally anyone, even you, could potentially beat this. However, this difficulty is  [[File:Winsome.png|30px]] <span style="color:#8080FF">'''Baseline Class 0'''</span>, meaning that it is basically unlosable, and the only way that you can lose is by disconnecting, or by bugs happening.
+
+A victor of a [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span> would be considered by all means, legit, since there is no possible way that you could hack a victory of this difficulty. Any attempts at hacking would either be for fun, or just plain scummy, since towers with this difficulty can usually be beaten within mere milliseconds of entering the tower portal.
+
+Towers of [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span> would be recommended to have the floor as a winpad, as well with having the spawnpoint be directly on said winpad, with atleast 9 studs distance of fall time. Anything further than 9 studs of falling time would count as an obstacle of this difficulty, and anything less than 9 studs of falling time would count as an obstacle of the previous difficulty, [[File:Instantwin.png|frameless|30x30px]] [[Instant Win]].
+==Icon Representation: [[File:One Second.png|frameless|40x40px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">'''Millisecondless'''</span>==
+{| class="fandom-table"
+|+Icon Representation Table
+!Icon
+!Explanation
+|-
+|[[File:One Second.png|frameless|150x150px]]
+|[[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>’ current icon is very simple; there’s an ultra pink background, with a light pink 1 in the middle. 
+|}
+
+==Placement: [[File:One Second.png|frameless|40x40px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>==
+
+===Peak Class Negative===
+*[[File:RestfulR.png|30x30px]] ''[[Restful]]'' (-50)
+*[[File:Ifinitely-Winsome.png|30x30px]] [[Ifinity]] (-40)
+*{{Class-1Difficulties|Instant Win}} [[Instant Win]] (-31)
+===Baseline Class 0===
+*[[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span> (-30) '''(You are here.)'''
+**[[File:Astronomical.png|25px]] [[Astronomical]] (-29.5)
+*{{Class0Difficulties|Win}} [[Win]] (-29)
+*[[File:Winsome.png|frameless|30x30px]] [[Winsome]] (-28)
+===Low Class 0=== 
+*{{Class0Difficulties|Do Nothing|30px}} [[Do Nothing]] (-27)
+**[[File:Sleepful2.png|30px]] [[Sleepful]] (26.5)
+*[[File:Blessing.jpeg|30px]] '''[[Blessing]]''' (-26)
+*[[File:Vintage.png|30x30px]] [[Vintage]] (-25)
+**[[File:Re emergence yay.png|25px]] [[Ifinitude]] (-24.5)
+==Catches: [[File:One Second.png|frameless|40x40px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>==
+*Anything of this difficulty will cease to exist if anything on Earth has an existence rank of above 100, or below -100.
+* There’s a 2% chance in certain towers that you are spawned at the top of the tower.
+*You have to enter the tower portal, or else, you won’t be able to do any tower of this difficulty.
+==Obstacles in this difficulty: [[File:One Second.png|frameless|40x40px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>==
+{| class="fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+| Waiting
+| style="background-color: #014500;" |Wait 1 Millisecond.
+| style="background-color: #336000;" |Wait 10 Milliseconds.
+| style="background-color: #6d5c00;" |Wait 100 Milliseconds.
+| style="background-color: #964a00;" |Wait 500 Milliseconds.
+| style="background-color: #5a0000;" |Wait 900 Milliseconds.
+|-
+|Falling (onto an instant winpad)
+| style="background-color: #014500;" |Fall 0.0078125 studs.
+| style="background-color: #336000;" | Fall 0.015625 studs.
+| style="background-color: #6d5c00;" | Fall 0.03125 studs.
+| style="background-color: #964a00;" | Fall 0.0625 studs.
+| style="background-color: #5a0000;" | Fall 0.125 studs.
+|}
+
+==Towers==
+{| class="mw-collapsible" <span style="border:5px solid; border-image: linear-gradient(to bottom, #f352ff, #f470fe)4; height: 50px; background:linear-gradient(to bottom, #f5a4fc, #fac2ff); padding:3px; text-align: left;"></span>
+| width="100%" style="border-radius: 5px 5px 0 0; font-size: 1em; font-weight: 200; font-family:Comfortaa; color:black;" | Towers of this difficulty - [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>⠀
+|-, 
+|<span style="color:black;"><big>[[File:One Second.png|50px|link=[[Millisecondless]]]]
+<br>
+===Non-Fictional===
+*Tower of Insanely Unfun Gameplay (ToIUG) (Baseline [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>)
+*[[Steeple of How Is This Harder]] (SoHITH) (Baseline [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>)
+*[https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Vent of Waiting a Millisecond] (VoWaM) (Mid [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Great Citadel of A Singular Milisecond] (GCoASM) (Mid [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>) (QToN Zone 1)
+===Fictional===
+''Just a reminder that these are all fictional, meaning you can’t play them!''
+*Tower of Ten Stud Instancy (ToTSI) (Baseline [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>)
+*Tower of Five Little (ToFL) (Low [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>)
+*Tower of Nine Hundred Ninety Eight Useless Studs (ToNHNEUS) (Mid [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>)
+*Tower of False Urbanity (ToFU) (High [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>)
+*Tower of True Dystopia (ToTD) (Peak [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>)
+|-|
+|}
+<br>
+
+==Gallery: [[File:One Second.png|frameless|40x40px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>==
+<gallery>
+File:Jwklong Millisecondless.png|An unofficial icon by jwklong.
+File:Milli.png|An unofficial icon by Winlogon95.
+File:Oneisecondless.png|Bruhshard's recreation of how Millisecondless could've looked like if it used Win's color pallet.
+File:Millisecondish.png|An unofficial icon by AlexJN.
+File:MillisecondlessRevamp.png|Millisecondless unofficial icon by: [[User:Cheester16|Cheester16]]
+</gallery>
+
+==Trivia: [[File:One Second.png|frameless|40x40px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>==
+*This used to be called “One Second”, however it changed to “{{PAGENAME}}”, like how it is today.
+*This difficulty’s name, [[File:One Second.png|frameless|30x30px]] <span style="color:#FD6CFD;text-shadow:0 2px 5px #FD6CFD;font-family:Georgia">[[{{PAGENAME}}]]</span>, uses Georgia font on the page.
+*This difficulty’s icon colour scheme used to be similar to that of  [[File:Win (i guess).png|frameless|30x30px]] [[Win]].
+**It was changed to a pink colour scheme because having a colour scheme of another difficulty would be considered unoriginal.
+***In the gallery above, Bruhshard recreated how the icon could've looked like.
+
+Congratulations! You’ve made it past the first class, along with the fact that you’ve just made it past the first difficulty of the second class! If you know how to use the controls, it is recommended that you go straight to  [[File:EffortlesslessIcon.png|frameless|30x30px]] [[Effortlessless]], rather than [[File:Win (i guess).png|frameless|30x30px]] [[Win]]. However, if you are trying to 100% the entire chart, then go right on to [[File:Win (i guess).png|frameless|30x30px]] [[Win]]. You choose what you want to do. However, here’s a tiny reminder: it won’t be as easy as [[File:FPnew.png|frameless|30x30px]] [[Friendliness]], or [[File:Imagecool.png|frameless|30x30px]] [[Reversed Peripherality]].
+{{DifficultiesNavbox}}
+[[Category:Humanly Possible]]
+[[Category:Class 0]]
+[[Category:Large Pages]]
+[[Category:Two color icon]]
+[[Category:Starter Zone]]

@@ -1,0 +1,69 @@
+<div style="box-sizing:border-box; border-radius:15px;border:3px solid white;overflow:hidden;background:linear-gradient(45deg, #FF6300,#FFA800);padding:0.5em;">{{Background|File=Wdauhofa.gif}}{{Collaboration}}{{Physically Impossible}}{{NewDifficultyInfobox|image1=Enfarted.gif|title1=Enclosed|caption1="Stop it patrick you're scaring him!"|class=Low Class 7|rating=65.66|type=Sub-Difficulty|previous=[[File:Jes.png|30px]] [[Jesus Ballin'|Jesus Ballin]]|next=[[File:El Vacio Sqaure.png|30px]] [[El Vacio]]|class_range=Low|difficulty_range=Baseline to Peak|creator(s)=MaybeAFryingPan24, Touchgrass210779|date_added=01/09/2023|alt_previous=[[File:HyperViolent_New.png|30px]] [[HyperViolent]]|main_difficulty=[[File:Jes.png|30px]] [[Jesus Ballin'|Jesus Ballin]]|decal_id=[https://create.roblox.com/store/asset/17231621619/Enclosed Here]}}
+
+==What is ''Enclosed''?==
+'''Enclosed''' is a Low Class 9 difficulty. The icon for '''Enclosed''' is a GIF of arrows pointing to the center of a shrinking circle. It is inbetween [[File:Jes.png|30px]] [[Jesus Ballin'|Jesus Ballin]] or [[File:HyperViolent_New.png|30px]] [[HyperViolent]] and [[File:El Vacio Sqaure.png|30px]] [[El Vacio]]. 
+
+The arrows represent the tight spaces that the player must navigate through, and the shrinking circle represents the increasing difficulty of the level. This difficulty has never been deleted, revived, or had any sub-difficulties created from it. It has a rating of 50.5, making it one of the more challenging difficulties in the wiki. The tight spaces and complex patterns make it difficult to see what is coming, and even with exploits, it is still hard to complete.
+
+'''Enclosed''' is a difficulty based on claustrophobia. Every 25 seconds, the tower gets tighter and tighter. However, what doesn't, are the jumps. The jumps, they don't get any smaller. Meaning that some jumps may clip through the tower frame, causing the player to dance-clip in mid-air to even do one jump. This could certainly bump up the difficulty. However, there is a mechanic at play.
+
+The player may try to lodge through the tower frame, or laugh glide up the frame to cheese some jumps. However. For every cheesed jump, every jump (even non-cheesed ones) get extended, by .5 studs, that is. Meaning that the player is free to cut through the jumps like butter by cheesing them, but, they shall receive a penalty of 0.5 studs.
+
+==Icon Representation==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|-
+!'''''Icon:'''''
+!'''''Description:'''''
+|-
+! style="background:linear-gradient(180deg, #f03800,#ffa600); color: white" |'''''Current:'''''[[File:Enfarted.gif|center|128x128px]]
+| style="background:linear-gradient(180deg, #f03800,#ffa600); color: black" |'''A GIF of moving arrows pointing to a shrinking circle. There is text on the bottom, saying the name of the difficulty. That's it.'''
+|-
+
+|}
+
+== Obstacles ==
+
+=== Catches ===
+
+* If one were to die in this difficulty, they would go back one section of [[File:Enfarted.gif|frameless|30x30px]] '''Enclosed'''. However, dying in the Baseline section would send one back to Peak [[File:HyperViolent New.png|frameless|30x30px]] [[HyperViolent]].
+* The tower frame shrinks at a rate of 1 stud per 25 seconds. However, the jumps retain their sizes.
+* Each time the player fails a jump, their character gets a minor debuff effect. This means that their WalkSpeed could be shifted from 16 to 15.5, or their character could be 5% smaller than before.
+* You cannot use any external ideas to beat or skip any part of [[File:Enfarted.gif|frameless|30x30px]] '''Enclosed'''. For example, a "if 1 is smaller than EXPAN, I win" type of idea. However, this catch is not limited to just that.
+
+=== Obstacles ===
+{{ObstacleTableRevamp|JumpClimbableBase=56.132|Increment=1.043}}
+{{Boss|title1=Core of the Enclosure|image1=ecks_dee.png|caption1=This is it.|hp=1,625,600,000|damage=218,400,000|drops=The Key of Enclosure|found_in=Enclosed|how_to_access=Beat Enclosed|difficulty=Peripheral Enclosed}}
+== Boss Fight ==
+The '''Core of the Enclosure''' is the boss in [[File:Enfarted.gif|frameless|30x30px]] '''Enclosed'''. It has 1.6256 billion hitpoints and deals 218.4 million damage. It has many abilities, each dealing lots of damage. 
+
+The '''Core of the Enclosure''' appears as a cube, similar to the enemies in the well-known Difficulty RPG. The player receives a 12-17 damage sword, to fight the boss with.
+
+Here are the abilities:
+
+* Spamming a lot of XDs on the player's screen, obstructing the screen.
+* Lunging at the player.
+* Multiplying its own health (not maximum health) by 1.0005. (Can only use 15 times per fight)
+
+''After the player defeats the boss fight, the winpad appears, a good 25 studs from the player.''
+
+== Towers ==
+
+=== Towers in this difficulty ===
+
+* Tower of Compact Cramming (Fictional) (ToCC)
+* Citadel of Rigid Wedging (Fictional) (CoRW)
+*[[Steeple of Tight Spaces]] (Fictional) (SoTS)
+
+=== Towers with this difficulty ===
+
+* N/A
+
+== Continuing from this point ==
+Well, it seems that you have beaten such a difficult difficulty! If you wish, you may move on to [[File:El Vacio Sqaure.png|30px]] [[El Vacio]].
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+[[Category:Class 7]]
+[[Category:Collab Page]]

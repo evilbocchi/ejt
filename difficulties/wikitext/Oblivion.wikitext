@@ -1,0 +1,63 @@
+<div style="background: linear-gradient(to bottom, #007700 0%, #770000 100%); padding:0.5em;">{{Humanly Impossible}}__NOTOC__{{NewDifficultyInfobox
+|title1 = Oblivion
+|image1 = <gallery>
+Gamer.jpg|Current
+OldOblivionIcon.jpg|Old
+Oblivion2.png|Alternate Old
+Oblivionold.png|Oldest
+</gallery>
+|class = Class 6
+|previous = [[Victor]]
+|next = [[QUANTUM|Quantum]]
+|decal_id = *[https://create.roblox.com/store/asset/115326494268391/Oblivion-newest/Oblivion-newest Current]
+*[https://create.roblox.com/store/asset/7281346081/Oblivion Old]
+*[https://create.roblox.com/store/asset/76162000434334/Oblivion Alternate Old]
+*[https://create.roblox.com/store/asset/6387131532/Oblivion Oldest]
+|sub_difficulty(ies) = 
+|rating=54.5|main_difficulty=[[Victor]]|type=Sub-Difficulty|creator(s)=* Owner: [[User:AlexJN|AlexJN]]
+* Original creator: [[User:Octogoat YT|Octgoat YT]]}}
+
+==What is '''Oblivion'''?==
+'''Oblivion''' is a class 6 sub-difficulty, and the one of the las''t humanly impossible'' difficulties. As every humanly impossible difficulty, everything in this difficulty is glitches and jumps that no human could ever think of. Every jump requires illogical physics and movements or some coincidental glitches that happen to players twice a year. But, you now have to do it on purpose. So, the chances to beat this difficulty are slim to none. 
+
+Even the best class 6 obbyists have absolutely no luck in beating this, because since this is physically impossible, it will utilize glitches and very confusing tactics to beat. Good luck.
+
+==Icon Representation==
+
+===Oldest Icon===
+The Old icon is similar to [[Supreme]], just with some add-ons. It has the same gradient background from blue to pink, but there is a black XD on it. On that black XD face, there is a skull from the difficulty old [[w:c:jtohs-hardest-towers:DEATH|DEATH]] icon. This skull is low quality and was lazily cut out and added in. Also, the inside mouth is cut out, so you can see more of the XD behind it. Overall, it is a lazy and creepy icon, and luckily it has been revamped. To see the old icon, press “Old” on the difficulty template. It’s easy to access!
+
+===Old Icon===
+Alright, the new icon has arrived! It can finally describe it in detail. '''Thanks to [[User:AlexJN|AlexJN]] for creating this.'''
+
+The new and improved icon is a much better one compared to the old one. Like the [[Supreme]] and the old icon for '''Oblivion''', it has a gradient behind it. This gradient goes from red to green. There is also a little bit of orange or brown in the middle from the two colors being mixed together. Speaking of the middle, the actual symbol for the icon is there. It is covered in a black triangle, and the top right side of the triangle has a thicker border than the other two sides. In the middle, there is the symbol for the Greek letter Sigma (Σ) which is the symbol for a mathematical sum or standard deviation. Nobody knows why the sigma is in the icon, as '''Oblivion''' has nothing to do with either of its meanings, but it is thought that it's just there to look cool.
+
+=== Current Icon ===
+This icon is made by [[User:AlexJN|AlexJN]] with help from [[User:OrbentuneAlt|OrbentuneAlt]].
+
+Similar to old, but with some key differences: A font change, a darkened internal background, and the delta is changed to a pi. This is to add symbolism: Sigma is for the summation operator and pi is for the multiplicative operator. Also, the gradient has had its colors swapped.
+
+==Obstacles in this difficulty ==
+{{ObstacleTableRevamp|JumpClimbableBase=24.78|Increment=0.035}}
+
+==Towers In Oblivion ==
+
+*Citadel of Absolute Obliteration of Life (CoABoL) (Fictional)
+*Tower of Oblivion: Ultimate Buff (ToO:UB) (Fictional)
+*[[Really, This is Not a Tower at All.]] (RTiNaTaA)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Oblivion] (O) <!--in forgotten ridge of qton-->
+
+==Beyond Into Your Oblivion... ==
+So, you have somehow beaten this monstrosity of difficulty. I'm not sure what to say, except that you are more skilled than every other obbyist on Roblox. Through sheer will and very precise skills, you will probably be forever. However, I’ll tell you that is not enough. ''No, not as near enough. At this rate, it will never, ever be enough.'' 
+
+What I mean is that you are nowhere near the end of the chart, ''not even close''. Difficulties beyond here will be your real oblivion. This monstrous difficulty may have put up a great fight, but the war is not over. Your next task that is pending is [[QUANTUM|Quantum]], so hurry up and progress. But:
+
+'''Don’t forget going further is pointless. You’re walking into your deathbed as the difficulties become more incomprehensible.'''
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 6]]
+[[Category:Humanly Impossible]]

@@ -1,0 +1,194 @@
+<div style="box-sizing:border-box; border-radius:15px;border:3px solid #2feeff;overflow:hidden;background:linear-gradient(135deg, #00ccd6,#22cce7,#33dde8); padding:1em;">{{NoticeScrollboxNew|Notices={{Inclusion|reason='''Both Sanjay2133 and The Difficulty Enthusiast approved of this difficulty. This difficulty is also a part of keeping the consistency of the JToH difficulty chart.''' '''[[User blog:TheGalagola/Hysterical|This]] and [[User blog:The Difficulty Enthusiast/Petrifying|this]] can be used as a frame of reference for what’s happening.'''}}
+{{Humanly Possible}}}}{{NewDifficultyInfobox|title1=[[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>|image1=<gallery>
+Turmoil.png | Current
+TurmoilNew.png | Old
+TurmoilOld.png | Original
+</gallery>|class=[[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Low Class 3</span></span>|rating=10.5|type=*Normal Difficulty
+*Humanly Possible Difficulty
+*Soul Crushing Difficulty
+*Class 3 Difficulty
+*Unofficial Difficulty|previous={{Class3Difficulties|Extreme|30px}} [[w:c:jtoh:Extreme|Extreme]]|next={{Class3Difficulties|Terrifying|30px}} [[w:c:jtoh:Terrifying|Terrifying]]|alt_previous=[[File:UneasyIcon.png|30px]] [[Uneasy]]|class_range=Low-Mid|difficulty_range=Belowground to Peripheral|official_music(s)=Undertale - ASGORE|creator(s)=*MapleIsNotAMapleLeaf (Owner)|date_added=July 28th, 2023/ ???, ??, ????|original_official_music=Olive Buckland - Hourglass Meadow|decal_id=14580326433|alt_next={{Class3Difficulties|Absurd|30px}} [[Absurd]]|sub_difficulty(ies)={{Class3Difficulties|Absurd|30px}} [[Absurd]]}}
+==Introduction: [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>==
+[[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span> is a '''Low Class 3''' difficulty with a rating of 10.5 placing it in-between {{Class3Difficulties|Extreme|30px}} [[w:c:jtoh:Extreme|Extreme]] and {{Class3Difficulties|Terrifying|30px}} [[w:c:jtoh:Terrifying|Terrifying]]. This difficulty has a Metris rating of |157|, meaning that it is near the end of the High {{Class3Difficulties|Insane|30px}} [[w:c:jtoh:Insane|Insane]] through Bottom-Low {{Class3Difficulties|Terrifying|30px}} [[w:c:jtoh:Terrifying|Terrifying]] range. The tier rating for this difficulty is '''Tier 13'''.
+
+[[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span> is [[File:TheHumanLimit.png|30px]] <span style="color:gray">Humanly Possible</span>, meaning that it can be beaten by anybody that has enough skill to beat it. However, since this difficulty is on the higher end of the spectrum, a lot of jumps have to be precisely done, as well as some very complex mechanisms that have to be figured out and done very quickly. The punishment level is also really high, with most fails sending someone playing a tower of this difficulty down to floor 1.
+
+A victor of a [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span> difficulty tower would be considered legitimate, unless hacks were seen being used in a recording of someone completing a tower of this difficulty. This is because although this difficulty is [[File:TheHumanLimit.png|30px]] <span style="color:gray">Humanly Possible</span>, this does not mean that it is easy. This means that it is prone to hackers/external program users trying to complete a tower of its difficulty.
+
+Completing a [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span> difficulty tower is an amazing feat in itself, as over 90% of roblox players can’t even pass the first floor of most towers in this difficulty, let alone an entire ten floors. Beating a tower of this difficulty should be considered an achievement by all players, since most tower in this difficulty usually only have a victor amount in the triple digits. To put this into comparison, over 4 billion accounts have been created. Out of those 4 billion accounts, only a few hundred, possibly a few thousand, have completed any tower of this difficulty.
+
+If one wishes to beat a tower of [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span> difficulty, they’d need to have a lot of skill. This is because there are some long jumps that are in the low double digits. These jumps include 12.55 stud jumps, 10.45 stud wraps, and much more not listed here. All of these jumps will have to be done precisely.
+
+There are some certain techniques that one has to perform in a [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span> difficulty tower. These tactics include glitch wrapping, corner flip jumps, dance clipping jumps, etcetera. Without the ability to do these techniques, it is impossible to beat a tower of this difficulty.
+==Icon Representation: [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>==
+{| class="fandom-table"
+|+Icon Representation Table
+!Icon
+!Details
+!Date It Was Made
+|-
+|[[File:Turmoil.png|frameless|150x150px]] Current
+|[[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>’s current icon is a mix between Extreme's color and Absurd's color. It continues the massive JToH-range chain of blending colors. It is a lot less cyanish, and more blueish as it should.
+|March 16th, 2025
+|-
+|[[File:TurmoilNew.png|frameless|150x150px]] Old
+|[[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>‘s old icon is a pixel art icon. This icon features 4 ocean blue corners with 2 brush strokes/bands connecting both horizontal groups of them. Along with that, there’s 2 vertical, curving shadows covering all 4 corners. There’s also an O_O emoticon In the middle.
+|July 30th, 2023
+|-
+|[[File:TurmoilOld.png|frameless|150x150px]] Original
+|[[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>’s old icon is also a pixel art icon. On the background, there’s a cyan background with a sky blue X brushed on top of it. On the foreground, there’s 2 slanted  exclamation marks with a worried emoticon in the middle.
+|July 28th, 2023
+|}
+
+==Placement: [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |'''Class 3'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background: #629592; color: white" |'''Baseline'''
+|-
+|{{Class3Difficulties|Insane|50px}}
+|[[w:c:jtoh:Insane|Insane]]
+|Normal
+|9
+|-
+|[[File:ThanosIcon.jpeg|frameless|50px]]
+|[[w:c:jtoh:Thanos (Difficulty)|Thanos]]
+|Sub Difficulty
+|9.25
+|-
+|{{Class3Difficulties|Madness|50px}}
+|[[Madness]]
+|Normal
+|9.5
+|-
+|[[File:ClassicalHighQuality.png|50px]]
+|[[Classical]]
+|Sub Difficulty
+|9.75
+|-
+| colspan="4" style="background: #4D9F6C; color: white" |'''Low'''
+|-
+|{{Class3Difficulties|Extreme|50px}}
+|[[w:c:jtoh:Extreme|Extreme]]
+|Normal
+|10
+|-
+|[[File:Turmoil.png|frameless|50x50px]]
+|'''<span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span> (CURRENTLY HERE)'''
+|Normal
+|10.5
+|-
+|{{Class3Difficulties|Absurd|50px}}
+|[[Absurd]]
+|Sub Difficulty
+|10.75
+|-
+| colspan="4" style="background: #666B2C; color: white" |'''Mid'''
+|-
+|{{Class3Difficulties|Terrifying|50px}}
+|[[w:c:jtoh:Terrifying|Terrifying]]
+|Normal
+|11
+|-
+|[[File:Ghastly_Fixed_Logo.jpg|50px]]
+|[[Ghastly]]
+|Sub Difficulty
+|11.16
+|-
+|[[File:Horrifying.PNG|frameless|50px]]
+|[[Horrifying]]
+|Sub Difficulty
+|11.33
+|-
+|[[File:Petrifying2.png|frameless|50x50px]]
+|[[Petrifying]]
+|Normal
+|11.5
+|}
+==Obstacles in this difficulty: [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>==
+{| class="fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Jumps (Climbable)
+| style="background-color: #014500;" | 12.3 Studs
+| style="background-color: #336000;" |12.325 Studs
+| style="background-color: #6d5c00;" |12.35 Studs
+| style="background-color: #964a00;" |12.375 Studs
+| style="background-color: #5a0000;" |12.4 Studs
+|-
+|Jumps (Unclimbable)
+| style="background-color: #014500;" |12 Studs
+| style="background-color: #336000;" |12.025 Studs
+| style="background-color: #6d5c00;" |12.05 Studs 
+| style="background-color: #964a00;" |12.075 Studs
+| style="background-color: #5a0000;" |12.1 Studs
+|-
+|Wraps (Climbable) 
+| style="background-color: #014500;" |10.6 Studs
+| style="background-color: #336000;" |10.65 Studs
+| style="background-color: #6d5c00;" |10.7 Studs
+| style="background-color: #964a00;" |10.75 Studs
+| style="background-color: #5a0000;" |10.8 Studs
+|-
+|Wraps (Unclimbable) 
+| style="background-color: #014500;" |10.3 Studs 
+| style="background-color: #336000;" |10.325 Studs
+| style="background-color: #6d5c00;" |10.35 Studs
+| style="background-color: #964a00;" |10.375 Studs
+| style="background-color: #5a0000;" |10.4 Studs
+|-
+|Stickouts (Climbable)
+| style="background-color: #014500;" |3.7 Studs
+| style="background-color: #336000;" |3.71 Studs 
+| style="background-color: #6d5c00;" |3.72 Studs 
+| style="background-color: #964a00;" |3.73 Studs
+| style="background-color: #5a0000;" |3.75 Studs
+|-
+|Stickouts (Unclimbable)
+| style="background-color: #014500;" | 3.3 Studs
+| style="background-color: #336000;" |3.31 Studs
+| style="background-color: #6d5c00;" |3.32 Studs
+| style="background-color: #964a00;" |3.33 Studs
+| style="background-color: #5a0000;" |3.35 Studs
+|}
+==Trivia: [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>==
+*This difficulty is MapleIsNotAMapleLeaf’s first Modern Class 3 difficulty.
+*This difficulty is also MapleIsNotAMapleLeaf’s first pixel art difficulty.
+==Towers in this difficulty: [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>==
+<tabber>
+Non-Fictional=
+===EToH===
+*[[w:c:jtoh:Tower_of_Hopeless_Hell|Tower Of Hopeless Hell]] (ToHH) (Baseline [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*[[w:c:jtoh:Tower_of_The_Dripping_Amalgam|Tower Of The Dripping Amalgam]] (ToTDA) (Bottom-Low [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*[[w:c:jtoh:Tower_of_Externalizing_Insanity|Tower Of Externalizing Insanity]] (ToEI) (Peak [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*[[w:c:jtoh:Tower_of_Fractured_Memories|Tower Of Fractured Memories]] (ToFM) (Peak [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+===Other===
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Cathedral of Oblivion Madness] (CaoOM) (Baseline(?) [[File:Turmoil.png|30px]] <span style="font-family:Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+|-|
+Fictional=
+*Tower of The Superior (ToTS) (Baseline [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*Tower of Reality Insanity (ToRI) (Bottom [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*Tower of Peak Sanity (ToPS) (Low [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*Tower of Five Extra Sections (ToFES) (Mid [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*Tower of Oddly Specific (ToOS) (High [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*Tower of Unofficial Madness (ToUM) (Peak [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*Steeple of Over The Edge (SoOTE) (Skyline [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+*Floor of Preperation (FoP) (Peripheral [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>)
+</tabber>
+==Continuing from [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span>==
+After one completes a tower of [[File:Turmoil.png|30px]] <span style="font-family: Kefa;"><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #009dd1, #009ff1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Turmoil</span></span> difficulty, they are recommended to keep beating towers of its difficulty. However, they can immediately go on to try and complete a tower of {{Class3Difficulties|Terrifying|30px}} [[w:c:jtoh:Terrifying|Terrifying]] difficulty. This, however, is a bad decision, as towers in that range of difficulty require even more precise jumps, timings, etcetera.
+{{DifficultiesNavbox}}
+[[Category:Class 3]]
+[[Category:Humanly Possible]]
+[[Category:Large Pages]]

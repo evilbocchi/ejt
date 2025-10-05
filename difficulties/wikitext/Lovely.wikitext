@@ -1,0 +1,69 @@
+{{JET}}{{Humanly Possible}}
+==What is [[File:LovelyDifficulty..webp|frameless|30x30px]]<span style="background:linear-gradient(90deg,#c1dabf, #dcfada); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> '''Lovely'''</span>?==
+{{NewDifficultyInfobox|title1=[[File:LovelyDifficulty..webp|frameless|30x30px]]<span style="background:linear-gradient(90deg,#c1dabf, #dcfada); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> '''Lovely'''</span>|image1=
+<gallery>
+LovelyDifficulty..webp|Official
+LovelyTransparent.png|Transparent
+Love.jpg|Alternate by AlexJN
+</gallery>
+|caption1=What a lovely difficulty.|class=[[Category:Class 1|Class 1]]|rating=-8|type=Difficulty|previous= [[File:JumplessDifficulty.webp|30px]] [[Jumpless]]|alt_previous=
+* [[File:Sweet (New).png|30px]] [[Sweet]] (Unofficial)
+* [[File:Sugary (New).png|30px]] [[Sugary]] (Sub-Difficulty, Unofficial)
+* [[File:Aesthetic.png|30px]] [[Aesthetic]] (Sub-Difficulty, Unofficial)|alt_next=* [[File:New flowerness image1.png|30px]] [[Flowerness]] (Unofficial)
+* [[File:NewestCoasterifying.png|30px]] [[Coasterifying]] (Sub-Difficulty, Unofficial)
+* [[File:ADNDnewimage.png|30px]] [[A Difficulty Named Difficulty]] (Sub-Difficulty, Unofficial)
+* [[File:Piece O Cake UHD.jpeg|30px]] [[Piece o' Cake]] (Unofficial) (sub-difficulty of Pleasant)|next=
+[[File:Pleasant.png|30px]] [[Pleasant]]|decal_id=[https://roblox.com/library/6383341663 6383341663]|revamp_date=11/23/2022|hex_color=<nowiki/>#c1dabf, #dcfada|sub_difficulty(ies)=[[File:Glee Difficulty.png|30px]] [[Glee]]}}[[File:LovelyDifficulty..webp|frameless|30x30px]] <span style="background:linear-gradient(90deg,#c1dabf, #dcfada); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Lovely'''</span> is a [[:Category:Class 1|Class 1]] difficulty that is after {{Class0Difficulties|Jumpless}} [[Jumpless]] (or [[File:Sweet (New).png|frameless|30x30px]] [[Sweet]] and its [[Sugary|sub-]][[Aesthetic|difficulties]]) and before {{Class0Difficulties|Pleasant}} [[Pleasant]] (or [[File:Glee Difficulty.png|frameless|31x31px]] [[Glee]] ([[Lovely]]'s sub-difficulty), or  [[File:New flowerness image1.png|frameless|30x30px]] [[Flowerness]] and its [[Coasterifying|sub-]][[A Difficulty Named Difficulty|difficulties]]). This is one of the easiest difficulties that require effort. If you have a basic understanding of the mechanic of walking in Roblox, you should be pretty capable of beating this.
+
+==Icon Representation==
+{{IconRepresentationOfficialOnly|image=[[File:LovelyDifficulty..webp|50px]]|color=#c1dabf|description=A bright green background, with a single pixelated darker green heart in the middle.}}
+
+== Obstacles ==
+''There will not be a spectrum since they kind of blur together in a difficulty as easy as this.''
+
+* 3 Stud Jump
+* 0.01 Stud Wrap (with side paths)
+* 3 Stud Stick-in Wrap
+* Walking 100 Studs 
+* Walking 50 Studs without Stopping
+* Jumping over Killbricks
+* Waiting 20 Minutes
+
+==Towers==
+''Note: Towers listed here are likely inaccurate.''
+<tabber>
+Other=
+*[https://www.roblox.com/games/80166612504189/Not-Too-Easy-Towers Tower of Walking] (NTET Area 1)
+*[https://www.roblox.com/games/80166612504189/Not-Too-Easy-Towers NEAT of Faith!] (NTET Area 1)
+*[https://www.roblox.com/games/80166612504189/1K-Event-ToFR-Not-Too-Easy-Towers Tower of Pure Ease] (NTET Area 2) 
+*[https://www.roblox.com/games/133808966573715/Tower-of-bling Tower of Bling] (Standalone, Upcoming in LAaBT)
+|-|
+TNZT=
+*[[w:c:the-noob-zone-towers:Tower of Verticality|Tower of Verticality]] (TNZT, Ring 1)
+*[[w:c:tnzt:Tower of Desert Driving|Tower of Desert Driving]] (TNZT, Orion Summit)
+*[[w:c:tnzt:Tower of Backwards Long Jumping|Tower of Backwards Long Jumping]] (TNZT, Ring 2)
+*[[w:c:tnzt:Tower of Killbrick Dodging|Tower of Killbrick Dodging]] (TNZT, Ring 2)
+*[[w:c:tnzt:Steeple of Expeditions|Steeple of Expeditions]] (TNZT, Temporal Village)
+*[[w:c:tnzt:Tower of Zigzag|Tower of Zigzag]] (TNZT, Ring 4)
+*[[w:c:tnzt:Steeple of Sided Easiness|Steeple of Sided Easiness]] (TNZT, Orion Summit)
+*[[w:c:tnzt:Mini Tower of Button Challenges|Mini Tower of Button Challenges]] (TNZT, Ring 2)
+*[[w:c:tnzt:Tower of Jumpless Realms|Tower of Jumpless Realms]] (TNZT, Ring 3)
+*[[w:c:the-noob-zone-towers:Steeple of Snowy Skies|Steeple of Snowy Skies]]  (TNZT, Frigid Grounds)
+*[[w:c:tnzt:Ben Steplle|Ben Steplle]] (TNZT, nob ringe 4)
+*[[w:c:tnzt:Steeple of Horrifying Caverns|Steeple of Horrifying Caverns]] (TNZT, Manor of Mortifying Experiences)
+*[[w:c:tnzt:Steeple of Parts and Ladders|Steeple of Parts and Ladders]] (TNZT, Orion Summit)
+*[[w:c:tnzt:Tower of Effortlessless Jumps|Tower of Effortlessless Jumps]] (TNZT, Fanon)
+|-|
+DCTs=
+*{{Class25Difficulties|The Final Difficulty.}} [[The Infinite Difficulty Chart (T.I.D.C)]] (Standalone)
+*[[File:TFinD.jpg|30x30px]] [[Great Monolith of Every EJT Difficulty]] (Standalone)
+*[[File:TFinD.jpg|30x30px]] [[Great Citadel of Custom, Impossible, and Normal Difficulties]] (Standalone)
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Impossible Difficulty Chart]] (Standalone)
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Endless Difficulty Amplifying]] (Standalone)
+*[[File:New DI Image.JPG|30x30px]] [[Great Citadel of Beyond Impossible Difficulties]] (Standalone)
+</tabber>
+
+==Continuing From This Point==
+I'm sure you're probably VERY bored right now, Player. I promise it will become more exciting soon, but for now, move on to [[File:Pleasant.png|frameless|30x30px]] [[Pleasant]] (or [[File:Glee Difficulty.png|frameless|31x31px]] [[Glee]], or [[File:New flowerness image1.png|frameless|30x30px]] [[Flowerness]], or its [[Coasterifying|sub-]][[A Difficulty Named Difficulty|difficulties]]...). Or you can just go to [[File:Effortless difficulty.png|frameless|30x30px]] [[w:c:jtoh:Effortless|Effortless]] or [[File:EasyDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Easy|Easy]]. Good luck, and have fun. After all, you won't be having much fun soon as you approach the Class 2 difficulties.
+{{MainDifficultiesNavbox}}
+[[Category:Two color icon]]

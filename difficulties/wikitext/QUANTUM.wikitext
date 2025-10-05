@@ -1,0 +1,54 @@
+__NOTOC__{{NoticeScrollboxNew|Notices={{Candidate for Revamp}}{{Humanly Impossible}}{{Classic}}}}
+{{NewDifficultyInfobox
+|title1 = Quantum
+|image1 = <gallery>
+Quantumless.jpg | Current
+Quantum.png | Original
+Quantum_Old.png | Original Cropped
+</gallery>
+|caption1 = Quantum physics is funny
+|class = Class 6
+|previous = [[File:Hi.png|30px]] [[Victor]]
+|next = [[File:Miracle.png|30px]] [[Miracle]]
+|decal_id = *[https://create.roblox.com/store/asset/96251871380806/QUANTUM Current]
+*[https://create.roblox.com/store/asset/6387135057/QUANTUM Old]
+|type=Normal Difficulty|class_range=High Class 6|difficulty_range=Baseline - Peak|creator(s)=VoidSansXD - Original Creator
+Sanjay2133 - Revamper|rating=55|alt_previous=[[File:Oblivion2.png|30px]] [[Oblivion]]|alt_next=[[File:Yeetus revamp.png|30px]] [[Y E E T U S]]}}
+
+==What is '''Quantum'''?==
+'''Quantum''' is the difficulty after [[Oblivion]] but before [[Miracle]], and is slightly harder than [[Oblivion]]. '''Quantum''' can be considered ''"""the absolute border for macros"""'' to beat. 
+
+You will need an absolute perfect macro created in a Quantum Computer, then create 500 copies of those macros/bots, make it play a Quantum Difficulty tower then make it learn all the obstacles, whenever one macro learns an obstacle it passes its information to the rest, even with all of that it will take a few weeks or even months for the macro to manage to beat this.
+
+Otherwise you can always buy a macro/TAS from Lord Obama.
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=25.06|Increment=0.035}}
+
+==Towers==
+
+===In this Difficulty===
+*Q.U.A.N.T.U.M Facility (Fictional)
+*Tower of Quantum Mechanics (Fictional)
+*Tower of Me When The
+*Uber-Buffed ToAST
+
+===Containing this Difficulty===
+
+*Multiple DCTs
+
+==Trivia== 
+
+*Anything harder than this is impossible even by macro standards. Something very slightly harder wouldn't work as the macro would fall just short.
+*All jumps in this difficulty you have a less than 0.02% chance of beating when done perfectly by a macro and that's without taking lag requirement into consideration. With all the electric bills you would have running your macros, it isn't sustainable if you aren't fortunate.
+*'''Quantum''', the page you are reading right now was made by [[User:VoidSansXD|VoidSansXD]].
+
+==Continuing From This Glitched Quantum==
+You are the world's best engineer. Oh, and also very poor now as you've burnt a permanent hole in your bank account due to bills. Anyways, your skills will never be forgotten. You can take up a computer engineering job as you are fairly experienced in that field to recover some lost cash. However, if you took the easy way out and you used a macro made by Lord Obama himself, then shame on you. Anyways, move onto [[Miracle]] difficulty. It will haunt you as your newly built macros are useless against it.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 6]]
+[[Category:Undergoing Revamp]]
+[[Category:Old]]
+[[Category:Humanly Impossible]]

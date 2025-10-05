@@ -1,0 +1,182 @@
+{{DISPLAYTITLE:Switch}}{{NoticeScrollboxNew|Notices=
+
+{{Humanly Possible}}
+{{Large Page}}
+<div class="html5audio" style="clear:both;float:right;" data-file="https://static.wikia.nocookie.net/jtohs-joke-towers/images/7/77/Sanctuary.mp3.mp3" data-volume="0.1" data-download="false" data-preload="metadata" data-options="autoplay,loop">
+}}
+==[[File:SWNew.jpg|frameless|30x30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Preface</span>==
+{{NewDifficultyInfobox
+|title1=<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Switch</span>
+|image1=SWNew.jpg
+|class=[[:Category:Class 2|2]]
+|type=Sub Difficulty
+|previous=[[File:Calmness-New.jpeg|frameless|30x30px]] [[Calm]]
+|alt_previous=
+|next=[[File:MediumDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Medium|Medium]]
+|alt_next=
+|class_range=Mid
+|difficulty_range=<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, lime, lime);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> Baseline, Low, Mid,</span> <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, yellow);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> High, Peak, Skyline</span>
+|main_difficulty=[[File:Calmness-New.jpeg|frameless|30x30px]] [[Calm]]
+|creator(s)=Bruhshard1
+|date_removed=* 1st Time: Jul 20, 2022
+* 2nd Time: Sep 17, 2022|removal_reason=Page Armageddon
+|revival_date=9/23/22
+|hex_color=* #ffff00
+* #00ff00
+|rbg_color=* 255, 255, 0
+* 0, 255, 0
+|cmyk_color=* 0, 0, 100, 0
+* 100, 0, 100, 0|decal_id=[https://create.roblox.com/store/asset/13375888680/Switch 13375888680] (new)
+[https://create.roblox.com/store/asset/14565443131/Switch 14565443131] (old)|rating=1.75}}
+Welcome to [[File:SWNew.jpg|30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Switch'''</span>. It’s a sub-difficulty of [[File:Calmness-New.jpeg|30px]] [[Calm]] and has a rating of 1.75. This difficulty was made to be a transitional practice between the difficulties of [[File:EasyDifficulty.jpg|30px]] [[w:c:jtoh:Easy|Easy]] and [[File:MediumDifficulty.jpg|30px]] [[w:c:jtoh:Medium|Medium]], hence the icon. It has fairly easy obstacles that even a noob can complete. This difficulty is also great for speedrunning, like most of the easier difficulties. A good speedrunner could beat a tower in this difficulty in about 3-4 minutes, around the current Tower of Hecc (JToH) WR.
+
+In terms of tier ratings, it would be in the range of tiers 1 to 2, and the Kol Metris would be around ~|55|. In terms of revivals, though, this difficulty spits in the face of the grim reaper. Sure, prevent creation. But Switch has always, and will always live on. This difficulty is the essence of JToH combined into 1, at least Class 2 JToH.
+
+This difficulty is also made to be a medium introduction, ''switching'' from easy to medium obstacles from slowly to rapidly. You should try to enjoy the difficulty and its obbies as much as possible and that your learning progression may come easier to you. Enjoy the difficulty, take breaks, drink water, and keep practicing!
+
+==[[File:SWNew.jpg|frameless|30x30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Icon Representation</span>==
+[[File:Switch.PNG|center|150px]]
+
+The icon is just a lime to yellow diagonally split background, representing Easy and Medium. It also has the letters “SW” on it. Pretty simple. The New icon makes the diagonal split a gradient with a wedge for easy and medium, also replacing SW with the text "Switch" with a black backdrop. I won't show you the image, go check the infobox.
+
+==[[File:SWNew.jpg|30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Catches and Obstacles</span>==
+
+===Catches===
+Unlike most catches, these ones are to help you do good in this difficulty. All of these are completely optional, and you can even pick bad ones for a challenge! You don't have to do them, but it is recommended you try at least some of them out! You can mix and match any, which will hopefully give this training practice a unique taste.
+
+*Your speed and jump power are up 15% from their normal values.
+*You get crystal, trail mix, and bootleg coil.
+*If you fall, the obby is nerfed by 7.5%.
+**This happens 5 times.
+* Every ouchbrick becomes a killbrick, and every killbrick becomes a hurtbrick.
+* Whats above, but every ouchbrick becomes a hurtbrick, a killbrick becomes a normal part, and a hurtbrick becomes a can-collide false brick (except for when it is needed to progress)
+
+*Beat this with a cosmic clone chasing you, that does 10 damage every time it touches you.
+*You have 85% of your speed and jump power.
+*No items!
+**If you fall, the obby will be buffed by 5% or lengthened by 5%, either chance. This happens only 3 times before going the other way.
+* Every killbrick type increases by one.
+* Whats above, but by two. Killbricks take half your health away, and ouchbricks are instakills. You really shouldn't do this, its for the pros only!
+
+===Example Training Obstacles ===
+
+====<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, lime, lime);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Belowground==== 
+
+*6 stud jump.
+*0.8 stud wrap.
+*-1 stud stickout. It's pushed IN!
+*Watch a 2 minute long YouTube video. You cannot skip.
+*Beat [[Calmness]], but buffed 1.15 times.
+*Subscribe to Logan_ISL.
+
+====<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, #73FF00, #73FF00);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Baseline==== 
+
+*6.1 stud jump.
+*0.9 stud wrap.
+*-0.8 stud stickout.
+*Beat ToA 2 times.
+*Beat [[Effortful]]... but with [[Penultimate]] skill no way!!!!!
+*Say a random joke, like any bad or good joke.
+*Beat a [[Peaceful]] difficulty tower 3 times.
+
+====<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, #95FF00, #95FF00);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Low====
+
+*6.2 stud jump.
+*1 stud wrap.
+*-0.6 stud stickout.
+*Beat ToRF, but it's nerfed to Low Switch.
+*Beat [[Effortful]], but it's nerfed to High [[Calmness]] and you have 500 HP.
+
+====<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, #AAFF00, #AAFF00);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Mid====
+
+*6.4 stud jump.
+*1.1 stud wrap.
+*-0.5 stud stickout.
+*Beat Stereo Madness in Geometry Dash.
+*Beat ToSU, and then reach floor 4 of ToAST.
+
+====<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, #D0FF00, #D0FF00);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">High====
+
+*Run 700 studs.
+*1.2 stud wrap.
+*-0.4 stud stickout.
+*Look at this difficulty's icon for 1 second or more.
+*Say "HAHA TFIND IS HARDEST DIFFICULTY".
+
+====<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, yellow);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Peak====
+
+*6.8 stud jump.
+*1.222.. stud wrap.
+*-0.2 stud stickout.
+*Make a meme using a meme generator.
+*1.3 stud jumpless jump.
+*Walk 150 studs.
+*Look at any difficulty's page, like any of them.
+
+====<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, yellow);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Peripheral ====
+
+*7 stud jump.
+*1.25 stud wraps.
+*0 stud stickout. This is just your plain old wraparound.
+*1.333 stud jumplessness jump.
+*Walk a random amount from 125-150 studs.
+*Work out for 1 minute.
+*Jump through a beat block door that ''switches'' off and on every 5 seconds.
+
+==[[File:SWNew.jpg|frameless|30x30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Switch - History</span>==
+You know why Switch has been gone and here for so long?
+
+Let me show you how it was deleted 2 times, as well as 2 blankings.. And a vandalism.. that's 5 dark ages. Sit down, let us tell you the story.
+
+This difficulty was first made in January 2022 by [[User:Bruhshard1|Bruhshard1]], but was deleted by [[User:YataDev|YataDev]] for being a bad page. Then, Bruhshard tried to make it better, but then it was deleted by [[User:AlsoOmori|AlsoOmori]] as the 6th armageddon. The latest revival of this page was on September 23rd, 2022, by [[User:TowerofGenerationFailure|TowerofGenerationFailure]]. It then died again when Nova vandalised it/blanked it... TWICE! Then ever since Halloween 2022 (Oct 25, 2022) this page has been up and alive.
+
+==[[File:SWNew.jpg|30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Switch - Trivia</span>==
+
+*This difficulty is meant to be a transition between [[File:EasyDifficulty.jpg|30px]] [[w:c:jtoh:Easy|Easy]] and [[File:MediumDifficulty.jpg|30px]] [[w:c:jtoh:Medium|Medium]].
+**It was meant to also get into the ODC when the chart split, but then it became SDC because we "didn't need to use it".
+***Then it was in the AltDC.. I mean MainDC ever since.
+*This difficulty was deleted many different times.
+**Go up to see.
+*This difficulty used to have a sentient counterpart called "Split" which fortunately got deleted, however currently it is a reserved Class 2 sub-difficulty.
+**It had another counterpart, called ''Nintendo Switch'', but that got deleted.
+***Switch was also primarily sentient.
+
+==[[File:SWNew.jpg|30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Switch - Towers</span>==
+
+<tabber>
+|-|
+Fictional=
+*Steeple of Easy is Medium | Mid [[File:SWNew.jpg|30px]]
+*Tower of Switching and Swapping | Low [[File:SWNew.jpg|30px]]
+*Tower of Switching DIfficulties | Mid [[File:SWNew.jpg|30px]]
+*Citadel of Speedruning Two Difficulties | Bottom [[File:SWNew.jpg|30px]]
+*House of Yellow and Green | High [[File:SWNew.jpg|30px]]
+*Obelisk of Easy and Medium | Peak [[File:SWNew.jpg|30px]]
+|-|
+Non-fictional=
+There are none yet.
+|-|
+DCTs=
+There are none documented here as of now, though many DCTs have this difficulty.
+</tabber>
+
+==[[File:SWNew.jpg|30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Switch - Continuing From This Point</span>==
+Good job completing the difficulty. It's time you move on to [[File:MediumDifficulty.jpg|30px]] [[w:c:jtoh:Medium|Medium]].
+
+==[[File:SWNew.jpg|30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Switch - Gallery</span>==
+<gallery>
+File:SWNew.jpg|Switch's icon.
+File:April Fools SWNew.jpg|Switch's April Fools icon.
+File:IRL-Switch.jpg|(Deleted) IRL-Switch.
+File:Switch PAF.png|Switch's PaTF icon.
+File:Switchunofficial.png|Another Switch icon.
+File:SWitch nintendo.PNG|[[Nintendo Switch]].
+File:Split difficulty.PNG|(Deleted) Split.
+</gallery>
+==[[File:SWNew.jpg|30px]] <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(359deg, yellow, green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Continuing from this point</span>==
+Good job! Now that you have completed some Switch obbies, you should completely ''SWITCH'' over to Medium now that you have the hang of it. If you're still unsure, then go to a sub-difficulty and keep practicing because practice makes perfect. Cya!
+{{DifficultiesNavbox}}
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+[[Category:Class 2]]
+[[Category:Sub-Difficulties]]

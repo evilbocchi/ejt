@@ -1,0 +1,20 @@
+{{NewDifficultyInfobox|image1=<gallery>
+File:Shouldn’t Be Possible.png|Current
+File:UnimaginableOld.png|Old
+</gallery>|previous=[[TARTARUS|<span style="color:#c2dff1">'''TARTARUS'''</span>]]|next={{RainbowLink|Omega}}|title1=Unimaginable|rating=22|previous_name=Shouldn't Be Possible|hex_color=<nowiki>#</nowiki>FF0000|rgb_color=255, 0, 0}}
+==What is <span style="color:#FF0000">'''Unimaginable'''</span>?==
+<span style="color:#FF0000">'''Unimaginable'''</span> is a difficulty assigned to towers harder than [[TARTARUS|<span style="color:#c2dff1">'''TARTARUS'''</span>]], but easier than {{RainbowLink|Omega}}. It is currently represented with a red square with three white question marks (<code>???</code>) on a black to dark red gradient box. This is the estimated difficulty where theoretical physical possibility can go before falling into the no-go zone. These obstacle courses seemingly go against the laws of Roblox. Any attempt to beat an Unimaginable tower without any exploits is futile.
+
+==Towers with <span style="color:#FF0000">'''Unimaginable'''</span>==
+*ToBLUE - [[Tower of Ballambangjang Litigiousnesses Ubiquitousnesses Earthlinesses]]
+*E - [[Eclipse]]
+*FoUPaT - [[Facility of Ungraspable Physics and Techniques]]
+*ToAC - Tower of Absolute(?) Cataclysm(?) (lost media tower)
+
+==Trivia== 
+*This difficulty was originally called ''Shouldn't Be Possible'', and was later changed to <span style="color:#FF0000">'''Unimaginable'''</span> per the results of a community poll in EHT's official Discord server.
+
+[[Category:Difficulties]]
+[[Category:Unimaginable]]
+[[Category:Humanly impossible]]
+[[Category:Two color icon]]

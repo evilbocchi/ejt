@@ -1,0 +1,88 @@
+{{NoticeScrollboxNew|Notices={{Humanly Possible}}{{Classic}}}}{{NewDifficultyInfobox|title1=Playground|image1=Playgrounddif.png|class=[[:Category:Class 2|2]]|rating=0.25|type=[[:Category:Sub-Difficulties|Sub-Difficulty]]|previous={{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]|next={{Class1Difficulties|Easy}} [[w:c:jtoh:Easy|Easy]]|alt_next=[[File:Comforting.png|30x30px|link=Elementary]] [[Elementary]] </b>|class_range=Baseline|decal_id=[https://roblox.com/library/13790345123/Playground 13790345123]|main_difficulty={{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]|creator(s)=*[[User:JustAnotherKidLmao|JustAnotherKidLmao]]<sup>creator</sup>
+*[[User:Gabri020g|Gabri020g]]<sup>revamper</sup>|date_added=11/17/2020|date_removed=*12/30/2020
+*7/7/2021
+*6/11/2022|revamp_date=*2/1/2022
+*9/24/2023|hex_color={{colorbox|#00e800}} #00e800|rgb_color={{colorbox|#00e800}} 0, 206, 100|cmyk_color={{colorbox|#00e800}} 100, 0, 51, 19|hsl_color={{colorbox|#00e800}} 149, 100, 40|difficulty_range=<span style="color:#80ff00">Low</span> to <span style="color:orange">High</span>|hsv_color={{colorbox|#00e800}} 149, 100, 80.8|rgba_color={{colorbox|#00e800}} 0, 206, 100, 1}}
+==What is [[File:Playgrounddif.png|30px]] <span style="color:#00e800">'''Playground'''</span>?==
+[[File:Playgrounddif.png|30px]] <span style="color:#00e800">'''Playground'''</span> is a [[:Category:Class 2|baseline class 2]] official [[:Category:Sub-Difficulties|sub-difficulty]] of {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]. It follows its main difficulty, {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]], but precedes {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]'s other subdifficulty, [[File:Comforting.png|link=Elementary|30x30px]] [[Elementary]], and other main difficulties like {{Class1Difficulties|Easy}} [[w:c:jtoh:Easy|Easy]]. Given that it's a lower-end class 2 difficulty, it should be fairly easy and fun to complete for the average obbyist, even with needing more effort than {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]].
+==Icon Representation==
+{{IconRepresentationAlternate|image=[[File:Playgrounddif.png|50px]]|color=#00e800|description=The icon is just one solid {{colorbox|#00e800}} greenish color named [https://colornames.org/color/00e800 Spacey Emeralds]. It's limer than {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]'s icon, indicating the transition to {{Class1Difficulties|Easy}} [[w:c:jtoh:Easy|Easy]], which has a brighter color.|alt_color=#00ce64|alt_title=Old|alt_image=[[File:PlaygroundO.png|50px]]|alt_description=The icon is one solid {{colorbox|#00ce64}} greenish color, similar to the current icon, but in a different shade. It's limer than {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]'s icon, like the current icon, but with a more unique shade of green.}}
+==Obstacles==
+<tabber>
+|-|Low=
+===<span style="color:#80ff00">Low</span> [[File:Playgrounddif.png|30px]] <span style="color:#00e800">'''Playground'''</span>===
+*4.325 stud jump <sup>climbable</sup>
+*4.125 stud jump <sup>unclimbable</sup>
+*0.875 stud wraparound <sup>climbable</sup>
+*0.825 stud wraparound <sup>unclimbable</sup>
+----
+*A playground of purist obstacles!
+*Go to a playground, IRL. ''Remember this obstacle.''
+*Climb a 2.1 stud ladder.
+|-|Mid=
+===<span style="color:yellow">Mid</span> [[File:Playgrounddif.png|30px]] <span style="color:#00e800">'''Playground'''</span>===
+*4.35 stud jump <sup>climbable</sup>
+*4.15 stud jump <sup>unclimbable</sup>
+*0.9 stud wraparound <sup>climbable</sup>
+*0.85 stud wraparound <sup>unclimbable</sup>
+----
+*Build a simple NEaT [[Room]]. You can make it any difficulty; playtesting is not necessary.
+*You are briefly given Administrator on another wiki. Rollback ''ten'' edits.
+*Beat a version of ToAST nerfed by one JToH difficulty spot; Effortless. Also, it has 6 floors.
+|-|High=
+===<span style="color:orange">High</span> [[File:Playgrounddif.png|30px]] <span style="color:#00e800">'''Playground'''</span>===
+*4.375 stud jump <sup>climbable</sup>
+*4.175 stud jump <sup>unclimbable</sup>
+*0.925 stud wraparound <sup>climbable</sup>
+*0.875 stud wraparound <sup>unclimbable</sup>
+----
+*Remember that obstacle? Play in it for 10 minutes.
+*Beat a Noob Crushing tower from The Noob Zone Towers. You can pick it!
+*Tower crossing! Cross to the following TNZT towers:
+**Tower of Quick Gameplay (Ring 1)
+**Tower of Quadrant Falling (Ring 3)
+**Tower of Overdetailed Designs (Ring 3)
+**Tower of Wrapping Around The Frame (Ring 1)
+**Mini Tower of Button Challenges (Ring 2)
+**Tower of Backwards Long Jumping (Ring 2)
+**Mini Tower of Input Delay (Ring 1)
+**Mini Tower of Two Color Trouble (Ring 4)
+**Tower of Tranquil Bliss (Ring 4)
+**Citadel of Boring Outcomes (Ring 2)
+**Tower of Classic Escalation (Ring 1)
+</tabber>
+==Towers==
+<tabber>
+|-|Towers in this difficulty=
+{{#tag:tabber|
+Fictional=
+====Fictional====
+*Tower of Playground Touchdowns (ToPT)
+*Tower of Minimalistic Design Choices: Nerf (ToMDC:N)
+*Tower of Simple Obstacles (ToSO)
+*Tower of Easy Jumps (ToEJ)
+{{!}}-{{!}}
+Non-fictional=
+====Non-fictional====
+*[[House of Effortless Crossing]]
+*[https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Floor of Quite Easy Obstacles]
+}}
+|-|Towers with this difficulty=
+===Towers with this difficulty===
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Endless Difficulty Amplifying]] (OoEDA)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Hellish Difficulties]] (GCoHD)
+</tabber>
+==Trivia==
+*This page was previously deleted and revived three separate times.
+*This difficulty replaced {{Class1Difficulties|Simple}} [[Simple]] as the official sub of {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]].
+**This is now outdated as both {{Class1Difficulties|Simple}} [[Simple]] and [[File:Comforting.png|link=Elementary|30x30px]] [[Elementary]] are back on the chart.
+*This was the only official {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]] sub-difficulty, before the official difficulty chart got abandoned.
+*This page was revamped twice.
+==Gallery==
+<gallery>
+File:Playground's Portal.png|<span style="color:#00e800">'''Playground'''</span>'s portal in [[Great Citadel of Hellish Difficulties|GCoHD]]
+File:PlaygroundAlt.png|Alternate image for <span style="color:#00e800">'''Playground'''</span> by [[User:Doniabobes|Doniabobes]]
+File:Playground Shape RealGamma.webp|Shape for <span style="color:#00e800">'''Playground'''</span> in [[The Shapify Project]] by [[User:RealGamma|RealGamma]]
+</gallery>
+==Continuing from this point==
+Good job. You've beaten the only official {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]] sub-difficulty. If you want to do the other {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]] sub-difficulty, try [[File:Comforting.png|link=Elementary|30x30px]] [[Elementary]]. If you want to skip sub-difficulties and continue with the official JToH difficulties, attempt {{Class1Difficulties|Easy}} [[w:c:jtoh:Easy|Easy]]. Either way, good luck on your journey and have fun.{{MainDifficultiesNavbox}}[[Category:Difficulties]][[Category:Sub-Difficulties]][[Category:Class 2]][[Category:One color icon]][[Category:Revamped Difficulty]]

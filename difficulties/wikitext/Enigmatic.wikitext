@@ -1,0 +1,120 @@
+''Credits to '''[[User:IPeedMyPants|IPeedMyPants]]''' for the custom scrollbox, the base for the custom templates  and the header designs!''
+<br>
+<center><div align="center" style="text-align:left; width:100%; border:0.25px solid white; padding-left:0.5em; border-radius: 10px 0 0 10px"><div style="border-bottom:1px dashed; width:98%; font-weight: 500"><big>'''''Notice Scrollbox'''''</big></div><div align="center" class="scrollable" style="text-align:left; overflow:auto; height:200px; max-height:700px; padding-left:0.5em">
+*
+{{BuffedEnigmatic}}
+*
+{{Physically Impossible Enigmatic}}
+
+</div></div></center><br>
+
+{{ArticleTab|blankgal=|custom=JCC}}
+<h2 style="border-left: 1.7px solid; border-bottom: 1.7px solid; padding-left: 7px; border-radius: 6px 0 4px 10px; font-weight: 150">[[File:Enigmatic.gif|frameless|40x40px]] '''Enigmatic''' - Introduction </h2> 
+
+{{NewDifficultyInfobox|title1=[[File:Enigmatic.jpeg|frameless|30x30px]] Enigmatic|short_name=|revival_date=02/11/2022|revamp_date=02/11/2022|original_name=*Unfathomable|prior_previous=*{{Class2Difficulties|Insane}} [[w:c:jtoh:Insane|<span style="color:#00008D">Insane</span>]] (JCC/JAC)
+**{{Class2Difficulties|Thanos|20px}} [[w:c:jtoh:Thanos (Difficulty)|Thanos]] (Sub Difficulty) (JCC/JAC)
+*[[File:Obama Prism Ultimate.png|frameless|36x36px]] [[User blog:EpicTheGamer2014/True Obama Prism|True Obama Prism]]|date_added=05/06/2022 [Transferred to JJT]|original_class=*Low Rank 3 (JCC/JAC)|alt_names=*Unfathomable
+*Nilized
+*Rebirth Nil|full_name=Enigmatization|caption1=wow|creator(s)=[[User:ConfusionandTrickery|ConfusionandTrickery]]|decal_id=|difficulty_range=Bottom - Peak|next=[[File:VHD.gif|30px]] [[Vrery hawrfd rdifficutl!!]]|previous=[[FIle:OmniscientDiff.png|30px]] [[Omniscient]]|type=[[:Category:Difficulties|Unofficial Difficulty]]|class=[[:Category:Class 9|Class 9]]|image1=<gallery>
+Enigmatic.gif | Current
+Enigmatic.jpeg | Static
+Enigmatic Old.jpeg | Old
+Enigmatic Okder.webp | Oldest
+</gallery>|prior_next=*[[File:AbsurdJCC.png|frameless|25x25px]] [[Absurd|<span style="color:#0065ff">Absurd</span>]] (JCC/JAC)
+*[[File:52!.jpg|frameless|35x35px]] '''''<u>[[User blog:EpicTheGamer2014/52!|52!]]</u>'''''
+*[[File:Nonsensical.png|frameless|35x35px]] Nonsensical (Deleted)|official_music(s)=[https://www.youtube.com/watch?v=THa9hwcQuhg&t=13s Deltarune - Vs. Asgore (Fanmade)]|previous_class(es)=*[[:Category:End of Official Chart|Skyline Class 15/Class 15.5]]|date_removed=11/08/2022|removal_reason=Author Permission = Bad Page|original_official_music=[https://www.youtube.com/watch?v=bABmQP1Tm6Q Deaf Election - Never Get to Me]|rating=99|class_range=Mid|counterpart=Nil}}[[File:Enigmatic.gif|frameless|30x30px]] '''Enigmatic''' is a normal difficulty which was transferred from the ''JCC Wiki'' to the ''JJT Wiki''. Unlike the original, which is in [[:Category:Class 3|Low Rank 3]], this difficulty is the midpoint of [[:Category:Class 14|Class 9]], being in the mid spectrum of the class. However, it used to be in [[:Category:Class 15|Peripheral Class 15]]. 
+
+It is currently a successor to [[File:OmniscientDiff.png|frameless|30x30px]] [[Omniscient]], and a predecessor to [[File:VHD.gif|frameless|29x29px]] [[User blog:EpicTheGamer2014/Peril|Vrery hawrfd rdifficutl!!]]. During its time in the End of the Official Chart, it was a predecessor of the difficulty-ized 52! phenomenon, known as [[File:52!.jpg|frameless|30x30px]] '''<u>[[User blog:EpicTheGamer2014/52!|52!]]</u>'''[[User blog:EpicTheGamer2014/52!|,]] and was a successor to [[File:Obama Prism Ultimate.png|frameless|36x36px]] [[User blog:EpicTheGamer2014/True Obama Prism|True Obama Prism]]. Also, during its time in Class 14 it was a successor to [[File:The MiddlelineNew.png|frameless|45x45px]] [[The Middleline]], and a predecessor to [[File:Peril.png|frameless|30x30px]] [[User blog:EpicTheGamer2014/Peril|Peril]].
+
+The ludicrous sizes of these obstacles nullify all uses of boost items, even blessed coil. You will never be able to beat this difficulty, or create towers in this difficulty, due to how high up this difficulty is.
+
+=== Icon Representation ===
+<tabber>
+Current Icon=
+====Current Icon====
+<center>[[File:Unfathomable Icon.png|frameless|100x100px]]</center>
+This icon has quite a bit of detail. This icon is [[File:NilIcon100.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:Nil|<span style="color:#696969">Nil</span>]]’s icon, but in the PoM {{Class3Difficulties|Horrific}} [[w:c:jtohs-hardest-towers:Horrific|<span style="color:#FFA8FF">Horrific</span>]] and Unreal icon style. In the middle, there is a confident/evil-like face, with the outline being white (up until this point, the icon has been made in IbisPaintX). Finally, there are some filters applied to it, some of them being jitter, slices and RGB Shift (these filters were applied in PhotoSmosh).
+|-|
+Old Icon=
+====Old Icon====
+<center>[[File:Unfathomable Icon Old.png|frameless|100x100px]]</center> 
+This icon is basically the new icon, but with absolutely no filters. It was made in IbisPaintX., and is technically the JCC icon.
+|-|
+Older Icon=
+====Older Icon====
+<center>[[File:Unfathomable Icon Older.png|frameless|100x100px]]</center> 
+This icon is Nil’s icon, but in the style of the new Horrific and Unreal icons, and with a confident face. However, the grey border is much bigger than what the actual PoM icons are, the mouth is smiling, and not evil-like, and the eyes and eyebrows are slightly iffy and off.
+</tabber>
+<h2 style="border-left: 1.7px solid; border-bottom: 1.7px solid; padding-left: 7px; border-radius: 6px 0 4px 10px; font-weight: 150">[[File:Enigmatic.gif|frameless|40x40px]] Obstacles </h2> 
+
+===Baseline '''Enigmatic'''===
+
+*15M stud jump (Climbable)
+*14.8M stud jump. (Unclimbable)
+*14.5M stud wraparound. (Climbable)
+*14.4M stud wraparound. (Unclimbable)
+
+===Low '''Enigmatic'''===
+
+*15.1M stud jump (Climbable)
+*14.9M stud jump. (Unclimbable)
+*14.6M stud wraparound. (Climbable)
+*14.5M stud wraparound. (Unclimbable)
+
+===Middle '''Enigmatic'''===  
+
+*15.2M stud jump (Climbable)
+*15M stud jump (Unclimbable)
+*14.7M stud wraparound. (Climbable)
+* 14.6M stud wraparound. (Unclimbable)
+
+===High '''Enigmatic'''===
+
+*15.3M stud jump (Climbable)
+*15.1M stud jump (Unclimbable)
+*14.8M stud wraparound. (Climbable)
+*14.7M stud wraparound. (Unclimbable)
+
+===Peak '''Enigmatic'''=== 
+*15.5M stud jump (Climbable)
+*15.25M stud jump (Unclimbable)
+*15M stud wraparound. (Climbable)
+*14.9M stud wraparound. (Unclimbable)
+<h2 style="border-left: 1.7px solid; border-bottom: 1.7px solid; padding-left: 7px; border-radius: 6px 0 4px 10px; font-weight: 150">Tower Sector </h2> 
+===Towers with this difficulty===
+* Tower of Magmatic Enigmatization (ToME) (Baseline) (Fictional)
+*Tower of The Quest for Perfection: Reborm (ToTQFP:R) (Low) (Fictional)
+*[[Citadel of Horrifying Void]] (CoHV) (Middle) (Fictional)
+*Structure of Traumatizing Unfathomability (SToTU) (High) (Fictional)
+*Nenosi of Eternability (NoE) (Peak) (Fictional)
+
+===Towers with this difficulty===
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA) (Unknown Floor)
+*[[Great Citadel of Custom, Impossible, and Normal Difficulties]] (GCoCIaND) (Unknown Floor)
+*[[Great Citadel of Hellish Difficulties]] (GCoHD) (Unknown Floor)
+*[[Polar Opposite of a Skipping Outdated Difficulty Charts]] (POoaSODC) (Unknown Floor)
+* [[The Great Difficulty Zynthonian]] (TGDZ) (Unknown Floor)
+*[[Great Citadel of Difficulty Chart Journey]] (GCoDCJ) (Unknown Floor)
+* [[Great Citadel of Difficulty Eternity]] (GCoDE) (Unknown Floor)
+* [[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (MoEJD:R:P1)
+*Centurion of Infinite Difficulty Demise (CEoIDD) (Unknown Floor)
+
+<h2 style="border-left: 1.7px solid; border-bottom: 1.7px solid; padding-left: 7px; border-radius: 6px 0 4px 10px; font-weight: 150">Trivia</h2>  
+*This difficulty was originally made for  [[w:c:jtohs-custom-chart:Unfathomable|JToH’s Custom Chart]].
+*This is the first difficulty to opt out for a template instead of headers.
+*This difficulty used to be the first to use fanarts/artworks for sections, but they are not used anymore.
+* This difficulty used to technically be a rebirth of [[File:NilIcon100.png|frameless|30x30px]] [[w:c:jtoh:nil|<span style="color:#696969">Nil</span>]], but then it eventually became a rebirth of nil.
+<h2 style="border-left: 1.7px solid; border-bottom: 1.7px solid; padding-left: 7px; border-radius: 6px 0 4px 10px; font-weight: 150"> [[File:Enigmatic.gif|frameless|40x40px]] Difficulty Gallery </h2> 
+<gallery>
+File:Enigmatic.gif|The new icon.
+File:Enigmatic.jpeg|Ditto, but static.
+File:Enigmatic Old.jpeg|Ditto, but with no filters/The Old icon.
+File:Enigmatic Okder.webp|The older icon.
+</gallery>
+<h2 style="border-left: 1.7px solid; border-bottom: 1.7px solid; padding-left: 7px; border-radius: 6px 0 4px 10px; font-weight: 150">[[File:Enigmatic.gif|frameless|40x40px]] Moving On </h2>Even after completing this, you still don’t give up? Ugh, whatever. Move to [[File:Peril.png|frameless|35x35px]] [[User blog:EpicTheGamer2014/Peril|Peril]].
+{{DifficultiesNavbox}}
+[[Category:Class 14]]
+[[Category:Physically Impossible]]
+ 
+[[Category:Unbuildable]]
+[[Category:Class 9]]

@@ -1,0 +1,39 @@
+__NOEDITSECTION____NOTOC__{{DISPLAYTITLE:{{lcfirst:'''<span style="color:#FBFD7B;">korn</span>'''}}}}
+{{Non-Canon}}
+{{DifficultyTab
+|changebg=#FBFD7B
+|textcolormain = fff
+|type = Joke
+|blank1 =
+|blank2 =
+|custom = Gallery
+}}
+{{Difficulty Infobox v2.0
+|image1 = Korn.png
+|difficulty_number =  
+|class=Custom Difficulty
+|title1 = {{lcfirst:korn}}|title=korn}}[[korn|<span style="color:#FBFD7B;">korn</span>]] is a Co-op [[difficulty]] used for Co-op towers. It is prominently used for towers within, or in correlation with the [[Event Realm]], since many of said towers are put there for a limited time. This difficulty is the only transparent difficulty in '''EToH''', most likely because players won't know the difficulty unless they check the difficulty chart.   
+
+This difficulty, [[nil|<span id="nil">'''nil'''</span>]] and [[gui remorseless|<span style="color:#2b0588;">'''gui remorseless'''</span>]] are the only difficulties that don’t have capital letters in their name.  
+{{Header|Towers}}
+<tabber>
+Event Realm=
+<div align=center><font size=5>{{Emblem|ER}} [[Event Realm]] {{Emblem|ER}}</font></div>
+*RToRRaPoM - [[w:c:etoh-misc:Radio Tower of Relaxation, Relief and Peace of Mind|Radio Tower of Relaxation, Relief and Peace of Mind]]
+*ToFaE/MSoFaE - [[w:c:etoh-misc:Mini Steeple of Fun and Easy|Tower/Mini Steeple of Fun and Easy]]
+*ToTAW/MSoTAW - [[w:c:etoh-misc:Mini Steeple of There Are Wraparounds|Tower/Mini Steeple of There Are Wraparounds]]
+*ToG - [[w:c:etoh-misc:Tower of Gameplay|Tower of Gameplay]]
+|-|
+Burque, New Mexico=
+<div align=center><font size=5>{{Emblem|BNM}} [[Burque, New Mexico]] {{Emblem|BNM}}</font></div>
+*SPoADD - [[Salt Pillar of Albuquerque Daredevil Dash]]
+</tabber>
+{{Header|History}}
+This is the first difficulty to not be of a specific difficulty of towers but being able to have multiple different ranges of difficult towers.{{Header|Gallery}}
+''To view images relating to [[korn]], click [[/Gallery|here]].''
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Korn]]
+[[Category:Joke Difficulties]]
+[[Category:Event Realm]]

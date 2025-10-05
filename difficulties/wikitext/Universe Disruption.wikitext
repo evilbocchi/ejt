@@ -1,0 +1,52 @@
+{{Physically Impossible}}{{Classic}}
+
+==Difficulty Introduction==
+{{NewDifficultyInfobox|title1=<span style="background:linear-gradient(90deg, salmon, red, hotpink, magenta, indigo, blue, black, darkgray, gray, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universe Disruption'''</span>|image1=Universe Disruption.png|caption1=Oh boy.|class=[[:Category:Class 7|Class 7]]|rating=67|type=* ''[[:Category:Difficulties|Difficulty]]''
+* ''Physically Impossible''|previous=[[File:El Vacio Sqaure.png|30px|link=El Vacio]] [[El Vacio]] (66)|next=[[File:Illegal Newest.png|30px]] [[Illegal]] (68)|alt_next=[[File:CompleteObstacles.png|30px]] [[Complete: Obstacles]] (67.5)|class_range=Mid|difficulty_range=Baseline to Peak|decal_id=[https://www.roblox.com/library/6387353902/Universe-Disruption-Difficulty Here]|creator(s)=* [[User:Viranenthusiast|Vira]] / OctoGoat YT
+* Touchgrass210779 (rebalancer)|alt_names=Universal Disruption|date_added=18th August 2020|date_removed=2nd August 2022|removal_reason=Low quality: Even though it is classic, it has been more than a week since it became a candidate for revamp, and no edits have been made since. Sorry, but you should’ve made it better if you liked it.|revival_date=25/12/2022|prior_previous=Candyman|sub_difficulty(ies)=[[File:CompleteObstacles.png|30px]] [[Complete: Obstacles]]}}
+Oh no, what did you do? You overloaded the universe WAY too much, and now there’s a massive malfunction with the system! You need to fix it by traversing through impossible obstacles to overload the system until it activates it’s natural safeguard and returns to safe levels.
+
+<span style="background:linear-gradient(90deg, salmon, red, hotpink, magenta, indigo, blue, black, darkgray, gray, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Universe Disruption'''</span> is a Class 7 difficulty, and is the first of 3 challenges to prepare you to face the terminus of the official chart, [[MegaDeath]]. It is located after [[File:El Vacio Sqaure.png|30x30px|link=El Vacio]] [[El Vacio]] and before [[File:Illegal Newest.png|30px]] [[Illegal]] (or [[File:CompleteObstacles.png|30px]] [[Complete: Obstacles]] as sub-difficulty). The difficulty is unfeasible even while using TAS and boost items, meaning stuff like exploits is a must to have an opportunity at moving forward.
+
+==Icon Representation==
+It is similar to RoorXD’s icon, but with 6 purple ‘die’ texts in the background, static in the background, with some green splotches are also found in the background being somewhat covered by the skull in the icon, and the entire icon has a red tinge to it.
+
+==Obstacles==
+
+Oh yea, credits to Entropy for the obstacle table that I just modified.
+
+Also, before you start, you suddenly become Sheldon J. Plankton. Now what. You must successfully steal the krabby patty secret formula before you become your normal self again.
+{{ObstacleTableRevamp|JumpClimbableBase=74.991|Increment=1.203}}
+==Tower Section==
+
+===Towers in this difficulty===
+
+*Tower of Universal Collapse (ToUC) (Fictional)
+*Palace of Prolonged Radiation Exposure (PoPRE) (Fictional)
+*Tower of Physically Impossible Difficulty Chart (ToPIDC) (Fictional)
+*Tower of The hell is this? (ToThit?) (Fictional)
+*Room of Impossibility (RoI) (Fictional)
+*[[Ziggurat of Teething Terribly]] (ZoTT) (Fictional)
+
+=== Towers with this difficulty===
+
+* ''Obelisk of Charismatic Difficulty Ascension'' (OoCDA)
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*[[Seriously Polar Opposite of Endless Hell]] (SPOoEH)
+*[[Great Citadel of Custom, Impossible and Normal Difficulties]] (GCoCIaND)
+*Way more.
+
+==Trivia==
+
+*At one point this difficulty was the hardest found on the chart.
+*The difficulty that used to take this spot was [[User blog:EpicTheGamer2014/60mmm|60mmm]], but it’s placement was taken away in the official chart after TDE remembered that '''Universe Disruption''' was more popular and known than [[User blog:EpicTheGamer2014/60mmm|60mmm]].
+
+==Moving On==
+Atter completing this, you should move onto the next challenge, [[File:Illegal Newest.png|30px]] [[Illegal]], or in the unofficial chart you should move onto [[File:CompleteObstacles.png|30px]] [[Complete: Obstacles]] .
+{{MainDifficultiesNavbox}}
+
+[[Category:Difficulty]]
+[[Category:Difficulties]]
+[[Category:Class 7]]
+[[Category:Physically Impossible]]
+[[Category:Physically Impossible Difficulties]]

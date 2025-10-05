@@ -1,0 +1,70 @@
+<div style="background:linear-gradient(180deg, #FF4646, #FF6161, #FF8080);padding:1em;font-family:rubik;border:10px solid #a03535">{{Humanly Possible}}{{NewDifficultyInfobox|title1=Locomotion|image1=<gallery>
+Locomotion.png | Current
+Locomotionnew.png | Alternate
+</gallery>|caption1=Welcome to Locomotion! You will be introduced to conveyors, a way of transport to get to different areas.|class=Class 0|rating=-22|type=• Difficulty
+• Humanly Possible
+• Unofficial|previous=[[File:Happylike remake.png|30px]] [[Happylike]] (-23) |next=[[File:Walkthrough.png|30px]] [[Walkthrough]] (-21)|creator(s)=Astro6284|short_name=Motion|alt_names=Transport|original_name=Motionless|date_added=05 / 07 / 23|alt_previous=|alt_next=|class_range=[[Just Air]] - Here (Low)|difficulty_range=Low - High|decal_id=14037195389}}
+
+==Introduction ≈ [[File:Locomotion.png|30px]] Locomotion==
+Well done on surpassing the joyous difficulty [[File:Happylike remake.png|25x25px|frameless]] [[Happylike]]! It was extremely easy completing all of its obstacles. Now you move on to more motion upon the difficulty [[File:Locomotion.png|25px]] Locomotion. You will be introduced to conveyors, a new object. Conveyors transport you (or any other parts) to different places. Conveyors have a abillity upon editing them to either change the speed, show their arrows, etc. This difficulty will only showcase you the fast conveyors, as the slow conveyors will be in the difficulties like [[File:Unlosable.png|25px]] [[Unlosable]] and [[File:AutomaticNew.png|25px]] [[Automatic]]. Conveyors are common parts, meaning you will see them on a lot of more difficulties soon.
+
+This difficulty is the last difficulty for breaks, as you are preparing for the main difficulties that are in the Official Difficulty Chart. All of these difficulties in this class are very easy, so you are still allowed to skip this class (and maybe the next class).
+
+Locomotion is a humanly possible, unofficial difficulty created on the 5th of July, 2023 by Astro6284. It is before [[File:Walkthrough.png|25px]] [[Walkthrough]] and after [[File:Happylike remake.png|25x25px|frameless]] [[Happylike]]. The difficulty used to located on Class Upper Negative (Class -1B), which was the result of C-1 spliting to twos. Now it is located in Class 0 due to TDEx/TDA. 
+
+==Placement ≈ [[File:Locomotion.png|30px]] Locomotion==
+
+*[[File:Therobloxboss24 JustAir.png|30px]] [[Just Air]] (-24)
+*[[File:Happylike remake.png|30px|frameless]] [[Happylike]] (-23)
+*[[File:Locomotion.png|30px]] '''''Locomotion''''' (-22)
+*[[File:Walkthrough.png|30px]] [[Walkthrough]] (-21)
+
+==Icon Representation ≈ [[File:Locomotion.png|30px]] Locomotion==
+[[File:Locomotion.png|75px]]The icon consists of a red to light-red gradient at the angle of 90° degrees. On the top layer, there is a dark-red arrow pointing right to show that you will have motions during when you are in the difficulty.
+
+==Obstacles ≈ [[File:Locomotion.png|30px]] Locomotion==
+<tabber>
+|-|
+Low=
+*Go on a conveyor with a speed of 500.
+*Go on a conveyor with a speed of 450.
+*Go on a conveyor with a speed of 400.
+*Go on a conveyor that is slanted by 10 degrees.
+*The total time is 100 seconds. 
+|-|
+Mid=
+*Go on a conveyor with a speed of 350.
+*Go on a conveyor with a speed of 300.
+*Go on a conveyor that is slanted by 20 degrees.
+*Go on two rotated conveyors connected to each other.
+*The total time is 110 seconds. 
+|-|
+High=
+*Go on a conveyor with a speed of 250.
+*Go on a conveyor with a speed of 200.
+*Go on a conveyor that is slanted by 30 degrees.
+*Go on four rotated conveyors connected to each other.
+*The total time is 120 seconds. 
+</tabber>
+
+==Towers ≈ [[File:Locomotion.png|30px]] Locomotion==
+
+===Towers of this difficulty===
+
+*Tower of Highspeed Trains (Fictional)
+*[[Box of Manoeuvering and Shifting]]
+*[[Steeple of Winpad Transportation]] (Fictional)
+
+===Towers with this difficulty===
+
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]]
+*[[File:Final.png|30x30px]] [[Great Monolith of Every EJT Difficulty]]
+*[[File:RoorXDHd.png|30x30px]] [[The Pyramid Brothers/JJT Pyramid|JJT Pyramid]] (Stage 27)
+*Add here!
+
+==Continuing on ≈ [[File:Locomotion.png|30px]] Locomotion==
+Well done on completing all of the obstacles on this difficulty. You have actually mastered fast conveyors, meaning that you can move on to [[File:Walkthrough.png|25px]] [[Walkthrough]](or skip to [[File:Unlosable.png|25px]] [[Unlosable]])!
+[[Category:Difficulty]]
+[[Category:Unofficial]]
+[[Category:Class 0]]
+[[Category:Starter Zone]]

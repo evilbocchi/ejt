@@ -1,0 +1,392 @@
+<div style="background: linear-gradient(to bottom, #1e1e00, #000000);padding:1em;font-family:rubik;border:15px solid #3c3d00;border-radius:15px">
+__NOTOC__{{Scrollbox|Notices={{Humanly Possible}}
+{{Large Page}}}}
+
+{{DISPLAYTITLE:<span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>}}{{BetterQuote|text=Welcome to [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>, this difficulty should give you a bit more of a challenge, but it shouldn't be too bad. Either way, good luck on this difficulty.|quoter=A sign inside of this difficulty}}
+
+==What is [[File:BetterTooMedium.jpg|frameless|45x45px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">TooMedium</span>?==
+{{NewDifficultyInfobox|title1=<span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">TooMedium</span>|image1=<gallery>
+BetterTooMedium.jpg | Normal
+TooMediumUserEdition.png | Alternative
+TooMedium.png | Old
+</gallery>|caption1=Credits to TheGalagola for the newer and better icon!|class=2|type=Sub Difficulty|previous=[[File:IntenseDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Intense|Intense]]|next=[[File:Severe2.png|frameless|30x30px]] '''[[Severe]]'''|class_range=Low|difficulty_range=Baseline to Peak|decal_id=13110341386|creator(s)=*TechnicallyTr (OG)
+*User321865 (New)
+*InvertedVertically (Revamper)|date_added=02/18/2021|original_class=1|date_removed=02/26/2021|removal_reason=Presumably a low quality page.|revival_date=06/19/2022|prior_previous=*[[sand]]|prior_next=Lost to time, again.|chain(s)=*[[:Category:Too_Chain|Too Chain]]|hex_color=Top of Gradient: #3c3d00  
+
+
+Bottom of Gradient: #000000  
+
+Top of X-Gradient: #403e13  
+
+Bottom of X-Gradient: #1a1a1a  
+
+Emoticon: #ffffff|rgb_color=Top of Gradient: 60, 61, 0  
+
+
+Bottom of Gradient: 0, 0, 0  
+
+Top of X-Gradient: 64, 24, 19  
+
+Bottom of X-Gradient: 26, 26, 26  
+
+Emoticon: 255, 255, 255}}[[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span> is a Class 2 difficulty that is harder then [[File:IntenseDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Intense|Intense]] yet easier then [[File:Severe2.png|frameless|30x30px]] '''[[Severe]]'''. This difficulty is well, difficult, however it is still humanly possible. Most jumps in this difficulty require you to have a good amount of skill and patience, as they can be surprisingly hard if unprepared.
+
+This difficulty should be attempted after being able to beat at least mid [[File:IntenseDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Intense|Intense]] difficulty obstacles without much trouble, otherwise, this may prove to be a lot harder for unprepared players.
+Ranges from 5.
+==Icon Representation==
+
+<tabber>
+|-|
+Normal=
+[[File:BetterTooMedium.jpg|center|frameless]]
+The normal icon is pretty simple, so it shouldn't be too hard to decipher. It is a black background with a small piece of yellow on the top, with an emoticon in the center, while a transparent white X is behind the emoticon. See? Simple!
+|-|
+Alternative=
+[[File:TooMediumUserEdition.png|center|frameless]]
+The alternative icon is very similar to the old icon, it's just that the X is bolded and a LOT darker now.
+|-|
+Old=
+[[File:TooMedium.png|center|frameless]]
+The old icon is really simple, it's just Why's icon but yellow. Alternatively, it's a black background with a yellow XD emoticon.
+</tabber>
+
+==Towers==
+{| class="mw-collapsible wikitable" style="text-align:center; width: 100%;"
+|+<span style="font-weight:bold;font-size:100%;background: linear-gradient(to bottom, yellow,black); -webkit-background-clip:text; -webkit-text-fill-color:transparent;"><big>Table Format</big></span>
+!'''Unknown'''
+!'''Baseline'''
+'''[6.25 - 6.30]''' 
+
+!'''Low'''
+'''[6.31- 6.35]'''
+
+!'''Mid'''
+'''[6.36 - 6.4]'''
+
+!'''High'''
+'''[6.41 - 6.45]'''
+
+!'''Peak'''
+'''[6.46 - 6.50]'''
+|-
+| style="background: #535400; color: #ffffff" |EoSEJ
+| style="background: #3d3d00; color: #ffffff" |ToHL <sub>(EToH)</sub>
+ToA <sub>(AToS)</sub>
+
+ToGMLB(M) <sub>(EToH)</sub>
+
+ToTU(L) <sub>(EToH)</sub>
+ToY <sub>(EToH)</sub>
+
+ToTSC <sub>(AToS)</sub>
+
+ToEoTL <sub>(AToS)</sub>
+
+ToSJ:C <sub>(AToS)</sub>
+
+SoPE <sub>(EToH)</sub>
+
+ToOOO <sub>(EToH)</sub>
+
+ToISC <sub>(EToH)</sub>
+| style="background: #281f06; color: #ffffff" |SoUB <sub>(EToH)</sub>
+CoSD <sub>(EToH:XL)</sub>
+
+ToTUTU <sub>(EToH)</sub> 
+
+SoDD <sub>(EToH)</sub>
+
+ToOT(M) <sub>(EToH)</sub>
+
+CoDD <sub>(EToH:XL)</sub>
+
+ToHK <sub>(EToH)</sub>
+
+ToON <sub>(EToH)</sub>
+
+ToDIM(M) <sub>(EToH)</sub>
+
+ToHF <sub>(EToH)</sub>
+
+SoHP <sub>(EToH)</sub>
+| style="background: #170f08; color: #ffffff" |ToIR <sub>(EToH) (unreleased)</sub>
+ToSBC(M) <sub>(EToH)</sub>
+
+ToIS <sub>(EToH)</sub>
+
+CoGS <sub>(EToH)</sub>
+
+SoIB <sub>(EToH) (unreleased)</sub>
+
+SBaT <sub>(AToS)</sub>
+
+ToW <sub>(EToH)</sub>
+| style="background: #0a0706; color: #ffffff" |SoMH <sub>(EToH)</sub>
+
+ToWoW <sub>(EToH)</sub>
+
+CoD <sub>(EToH:XL)</sub>
+
+ToFC <sub>(AToS)</sub>
+
+ToTF <sub>(EToH)</sub>
+
+CoPE <sub>(EToH:XL)</sub>
+
+CoSO <sub>(EToH:XL)</sub>
+| style="background: #000000; color: #ffffff" |ToTH <sub>(EToH)</sub>
+ToCaUP <sub>(EToH)</sub>
+
+SoAO <sub>(AToS)</sub>
+
+ToCMC <sub>(EToH)</sub>
+
+ToSJ <sub>(AToS)</sub>
+
+ToCE <sub>(AToS)</sub>
+
+CoSS <sub>(EToH:XL) (unreleased)</sub>
+
+CoAA <sub>(AToS) (unreleased)</sub>
+
+ToGO <sub>(EToH)</sub>
+
+ToEE <sub>(EToH)</sub>
+
+ToPE(M) <sub>(EToH)</sub>
+
+CoCHS <sub>(EToH)</sub>
+
+CoLS <sub>(EToH)</sub>
+|}
+
+=== Baseline ===
+
+* [[w:c:jtoh:ToHL|Tower of Hazardous Laddering]] <sub>(EToH)</sub> '''[6.25]'''
+* [[w:c:atos:Tower_of_Antics|Tower of Antics]] <sub>(AToS)</sub> '''[6.25]'''
+* [[w:c:jtoh:Tower_of_Good_Morning,_Let's_Basketball|Tower of Good Morning, Let's Basketball]] <sub>(EToH)</sub> '''[6.25]'''
+* [[w:c:jtoh:Tower_of_Tearing_Up|Tower of Tearing Up]] <sub>(EToH)</sub> '''[6.26]'''
+* [[w:c:jtoh:ToY|Tower of Yore]] <sub>(EToH)</sub> '''[6.27]'''
+* [[w:c:atos:Tower_of_Tedious_Slope_Climbing|Tower of Tedious Slope Climbing]] <sub>(AToS)</sub> '''[6.27]'''
+* [[w:c:atos:Tower_of_End_of_The_Line|Tower of End of The Line]] <sub>(AToS)</sub> '''[6.27]'''
+* [[w:c:atos:Tower_of_Sketchy_Jumps:_Classic|Tower of Sketchy Jumps: Classic]] <sub>(AToS)</sub> '''[6.27]'''
+* [[w:c:jtoh:Steeple_of_Psycho_Eyes|Steeple of Psycho Eyes]] <sub>(EToH)</sub> '''[6.28]'''
+* [[w:c:jtoh:ToOOO|Tower of Orientating Osculating Opinions]] <sub>(EToH)</sub> '''[6.29]'''
+* [[w:c:jtoh:ToISC|Tower of Intense Solar Chaos]] <sub>(EToH)</sub> '''[6.30]'''
+
+=== Low ===
+
+* [[w:c:jtoh:SoUB|Steeple of Underlying Breezes]] <sub>(EToH)</sub> '''[6.31]'''
+* [[w:c:etoh-xl:CoSD|Citadel of Shattered Dreams]] <sub>(EToH:XL)</sub> '''[6.31]'''
+* [[w:c:jtoh:ToTUTU|Tower of The Umbrella, The User]] <sub>(EToH)</sub>  '''[6.32]'''
+* [[w:c:jtoh:SoDD|Steeple of Dusty Dunes]] <sub>(EToH)</sub> '''[6.32]'''
+* [[w:c:jtoh:Tower_of_Onerous_Traveling|Tower of Onerous Traversing]] <sub>(EToH)</sub> '''[6.32]'''
+* [[w:c:etoh-xl:CoDD|Citadel of Deep Darkness]] <sub>(EToH:XL)</sub> '''[6.32]'''
+* [[w:c:jtoh:ToHK|Tower of Heiwana Kaze]] <sub>(EToH)</sub> '''[6.33]'''
+* [[w:c:jtoh:ToON|Tower of One Nine]] <sub>(EToH)</sub> '''[6.33]'''
+* [[w:c:jtoh:Tower_of_Diving_Into_Madness|Tower of Diving Into Madness]] <sub>(EToH)</sub> '''[6.33]'''
+* [[w:c:jtoh:ToHF|Tower of Holy Flip]] <sub>(EToH)</sub> '''[6.34]'''
+* [[w:c:jtoh:SoHP|Steeple of Huge Pain]] <sub>(EToH)</sub> '''[6.35]'''
+
+=== Mid ===
+
+* [[w:c:jtoh:ToIR|Tower of Infiltrated Ruins]] <sub>(EToH) (unreleased)</sub> '''[6.36]'''
+* [[w:c:jtoh:Tower_of_Stained,_Brutal_Calamity|Tower of Stained, Brutal Calamity]] <sub>(EToH)</sub> '''[6.36]'''
+* [[w:c:jtoh:ToIS|Tower of Increasing Stress]] <sub>(EToH)</sub> '''[6.37]'''
+* [[w:c:jtoh:CoGS|Citadel of Green Stuff]] <sub>(EToH)</sub> '''[6.39]'''
+* [[w:c:jtoh:SoIB|Steeple of Itsy Bitsy]] <sub>(EToH) (unreleased)</sub> '''[6.40]'''
+* [[w:c:atos:Should_Be_a_Tower|Should Be a Tower]] <sub>(AToS)</sub> '''[6.40]'''
+* [[w:c:jtoh:ToW|Tower of Watts]] <sub>(EToH)</sub> '''[6.40]'''
+
+=== High ===
+
+* [[w:c:jtoh:Steeple_of_Moonlit_Heresy|Steeple of Moonlit Heresy]] <sub>(EToH)</sub> '''[6.42]'''
+* [[w:c:jtoh:ToWoW|Tower of Whirl of Winds]] <sub>(EToH)</sub> '''[6.42]'''
+* [[w:c:etoh-xl:CoD|Citadel of Despair]] <sub>(EToH:XL)</sub> '''[6.42]'''
+* [[w:c:atos:Tower_of_False_Climbing|Tower of False Calming]] <sub>(AToS)</sub> '''[6.43]'''
+* [[w:c:jtoh:ToTF|Tower of Table Flipping]] <sub>(EToH)</sub> '''[6.44]'''
+* [[w:c:etoh-xl:CoPE|Citadel of Pure Exasperation]] <sub>(EToH:XL)</sub> '''[6.44]'''
+* [[w:c:etoh-xl:CoSO|Citadel of Springtime Odysseys]] <sub>(EToH:XL)</sub> '''[6.44]'''
+
+=== Peak ===
+
+* [[w:c:jtoh:ToTH|Tower of Tokyo Heights]] <sub>(EToH)</sub> '''[6.46]'''
+* [[w:c:jtoh:ToCaUP|Tower of Cruel and Unusual Punishment]] <sub>(EToH)</sub> '''[6.46]'''
+* [[w:c:atos:Steeple_of_Augmented_Opus|Steeple of Augmented Opus]] <sub>(AToS)</sub> '''[6.48]'''
+* [[w:c:jtoh:ToCMC|Tower of Come Mesh Climbing]] <sub>(EToH)</sub> '''[6.48]'''
+* [[w:c:atos:Tower_of_Sketchy_Jumps|Tower of Sketchy Jumps]] <sub>(AToS)</sub> '''[6.48]'''
+* [[w:c:atos:Tower_of_Chromatic_Exosphere|Tower of Chromatic Exosphere]] <sub>(AToS)</sub> '''[6.48]'''
+* [[w:c:etoh-xl:CoSS|Citadel of Side Switching]] <sub>(EToH:XL) (unreleased)</sub> '''[6.48]'''
+* [[w:c:atos:Citadel_of_Aesthetical_Ascension|Citadel of Aesthetical Ascension]] <sub>(AToS) (removed)</sub> '''[6.48]'''
+* [[w:c:jtoh:ToGO|Tower of Great Overcomings]] <sub>(EToH)</sub> '''[6.49]'''
+* [[w:c:jtoh:ToEE|Tower of Extraterrestrial Enchantment]] <sub>(EToH)</sub> '''[6.49]'''
+* [[w:c:jtoh:Tower_of_Pure_Exasperation|Tower of Pure Exasperation]] <sub>(EToH)</sub> '''[6.49]'''
+* [[w:c:jtoh:CoCHS|Citadel of Constant Heart Stopping]] <sub>(EToH)</sub> '''[6.49]'''
+* [[w:c:jtoh:CoLS|Citadel of Laptop Splitting]] <sub>(EToH)</sub> '''[6.50]'''
+
+=== Unknown ===
+
+*[[Edifice of Self Explanatory Jumps]] '''[6.??]'''
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 10.5: TooMedium] '''[6.??]'''
+
+=== Towers with this Difficulty ===
+
+* [[Great Citadel of Possible JJT Difficulties]]
+* [[Great Monolith of Every EJT Difficulty]]
+
+==Obstacles==
+Surprisingly, there isn't any catches this time! Just a normal difficulty that tests your skill.<tabber>
+|-|
+Baseline=
+
+===Baseline [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>===
+
+*Climbable 10.5 stud jump.
+*Unclimbable 10 stud jump.
+*7 stud wrap.
+*2.2x1 stud stickout.
+
+Complex obstacles
+
+*Survive a room with a fast killbrick spinner and a few spinning turrets for 30 seconds.
+*14 stud wrap with double speed.
+*A basic falling platform gauntlet.
+*2.25 stud wrap on a slow spinner.
+
+|-|
+Low=
+
+===Low [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>===
+
+*Climbable 10.65 stud jump.
+*Unclimbable 10.2 stud jump.
+*7.2 stud wrap.
+*2.35x1.1 stud stickout.
+
+Complex obstacles
+
+*A gauntlet of 5 stud wraps that slowly spin.
+*Do one [[File:ChallengingDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Challenging|<span style="color:#B00000">Challenging</span>]] difficulty obstacle of your choice. You have 5 tries to do so.
+*20 stud momentum jump from a 32 speed conveyor.
+*6 stud wrap, but the platforms are beatblocks.
+
+|-|
+Mid=
+
+===Mid [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>===
+
+*Climbable 10.8 stud jump.
+*Unclimbable 10.4 stud jump.
+*7.4 stud wrap.
+*2.5x1.2 stud stickout.
+
+Complex obstacles
+
+*Fling yourself to another platform 32 studs away using an elevator.
+*A simple pushbox puzzle with spinners blocking the way.
+*A headhitter, but the lower platform is a falling platform.
+*3.7 stud wrap with half speed.
+
+|-|
+High=
+
+===High [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>===
+
+*Climbable 10.95 stud jump.
+*Unclimbable 10.6 stud jump.
+*7.6 stud wrap.
+*2.65x1.3 stud stickout.
+
+Complex obstacles
+
+*7 stud wrap, but the wrap itself is spinning.
+*Do two [[File:ChallengingDifficulty.jpg|frameless|30x30px]] '''[[w:c:jtoh:Challenging|<span style="color:#B00000">Challenging</span>]]''' difficulty obstacles of your choice. You have 3 tries to do each of them.
+*45 stud momentum jump off of a 64 speed conveyor.
+*4 stud wrap on a spinner going at a regular velocity.
+
+|-|
+Peak=
+
+===Peak [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>===
+
+*Climbable 11.1 stud jump.
+*Unclimbable 10.8 stud jump.
+*7.8 stud wrap.
+*2.8x1.4 stud stickout.
+
+Complex obstacles
+
+*Climbable 11 stud wrap but the platforms are killbricks.
+*Corner flip once with a sign showing you how to corner flip, if you don't know how to corner flip, you basically go to the corner of a wall and press F.
+*A somewhat complicated pushbox section while jumping over a killbrick spinner.
+*Defeat the boss.
+
+Wait, a boss?
+
+</tabber>
+
+==The Bossfight==
+{{Boss|title1=The Medium Core|caption1=Dear god, he has obtained too much power.|hp=3250|damage=*16(attack 1)
+*10(attack 2)
+*75(attack 3)
+*34(attack 4)|drops=Bootleg trail mix|found_in=Peak [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span> and also the end of  [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>  in GCoPJD.
+|how_to_access=Beat a peak [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span> tower or finish the  [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span> floor in GCoPJD.|difficulty=Peripheral [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>
+|abilities=Can use the kit to summon platforms, killbricks, turrets, etc.|image1=MediumCore.png}}<span style="background:linear-gradient(330deg,yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>The Medium Core</big>'''</span> is a non-canon boss that can be found after reaching the top of [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span> difficulty in [[Great Citadel of Possible JJT Difficulties|GCoPJD]]. The information in this section correlates to the bossfight found there however there may be some new attacks/features listed here. This boss is also said to be added at the end of a custom-made EJT peak [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>, but none exist yet. 
+
+== Representation ==
+There is a yellow-black vignette gradient as the background, and in the center is an \;D face. Surrounding it is: 
+
+* Pixel art saying "Medium".  '''(Pixel Art Chain)'''
+* A crudely drawn stick figure.  '''(R15-Chain)'''
+* Text saying "x2".  '''(Double Chain)'''
+* An XD face.  '''(Possibly XD Chain but could also be Rebirth Chain)'''
+* An exponent symbol.  '''(Gar Chain)'''
+* The icon of the deleted difficulty, Mecha-Medium.  '''(Mecha Chain)'''
+* The icon of the deleted sub-difficulty, Mentionably Medium.  '''(Mentionably Chain)'''
+
+The symbols used here are most likely symbols of 7 well-known chains. The text that each correlates to is written in bold.
+
+==Attack Information==
+You are equipped with the following weapons to defeat the boss:
+* A ranged bow that deals 50 damage with an average cooldown.
+*A sword that deals 25 damage with a fast cooldown.
+
+Now that that's out of the way, let's get to the attacks.
+
+<big>'''Attack #1: Turret Heck'''</big>
+
+<span style="background:linear-gradient(330deg,yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>The Medium Core</big>'''</span> will summon 25 turrets that spin around the area, shooting at rapid speeds. each bullet does 16 damage. This attack lasts around 30 seconds, and you can't attack the boss during this attack.
+
+<big>'''Attack #2: Killbrick Odyseey'''</big>
+
+<span style="background:linear-gradient(330deg,yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>The Medium Core</big>'''</span> grabs some killbrick spinners from the kit and shoves it in the battle arena. The spinners move pretty fast and deal 10 damage. This attack lasts a full minute, and this attack can STACK with other attacks.
+
+'''<big>Attack #3: Giant Bootleg Beam</big>'''
+
+<span style="background:linear-gradient(330deg,yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>The Medium Core</big>'''</span> starts to power up a huge '''''ass''''' laser beam, which takes around 5 seconds. Once it shoots, the beam fires and slowly follows you, it's still easily out-runnable though. The beam itself lasts for 10 seconds, and even grazing the beam will have a FAT 75 health taken away from you.
+
+<big>'''Attack #4: Bootleg Meteor Shower'''</big>
+
+<span style="background:linear-gradient(330deg,yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>The Medium Core</big>'''</span> summons a shower of yellow meteors that fall down onto the floor of the battle. The meteors do 34 damage, lasts for 45 seconds, and can STACK with other attacks.
+
+==Ending==
+After you defeat <span style="background:linear-gradient(330deg,yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>The Medium Core</big>'''</span>, you are rewarded with the bootleg trail mix of hecc, which upon using, heals you 15 hp. Great job on defeating this boss, give yourself a pat on the back if you will, because that's a pretty big achievement.
+
+==Trivia ==  
+
+* This difficulty used to be a deleted Class 1 difficulty, eventually, it accidentally got revived by user321865 a year and 4 months later.
+*This is a part of the "Too Chain", a series of difficulties that are just buffs of the normal JToH difficulties, with the exception of [[File:TooEasy Difficulty Revamped.jpg|frameless|32x32px]] [[TooEasy|<span style="background:linear-gradient(90deg,black,green); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">TooEasy</span>]].
+*The normal icon for the difficulty was made by [[User:TheGalagola|TheGalagola]], please check them out, they're cool.
+*This difficulty is the most commonly critized difficulty in Class 2. This is most likely due to it being the only one in the EToH spectrum that is part of a chain. 
+**"Nevermind there's already a weird [___] difficulty, TooMedium who makes that." -[https://www.youtube.com/@pczm_ pczm]
+
+==Continuing on from this Point==
+Congratulations on beating [[File:BetterTooMedium.jpg|frameless|30x30px]] <span style="background:linear-gradient(180deg,yellow,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''TooMedium'''</span>! Beating something of this difficulty isn't exactly impressive, but it's still an accomplishment nonetheless. Either way you should continue on into the full difficulty of [[File:Severe2.png|frameless|30x30px]] [[Severe]], it should give you a pretty decent challenge considering there are way more towers and steeples assigned to it.{{DifficultiesNavbox}}
+[[Category:Possible]]
+[[Category:Class 2]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Emoticon Difficulties]]
+[[Category:Too Chain]]
+[[Category:Large Pages]]
+[[Category:TooHard Chain]]

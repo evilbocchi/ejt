@@ -1,0 +1,250 @@
+<div style="background:#00000022;padding:1em;border-left:15px solid #000000">
+<div style="--theme-accent-color:-webkit-linear-gradient(180deg, #000000, #808080, #000000)">
+<center><font size="5">« [[File:Eshinion Difficulty.png|40px]] [[Eshinion]] | [[File:Wer.webp|40px]] '''TooAbnormal''' |  [[File:Catch another alternate.webp|40px]] [[Catch]] »</font></center><br>
+{{NoticeScrollboxNew|Notices={{Physically Impossible}}
+{{Large Page}}}}{{NewDifficultyInfobox|gradient=180deg,#000000,#808080,#000000|image1=<gallery>
+Wer.webp|Current
+New TooAbnormal image.webp|Previous
+Static-assets-upload12871821684643010131.jpg|Original
+</gallery>|class=[[:Category:Class 10|Low Class 10]]|previous=[[File:Eshinion Difficulty.png|frameless|30x30px]] [[Eshinion]] 
+(107)|next=[[File:Catch another alternate.webp|frameless|30px]] [[Catch]] 
+(109)|decal_id=*Current: 13922821866
+*Previous: N/A
+*Original: 7781923161|creator(s)=<big>[[User:Astrominal|Astrominal]]</big>
+<small>[[User:Jpjusto|Jpjusto]] (Revamper) </small>|full_name=TooAbnormal.|date_added=26 September 2021‎|hex_color=|title1=<big><big>'''<span style="background:linear-gradient(180deg,red,darkred,#191919,darkred,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">TooAbnormal</span>'''</big></big>|type=[[:Category:Physically Impossible|Physically Impossible.]]|rating=108|class_range=Mid|sub_difficulty(ies)=|alt_previous=[[File:Caught.png|frameless|25px]] [[Caught]] 
+(Sub-Difficulty) (107.5)|short_name=T.A.|alt_next=|main_difficulty=|official_music(s)=[https://www.youtube.com/watch?v=F44f57YzC9M&ab_channel=Maeloux Nuke Powder - MaelouX]|original_type=|caption1=Beware.|original_official_music=[https://www.youtube.com/watch?v=W5Sq71VTJ9Q&ab_channel=Mareux-Topicb Mareux - The Perfect Girl]|original_name=Abomination.exe|previous_name=*Hypremenitebly.exe
+*Ultrexble.exe
+*Abomination.exe (by kluczdoskarbu lol)
+*Ultratric.exe
+*Aboinfiniteable|revamp_date=*9 April 2022
+*19 September 2025|prior_previous=*[[File:The Genius.png|frameless|30x30px]] War Crimes Difficulty
+*[[File:Bar Code.png|frameless|30x30px]] Bar Code
+*[[File:Honk..png|frameless|30x30px]] Honking Insanity
+*[[File:Persistent.png|frameless|30x30px]] Persistent|prior_next=*[[File:One piece noh mask holing 1 billion bounty of XD.png|frameless|30x30px]] PURGATORY
+*[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|frameless|30x30px]] [[IMPOSSIBLE.EXE]]}}
+
+== <span style="font-family: Didot;"><big><code>''Introduction''</code></big></span> ==
+<span style="font-family: Didot;"><big>''<code>What is {{PAGENAME}}?''</code></big></span>
+
+You've arrived at the nearest start of this class, this is currently located at the ''[[Main Difficulty Chart]]'', it has been rated as 108 being near to the Baseline of this class. At the moment, you are on the Low range of this class, which isn't a big deal right now. This difficulty will obviously go upon to the next chart upon ahead of you since you are at the half point of this place already. One more thing to mention is that it is not possible going through this difficulty with TAS, due to its difficulty ranging, which would be Universally Impossible.
+
+'''[[File:Wer.webp|frameless|40x40px]]''' ''[[TooAbnormal]]'' is a ''[[:Category:Class 15|Low Class 10]]'' difficulty being currently between [[File:Eshinion_Difficulty.png|frameless|30x30px]] [[Eshinion]] <small>(107)</small> (or [[File:Caught.png|frameless|25x25px]] [[Caught]] <small>(107.5)</small>) , a previous difficulty which would be easier than this; & [[File:Catch_another_alternate.webp|frameless|30x30px]] [[Catch]] <small>(109)</small> , something to be extremely difficult and almost if it was buffed way beyond than this. With that being said, it is rated as 91.66 and [[Metris|''Kol Metris'']] of around |1600|.
+
+This is currently classified as [[:Category:Physically Impossible|''Physically Impossible'']] (formerly ''[[:Category:Unbuildable|Unbuildable]]''). It has been classified to that specific category due to its obstacles being Impossible to be beaten by TASes or Humans. If someone attempts to do that themselves, they would lead them into back to the original position. ''(This would range from'' [[File:UltraInstinct.png|30x30px]] ''[[Ultra Instinct]] to'' [[File:Pinnacle.png|40x40px]] ''[[Pinnacle]])''
+
+=== <span style="font-family: Didot;"><big><code>''Placement.''</code></big></span> ===
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 10'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Low'''
+|-
+|[[File:Dynamix.png|50x50px]]
+|[[Dynamix]]
+|Normal
+|106
+|-
+|[[File:Eshinion_Very_New.png|50x50px]]
+|[[Eshinion]]
+|Normal
+|107
+|-
+|[[File:Caught.png|50x50px]]
+|[[Caught]]
+|Sub-Difficulty
+|107.5
+|-
+|[[File:Static-assets-upload12871821684643010131.jpg|50x50px]]
+|'''<big>TooAbnormal</big>'''
+|Normal
+|108
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|[[File:Catch_another_alternate.webp|50x50px]]
+|[[Catch]]
+|Normal
+|109
+|-
+|[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|50x50px]]
+|[[IMPOSSIBLE.EXE]]
+|Sub-Difficulty
+|109.5
+|-
+|[[File:Elite_phase1.png|50x50px]]
+|[[Exploitist Elite]]
+|Normal
+|110
+|-
+|[[File:TooTooHard.png|50x50px]]
+|[[TooTooHard]]
+|Normal
+|111
+|-
+|[[File:Obama_Prism_Ultimate.png|50x50px]]
+|[[User blog:EpicTheGamer2014/True Obama Prism|True Obama Prism]]
+|Sub-Difficulty
+|111.5
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
+|-
+|[[File:Zanyte.png|50x50px]]
+|[[Zany]]
+|Normal
+|112
+|-
+|[[File:Ohnoez.png|50x50px]]
+|[[Oh Noez!]]
+|Normal
+|113
+|-
+|[[File:Viratical.png|50x50px]]
+|[[Viratical]]
+|Normal
+|114
+|}
+
+=== <span style="font-family: Didot;"><big><code>''Icon Representation.''</code></big></span> ===
+{| class="article-table" style="border: 2px solid #808080; margin:0;"
+! style="border 2px #808080;" |''Name''
+! style="border 2px #808080;" |''Icon''
+! style="border 2px #808080;" |''Description''
+!''Date''
+|-
+|''<code>'''Current Icon'''</code>''
+|[[File:Wer.webp|frameless|300x300px]]
+|''The current icon is represented by a grey squared background with a circle shadow surrounding it. On top of its icon there is its text which demonstrates: "∞ΩMEGA∞", we could relate of how difficulty really is due to its position (on the middle of the [[Main Difficulty Chart|Difficulty Chart]]); the icon has its own text gradient being colored in Red (close to Maroon) and Black being on 90 degrees to have it positioned as a gradient text. One more thing to mention is that there is currently 7 texts on the Icon, going behind the front text on the icon. Each one of the icons goes Up or Down, fading through the background.''
+''The icon was made & published by [[User:Meisterfabi|Meisterfabi]].''
+|''24/2/2023''
+''2/24/2023''
+|-
+|''<code>'''Previous Icon'''</code>''
+|[[File:New_TooAbnormal_image.webp|300x300px]]
+|''This was the previous icon that has been used before. The previous icon is currently represented by a rectangular background with the fading gradient. On top of its icon, there is the same text used in the Current Icon, as said earlier: "∞ΩMEGA∞". But this time it's colored in a gradient going White to Black color. The color is positioned on around 125 degrees.''
+''The icon was to be made as a Revamp Icon, which was made by [[User:Jschirtzer|Jschirtzer]].''
+|''22/4/2022‎''
+''4/22/2022‎''
+|-
+|''<code>'''Primordial Icon'''</code>''
+|[[File:Static-assets-upload12871821684643010131.jpg|300x300px]]
+|''This was the Original Icon of this difficulty. The icon is currently represented by almost the same gradient background as the Previously Icon (Revamp Icon). There's the same text used in all of the Icons previously mentioned. It is colored in Red to black and being vertically moved 90 degrees on the icon, having 5 text ΩMEGA's on the icon.''
+''A quick fact which is that this icon was Originally made in the ROBLOX Studio.''
+
+''The Icon was made & published by Guille, also known as [[User:Astrominal|Astrominal]].''
+|''26/9/2021''
+''9/26/2021‎''
+|}
+
+== <span style="font-family: Didot;"><big><code>''Towers''</code></big></span> ==
+
+* OoID - Obelisk of Inevitable Demise (Fictional)
+* ToSC - [[Tower of Surreal Clusters]] (Fictional)
+* ToWR - Tower of Warped Reality (Fictional)
+
+== <span style="font-family: Didot;"><big><code>''Obstacles''</code></big></span> ==
+{| class="fandom-table"
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Climbable Jumps
+| style="background-color: #005980;" |<font color="white">43.400 studs</font>
+| style="background-color: #014500;" |<font color="white">47.600 studs</font>
+| style="background-color: #336000;" |<font color="white">51.700 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">55.900 studs</font>
+| style="background-color: #964a00;" |<font color="white">60.000 studs</font>
+| style="background-color: #5a0000;" |64.200 <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">68.300 studs</font>
+|-
+|Unclimbable Jumps
+| style="background-color: #005980;" |<font color="white">41.500 studs</font>
+| style="background-color: #014500;" |<font color="white">45.600 studs</font>
+| style="background-color: #336000;" |<font color="white">49.800 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">53.900 studs</font>
+| style="background-color: #964a00;" |<font color="white">58.100 studs</font>
+| style="background-color: #5a0000;" |62.200 <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">66.400 studs</font>
+|-
+|Climbable Wraparounds
+| style="background-color: #005980;" |<font color="white">40.300 studs</font>
+| style="background-color: #014500;" |<font color="white">44.500 studs</font>
+| style="background-color: #336000;" |48.600 <font color="white">studs</font>
+| style="background-color: #6d5c00;" |52.800 <font color="white">studs</font>
+| style="background-color: #964a00;" |57.000 <font color="white">studs</font>
+| style="background-color: #5a0000;" |61.100 <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">65.300 studs</font>
+|-
+|Unclimbable Wraparounds
+| style="background-color: #005980;" |39.500 <font color="white">studs</font>
+| style="background-color: #014500;" |43.700 <font color="white">studs</font>
+| style="background-color: #336000;" |47.800 <font color="white">studs</font>
+| style="background-color: #6d5c00;" |52.000 <font color="white">studs</font>
+| style="background-color: #964a00;" |56.100 <font color="white">studs</font>
+| style="background-color: #5a0000;" |60.300 <font color="white">studs</font>
+| style="background-color: #550055;" |64.400 <font color="white">studs</font>
+|-
+|Stick-outs
+| style="background-color: #005980;" |<font color="white">40.800 studs</font>
+| style="background-color: #014500;" |45.000 <font color="white">studs</font>
+| style="background-color: #336000;" |49.200 <font color="white">studs</font>
+| style="background-color: #6d5c00;" |<font color="white">53.400 studs</font>
+| style="background-color: #964a00;" |57.600 <font color="white">studs</font>
+| style="background-color: #5a0000;" |61.800 <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">66.000 studs</font>
+|-
+|Cylinder Wraparounds
+| style="background-color: #005980;" |<font color="white">41.200 studs</font>
+| style="background-color: #014500;" |45.400 <font color="white">studs</font>
+| style="background-color: #336000;" |49.500 <font color="white">studs</font>
+| style="background-color: #6d5c00;" |53.700 <font color="white">studs</font>
+| style="background-color: #964a00;" |57.900 <font color="white">studs</font>
+| style="background-color: #5a0000;" |62.000 <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">66.200 studs</font>
+|-
+|Climbable Walkaround
+| style="background-color: #005980;" |<font color="white">40.000 studs</font>
+| style="background-color: #014500;" |<font color="white">44.200 studs</font>
+| style="background-color: #336000;" |48.300 <font color="white">studs</font>
+| style="background-color: #6d5c00;" |<font color="white">52.500 studs</font>
+| style="background-color: #964a00;" |<font color="white">56.700 studs</font>
+| style="background-color: #5a0000;" |60.800 <font color="white">studs</font>
+| style="background-color: #550055;" |65.000 <font color="white">studs</font>
+|-
+|Unclimbable Walkaround
+| style="background-color: #005980;" |<font color="white">39.500 studs</font>
+| style="background-color: #014500;" |43.600 <font color="white">studs</font>
+| style="background-color: #336000;" |<font color="white">47.800 studs</font>
+| style="background-color: #6d5c00;" |51.900 <font color="white">studs</font>
+| style="background-color: #964a00;" |56.100 <font color="white">studs</font>
+| style="background-color: #5a0000;" |60.200 <font color="white">studs</font>
+| style="background-color: #550055;" |64.400 <font color="white">studs</font>
+|}
+
+== <span style="font-family: Didot;"><big><code>''Trivia''</code></big></span> ==
+
+* According to the creator, this difficulty was made in Discord.
+* The Original image was made in ROBLOX Studio.
+* The name idea was given by ''[https://www.roblox.com/users/115222837/profile Vicenteiscool1000].''
+* The name had 6 names and got a poll to get a name between of the 6 names.
+** ''(Link: [https://jtohs-joke-towers.fandom.com/f/p/4400000000000066887/r/4400000000000188235 Here] <small>(also the name poll has ended)</small>)''
+* The Previous image or the Revamp was made by ''[[User:Jschirtzer|Jschirtzer]].''
+** According to the creator, the only mistake is that the letter is not similar to the Old icon (Only the Gradient text) and ''[[User:Jschirtzer|Jschirtzer]] comments that it looks better either way.''
+* The Current image was made by ''[[User:Meisterfabi|Meisterfabi]]''
+* This page's second revamp has been inspired on [[IMPOSSIBLE.EXE]].
+
+== <span style="font-family: Didot;"><big><code>''Continuing from this point''</code></big></span> ==
+You've outdone yourself, yet again. You've successfully beaten this difficulty, let alone going through more than around 75+ difficulties. But I can already see that you've managed to get around these specific obstacles. To continue your progress, move on to  [[File:Catch_another_alternate.webp|frameless|30x30px]] [[Catch]].{{DifficultiesNavbox}}
+[[Category:Class 10]]
+[[Category:Difficulty]]
+[[Category:Physically Impossible]]
+[[Category:Large Pages]]
+[[Category:Physically Impossible Difficulties]]

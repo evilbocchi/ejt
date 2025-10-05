@@ -1,0 +1,180 @@
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(90deg, #000000, #ffffff, #000000, #ffffff, #000000, #ffffff, #000000, #ffffff, #000000);-webkit-text-fill-color: block;-webkit">
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(45deg, #000000, #646464, #000000);-webkit-text-fill-color: block;-webkit">
+<div style="--theme-accent-color:-webkit-linear-gradient(45deg, #000000, #ffffff, #000000)">{{NoticeScrollboxNew|Notices={{Physically Impossible}}{{Bad Grammar}}}}{{NewDifficultyInfobox|gradient=#646464,#ffffff|image1=<gallery>
+Sacrificingly-Impossible W effects.jpg|Current
+Sacrificingly-Impossible wout effect.png|Original
+</gallery>|class=[[:Category:Class 8|Class 8]]|previous=[[File:Communism better.png|30px]] [[COMMUNISM]] (83)|next=[[File:Satan Tartarus Lucifer Void.png|30px]] [[Satan Tartarus Lucifer Void]] (84)|decal_id=[https://create.roblox.com/store/asset/99005732815007/Sacrificingly-Impossible 99005732815007]|creator(s)=[[User:Astrominal|Astrominal]]|full_name=|date_added=*14/5/2023 or 5/14/2023 (Blogpost)|hex_color=|title1=[[File:{{PAGENAME}} text.png|middle|250px]]|type=Sub-Difficulty|rating=83.75|class_range=Mid|sub_difficulty(ies)=|alt_previous=[[File:Detroit-XPELO4EK-REVAMP.png|25px]] [[Detroit]] (83.5) (sub-difficulty)|short_name=S.I|alt_next=|main_difficulty=[[File:Communism better.png|40px]] [[COMMUNISM]] (83)|official_music(s)=[https://www.youtube.com/watch?v=I5FwJtX00lg&ab_channel=Djzapper128 Train Madness Mashup/Dual Mix (OG + Metal remix)]|original_type=Nomal|caption1=|alt_names=*{{PAGENAME}}
+*Satanically Impossible
+*Sacrificing Impossible|original_main_difficulty=[[File:New DI Image.JPG|40px]] [[Dilly Impossible]]}}
+
+==What is <span style="background:linear-gradient(to bottom, #646464, #ffffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span>?==
+
+[[File:Sacrificingly-Impossible W effects.jpg|30x30px]] <span style="background:linear-gradient(to bottom, #646464, #ffffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span> ('''S.I''') is a '''[[:Category:Class 8|Class 8]]''' (formerly '''[[:Category:Class 11|Class 11]]''') [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] located at <span style="background:linear-gradient(180deg,#9fa83e,#666B2C); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Middle'''</span> range. '''S.I''' can be classifield Mid-type '''[[:Category:Physically Impossible|Physically Impossible]]''' difficulty, meaning this type of meaning this classification's difficulties are impossible to complete by humans or Tool-Assisted Speedrun ('''TAS''') unless your precision is almost perfect (0.0xxx...), figure for some reason challenge with Roblox physics engine and abuse '''TAS'''. For the obstacles are harder that [[File:New DI Image.JPG|25x25px]] [[Dilly Impossible]] ones without abuse physics or something related highly speed as normal roblox speed (16 speed).
+
+As the mention at classification, it can't be beaten by humans or Tool-Assisted Speedrun ('''TAS'''). As an example, for an obstacle it literally requires outside of the floor or tower, it'll be 400 studs to 450 studs as claimable without any instant-kill bricks. It can be complete by boosting out the edges at the platform. It'll be aprox tier +100 for the obstacles.
+
+[[File:Sacrificingly-Impossible W effects.jpg|30x30px]] <span style="background:linear-gradient(to bottom, #646464, #ffffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span> is in-between [[File:Communism better.png|25x25px]] [[COMMUNISM]] (83), alternatively [[File:Detroit-XPELO4EK-REVAMP.png|25px]] [[Detroit]] (83.5) (sub-difficulty) and [[File:Satan Tartarus Lucifer Void.png|25x25px]] [[Satan Tartarus Lucifer Void]] (84), with rating of 83.75 and as [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] of [[File:Communism better.png|25x25px]] [[COMMUNISM]].
+
+== <big>''Placement''</big> ==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 8'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Low'''
+|-
+|[[File:New DI Image.JPG|75px]]
+|[[Dilly Impossible]]
+|<big>Fabled</big>
+|79
+|-
+|[[File:Gigaversal.png|50px]]
+|[[Gigaversal]]
+|Sub-Difficulty
+|79.5
+|-
+|[[File:Not a reason.jpg|50px]]
+|[[Unreasonable]]
+|Normal
+|80
+|-
+|[[File:Imperative.png|50px]]
+|[[Imperative]]
+|Normal
+|81
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|[[File:Peculiar Wavestats.png|50px]]
+|[[Arcane]]
+|Normal
+|82
+|-
+|[[File:Communism better.png|50px]]
+|[[COMMUNISM]]
+|Normal
+|83
+|-
+|[[File:Detroit-XPELO4EK-REVAMP.png|50px]]
+|[[Detroit]]
+|Sub-Difficulty
+|83.5
+|-
+|[[File:Sacrificingly-Impossible W effects.jpg|50x50px]]
+|[[{{PAGENAME}}]]
+|Sub-Difficulty
+|83.75
+|-
+|[[File:Satan Tartarus Lucifer Void.png|50px]]
+|[[Satan Tartarus Lucifer Void]]
+|Normal
+|84
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
+|-
+|[[File:Qr-codedifficulty.png|50px]]
+|[[QR Code]]
+|Normal
+|85
+|-
+|[[File:Errorisation.png|50px]]
+|[[Errorisation]]
+|Normal
+|86
+|-
+|[[File:GodlikeDiff.PNG|50px]]
+|[[Godlike]]
+|Sub-Difficulty
+|86.5
+|-
+|[[File:Screenshot 2023-04-28 at 22.00.59.png|50px]]
+|[[Esoteric]]
+|Normal
+|87
+|-
+|[[File:Complete Users.png|50px]]
+|[[User:Complete Users|Complete Users]]
+|Sub-Difficulty
+|87.5
+|}
+
+== <big>''Icon Representation''</big> ==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="3" style="text-align:center; width: 1%" |'''<big>''Icon Representation''</big>'''
+|-
+! style="border:5px solid #323232; background: #171717;" |Icon
+! style="border:5px solid #323232; background: #171717;" |Representation
+! style="border:5px solid #323232; background: #171717;" |Date
+|-
+| style="border:5px solid #323232; background: #171717;" |<big>'''Current Version:'''</big>[[File:Sacrificingly-Impossible W effects.jpg|center|thumb|180x180px]]
+| style="border:5px solid #323232; background: #171717;" |The current icon is literally same as the original icon adding a few effects.
+| style="border:5px solid #323232; background: #171717;" |13 May 2023 (D/M/Y)
+|-
+| style="border:5px solid #320000; background: #170000;" |<big>'''Original Version:'''</big>[[File:Sacrificingly-Impossible wout effect.png|center|thumb|180x180px]]
+| style="border:5px solid #320000; background: #170000;" |The Original Icon is literally same icon as the current icon without any effects. The background is black with blood or big maroon dots which there is a dead looking face, the face have a "normal" mouth and the eyes are two X which one is Lower Case.
+| style="border:5px solid #320000; background: #170000;" |13 May 2023 (D/M/Y)
+|}
+
+==''<big>Obstacles</big>''==
+{| class="fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Long Jump (Climbable)
+| style="background-color: #014500;" |400 studs.
+| style="background-color: #336000;" |410 studs.
+| style="background-color: #6d5c00;" |420 studs.
+| style="background-color: #964a00;" |430 studs.
+| style="background-color: #5a0000;" |440 studs.
+| style="background-color: #550055;" |450 studs.
+|-
+|Long Jump (Unclimbable)
+| style="background-color: #014500;" |380 studs.
+| style="background-color: #336000;" |386 studs.
+| style="background-color: #6d5c00;" |392 studs.
+| style="background-color: #964a00;" |398 studs.
+| style="background-color: #5a0000;" |404 studs.
+| style="background-color: #550055;" |410 studs.
+|-
+|Wraparounds
+| style="background-color: #014500;" |320 studs.
+| style="background-color: #336000;" |325 studs. 
+| style="background-color: #6d5c00;" |330 studs. 
+| style="background-color: #964a00;" |335 studs.
+| style="background-color: #5a0000;" |340 studs.
+| style="background-color: #550055;" |345 studs.
+|-
+|Stickout
+| style="background-color: #014500;" |75x8.5<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs. 
+| style="background-color: #336000;" |82x9<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+| style="background-color: #6d5c00;" |89x9.5<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+| style="background-color: #964a00;" |96x10<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+| style="background-color: #5a0000;" |103x10.5<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+| style="background-color: #550055;" |110x11<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+|}
+
+==''Towers''==
+
+*[[The Fallen Tower]] ''(fictional)''
+
+==''Trivia''==
+
+*This difficulty was originally planned to be a sub-difficulty of [[Dilly Impossible]].
+'''<big>''<h2><center><big><big><big>Difficulty Navigation</big></big></big></center></h2>''</big>'''
+
+<center><font size="5">« [[File:Communism better.png|40px]] [[COMMUNISM]] | [[File:Sacrificingly-Impossible W effects.jpg|40px]] [[{{PAGENAME}}]] |  [[File:Satan Tartarus Lucifer Void.png|40px]] [[Satan Tartarus Lucifer Void]] »</font></center>
+{{MainDifficultiesNavbox}}
+[[Category:Difficulty]]
+[[Category:Sub-Difficulties]]
+[[Category:Physically Impossible]]
+[[Category:Bad Grammar]]
+[[Category:Class 8]]

@@ -1,0 +1,132 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:intimidator 305.png|2000px]]</div>
+{{Scrollbox|Notices='''Notices'''
+
+{{Humanly Possible}}
+}}
+==What is Coasterifying?==
+{{NewDifficultyInfobox|title1=Coasterifying|image1=<gallery>
+NewestCoasterifying.png|New
+newCoasterifying.png|Old
+Coasterifying.jpeg|Original
+</gallery>|caption1=Lift hill, drop, bla bla ba, brakes, station|class=Class 1|rating=-6.66 (OMG DEMON NUMBER)|type=
+*Unofficial Difficulty
+*Humanly Possible
+*Sub-Difficulty|previous=[[File:New flowerness image1.png|30px]] [[Flowerness]]|next=[[File:Pleasant.png|30px]] [[Pleasant]]|class_range=Mid Class 1|difficulty_range=Base to Peak|main_difficulty=[[File:New flowerness image1.png|30px]] [[Flowerness]]|official_music(s)=None yet|creator(s)=Bryanjr4474|date_added=May 2nd, 2023|decal_id=Current: [https://create.roblox.com/store/asset/18991219833/Coasterifying 18991219833]
+Old: [https://create.roblox.com/store/asset/13402479053/Coasterifying 13402479053]
+Original: [https://create.roblox.com/store/asset/13402497263/Coasterifying 13402497263]|alt_next=[[File:ADNDnewimage.png|25px]] [[A Difficulty Named Difficulty|ADND]] (sub difficulty)}}
+
+Coasterifying is a Mid Class 1, ranked -6.66, is a sub-difficulty in-between other main difficulties, [[File:New flowerness image1.png|30px]] [[Flowerness]] and [[File:Pleasant.png|30px]] [[Pleasant]] (or [[File:ADNDnewimage.png|30px]] [[A Difficulty Named Difficulty|ADND]]) Created on May 2, 2023 by Bryan, Coasterifying has no sub-sub-difficulties, decal, or music. Lastly, Coasterifying isn't in any chains, hasn't been revived, revamped, or removed.
+
+Coasterifying is classified as a humanly possible difficulty, being in the first class that does so. This is an incredibly easy difficulty, meaning hardly anyone should fail.
+
+This difficulty includes a gimmick, the fun nature of a <span style="background:linear-gradient(65deg,#F08080,#F5A33E,#FFFF66,#98FB98,#87CEEB,#B19CD9); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><u>Roller-Coaster</u></span>! It could be calm, with a smaller height, or a bit taller, like a replica of Fury 325.<ref name="Fury 325">https://www.carowinds.com/rides-experiences/fury-325</ref> It doesn't matter about speed, height, or boosts, it matters about the difficulty. If you have a difficulty with a loop, for example, you might need railings, like this ([[File:coaster example.png|335x335px]] ). Without, it might be [[File:Piece O Cake UHD.jpeg|30px]] [[Piece o' Cake]], or [[File:Pleasant.png|30px]] [[Pleasant]], which is harder then the actual difficulty.
+
+Adding on to the gimmick, there is only one type of coaster you can use, because the other is [[File:AutomaticNew.png|30px]] [[Automatic]]. I call the type a "Control-A-Cart", which is pretty much obby creator, or cart ride games. Obby creator is slightly different, because it has a speed shift.
+
+Obstacles are nil (NOT THE DIFFICULTY) in this difficulty. It's all coaster. You can use anything in your coasters, like inversions (WITH RAILING), sharp turns and steep (not really) drops. Only inversions have railings above them. If there's a steep drop or a sharp turn, theres no railings 
+
+==Icon==
+<tabber>
+|-|
+New=
+<center>[[File:NewestCoasterifying.png|200px]]</center>
+Oh wow this is seriously complicated.<br>
+Well, here we go. It is a blue background, with what looks to be coaster track. Now beyond that we see a dark blue border. Even beyond that we see sky-blue lines with 4 cubes on each corner being a light blue on the outside, and dark blue as the core. Yep, there's still more. Now after that we see a dark blue edge with the final border being dark blue, mostly being visible in the corners, and least visible on the sides. Also on the sides there's the dark blue lines for every side. 
+|-|
+Old=
+<center>[[File:newCoasterifying.png|200px]]</center>
+Here, the main <center> of attraction is the giant bunny hop, with some other bunny hops in the background.
+|-|
+Original=
+<center>[[File:Coasterifying.jpeg|200px]]</center>
+Pretty much its a blue background with a bit of elements. We can see a beyond vertical drop and a loop, with a brown cart (which has a noob with his hands in the air, all in red track.
+</tabber>
+
+==Catches ==
+<tabber>
+Gameplay Wise=
+*Your A, D, and Space keys are useless.
+|-|
+Coaster wise=
+*All of the drops below 73° need railing
+*Lift hills above 80° need railing too.
+|-|
+</tabber>
+==Obstacles==
+The obstacles here are quite self-explanatory, being cart rides or roller coasters. Using games like Theme Park Tycoon 2 is illegal due to the fact you auto-ride it. The basic obstacles are just correlating to height, drop steepness, sharper turns, and boosters. The more advanced obstacles relate to loops / inversions. Baseline could be a simple circular loop, and peak could be a pretzel loop. There are more rather miscellaneous obstacles, being stuff like (some) boosters, rotating turns, etc.
+
+Since there is zilch obstacles, you wont find your 2.1 Stud Climbable Jump, or your 0.3 stud wrap, and your 0.1 stud stickout, nope. Since this difficulty is so easy, it uses heavily forgiving obstacles, such as the railings, which if I didn't mention, <u>all of the drops below 73° need railing, and lift hills above 80° need railing too.</u>
+
+<tabber>
+|-|
+Basic Obstacles=
+<font size=5>Basic Obstacles</font></br>
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+Coasterboost.png|This shows us a boost in the ride
+Sharp turn.jpeg|This shows a pretty tight turn
+Steep drop.jpeg|This shows a steep drop of a coaster
+</gallery>
+|-|
+Advanced Obstacles=
+<font size=5>Advanced Obstacles</font></br>
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+looptyloop.png|Example of a circular loop
+360.png|Example of a 360° loop
+silly inversion.png|Example of an inversion
+</gallery>
+|-|
+Miscellaneous=
+<font size=5>Miscellaneous</font></br>
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+Height.jpeg|How high the lift must be
+Harderthanitlooks.jpeg|Example of how we need to slow down
+Harderthenitlooks.jpeg|Just know that this is harder than it looks...
+</gallery>
+|-|
+</tabber>
+==Towers==
+<tabber>
+|-|
+Towers of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*Tower of Ups and Downs (But on a Coaster)
+{{!}}-{{!}}
+Nonfiction=
+None yet.
+| false= 
+}}
+}}
+|-|
+Towers with=
+*[[Great Monolith of Every EJT Difficulty]]
+|-|
+Obbies of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*Pretty sure you can't make a roller coaster obby.
+{{!}}-{{!}}
+Nonfiction=
+*None yet.
+| false= 
+}}
+}}
+|-|
+Obbies with=
+Probably all the DC obbies.
+|-|
+</tabber>
+==Cont from this point==
+Good job controlling coasters! Moving onto or [[File:Pleasant.png|30px]] [[Pleasant]], [[File:ADNDnewimage.png|30px]] [[A Difficulty Named Difficulty|ADND]] will definitely be no match for you. Your going to do great later in the dc, I believe !
+== Trivia==
+*The background image is of intimidator 305 in VA.
+*The obstacle images are [https://www.roblox.com/games/11454403177/NEW-MAP-Cart-Ride-Delivery-Service Cart Ride Delivery Service] and [https://www.roblox.com/games/11727501024/Create-a-Cart-Ride Create a Cart Ride].
+*My reminder to add obstacle images was "BRYAN PUT A MOTHERF-----G IMAGE HERE.
+
+[[Category:Sub-Difficulties]]
+[[Category:Humanly Possible]]
+
+<references />{{DifficultiesNavbox}}
+[[Category:Class 1]]

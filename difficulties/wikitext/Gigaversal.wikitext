@@ -1,0 +1,145 @@
+<div style="background: linear-gradient(#08bf39, #166e0a); padding: 6px">
+<div style="background: #02EA38; border-radius: 42px; padding: 4px">
+<div style="background: #00390F; border-radius: 40px; padding: 1em">
+{{Physically Impossible}}
+{{NewDifficultyInfobox|title1=<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,white,lightgreen,green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">⚘ Gigaversal ⚘</span>|image1=<gallery>
+Gigaversal.png|New
+giga-old.png|Alt
+</gallery>
+|caption1=where the hell is megaversal|class=Low Class 8|type=Sub-Difficulty|previous=[[File:New DI Image.JPG|30px]] [[Dilly Impossible]]|next=[[File:Not a reason.jpg|30px]] [[Unreasonable]]|class_range=Low Class 8|decal_id=15390288606|sub_difficulty(ies)=none|chain(s)=not in one|official_music(s)=[https://www.youtube.com/watch?v=-nGIng_3An4 HOME - Resonance but the beat other is reverse and it’s beats 4 2 (Sped up + reverb)]|creator(s)=[[User:Bryanjr7747|Bryanjr4474]]|full_name=⚘ Gigaversal ⚘|short_name=Gigaversal|original_class=11 (peak)|original_name=Megaversal|date_added=7/5/23|date_removed=not yet|removal_reason=not|revamp_date=not |revival_date=not|hex_color=too much|rbg_color=too much|cmyk_color=too much|hsv_color=too much|hsl_color=too much|rating=79.5|difficulty_range=Warmups-Peak|main_difficulty=[[File:New DI Image.JPG|30px]] [[Dilly Impossible]]}}
+==Intro==
+<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,white,lightgreen,green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">⚘ Gigaversal ⚘</span> (or Gigaversal for short) is a Low Class 8 difficulty sandwiched between the <big>Fabled</big> difficulty, [[File:New DI Image.JPG|50px]] [[Dilly Impossible]], and the unreason why you should be here, [[File:Not a reason.jpg|30px]] [[Unreasonable]]. Ranked 79.5 on the [[Main Difficulty Chart]], this difficulty has no subs or variations. Created by [[User:Bryanjr7747|Bryanjr4474]], this difficulty has an official song, being [https://www.youtube.com/watch?v=-nGIng_3An4 HOME - Resonance but the beat other is reverse and it’s beats 4 2 (Sped up + reverb)]. This difficulty hasn't been revamped, removed, or revived.
+
+Being the fourth class in this category, <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,white,lightgreen,green);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">⚘ Gigaversal ⚘</span> is a physically impossible difficulty. Here, you must defy physics in order to beat these difficulties. Any successful attempt of beating this difficulty is illegitimate, as this is completely impossible.
+
+Now since this includes "Versal" in the name, this is going to have harder buffs than ''Multiversal'' in <u>space</u>. This means there will be challenges [in space] relating to fire, ice, gravity, and <s>unknown cosmic events</s>, and since this is Class 8, there is many strange abilities, all being in the real " world ", so some parts are IRL.
+
+The Gigaverse is the fourth nested level of the metric -verse series. This -verse contains a finite or infinite amount of Megaverses. A gigaverse can be contained by a Petaverse or a Teraverse, or other -verses in the metric hierarchy, but this eventually leads back up to the Archverse chain. The most common amount of dimensions for gigaverses are between the 6-Dimension and 11-Dimension.
+
+As previously mentioned, this is rated 79.5 on the [[Main Difficulty Chart]]. This is also rated rated [[Extended Tiers|Tier 46]] on the unofficial tiers, and ~|1123| on the [[Metris|Kol Metris]].
+
+==Placement==
+*[[File:New DI Image.JPG|80x80px]] [[Dilly Impossible|<span style="background:linear-gradient(180deg,#ffffff,#00ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Dilly Impossible'''</span>]] (79)
+**[[File:Gigaversal.png|30px]] [[Gigaversal]] (79.5) (YOU ARE HERE)
+*[[File:Not a reason.jpg|30px]] [[Unreasonable]](80)
+*[[File:Resilient Glow.png|30x30px]] [[Resilient Glow]] (81)
+
+==Warm-ups.==
+===Warm-up 1 ===
+This warm-up is around [[File:FalseGanar Z.png|frameless|30x30px]] [[FalseGanar]], just as a pre-obstacle before it ramps up.
+* 75 Stud Jump (Climbable)
+*73 Stud Jump (Unclimable)
+*70 Stud Wrap
+*8 x 10.15 Stud Stickout
+*10.75 Stud Instakill Wrap
+===Warm-up 2===
+This warm-up is around [[File:TooPreciseRevamp.png|frameless|30x30px]] [[TooPrecise]], getting harder but not in the main obstacles yet.
+*121.5 Stud Jump (Climbable)
+*121 Stud Jump (Unclimbable)
+*119 Stud Wrap
+*55.2 Stud Stickout
+===Warm-up 3===
+This warm-up is around [[File:New DI Image.JPG|50px]] [[Dilly Impossible]], the final warm-up before the main obstacles. These warm-ups are VERY close to what your about to see in here. 
+*159 Studs climbable jump (s)
+*151 Studs unclimbable jump(s)
+*137 Studs wraparound
+*108 Studs ice wraparound
+*103 Studs cylinder wraparound
+
+==Obstacles==
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!Spectrum/Obstacles 
+! style="background-color: green;" | '''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>''' 
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Wraparounds
+| style="background-color: #014500;" |230 studs
+| style="background-color: #336000;" |233.75 studs
+| style="background-color: #6d5c00;" |237.5 studs
+| style="background-color: #964a00;" |241.25 studs
+| style="background-color: #5a0000;" |245 studs
+|-
+| Unclimbable Long Jump
+| style="background-color: #014500;" |234 studs 
+| style="background-color: #336000;" |237.75 studs
+| style="background-color: #6d5c00;" |241.5 studs
+| style="background-color: #964a00;" |245.25 studs
+| style="background-color: #5a0000;" |249 studs
+|-
+|Climbable Long Jump
+| style="background-color: #014500;" |240 studs
+| style="background-color: #336000;" |243.75 studs
+| style="background-color: #6d5c00;" |247.5 studs
+| style="background-color: #964a00;" |251.25 studs
+| style="background-color: #5a0000;" |255 studs
+|-
+|Stick Out Wraparounds
+| style="background-color: #014500;" |14 x 111 studs
+| style="background-color: #336000;" |14 x 112 studs
+| style="background-color: #6d5c00;" |14 x 113 studs
+| style="background-color: #964a00;" |14 x 114 studs
+| style="background-color: #5a0000;" |14 x 115 studs
+|-
+|Cylinder Wraparounds
+| style="background-color: #014500;" |226 studs
+| style="background-color: #336000;" |229.75 studs
+| style="background-color: #6d5c00;" |233.5 studs
+| style="background-color: #964a00;" |237.25 studs
+| style="background-color: #5a0000;" |241 studs
+|-
+|Iced Wraparounds
+| style="background-color: #014500;" |226 studs
+| style="background-color: #336000;" |229.75 studs
+| style="background-color: #6d5c00;" |233.5 studs
+| style="background-color: #964a00;" |237.25 studs
+| style="background-color: #5a0000;" |241 studs
+|}
+==Towers==
+<tabber>
+|-|
+Towers of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+* Gigaversally Impossible Tower
+* [[Tower of Antisocial Contagion]]
+{{!}}-{{!}}
+Nonfiction=
+None yet.
+| false= 
+}}
+}}
+|-|
+Towers with=
+*Probably all the DC Towers/Citadels/Great Citadels/Monolith/etc.
+|-|
+Obbies of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*【Ｇ　Ｉ　Ｇ　Ａ　Ｖ　Ｅ　Ｒ　Ｓ　Ａ　Ｌ】
+{{!}}-{{!}}
+Nonfiction=
+*None yet.
+| false= 
+}}
+}}
+|-|
+Obbies with=
+Probably all the DC obbies.
+|-|
+</tabber>
+==CFTP==
+You've defied all physical odds, just for a simple obby in a difficulty chart? It's a massive accomplishment, I get it, but why? Congrats I guess. Next difficulty is [[File:Not a reason.jpg|30px]] [[Unreasonable]].
+==Trivia==
+*''Gigaversal was meant to be in Teraversals spot, but it was too late once I reserved it.''
+{{DifficultiesNavbox}}
+[[Category:Class 8]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Sub-Difficulties]]
+[[Category:Physically Impossible]]

@@ -1,0 +1,93 @@
+__NOTOC____NOEDITSECTION__
+{{DISPLAYTITLE:<span style="color:#9691ff">'''Horrific'''</span>}}
+{{NewDifficultyInfobox
+|title1={{PAGENAME}}
+|image1=<gallery>
+Horrific.png|New
+Horrific-0.png|Old
+</gallery>
+|caption1=Horrific’s icon, as seen in JToH.
+|rating=12
+|previous=[[File:Catastrophic.png|25px|link=Catastrophic]] '''[[Catastrophic|<span style="color:#fff">Catastrophic</span>]]'''
+|next=[[File:Unreal.png|25px|link=Unreal]] '''[[Unreal|<span style="color:#4B00C8">Unreal</span>]]'''
+|decal_id=Unneeded
+|creator(s)=Jukereise (likely)
+|date_added=20th March 2022 (to JToH)
+7th January 2020 (to JHT)
+|revamp_date=6th June 2023
+}}
+
+== What is <span style="color:#9691ff">'''Horrific'''</span>? ==
+<span style="color:#9691ff">'''Horrific'''</span> is a difficulty represented by a lilac color (#9691FF) with a black square. It contains obstacles harder than '''[[Catastrophic|<span style="color:#fff">Catastrophic</span>]]''', but below '''[[Unreal|<span style="color:#4B00C8">Unreal</span>]]''' within the difficulty chart. This used to be an official difficulty in JToH so people wouldn't make '''[[nil|<span style="color:#5e5e62">nil</span>]]''' towers, but later got removed. Anybody attempting towers at this difficulty must have great precision and even so will stand a slight chance at completing something of this difficulty. 
+
+==In Eternal '''Towers of Hell'''==
+<span style="color:#9691ff">'''Horrific'''</span> used to be a split difficulty from '''[[Catastrophic|<span style="color:#fff">Catastrophic</span>]]''' between '''[[nil|<span style="color:#5e5e62">nil</span>]]''' and the latter, and was once official in EToH. However, the difficulty was removed since the difficulty was redundant according to ''Jukecallaa''. According to ''Gammattor'', if five victors arise from the hell that is <span style="color:#9691ff">'''Horrific'''</span>, it would have been re-added with a more threatening name. It had been re-added in the Pit of Misery non-canon subrealm in Zone 3 but a few years later that subrealm was removed along with the difficulties. The difficulty now being used in The Eternal Abyss (the official sequal to Pit of Misery), a game owned by bLockerman666.
+
+==Towers==
+Towers in '''Bold''' are beaten'''.'''
+
+Popular towers
+*'''ToTW - [[Tower of Thje Wall]] (Baseline Horrific, 12.00)'''
+<!--*'''ToVH - [[Tower of Vacant Hindrances]] (Baseline Horrific, 12.00)''' that tower aint considered horrific anymore-->
+*'''ToWM - [[Tower of Water Melon]] (Low Horrific, 12.29)'''
+*'''ToLP - [[Tower of Lucas Penteado]]''' '''(Low-Mid Horrific, 12.35)'''
+*'''ToTRP - [[Tower of The Roof's Pique]] (Mid Horrific, 12.5)'''
+*'''ToEV - [[Tower of Eternal Void]] (High Horrific, 12.78)'''
+=== Whitelisted Towers===   
+*'''NT''' - '''[[Nvidia Tower]]''' '''(Bottom-Low Horrific)'''
+*'''ToSA''' - '''[[Tower of Spatial Awareness]]''' '''(Low- Mid Horrific)'''
+*'''ToFA - [[Tower of Flagrant Aggravation]] (Mid Horrific)
+*'''ToMN - [[Tower of Malefic Nuisances]] (Mid Horrific)'''
+
+===Misc Towers===  
+* '''ToEC - [[Tower of Elysian Crossings]] (Bottom Horrific) [Verified by synflower<ref>https://www.youtube.com/watch?v=Vqb9KchuKco</ref>]'''
+* ToNL - [[Tower of Nether Lands]] (Bottom Horrific)
+* ToOC - [[Tower of Osoroshi Chosen]] (Bottom Horrific)
+* ToE - [[Tower of Exasperation]] (Bottom Horrific)
+* ToTR - [[Tower of Technical Requirements]] (Bottom Horrific)
+*'''ToTB - [[Tower of The Bussin]] (Bottom Horrific) [Verified by Gehadimad<ref>https://www.youtube.com/watch?v=WaN6UNYGAzM</ref>]'''
+*NeaGCoDC - [[Not even a Great Citadel of Difficulty Chart]] (Low Horrific)
+* ToXEA - [[Tower of Xennivattely Estimatable Atmospheres]] (Low Horrific)
+* '''ToDL - [[Tower of Disengaging Lunacy]] (Low Horrific) [Verified by mina<ref>https://www.youtube.com/watch?v=Bua4vMaOM4U</ref>]'''
+* ToDC:R:B - [[Tower of Difficulty Chart: Revamp - Buff|Tower of Difficulty Chart: Revamped: Buffed]] (Low Horrific)
+* ToI2 - [[Tower of Inception 2.0]] (Low Horrific)
+* ToBaB - [[Tower of Blood and Bones]] (Low Horrific)
+* ToHTIG - [[Tower of Horrific Things i Guess|Tower of Horrific Things I Guess]] (Low-Mid Horrific)
+* '''ToHO - [[Tower of Hollow Obstacles]] (Low-Mid Horrific) [Verified by Gehadimad<ref>https://www.youtube.com/watch?v=Fkv0rmQfI2Q</ref>]'''
+* ET - [[Epic Tower]] (Mid Horrific)
+* CoEI - [[Citadel of Everlasting Isles]] (Mid Horrific)
+* '''ToTQFP(P) - [[Tower of the Quest for Perfection (Legacy)|Tower of The Quest for Perfection (Pre-buff)]] (Mid Horrific) [Verified by UnoLuno123<ref>https://www.youtube.com/watch?v=AcB6rHqUl0A&t=2s</ref>]'''
+* ToSaRR - [[Tower of Sadistic and Ruthless Retribution]] (Mid Horrific)
+* '''ToCS - [[Tower of Central Scaling]] (Mid-High Horrific) [Verified by TURTIZI<ref>https://www.youtube.com/watch?v=pVYeZvPNWHM</ref>]'''  
+* ToJF - [[Tower of Jank Food]] (Mid-High Horrific)
+* '''ToTRP - [[Tower of The Roof's Pique|Tower of The Roof's Pique: Unnerfed]] (Mid-High Horrific) [Verified by BoomSasok<ref name=":1">https://www.youtube.com/watch?v=pWDxPBLb2yU</ref>]'''
+* M.E.T.A.L Facility - [[Mentally Exercised Trials and Levels Facility|Mentally Exercised Trials And Levels Facility]] (High Horrific)
+* '''ToYK - [[Tower of Yasamsal Kiyamet]] (High Horrific) [Verified by Yazmania_1m<ref>https://www.youtube.com/watch?v=p658sx8wcgc</ref>]'''
+* S.T.O.N.E Facility - [[Sadistically Terrifying Overachieving Neglectful Enragement Facility|Sadistically Terrifying Neglectful Enragement Facility]] (High Horrific)
+* NoAO - [[NEAT of Acrimonious Objects]] (High Horrific)
+* '''ZAP - [[Zalgo Annihilated Purgatory]] (High Horrific) [Verified by skitsuna<ref>https://www.youtube.com/watch?v=92jggejVRY4&t=185s</ref>]'''
+* ToCP: TPR - [https://www.roblox.com/games/8786067284/ToCP-The-Perfect-Run-Mid-High-Horrific ToCP: The Perfect Run] (High-Peak Horrific)
+* CoNRA - [[Citadel of No Recovery Accumulation]] (High-Peak Horrific)
+* ToED:B - [[Tower of Extreme Dystopia: Buffed]] (High-Peak Horrific)
+*ToYSS - [[Tower of Your Short-term Session]] (High-Peak Horrific)
+*'''GCoGDC - [[Great Citadel of Great Difficulty Chart]] (High-Peak Horrific) [Verified by Skitsuna]'''<ref>https://www.youtube.com/watch?v=7jX-JQVE4NQ</ref>]
+*TGO - [[The Great Obelisk]] (Peak Horrific)
+*'''ToDF - [https://www.roblox.com/games/12368847088/Tower-of-Dissociative-Force Tower of Dissociative Force] (Peak Horrific) [Verified by exexic<ref>https://www.youtube.com/watch?v=0WsH5yJ1Tdo</ref>]'''
+*'''IT -''' '''[[Ikea Tower]]''' '''(Peak Horrific) [Verified by MonsterIsABlock<ref>https://www.youtube.com/watch?v=fpJmckiIzFw&t=272s</ref>]'''
+
+=== Unclassified Towers===
+
+*ToTAM - [[Tower of The Angel's Monument]]
+*CoRE - [[Citadel of Relentless Enragement]]
+*ToHS - [[Tower of Hanging Solicitude]]
+
+==Trivia==
+*This difficulty was originally represented with a light pink color.
+*This is the easiest difficulty in '''JHT''' represented with more than one color.
+*<span style="color:#9691ff">'''Horrific'''</span> was re-added in the Pit of Misery non-canon subrealm in Zone 3, along with '''[[Unreal|<span style="color:#4B00C8">Unreal</span>]]'''.
+*All spectrums of Horrific have been completed.
+==Upon completion ==
+Good job! We know this is possible because BoomSasok has beaten [[Tower of Vacant Hindrances|ToVH]] fully legit, making him the first person to beat a <span style="color:#9691ff">'''Horrific'''</span> tower. Anyway, you may want to try '''[[Unreal|<span style="color:#4B00C8">Unreal</span>]]''' difficulty towers next.
+[[Category:Horrific]]
+[[Category:Soul Crushing]]
+[[Category:Two Color Icon]]

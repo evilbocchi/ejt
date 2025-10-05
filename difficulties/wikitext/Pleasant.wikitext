@@ -1,0 +1,149 @@
+__NOTOC__{{NoticeScrollboxNew|Notices=
+{{JET}}
+{{Humanly Possible}}}}
+{{NewDifficultyInfobox
+|title1 = <big>Pleasant</big>
+|image1 =<gallery>
+PleasantNonBlured.png|Current
+BluerPleasant.png|Bluer
+Oldpleasant.png|Alternate
+PleasantAstrominalRemake.png|Alternate (2)
+</gallery>
+|caption1 = This difficulty is pretty Pleasant! Haha!
+|class = [[:Category:Class 1|High Class 1]]
+|type = [[:Category:Difficulties|JET Difficulty]]
+|previous = {{Class0Difficulties|Flowerness New}} [[Flowerness]]
+|next = {{Class0Difficulties|Tutorial}} [[Tutorial]]
+|creator(s) =
+* [[User:Viranenthusiast|Viranenthusiast]]
+* [[User:IdklolXDXDXD|IdklolXDXDXD]] (Transferer)
+* [[User:Adoqexon|Adoqexon]] (Original JET Creator)
+|date_added =
+* May 20th 2022 (Transfer)
+* January 19th 2020 (JET)
+|rating=-6
+|alt_previous={{Class0Difficulties|A Difficulty Named Difficulty}} [[A Difficulty Named Difficulty]] (sub difficulty)
+|decal_id=
+Current: [https://create.roblox.com/store/asset/7661482019 Here]<br>
+Bluer: [https://create.roblox.com/store/asset/7288218658 Here]<br>
+Alternate: [https://create.roblox.com/marketplace/asset/11758303111 Here]<br>
+Alternate (2): [https://create.roblox.com/store/asset/98782780768329 Here]<br>
+
+|chain(s)=The JET Chain|alt_next={{Class0Difficulties|Piece o' Cake}} [[Piece o' Cake]] (sub difficulty)
+[[File:New Eternified Partyness.png|30px]] [[Eternified Partyness]] <span class = "spoilerblur" style = "color:#00FF00">(Fakeout)</span>|sub_difficulty(ies)={{Class0Difficulties|Piece o' Cake}} [[Piece o' Cake]]|hex_color=* {{colorbox|#A1DCFF}} #A1DCFF (Background)
+* {{colorbox|#2196F3}} #2196F3 (Bluer Background)
+* {{colorbox|#90E1FF}} #90E1FF (Alternate (1) Background)
+* {{colorbox|#FFFFFF}} #FFFFFF (Smile)}}
+
+==Introduction==
+[[File:Pleasant.png|frameless|30x30px]] '''Pleasant''' is a ''Class 1'' Difficulty, being very well known, due to it originating from JET. As such, you will see this difficulty crop up in most DC towers, and even fangames as well. This is the last official difficulty of Class 1. You barely need to do anything here, it’s that easy. It is also beyond {{Class0Difficulties|Flowerness New}} [[Flowerness]] but before {{Class0Difficulties|Tutorial}} [[Tutorial]]. However, it is after {{Class0Difficulties|A Difficulty Named Difficulty}} [[A Difficulty Named Difficulty]], but before {{Class0Difficulties|Piece o' Cake}} [[Piece o' Cake]] if we count sub. By the way, it also precede another easy <span class = "spoilerblur" style = "color:#00FF00">fakeout</span> difficulty, [[File:New Eternified Partyness.png|30px]] [[Eternified Partyness]]!
+
+Obstacles in this difficulty are very, very basic, due to the fact that client objects could over-inflate the difficulty, leading to the placement being inaccurate. 
+
+== Icon Representation ==
+<tabber>
+|-|Current Icon=
+<center>[[File:Pleasant.png|60x60px]]</center>
+It is a light cyan icon, with a white pixelated =3 emoticon.
+|-|Bluer=
+<center>[[File:BluerPleasant.png|60x60px]]</center>
+A bluer version of the current icon, with the emoticon being bigger as well. This icon is used as the default for the difficulty's page on JET.
+|-|Alternate=
+<center>[[File:Oldpleasant.png|60x60px]]</center>
+A remade version of the icon, featuring stars on the top left and bottom right corners. This version of the icon was made and used as the official icon when [[User:Viranenthusiast|Viranenthusiast]] owned the difficulty.
+|-|Alternate (2)=
+<center>[[File:PleasantAstrominalRemake.png|60x60px]]</center>
+A pixelated version of the alternate icon, with only a singular star at the top right corner instead of what the previous icon had. This icon was made by [[User:Astrominal|Astrominal]] after multiple complaints about the then-official icon not being pixelated. This version of the icon is now used as its icon for [[The Remake Project]]
+</tabber>
+
+==Obstacles in this difficulty==
+===Low '''Pleasant'''=== 
+*Quarter stud poles.
+*1 - 1.5 stud gaps.
+*10 stud falls.
+*4 stud tightropes.
+*0.1 stud wraparounds.
+
+===Middle '''Pleasant'''===
+
+*0.3 stud poles.
+*1.65 stud gaps.
+*20 stud falls.
+*3.8 stud tightropes.
+*0.12 stud wraparounds.
+
+===High '''Pleasant'''===
+
+*0.35 stud poles.
+*1.8 stud gaps.
+*25 stud falls.
+*3.55 stud tightropes.
+*0.145 stud wraparounds.
+
+==Towers==
+''Note: Towers listed here are most likely inaccurate.''
+<tabber>
+|-|
+Non-fictional=
+''Add more if needed.''
+
+*Spire of Endless Wandering (SoEW) (PTTT Realm 2.5)
+*[[Tower of Button Hunting]] (ToBH) (NTET Ring 2)
+*[https://www.roblox.com/games/8407219787/The-TNZT-NEaT-Project Not Even a Cavernous Courses] (NEaCC) (TTNZTNP Ring 1)
+*[https://www.roblox.com/games/80166612504189/Not-Too-Easy-Towers Tower of Buttons] (ToB) (NTET Ring 1)
+|-|
+TNZT=
+*[[w:c:tnzt:Tower of Cavernous Courses|Tower of Cavernous Courses]] (ToCC) (TNZT Ring 1)
+*[https://tnzt.fandom.com/wiki/Tower_of_Outer_Pushing Tower of Outer Pushing] (TNZT Ring 2)
+*[https://tnzt.fandom.com/wiki/Tower_of_Racetrack Tower of Racetrack] (TNZT Ring 4)
+*[https://tnzt.fandom.com/wiki/Tower_of_Working_at_a_Maid_Cafe Tower of Working at a Maid Cafe] (TNZT nob ringe 4)
+*[https://tnzt.fandom.com/wiki/Steeple_of_Puzzles_and_Pillars Steeple of Puzzles and Pillars] (TNZT Orion Summit)
+*[https://tnzt.fandom.com/wiki/Steeple_of_Minimalistic_Strolls Steeple of Minimalistic Strolls] (TNZT Bygone Isles)
+*[https://tnzt.fandom.com/wiki/Mini_Tower_of_Bright_Yielding Mini Tower of Bright Yielding] (TNZT Orion Summit)
+*[https://tnzt.fandom.com/wiki/Steeple_of_Chair_Gnawing Steeple of Chair Gnawing] (TNZT Bygone Isles)
+*[https://tnzt.fandom.com/wiki/Tower_of_Tranquil_Bliss Tower of Tranquil Bliss] (TNZT Ring 4)
+|-|
+Fictional=
+*None yet.
+|-|
+Upcoming=
+*[https://laabt.fandom.com/wiki/Pleasant Tower of Toddler Hops] (ToTH) (LAaBT Layer 2 Subrealm)
+|-|
+DCTs=
+''Theres probably a billion more DCTs with this difficulty, so add any which aren’t listed here.''
+
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Impossible Difficulty Chart]] (The Noob Zone)
+[[Earth Navel of EJT Difficulties]] (ENoED)
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]] (Unknown Floor)
+<!-- *[[Monolith of Every JJT Difficulty]] (The floor number wasn’t counted before cancellation) well that one's gone -->
+*[[File:The MiddlelineNew.png|frameless|30x30px]] [[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (Presumed to be here)
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Endless Difficulty Amplifying]] (Unknown Floor)
+<!-- *[[Be a difficulty|Be A Difficulty]] (Be A Difficulty) since this isnt a dct it doesnt make sense to have that here -->
+*Obelisk of Simple Difficulty Chart (OoSPC)
+*{{Class25Difficulties|The Final Difficulty.}} [[Seriously Polar Opposite of Endless Hell]] (SPOoEH)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Monolith of Every EJT Difficulty]]]] (GMoEED)
+</tabber>
+
+==Trivia==
+*This difficulty is found in so many places, we physically can’t count them all.
+**It even appeared in some people blog posts, difficulty names and even difficulty chart towers too! (just can't tell examples yet)
+*The only reason this difficulty is on EJT is because it was thought that the JET wiki was going to be closed (it wasn't)
+
+== Other Wikis This Difficulty Is On ==
+* [[w:c:jtohs-easiest-towers:Pleasant|JToH's Easiest Towers]]
+* [[w:c:tnzt:Pleasant|The Noob Zone Towers]]
+* [https://laabt.fandom.com/wiki/Pleasant Logan's Automatic and Bad Towers]
+==Continuing From This Point==
+Start getting ready for {{Class0Difficulties|Tutorial}} [[Tutorial]], or [[File:Piece_o'_Cake_Better.png|25px]] [[Piece o' Cake|Piec-]] wait a moment, if you want to have a nice party, then  do <span class = "spoilerblur" style = "color:#00FF00">not</span> go to  [[File:New Eternified Partyness.png|30x30px]] [[Eternified Partyness]]! 
+
+<span class = "spoilerblur" style = "color:#00FF00">Please don't, that is a fakeout, and Class 16.</span>
+
+{{MainDifficultiesNavbox}}
+[[Category:Class 1]]
+[[Category:JTE]]
+[[Category:Difficulties]]
+[[Category:Easy]]
+[[Category:Possible]]
+[[Category:Unfailable Difficulties]]
+[[Category:Emoticon Difficulties]]
+[[Category:Two color icon]]

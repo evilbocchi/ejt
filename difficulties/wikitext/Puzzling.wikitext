@@ -1,0 +1,27 @@
+<div style="padding:1em;border:10px solid #9EFFF0;background:#999c00 m;border:5px solid #9EFFF0; border-radius: 25px; background: linear-gradient(to bottom, #00a0cc, #005ccc, #0032cc);-webkit-text-fill-color: block;-webkit">
+{{NoticeScrollboxNew|Notices=
+{{Revamp}}
+{{Unclassified}}
+{{Humanly Possible}}
+}}
+----
+{{JToHW Quote|quoter=Sanjay2133|text=finally got motivation to revamp this...nvm...ok im back and NOW ill revamp it}}
+----
+{{NewDifficultyInfobox|image1=PuzzlingNew.png|caption1=I'm puzzled on what kind of puzzle this difficulty is|class=Unclassified|type=Unclassified|previous=You could say the previous one is [[File:2020_10_28_0ec_Kleki.png|30px]] [[Win]]? But it's really unclassified, and depends on what part of the difficulty you do.|next=You could say the next difficulty is [[File:Misanthrope.png|30px]] [[User blog:EpicTheGamer2014/Misanthrope|Misanthrope]], but it isn't really clear.|difficulty_range=Ranks 0 - 10|creator(s)=sanjay2133|short_name=|alt_names=Puzzled
+Complete a Puzzle|original_class=Class 2ish?|title1=Puzzling|revamp_date=Apr 25, 2023}}
+==Introduction - [[File:PuzzlingNew.png|50x50px]] <span style="background:linear-gradient(#00d4ff, #019fff, #0068ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;text-shadow:0 2px 5px #001bff;font-family:Kefa">'''<big>Puzzling</big>'''</span>==
+
+=== What is [[File:PuzzlingNew.png|30x30px]] <span style="background:linear-gradient(#00d4ff, #019fff, #0068ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;text-shadow:0 2px 5px #001bff;font-family:Kefa">'''Puzzling'''</span>? ===
+[[File:PuzzlingNew.png|30x30px]] <span style="background:linear-gradient(#00d4ff, #019fff, #0068ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;text-shadow:0 2px 5px #001bff;font-family:Kefa">'''Puzzling'''</span> is an unclassified difficulty, indicating that it has no distinct rating and has no placement. In the difficulty, it uses a "Rank" system to categorize the different spectrums of the difficulty; however, they are somewhat difficult to translate into difficulties, as they require different skills, such as ones of thinking.
+
+This difficulty is a measure of one's mental intellect. The skills challenged in [[File:PuzzlingNew.png|30x30px]] <span style="background:linear-gradient(#00d4ff, #019fff, #0068ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;text-shadow:0 2px 5px #001bff;font-family:Kefa">'''Puzzling'''</span> relate to intellectual puzzles, hence the name of the difficulty. One completing the difficulty may encounter various puzzles that they must solve to complete it. These puzzles range vastly in skill, being ranked in ranks of this difficulty. However, all of these puzzles must be possible, and have a definitive answer and solution, so the highest ranked puzzles would be [[File:TheHumanLimit.png|30x30px]] [[The Human Limit]].
+
+=== Ranks ===
+As previously mentioned, this difficulty is organized into ten ranks. These ranks represent the various difficulties of the puzzles one may encounter in this difficulty. For example, a rank 0 puzzle may be entirely automated; no brainpower is exerted or used. However, a rank 10 puzzle would require years of work and tons of intellect to complete. One would probably need to enlist the help of many others to find the eventual answer to the puzzle, thus making Rank 10 going up to [[File:TheHumanLimit.png|30x30px]] [[The Human Limit]], containing the hardest humanly possible puzzles.  
+
+As a result, the difficulty range of [[File:PuzzlingNew.png|30x30px]] <span style="background:linear-gradient(#00d4ff, #019fff, #0068ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;text-shadow:0 2px 5px #001bff;font-family:Kefa">'''Puzzling'''</span> ranges from [[File:Millisecondless.png|30x30px]] [[Millisecondless]] to [[File:TheHumanLimit.png|30x30px]] [[The Human Limit]], or Class 0 to Class 3.   
+</div>
+[[Category:Unclassified]]
+[[Category:Difficulties]]
+[[Category:Difficulties made by Sanjay2133]]
+[[Category:Humanly Possible]]

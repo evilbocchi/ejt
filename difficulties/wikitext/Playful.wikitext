@@ -1,0 +1,161 @@
+{{Humanly Possible}}__NOTOC__{{Large Page}}
+{{Quote (IPeedMyPants' Version)|quote=<big>Hello, player! You have completed plenty of easy difficulties now, and have successfully got to Peak Class 1!
+
+
+''My name's ''' <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Playful'''</span>, and I'm here to teach you a few of unique and new mechanics so it'll be easier for you to complete more difficulties on your journey!''
+''We shall begin now, good luck!''|quoter=<big><span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''<big>}}
+{{NewDifficultyInfobox|title1=<span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Playful</span>|image1=Playful.png|caption1=Absolute easiness!|class=Peak Class 1|type=Possible!|previous=[[File:PeacefulNew.png|frameless|30x30px]] [[Peaceful]]|next=[[File:Magnificent Current.png|frameless|30x30px]] [[Magnificent]]|difficulty_range=Baseline, Low, Mid, High and Peak|decal_id=9586504795|official_music(s)=https://www.youtube.com/watch?v=UnTpNp5bdKo|creator(s)=Migastrate|date_added=08/05/2022|date_removed=None|sub_difficulty(ies)=|rating=-2.5|main_difficulty=[[File:PeacefulNew.png|frameless|30x30px]] [[Peaceful]]}}
+==[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span> - Introduction!==
+''Greetings!'' It's great to see you, {{USERNAME}}! Welcome to the first difficulty in Peak Class 1. Okay, so let's get straight to the point, I don't want to waste your time by telling you what this difficulty is, so - ''Welcome to [[File:Playful.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful!'''</span>''
+----[[File:Playful.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span> is a difficulty that lies in the beginning of ''Peak Class'' ''1.'' This difficulty resides in-between [[File:PeacefulNew.png|frameless|30x30px]] [[Peaceful]], being a tiny bit harder than it and [[File:Magnificent Current.png|frameless|30x30px]] [[Magnificent]], being easier than it. This is like a small challenge before you enter ''Class 2''. [[File:Playful.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span> represents a few easy Noob Zone obstacles that require absolutely no effort to conquer, and is a perfect difficulty for new players that are just starting out, but also for the ones that just want to practice! Everyone is welcome here.
+
+==[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span> - Icon Representation! ==
+Wanna know about the icon? [[File:Playful.png||frameless|30x30px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span>'s icon represents a background with a gradient, that goes from light green from the bottom to more saturated green at the top, aka a light green to green gradient.
+
+You can see a ":)" smiley face on the icon that is center and is also slightly tilted to the left. The said face has a tiny white outline that's transparent (It's estimated to have either 0.9 or 0.95 transparency). Lastly, there are 2 highly transparent lines on both the top and bottom parts of the icon. Overall, it's a really fitting icon for a Class 1 difficulty.
+
+I hope you know what does "Gradient" and "Transparency" mean! Didn't bring a dictionary...
+
+==[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span> - Obstacles!==
+Before we head to obstacles, lemme tell you about '''Catches'''! Catches are those things that are going to help you on your journey through this difficulty, but they can also make the path to your destination way harder! Don't worry, even if a catch decreases your ''WalkSpeed'' or ''JumpPower'', it won't be permanent! Here's a list of all possible catches:
+
+Oh, and almost forgot - there's a 100% chance that a catch will happen every 60 seconds.
+
+===''Catches'' === 
+
+* No worries! If you fall, there's a safety net that teleports you to the start of this difficulty.
+* Your ''WalkSpeed'' might decrease by 0.5 for 10 seconds, but the chance of this catch happening is only 5%.
+*Your ''JumpPower'' might decrease by 35 for 15 seconds, but the chance of that happening is only 0.1%, and while the catch is active all obstacles become 3 times easier.
+*You might get a ''WalkSpeed'' boost that multiplies it by x1.5 for 30 seconds. The chance of this catch activating is 7%.
+
+===[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Baseline Playful'''</span>===
+
+* Do a 10 Stud Troll Wrap. (Actual wrap is 1 stud, and it is inside the Troll Wrap)
+*Do a 13 studs troll jump (Actual jump is 2 studs)
+*2.3 Stud jumps.
+*A basic maze, but with a 15 Spinner Speed spinning OuchBrick (50 damage, but very-very slow!).
+*5 Studs high jump.
+*1.7 Stud wraps.
+*Jump down 125 studs onto a 9x10 stud platform.
+* Go into a 2.9x2.9 studs hole.
+*Complete x1.2 times buffed [[File:SoEasy.png|frameless|30x30px]] <span style="color:#50D050">''SoEasy''</span> in only 100 seconds!
+* Hold the W key for 6 seconds.
+* Hold the D key for 5.4 seconds.
+*Just wait 20 seconds! ''=)''
+* Beat [[File:PeacefulNew.png|frameless|30x30px]] [[Peaceful]] in 120 seconds, but it is x1.3 times buffed and your WalkSpeed is 15! (Original WalkSpeed is 16)
+
+===[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Low Playful'''</span>===
+
+*Hold S key for 5.5 seconds.
+*Hold A key for 5.7 seconds.
+*And again, you just gotta wait 25 seconds! ''=D''
+*Beat [[File:PeacefulNew.png|frameless|30x30px]] [[Peaceful]] in 115 seconds, but it is x1.31 times buffed and your WalkSpeed is 14.8!
+*Walk on a 4x4 Studs width platform for 20 seconds.
+*Do a fake Corner Clip, it is actually just a 0.5 stud wrap.
+*Write "Playful!" in chat 3 times in a row in 30 seconds.
+*Do a 5 stud Troll Stickout (Actual Stickout is 0.1 studs)
+*2.4 Stud jumps.
+*Riding on a 10 Speed conveyor for 1 minute straight.
+*Complete x1.5 times nerfed [[File:PCORE.png|frameless|31x31px]] <span style="color:#ff4444">''Do All The Tasks''</span> 2 times in a row, while your MovementSpeed is decreasing by 0.1 every 30 seconds.
+*Do 4 2 stud jumps in a row!
+*5.5 Studs high jump.
+*1.8 Stud wraps.
+*A basic maze, but with a timer of 350 seconds, and with a small and slow 5 Damage Killbrick spinner. If you won't complete the maze in these 350 seconds, you will get teleported to the start of the difficulty.
+
+===[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Middle Playful'''</span>===
+Hey, you did it! There aren't really much obstacles to do left, only a plenty of stages and after you're free to head to the next difficulty! You can do it!
+
+*2.5 Stud jumps.
+*Riding on a 9 Speed conveyor for 1.3 minutes straight.
+*Complete x1.42 times nerfed [[File:PCORE.png|frameless|31x31px]] <span style="color:#ff4444">''Do All The Tasks''</span> 2 times in a row, while your MovementSpeed is decreasing by 0.15 every 27 seconds.
+* Do 5 1.3 stud wraps in a row!
+* 5.7 Studs high jump.
+*1.9 Stud wraps.
+*Hold both W and S keys for 4 seconds straight.
+* Walk 100 studs, while your WalkSpeed is 12.
+*1.7 Stud wraps with 0.35 stud gaps.
+*2 Studs wide and 5 studs long Tightrope with a safety net below it.
+*Do nothing for 30 seconds! ''=)''
+*Write "Playful!" in chat 4 times in a row in 27 seconds.
+*Hold both A and D keys for 4.1 seconds straight.
+* Do a fake Laugh Clip, it is actually just a 0.6 stud wrap!
+
+===[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''High Playful'''</span>=== 
+
+*Hold W, A and D keys for 2.5 seconds straight.
+*Walk on a 7 stud width platform 110 studs.
+*Complete [[File:SoEasy.png|frameless|30x30px]] <span style="color:#50D050">''SoEasy''</span> in 90 seconds, while your JumpPower is decreasing by 0.25 every 22 seconds, and the obstacles of it are buffed x1.15.
+*Do a troll 8 Stud Insta-Killbrick wrap, while the actual one is being a 0.1 stud 1 damage Killbrick wrap.
+*4 Stud wide but 15 stud long Tightrope, with a Safety Net below it.
+*Press Spacebar 5 times in 10 seconds.
+*Solve "2+7" in only 8 seconds!
+*1.9 Stud wraps with 0.37 stud gaps.
+* 5.8 Stud high jumps.
+* 2 Stud wraps.
+* Walk a 100 Stud wedge, while your MovementSpeed is 13!
+*2.7 Stud jumps.
+*Beat [[File:Tutorial.png|frameless|30x30px]] [[Tutorial|<span style="color:#005800">Tutorial</span>]] 3 times in a row in 100 seconds!
+
+===[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Peak Playful'''</span>===
+Hey, you're at the ''Peak'' stage! This is the final stage, I know you can do it, there is nothing that hard in it, so goodluck!
+
+* 2.1 Stud wraps.
+*Walk a 120 Stud wedge, while your MovementSpeed is 12.8.
+*2.8 Stud jumps.
+*Beat [[File:Tutorial.png|frameless|30x30px]] [[Tutorial|<span style="color:#005800">Tutorial</span>]] 4 times in a row in 96 seconds, while your JumpPower is 57 and WalkSpeed is 16.7!
+*0.27 Stud Wraparound with 0.24 Stud Stickout.
+*Solve "5*5" in only 12 seconds (No hints)!
+* Play on a Playground for 5 minutes!
+* 2.6 Stud unclimbable jumps.
+*1 Stud Killbrick jump!
+*2.9 Stud climbable jumps.
+*Press W key for 10 seconds, and after do a 2 stud jump. Then, walk on a 12 x 12 stud width platform for 5 seconds blindfolded, while there's a safety net below it. After - do a 2.2 Stud high jump, while your WalkSpeed is 15!
+*6 Stud high jumps!
+* '''Difficulty Rush''' time! '''Difficulty Rush''' is a thing where you complete a plenty of difficulties in a row, and better don't fail! So, complete a '''Difficulty Rush''' that starts from [[File:Press a Key.png|frameless|30x30px]] [[Press a Key]] and ends with [[File:PeacefulNew.png|frameless|30x30px]] [[Peaceful]], and if you fail then you will get sent back to [[File:SoEasy.png|frameless|30x30px]] <span style="color:#50D050">''SoEasy''</span>, but don't worry, your MovementSpeed is 16.6 instead of just 16.
+
+== Towers in this Difficulty!==
+''This section is designed for towers that are with this difficulty!''
+
+*Tower of Basic Playground Adventures [ToBPA] ''[From Shifty's Easiest Towers, a fangame that's likely never getting finished.]'' (Fictional)
+* Tower of Playing Playful Games [ToPPG] (Fictional)
+*Tower of Calm and Wholesome Journey [ToCaWJ] (Fictional)
+* Tower of Heavenly Peaceful Realms [ToHPR] (Fictional)
+* Tower of Multiplying Obstacle Chaos [ToMOC] (Fictional)
+* Monolith of Playing for Eternity [MoPfE] (Fictional)
+
+==Towers with this Difficulty! ==
+''And this section is designed for difficulty Chart towers that have this difficulty in them!''
+
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]] (MoDDA) [Unknown Floor]
+*{{Class25Difficulties|The Final Difficulty.}} [[Monolith of The Endless Difficulty Needle: Revamp]] (MoTEDN:R) [Unknown Floor]
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]] (GCoPJD) [Floor 36]
+*N/A
+* Yeah, N/A
+
+==[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span> - Trivia! ==
+
+*This is the 9th difficulty that is made by ''Migastrate.''
+*And, this is the first possible difficulty that is made by ''Migastrate.''
+* Thanks to ''IPeedMyPants'' for helping with this difficulty's icon.
+*[[File:Playful.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span>'s first name was "''Playground''", but later it was renamed to its current name.
+
+==[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span>  - Gallery!==
+[[File:Playful.png|frameless|171x171px]] |- - - -| [[File:Rainbow Playful.png|frameless|170x170px]]
+
+==[[File:Playful.png|frameless|35x35px]] <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Playful'''</span> - ''Continuing From this Point!''==
+''Congratulations,'' {{USERNAME}}''!!'' You've just completed this difficulty, awesome! I know it wasn't that hard, but I'm sure that it was <span style="background:linear-gradient(90deg,#76F514,#DAFF78); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''playful'''</span>. I wish that your journey will be full of happiness, fun and that it'll be just awesome overall, and I'm sure that you'll become one of the best obbyists in the whole world! But now, you gotta go to [[File:Magnificent Current.png|frameless|30x30px]] [[Magnificent]]. I really wish you luck, because the next difficulty is going to be a real challenge, but I know that you're capable of conquering it!
+
+{{DifficultiesNavbox}}
+[[Category:Possible]]
+[[Category:Difficulties]]
+[[Category:Class 1]]
+[[Category:Easy]]
+[[Category:Emoticon Difficulties]]
+[[Category:Essay pages]]
+[[Category:Humanly Possible]]
+[[Category:Gradient Difficulties]]
+[[Category:Large Pages]]
+[[Category:Sub-Difficulties]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Two color icon]]

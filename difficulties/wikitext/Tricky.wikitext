@@ -1,0 +1,275 @@
+<font size="5"></font><center><font size="5">« {{Class1Difficulties|Hard|30px}} [[w:c:jtoh:Hard|Hard]] | [[File:Newer  Tricky.png|frameless|40x40px]] '''<big>Tricky</big>''' | {{Class2Difficulties|Difficult|30px}} [[w:c:jtoh:Difficult|Difficult]] »</font></center>
+
+{{NoticeScrollboxNew|Notices={{Humanly Possible}}{{Classic}}{{Large Page}}}}
+{{ArticleTab|custom=History}}
+{{BetterQuote|text=Hold on a minute! Before you proceed to Difficult, you gotta do Tricky.|quoter=Tricky’s old sign in [[Obelisk of Endless Difficulty Amplifying|OoEDA]]}}
+{{NewDifficultyInfobox
+|title1 = <span style="background:-webkit-linear-gradient(#ff2c00, #ff2c00); -webkit-text-fill-color:transparent; -webkit-background-clip:text"> Tricky </span>
+|image1 = <gallery>
+Newer Tricky.png | Current
+New Tricky.png | Alt
+Tricky.png | Old
+Tricky .png|Old Alt
+Tricky Unofficial.png|Unofficial
+</gallery>
+|class = [[:Category:Class 2|Class 2]]
+|previous = {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|Hard]]
+|next = {{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]]
+|decal_id = Old Alt: [https://www.roblox.com/library/8155417669/Unofficial-Tricky-Difficulty-Icon 8155417669]
+Unofficial: N/A
+|main_difficulty = 
+|original_name = Anger
+|previous_name = Rough
+|hex_color = * New: #E5320C {{colorbox|#E5320c}} (Pomegranate)
+* Old:  #FF4F00 {{colorbox|#ff4f00}} (International Orange)
+|rgb_color = * New: 229, 50, 12
+* Old: 255, 79, 0
+|cmyk_color = * New: 0%, 78%, 95%, 10%
+* Old: 0%, 69%, 100%, 0%
+|hsv_color = * New: 11%, 95°, 90°
+* Old: 19%, 100°, 100°
+|hsl_color = * New: 11, 90%, 47%
+* Old: 18.59, 100%, 50%
+|type=Normal Sub-Difficulty|difficulty_range=High [[w:c:jtoh:Hard|Hard]] - Low [[w:c:jtoh:Difficult|Difficult]]|creator(s)=[[User:AlephWasTaken|AlephWasTaken]]|date_added=09/28/2020|rating=3.25|alt_previous=|alt_next=|class_range=Mid Class 2}}
+
+== [[File:Newer Tricky.png|30px]] <span style="color:#E5320C">'''Tricky'''</span> - Introduction ==
+
+[[File:Newer Tricky.png|30px]] <span style="color:#E5320C">'''Tricky'''</span>, the hardest Low Class 2 difficulty, is a sub-difficulty between High {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|Hard]] and Baseline {{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]]. As it maintains its position as one of the somewhat demanding difficulties within Class 2, it is recommended to tackle towers in this category only after mastering all towers at and below the {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|Hard]] difficulty level. The difficulty range for Tricky is '''3''' - '''3.5'''.
+
+Fan-made obbies with this difficulty tend to contain traps and other unexpected diversions. These traps can either be harmless, with no damage to the player's progress (like in [[w:c:jtoh:Tower of Insult to Injury|Tower of Insult to Injury]]); or harmful, causing the player to lose progress in the obby (like in [[w:c:jtoh:Tower of Traps|Tower of Traps]]). Whichever one is chosen depends on the builder's sanity. 
+
+==Icon Representation==
+{| class="sortable mw-collapsible mw-collapsed fandom-table" fandom-table""
+!'''Name'''
+! '''Icon'''
+!'''Description'''
+|-
+|'''Current'''
+|[[File:Newer Tricky.png|168px]]
+|This icon is represented by a '''red-orange''' square, rotated 45 degrees (this is also known as a rhombus). This merges the colors of {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|Hard]], represented by an '''<span style="color:#fe7c00">orange</span>''' icon, and {{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]], represented by a '''<span style="color:#ff0c03">red</span>''' icon.
+|-
+|'''Alternative'''
+|[[File:New Tricky.png|168px]]
+|This icon is the same as the current version, however it retains the simple square shape with no rotation.
+|-
+| '''Old'''
+|[[File:Tricky.png|168px]]
+|The icon is similar as the new one, but the orange-red mix slightly leans more towards '''<span style="color:#fe7c00">orange</span>'''. It was changed to avoid confusion with the Hard difficulty.
+|-
+|'''Old Alt'''
+|[[File:Tricky .png|168px]]
+|This icon by [[User:LautyrrIAm|LautyrrIAm]] is very different compared to the other variants. Instead of being a solid orange-red color, it resembles Tricky from the animated series Madness Combat.
+|-
+|'''Unofficial'''
+|[[File:Tricky Unofficial.png|168px]]
+|This unofficial icon by [[User:Datoejammerz|Datoejammerz]] includes the colours of Hard and Difficult at the top and bottom respectively, along with rhombuses scattered around as an ode to the official icon, along with a big T that stands for Tricky.
+
+|}
+
+== [[File:Newer Tricky.png|30px]] <span style="color:#E5320C">'''Tricky'''</span> - Obstacles ==<!-- Creator's note: PLEASE do not edit the tabbers unless you know what you’re doing. -->
+<tabber>
+|-|
+Bottom=
+__NOEDITSECTION__ 
+===<span style="color:#00FF00">Bottom</span> Tricky Obstacles===
+*0.8x1.15 stud stickouts
+*7.15 stud jumps
+*Kill bricks that deal 15 damage
+*4.3 stud wraps
+*1.6 stud squeeze
+*3.1 stud squeeze midair
+*Trap conveyers at 6 speed
+*3.1 stud gap with no jumping
+|-|
+Low=
+__NOEDITSECTION__ 
+===<span style="color:#80FF00">Low</span> Tricky Obstacles===
+*0.9x1.2 stud stickouts
+*7.2 stud jumps
+*Kill bricks that deal 17.5 damage
+*4.4 stud wraps
+*1.55 stud squeeze
+*3.05 stud squeeze midair
+*Trap conveyers at 8 speed
+*3.15 stud gap with no jumping
+|-|
+Mid=
+__NOEDITSECTION__ 
+===<span style="color:#FFFF00">Mid</span> Tricky Obstacles===
+*1x1.25 stud stickouts
+*7.25 stud jumps
+*Kill bricks that deal 20 damage
+*4.5 stud wraps
+*1.5 stud squeeze
+*3 stud squeeze midair
+*Trap conveyers at 10 speed
+*3.2 stud gap with no jumping
+|-|
+High=
+__NOEDITSECTION__ 
+===<span style="color:#FF8000">High</span> Tricky Obstacles===
+*1.1x1.3 stud stickouts
+*7.3 stud jumps
+*Kill bricks that deal 22.5 damage
+*4.6 stud wraps
+*1.45 stud squeeze
+*2.95 stud squeeze midair
+*Trap conveyers at 12 speed
+*3.25 stud gap with no jumping
+|-|
+Peak=
+__NOEDITSECTION__ 
+===<span style="color:#FF0000">Peak</span> Tricky Obstacles===
+*1.2x1.35 stud stickouts
+*7.4 stud jumps
+*Kill bricks that deal 25 damage
+*4.7 stud wraps
+*2.7 stud squeeze
+*2.9 stud squeeze midair
+*Trap conveyers at 14 speed
+*3.3 stud gap with no jumping
+</tabber>
+
+== [[File:Newer Tricky.png|30px]] <span style="color:#E5320C">'''Tricky'''</span> - Towers ==
+
+===Towers in this difficulty===<!-- Creator's note: Add links to the towers when possible. -->
+<tabber>
+|-|
+Baseline Tricky=
+*ToVL <sub>(EToH)</sub>
+*ToUM <sub>(AToS)</sub>
+*ToGKD <sub>(EToH)</sub>
+*ToAE(M) <sub>(EToH)</sub>
+*ToPP <sub>(AToS)</sub>
+*PT <sub>(AToS)</sub>
+*ToF <sub>(EToH)</sub>
+*ToMI(M) <sub>(EToH)</sub>
+*ToVCS <sub>(AToS)</sub>
+*SoPaoM <sub>(AToS)</sub>
+*ToWER <sub>(EToH)</sub>
+*ToFT <sub>(AToS)</sub>
+*CoDS <sub>(EToH:XL)</sub>
+*ToUID <sub>(EToH)</sub>
+*ToGLA <sub>(EToH)</sub>
+*ToCCC <sub>(EToH)</sub>
+*ToPG <sub>(AToS)</sub>
+|-|
+Low Tricky=
+*ToVU <sub>(AToS)</sub>
+*TIPAT <sub>(EToH)</sub>
+*ToSF(M) <sub>(EToH)</sub>
+*SoFT <sub>(AToS)</sub>
+*ToYD(M) <sub>(AToS)</sub>
+*ToFD <sub>(EToH)</sub>
+*ToHM <sub>(AToS)</sub>
+*ToCaC <sub>(AToS)</sub>
+*ToD:O <sub>(AToS)</sub>
+*CoGG <sub>(EToH:XL)</sub>
+*SoST <sub>(EToH)</sub>
+*CoP <sub>(EToH:XL)</sub>
+|-|
+Mid Tricky=
+*SoGP <sub>(EToH)</sub>
+*ToEB(M) <sub>(AToS)</sub>
+*ToTM <sub>(EToH)</sub>
+*ToSV <sub>(EToH)</sub>
+*E(R) <sub>(EToH)</sub>
+*CoWER <sub>(EToH:XL)</sub>
+*ToOH <sub>(EToH)</sub>
+*ToBk <sub>(AToS)</sub>
+*ToCSE <sub>(AToS)</sub>
+*ToNA <sub>(AToS)</sub>
+*ToMIT <sub>(EToH)</sub>
+*ToP <sub>(EToH:XL)</sub>
+*ToTST <sub>(EToH)</sub>
+|-|
+High Tricky=
+*SoFF <sub>(EToH)</sub>
+*ToPP:C <sub>(AToS)</sub>
+*CoVM <sub>(EToH:XL)</sub>
+*ToX <sub>(EToH)</sub>
+*ToOSE(M) <sub>(EToH)</sub>
+*SoJT(M) <sub>(EToH)</sub>
+*SoLIQ <sub>(EToH)</sub>
+*SoDC <sub>(EToH)</sub>
+*ToZV <sub>(AToS)</sub>
+*ToHB(M) <sub>(AToS)</sub>
+*ToTM <sub>(AToS)</sub>
+*ToHO <sub>(AToS)</sub>
+*ToVT <sub>(EToH)</sub>
+*ToZG(M) <sub>(EToH)</sub>
+|-|
+Peak Tricky=
+*ToNBA <sub>(EToH)</sub>
+*ToMH <sub>(EToH)</sub>
+*ToSSSS <sub>(EToH)</sub>
+*ToE <sub>(EToH)</sub>
+*SoAU <sub>(EToH)</sub>
+*SoBV(M) <sub>(EToH)</sub>
+*SoUR <sub>(EToH)</sub>
+*ToEEE(M) <sub>(EToH)</sub>
+*RT <sub>(EToH)</sub>
+*ToCT <sub>(EToH)</sub>
+*CoSaS <sub>(EToH:XL) (unreleased)</sub>
+</tabber>
+
+===Towers that include this difficulty===
+<tabber>
+|-|
+Towers with less than 100 floors=
+*OoEDA - [[Obelisk of Endless Difficulty Amplifying]]
+*OoNCaIID - [[Obelisk of Normal Custom and Impossible Incremental Difficulties]]
+|-|
+Towers with more than 100 floors=
+*POoaSODC - [[Polar Opposite of a Skipping Outdated Difficulty Charts]]
+*GCoHDA - [[Great Citadel of Hectic Difficulty Ascension]]
+*GCoHD - [[Great Citadel of Hellish Difficulties]]
+*GCoSDC - [[Great Citadel of Sub-Difficulty Chart]]
+*GCoBID - [[Great Citadel of Beyond Impossible Difficulties]]
+*GCoTEDC - [[Great Citadel of TooExtreme Difficulty Chart]]
+*GCoWTHD - [[Great Citadel of Way Too Hard Difficulties]]
+*GCoYAGDC - [[Great Citadel of Yet Another Great Difficulty Chart]]
+*MoBIDC - [[Monolith of Beyond Immeasurable Difficulty Chart]]
+*MoDDA - [[Monolith of Deadly Difficulties Approaching]]
+*MoDDC - [[Monolith of Deadly Difficulty Cluster]]
+*GOoLAoTDINO - [[Great Obelisk of Literally All of the Difficulties in the Omniverse]]
+*GMoEED - [[Great Monolith of Every EJT Difficulty]]
+*TIDC - [[The Infinite Difficulty Chart]]
+</tabber>
+
+== [[File:Newer Tricky.png|30px]] <span style="color:#E5320C">'''Tricky'''</span> - History ==
+To view the history of this difficulty, view the linked [[/History/]] page.
+
+== [[File:Newer Tricky.png|30px]] <span style="color:#E5320C">'''Tricky'''</span> - Gallery ==
+<gallery>
+File:Newer Tricky.png|Tricky’s new icon.
+File:New Tricky.png|The alternative icon for Tricky.
+File:Tricky.png|Tricky’s old icon.
+File:Tricky .png|KLRO's Impression of a redesign of the Tricky icon. It resembles the character Tricky from Madness Combat.
+</gallery>
+
+''View the full gallery, which includes images of Tricky's appearances in towers and other games [[/Gallery|here.]]''
+
+== [[File:Newer Tricky.png|30px]] <span style="color:#E5320C">'''Tricky'''</span> - Trivia ==
+''<span style="opacity: 50%"><span>''
+*In [[ENoSaPSD]], the difficulty's floor is an '''<span style="color:#61832E">olive drab</span>''' color, which represents [[w:c:fridaynightfunking:Tricky the Clown|Tricky]] from Madness Combat''.'' The connection between this character and this difficulty is that they share the same name.
+*In Difficulty Chart Fling, Tricky's Difficulty Number is 62 (as of 02/12/21).
+*This is the easiest difficulty made by AlephWasTaken. This is also the oldest difficulty made by AlephWasTaken that still exists.
+*The creator of this difficulty celebrated their 1000th edit with this page!
+*In the past, Tricky held the title of the most difficult Class 1 ranking but was surpassed by [[File:Class 1 Encore.png|30px]] [[User blog:EpicTheGamer2014/Easeful|Easeful]] and [[File:Jolliness New New.png|30px]] [[Onerous]]. However, Easeful was moved to a blogpost in TDEx, and Classes 1 and 2 were merged which gave Onerous a slightly higher place in the new class amalgam.
+*Back when Tricky was still being developed, at one point its difficulty range went from between Low {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|Hard]] and Low {{Class2Difficulties|Challenging}} [[w:c:jtoh:Challenging|Challenging]]. This was later changed because it didn't feel right to the nature of sub-difficulties such as Tricky.
+
+== [[File:Newer Tricky.png|30px]] <span style="color:#E5320C">'''Tricky'''</span> - Continuing From This Point ==
+You got past ''all'' of my tricks!? That wasn't supposed to happen, you were supposed to be stumped on them for all eternity! *sigh* Well, all I can say is good job. Try to attempt some [[File:Jolliness New New.png|30px]] [[Onerous]] or {{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]] towers now. You're still pretty far from Class 3, but hey, at least you finished all of the 'Noob-Crushing' difficulties! 
+
+<font size="5"></font><center><font size="5">« {{Class1Difficulties|Hard|30px}} [[w:c:jtoh:Hard|Hard]] | [[File:Newer  Tricky.png|frameless|40x40px]] '''<big>Tricky</big>''' | {{Class2Difficulties|Difficult|30px}} [[w:c:jtoh:Difficult|Difficult]] »</font></center>
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Possible]]
+[[Category:Sub-Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Official]]
+[[Category:Official Difficulty]]
+[[Category:Class 2]]
+[[Category:Tricky]]

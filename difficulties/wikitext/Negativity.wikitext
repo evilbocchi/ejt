@@ -1,0 +1,125 @@
+{{DISPLAYTITLE:<span id="negativity">Negativity</span>}}
+{{NegativityTheme}}{{NoticeScrollboxNew|Notices={{Unloseable Difficulty}}
+{{Large Page}}
+{{Classic}}}}{{ArticleTab|changebg=purple}}
+----
+{{NewDifficultyInfobox
+|title1=<big><big><span id="negativity">Negativity</span></big></big>
+|gradient=purple,black
+|image1=Negativity.png
+|class=[[:Category:Class Negative|<span style="text-shadow: 0 0 4px #812282; color:#000000; font-family:Rubik"><b>Baseline Class Negative]]
+|rating=-(FOOT<sup>10</sup>(10<sup>100</sup>))
+|type=[[:Category:Difficulties|Unlosable Difficulty]]
+|previous=
+|next=[[File:Unimpossible New.png|30px]] [[Unimpossible]]
+[[File:Cash.png|30px|link=[[Excavation_Chain/Cash-Rebirth]]]] [[Excavation_Chain/Cash-Rebirth | <span style="background:linear-gradient(90deg,#6cf337,#338d24); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Cash'''</span>]] (sub difficulty) (Excavation chain)
+|alt_previous=
+|alt_next=[[File:TheLowerGapRemake.png|40px|link=[[The Lower Gap]]]] [[The Lower Gap]]
+|class_range=
+|decal_id=*Lighter: 11996465007
+*Darker: 10523070008
+*Newest: 15660376820
+|creator(s)=[[File:vira.png|30px]] [[User:viranenthusiast|vira]]<ref>Originally by [[User:Rarezites|Rarezites]].</ref>
+|short_name=N
+|previous_class(es)=Class Lower Negative
+|date_added=17/07/2022|caption1=Does anybody even remember N/A?}}
+==Overview==
+[[File:Negativity.png|30px]] [[Negativity|<span id="negativity">Negativity</span>]] is the 3rd difficulty of the [[Main Difficulty Chart]], situated within [[:Category:Class Negative|Baseline Class Negative]]. Due to this, it is considered unlosable, and, even moreso, inconceivably easy. The easiness of this difficulty is unable to be properly expressed within text, and any definition listed is never a true summary of how easy a difficulty is. It also has a sub difficulty named [[File:Cash.png|30x30px]] <span style="background:linear-gradient(90deg,#6cf337,#338d24); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Excavation Chain/Cash-Rebirth#Cash|Cash]]'''</span>, which is a part of the [[Excavation Chain/Cash-Rebirth|pre excavation chain]].<blockquote>However, for the sake of any Difficulty Chart Towers, this difficulty should just be skipped practicality.</blockquote>This is (technically) considered to be the antipode of  [[File:Penultimate.png|30x30px]][[Penultimate]]. It it so easy that it is impossible to be compared with any other difficulties. No, [[File:Unimpossible New.png|30x30px]] [[Unimpossible]] wouldn't even be close. The truth is both the placement of [[File:Negativity.png|30px]] [[Negativity|<span id="negativity">Negativity</span>]] and [[File:Penultimate.png|30x30px]][[Penultimate]] is so extreme that anything between them are insufficient in comparison, and yet is nothing compared to the placement of [[File:Tfird.png|30x30px]] [[The First Difficulty|the start]] and [[File:Final.png|30x30px]] [[The Final Difficulty.|the end]].
+== Placement ==
+
+=== '''Baseline Class Negative''' ===
+
+* [[File:Tfird.png|50x50px]] [[The First Difficulty]] (-∞)
+* [[File:TheLowerGapRemake.png|40x40px]] [[The Lower Gap]] (-∞ to 115)
+* [[File:Negativity.png|30x30px]] Negativity (-Rayo(10<sup>100</sup>)) '''You are... definitely not here anymore.'''
+
+=== '''Low Class Negative''' ===
+
+* [[File:Unimpossible New.png|30x30px]] [[Unimpossible]] (-Rayo(10<sup>100</sup>))
+* [[File:FPnew (1).webp|30x30px]] [[Friendliness]] (-TREE(3))
+* [[File:TRUEEASE.jpg|30x30px]] [[True Ease]] (-G<sub>64</sub>)
+
+== Icon Representation ==
+{| class="fandom-table"
+|+
+!Icon
+!Version
+!Description
+!Date (MM/DD/YY)
+|-
+|[[File:Negativity.png|180x180px]]
+|Current
+|The current icon is almost identical than the old one except the N is upscaled and is hue shifted. It is also much lighter which makes it easier to see in-game.
+|8/20/22 - Today
+|-
+|[[File:NegativityOld.webp|180x180px]]
+|Old
+|This icon has a black background with a bluish-purple N in the middle. Extremely simple, except rather hard to see on a portal or image. This is most definitely inspired by [[Unimpossible]]'s old icon.
+|7/19/22 - 8/20/22
+|-
+|[[File:NegativityUnnofficialUpscaled.webp|180x180px]]
+|Unnofficial
+|This icon was only used for a single day. It features the N glowing purple and pink colours as well as it having a neon effect inside. The font colour ranges from light pink to white. In the background, there is a pillar-like shape with a dark purple tone with some humps along the sides. The rest of the background is a slightly lighter purple. Overall, a rather complicated one.
+|4/5/23 - 4/5/23
+|}
+
+==Obstacles==
+Any sort of obstacle or roadblock cannot be figured out within such a difficulty as [[File:Negativity.png|30x30px]] <span id="negativity">Negativity</span> due to the sheer instantaneousness of the difficulty (As well as the whole class but that is a different matter entirely). In practicality, this is just skipped, and is never met. There are theories, however. 
+
+Examples are: 
+
+* Having an existence rank of  א-fixed point to  א<sub><math>N</math></sub>.
+* Waiting the amount of time that it takes for an omnipotent being to coendure up the concept of waiting.
+* Not being an irrational dimension object.
+
+==Towers in this Difficulty==
+''Note: This difficulty is unbuildable, so the towers listed below are inaccurate and purely fictional.''
+<tabber>
+|-|
+Towers=
+*AoWNA - [[Air of Walking Negative Amounts]]
+*ToRN - [[Tower of Redacted Negativity]]
+*IIITKIIaTONBIISETIDEE - [[It Is Impossible To Know If Its a Tower Or Not Because It Is So Easy That It Doesnt Even Exist]]
+*GCoN - [https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Great Citadel of Nonexistence]
+*SoDNN/SRoDNN - [[Spire of Decoding Nonsensical Negativeness]]
+*NT - [https://jtohs-joke-towers.fandom.com/wiki/None_Tower None Tower] (Fictional)
+*GCoSC - [[Great Citadel of Symbolic Chaos]] (Fictional)
+*ToNEE - [[Tower of Not Even Existing]] (Fictional)
+|-|
+DCTs=
+*MoDDA - [[File:Deadly Tubular Death Icon.gif|24px]] [[Monolith of Deadly Difficulties Approaching]] ''(Floor 3)''
+</tabber>
+==Trivia ==  
+*This was formerly planned to be [[User:YataDev|YataDev]]’s difficulty, however the original creator [[User:Rarezites|Rarezites]] made it before they could.  
+**Upon further elaboration on this statement, YataDev had originally deleted the difficulty, but then revived it for unknown reasons.
+*This was one of the two replacements for [[File:Na.png|30px]] [[User blog:YourNuglyguy/N/A|N/A]], which was requested to be deleted by the owner. 
+**The other replacement was [[File:Ifinitely-Winsome.png|30px]] [[Ifinity]], however was deleted as nobody liked it as a replacement, however was revived twice.  
+***The first time was for unknown reasons, however the bureaucrat at the time (YourNuglyguy) permitted its stay along with Negativity, until CN’s simplification and the simultaneous changing of class varieties.
+*** The second time was due to Class Negative’s split allowing for more difficulties in Lower CN, and the idea to revive the formerly deleted Ifinity came to light.
+*There were two former proposed revamps for this difficulty. 
+**[[User:AlsoOmori|AlsoOmori]] wanted to revamp this originally but then the creator didn't like it so they reverted it, and there ended up being an edit war. Eventually it resulted in the revamps full reversal.
+**The other time was when [[User:Althathebest|Althathebest]] revamped it, however the creator (now [[User:Viranenthusiast|vira]] reversed the revamp due to him not liking how unreadable and glowy the page was. This also caused the creator to revamp the difficulty to its current state.
+**[[User:AlsoOmori|AlsoOmori]]’s revamp can be viewed [https://jtohs-joke-towers.fandom.com/wiki/Negativity?diff=172058&oldid=172055 here], while [[User:Althathebest|Althathebest]]’s revamp can be viewed [https://jtohs-joke-towers.fandom.com/wiki/Negativity?diff=300011&oldid=299639 here]. 
+
+==Gallery==
+<center><gallery>
+File:Negativity.png|Lighter icon (2022)
+File:NegativityOld.webp|Darker icon (2022)
+</gallery></center>
+For more images of this difficulty, click [[/Gallery|here]].
+
+==Continuing on from This Point==
+You have two options - well actually no because you have already have complete both.
+
+#Go to [[File:Unimpossible New.png|30x30px]][[Unimpossible]], which is the first difficulty that requires you to logically have an existence rank.
+#Go to [[File:Cash.png|30x30px]] <span style="background:linear-gradient(90deg,#6cf337,#338d24); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Excavation Chain/Cash-Rebirth#Cash|Cash]]'''</span>, one of the difficulties of the [[Excavation Chain/Cash-Rebirth|pre-excavation chain]], also being the sub difficulty of  [[File:Negativity.png|30x30px]][[Negativity|<span id="negativity">Negativity</span>]]. The difficulty is just as easy as this one, which the obstacles are partically unexplainable.
+
+===Credits=== 
+*Credits to the Backrooms Wiki for the CSS used on this page.
+*Credits to [[User:Rarezites|Rarezites]] for creating the original difficulty.
+{{DifficultiesNavbox}}
+[[Category:Class Negative]]
+[[Category:Unlosable Difficulties]]
+[[Category:Unbuildable]]
+===References===
+[[Category:Unloseable Difficulties]]

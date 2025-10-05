@@ -1,0 +1,109 @@
+{{DISPLAYTITLE:<span id="placid">Placid</span>}}
+{{CSS|content=<nowiki>
+#placid {
+    font-family: Lexend Deca;
+    font-weight: 400;
+    color: #808080;
+}
+#enableshiftlock {
+    font-family: Gabarito;
+    font-weight: 400;
+    color: #006D5B;
+}
+
+.theme-fandomdesktop-dark {
+    --theme-link-color: #808080;
+}
+.theme-fandomdesktop-dark {
+    --theme-link-color: #808080;
+}
+
+</nowiki>}}
+{{Humanly Possible}}
+<div style="padding:1em;border-radius: 25px; background: linear-gradient(to bottom right, black, black);-webkit-text-fill-color: block;-webkit">
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:{{{File|PlacidBG.png}}}|{{{Size|2500px}}}]]</div>
+<p style="margin:2em"></p>
+{{JToHW Quote
+|text=happi face :D
+|quoter=Narrator}}
+<p style="margin:2em"></p>
+==Description==
+{{NewDifficultyInfobox
+|title1={{PAGENAME}}
+|image1=PLACID.png
+|class=[[:Category:Class 1|Class 1]]
+|rating=-14
+|previous={{Class0Difficulties|Joyful|25px}} [[Joyful|<small>Joyful</small>]]
+|next=[[File:Press a Key.png|25px|link=Press a Key]] [[Press a Key|Press A Key]]
+|alt_previous={{Class0Difficulties|Do Something|25px}} [[Do Something]] (Sub-Difficulty)
+|alt_next=[[File:Enable Shift Lock difficulty.png|25px|link=[User blog:Bruhshard1/Enable Shift Lock]] [[User blog:Bruhshard1/Enable Shift Lock|<span id="enableshiftlock">Enable Shift Lock</span>]] (Sub-Difficulty)
+|type=[[:Category:Difficulties|Normal]]
+|class_range=Bottom
+|difficulty_range=None
+|decal_id=*N/A (Current)
+*N/A (Old)
+*N/A (Unused)
+|creator(s)=[[User:Glitchzeri|Glitchzeri]]
+|date_added=09/07/2022 (EET Page Creation)
+10/09/2022 (EJT Transferral)
+|date_removed=09/07/2022
+|removal_reason=No more JET difficulties allowed.
+|original_creator(s)=[[User:Viranenthusiast|vira]]}}
+[[File:PLACID.png|25px]] <span id="placid">Placid</span> is a [[:Category:Class 1|Class 1]] difficulty positioned above the legendary difficulty {{Class0Difficulties|Joyful|25px}} [[Joyful|<small>Joyful</small>]] and below the EET difficulty [[File:Press a Key.png|25px|link=Press a Key]] [[Press a Key|Press A Key]].<ref>Positioned above {{Class0Difficulties|Do Something|25px}} [[Do Something]] and below [[File:Enable Shift Lock difficulty.png|25px|link=[User blog:Bruhshard1/Enable Shift Lock]] [[User blog:Bruhshard1/Enable Shift Lock|<span id="enableshiftlock">Enable Shift Lock</span>]] when counting sub-difficulties.</ref> The important distinction of this difficulty from the surrounding difficulties is that it involves ''tapping'' a key instead of ''holding'' a key. It is also renowned for originating from the [[w:c:jtohs-easiest-towers|EToH’s Easiest Towers]] wiki, with it having been formerly deleted from there.<ref>Approximately two months later, it was readded to EJT with [[User:Ferdinandloveslegos|Ferdinandloveslegos]] permission.</ref>
+==Icon Representation==
+{{IconRepresentation
+|difficulty=Placid
+|color=grey
+|title=Current
+|image=[[File:PLACID.png|100px]]
+|description=The icon is represented by a 2x2 white and grey checkerboard, with a white :D emoticon in the middle, featuring a thick outline in black.
+|old_color=grey
+|old_title=Old
+|old_image=[[File:Placid (Old).png|175px]]
+|old_description=This icon is generally a less refined version of the current icon. The background is a simple grey color, with a white splotch in the top portion of the icon. There is a white :D emoticon in the middle, however the outline is thinner and grey instead of black. The emoticon is also rotated.
+|alt_color=skyblue
+|alt_title=Unused
+|alt_image=[[File:Placid Revamp.jpeg|160px]]
+|alt_description=This icon is far more complicated than the others. The background is colored light blue, with slightly darker splotches in the top and bottom parts of the icon. In the top right is a sun, with a cloud below it. In the middle is a vertical ^_^ emoticon, with the mouth curved into a smile.}}
+==Obstacles==
+Due to the simplicity in obstacles there will be no spectrum provided.
+*A simple key tap that can be in any direction.
+*A simple key tap that must be in a specific direction.
+==Towers in this difficulty==
+<tabber>
+Non-Fictional=
+*SoIM - [[Steeple of Input Minimality]]
+*SoAS/SHoAS - [[Shower of Actual Simplicity]]
+*ToDF - [https://www.roblox.com/games/116349744139207/Tower-of-Difficulty-Fling Tower of Difficulty Fling]
+|-|
+Fictional=
+===Towers in this difficulty===
+Make sure when adding a fictional tower that the name makes sense.
+*ToAOS - [[Tower of Auto One Star]] 
+*ToDS - '''Tower of Doubtful Simplicity'''
+*SoPR - '''Steeple of Placid Rewardability'''
+|-|
+With this difficulty=
+===Towers with this difficulty===
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Monolith of Every EJT Difficulty]]
+</tabber>
+==Trivia==
+*Towers of this difficulty should ideally feature obstacles more unique than the provided set while still keeping it at the general level of easiness.
+*Some towers with this difficulty opt to do something similar to [[Walkthrough]], where it is SC+ gameplay that instead is just conveyors.
+*On the 4th April 2025, approximately 937 days after <span id="placid">Placid</span>’s initial creation, a revamp was developed for the difficulty. 
+==Gallery==
+<center><gallery>
+PLACID.png|<span id="placid">Placid</span>’s current icon.
+Placid (Old).png|<span id="placid">Placid</span>'s old icon.
+Placid Revamp.jpeg|<span id="placid">Placid</span>’s unused icon.
+</gallery></center>
+==Continuing on from this point==
+After completing <span id="placid">Placid</span>, following the [[Main Difficulty Chart]], the player would move onto [[File:Press a Key.png|25px|link=Press a Key]] [[Press a Key|Press A Key]]. However, following the [[Community Difficulty Chart]], the player would ideally move onto [[File:Enable Shift Lock difficulty.png|25px|link=[User blog:Bruhshard1/Enable Shift Lock]] [[User blog:Bruhshard1/Enable Shift Lock|<span id="enableshiftlock">Enable Shift Lock</span>]].
+===Credits===
+*Credits to [[User:AmazingKeller|AmazingKeller]] for the background.
+{{DifficultiesNavbox}}
+===References===
+[[Category:Difficulties]]
+[[Category:Class 1]]
+[[Category:Possible]]
+[[Category:Starter Zone]]

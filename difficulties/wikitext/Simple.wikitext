@@ -1,0 +1,68 @@
+{{DISPLAYTITLE:<span id="simple">'''Simple'''</span>}}
+{{CSS|content=<nowiki>
+#simple {
+    font-family: Rubik;
+    font-weight: 400;
+    color: forestgreen;
+}
+</nowiki>}}
+{{Humanly Possible}}
+{{Classic}}
+==What is [[File:Simple.png|30x30px]] <span id="simple">'''Simple'''</span>?==
+{{NewDifficultyInfobox
+|title1={{PAGENAME}}
+|image1=Simple.png
+|type=[[:Category:Sub-Difficulties|Sub-Difficulty]]
+|caption1=A simple icon, which correlates to the name.
+|class=[[:Category:Class 2|Class 2]]
+|rating=0.75
+|previous={{Class1Difficulties|Effortless|25px}} [[w:c:jtoh:Effortless|Effortless]]
+|next={{Class1Difficulties|Easy|25px}} [[w:c:jtoh:Easy|Easy]]
+|alt_previous=[[File:Playgrounddif.png|25px|link=Playground]] [[Playground]] (Sub-Difficulty)
+|alt_next=-
+|class_range=[[:Category:Class 2|Bottom Class 2]]
+|difficulty_range=Low to High
+|decal_id=[https://roblox.com/library/13982806786/Simple 13982806786]
+|main_difficulty={{Class1Difficulties|Effortless|25px}} [[w:c:jtoh:Effortless|Effortless]]
+|creator(s)=*[[User:JustAnotherKidLmao|JustAnotherKidLmao]]
+**[[User:Viranenthusiast|Viranenthusiast]] (Revamper)
+|date_added=17/11/202
+|revamp_date=9th April 2025}}
+[[File:Simple.png|25px]] <span id="simple">'''Simple'''</span> is a very straightforward difficulty that is located in [[:Category:Class 2|Bottom Class 2]]. Most players will have almost no trouble travelling through this difficulty. It is located between {{Class1Difficulties|Effortless|25px}} [[w:c:jtoh:Effortless|Effortless]] (or [[File:Playgrounddif.png|25px|link=Playground]] [[Playground]]) and {{Class1Difficulties|Easy|25px}} [[w:c:jtoh:Easy|Easy]]. This difficulty is the final sub difficulty of Effortless as well. Since it takes up about the '''high''' spectrum of its parent difficulty, it is recommend to do beginner towers in other EToH fan games as many are around this difficulty.                        
+==Icon Representation==
+<center>[[File:Simple.png|60x60px]]</center>
+----
+[[File:Simple.png|25px]] <span id="simple">'''Simple'''</span>s icon is, well, simple. All there really is here is a 2x2 checkerboard pattern. The top right corner and bottom left corners are a bright shade of green, while the other two corners are a darker shade of green.
+==Obstacles==
+As this is a sub-difficulty of an already simple difficulty, there will not be a spectrum.
+*4.5 stud jump (C)
+*4.3 stud jump (UC)
+*0.975 stud wraparound (C)
+*0.925 stud wraparound (UC)
+
+==Towers in this difficulty==
+<tabber>
+Non-Fictional=
+===Non-Fictional===
+*RoDAT - [[Room of Do All Tasks]] 
+*SoS - [[Steeple of Straightforwardness]]
+|-|
+Fictional=
+===Fictional=== 
+*ToES(F) - Tower of Extreme Simplicity
+*ToSaCT(F) - Tower of Simple and Classical Trials
+*ToAST:N(F) - Tower of Annoyingly Simple Trials: Nerf
+*CoER(F) - Citadel of Effortless Relaxation 
+|-|
+Other=
+===Other Appearances=== 
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] MoDDA - [[Monolith of Deadly Difficulties Approaching]] (Floor 40.1)
+</tabber>
+==Trivia==
+*This page was initially revamped by [[User:Viranenthusiast|vira]] as it had used outdated templates.
+**This was their first difficulty revamp. Since then, it has received 2 further revamps to improve the quality of the article.
+==Continuing From This Point==
+After this, it is time to move onto the first EToH difficulty, {{Class1Difficulties|Easy|25px}} [[w:c:jtoh:Easy|Easy]]. Good luck, as the real adventure starts here.
+{{DifficultiesNavbox}}
+[[Category:Sub-Difficulties]]
+[[Category:Class 2]]

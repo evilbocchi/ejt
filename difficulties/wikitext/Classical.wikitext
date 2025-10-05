@@ -1,0 +1,46 @@
+{{CSS|content=<nowiki>
+#toc {
+display: inline-block !important;
+}
+.mw-editsection {
+    display: inline-block !important;
+}
+</nowiki>}}
+
+<big><big><big><big><big>THE START IS MEANT TO BE LOW QUALITY!! THERE WILL BE AN ARTICLE TAB WITH A HIGH QUALITY VERSION!!!!!!</big></big></big></big></big>
+{{ArticleTab
+|blankgal=
+|custom=Classical: High Quality Version
+}}{{Humanly Possible}}
+
+==What is this difficulty?==
+
+{{Difficulty_Template|title1=Classical|caption1=Good Job!|type/class=Class 2|previous_difficulty=[[Madness]]|next_difficulty=w:c:jtoh:Extreme|Extreme|previous_name=none|original_name=not|why_was_it_removed=lol never|date_removal=N/A|date_it_was_added=May 27 2022- I mean 2020|image1=[[File:Screenshot 2022-05-27 1.25.17 PM.png|400px]]}}
+
+'''Classical''' is a Class 3 sub-difficulty. It is one of the first dficulties of low class 2 . it is harder than [[Madness]] and easier than '''[[w:c:jtoh:Extreme|Extreme]]'''. this difficulty is very hard to do and will take a lot of attempts. yOyu will fail if you are noob.
+
+So the icon is blue background and has text saying "die".
+
+==Obstacles in this Difficulty==
+
+* 12.48 stud jump
+* 10.825 stud wrap
+* 3.9 stud stickouts.
+* Ladder and truss jumps
+* Wallhops
+
+==Trivia==
+* This is nnear human impossible
+* This is the first difficulty that pretends to be old.
+
+==Continuing from this Point==
+
+Wow you're good!! Move onto '''[w:c:jtoh:Extreme|Extreme]]'''
+
+Good version of this page is out
+
+[[Category:Difficulties]]
+[[Category:Class 3]]
+[[Category:Humanly Possible]]
+[[Category:Unofficial]]
+[[Category:Sub-Difficulties]]

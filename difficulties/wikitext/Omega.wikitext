@@ -1,0 +1,33 @@
+__NOTOC__
+{{NewDifficultyInfobox|image1 =[[File:squareomega.gif]]|previous = {{Unimaginable}}|next = [[Aleph-Null|<span style="color:#808080; text-shadow:0 0 3px #000">'''Aleph-Null'''</span>]]|rating = 23|title1 = Omega|caption1 = Omega's current portal color/effect.|general_number=}}
+
+''Not to be confused with the portal symbol for [[w:c:jtoh:Tower Rush|Tower Rushes]].  That symbol does not denote difficulty.''
+
+== What is {{RainbowText|Omega}}?==
+{{RainbowText|Omega}} (sometimes stylized as OMEGA) is a difficulty a lot harder than {{Unimaginable}}, but is easier than [[Aleph-Null|<span style="color:#808080; text-shadow:0 0 3px #000">'''Aleph-Null'''</span>]]. Omega is represented by a rainbow color scheme. All obstacles in this difficulty are extremely obscure, as with any difficulty above [[TARTARUS|<span style="color:#c2dff1">'''TARTARUS'''</span>]]. This is also considered by the JHT community to be the first "JHT SC" in the chart, that role taking up the Omega+ difficulties.
+
+Towers in this difficulty need to take around months to make, as it’s hard to not only calculate individual jumps extensively, but to even think of new ones. Verifying a tower here though is on a whole new level, taking many months to even years. Some also consider this the first physically impossible difficulty, although this attribution is debated in the community, mostly alongside [[Malicious]] and Supreme (or what comes after them, specifically), This is the difficulty of TUM.
+
+==Towers of the Omega difficulty==
+
+*MCoVR - {{RainbowText|[[Mega Citadel of Void Rush]]}}
+*OS - {{RainbowText|[[Omega Skies]]}}
+*ToP - {{RainbowText|[[Tower of Purity]]}}
+*ToEE - {{RainbowText|[[Tower of Externalizing Emotions]]}}
+*ToTT - {{RainbowText|[[Tower of Twisted Terror]]}}
+*TUM - {{RainbowText|The Ultrimate Monolouge (WIP)}}
+*ToWD - {{RainbowText|[[Tower of Wavy Demise]]}}
+*ToMATO - {{RainbowText|[[Tower of Making A Terrible Obstruction]]}} 
+*ToRAINBOW / ToR - {{RainbowText|[[ToRAINBOW]]}}
+
+==Trivia==  
+
+*This difficulty's name was based off of the frame and text at the beginning of Floor 22 of Citadel of Void.
+*This difficulty used to have 6 fanmade, unofficial sub difficulties. They were nearly identical, with the exception that they had a different Greek letter on it, and were meant to fill the difficulty gap between {{RainbowText|Omega}} and [[Immeasurable|<span style="color:#5c2525; text-shadow:0 0 4px #000">'''Immeasurable'''</span>]] before [[Aleph-Null|<span style="color:#808080; text-shadow:0 0 3px #000">'''Aleph-Null'''</span>]] was introduced.
+**These difficulties were named Omega-Alpha, Omega-Beta, Omega-Gamma, Omega-Delta, Omega-Epsilon, and Omega-Zeta.
+*The name of this difficulty was improperly changed from {{RainbowText|Omega}} to Mythical on December 18th, 2021, then changed back on March 24, 2022.
+*{{RainbowText|Omega}} was originally rejected by the community, but soon became an iconic difficulty in the wiki. 
+
+[[Category:Difficulties]]
+[[Category:Humanly impossible]]
+[[Category:Omega]]

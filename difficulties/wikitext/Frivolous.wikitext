@@ -1,0 +1,206 @@
+<div style="background-color:#23808D;margin:2em; padding:5px 10px; border:15px solid #10505A;border-radius: 10px">
+{{Scrollbox
+|Notices=
+{{Humanly Possible}}
+{{Large Page}}
+}}
+
+{{NewDifficultyInfobox
+|title1=<span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span>
+|image1=Frivolous.jpg
+|caption1=Another automatic difficulty, you'll get through this easily.
+|type=
+*''Unofficial''
+*''Humanly Possible''
+|rating=-18
+|class=Class 0 | Automatic
+|previous=[[File:Unlosable.png|30px]] [[Unlosable]]
+|next=[[File:AutomaticNew.png|30px]] [[Automatic]]
+|alt_previous=[[File:ShatteredBabass.png|25px]] [[Shattered Babass]]
+|alt_next=[[File:Vibeness.png|25px]] [[Vibeness]]
+|class_range=Peak
+|difficulty_range=Baseline - Peak
+|creator(s)=[[User:TotallyNotAMeme00|TotallyNotAMeme00]]|sub_difficulty(ies)=[[File:Vibeness.png|25px]] [[Vibeness]]|decal_id=17487417765}}
+
+==Description - [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span>==
+[[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span> is a Class 0 difficulty, specifically in the Peak range of the class. It is the antepenultimate difficulty of it's class, in-between [[File:Unlosable.png|30px]] [[Unlosable]], one of the first difficulties to utilize conveyors (alternatively, [[File:ShatteredBabass.png|25px]] [[Shattered Babass]]) and [[File:AutomaticNew.png|30px]] [[Automatic]], the first JET difficulty (alternatively, [[File:Vibeness.png|25px]] [[Vibeness]]).
+
+[[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span> is classified as '''humanly possible''', which indicates that it is beatable without the usage of any assists, such as coils or a TAS. It also is one of the easiest possible difficulties. In fact, it is easy enough that all humans should be able to successfully complete it without interacting with their character.
+
+[[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span> is completely automated, requiring zero input from the player. Floors of [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span> difficulty are typically longer than those of [[File:Unlosable.png|30px]] [[Unlosable]]. However, the usage of conveyors is more varied than in [[File:Unlosable.png|30px]] [[Unlosable]], typically using contraptions to move the player, such as waiting for a push-box to go through a conveyor maze to activate a conveyor underneath you. However, there are still relatively simplistic sections of the difficulty, being reminiscent of [[File:Unlosable.png|30px]] [[Unlosable]]. However, unlike [[File:Unlosable.png|30px]] [[Unlosable]], [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span> is possible to fail.
+
+The rating of [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span> is -18, signifying that it is extremely easy. In tiers, [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span> has a rating of around -0.1. However, in [[Metris|Kol Metris]], it would have a rating of around |0.95|.
+
+===Appearances===
+====Towers within the difficulty====
+*None yet.
+
+====Towers containing the difficulty====
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]].
+
+==Placement - [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Placement'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+
+!Difficulty Rating
+|-
+| colspan="4" style="background:#867438;color:white" |'''Class 0 - High'''
+|-
+|[[File:Walkthrough.png|50px]]
+|[[Walkthrough]]
+|Normal 
+| -21
+|-
+|[[File:Automatic Joyful Remade.png|50px]]
+|[[Automatic Joyful]]
+|Normal
+| -20
+|-
+|[[File:Unlosable.png|50px]]
+|[[Unlosable]]
+|Normal
+| -19
+|-
+|[[File:Roll Difficulty.png|50px]]
+|[[Unlosable/Old#Roll|Roll]]
+|Variation/Sub-Difficulty
+| -19
+|-
+|[[File:Mazeophobia.jpg|50px]]
+|[[Unlosable/Old#Mazeophobia|Mazeophobia]]
+|Variation/Sub-Difficulty
+| -19
+|-
+|[[File:ShatteredBabass.png|50px]]
+|[[Shattered Babass]]
+|Chain/Sub-Difficulty
+| -18.5
+|-
+| colspan="4" style="background:#7A493D;color:white" |'''Class 0 - Peak'''
+|-
+|[[File:Frivolous.jpg|50px]]
+|[[Frivolous]]
+|Normal 
+| -18
+|-
+|[[File:Vibeness.png|50px]]
+|'''[[Vibeness]]'''
+|Sub-Difficulty
+| -17.5
+|-
+|[[File:AutomaticDiffIcon.png|50px]]
+|[[Automatic]]
+|Normal
+| -17
+|-
+|[[File:Spontaneous.png|75px]]
+|[[Spontaneous]]
+|Class Finale
+|'''<big>-16</big>'''
+|-
+| colspan="4" style="background:#629592;color:white" |'''Class 1 - Baseline'''
+|-
+|[[File:JoyfulDiffIcon.png|100px]]
+|<big>[[Joyful]]</big>
+|<big>2nd Legendary</big>
+| -15
+|-
+|[[File:Do Something 2.png|50px]]
+|[[Do Something]]
+|Sub-Difficulty
+| -14.5
+|-
+|[[File:PLACID.png|50px]]
+|[[Placid]]
+|Normal
+| -14
+|-
+|{{Class0Difficulties|Press a Key|50px}}
+|[[Press a Key]]
+|Normal
+| -13
+|-
+|[[File:2Tap2Move.webp|50px]]
+|[[Tap to Move]]
+|Sub-Difficulty
+| -12.66
+|-
+|[[File:WAS.png|50px]]
+|[[Walk A Slope]]
+|Sub-Difficulty
+| -12.33
+|-
+|}
+==Icon Representation - [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span>==
+
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Icon Representation Table 
+|-
+!'''Icon'''
+!'''Description'''
+|-
+| colspan="3" style="background: #66B6C6; color: white" |'''Current'''
+|-
+| style="background-color: #58949F;" |[[File:Frivolous.jpg|300x300px]]
+| style="background-color: #58949F;" |The icon for [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span> is depicted as a Kaomoji (specifically this one - o(^▽^)o) representing happiness on a pale blue background. The Kaomoji is slightly rotated, and the background has a subtle gradient. There is a noticeably darker border, with 2 darker squares in the top-left and bottom-right corners respectively. 
+|}
+
+==Obstacles - [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span>==
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Conveyors
+| style="background-color: #014500;" |<font color="white">Ride a conveyor for 150 studs</font>
+| style="background-color: #336000;" |<font color="white">Ride a conveyor for 160 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">Ride a conveyor for 170 studs</font>
+| style="background-color: #964a00;" |<font color="white">Ride a conveyor for 180 studs</font>
+| style="background-color: #5a0000;" |<font color="white">Ride a conveyor for 190 studs</font>
+|-
+|Elevators
+| style="background-color: #014500;" |<font color="white">Get launched 5,000 studs by an elevator</font>
+| style="background-color: #336000;" |<font color="white">Get launched 5,250 studs by an elevator</font>
+| style="background-color: #6d5c00;" |<font color="white">Get launched 5,500 studs by an elevator</font>
+| style="background-color: #964a00;" |<font color="white">Get launched 5,750 studs by an elevator</font>
+| style="background-color: #5a0000;" |<font color="white">Get launched 6,000 studs by an elevator</font>
+|-
+|Complex Obstacles
+| style="background-color: #014500;" |<font color="white">Wait for a push-box to go through a conveyor maze to activate a conveyor.</font>
+| style="background-color: #336000;" |<font color="white">Wait for a ball to roll down a rotated part to hit a button, causing you to get launched upwards into a button.</font>
+| style="background-color: #6d5c00;" |<font color="white">Ride a pushbox on a conveyor with a speed of 7, for 80 studs.</font>
+| style="background-color: #964a00;" |<font color="white">Do a short [[Nightmare]] difficulty obby, except it's a troll and it's all automated.</font>
+| style="background-color: #5a0000;" |<font color="white">All the previous complex obstacles combined into one.</font>
+|-
+|Waiting
+| style="background-color: #014500;" |Wait 250 seconds.
+| style="background-color: #336000;" |Wait 260 seconds.
+| style="background-color: #6d5c00;" |Wait 270 seconds.
+| style="background-color: #964a00;" |Wait 280 seconds.
+| style="background-color: #5a0000;" |Wait 290 seconds.
+|}
+
+==Trivia - [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span>==
+
+* This difficulty was originally intended for Peak Class 0 (old version). (as before TDEx happend)
+*This difficulty was inspired by:
+**[[Spontaneous]]
+**[[Console]]
+* This is also one of [[User:TotallyNotAMeme00|TotallyNotAMeme00]]'s best difficulties.
+
+==CFTP - [[File:Frivolous.jpg|30px]] <span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">[[Frivolous]]</span>==
+From here, you should go on to either [[File:AutomaticNew.png|30px]] [[Automatic]] or [[File:Vibeness.png|25px]] [[Vibeness]].
+
+{{DifficultiesNavbox}}
+[[Category:Class 0]]
+[[Category:Humanly Possible]]
+[[Category:Emoticon Difficulties]]
+[[Category:Starter Zone]]

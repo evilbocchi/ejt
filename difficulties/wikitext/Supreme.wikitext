@@ -1,0 +1,238 @@
+__NOTOC__{{Scrollbox|Notices='''Notices'''
+{{Legendary Difficulty}}
+{{TAS Impossible}}
+{{Classic}}
+{{Large Page}}
+}}
+{{DISPLAYTITLE:<span style="font-family: Campria"><span style="background:linear-gradient(90deg,Magenta,Blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #f00ff 0px 0.5px 6px;">'''Supreme'''</span>}}
+
+__NOTOC__
+__NOEDITSECTION__
+<font size="5"></font><center><font size="5"> « [[File:New Ultimaniac Icon.png|40px]]  [[Ultimaniac]] | <u>'''[[File:SquareSupreme.png|frameless|45x45px]]'''</u> <span><span><span style="background:linear-gradient(#0000ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">Supreme</span></span> </span></span> | [[File:Phi thing yes.png|40x40px]] [[Phi]] »</font></center>
+{{NewDifficultyInfobox
+|title1 = <span style="color: #6600ff;text-shadow:0 5px 10px blue;font-family: Campria"><big><big><big><big>Supreme</big></big></big></big></span>
+|image1 = <gallery>
+NewSquareSupreme.png | Official
+SquareSupreme.png | Borderless
+</gallery>
+|caption1 = A simplistic icon. Nothing too exotic, and nothing too dull.
+|class = [[:Category:Class 6|Class 6]] (MDC) or [[:Category:Class 9|Class 9]] (CDC)
+|previous =
+*[[File:New Ultimaniac Icon.png|25px]] [[Ultimaniac]]
+|next =
+*[[File:Phi thing yes.png|25px]] [[Phi]]
+|decal_id = [https://www.roblox.com/library/6387110491/Supreme-Difficulty 6387110491]
+|sub_difficulty(ies) =
+'''MDC'''
+*[[File:Phi thing yes.png|30px]] [[Phi]]
+*[[File:UNTHINKABLESquared.png|30px]] [[UNTHINKABLE]]
+'''CDC (Includes MDC)'''
+*[[File:Dupreme2.png|30px]] [[Dupreme]]
+*[[File:Yellow and green gradient.jpeg|30px]] [[Hypreme]]
+|original_name = Chaos
+|prior_previous =
+* D-E-A-T-H
+* [[File:Mommyfying — kopia.png|20x20px]] Mommying
+* We did a little trolling
+|prior_next =
+* [[File:The Absolute Limit BETTER.jpeg|20px]] The Absolute Limit
+* [[File:Gamer.jpg|20px]] [[Oblivion]]
+|official_music(s)=[https://www.youtube.com/watch?v=OjbjZcBctuM Camellia - GHOST]
+|type=[[:Category:Legendary Difficulty|Legendary]]
+|class_range=*Skyline (MDC)
+*Middle (CDC)
+|difficulty_range=
+|creator(s)=YourNuglyguy
+|original_class=[[:Category:Class 8|Class 8]]
+|alt_previous=
+|alt_next=
+|rating=*60 (MDC)
+*79 (CDC)|chain(s)=*[[Blog:Supreme/Supreme_Chain|Supreme Chain]]}}
+==What is [[File:NewSquareSupreme.png|frameless|40x40px]] <span><span><span style="background:linear-gradient(#0000ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">Supreme</span></span>?</span></span>==
+[[File:NewSquareSupreme.png|frameless|30x30px]] <span><span><span style="background:linear-gradient(#0000ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">'''Supreme'''</span></span> is a difficulty located in [[:Category:Class 6|Class 6]] (Class 9 in the [[Community Difficulty Chart]]) of [[:Category:Legendary Difficulty|Legendary]] status with the rating of 60 (or 79 in the CDC)</span></span>. [[File:NewSquareSupreme.png|frameless|30x30px]] <span><span><span style="background:linear-gradient(#0000ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">'''Supreme'''</span></span></span></span> succeeds [[File:New Ultimaniac Icon.png|30x30px]] [[Ultimaniac]]—the last difficulty of Peak Class 6, and precedes [[File:Phi thing yes.png|30x30px]] [[Phi]]—Supreme's first Sub-Difficulty. The same is for the Community Difficulty Chart, only with Supreme being located in Middle Class 9. It was the first legendary difficulty to be created, and the fourth legendary in terms of order on the difficulty chart. It is generally used as the last difficulty in a lot of difficulty chart towers because of its high status and importance to the difficulty chart.
+
+[[File:NewSquareSupreme.png|frameless|30x30px]] <span><span><span style="background:linear-gradient(#0000ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">'''Supreme'''</span></span></span></span> represents the limit of difficulty - the unknown limit, as there is no telling as to what the true limit of Roblox difficulty is, especially in the constantly ever-changing realm of Roblox physics and Tool Assisted Speedrun mechanics. There cannot be a Low-Mid-High range within Supreme. There can only be "Supreme" as it is the true, supreme limit to possible difficulty. The slightest buff will make this physically impossible.
+
+<div class="mw-collapsible mw-collapsed" style="overflow: hidden;">
+=== <small>Further Description</small> ===
+<div class="mw-collapsible-content">
+<div style="background: rgba(255,255,255,0.03); padding: 0.6em 1em; margin: 0.5em 0; border-radius: 6px; font-size: 95%; line-height: 1.6; float: none; clear: none;">
+However, we face an issue with this definition. Given a tower of ten floors is placed within Supreme; the tower can be extended – a tower of eleven floors of Supreme difficulty. This is a buff; the new tower is intrinsically harder than the previous. Therefore the ten-floor version <i>was not</i> the limit of difficulty, so it cannot be considered Supreme.
+
+To fix this issue, Supreme can be fully defined as <i>"the limit of difficulty within a domain"</i>. Meaning, building the hardest possible obstacles within the given area. If you are building a Supreme tower, then any buff to a single obstacle within the tower would render it impossible.
+</div>
+</div>
+</div>
+
+
+Any difficulties beyond are this are physically impossible. Obstacles of this difficulty must balance on the fine line of being the absolute most difficult while still being non-physically impossible. It is tough to keep such balance, meaning most portrayals of this difficulty are inaccurate.<div class="mw-collapsible mw-collapsed">
+==<small>Icon Representation</small>==
+<div class="mw-collapsible-content">
+The borderless icon is a linear gradient from pink (bottom) to blue (top). Due to this, the colors blend together and create some purple in the middle, with there being less pink than blue. 
+
+The new icon is also a linear gradient; but with a thick border that follows the same pink-to-blue gradient as the background, the border however is brighter and more saturated, in contrast to the darker, nearly-black gradient center. Other than that, It's fairly simple, and anyone can recognize the icon. 
+</div>
+</div>
+
+==Obstacle Section==
+
+As stated: any named supreme obstacles are not accurate, as the limit of Roblox difficulty is uncertain. But what is certain is the obstacles cannot be physically impossible. Below are inaccurate estimations.
+<!--one of you goobers fix the obstacles part of this page. read the explanation on supreme's range before doing so-->
+<tabber>
+|-|
+Baseline=
+===Baseline [[File:SquareSupreme.png|frameless|25x25px]] <span><span><span style="background:linear-gradient(#6600ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">Supreme</span></span>===
+* 18 stud jump (Climbable)
+* 17.8 stud jump (Unclimbable)
+* 17 stud wrap
+* 16 stud ice wrap
+* 15 stud Cylinder Wrap
+* 16.7 stud jump with a headhitter.
+----
+* Cancollide False Wall hops with bottom Instantbrick but 7 Stud Spacebar.
+* Truss Walk but the bottom part is Instant-kill brick.
+|-|
+Low=
+===Low [[File:SquareSupreme.png|frameless|25x25px]] <span><span><span style="background:linear-gradient(#6600ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">Supreme</span></span>===
+* 18.1 stud jump (Climbable)
+* 17.9 stud jump (Unclimbable)
+* 17.1 stud wrap
+* 16.1 stud ice wrap
+* 15.1 stud Cylinder Wrap
+* 16.8 stud jump with a headhitter.
+----
+* Cancollide false Wall hops 5 Stud Spacebar
+* 6 stud stick out with instant bricks
+* 1 Squeeze in 3x row
+|-|
+Middle=
+===Middle [[File:SquareSupreme.png|frameless|25x25px]] <span><span><span style="background:linear-gradient(#6600ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">Supreme</span></span>===
+* 18.2 stud jump (Climbable)
+* 18 stud jump (Unclimbable)
+* 17.2 stud wrap
+* 16.15 stud ice wrap
+* 15.2 stud Cylinder Wrap
+* 16.9 stud jump with a headhitter.
+----
+* 4 Stud Spacebar Cancollide false Wall hops
+* 1 Squeeze in 4x row
+|-|
+High=
+===High [[File:SquareSupreme.png|frameless|25x25px]] <span><span><span style="background:linear-gradient(#6600ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">Supreme</span></span>===
+* 18.3 stud jump (Climbable)
+* 18.1 stud jump (Unclimbable)
+* 17.3 stud wrap
+* 16.2 stud ice wrap
+* 15.3 stud Cylinder Wrap
+* 17 stud jump with a headhitter.
+----
+* Cancollide False Wall hops with bottom Instantbrick but 4 Stud Spacebar.
+* 1 Squeeze in 5x row
+|-|
+Peak=
+===Peak [[File:SquareSupreme.png|frameless|25x25px]] <span><span><span style="background:linear-gradient(#6600ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">Supreme</span></span>===
+* 18.4 stud jump (Climbable)
+* 18.2 stud jump (Unclimbable)
+* 17.4 stud wrap
+* 16.25 stud ice wrap
+* 15.4 stud Cylinder Wrap
+* 17.1 stud jump with a headhitter.
+----
+* Cancollide False Wall hops with bottom Instantbrick but 3.7 Stud Spacebar.
+* 6.2 stud stick out with instant bricks
+|-|
+
+
+</tabber>
+
+== <small>Explanation of Supreme's Range</small> ==
+While [[File:SquareSupreme.png|frameless|25x25px]] <span><span><span style="background:linear-gradient(#0000ff,#ff00ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">'''Supreme'''</span></span></span></span> is described as having no range of difficulty - at least not large enough to warrant it having low, mid, high sections - there is technically some room for difficulty within Supreme.
+
+Because there are many types of obstacles, the absolute hardest possible version of one type will differ in difficulty from the hardest version of another type.
+
+So if you were to add a Low-Mid-High range within Supreme, you would find one specific type of obstacle in one of these sections - but not in any other. If the hardest "climbable long jump" is an 18 stud jump and were to be classified as Low-Supreme, you would not find this type of obstacle in the Mid- or High- sections. The slightest buff of that long jump would be of the difficulty following Supreme.
+
+==Towers Section==
+{| class="mw-collapsible mw-collapsed" <span style="border:5px solid; border-image: linear-gradient(to bottom, #0000ff, #b134bf)4; height: 50px; background:linear-gradient(to bottom, #0b0357, #3f0b53); padding:3px; text-align: left;"></span>
+| width="100%" style="border-radius: 5px 5px 0 0; font-size: 1em; font-weight: 200; font-family:Comfortaa; color:white;" | Supreme  ⠀
+|-, 
+|<span style="color:white;"><big>[[File:NewSquareSupreme.png|50px]] <span style="background:linear-gradient(90deg,Fuchsia,MediumBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Supreme'''</span>
+<br>
+# [[File:NewSquareSupreme.png|30x30px]] [[Obelisk of Ridiculous Annoying Difficulties]] (60.whatever) (no idea)
+#[[File:NewSquareSupreme.png|30x30px]] [[Box of Human Limits]] (60.05) (R)
+#[[File:NewSquareSupreme.png|30x30px]] [[Obelisk of Corrupted Horror Difficulty Chart]] (60.06) (R)
+#[[File:NewSquareSupreme.png|30x30px]] [[Obelisk of Unimaginable Difficulties]] (60.07) (R)
+#[[File:NewSquareSupreme.png|30x30px]] [[Obelisk of Endlessly Impossible Difficulties]] (60.09) (R)
+#[[File:NewSquareSupreme.png|30x30px]] [[Citadel of Humanly Impossible Difficulties]] (60.12) (R)
+#[[File:NewSquareSupreme.png|30x30px]] [[Great Citadel of Crazy Sub Difficulties and Impossible Charts]] (60.14) (R)
+#[[File:NewSquareSupreme.png|30x30px]] [[Obelisk of Endless Difficulty Amplifying]] (60.25) (R)
+#[[File:NewSquareSupreme.png|30x30px]] [[Obelisk of Painful Difficulty Chart]] (60.30) (R)
+#[[File:NewSquareSupreme.png|30x30px]] [[Edifice of Stupidly Short Difficulty Chart]] (60.32) (R)
+# [[File:Phi thing yes.png|30px]] [[Great Citadel of Crazily Impossible Difficulty Ascension]] (60.43) (R)
+#[[File:Phi thing yes.png|30px]] [[Citadel of Omicron]] (60.45) (F)
+#[[File:Phi thing yes.png|30px]] [[Citadel of Unforgivingly Impossible Difficulties]] (60.53) (R)
+#[[File:Phi thing yes.png|30px]] [[Great Citadel of Short Difficulties]] (60.56) (R)
+#[[File:Phi thing yes.png|30x30px]] [[Edifice of Impossibility]] (54.59) (F)
+# [[File:Phi thing yes.png|30px]] [[Edifice of Slaughterhouse]] (60.60) (R)
+# [[File:Phi thing yes.png|30px]] [[Obelisk of Malice and Greed]] (60.62) (R)
+# [[File:UnthinkableSquare.png|30x30px]] [[Steeple of Imperception]] (60.67) (F)
+# [[File:UnthinkableSquare.png|30px]] [[Obelisk of Humanly Impossible Difficulty Chart]] (60.75) (R)
+# [[File:UnthinkableSquare.png|30px]] [[Great Citadel of Yet Another Great Difficulty Chart]] (60.95) (R)
+#[[File:UnthinkableSquare.png|30px]] [[Citadel of Dimension Breaking]] (60.96) (R)
+|}
+
+== Gallery ==
+<gallery widths="250" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#fff" bordercolor="#000" captionsize="large">
+File:Supreme-0.png|Supreme’s old logo.
+File:Supreme Introduction Sign OoIDC.webp|Supreme’s very long sign in [[Obelisk of Impossible Difficulty Chart]]
+File:Supreme Frame OoIDC.jpg|Supreme, bearing its crown on top of [[Obelisk of Impossible Difficulty Chart]].
+File:Supreme Frame GCoCIaND.jpg|Supreme’s frame in [[Great Citadel of Custom, Impossible, and Normal Difficulties]].
+File:SUPREMECHEEKY.png|A Supreme rendition of Cheeky.
+File:Abcdefghijkmnopqrstuvwxyz.png|HoSDC's supreme floor
+File:Resim 2021-03-04 150001.png|link=E|The inside of Supreme in MoEJD.
+File:Supreme entry sign.jpg|Supreme’s entry sign in OoIDC.
+File:Supreme sign moejd.jpg|Supreme’s entry signs in MoEJD.
+File:Supreme normal portal moejd.jpg|Supreme’s portal in MoEJD.
+File:OoIDC's Supreme End.png|End of OoIDC's Supreme Floor.
+File:OoEDA's Supreme Portal.png|OoEDA's Supreme Portal.
+File:OoEDA's Supreme Frame.png|OoEDA's Supreme Frame.
+File:OoEDA's Supreme Introduction Sign.png|OoEDA's Supreme Introduction Sign.
+File:RobloxScreenShot20250623 221738618.png|OoCDC's Supreme Floor.
+File:RobloxScreenShot20250623 221836282.png|OoCDC's Supreme Introduction Sign.
+</gallery>
+
+==Trivia==
+*On May 21 of 2022, YataDev revamped this difficulty with YourNuglyGuy's permission.
+**On February 24 of 2024, YourNuglyguy revamped this difficulty once again.
+**On June 7, 2025, YourNuglyguy revamped parts of the page once again, to set the stage for something later.
+**On June 26, 2025, Conceptia again redid certain parts of the page (Tower List, Gallery, Infobox, Introduction and Difficulty Placement) due to it being mildly outdated.
+*[[House of Thanks I Hate It]] is the first '''Supreme''' difficulty tower to have less than 10 floors.
+*'''Supreme''' is often featured in Jump Per Difficulty Charts.
+*'''Supreme''' was formerly in Class 8, however due to a restructuring in JJT, this was pushed down to become the finale of Class 7. It fits much better as a class finale, considering it’s importance.
+**After yet another restructuring, Supreme is now the first difficulty in Skyline class 6. This is considered a fair compromise because very few classes have a skyline phase.
+*'''Supreme''' is the last difficulty of YourNuglyGuy's Difficulty Chart, as well as the last difficulty of the iconic [[Obelisk of Impossible Difficulty Chart]].
+==Continuing==
+<div style="border:1px solid blue; padding:20px;">
+<center>'''THE SUN HAS SET'''</center><br>
+Congratulations. After practicing for so long, you have dominated the supreme limit of Roblox difficulty. Fortunately, for you - you're not bounded to any limit. If anything this may be considered easy for the average fictional or spiritual Player. 
+
+So here is an assignment: try complete [[File:Dupreme2.png|frameless|25x25px]] [[User blog:EpicTheGamer2014/Dupreme|Dupreme]] and the rest of the supreme chain. Otherwise, if you don't wish to bother attempting the chain or its sub-difficulties, move onto [[File:Phi thing yes.png|25px]] [[Phi]] or [[File:RoorXD.png|25px]] [https://jtohs-hardest-towers.fandom.com/wiki/RoorXD RoorXD] - the next difficulties on the main and simplified chart, respectively. 
+
+... Not that it will mean anything if you take either path - since this difficulty chart is endless.
+
+Good luck and good day. You are now dismissed.
+</div>
+{{DifficultiesNavbox}}
+
+<!-- Something Abhorrent; Loathsome; Malevolent; Insidious; Grotesque; Heinous; Twisted and Yawning is coming your way. Is it here. Is it there. Its nowhere. If right left where did it go? It has to be somewhere. Look! Over there! ... -->
+
+
+[[Category:Class 6]]
+[[Category:Difficulties]]
+[[Category:Legendary Difficulty]]
+[[Category:Classic Difficulty]]
+[[Category:Popular Pages]]
+[[Category:Essay pages]]
+[[Category:Humanly Impossible]]
+[[Category:Reme Difficulties]]
+[[Category:Revamped Difficulty]]

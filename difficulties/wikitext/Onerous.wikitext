@@ -1,0 +1,114 @@
+{{Humanly Possible}}
+{{Former Class Finale|reason=TDEx changes}}
+{{ArticleTab
+|custom=Towers}}
+----
+{{NewDifficultyInfobox
+|title1=Onerous
+|image1=Onerous.png
+|class=[[:Category:Class 2|Class 2]]
+|rating=3.5
+|type=[[:Category:Difficulties|Normal Difficulty]]
+|previous={{Class1Difficulties|Hard|30px}} [[w:c:jtoh:Hard|Hard]]
+|next={{Class2Difficulties|Difficult|30px}} [[w:c:jtoh:Difficult|Difficult]]
+|alt_previous=[[File:New Tricky.png|30px]] [[Tricky]]
+|alt_next={{Class1Difficulties|Easeful}} [[Easeful]]
+|class_range=Middle
+|decal_id=Unneeded
+|creator(s)=[[User:Viranenthusiast|vira]]
+|alt_names=Jolly
+|date_added=14th May 2022
+14th July 2025 (readdition)
+|hex_color=#FF492A
+|rbg_color=255, 55, 0
+|hsv_color=8.73, 83.53%, 100%
+|hsl_color=9, 100%, 58%
+|date_removed=20/05/2022
+|removal_reason=Sentient, pain to read the colored text, too much colored text. Deleted in the Difficulty Purge.
+|revival_date=20/05/2022
+|previous_sub_difficulty(ies)=
+*[[File:IRL Calmness.png|frameless|30x30px]] '''''IRL-Calmness'''''
+*[[File:So cool.png|30x30px]] '''''Transformiced'''''
+*[[File:Strenuous.png|30px]] [[Strenuous]]
+|original_class=1|rgb_color=255, 73, 42}}
+[[File:Onerous.png|30px]] <span style="color:#FF492A">'''Onerous'''</span> is a transitional difficulty between the Eternal Towers of Hell difficulties {{Class1Difficulties|Hard|30px}} [[w:c:jtoh:Hard|Hard]] and {{Class1Difficulties|Easeful}} [[Easeful]], it's sub-difficulty. While this difficulty is still on the lower spectrum of the EToH difficulty chart, it is still relatively difficult. Killbricks are a particularly common obstacle, along with more difficult jumps and somewhat complex contraptions now being present. While not particularly common, one stud platforms can be found scattered across the towers categorised under '''Onerous'''. 
+
+More dedication is required, but <span style="color:#FF492A">'''Onerous'''</span> is still a relatively easy difficulty.
+==Obstacles==
+Keep in mind that due to the variance of obstacle difficulty, these generally should not be used as a basis for obstacles.
+<tabber>
+Bottom=
+===Bottom <span style="color:#FF492A">'''Onerous'''</span>===
+*8.5 stud jump (Climbable)
+*8.4 stud jump (Unclimbable)
+*5.5 stud wraparound (Climbable)
+*5,4 stud wraparound (Unclimbable)
+|-|
+Low=
+===Low <span style="color:#FF492A">'''Onerous'''</span>===
+*8.6 stud jump (Climbable)
+*8.5 stud jump (Unclimbable)
+*5.6 stud wraparound (Climbable)
+*5.5 stud wraparound (Unclimbable)
+|-|
+Middle=
+===Middle <span style="color:#FF492A">'''Onerous'''</span>===
+*8.7 stud jump (Climbable)
+*8.6 stud jump (Unclimbable)
+*5.7 stud wraparound (Climbable)
+*5.6 stud wraparound (Unclimbable)
+|-|
+High=
+===High <span style="color:#FF492A">'''Onerous'''</span>===
+*8.8 stud jump (Climbable)
+*8.7 stud jump (Unclimbable)
+*5.8 stud wraparound (Climbable)
+*5.7 stud wraparound (Unclimbable)
+|-|
+Peak=
+===Peak <span style="color:#FF492A">'''Onerous'''</span>===
+*8.9 stud jump (Climbable)
+*8.8 stud jump (Unclimbable)
+*5.9 stud wraparound (Climbable)
+*5.8 stud wraparound (Unclimbable)
+</tabber>
+==Towers in this difficulty==
+<tabber>
+Non-Fictional=
+===Non-Fictional Towers===
+*SoSSS - [[Steeple of Somewhat Symmetrical Simplicity]]
+*OoANL - [[Obelisk of A Noob's Limit]]
+|-|
+Fictional=
+===Fictional Towers===
+*ToJA(F) - Tower of Jolly Adventures
+*SoSB(F) - Steeple of Snowy Blundering
+*SoWCC(F) - Steeple of Wondrous Chocolate Creations
+*ToJGF:EJ(F) - Tower of Jolly Good Fun: Extra Jolly
+*CoELP(F) - Cidatel of Easy Low Pain
+|-|
+Other Towers=
+===Towers that are technically this difficulty===
+For towers regarding this section, click [[Onerous/Towers#Towers that are technically this difficulty|here]].
+|-|
+Appearances=
+*GCoBID - [[Great Citadel of Beyond Impossible Difficulties]]
+*GMoEED - [[Great Monolith of Every EJT Difficulty]]
+</tabber>
+==Trivia==
+*Initially, <span style="color:#FF492A">'''Onerous'''</span> would have been aimed for the old [[:Category:Class 1|Class 1]] ([[Delightful]] to [[User_blog:EpicTheGamer2014/Easeful|Easeful]]).
+**The aim was changed to the old [[:Category:Class 2|Class 2]] ('''Onerous''' to [[Relentless]]) due to the sheer amount of C1 difficulties at the time.
+*This is the sequel to [[File:Calmness.png|30px]] [[Calm]].
+*This difficulty was deleted twice. 
+**The first time was during the obscure '''Difficulty Purge''', before being revived a very short time after.
+**The second time<ref>Not technically a deletion.</ref> was being moved to a blog post due to '''The Difficulty Extermination'''.
+==Gallery==
+<center><gallery>
+File:Onerous.png|Onerous’s current icon.
+</gallery></center>
+For more images regarding this difficulty, click [[/Gallery|here]]. 
+{{DifficultiesNavbox}}
+[[Category:Class 2]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+===References===

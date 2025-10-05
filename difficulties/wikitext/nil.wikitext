@@ -1,0 +1,75 @@
+__NOTOC__
+{{DISPLAYTITLE:<span style="color:#5E5E62">'''nil'''</span>}}
+{{NewDifficultyInfobox|title1=nil|image1=<gallery>
+NilRevamp.png|EHT
+NilJToH.webp|EToH
+</gallery>|caption1=|previous=[[File:Unreal.png|25px|link=Unreal]] '''[[Unreal|<span style="color:#4B00C8">'''Unreal'''</span>]]'''|next=[[File:Error2.png|25px|link=Error]] '''[[Error|<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #562424, #ffaeae );-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Error'''</span>]]'''|difficulty_number=14|previous_name=DEATH|hex_color=<nowiki>#797981</nowiki>|rgb_color=121, 121, 129|rating=14}}
+==What is <span style="color:#5e5e62">'''nil'''</span>?==
+<span style="color:#5e5e62">'''nil'''</span> is a difficulty that is below [[Error|<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #562424, #ffaeae );-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Error'''</span>]] and above [[Unreal|<span style="color:#4B00C8">'''Unreal'''</span>]] in the difficulty chart represented by the color black [<span style="color:#000000">'''0, 0, 0'''</span>] with a gray [<span style="color:#5e5e62">'''94, 94, 98'''</span>] outline, just like [[Unreal|<span style="color:#4B00C8">'''Unreal'''</span>]] or [[Horrific|<span style="color:#9691ff">Horrific</span>]]. It was only created to be  the difficulty of [[Citadel of Void]], one of the hardest towers to ever be in '''EToH'''.
+
+Obstacles here are just straight up '''ridiculous''', as this is a difficulty past the hardest difficulty currently in '''EToH'''. This difficulty is also a lot more unforgiving than the previous difficulties, requiring egregious levels of precision and obscurity that the line between what makes obstacles consistent or luck-based is blurred. They are also very subject to physics update screw-ups, meaning that one small physics update can ruin your entire chance of beating a tower in this difficulty. 
+
+==In Eternal Towers of Hell==
+<span style="color:#5E5E62">'''nil'''</span> used to be a difficulty in '''EToH''' made specifically for [[Citadel of Void]]. Jukecalla didn't want anyone to build a nil tower for '''EToH''', so she added two new difficulties to prevent that from happening. nil is currently removed from '''EToH''', (excluding [https://jtoh.fandom.com/wiki/Tuscan_tower tuscan tower]) as it is believed that nobody will beat a tower with this difficulty in the foreseeable future. However, due to the growing level of achievements, the prospect that it could be conquered by the most prodigious and ambitious players in the far future is becoming ever so slightly more possible. 
+
+Due to the fact that <span style="color:#5E5E62">'''nil'''</span> was only reserved for [[Citadel of Void]], [[Tower of Tedious and Stodgy]] was moved up to [[WHY|<span style="color:#000000;-webkit-text-stroke-color:white;-webkit-text-stroke-width:0.5px;">'''TooHard'''</span>]] (to keep it '''EToH''' style), and all towers other than [[The Great Centurial]] were all fanmade towers, and were never official.
+
+During this time, as <span style="color:#5E5E62">'''nil'''</span> was still in '''EToH''', 3 new "brown" difficulties were added between it and Unreal, they have been known as "'''The Forgotten Difficulties'''"; now that Unreal has an outline in Pit of Misery, nil could have one, and the brown difficulties are also outlined. The only thing we know about these "'''Forgotten Difficulties'''" is that they have a similar colour to the first 3 floors of Tower of Confusion, as stated by Logan_ISL.
+
+Gammator jokingly stated the 3rd one was called '''"Crazy".'''
+
+
+
+==Towers==
+''Towers in '''bold''' are all-jumped.''
+
+*CoST - [https://www.roblox.com/games/17592957880/revamp Citadel of Somber Torment] (Baseline nil)
+*'''ToTE - [https://www.roblox.com/games/86353796996046/Tower-of-The-End-P-T Tower of The End] (Bottom nil?)'''
+*'''ToMS - [[Tower of Microsoft Service]] (Bottom nil?)'''
+*'''ToTDTHL - [[Tower of the Drive Towards Human Limits|Tower of The Drive Towards Human Limits]] (Bottom nil)'''
+*'''ToIDAM - [https://www.roblox.com/games/11233156764/Tower-of-Inordinately-Deceptional-Arduous-Mishap Tower of Inordinately Deceptional Arduous Mishap] (Bottom nil)'''
+*'''ToSJ - [[Tower of sacrligieous jumps|Tower of Sacrilegious Jumps]] (Bottom nil)'''
+*ToOG - [[Tower of Oblivious Gameplay]] (Bottom nil)
+*GCoUDC - [https://www.roblox.com/games/73819377245670/Great-Citadel-of-Ultimate-Difficulty-Chart Great Citadel of Ultimate Difficulty Chart] (Bottom-Low nil)
+*'''TT - [[Tuscan Tower]] (Bottom-Low nil)'''
+*'''EoATST - [https://www.roblox.com/games/18993222258/EoATST-tbp-ver Edifice of Abysmal Thin Stud Trials] (Low nil)'''
+*'''ToFF - [https://www.roblox.com/games/11379081828/Tower-of-Funny-Fish Tower of Funny Fish] (Low nil)'''
+*'''TEFS - [[The Eternal Final Stretch]] (Low nil)'''
+*'''ToGG - [https://www.roblox.com/games/11379081828/Tower-of-Funny-Fish Tower of Ginga Glory] (Low nil)'''
+*'''PT - [[Popsicle Tower]] (Low nil)'''
+*TAC:N '''-''' [[The Absolute Centurial: Nil]] (Low nil)
+*'''ToDS - [https://www.roblox.com/games/10436183562/Tower-of-Diabolical-Stratagem Tower of Diabolical Stratagem] (Mid Nil)'''
+*ToGV - [[Tower of Great Voidness]] (Mid nil)
+* DT - [[Detention Tower]] (Mid nil)
+* ToPS - [https://www.roblox.com/games/119460573362931/Tower-of-Phosphorescent-Sanctorum Tower of Phosphorescent Sanctorum] (Mid-High nil)
+*ToPaE - [[Tower of Parched and Exhausted]] (Mid-High nil)
+*ToUV - [[Tower of Unrealistic Victory]] (High nil?)
+* '''ToSF:SB - [https://www.roblox.com/games/17596799619/ToSF-Side-B Tower of Spiralling Fates: Side-B] (High nil)'''
+*'''ToEC - [[w:c:cscdroblox:Tower of Existential Crisis|Tower of Existential Crisis]] (High nil, 14.7)'''
+*MoP - [https://www.roblox.com/games/14890824690/Citadel-of-Indefinite-Void-3-22 Monolith of Purgatory] (High-Peak nil?)
+* CoDDI - [[Citadel of Desolate Difficulty Islands]] (High-Peak nil?)
+* MT - [[Midas Tower]] (High-Peak nil??)
+* '''ToVL - [[Tower of Vague Luminescense]] (High-Peak nil, 14.8) (CSCD Buff)'''
+* ToCPD - [https://www.roblox.com/games/138794791429163/Tower-of-Collected-Dust-Particles Tower of Collecting Dust Particles] (Peak nil)
+*'''CoV - [[Citadel of Void]] (Peak nil, 14.99)'''
+*TGC - [[The Great Centurial]] (Peak nil, 14.99)
+
+=== Unclassified ===
+*GOoIaIH - [https://jtohs-joke-towers.fandom.com/wiki/Great_Obelisk_of_Interminable_and_Insufferable_Heights Great Obelisk of Interminable and Insufferable Heights] (?)
+*OoF - [https://www.roblox.com/games/13591867749/living-like-a-pop-car Obelisk of Fathes]
+*CoTD - [[Citadel of True Destiny]]
+*'''BToTS''' '''- [https://www.roblox.com/games/108815848646121/Buffed-Tower-of-True-Skill Buffed Tower of True Skill]'''
+*'''ToTVI - [https://www.roblox.com/games/15170862450/tower-of-the-violent-impediments Tower of The Violent Impediments]'''
+*'''ToSJ - [https://www.youtube.com/watch?v=RqcBQaMhOE4 Tower of Sacrilegious Jumps]'''
+*'''ToM - [https://www.roblox.com/games/7023281752/tower-of-memorization Tower of Memorization]'''
+*ToCR - [https://www.roblox.com/games/112331301926361/Tower-of-conspicuous-retribution Tower of Conspicuous Retribution]
+*ToAB - [https://www.roblox.com/games/14505962994/Tower-of-Adrifted-Behemoth Tower of Adrifted Behemoth]
+*ToRA - [https://www.roblox.com/games/9358673685/tower-of-revolving-ascent Tower of Revolving Ascent]
+*ET76 - [https://www.roblox.com/games/17781078059/EVIL-TOWER-76 EVIL TOWER'76]
+
+==Trivia ==
+*<span style="color:#5E5E62">'''nil'''</span> is represented in all lowercase.
+*[[Citadel of Void]] and [[The Great Centurial]] were the only confirmed <span style="color:#5E5E62">'''nil'''</span> towers in all of '''EToH'''. There were no other known <span style="color:#5E5E62">'''nil'''</span> tower/citadel in the history of its existence that got confirmed to '''EToH''', though many complain the difficulty of those towers to be {{jtoh|TooHard}}/[[WHY]].
+*This difficulty was the 2nd hardest difficulty in '''EToH''' before its removal.
+*"<span style="color:#5E5E62">'''nil'''</span>" is a keyword in the programming language used to create all Roblox games, Lua, which essentially means "nothing".
+[[Category:Difficulties]] [[Category:Nil]]

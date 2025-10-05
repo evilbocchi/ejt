@@ -1,0 +1,96 @@
+{{ArticleTab}}{{Humanly Impossible}}{{DISPLAYTITLE:<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ultimate}}
+{{Classic}}
+==What is <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ultimate?==
+{{NewDifficultyInfobox
+|title1 = Ultimate
+|image1 = Betterultimate.png
+|caption1 = Ultimate
+|class = [[:Category:Class 5|Class 5]]
+|previous =[[File:Bettermonstrous.png|30x30px]] [[Monstrous]]
+|next = {{Class7Difficulties|System Error}} [[System Error]]
+|decal_id = 75075630704642
+|original_short_name=Ultimate|previous_creator(s)=CreationAintGood|original_name=Ultimate|previous_name=Ultimate|original_full_name=Ultimate|previous_full_name(s)=Ultimate|removal_reason=Not removed|previous_short_name(s)=Ultimate|date_added=16th August 2020|date_removed=Not removed|previous_official_music(s)=None|revamp_date=Not yet|revival_date=Not deleted|prior_previous=[[Monstrous]]|prior_next=[[System Error]]|original_creator(s)=CreationAintGood|previous_type(s)=Physically Impossible Difficulty|original_official_music=None|official_music(s)=|type=Classic Difficulty|class_range=High|difficulty_range=Low - High|main_difficulty=|sub_difficulty(ies)=[[File:NOUGHT.png|25px]] [[Nought]]|chain(s)=|creator(s)=YourNuglyguy, CreationAintGood|previous_main_difficulty(ies)=None|full_name=|short_name=|alt_names=|original_class=|previous_class(es)=|original_type=Physically Impossible Difficulty|original_main_difficulty=None|previous_sub_difficulty(ies)=None|alt_previous=[[File:Horrendous.png|30px]] [[Horrendous]]|rating=41|alt_next=[[File:NOUGHT.png|30x30px]] [[Nought]]}}{{Class7Difficulties|Ultimate}} <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Ultimate'''</span> is a Class 5 difficulty that succeeds [[File:Horrendous.png|30px]] [[Horrendous]]. It is the third hardest difficulty of the Universal Difficulty Chart.
+
+{{Class7Difficulties|Ultimate}} <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Ultimate'''</span> represents the assumed limit of difficulty, meaning it consists of the hardest jumps that we believe to be possible, not that it can ever be officially verified by human or technology. 
+
+An example of an Ultimate difficulty tower would be, if you took Chaotic Tower and buffed every floor to what you believe to be the hardest possible difficulty, and then extended the tower to some degree.
+
+<div class="mw-collapsible mw-collapsed">
+==<small>Icon Representation</small>==
+<div class="mw-collapsible-content">
+{{Class7Difficulties|Ultimate}} <span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Ultimate'''</span>'s icon is quite similar to {{Class7Difficulties|Monstrous}} [[Monstrous]]’ icon, the backgrounds are of the same gradient: black fading into red. Then there a letter of the Greek alphabet centered in the middle of the icon. The letter is "Psi" ψ, highlighted in red. 
+</div>
+</div>
+
+==Obstacles Section ==
+The obstacles below are highly, and inaccurately estimated, so take them with a grain of salt. They may either be ''not'' Ultimate, physically impossible or in some cases, ''easier'' than Ultimate.
+<tabber>
+|-|
+Low=
+===Low Ultimate===
+*Having the ability to do a six stud stick out onto a quarter stud.
+*Earning the odds of standing on a 'can collide: false' parts.
+*Being able to freeze through a quadruple instant kill brick spinner in a lodge.
+|-|Mid=
+===Mid Ultimate===
+*Having the chance to '/e dance2' yourself through a 2.25 stud.
+*Doing 13.75 stud jumps on the unclimbables.
+*13.1 Stud Wrap ''(Unclimbable)''
+|-|High=
+===High Ultimate===
+*18.5 Stud Long Jump ''(Climbable)''
+*Laugh clipping yourself through a 5.25 stud.
+</tabber>
+
+==Towers Section==
+Unfortunately there aren't that many towers of Ultimate difficulty, whether fictional or not.<tabber>
+|-|
+Towers=
+=== Towers ===
+*ToTTG - [[Tower of The Truest Glory]]
+*EoS - [[Edifice of Speedcore]]
+*ToHM - [[Tower of Hellish Misery]]
+*TUC - The Ultimate Centurial
+*ToMaGENTA - Tower of Magentoisis and Grapediumnity Edicultility Nakarrepou Transnophobia Acrinomytic (Fictional) (Beginning of ToCOLOR part 2)
+*VoIF - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Vent of Inglorious Failure] (QToN Ring 5)
+*R54:U - [https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 54: Ultimate]
+
+|-|Appearances in other towers=
+=== Appearances of System Error ===
+This section contains appearances of Ultimate in other towers, with said towers being that of a different difficulty.
+{{#tag:tabber|Great Citadels=
+=== Great Citadels ===
+*GCoCIaND - [[Great Citadel of Custom, Impossible, and Normal Difficulties]]
+*GCoHD - [[Great Citadel of Hellish Difficulties]]
+*GCoBID - [[Great Citadel of Beyond Impossible Difficulties]]
+{{!}}-{{!}}
+Monoliths=
+=== Monoliths ===
+*MoBIDC - [[Monolith of Beyond Immeasurable Difficulty Chart]]
+*MoDDC - [[Monolith of Deadly Difficulty Cluster]]
+}}
+</tabber>
+
+==Other Information==
+*<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ultimate</span> was the second difficulty of the ''''<nowiki/>'''True Hardest difficulties to be made, the first was [[Autism]].
+*<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ultimate</span> is one of the final difficulties in YourNuglyguy's Difficulty Chart.
+*Originally, Ultimate's definition was pretty much identical to Supreme, and was placed after [[w:c:jtohs-hardest-towers:Malicious|Malicious]] difficulty. 
+**"''... Ultimate Difficulty is, like what you said, “99.9999999999999999 etc% of being impossible,” Malicious is the end of all difficulties, but ultimate difficulty, is the END of the end of all difficulties, Ultimate difficulty represents the absolute maximum, there is no “low ultimate difficulty” or “high Ultimate difficulty,” describe it as a border, Ultimate difficulty is slightly over borderline malicious, if borderline malicious floors are possible, then so are difficulties above it.'' "
+==Gallery==
+<gallery>
+File:ULTIMATE.png|A failed icon replacement for Ultimate.
+File:Ultimate.PNG|"Original" icon for Ultimate.
+File:UltimateV2.png|An alternative version for Ultimate icon by [[User:Nolan1025|Nolan1025]].
+File:RobloxScreenShot20201221 183450689.png|[[Obelisk of Impossible Difficulty Chart|OoIDC]] Ultimate's Introduction Sign.
+File:939F197D-0F1D-4393-991C-4649B080493F.jpeg|[[Obelisk of Impossible Difficulty Chart|OoIDC]] Ultimate's Portal.
+File:Ultimate.png|Ultimate without having a red gradient.
+</gallery>
+==Continuing Past This Point...==
+Congratulations on completing the ultimate peak of difficulty, or is that what you believed? Yes, this is ultimately difficult but there are still several levels of difficulty that lie ahead. You are still nowhere near the end of the chart. It is time to move forward and onto {{Class7Difficulties|System Error}} [[System Error|<span style="font-weight;font-size:100%;background:-webkit-linear-gradient(red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">System Error</span>]], but beware; for nearly every jump from now on will require perfect alignment, precision and timing. ''There is zero room for error.''
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 5]]
+[[Category:Difficulty]]
+[[Category:Classic Difficulty]]
+[[Category:Classic]]
+[[Category:Humanly Impossible]]

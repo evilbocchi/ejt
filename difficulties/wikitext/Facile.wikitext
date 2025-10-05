@@ -1,0 +1,89 @@
+<div style="background:#007694;padding:1em;font-family:rubik;border:25px solid #009CC4;">
+{{NoticeScrollboxNew|Notices=
+{{Humanly Possible}}
+{{Classic}}
+}}
+----
+{{NewDifficultyInfobox|title1=Facile
+|image1 = <gallery>
+Facile1.png|Current
+FacileOldpng.png|Old
+</gallery>
+|caption1=You may not get harmed, as we are not on that district yet. But still, some soothing obstacles may keep you up!|class=1|rating=-1.33|type=• Unofficial
+• Humanly Possible
+• Difficulty|previous=[[File:BabyingSDC.png|25px]] [[Babying]]|next=[[File:EffortlesslessIconOoIDC.png|25px]] [[Effortlessless]]|alt_previous=|alt_next=|class_range=[[Magnificent]] - [[W:c:jtoh:Effortless|Effortless]]|difficulty_range=Low to High|creator(s)=Astro6284|alt_names=Safe
+Pure|original_type=• Sub Difficulty|date_added=23rd June 2023|decal_id=[https://www.roblox.com/library/13963433970/Facile 14007526425]
+Old: [https://www.roblox.com/library/14007526425/FacileAlternative 13963433970]}}
+
+==Introduction - Facile==
+To overcome those relaxing hurdles on the easing difficulty [[File:Magnificent Current.png|25px]] [[Magnificent]] was fantastic. I know you're excited to reach the end of the JET difficulties and the beginning of the JToH difficulties, but this is the final mark to show if you have enough skill to at least finish ToAST on JToH. Reaching [[File:EffortlesslessIconOoIDC.png|25px]] [[Effortlessless]] actually starts with doing towers enough to reach higher, and then higher difficulties like [[File:Harsh.png|25px]] [[User blog:EpicTheGamer2014/Harsh|Harsh]] to [[File:SquareSimple.png|25px]] [[User blog:EpicTheGamer2014/Cruel|Cruel]]. But there will probably be safety nets, hints, saves, etc.; but the next few difficulties in Class 1 may have limited amounts of those saves, which is why there will be higher spikes soon.
+
+Anyways, [[File:Facile1.png|25px]] Facile is an unofficial possible Low Class 1 difficulty between both difficulties [[File:Magnificent Current.png|25px]] [[Magnificent]] and [[File:EffortlesslessIconOoIDC.png|25px]] [[Effortlessless]]. It has a rating of 0.775 and it is significant for being the last difficulty before the last unofficial JET difficulty [[File:EffortlesslessIconOoIDC.png|25px]] [[Effortlessless]]. It was made on 23rd of June, 2023 by Astro6284 and is a revival of a late-2020 difficulty with the same name is [[File:Existential.jpeg|30px]] [[User blog:Nightmare420273/Existential|Existential]]. Don't be nervous, because you are still capable of doing these obstacles!
+
+==Icon  Representation - Facile==
+<tabber>
+|-|
+Current=
+[[File:Facile1.png|50px]] The current icon shows a blueish detailed, pixelated background with a slanted and shadowed 'F' on the middle. On the corners, there are shaded bar-like lines among with cubes on each corner, just like the current one. There is a white outline on the middle, as well as the middle mostly being a checkerboard. Credits to Sanjay for making the icon.
+|-|
+Old=
+[[File:FacileOldpng.png|50px]] The old icon is a smooth, pixelated light and dark blue icon. There is a border around the corners with a darker color, as well as there being dark blue squares against each corner. On the middle, there is a black letter F, which is short for Facile.
+|-|
+Older=
+[[File:Facile.png|50px]] The older icon has a green background with a dark-green misaligned letter F on the middle of its icon, also meaning Facile.
+|-|
+Unused=
+[[File:Facile2.png|50px]] The unused icon is just a darkish blue background shaped into a square, nothing else.
+|-|
+Extras=
+[[File:Facile3.png|50px]] The first extra icon shows a light blue background with a small black letter F on the middle, which is Facile of course. Instead, the outlines are replaced by hills and now a third of the corners are now sliced. Credits to Jack3933.
+
+[[File:Facile4.png|50px]] The second extra icon shows a bright blue background that has a shaded dark gray letter F in the middle, still meaning Facile. The outlines are now curved, they are more darker then usual and the squares in the corners are gone now. Credits to EndJJT.
+</tabber>
+
+== Obstacles - Facile ==
+<tabber>
+|-|
+Low=
+*4.95 stud jump (climbable)
+*4.75 stud jump (unclimbable)
+*0.0725 stud wraparounds (climbable)
+*0.0675 stud wraparounds (unclimbable)
+|-|
+Middle=
+*5 stud jump (climbable)
+*4.8 stud jump (unclimbable)
+*0.075 stud wraparounds (climbable)
+*0.07 stud wraparounds (unclimbable)
+|-|
+High=
+*5.05 stud jump (climbable)
+*4.85 stud jump (unclimbable)
+*0.0775 stud wraparounds (climbable)
+*0.0725 stud wraparounds (unclimbable)
+</tabber>
+
+== Towers - Facile ==
+
+=== Towers of this difficulty ===
+==== Non-fictional ====
+* Add here!
+==== Fictional ====
+* F.A.C.I.L.E Facility
+* Tower of Peaceful Bound
+* Edifice of Short Adventure
+
+=== Towers with this difficulty ===
+
+* Add here!
+* Add here!
+* Add here!
+
+== Continuing on - Facile ==
+Well done on finishing all the obstacles that are available on this difficulty! I am surprised you actually have good skill for this class, but sadly it spikes up really fast when you reach [[File:Calmness-New.jpeg|25px]] [[Calm]], so good luck on [[File:EffortlesslessIconOoIDC.png|25px]][[Effortlessless]]!
+
+{{DifficultiesNavbox}}</div>
+[[Category:Class 1]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]

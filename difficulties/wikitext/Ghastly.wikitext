@@ -1,0 +1,99 @@
+{{Scrollbox|Notices='''Notices'''
+{{Classic}}
+{{Humanly Possible}}
+}}
+=<center>« [[File:TerrifyingDifficulty.jpg|25px]] [[w:c:jtoh:Terrifying|Terrifying]]  | <u>'''[[File:Ghastly.png|frameless|35x35px]]'''</u> <span style="background:linear-gradient(#b3ffff,#b3ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #b3ffff 0px 0.5px 6px;">Ghastly</span></span> | [[File:Horrifying.PNG|35px]] [[Horrifying]] »</center>=
+==What is '''[[File:Ghastly.png|frameless|35x35px]]''' <span style="background:linear-gradient(#b3ffff,#b3ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #b3ffff 0px 0.25px 3px;">Ghastly</span></span>?==
+{{NewDifficultyInfobox|image1=Ghastly.png|class=Mid Class 3|type=Sub-Difficulty|next=[[File:CatastrophicIcon.webp|25px]] [[w:c:jtoh:Catastrophic|Catastrophic]]|previous=[[File:TerrifyingDifficulty.jpg|25px]] [[w:c:jtoh:Terrifying|Terrifying]]|class_range=Low|difficulty_range=Baseline to Peak|main_difficulty=[[File:TerrifyingDifficulty.jpg|25px]] [[w:c:jtoh:Terrifying|Terrifying]]|creator(s)=* YataDev (new)
+* AlephWasTaken (old)|date_added=10/13/2020|revamp_date=05/27/2022|alt_next=[[File:Petrifying2.png|25px]] [[Horrifying]]|rating=11.16|hex_color=7fffff|rgb_color=127, 255, 255}}'''[[File:Ghastly.png|frameless|25x25px]]''' <span style="background:linear-gradient(#b3ffff,#b3ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #b3ffff 0px 0.25px 3px;">Ghastly</span></span> is a Mid Class 3 sub-difficulty of [[File:TerrifyingDifficulty.jpg|25px]]<span style="color:#33ffff"> [[w:c:jtoh:Terrifying|Terrifying]]</span> and the easiest sub-difficulty for it. It is harder than '''Terrifying''', but is also more difficult than the other sub-difficulty of it - [[File:Horrifying.PNG|25px]] [[Horrifying]]<span style="background:linear-gradient(#66ffff,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">.</span> '''Ghastly''' is also located before [[File:CatastrophicDifficulty.jpg|25px]]<span style="color:white"> [[w:c:jtoh:Catastrophic|Catastrophic]]</span>. It is a soul-crushing sub-difficulty that is extremelly challenging, and mostly top obbyists would be capable to manage completion of this difficulty if given enough time.
+
+'''Ghastly''' 's name is a synonym to the word '''Terrifying''', so it's not a completely random chosen name. Instead of having the usual obstacles in [[File:TerrifyingDifficulty.jpg|25px]]<span style="color:#33ffff"> [[w:c:jtoh:Terrifying|Terrifying]]</span> , '''Ghastly''' has obstacles that require more luck and timing.
+
+This difficulty can be placed around Mid Tier 13.
+==Icon Representation==
+The icon has almost nothing on it. All it has to offer is a slightly more lighter shade of blue, which is lighter than [[File:TerrifyingDifficulty.jpg|25px]]<span style="color:#33ffff"> [[w:c:jtoh:Terrifying|Terrifying]]</span> ’s teal background. That was all, so bye.
+
+==Obstacle Section==
+As stated before in the page, the obstacles are more difficult than the ones in '''Terrifying'''.
+
+<tabber>
+|-|
+Baseline=
+===Baseline [[File:Ghastly.png|frameless|34x34px]] <span style="background:linear-gradient(#b3ffff,#b3ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #b3ffff 0px 0.25px 3px;">Ghastly</span></span>===
+*12.35 stud jump (Climbable)
+*12.1 stud jump (Unclimbable)
+*11.2 stud wrap
+*10.6 stud ice wrap
+*10.3 stud Cylinder Wrap
+|-|
+Low=
+===Low [[File:Ghastly.png|frameless|34x34px]] <span style="background:linear-gradient(#b3ffff,#b3ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #b3ffff 0px 0.25px 3px;">Ghastly</span></span>===
+*12.4 stud jump (Climbable)
+*12.125 stud jump (Unclimbable)
+*11.25 stud wrap
+*10.7 stud ice wrap
+*10.35 stud Cylinder Wrap
+|-|
+Middle=
+===Middle [[File:Ghastly.png|frameless|34x34px]] <span style="background:linear-gradient(#b3ffff,#b3ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #b3ffff 0px 0.25px 3px;">Ghastly</span></span>===
+*12.42 stud jump (Climbable)
+*12.135 stud jump (Unclimbable)
+*11.3 stud wrap
+* 10.75 stud ice wrap
+*10.4 stud Cylinder Wrap
+|-|
+High=
+===High [[File:Ghastly.png|frameless|34x34px]] <span style="background:linear-gradient(#b3ffff,#b3ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #b3ffff 0px 0.25px 3px;">Ghastly</span></span>===
+*12.44 stud jump (Climbable)
+*12.15 stud jump (Unclimbable)
+*11.33 stud wrap
+* 10.79 stud ice wrap
+*10.42 stud Cylinder Wrap
+UNIQUE: do an x pusher momentum onto a 2.5x2.5 stud platform while using the arrow keys to look around
+|-|
+Peak=
+===Peak [[File:Ghastly.png|frameless|34x34px]] <span style="background:linear-gradient(#b3ffff,#b3ffff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #b3ffff 0px 0.25px 3px;">Ghastly</span></span>===
+*12.46 stud jump (Climbable)
+*12.17 stud jump (Unclimbable)
+*11.35 stud wrap
+* 10.83 stud ice wrap
+*10.46 stud Cylinder Wrap
+UNIQUE: do an x pusher momentum onto a 2x2 stud platform while using the arrow keys to look around
+</tabber>
+ '''WARNING:''' the obstacles are unfinished and mostly consist of basic obstacles, feel free to add more obstacles of your wish.
+
+==Tower Section==
+
+===Towers of this Difficulty=== 
+
+*[[w:c:jtoh:ToAR|Tower of Alien Radiance]]
+*Tower Inferno (Coming soon)
+*[[A Generic ToTL Revamp]] (Unnerfed)
+*Tower of Ghastly Haunted Absurd Strenuous Terrific Likely Yeet (ToGHASTLY) (Fictional)
+
+===Towers with this Difficulty ===
+
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*[[Obelisk of Cubox's Difficulty Chart]] (OoCDC)
+
+==Trivia==
+
+* Ghastly is one of the older difficulties of this wiki, created in October of 2020.
+** That also means it's a Classic Difficulty
+*This difficulty has been revamped by YataDev, but AlephWasTaken is the original creator.
+* The reason why this difficulty got a revamp is because it is one of YataDev's favourite difficulties.
+
+==Continuing from this Point==
+Congratulations bro.
+
+You have successfuly beaten '''Ghastly'''! Amazing job, it takes a long time to beat difficulties like this one, and surely takes a whole lot of effort. You surely should be proud of yourself. You should now continue to [[File:Horrifying.PNG|25px]] [[Horrifying]]<span style="background:linear-gradient(#66ffff,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">.</span><span style="background:linear-gradient(#66ffff,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">,</span> or skip the sub difficulty and continue to  [[File:CatastrophicDifficulty.jpg|25px]]<span style="color:white"> [[w:c:jtoh:Catastrophic|Catastrophic]]</span>- the last canon soul crushing difficulty.{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Class 3]]
+[[Category:Sub-Difficulties]]
+[[Category:One color icon]]
+[[Category:Icons made by AlephWasTaken]]
+[[Category:Possible]]
+[[Category:Official]]
+[[Category:Official Difficulty]]
+[[Category:Humanly Possible]]

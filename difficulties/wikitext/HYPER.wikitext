@@ -1,0 +1,117 @@
+<div style="background:#662e00;padding:1em;font-family:rubik;border:10px solid #b55100">
+{{NoticeScrollboxNew|Notices={{Humanly Possible}}
+{{Classic}}}}{{Quote (Better Version)|quote=O_o, two o's with a capital O or 0_o, one o and one zero|quoter=Over-Ship/upseguest}}{{NewDifficultyInfobox|title1=Hyper|image1=<gallery>
+HYPERNew.webp|Current
+HYPERShape.png|Shape
+Hyper.png |Old
+HYPER.png |Original
+</gallery>|caption1=O_o or 0_o?|class=[[:Category:Class 3|Peak Class 3]]|rating=14.66|previous=[[File:NewUnrealIcon.png |30px]] [[w:c:jtohs-hardest-towers:Unreal|Unreal]]|next=[[File:New_Treacherous_Icon.png|30px]] [[Treacherous]]|alt_previous=|alt_next=|type=*Sub-Difficulty
+*Humanly Possible
+*Classic|class_range=<big>Peak</big>|difficulty_range=Belowground to Peripheral|main_difficulty=[[File:NewUnrealIcon.png |30px]] [[w:c:jtohs-hardest-towers:Unreal|Unreal]]|full_name=Hyper|creator(s)=*[[User:Astrominal|Astrominal]] (revamp)
+*[[User:Over-Ship|Over-Ship]]/upseguest (page creator and original creator)|original_name=Hyper|date_added=10 September 2020‎|decal_id=*Current: [https://create.roblox.com/store/asset/111237319141370/HYPER Here]
+*Old: [https://create.roblox.com/store/asset/7916636548/HYPER Here]
+*Original: [https://create.roblox.com/store/asset/6386780393/HYPER Here]}}
+
+==What is HYPER?==
+[[File:HYPERNew.webp|frameless|30x30px]] '''Hyper''' is a Peak [[:Category:Class 3|'''''Class 3''''']] [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] of  {{Class3Difficulties|Unreal}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]] and last sub-difficulty from [[:Category:Humanly Possible|'''Humanly Possible''']] classification. '''Hyper''' is scarcely possible because a person by the name of '''''LiteratureDesk''''' beaten [[w:c:jtoh:Citadel of Infinite Void|Citadel of Infinite Void]] (as the first ever victor in an unreal tower), which means a Hyper tower can be beaten. '''Hyper''' is in-between {{Class3Difficulties|Unreal}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]] and [[File:New_Treacherous_Icon.png|30x30px]] [[Treacherous]] since Hyper is the last sub-difficulty. '''Hyper''' have a variation that is slightly harder, which is ''True Hyper'', it was a sub-difficulty of [[w:c:jtohs-hardest-towers:DEATH|DEATH]], in ''[[:Category:Class 4|Class 4]]''. The ''True Hyper'' difficulty was made way back in 2020, created by upseguest (in [[Great Citadel of Custom, Impossible and Normal Difficulties|GCoCIaND]]).
+
+Hyper can be pretty unique, because it can be as ____-ly Hyper or without -ly, for a example. [[File:EasyDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Easy|Easy]]. If you add Hyper on the name, it will turn out "Easily Hyper", The hyper version of [[File:EasyDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Easy|Easy]] will be approximately around the [[File:IntenseDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Intense|Intense]] range, it can result that hyper possibly has almost infinite amount of sub-difficulties, possibly making this difficulty the largest amount of sub-difficulties, the first appearance of the hyper variations was in [[Monolith of Deadly Difficulty Cluster]]. Most often though Hyper sub difficulties span from Insanely Hyper to Catastrophically hyper, and sometimes up to Unreal Hyper. The sub-difficulty of Hyper that is fused with itself is called '''''Hyperbolic''''' (eg. "Hyper-ly Hyper")
+
+==Icon Representation. ==
+{| class="fandom-table"
+!'''Type'''
+!'''Icon'''
+!'''Description'''
+|-
+!<big>'''Current:'''</big>
+|[[File:HYPERNew.webp|center|thumb|150x150px]]
+|The current icon is similar that [[File:New_Treacherous_Icon.png|25px]] [[Treacherous]] icon layout but the different is the color and an emotion, #ad4903 for the color and O_o emotion.
+|-
+!'''Shape version:'''
+|[[File:HYPERShape.png|center|thumb|150x150px]]
+|Shape version of hyper is similar to current icon of hyper, but in shape of 6-pointed surriken-shaped star
+|-
+!<big>'''Old:'''</big>
+|[[File:Hyper.png|center|thumb|150x150px]]
+|The Old icon background is 173, 73, 3 or #ad4903 with a O_o at the middle, pretty simple.
+|-
+!<big>'''Original:'''</big>
+|[[File:HYPER.png|center|thumb|150x150px]]
+|The original icon is the same as current icon, but the icon is more low quality, the background is darker and the font is more stretched vertically.
+|}
+
+==Obstacles.==
+{| class="fandom-table"
+|+ Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Climbable Jumps
+| style="background-color: #005980;" |12.925 studs.
+| style="background-color: #014500;" |12.95 studs.
+| style="background-color: #336000;" |12.975 studs.
+| style="background-color: #6d5c00;" |13 studs.
+| style="background-color: #964a00;" |13.025 studs.
+| style="background-color: #5a0000;" |13.05 studs.
+| style="background-color: #550055;" |13.075 studs.
+|-
+| Unclimbable Jumps
+| style="background-color: #005980;" |12.6 studs.
+| style="background-color: #014500;" |12.625 studs.
+| style="background-color: #336000;" |12.65 studs.
+| style="background-color: #6d5c00;" |12.675 studs.
+| style="background-color: #964a00;" |12.7 studs.
+| style="background-color: #5a0000;" |12.725 studs.
+| style="background-color: #550055;" |12.75 studs.
+|-
+|Wraps
+| style="background-color: #005980;" |11.75 studs.
+| style="background-color: #014500;" |11.775 studs.
+| style="background-color: #336000;" |11.8 studs.
+| style="background-color: #6d5c00;" |11.825 studs.
+| style="background-color: #964a00;" | 11.85 studs.
+| style="background-color: #5a0000;" |11.875 studs.
+| style="background-color: #550055;" |11.9 studs.
+|-
+|Stickouts
+| style="background-color: #005980;" |5 studs.
+| style="background-color: #014500;" | 5.05 studs.
+| style="background-color: #336000;" |<font color="white">5.1 studs.</font>
+| style="background-color: #6d5c00;" |<font color="white">5.15 studs.</font>
+| style="background-color: #964a00;" |<font color="white">5.2 studs.</font>
+| style="background-color: #5a0000;" |<font color="white">5.25 studs.</font>
+| style="background-color: #550055;" |<font color="white">5.3 studs.</font>
+|}
+==Towers:==
+
+*[[Tower of Hyperbolic Madness]] (Fictional)
+*Tower of Hyper Difficulty Chart (Difficulty: TooHYPER - MoDDC)
+*Triangle of Hyper Fast (Custom Tower: MoDDC)
+*Obelisk of Dropper Difficulty Chart (Floor 27)
+*Tower of Not Yet Frame Perfect Jump (Fictional)
+
+=== JHT ===
+
+* '''ToQU - [[w:c:jtohs-hardest-towers:Tower of Qwerty Uiop|Tower of Qwerty Uiop]] (Bottom, 13.17) [Verified by JeanTheObbyist<ref>https://www.youtube.com/watch?v=v5f32f4Poks&t=51s</ref>]'''
+* ToMIH - [[w:c:jtohs-hardest-towers:Tower of My Inner Hatred|Tower of My Inner Hatred]] (Low, 13.2)
+* '''ToSF - [[w:c:jtohs-hardest-towers:Tower of Spiralling Fates|Tower of Spiralling Fates]]''' '''(Low, 13.2) [Verified by MonsterIsABlock<ref>https://www.youtube.com/watch?v=Wc3IJivXjfE&t=394s</ref>]'''
+* ToES:B - [[w:c:jtohs-hardest-towers:Tower of Eternal Suffering: Buffed|Tower of Eternal Suffering: Buffed]] (Mid)
+* RCT- [https://www.roblox.com/games/96317559509982/Really-Cool-Tower-OFFICIAL Really Cool Tower] (Mid)
+* GT - [[w:c:jtohs-hardest-towers:Greninja Tower|Greninja Tower]] (Mid)
+* UT - [[w:c:jtohs-hardest-towers:Ultron Tower|Ultron Tower]] (High, 13.23)
+* '''CoIV - [[w:c:jtohs-hardest-towers:Citadel of Infinite Void|Citadel of Infinite Void]] (Peak, 13.24 ) [Verified by skitsuna<ref name=":0">https://www.youtube.com/watch?v=Mtcliw0KJ4w</ref>]'''
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 3]]
+[[Category:GCoCIaND Difficulties]]
+[[Category:Emoticon Difficulties]]
+[[Category:Two color icon]]
+[[Category:Classic Difficulty]]
+[[Category:Humanly Possible]]

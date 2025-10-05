@@ -1,0 +1,21 @@
+{{DISPLAYTITLE:<span style="color:#797981;">'''gui nil'''</span>}}
+{{DifficultyInfobox
+|title1=gui nil
+|type=Joke
+|image1=Guinilicongrey.png
+|date_added=January 21, 2025
+|date_removed=January 23, 2025
+}}
+{{Difficulty|guinil|20px}} [[gui nil]] is a joke difficulty which was only released on one server in the [[w:c:jtoh:The Stronghold|The Stronghold]], which has since shutdown. There is only one tower in this difficulty, that being [[Mini Citadel of gui1808s Final Wrath]].
+{{Header|Towers}}
+<tabber>
+The Stronghold=
+<div align="center"><font size="5">{{Emblem|TS}} [[w:c:jtoh:The Stronghold|The Stronghold]] {{Emblem|TS}}</font></div>
+
+*MCogFW - [[Mini Citadel of gui1808s Final Wrath]]
+</tabber>
+{{Difficulty Navbox}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:The Stronghold]]
+[[Category:Gui nil]]

@@ -1,0 +1,138 @@
+__NOTOC__
+{{DISPLAYTITLE:'''<span style="background:-webkit-linear-gradient(white, white); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px white">Relax</span>'''}}
+{{NoticeScrollboxNew|Notices=
+{{Classic}}
+{{Humanly Possible}}
+}}
+----
+{{NewDifficultyInfobox
+|image1 = 
+<gallery>
+SquareRelaxNew.svg | Current
+Bre9k!.png | Old
+Relax Square.webp | Old Square
+80353CFD-B6E3-4D06-8FA8-501BFDBFF748.jpeg | Original
+Relaxunofficial.png | Unofficial
+Relax Unofficial Icon.png | Unofficial 2
+RelaxUnofficial3.webp | Unofficial 3
+Take A Break..webp | Unofficial 4
+</gallery>
+|caption1 = Just chill and relax.
+|class = Class Negative
+|type = Normal Difficulty
+|previous = [[File:Discodebug.png|30px]] [[Disco]]
+|next = {{Class-1Difficulties|Skip}} [[Skip|<span style="color:#ffa960;text">'''''Skip'''''</span>]]
+|decal_id = *Current: [https://create.roblox.com/store/asset/15512310363/Relax 15512310363]
+*Old: [https://create.roblox.com/store/asset/8441012687/Relax 8441012687]   
+*Original: [https://create.roblox.com/store/asset/6382322957/Relax 6382322957]
+*Unofficial 3: [https://create.roblox.com/store/asset/136083320540449/Relax 136083320540449]
+|creator(s) = 
+*Sanjay2133 (Revamper)
+*Someone idk1 (Original)
+
+|date_added = 9/28/20
+
+|hex_color =
+*#FFFFFF (BG)
+*#000000 (Text)
+|rbg_color =
+*255, 255, 255 (BG)
+*0, 0, 0 (Text)
+|cmyk_color =
+*0%, 0%, 0%, 0% (BG)
+*0%, 0%, 0%, 100% (Text)
+|hsv_color =
+*0°, 0%, 100% (BG)
+*0°, 0%, 0% (Text)
+|hsl_color =
+*0°, 0%, 100% (BG)
+*0°, 0%, 0% (Text)
+|title1='''<span style="background:-webkit-linear-gradient(white, white); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px white">Relax</span>'''
+|rating=-1,000,000
+|alt_previous=[[File:Exist Difficulty Squared.png|30px]] [[Exist]] (old chart)}}
+==Introduction - [[File:SquareRelaxNew.svg|50x50px]] '''<span style="background:-webkit-linear-gradient(white, white); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px white"><big>Relax</big></span>'''==
+[[File:SquareRelaxNew.svg|30x30px]] '''<span style="background:-webkit-linear-gradient(white, white); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px white"><big>Relax</big></span>''' is a Class Negative difficulty, which is located in the High range of the class. It is a successor to the insanely easy difficulty [[File:Discodebug.png|30x30px]] [[Disco]], yet a predecessor to the... also insanely easy difficulty, [[File:Skipful.png|frameless|30x30px]] '''[[Skip|<span style="color:#ffa960;">Skip]]'''.
+
+Relax is a very easy difficulty, which probably explains why it is in Class Negative. All you basically have to do is go to a tower of this difficulty, press the join button, and boom. You won. This difficulty is unfailable, and will just teleport you to Skip (if you are in a difficulty chart tower), another instant-win difficulty, unless the winpad/teleporter gets broken, which has a high chance of happening.
+
+Every single Roblox player can beat this difficulty, regardless of their age, their IQ, their skill level, or anything else.
+
+==Icon Representation - [[File:SquareRelaxNew.svg|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, #d8e8dc, #f5f7f5); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px #f5f7f5">''Relax''</span>'''</big>==
+{| class="fandom-table"
+|+'''Icon Representation'''
+!'''Name'''
+!'''Icon'''
+!'''Date Added'''
+!'''Description'''
+|-
+|'''Current'''
+|[[File:SquareRelaxNew.svg|300x300px]]
+|'''16 December 2022'''
+| This is the current icon of Relax. It has a white background and big text that just says "Relax". There is smaller vertical text that says "Take a break" but the R of Break is the R of the Relax.
+|-
+|'''Old'''
+|[[File:Bre9k!.png|300x300px]]
+|'''9 February 2021'''
+|The old icon is much more simplistic, it has a white background with only a "Bre9k" in black text.
+|}
+
+==Obstacles - [[File:SquareRelaxNew.svg|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, #d8e8dc, #f5f7f5); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px #f5f7f5">''Relax''</span>'''</big>==
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Waiting
+| style="background-color: #014500;" |Wait 10 zeptoseconds.
+| style="background-color: #336000;" |Wait 50 zeptoseconds.
+| style="background-color: #6d5c00;" |Wait 100 zeptoseconds.
+| style="background-color: #964a00;" |Wait 250 zeptoseconds.
+| style="background-color: #5a0000;" |Wait 500 zeptoseconds.
+|-
+|Roblox
+| style="background-color: #014500;" |Use the internet. 
+| style="background-color: #336000;" |Go to the Roblox website.
+| style="background-color: #6d5c00;" |Click "Sign Up"
+| style="background-color: #964a00;" |Fill out all the information.
+| style="background-color: #5a0000;" |Press the join button on the game the tower is in. 
+|}
+==Towers - [[File:SquareRelaxNew.svg|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, #d8e8dc, #f5f7f5); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px #f5f7f5">''Relax''</span>'''</big>==
+''Note: This difficulty is unbuildable, so the towers listed below are inaccurate and purely fictional.''
+<tabber>
+|-|
+Non-fictional=
+*[https://www.roblox.com/games/12128382184/ABANDONED-Earths-Terrible-JJT-Towers Steeple of Instant Join and Win] (SoIJaW)
+*[[Tower of No Reaction]] (ToNR)
+*[https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Edifice of Brief Breaks of Relaxation] (EoBBoR)
+*[[Relaxation Steeple]] (RS)
+|-|
+Fictional=
+*[[Box of Taking a Break]] (BoTaB) [Fictional]
+|-|
+DCTs=
+*{{Class25Difficulties|The Final Difficulty.}} [[Monolith of Completely Endless Difficulties]] (Floor 698)
+*{{Class25Difficulties|The Final Difficulty.}} [[Monolith of Beyond Immeasurable Difficulty Chart]] (Floor 108)
+*[[File:Jes.png|frameless|30x30px]] [[Great Citadel of TooExtreme Difficulty Chart]] (Floor 57)
+*[[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|30px]] [[Obelisk of Hellish Death]] (Floor 25)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Infinity Ascending]] (Floor 108)
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Soul Crushing Difficulty Chart]] (Unknown Floor)
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]] (Unknown Floor, because of the frame is done only to Taco Guy.)
+</tabber>
+
+== Gallery - [[File:SquareRelaxNew.svg|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, #d8e8dc, #f5f7f5); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px #f5f7f5">''Relax''</span>'''</big> ==
+<gallery>
+File:Relax's Portal.png|Relax's portal in GCoCIAND (presumably)
+</gallery>
+
+== Continuing On - [[File:SquareRelaxNew.svg|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, #d8e8dc, #f5f7f5); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px #f5f7f5">''Relax''</span>'''</big>==
+Congratulations! You've beaten [[File:SquareRelaxNew.svg|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, #d8e8dc, #f5f7f5); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px #f5f7f5">''Relax''</span>'''</big>. You should probably go straight to [[w:c:jtoh:Easy|Easy]] because the easier difficulties are a waste of time. Or, go to [[File:Skipful.png|30x30px]] [[Skip]] if you like the feeling of guaranteed victory.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class Negative]]
+[[Category:Two color icon]]
+[[Category:Instant Win Difficulties]]
+[[Category:Revamped]]

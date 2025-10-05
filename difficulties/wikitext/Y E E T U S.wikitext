@@ -1,0 +1,47 @@
+{{DISPLAYTITLE:𝚈 𝙴 𝙴 𝚃 𝚄 𝚂}}{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Classic}}}}{{NewDifficultyInfobox|title1=''Y E E T U S''|image1=Yeetus revamp.png|caption1=8192×8192 pixels, how...|class=Class 6|rating=56.5|type=*Classic
+*Sub-Difficulty|previous=[[File:Miracle.png|30px]] [[Miracle]] (56)|next=[[File:Non-Transparent Delete.png|30px]] [[DELETE]] (57)|original_class=|class_range=|creator(s)=*Astrominal (reviver)
+*IMGaming23 (the original difficulty creator)|short_name=Y|alt_names=*yeetus
+*YEETUS|original_type=|prior_previous=ANGRY FACE D:< (1 July 2020)|prior_next=OH GOD PLEASE NO (1 July 2020)|date_added=Before 12 February 2021|date_removed=*12 February 2021 (renamed)
+*31 May 2021 (removed)|removal_reason=Unknown|revamp_date=23 June 2023|revival_date=23 June 2023|alt_previous=|alt_next=|main_difficulty=[[File:Miracle.png|40px]] [[Miracle]]}}
+==What is ''Y E E T U S''?==
+[[File:Yeetus revamp.png|30x30px]] '''''[[Y E E T U S]]'''''  is a [[:Category:Class 6|Class 6]] [[:Category:Sub-Difficulties|Sub-Difficulty]] at a high range and a [[:Category:Humanly Impossible|Humanly Impossible]] type. This difficulty is inbetween [[File:Miracle.png|26x26px]] [[Miracle]] (56) and [[File:Non-Transparent Delete.png|26x26px]] [[DELETE]] (57), with rating of 56.5 and a sub-difficulty of [[File:Miracle.png|26x26px]] [[Miracle]]. This difficulty is probably one of the oldest difficulties on the wiki, with the first appearance from '''''YEETUS''''' on this wiki is the earliest version of the Difficulty Chart (exactly [https://jtohs-joke-towers.fandom.com/wiki/User:The_Difficulty_Enthusiast/Archived_Difficulty_Chart?oldid=2311 1 July 2020]), but the date was created outside the wiki, at around the 1st of March, 2020 at [https://www.roblox.com/games/4744370884 Yeetbox]. 
+
+==Icon Representation==
+{| class="fandom-table"
+|+Icon Representation
+!'''Icon/Image'''
+!'''Description'''
+|-
+|[[File:Yeetus revamp.png|frameless|250x250px]]
+|The icon is literally [[File:CatastrophicDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Catastrophic|Catastrophic]] with light cyan at the middle resized to 8192×8192 pixels. But ingame, the material is fully neon (white neon).
+|}
+==Obstacles / [[File:Yeetus revamp.png|frameless|25x25px]] ''Y E E T U S''==
+{{ObstacleTableRevamp|JumpClimbableBase=40.432|Increment=0.166}}
+==Towers / [[File:Yeetus revamp.png|frameless|25x25px]] ''Y E E T U S''==
+*[https://www.roblox.com/games/4744370884 Yeetbox]
+
+== Gallery / [[File:Yeetus revamp.png|frameless|25x25px]] ''Y E E T U S'' ==
+<gallery>
+File:Yeetus revamp.png|The current icon of Yeetus
+File:YEETUSOld.png|The old icon of Yeetus
+File:YeetusAlternativeIcon.png|The alternative icon of Yeetus
+File:Yeetus.jpg|Yeetus's icon with a smaller scale (150x150 pixels)
+File:Yeetus Diff.PNG|A neon block (Yeetus in-game version)
+File:4DC008DE-22B4-47BC-8826-F067374018D5.jpeg|A sign with yeetus difficulty (in [[Wicked Obstacle of Madness Yeeting]]) 
+</gallery>
+
+==Trivia / [[File:Yeetus revamp.png|frameless|25x25px]] ''Y E E T U S''==
+*This difficulty was originally created around 1 March 2020. (over 5 years old!)
+*This difficulty was added at one of the first versions from the Original Difficulty Chart.
+*This difficulty was made by IMGaming23. (outside of the wiki)
+*This difficulty was deleted at the 31st of May, 2021.
+==CFTP / [[File:Yeetus revamp.png|frameless|25x25px]] ''Y E E T U S''==
+You had fun? Well too bad, there are more difficulties harder than '''''Y E E T U S'''''. Now yeet yourself to [[File:Non-Transparent Delete.png|30px]] [[DELETE]]. Good luck! >:D
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 6]]
+[[Category:Difficulty]]
+[[Category:Humanly Impossible]]
+[[Category:Bad Grammar]]

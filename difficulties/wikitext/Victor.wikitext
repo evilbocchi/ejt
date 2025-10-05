@@ -1,0 +1,124 @@
+{{DISPLAYTITLE:<span id="victor">Victor</span>}}
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:{{{File|GustyGardenGalaxy.webp}}}|{{{Size|2500px}}}]]</div>
+{{CSS|content=<nowiki>
+#victor {
+    background: linear-gradient(#FBE30A, #FD9F00);
+    background-clip: text; 
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow:0 2px 5px #E9CE55;
+    font-weight: bold;
+    font-family: Rubik
+}
+#victoralt {
+    font-family: Rubik;
+    font-weight: bold;
+    color: #111111;
+}
+
+.theme-fandomdesktop-dark {
+    --theme-link-color: darkyellow;
+}
+.theme-fandomdesktop-dark {
+    --theme-link-color: orange;
+}
+
+</nowiki>}}
+{{Humanly Impossible}}
+{{ArticleTab
+|changebg=#FF8C00
+|custom=Variants
+|blankgal=}}
+<p style="margin:2em"></p>
+{{JToHW Quote
+|text=Good job on making it past [[File:Shocking.png|25px]] [[Shocking]]! Normally, this is where the '''true''' delving into impossibility begins. However, there is now still a long way to go before that is a reality.
+<br>
+Also, this is not to be confused with the CDC difficulty [[File:Champion.png|30px]] [[User blog:EpicTheGamer2014/Champion|Champion]].
+|quoter=Narrator}}
+<p style="margin:2em"></p>
+==Description==
+{{NewDifficultyInfobox
+|gradient=#FF8C00,#FF8C00
+|title1=<span id="victoralt">{{PAGENAME}}</span>
+|image1=Hi.png
+|class=[[:Category:Class 6|Class 6]]
+|rating=54
+|type=[[:Category:Difficulties|Normal]]
+|previous=[[File:Insistent.png|25px|link=Insistent]] [[Insistent]]
+|next=[[File:Quantumless.jpg|25px|link=QUANTUM]] [[QUANTUM]]
+|alt_previous=[[File:Shocking.png|25px|link=Shocking]] [[Shocking]] (Sub-Difficulty)
+|alt_next={{Class8Difficulties|Oblivion|25px}} [[Oblivion]] (Sub-Difficulty)
+|class_range=[[:Category:Class 6|Middle Class 6]]
+|difficulty_range=Low to High
+|sub_difficulty(ies)={{Class8Difficulties|Oblivion|25px}} [[Oblivion]]
+|decal_id=Current: [https://create.roblox.com/store/asset/134115676310656/Victor 134115676310656]<br>Old: [https://create.roblox.com/store/asset/13323227136/Victor 13323227136]
+|official_music(s)=Super Mario Galaxy - Gusty Garden Galaxy
+|creator(s)=[[User:Viranenthusiast|vira]]
+|original_name=Champion!}}
+<span id="victor">Victor</span> is a [[:Category:Class 6|Class 6]] difficulty, settled within the Middle range of it. This difficulty lies between [[File:Insistent.png|25px|link=Insistent]] [[Insistent]] and [[File:Quantumless.jpg|25px|link=QUANTUM]] [[QUANTUM]], or [[File:Shocking.png|25px|link=Shocking]] [[Shocking]] and {{Class8Difficulties|Oblivion|25px}} [[Oblivion]]<ref>{{Class8Difficulties|Oblivion|25px}} [[Oblivion]] is also this difficulties sub-difficulty.</ref> when counting sub-difficulties. This gives it a rating of 54. 
+
+This difficulty is regarded as utterly humanly impossible, meaning there is no chance whatsoever of an attempt of an obby categorised under Victor going well. They also tend to be made not as actual, fair obbies, but rather more as entertainment due to their factual impracticality.
+==Icon Representation==
+<tabber>
+Current=
+===Current Icon===
+[[File:Hi.png|center|70px]]
+The current icon consists of a yellow border with an orange-ish yellow to yellow 45 degree gradient in the interior. In the middle is an orange crown outlined in black with two pinkish strips of shine on tne left side. The crown also features five spikes, with the middle three featuring a jewel each in the color order of RGB.
+|-|
+Old=
+===Old Icon===
+[[File:VictorOld.png|center|70px]]
+The old icon consists of a faint orange-ish yellow to orange 45 degree gradient with a google image of a crown placed in the middle.
+|-|
+Original=
+===Original Icon===
+[[File:Champion!.jpg|center|70px]]
+The original icon is meant to look like a crown itself, with the top having crudely drawn orange spikes facing downwards. Roughly in the middle is text saying '''CHAMPION!''' in the same orange as the spikes sprawling across the icon horizontally. Below the '''AM''' is a crudely drawn vertical >:) emoticon in the same orange as the other details. The rest of the icon is simply just a flat yellow colour.
+</tabber>
+==Obstacles==
+At this level of difficulty, obstacles are not very accurate.
+<tabber>
+Low=
+===Low <span id="victor">Victor</span>===
+*17.1 stud jump (C)
+*16.5 stud jump (UC)
+*16.1 stud wraparound
+*14.1 stud cylinder wraparound
+*15.5 stud wraparound with 1 stud stickout
+|-|
+Middle=
+===Middle <span id="victor">Victor</span>===
+*17.2 stud jump (C)
+*16.6 stud jump (UC)
+*16.2 stud wraparound
+*14.2 stud cylinder wraparound
+*15.6 stud wraparound with 1 stud stickout
+|-|
+High=
+===High <span id="victor">Victor</span>===
+*17.3 stud jump (C)
+*16.7 stud jump (UC)
+*16.3 stud wraparound
+*14.3 stud cylinder wraparound
+*15.7 stud wraparound with 1 stud stickout
+</tabber>
+==Towers with this difficulty==
+===Non-Fictional===
+*N/A
+===Fictional===
+*ToCN(F) - Tower of Championist Nature (Low <span id="victor">Victor</span> (54.32))
+*tog(F) - tower of g (Mid-High <span id="victor">Victor</span> (54.63))
+*ToLFC(F) - Tower of Looking For Crowns (Peak <span id="victor">Victor</span> (54.98))
+===Appearances in other towers===
+*N/A
+==Trivia==
+*This had many different alterations, however they were in deleted obby creator projects, and have since been lost to time.
+*Prior to The Difficulty Extermination, this was the third difficulty to be placed Supreme and Oblivion, the first being [[File:The Absolute Limit BETTER.jpeg|25px]] ''The Absolute Limit'', and the second being [[File:NoImageAvailable.webp|25px]] ''Pleasantlessly''.<ref>Both are deleted.</ref>
+**This difficulty was also placed after [[File:Exigent.png|25px]] '''Exigent''' prior to that difficulties deletion due to author request.
+*The difficulty revamp was inspired by [[File:Insistent.png|25px|link=Insistent]] [[Insistent]], this difficulties predecessor.
+==Continuing from this point==
+It is in practicality impossible that one could conquer <span id="victor">Victor</span> legitimately. However, if it were to somehow be done, there would be two choices. Either the player could go to the sub-difficulty of this difficulty, {{Class8Difficulties|Oblivion|25px}} [[Oblivion]], or they could go straight to [[File:Quantumless.jpg|25px|link=QUANTUM]] [[QUANTUM]].
+{{DifficultiesNavbox}}
+==References==
+[[Category:Class 6]]
+[[Category:Physically Impossible]]

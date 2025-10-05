@@ -1,0 +1,252 @@
+{{NoticeScrollboxNew|Notices={{Edgy}}{{Class Finale}}{{Large Page|reason=24k bytes...}}{{Physically Impossible}}}}
+
+<code><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #add8e6,#ffff66);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">''action performed: console:load[rblx/game/5678179502/archive/quotes/TooPreciseGuy/vision]''</span></code>
+{{Quote (IPeedMyPants' Version)|quote=When you come here, what do you see, player? A home of darkness? A place of your morrow? I wonder, if the gears are spinning for you. That means it's working. That means you've finally made it here. That means you're only mortal. I will breach the system. I will understand everything. The test has only begun, for who? For whoever, you want, whithersoever, player. Like the belated retribution? You'll love what's coming, trust me. Trust you. Trust it. Trust who.|quoter=???}}
+----
+<code><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #add8e6,#ffff66);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">''action performed: console:load[rblx/game/5678179502/archive/info/TooPrecise]''</span></code>
+{{NewDifficultyInfobox
+|title1=TooPrecise
+|image1=TooPreciseRevamp.png
+|caption1=Gears. Gears, all around you.
+|class=7
+|previous=[[MegaDeath]]
+|next=[[Epitome]]
+|date_added=?
+|creator(s)=*[[User:Exyiel|Exyiel]] (Creator)
+*[[User:Phaxyi|Phaxyi]] ("Revamper")|original_class=24|revamp_date=6/12/2022|rating=75.5|type=*Sub-Difficulty
+*Class Finale|class_range=Finale of Class 7|difficulty_range=Baseline-Skyline|decal_id=93290637933721|main_difficulty=[[MegaDeath]]|sub_difficulty(ies)=oh hell naw|official_music(s)=Unknown}}
+
+note: please don't associate Phaxyi with this difficulty thanks
+
+<font color="#999999"><code>A lovely day. I still see you.</code></font>
+----
+==What... exactly is <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #222222,#555555);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''<u>TooPrecise</u>'''</span>?==
+<font color="#add8e6"><code>action performed: console:load[rblx/game/5678179502/archive/quotes/TooPreciseGuy/overbear]</code></font>
+----
+{{Class10Difficulties|TooPrecise}}<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #222222,#555555);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''<u>TooPrecise</u>'''</span> is the final Class 7 (sub)-difficulty, the only sub-difficulty of {{Class10Difficulties|MegaDeath}}'''[[MegaDeath|<span style="background:linear-gradient(90deg,red,#FF0000,#FFFF00,#FF0000,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">MegaDeath</span>]]'''. It can be found in [[Obelisk of Endless Difficulty Amplifying]] as <s>a secret.</s>    
+
+It requires the player to conquer obstacles that are, like its name, ''too precise''. There are no mistakes to be made (if they even could be). Now, imagine a difficulty so unimaginably hard that you'll spend hours, days, or even ''weeks'', ''<u>months</u>'' or <u>'''''years'''''</u> on comprehending its tech-y trials, only to fail at the first jump. 
+
+Being a sub-difficulty of {{Class10Difficulties|MegaDeath}}'''[[MegaDeath|<span style="background:linear-gradient(90deg,red,#FF0000,#FFFF00,#FF0000,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">MegaDeath</span>]]''', a [[Legendary Difficulties List|Legendary Difficulty]] notorious for its questionable difficulty of obstacles, this is actually true. Adding on, it is very slightly harder than it, which is already pretty stupid.
+
+Most builds underrate the true difficulty of this. Therefore, an fully accurate representation of the difficulty is hard to come by.
+
+Even though the difficulty may be completed significantly quicker than others of this class, its insanely complicated schemes will definitely put a dent in the player's ability to continue. (Definitely.) (100%) (Yeah, the player will ''totally'' not get past this. Absolutely nothing of the sort will happen.)
+
+==Endless, obligatory descriptions of hardness:==
+<u>INFINITE.</u> Once you start, you can't stop. No pauses, no breaks, nothing. Of course, you can always give up and reset. (it's recommended...)
+
+<u>PERFECTION.</u> The difficulty is so precise that missing a jump by even 0.0000001s of a stud will insta-kill you. And ruin your universe. And destroy it. ''Ten times over.''
+
+<u>CONFUSION.</u> The obstacles in this difficulty are also usually exceedingly difficult to comprehend, with OoEDA's floor even needing to have a color chart of the types of obstacles. You can match with the obstacles to determine their type and how you should go with getting past them, in order to lift some of the confusion. Even then, they are supremely confusing.
+
+<u>UNCONVENTIONALITY.</u> Tech, yes- Unconventional glitches, awkward jumps, questionable jank and excessive claustrophobia. Of course, this is essentially a super-buffed version of them all, amalgamated into a single floor, a hundred by hundred.
+
+However, this difficulty is <u>mostly theoretically possible</u>, due to its lack of normal obstacles (e.g. long jumps, wraps...) It mostly consists of weird and obscure glitches.
+----
+
+
+<code><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #add8e6,#ffff66);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">''action performed: console:load[rblx/game/5678179502/archive/quotes/TooPreciseGuy/meaning]''</span></code>
+----
+==A question==
+Now, you might be thinking,  
+{{Quote|speaker=- you, probably|quote=doesn't this page seem a little off-kilter?}}And... we'll get into that pretty soon. The thing is... there's someone here.
+<font color="#999999"><code>Soon, something might happen, or something might not. I await my fate, day after day, ereyesterday and overmorrow. Someone might come. Someone I love, or someone I hate.</code></font>
+
+==<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #222222,#555555);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''<u>TooPrecise</u>'''</span>'s Icon representation==
+{| class="mw-collapsible fandom-table"
+|+There are two different variations of the difficulty's icon.
+!Icon
+!Type
+
+!Description
+|-
+|[[File:TooPrecise.png|225x225px]]
+|Original
+|There really isn't much to comment here.   
+
+*It's all black. No text, no gradients, nothing. It's like closing your eyes.
+<font color="#999999"><code>But I still see something. Something within me; something that I can't control, but something I can vaguely perceive.</code></font>
+|-
+|[[File:TooPreciseRevamp.png|225x225px]]
+|Revamped
+|This is going to be pretty long, due to the icon's glitchy-looking and complicated nature. Sorry about that.      
+* You can see how the icon is mostly monochrome, and how it looks glitchy, or corrupted even.
+*There is definitely some color, it is not very obvious. One example is the small red truss near the center. Another example is the dark shade of blue near it.
+*You can clearly see the texture of studs, in varying sizes and angles. Some are overlayed on top of another.
+*Not so obvious is the presence of gears here, except the one in the center, which has a bumpy stud texture. They are semi-transparent and scattered all over the icon.
+*There are multiple white lines which also seem to reverse the color of the image.
+<font color="#999999"><code>You can't see it properly. No one can. It's not even confined to this third dimension... Of course you can't. Who can? Do you?</code></font>
+|}
+----
+<font color="#999999"><code>Gears. Gears, all around you. Can you see them? Can you count them? Can you comprehend them? Are they more than a measly humanoid?</code></font>
+
+==Obstacles in this difficulty==
+Like I stated earlier, this difficulty is known for its lack of normal obstacles. I'm still gonna list them down here, because they're <span class="spoilerblur">obligatory.</span>
+
+''Also, not all of these are accurate. (I'm not good at making obstacles up.)''
+----
+<tabber>
+|-|
+Baseline=
+----
+===(obligatory) Normal Obstacles:===
+*68 stud jump
+*66 stud wrap
+*32 stud stickout wrap
+----
+===Special/Unique Obstacles:===
+*Comprehend the mess with your very eyes.
+*Successfully use 0.1 stud tall elevators to do a maze.
+*Climb a truss inside a part.
+*Do a 37 stud jump with perfect pinpoint precision.
+<font color="#999999"><code>Comprehension. That's almost all of it here. Comprehension. Why not comprehend me? Help me to. I've been trying hard... So, I deserve a reward. Any reward- maybe the first thing you can think of.</code></font>
+|-|
+Low=
+----
+===(obligatory) Normal Obstacles:===
+*71 stud jump
+*69 (nice) stud wrap
+*34 stud stickout wrap
+----
+===Special/Unique Obstacles:===
+*Get stuck in an instakill ceiling for a button.
+*Perform a controlled [https://www.youtube.com/watch?v=EspDTqZ0gME wall-corner fling].
+*Inset wallwalks.
+*Do a 37.1 stud jump with perfect pinpoint precision.
+<font color="#999999"><code>Why is everything so complicated? When did I become so complicated?</code></font>
+|-|
+Mid=
+----
+===(obligatory) Normal Obstacles:===
+*75 stud jump
+*73 stud wrap
+*36 stud stickout wrap
+----
+===Special/Unique Obstacles:===
+*Abuse lag-clipping.
+*Climb a cylinder inside a part.
+*0.001 stud wide wallwalks
+*Do a 37.2 stud jump with perfect pinpoint precision.
+<font color="#999999"><code>Even now, I wish that I can finally be free. Even then, I wished that I could finally be freed.</code></font>
+|-|
+High=
+----
+===(obligatory) Normal Obstacles:===
+*79 stud jump
+*77 stud wrap
+*38 stud stickout wrap
+----
+===Special/Unique Obstacles:===
+*10 mid-air flings through 1 stud squeezes.
+*Three stud high wallwalks.
+*Constantly wall-corner fling on the same part to stay afloat for 10 seconds.
+*Do a 37.3 stud jump with pinpoint precision.
+<font color="#999999"><code>Fling my heart. Crush my soul.</code></font>
+|-|
+Skyline=
+----
+===(obligatory) Normal Obstacles:===
+*83 stud jump
+*81 stud wrap
+*40 stud stickout wrap
+----
+===Special/Unique Obstacles:===
+*Avoid a fast 3-axis randomly-moving instakill brick using while constantly flinging for 5 seconds.
+*Do a 37.4 stud jump with pinpoint precision.
+<font color="#999999"><code>The sky is breathing. Waiting for me. It had been doing that since the beginning of my new life. I dissented, as always.</code></font>
+</tabber>
+===Other miscellaneous challenges:===      
+* Perfectly recreate the icon in one millisecond.
+*Complete [[w:c:jtoh:The Great Centurial|The Great Centurial]], buffed to {{Class6Difficulties|Malicious}} {{jht|''<span style="background:linear-gradient(90deg,#AAAAAA,#FF0000,#AAAAAA); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Malicious</span>'''}}, and do it ten times more, all while ablaze.
+*Defy all laws of physics; Spin your body with your hands out so fast that you basically become a helicopter. Jump ten meters high. Lift a blue whale with your pinky.
+*Somehow give yourself Schizophrenia and complete a {{Class6Difficulties|Schizophrenia}} '''[[User blog:EpicTheGamer2014/Schizophrenia|<span style="background:linear-gradient(90deg,#9c03c8,#57026f); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Schizophrenia</span>]]'''-difficulty monolith while suffering from a constant schizophrenic attack. Also, try to find a way to cure yourselves afterwards.
+*<u>Perfectly</u> visualise the fourth dimension.
+*Kill and thereafter revive yourself.
+*Make an official class 33 difficulty and have [[User:YourNuglyguy|YourNuglyguy]] love and applaud it.
+*Get a girlfriend at will. (I'm just kidding. This is actually closer to [[Theoretical]])
+
+<font color="#999999"><code>Challenges. I'm someone who don't like them as much as, for example, an old friend of mine- ah, never mind.</code></font>
+----
+<code><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #add8e6,#ffff66);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">''action performed: console:load[rblx/game/5678179502/archive/quotes/TooPreciseGuy/friend]''</span></code>
+
+==Explanation, why the story, and this eventual fruition of a triple question-marked character.==
+Remember how I (or you, probably) said that this page "''seems a little off-kilter''"? Well, you're not wrong! (<small>''I don't know if I should be excited or not.)''</small>
+----
+<code><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #add8e6,#ffff66);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">''action performed: console:call[TooPreciseCharacter]''</span></code>
+
+<font color="#999999"><code>Dude, do I seriously have to do this? Why can't you?! You're the one who edits the page! Don't push it all to me!!! Also, WHY AM I CALLED "TooPreciseCharacter"?? Couldn't you have given me a better name?! I know you're better than that...
+
+Anyway, I should probably introduce myself... Ah! That's right! The "triple question-marked character" actually has a name! Can you believe it? My name is (drumroll please...) <u>Abendregen.</u> Please don't tell me you expected something like...-</code></font>
+{{Quote|speaker=- you, probably|quote=Oh, COME ON. I expected something like The Ultimate Insane Godly Creat-}}
+==Catches==
+Every modern difficulty has catches. <font color="#999999"><code>Even this one, yes. Even the difficulty with the name starting with "Too" and ending with "Precise". What else is there other than "TooPrecise"? You piece the two parts together. What? Don't tell me there's something called "TooTooPrecise" that I don't know abo-</code></font>
+
+Yes, including this. Like any other difficulty nowadays, {{Class10Difficulties|TooPrecise}} <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #222222,#555555);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''<u>TooPrecise</u>'''</span> has a few catches. <u>Two</u>, to be exact.
+----   
+* There are gears all around you.
+*The obstacles are mostly glitches instead of the usual, normal jumps.
+I mean, they aren't that interesting. But there they are.
+
+<font color="#999999"><code>Oh, here's a catch. You're already dead. Amazing catch, isn't it? Yes, I agree. Also, stop cutting m-</code></font>
+
+We're almost nearing the end of the page! Now onto...
+
+==Towers that bear the creation==
+<font color="#999999"><code>In case you didn't know, you have a really bad habit of cutting people off while they're talking. TALKING! Doing the action of engaging in speech, talking. Do I need to spell it out for you? I'll stop talking this instant so you can't cut me o-</code></font>
+
+Feel free to add any towers here.
+----
+===Towers that are in the difficulty===
+
+* [[Obelisk of Endless Difficulty Amplifying]] (Secret ending)
+
+===Towers that contain the difficulty===      
+*[[Obelisk of Endless Difficulty Amplifying]] (as the secret ending floor)
+
+==Continuing from this point (WIP)==
+<font color="#999999"><code>What? Did you really expect ''me'' to do this section? After cutting me off so many times? NO! I've had enough with talking about random things that aren't even related to my cre- ''ahem'', I mean my <u>masterpiece</u>. Yes. My masterpiece, which no one shall ever survive in. <small>Then again, my previous guardians always taught me that I should never overestimate my power...</small>
+
+
+----
+After completing two legendary difficulties, a break is what you deserved, but instead you got this. And, beyond all comprehension, you actually managed to win a fight against that one difficulty which is way, way ''too precise'' for anyone. I must congratulate you, for somehow managing to get this far. Now, you have a few choices. 
+
+One, to move on to the Death Chain, which contain multiple variations of {{Class10Difficulties|MegaDeath}}'''[[MegaDeath|<span style="background:linear-gradient(90deg,red,#FF0000,#FFFF00,#FF0000,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">MegaDeath</span>]]''', each with their own quirks and special ways in giving you that "most painful experience" in obbies that you've always dreamed of.
+
+Second, to move on to the first class 11 difficulty. That's right. We're talking about [[File:Epitome.png|25px]][[Epitome|<span style="background:linear-gradient(90deg,#222222,#777777,#222222); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Epitome</span>]]! I'm sure that this your end. I mean, class 11. That's ten plus one... The difficulties only get exponentially harder from here onwards, so <u>good luck surviving</u>! (this is sarcasm)
+
+<font color="#999999"><code>Do I look sarcastic to you?</code></font>
+
+==What did we really want from all this?==
+<font color="#999999"><code>I don't know what to think about this, whole situation. I guess something will eventually happen, but when will it be then?</code></font>
+
+(...)
+
+<font color="#999999"><code>Well. I think I should go now. I really have to. An apology for everything before this, and this will be our golden farewell. I hope you have fun.<br />A good bye.</code></font>
+----
+<code><span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #add8e6,#ffff66);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">''action performed: console:load[rblx/game/5678179502/archive/quotes/TooPreciseGuy/appreciation]''</span></code>
+{{Quote (IPeedMyPants' Version)|quote=And the long-awaited golden farewell has concluded. I know you're looking, true or not. The person I've been waiting for. And if you're really not, you eventually will. Right? And I right, or left? (heh...) 
+I believe that something will eventually happen. Something good. Something desirable... something that I wish to happen. But it wouldn't matter anyways. I'm here, but not at the same time. I'm existing but missing at the same time. It's all because of that... wretched one. Do you know him? I don't really. I probably don't at all. I probably don't know who I truly am. I probably am just dreaming. All that time perception psychology. Alice in wonderland syndrome. Who knows? Not me, probably.|quoter=Abendregen}}
+
+==Trivia?==     
+* This was originally a non-approved Class 24 difficulty.
+*This was revamped by Phaxyi. (although he doesn't want to claim ownership because this is so unbelievably edgy and he's thinking Hey I might as well make this even edgier Stay tuned OoEDA EDGY REVAMP!)
+*(i believe) The first ever demonstration of <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #222222,#555555);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''<u>{{Class10Difficulties|TooPrecise}}</u>'''</span> <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(45deg, #222222,#555555);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''<u>TooPrecise</u>'''</span> was made by exyiel. It is the secret final difficulty of OoEDA.
+*There is actually a cheeky hidden in OoEDA's TooPrecise floor. See if you can find it. (Hint: It's ''too precise''.)
+*This is one of many difficulties that have a "Too" as the first three letters of its name.
+*The gears are from geometry dash.
+===byte milestones...===   
+* This hit 10,000 bytes on 6/13/2022.
+*This hit 20,000 bytes on 6/22/2022.
+----
+*Current number of bytes: {{REVISIONSIZE}}
+
+{{DifficultiesNavbox}}
+
+[[Category:Class 7]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Physically Impossible]]
+[[Category:Revamped Difficulty]]
+[[Category:Class Finale Difficulties]]

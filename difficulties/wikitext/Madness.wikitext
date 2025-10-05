@@ -1,0 +1,82 @@
+{{Background|File=Madness bg.jpg|Size=1500px}}
+
+{{Humanly Possible}}{{Classic}}
+{{NewDifficultyInfobox|image1=<gallery>
+Madness.PNG | Current
+MadnessAlt.jpg | Alternate
+</gallery>|class=Class 3|previous={{Class3Difficulties|Insane|30px}} [[w:c:jtoh:Insane|<span style="color:blue;">'''Insane''']]|next={{Class3Difficulties|Extreme|30px}} [[w:c:jtoh:Extreme|<span style="color:#0389ff;">'''Extreme''']]|creator(s)=Citadeloflaptopsplitting although Bruhshard1 fixed a lot of this page.
+TheEndlessNova revamped the page, but turned it into a JToH-style difficulty.|date_added=21st of October, 2020|decal_id=17069983995|date_removed=N/A|type=Normal Difficulty|hex_color=0077ff|rbg_color=0, 119, 255|hsl_color=212, 100, 50|altprevious=[[w:c:jtoh:Thanos (Difficulty)|Thanos]]|altnext=[[User blog:EpicTheGamer2014/Uneasy|Uneasy]]|official_music(s)=[https://www.youtube.com/watch?v=-_LqGaCieV0 Melanie Martinez - Mad Hatter (Instrumental)]|rating=9.5|rgb_color=0, 119, 255|alt_next=[[File:ClassicalHighQuality.png|30px]] [[Classical]]|sub_difficulty(ies)=[[File:ClassicalHighQuality.png|30px]] [[Classical]]}}[[File:Madness.PNG|frameless|30x30px]] <span style="color:#0077ff;">'''Madness'''</span> is a class 3 soul-crushing sub-difficulty of [[File:InsaneDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Insane|<span style="color:blue;">'''Insane'''</span>]] between it and [[w:c:jtoh:Extreme|<span style="color:#0389ff;&quot;">'''Extreme'''</span>]], being represented by the color dodger blue. Obstacles in this difficulty will be harder than those in [[w:c:jtoh:Insane|<span style="color:blue;">'''Insane'''</span>]], which means that towers of this difficulty will be a huge challenge for most obbyists.
+
+They require a very good amount of skill to beat, and obstacles of this level of difficulty will be mostly impossible for the average noob. This difficulty may even be a challenge for better obbyists. Beating a tower in this difficulty is a huge achievement.
+
+{{NewHeader-Dynamic|text=Icon Representation}}
+
+<span style="color:#0077ff;">'''Madness'''</span>’ icon is very simple, it’s just a blue square lighter than that of Insane, but darker than that of Extreme.
+
+For its alternate icon, it’s a darker blue background with even darker blue stripes and a black :P face on it.
+
+{{NewHeader-Dynamic|text=Obstacles}}
+
+===<span style="color:#0077ff;">Bottom ===
+
+*12.25 stud jumps.
+*Doing a 7 stud killbrick corner clip jump.
+*10.75 stud wraps.
+*Beating Insane, but 1.25x buffed.
+
+=== <span style="color:#0077ff;">Low ===
+
+* Beating ToC.
+*Doing a corner clip jump onto a 1 stud platform.
+*12.3 stud jumps.
+*10.8 stud wraps.
+
+=== <span style="color:#0077ff;">Mid ===
+
+* 12.4 stud jumps.
+* 10.85 stud wraps.
+*Doing a 9.5 stud dance clip jump.
+*Beating ToDM 3 times in a row.
+
+===<span style="color:#0077ff;">High ===
+
+*12.45 stud jumps.
+*10.9 stud wraps.
+*6.5 stud wrap arounds, but the brick you're supposed to wrap around is an killbrick that does 15 damage.
+*Wallhops, but the bottom platform is an killbrick that does 15 damage.
+
+===<span style="color:#0077ff;">Peak  ===
+
+* 12.475 stud jumps.
+*10.95 stud wraps.
+* 3 stud wraps, but the platform you're supposed to wrap around is an instakill.
+*2.8 stud walkarounds.
+{{NewHeader-Dynamic|text=Towers in this Difficulty}}
+*Tower of Madness: Buffed - Revamped (Fictional)
+*[[w:c:jtoh:ToC|Tower of Confusion]]
+*[[Tower of Curving Gradient]]
+*[[Tower of Double Sideds]]
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Tower of Descent Into Madness]
+{{NewHeader-Dynamic|text=Trivia}}
+*This is the first sub-difficulty made by Citadeloflaptopsplitting.
+**Bruhshard1 fixed it, twice.
+*[[User blog:EpicTheGamer2014/Annoying|Annoying]] is an XD difficulty in Class 4 that is basically this difficulty, but much harder.
+*Despite being a sub difficulty of Insane, this difficulty's color is closer to Extreme’s than Insane’s.
+* TheEndlessNova fixed this difficulty, but tried to make it in JToH style.
+{{NewHeader-Dynamic|text=Madness - Gallery}}<gallery>
+File:Madness.PNG|Madness.
+File:Madness's Portal.png|Madness’ portal in OoEDA.
+File:Difficulty Card for Madness.jpg|Madness’ difficulty card.
+File:MadnessAlt.jpg|Madness’ alternate icon.
+</gallery>{{NewHeader-Dynamic|text=Continuing From This Point}}
+
+Turns out you are very skilled. The difficulty after this is [[Classical]], however, if you want to move through difficulties quicker, skip to [[w:c:jtoh:Extreme|Extreme]]. Try some low Extreme towers like [[w:c:jtoh:Tower of Bloodthirsty Kenos|Tower of Bloodthirsty Kenos]] and always remember to keep trying.
+
+{{MainDifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 3]]
+[[Category:Soul Crushing]]
+[[Category:One color icon]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:WIP]]

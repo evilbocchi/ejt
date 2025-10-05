@@ -1,0 +1,153 @@
+<div style="background:#580000;padding:1em;font-family:rubik;border-left:5px solid #3E0000">
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:Invigorating.jpg|2000px]]</div>
+{{Scrollbox|Notices=
+'''Notices'''
+{{Large Page}}
+{{Collaboration}}
+{{Humanly Impossible}}
+}}
+----
+{{JToHW Quote|quoter={{USERNAME}}, probably|text=no way, another sanjay2133 difficulty!!!}}
+----
+{{NewDifficultyInfobox|image1=Invigorating.jpg|creator(s)=UnauthorizedPerson & Sanjay2133|class=Class 5|rating=34|type=Normal Difficulty (Humanly Impossible)|class_range=Low Class 5|date_added=April 25, 2023|previous=*[[File:New epsilon .PNG|30x30px]] [[Hellicious]]|next=*[[File:Apocalyptic.png|30x30px]] [[Apocalyptic]]|caption1=red noxious be like:|official_music(s)=The Quick Brown Fox - WANDERLUST|decal_id=71968634679950}}
+
+==Introduction -  [[File:Invigorating.jpg|50x50px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>[[Invigorating]]</big></span> ==
+'''[[File:Invigorating.jpg|30x30px]]''' <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Invigorating]]</span> is located in class 5, lying after [[File:New epsilon .PNG|30x30px]] [[Hellicious]], yet preceding [[File:Apocalyptic.png|30x30px]] [[Apocalyptic]]. In addition, this difficulty is classified as a "TAS impossible" difficulty, having a rating of 34 on the alternate difficulty chart.                                                                                                                 
+
+Although it is located in the first quarter of the alternate difficulty chart, it is still uncompletable by humans normally. In fact, it is even impossible to complete using Tool Assisted Speedruns, due to its placement in the difficulty chart. As a result, it is fruitless to attempt to complete a difficulty at this level, or any difficulty above [[File:Invigorating.jpg|30x30px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Invigorating]]</span>.
+
+An average tower in this difficulty would feature a variety of mechanics, various glitches, difficult purist sections, and confusing puzzles. Obstacles in '''[[File:Invigorating.jpg|30x30px]]''' <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Invigorating]]</span> are often long and punishing, taking an incredible amount of precision, timing, and luck to recreate.
+
+As a result, one attempting this difficulty would be recommended to use tools such as blessed coils, vertical mobility, and god mode to complete if he or she wanted to actually complete the difficulty, due to the excessive uses of instakills and the incredibly arduous obstacles.
+
+The origin of the name "[[File:Invigorating.jpg|30x30px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Invigorating]]</span>" comes from the word invigorating, which means making one feel strong, healthy, and full of energy. This may have to do with the fact that this difficulty requires a ton of strength and energy to require.
+
+It is also incredibly punishing. Many obstacles will have immense amounts of instakills, which will most certainly respawn one attempting a tower in this difficulty. There will also be many parts where it is easy to lose progress; in fact, it is likely that if one fails on any section of the difficulty, he or she would be compelled to restart the totality of the tower or obby.
+
+As previously mentioned, this difficulty has a rating of 34, as it is in between [[File:New epsilon .PNG|30x30px]] [[Hellicious]]<nowiki/>and [[File:Apocalyptic.png|30x30px]] [[Apocalyptic]]. Additionally, [[File:Invigorating.jpg|30x30px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Invigorating]]</span> would have a tier rating of ~37, and alternatively, it would have a Kol Metris rating of around |~450|.
+
+==Icon Representation -  [[File:Invigorating.jpg|50x50px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>[[Invigorating]]</big></span>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Difficulty’s Icons
+|-
+!'''Icon'''
+!'''Description'''
+|-
+| colspan="3" style="background: #830900; color: white" |'''Current'''
+|-
+| style="background-color: #4D0800;" |[[File:Invigorating.jpg|150x150px]]
+| style="background-color: #4D0800;" |The icon is incredibly simple. It merely consists of a black to red gradient, similar to that of [[File:Noxious.png|30x30px]] [[Noxious]].
+|}
+
+== Catches -  [[File:Invigorating.jpg|50x50px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>[[Invigorating]]</big></span>==
+*If a player stops moving for any longer than 1 second, they will take 20 damage. You also can’t regenerate health. If the player runs out of health, they will get sent back [[Aleph-Null]], and if it happens 5 times, they will start getting sent back to [[w:c:jtohs-hardest-towers:Why|Why]].
+* Everything is moving incredibly quickly, and if you miss the obstacles, you will be sent back to [[File:Noxious.png|30x30px]] [[Noxious]]
+*No items work when trying to beat this legitimately, they only work in practice mode. This includes TAS! The only exception is shift lock, of course.
+<tabber>
+|-|
+Basic=
+==Obstacles - Basic==
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Wraparounds
+| style="background-color: #014500;" |15.5 studs
+| style="background-color: #336000;" |15.53 studs
+| style="background-color: #6d5c00;" |15.56 studs
+| style="background-color: #964a00;" |15.59 studs
+| style="background-color: #5a0000;" |15.62 studs
+|-
+|Unclimbable Long Jump
+| style="background-color: #014500;" |15.67 studs
+| style="background-color: #336000;" |15.7 studs
+| style="background-color: #6d5c00;" |15.73 studs
+| style="background-color: #964a00;" |15.76 studs
+| style="background-color: #5a0000;" |15.79 studs
+|-
+|Climbable Long Jump
+| style="background-color: #014500;" |15.76 studs
+| style="background-color: #336000;" |15.79 studs
+| style="background-color: #6d5c00;" |15.82 studs
+| style="background-color: #964a00;" |15.85 studs
+| style="background-color: #5a0000;" |15.88 studs
+|-
+|Stick Out Wraparounds
+| style="background-color: #014500;" |5.4 studs
+| style="background-color: #336000;" |5.405 studs
+| style="background-color: #6d5c00;" |5.41 studs
+| style="background-color: #964a00;" |5.415 studs
+| style="background-color: #5a0000;" |5.42 studs
+|-
+|Cyllinder Wraparounds
+| style="background-color: #014500;" |13.13 studs
+| style="background-color: #336000;" |13.16 studs
+| style="background-color: #6d5c00;" |13.19 studs
+| style="background-color: #964a00;" |13.22 studs
+| style="background-color: #5a0000;" |13.25 studs
+|-
+|Raised Wraparounds
+| style="background-color: #014500;" |14.8 studs raised by 1 stud
+| style="background-color: #336000;" |14.83 studs raised by 1 stud
+| style="background-color: #6d5c00;" |14.86 studs raised by 1 stud 
+| style="background-color: #964a00;" |14.89 studs raised by 1 stud 
+| style="background-color: #5a0000;" |14.92 studs raised by 1 stud 
+|}
+|-|
+Custom=
+==Obstacles - Custom==
+''Disclaimer: Most of these obstacles are speedrun related due to the name being ‘Invigorating’.''
+
+===Low:=== 
+*12.4 stud instakill jump (you will need to tab glitch for this jump)
+*Beat CoV 3 times in a row, while it is buffed to [[w:c:jtohs-hardest-towers:Malicious|Malicious]].
+*Get to Malicious in [[Obelisk of Impossible Difficulty Chart|OoIDC]] in 45 minutes without noclip or TAS
+*5 stud, unclimbable stickout 4 times in a row
+*Build an accurate [[Malware]] citadel (playtesting it is not required)
+
+===Mid:===  
+*5 stud stickout to 2 stud lodge that is 3 studs away
+*31.2 stud jump with 32 SP or 100 JP (you can’t choose both or you have to do a 62 stud jump)
+*Beat The Impossible Obby without any deaths and in under 35 minutes (1 minute per stage)
+*Reach Final on The Ultimate Obby without any deaths and in under 30 minutes (45 seconds per stage)
+*Beat [[w:c:jtoh:Tower of Annoyingly Simple Trials|ToAST]] in under 2 minutes and 15 seconds
+
+===High:===
+* Beat Doors Hotel+ in under 11 minutes
+*14 stud wraparound 9 times in a row
+*Beat [[w:c:jtoh:Citadel of Wacky Strategy|CoWS]] in under 20 minutes
+*Do a 450 stud ladder flick in 10 seconds
+*4.9 stud wallhop stickout
+</tabber>
+==Towers -  [[File:Invigorating.jpg|50x50px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>[[Invigorating]]</big></span>==
+===In this difficulty===
+*Tower of The Road to Denial (Fictional)
+* The Trial: Unrebirthed (and lengthened) (Fictional)
+*[[500 Second Trial]] (Obby Creator)
+*[[The Tower Series|The Tower Series: Tower 2]]
+*[[Tower of Higher Levels of Punishment]] (Low)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Mini-Steeple of Scotophobia] (QToN Ring 5)
+===With this difficulty===
+*N/A
+
+==Trivia -  [[File:Invigorating.jpg|50x50px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>[[Invigorating]]</big></span>==
+*This difficulty is a collab between [[User:UnauthorizedPerson|UnauthorizedPerson]] and [[User:Sanjay2133|Sanjay2133]].
+*[[File:Invigorating.jpg|30x30px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Invigorating]]</span>'s name is similar to that of [[File:Vigorous.png|50px]] [[Vigorous]], and is a predecessor of it, in terms of difficulty.
+*This difficulty was going to be a Class 2 difficulty, but that class was locked without exception.
+
+==Continuing from this point -  [[File:Invigorating.jpg|50x50px]] <span style="background:linear-gradient(black, #830900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>[[Invigorating]]</big></span>==
+It is quite unlikely and downright impossible one could somehow complete a difficulty at this magnitude, but if he or she in fact did, it would be advised to continue onto [[File:Apocalyptic.png|30x30px]] [[Apocalyptic]], the next difficulty.
+{{DifficultiesNavbox}}
+[[Category:Humanly Impossible]]
+[[Category:Difficulties]]
+[[Category:Class 5]]
+[[Category:Collab Page]]
+[[Category:Difficulties made by Sanjay2133]]
+[[Category:Unfinished Pages]]
+[[Category:Gradient Difficulties]]
+[[Category:Large Pages]]

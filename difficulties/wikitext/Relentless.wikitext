@@ -1,0 +1,303 @@
+<div style="background: linear-gradient(to bottom, #2b007c, #1e0056);padding:1em;font-family:rubik;border:15px solid #5900ff;border-radius:15px">
+__NOTOC__{{NoticeScrollboxNew|Notices={{Class Finale}}{{Humanly Possible}}{{Fabled Difficulty}}{{Large Page}}{{Background|File=RelentlessBG.webp|Size=2000px}}}}
+
+==[[File:Relentless2.png|frameless|30x30px]]<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff, #6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> Relentless - Introduction ==
+{{NewDifficultyInfobox
+|title1 = '''<span style="color:#7000ff>Relentless</span>'''
+|image1 = <gallery>
+Relentless2.png | Current
+Relentless.png | Old
+Unofficial Relentless.png | Unofficial
+Relentless revamp.png| Alternate
+Relentless_Shaped.png | shape ver.
+PARelentless.webp | The Pixelation Project
+</gallery>
+|class = [[:Category:Class 2|<span style="text-shadow: 0 0 4px #7000ff; color:#7000ff"><b>Peak Class 2]]</b>
+|previous = [[File:Psycho.png|30px|link=[[Psycho]]]] [[Psycho]]
+|next = [[File:VexatiousIcon.png||30x30px]] <span style="color:#402ccc;text-shadow:0 2px 3px #402ccc">'''Vexatious'''</span>
+|decal_id = 17505909859
+|sub_difficulty(ies) =<br>[[File:AngerableRemake.png|30px|link=[[Angerable]]]] [[Angerable]]<br>[[User blog:IMEga692/Red Happy Face|Red Happy Face]]<br>(CDC) 
+|date_added = 29/01/2021 at 19:41 GMT
+|previous_sub_difficulty(ies) =*[[File:Harsh.png|30x30px]] [[User blog:EpicTheGamer2014/Harsh|Harsh]] 
+|hex_color=<nowiki/>#5900ff|rgb_color=89, 0, 255|rgba_color=72, 0, 255, 1|cmyk_color=65, 100, 0, 0|type=[[Category:Class Finale Difficulty|Class Finale Difficulty]]|difficulty_range=Baseline - Peak|main_difficulty=None|creator(s)=FruStgd (Creator)
+Bruhshard1 (Revamper)|short_name=Rel|alt_names=|original_type=Normal Difficulty|previous_type(s)=Normal Difficulty|revamp_date=6/7/2022|official_music(s)=Cuphead - Junkyard Jive|alt_previous=[[File:Harsh.png|30px|link=[[Harsh]]]] [[Harsh]]|alt_next=[[File:AngerableRemake.png|30px|link=[[Angerable]]]] [[Angerable]]|rating=8.00-8.49 in (EJT)
+
+7.80-7.99 (EToH)|class_range=|caption1=The Gateway to the Soul Crushings...|hsv_color=261, 100, 100|hsl_color=261, 100, 50}}
+[[File:Relentless2.png|frameless|30x30px]]''' Relentless''' is a Class 2 Finale difficulty that is in between [[File:Psycho.png|link=Psycho|30x30px]] [[Psycho]] and [[File:VexatiousIcon.png||30x30px]] <span style="color:#402ccc;text-shadow:0 2px 3px #402ccc">'''Vexatious'''</span>. This difficulty holds the range of 7.80-7.99 in EToH, and 8.00-8.49 in EJT. Normally, this should be attempted after [[File:Harsh.png|frameless|31x31px]] [[User blog:EpicTheGamer2014/Harsh|Harsh]] because it is the last of the normal difficulties towards Class 3. The obstacles here are the last to have a normal difficulty curve, as the gaps between soul-crushing difficulties up to [[File:NewSquareSupreme.png|45x45px]] [[Supreme]] will become drastically more difficult and harder to adapt.
+
+Around this point, we are about halfway through the journey of reaching impossible difficulties. Macros and exploits aren't recommended, due to it mainly being hacks, and due to the fact that this difficulty is very possible, for a really good obbyist.
+
+==<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff, #6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Relentless - Icon Representation==
+{| class="fandom-table"
+|+
+!Category
+!Icon
+!Description
+|-
+|Current
+|[[File:Relentless2.png|frameless]]
+|As simple as it gets, just a singular color that is royal purple. An additional blend between [[w:c:jtoh:Remorseless|Remorseless]] and [[w:c:jtoh:Insane|Insane]].
+|-
+|Old
+|[[File:Relentless.png|left|frameless]]
+|This icon is extremely similar to the current one expect it is slightly bluer, making it hard to distinguish from [[w:c:jtoh:Insane|Insane]].
+|-
+|Unofficial
+|[[File:Unofficial Relentless.png|left|frameless]]
+|A simple icon with a 135° gradient from a purplish royal purple to the color seen on the current icon.
+|}
+
+== <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff,#6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Relentless - Placement ==
+
+=== High Class 2 ===
+
+* [[File:ChallengingDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/Challenging Challenging] [5] (Completed)
+** [[File:Irritating square.PNG|frameless|30x30px]] [[Irritating]] [5.25] (Completed)
+* [[File:Maniacal.jpg|frameless|30x30px]] [[Maniacal]] [5.5] (Completed)
+** [[File:Hectic.png|30x30px]] [[Hectic]] [5.75] (Completed)
+* [[File:IntenseDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/Intense Intense] [6] (Completed)
+** [[File:TooMedium.pmg.webp|frameless|30x30px]] [[TooMedium]] [6.25] (Completed)
+
+=== Peak Class 2 ===
+
+* [[File:Severe2.png|frameless|30x30px]] [[Severe]] [6.5] (Completed)
+** [[File:Hellish2.PNG|frameless|29x29px]] [[Hellish]] [6.75] (Completed)
+* [[File:RemorselessDifficulty.jpg|frameless|30x30px]] [https://jtoh.fandom.com/Remorseless Remorseless] [7] (Completed)
+** [[File:CORRUPT.png|frameless|30x30px]] [[C0RrUpT]] [7.25] (Completed)
+* [[File:Psycho.png|frameless|30x30px]] [[Psycho]] [7.5] (Completed)
+** [[File:Harsh.png|frameless|30x30px]] [[Harsh]] [7.75] (You are here)
+* [[File:Relentless2.png|frameless|30x30px]] [[Relentless]] [8] (You are here)
+** [[File:AngerableRemake.png|frameless|30x30px]] [[Angerable]] [8.25] (Uncompleted)
+
+=== Baseline Class 3 ===
+
+* [[File:VexatiousIcon.png|frameless|30x30px]] <span style="color:#402ccc;text-shadow:0 2px 3px #402ccc">'''Vexatious'''</span> [8.5] (Uncompleted)
+** [[File:MeshugaNew.png|frameless|30x30px]] [[Meshuga]] [8.75] (Uncompleted)
+* [[File:InsaneDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Insane|Insane]] [9] (Uncompleted)
+** [[File:ThanosIcon.jpeg|frameless|30x30px]] [[w:c:jtoh:Thanos (Difficulty)|Thanos]] [9.25] (Uncompleted)
+* [[File:Madness.PNG|frameless|30x30px]] [[Madness]] [9.5] (Uncompleted)
+** [[File:ClassicalHighQuality.png|frameless|30x30px]] [[Classical/Classical: High Quality Version|Classical]] [9.75] (Uncompleted)
+
+==<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff,#6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Relentless - Obstacles==
+
+===Baseline Relentless === 
+
+*10 stud wraps
+*12 stud climbable jumps
+*11.75 stud unclimbable jumps
+*2.5 stud stickout on a 2.5 stud long wrap.
+*3.333 stud ladder flick wraps.
+
+===Low<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff, #6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> Relentless ===
+
+*10.1 stud wraps
+*12.1 stud climbable jumps
+*11.9 stud unclimbable jumps
+*2.75 * 2.75 stud stickouts
+*3.75 stud ladder flick wraps
+* Doing a MACF. (Mid-Air Corner Flip)
+
+===Mid<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff, #6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> Relentless ===
+*10.15 stud wraps
+*12.25 stud climbable jumps
+*12 stud unclimbable jumps
+*3x3 stud wrap.
+* 4 stud ladder flick wraps
+*Dance Clip jump
+
+===High<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff, #6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> Relentless ===
+
+*10.2 stud wraps
+*12,35 stud climbable jumps
+*12.21 stud unclimbable jumps
+*3.1 x 3.1 stud wrap,
+*4.2 stud ladder flick wraps
+
+=== Peak<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff, #6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> Relentless ===
+*10.35 stud wraps
+*12.4 stud climbable jumps
+*12.22 stud unclimbable jumps
+*3.15 x 3.15 stud wraps
+* 4.22 stud ladder flick wraps
+
+== <span style="font-weight:bold;font-size:100%;background:-linear-gradient(#6600ff,#6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Relentless - Advanced Obstacles ==
+
+=== Baseline Relentless ===
+
+* Do 3 Psychologically Unsafe monthly challenges in a row.
+* Timed Vine maze with elevators that push you back and then use the momentum to land on a wallhop.
+* Make a YouTube channel with over 5 thousand subscribers. (You start with nothing)
+
+=== Low Relentless ===
+
+* Do the 14x10 stud wallwalk from CoACT.
+* Beat the "Every last SC jump" game up to Catastrophic.
+* Read a 500 page book in 4 hours.
+
+=== Mid Relentless ===
+
+* Do a 1 second beatblock truss flick with some 1x1 poles in the way, then land on a lodgewalk.
+* Fling control out of bounds in EToH.
+* Find every single hidden portal in EToH.
+
+=== High Relentless ===
+
+* Chain together 5 different 0.1 second fade truss jumps at various angles.
+* Do a dance clip jump to cross a 1.5 stud stickout headhitter and land on the top. (Basically a buffed version of the "Dance for me" jump from ToRRA)
+* Make a passing non-anarchy fangame tower.
+
+=== Peak Relentless ===
+
+* Beat any soul crushing tower in under 15 minutes.
+* Choose 5 jumps from STH to do, then do all 5 in a row.
+* Engineer a [[wp:Matchbox Educable Noughts and Crosses Engine|matchbox computer]] and use it to calculate the first 3 digits of pi.
+
+==<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#5900ff,#5900ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Relentless - Towers==
+'''[_.__] = EToH Diff'''
+
+(_.__) = EJT Diff
+{| class="mw-collapsible wikitable" style="text-align:center; width: 100%;"
+|+<span style="font-weight:bold;font-size:100%;background: linear-gradient(to right, #5900ff,#1900ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent;"><big>Table Format</big></span>
+!'''Unknown'''
+!'''Baseline'''
+'''[7.8 - 7.83]''' 
+
+(8.00 - 8.19)
+!'''Low'''
+'''[7.84 - 7.87]'''
+
+(8.20 - 8.39)
+!'''Mid'''
+'''[7.88 - 7.91]'''
+
+(8.40 - 8.59)
+!'''High'''
+'''[7.92 - 7.95]'''
+
+(8.60 - 8.79)
+!'''Peak'''
+'''[7.96 - 7.99]'''
+
+(8.80 - 8.99)
+|-
+| style="background: #3e00b2; color: #ffffff" |SoODC
+NEaAST:TW
+
+MSoNSP <sub>(CET)</sub>
+
+ToNaS <sub>(QToN)</sub>
+
+ToSLH <sub>(QToN)</sub>
+
+NEaSLH <sub>(QToN XS)</sub>
+| style="background: #5900ff; color: #ffffff" |ToTME(M) <sub>(EToH)</sub>
+CoIC <sub>(EToH)</sub>
+| style="background: #4900ff; color: #ffffff" |ToDI(M) <sub>(EToH)</sub>
+OoU <sub>(EToH:XL)</sub>
+
+CoQ <sub>(EToH)</sub>
+
+OoV <sub>(EToH)</sub>
+
+ToPL <sub>(EToH)</sub>
+
+ToPP <sub>(EToH)</sub>
+| style="background: #3900ff; color: #ffffff" |SoSoWL <sub>(AToS)</sub>
+ToLM(M) <sub>(EToH)</sub>
+
+OoCR <sub>(EToH:XL)</sub>
+
+ToTLF <sub>(AToS)</sub>
+CoFO <sub>(AToS)</sub>
+| style="background: #2900ff; color: #ffffff" |ToVITE <sub>(EToH)</sub>CoES <sub>(EToH:XL)</sub>
+
+ToTP <sub>(EToH:XL)</sub>
+
+ToZA <sub>(EToH)</sub>
+CoZ <sub>(EToH:XL)</sub>
+
+ToCN <sub>(EToH)</sub>
+
+CoP <sub>(EToH)</sub>
+| style="background: #1900ff; color: #ffffff" |ToWW <sub>(AToS)</sub>
+CoWS <sub>(EToH)</sub>ToZ <sub>(EToH)</sub>
+
+ToTV <sub>(EToH)</sub>
+CoCN <sub>(EToH:XL)</sub>
+
+CoCA <sub>(AToS)</sub>
+
+CoOTWI <sub>(EToH)</sub>
+|}
+
+=== Baseline ===
+
+* [[w:c:jtoh:ToTME(M)|Tower of The Mind Electric]] <sub>(EToH)</sub> '''[7.83]''' | (8.18)
+* [[w:c:jtoh:CoIC|Citadel of Increasing Claustrophobia]] <sub>(EToH)</sub> '''[7.83]''' | (8.19)
+
+=== Low ===
+* [[w:c:jtoh:ToDI(M)|Tower of Demonic Inspiration]] <sub>(EToH)</sub> '''[7.84]''' | (8.20)
+* [[w:c:etoh-xl:OoU|Obelisk of Uneasiness]] <sub>(EToH:XL)</sub> '''[7.84]''' | (8.26)
+* [[w:c:jtoh:CoQ|Citadel of Quadrilaterals]] <sub>(EToH)</sub> '''[7.85]''' | (8.27)
+* [[w:c:jtoh:OoV|Obelisk of Void]] <sub>(EToH)</sub> '''[7.85]''' | (8.28)
+* [[w:c:jtoh:ToPL|Tower of Power Laws]] <sub>(EToH)</sub> '''[7.86]''' | (8.32)
+* [[w:c:jtoh:ToPP|Tower of Pastel Pillars]] <sub>(EToH)</sub> '''[7.87]''' | (8.39)
+
+=== Mid ===
+* [[w:c:atos:Steeple_of_Steeple_of_Weegee_Land|Steeple of Steeple of Weegee Land]] <sub>(AToS)</sub> '''[7.88]''' | (8.40)
+* [[w:c:jtoh:ToLM(M)|Tower of Luminescent Midnight]] <sub>(EToH)</sub> '''[7.88]''' | (8.45)
+* [[w:c:etoh-xl:OoCR|Obelisk of Contrasting Regions]] <sub>(EToh:XL)</sub> '''[7.88]''' | (8.46)
+* [[w:c:atos:Tower_of_Tremendous_Little_Flicker|Tower of Tremendous Little Flicker]] <sub>(AToS)</sub> '''[7.90]''' | (8.51)
+* [[w:c:atos:Citadel_of_Foul_Obligations|Citadel of Foul Obligations]] <sub>(AToS)</sub> '''[7.91]''' | (8.58)
+
+=== High ===
+
+* [[w:c:jtoh:ToVITE|Tower of Voyaging Into The Earth]] <sub>(EToH)</sub> '''[7.92]''' | (8.60)
+* [[w:c:etoh-xl:CoES|Citadel of Eternal Suffering]] <sub>(EToH:XL)</sub> '''[7.92]''' | (8.65)
+* [[w:c:jtoh-xl-project:Tower of Towering Pillars|Tower of Towering Pillars]] <sub>(EToH:XL)</sub> '''[7.93]''' | (8.66)
+* [[w:c:jtoh:ToZA|Tower of Zany Architecture]] <sub>(EToH)</sub> '''[7.94]''' | (8.74)
+* [[w:c:etoh-xl:CoZ|Citadel of Zespluz]] <sub>(EToH:XL)</sub> '''[7.94]''' | (8.74)
+* [[w:c:jtoh:ToCN|Tower of Corrupted Nightmares]] <sub>(EToH)</sub> '''[7.95]''' | (8.77)
+* [[w:c:jtoh:CoP|Citadel of Peril]] <sub>(EToH)</sub> '''[7.95]''' | (8.79)
+
+=== Peak ===
+
+* [[w:c:atos:Tower of Warping Wraps|Tower of Warping Wraps]] <sub>(AToS)</sub> '''[7.96]''' | (8.82)
+* [[w:c:jtoh:CoWS|Citadel of Wacky Strategy]] <sub>(EToH)</sub> '''[7.96]''' | (8.83)
+* [[w:c:jtoh:ToZ|Tower of Zespluz]] <sub>(EToH)</sub> '''[7.97]''' | (8.88)
+* [[w:c:jtoh:ToTV|Tower of Tornado Vehemence]] <sub>(EToH)</sub> '''[7.98]''' | (8.92)
+* [[w:c:etoh-xl:CoCN|Citadel of Corrupted Nightmares]] <sub>(EToH:XL)</sub> '''[7.99]''' | (8.95)
+* [[w:c:atos:Citadel_of_Calm_Arrogance|Citadel of Calm Arrogance]] <sub>(AToS)</sub> '''[7.99]''' | (8.99)
+* [[w:c:jtoh:CoOTWI|Citadel of Overcoming The World's Imperfections]] <sub>(EToH)</sub> '''[7.99]''' | (8.99)
+
+=== Unknown ===
+
+* SoODC - [[Structure of Oldest Difficulty Chart]] '''[7.??]''' | (8.??)
+* NEaAST:TW [[Not even an Annoyingly Simple Trials: Time Wasting|Not Even an Annoyingly Simple Trials: Time Wasting]] '''[7.??]''' | (8.??)
+*MSoNSP - [https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Mini Steeple of Non Stop Playing] '''[7.??]''' | (8.??)
+* ToNaS - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Tower of Nonsense and Stupidity] '''[7.??]'''| (8.??)
+* ToSLH - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Tower of Scaling Large Heights] '''[7.??]'''| (8.??)
+* NEaSLH - [https://www.roblox.com/games/130994144609857/RING-2-QToN-XS Not Even a Scaling Large Heights] (QToN XS Ring 2) '''[7.??]'''| (7.??)
+== <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(#6600ff,#6600ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Trivia ==
+*<s>This is the first main difficulty from effortless to nil, that was never in JTOH.</s>
+*<s>This difficulty is the first to have no sub difficulties in effortless - nil.</s> 
+**Both of these are invalid, due to recent changes.
+*This difficulty is actually used in Wow's Towers of Screaming and Lier's Towers of Limbo. 
+**It's also used in Derp's Towers of Chaos, under the name Treacherous.
+*Most DC towers opt to not put this difficulty in their DC towers, and instead either put a sub difficulty of remorseless like [[File:CORRUPT.png|frameless|30x30px]] [[C0RrUpT]], or they don’t even put a sub difficulty in either.
+*This is the difficulty that popularized the non-sub difficulties in the EToH range trend, before it was stopped by YataDev a while later.
+**Later, the chart was updated for every EToH range difficulty to have a X.5 main difficulty between them.
+***However, this difficulty and [[Anguish]] are the only two EToH range difficulties to have a separate rating number.
+
+==Continuing from this point==
+You’ve finally finished Class 2! If you want to move on, you should attempt [[w:c:jtoh:Insane|Insane]], the first SC difficulty. From this journey, you’ve grown to be quite a skilled and admirable player. Now, it is time to become an Elite Obbyist. Good luck and move on. 
+
+{{MainDifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Class 2]]
+[[Category:Possible]]
+[[Category:Class Finale Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Official]]
+[[Category:Official Difficulty]]

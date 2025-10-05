@@ -1,0 +1,1549 @@
+{{DISPLAYTITLE:<font size="6.7"><span id="spectrumplex">Spectrumplex</span></font>}}
+{{SpectrumplexTheme}}{{Background|opacity=1|File=WhiteGradientBackground.png}}
+{{CSS|content=<nowiki> 
+/* Fonts Used */
+/** Butler **/
+@import url('https://fonts.cdnfonts.com/css/butler');
+
+/* Obstacle Table */
+th.ot, td.ot {
+    color: #fff;
+    box-shadow: inset 0 0 0 0.5px #fff;
+    text-shadow: none;
+    background: none
+}
+th.ot {
+    text-shadow: 0 0 0.2em #000
+}
+
+/* Table styling */
+
+/** Old Icon Colors table **/
+th.ODITP { background-color: #000000 }
+th.ODITPO { background-color: #ffffff }
+th.ODITD { background-color: #ff9500 }
+th.ODIFa { background-color: #ffaa00 }
+th.ODIST { background-color: #ffc000 }
+th.ODIIN { background-color: #ffd500 }
+th.ODISP { background-color: #ffea00 }
+th.ODIMid { background-color: #ffff00 }
+th.ODINew { background-color: #c7ff00 }
+th.ODILow { background-color: #80ff00 }
+th.ODIBE { background-color: #58d306 }
+th.ODILG { background-color: #31a904 }
+th.ODIBD { background-color: #008000 }
+th.ODIPLGT { background-color: #000000 }
+th.ODIPLGB { background-color: #009c85 }
+th.ODISPO { background-color: #4f0800 }
+th.ODIBEO { background-color: #4f8e22 }
+th.ODIPLO { background-color: #808080 }
+
+/** Second Old Icon Colors table **/
+th.SOIAD { background-color: #731818 }
+th.SOIPe { background-color: #c83131 }
+th.SOIPeO { background-color: #912525 }
+th.SOIHi { background-color: #c87a31 }
+th.SOIHiO { background-color: #895422 }
+th.SOIMid { background-color: #c8c831 }
+th.SOIMidO { background-color: #9c9c2a }
+th.SOILow { background-color: #5ec831 }
+th.SOILowO { background-color: #418922 }
+th.SOIBL { background-color: #31c836 }
+th.SOIBLO { background-color: #1d6e1f }
+th.SOIBD { background-color: #33ffbe }
+th.SOISGL { background-color: #777777 }
+th.SOISGR { background-color: #353535 }
+th.SOISO { background-color: #464646 }
+
+/** Original Icon Colors table **/
+th.OITP { background-color: #000000 }
+th.OITPO { background-color: #ffffff }
+th.OIAD { background-color: #970001 }
+th.OIPe { background-color: #790000 }
+th.OIST { background-color: #a33201 }
+th.OIHi { background-color: #744903 }
+th.OIMo { background-color: #a13002 }
+th.OISr { background-color: #9f7e00 }
+th.OISy { background-color: #7f7106 }
+th.OIMid { background-color: #ffee01 }
+th.OINew { background-color: #67b200 }
+th.OILow { background-color: #097400 }
+th.OILG { background-color: #3aac02 }
+th.OIBL { background-color: #023204 }
+th.OIPF { background-color: #9f70b4 }
+th.OIEN { background-color: #32b367 }
+th.OIBD { background-color: #44a18a }
+th.OIHN { background-color: #535353 }
+th.OIHNO { background-color: #000000 }
+
+/** Difficulty Range **/
+th.baseRgn { background-color: #59807e }
+th.lowRgn { background-color: #4a9165 }
+th.midRgn { background-color: #5d612a }
+th.highRgn { background-color: #806f37 }
+th.peakRgn { background-color: #6b4238 }
+
+/** The other **/
+th.skylRgn { background-color: #4d2522 }
+th.ReinRgn { background-color: #735736 }
+th.TransRgn { background-color: #525252 }
+th.EoIRgn { background-color: #000000 }
+
+/** IHaC table **/
+th.Icon { background-color: #000000 }
+
+/* Infobox styling */
+.portable-infobox {
+    border-image: linear-gradient(#bbb, #fff, #bbb) 30;
+	border-width: 2px;
+    box-shadow: inset 0 0 0 2px #808080, 0 0 16px #ffffffbb;
+    outline: 2px solid #fff;
+    outline-offset: 5px;
+    --pi-background: #000000
+}
+
+.portable-infobox .wds-tabs__tab {
+	color: #fff
+}
+
+.table {
+	border-collapse: collapse;
+    overflow: hidden;
+	text-align: center;
+	border: 2px solid #fff;
+    background-color: #111;
+    width: 100%;
+	text-align: center;
+    box-shadow: 0 0 0.8em #FFF8;
+    filter: none
+}
+
+th.table {
+    padding: 0.6em 1em
+}
+
+/** Black outline **/
+td.blackline, th.blackline {
+    text-shadow: -0.07em 0.07em #000, 0 0.07em #000, 0.07em 0.07em #000, -0.07em 0 #000, 0.07em 0 #000, -0.07em -0.07em #000, 0 -0.07em #000, 0.07em -0.07em #000
+}
+
+/** Black outline for spectrum list **/
+span.blackline {
+    text-shadow: -0.07em 0.07em #000, 0 0.07em #000, 0.07em 0.07em #000, -0.07em 0 #000, 0.07em 0 #000, -0.07em -0.07em #000, 0 -0.07em #000, 0.07em -0.07em #000
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices={{VERY Large Page}}{{Unclassified}}{{Bad Grammar}}}}
+<div style="box-sizing:border-box; padding:0.5em">{{NewDifficultyInfobox|gradient=#000,#111|title1=<span id="spectrumplex">Spectrumplex</span>|image1=NewSpectrumplex.png|class=[[:Category:Unclassified|Unclassified]]|rating=-∞ to ∞|type=Normal|caption1=Randomly choose what spectrum you'll face.|class_range=|creator(s)=[[File:Astrominalfandompfp.png|24px|link=User:Astrominal]] [[User:Astrominal|Astrominal]] (Creator)<br>[[File:NEaT resized.png|24px|link=User:HammockIsHere]] [[User:HammockIsHere|HammockIsHere]] (Spectrum Ideas)|previous_creator(s)=[[User:Touchgrass210779|Touchgrass210779]] (Old Grammar Fix)|date_added=<h3>Original Page</h3>
+October 6th 2023
+<h3>Blog Version</h3>
+July 5th 2023‎|date_removed=April 19th 2024|removal_reason=Author request.|revamp_date=<h3>Second Revamp</h3>
+September 26th 2024 - October 25th 2024
+<h3>First Revamp</h3>
+October 6th 2023 - October 22nd 2023|revival_date=September 27th 2024|difficulty_range=[[File:Tfird.png|40px]] [[The First Difficulty]] to [[File:Final.png|40px]] [[The Final Difficulty.]]}}</div>
+<h2>What is [[File:NewSpectrumplex.png|30px]] <span id="spectrumplex">Spectrumplex</span>?</h2>
+[[File:NewSpectrumplex.png|25px]] <span id="spectrumplex">Spectrumplex</span> is an [[:Category:Unclassified|Unclassified]] difficulty which ranges from [[File:Tfird.png|40px]] [[The First Difficulty]] to [[File:Final.png|40px]] [[The Final Difficulty.]], encompassing both the [[Main Difficulty Chart]] (MDC) and [[Extended Difficulty Chart]] (EDC), more specifically every class from [[:Category:Class Negative|Class Negative]] (C-) to [[:Category:Class 22|Class 22]] (C22). Additionally, this difficulty also includes other [[:Category:Unclassified|Unclassified]] difficulties such as [[File:Construct New.png|25px]] [[Construct]], [[File:Walking.2.png|25px]] [[Walking]], and so on.
+
+<h2>Catches</h2>
+The singular catch for this difficulty is that the entirety of the MDC and EDC is split into a total of 115 spectrums, to which a spectrum is chosen at random.
+
+These spectrums refer to the Baseline to Skyline sections of a class, such as Baseline [[:Category:Class 2|Class 2]] (C2), Peak [[:Category:Class 6|Class 6]] (C6), etc. Additionally, every spectrum is given a name specific to this difficulty (ex. the two spectrums mentioned before are called 'Newbie' and 'Errorpheral' respectively).
+
+<h2>History</h2>
+[[File:NewSpectrumplex.png|25px]] <span id="spectrumplex">Spectrumplex</span> was originally a joke difficulty that was created on July 5th, 2023 as a blogpost. After a few months, on October 6th 2023, the first revamp to this difficulty was made, and eventually passed review before being given a page of its own on October 22nd, 2023. However, this difficulty was removed on April 19th, 2024 by the author's request, but was revived with a revamp, which was finished on October 25th, 2024.
+
+This difficulty was also meant to have the largest page in the entirety of this wiki, being 200k+ bytes at one point; that was scrapped, however. Also, the total amount of spectrums in [[File:NewSpectrumplex.png|25px]] <span id="spectrumplex">Spectrumplex</span> was allegedly 53 and 63 at some point before. However, after a rework, the total became 115, which is the amount that currently exist in [[File:NewSpectrumplex.png|25px]] <span id="spectrumplex">Spectrumplex</span> currently.
+<h2>Icon History and Representation (grammar fix :/)</h2>
+<tabber>
+|-|Icon Representation=
+<div style="padding:0.7em">
+<h3><font size="7">Icons</font></h3>
+<br>
+<center>
+<table class="table mw-collapsible mw-collapsed" style="text-align:center; width:90%">
+<tr>
+<th colspan="3" class="table"><font size="6.5">Current Version</font></th>
+</tr>
+<tr>
+<td class="table"><font size="5.25">Icon</font></td>
+<td colspan="2" class="table"><font size="5.25">Information</font></td>
+</tr>
+<tr>
+<th rowspan="4" class="table ot" style="padding:1.3em">[[File:NewSpectrumplex.png|274px]]</th>
+<td class="table"><font size="5">Version:</font></td>
+<th class="table">Current/Version 4</th>
+</tr>
+<tr>
+<td class="table"><font size="5">Date:</font></td>
+<th class="table">September 26th 2024</th>
+</tr>
+<tr>
+<td class="table"><font size="5">File Size:</font></td>
+<th class="table">4.24 MB</th> 
+</tr>
+<tr>
+<td class="table"><font size="5">User Made:</font></td>
+<th class="table">???</th>
+</tr>
+<tr>
+<th colspan="3" class="table"><font size="5.25">Representation:</font></th>
+</tr>
+<tr>
+<th colspan="3" class="table">Text goes here :O</th>
+</tr>
+</table>
+</center>
+<br>
+----
+<br>
+<center>
+<table class="table mw-collapsible mw-collapsed" style="text-align:center; width:90%">
+<tr>
+<th colspan="3" class="table"><font size="6.5">Old Version</font></th>
+</tr>
+<tr>
+<td class="table"><font size="5.25">Icon</font></td>
+<td colspan="2" class="table"><font size="5.25">Information</font></td>
+</tr>
+<tr>
+<th rowspan="4" class="table ot" style="padding:1.3em">[[File:Spectrumplex new new.png|274px]]</th>
+<td class="table"><font size="5">Version:</font></td>
+<th class="table">Old/Version 3</th>
+</tr>
+<tr>
+<td class="table"><font size="5">Date:</font></td>
+<th class="table">October 19th 2023</th>
+</tr>
+<tr>
+<td class="table"><font size="5">File Size:</font></td>
+<th class="table">372 KB</th> 
+</tr>
+<tr>
+<td class="table"><font size="5">User Made:</font></td>
+<th class="table">[[User:Astrominal|Astrominal]]</th>
+</tr>
+<tr>
+<th colspan="3" class="table"><font size="5.25">Representation:</font></th>
+</tr>
+<tr>
+<th colspan="3" class="table">The old icon represents two gradients that are 45 degress left and right than makes x letter, with the gradient color being black, white, black. After the x looking gradient, there is letters that represents spectrums<ref>The old icon spectrums are originally from the previous revamp page.</ref> from Spectrumplex; The Point..., Top "...", Faie, Strong, Intense, Spicy, Middle, Newbie, Low, Beginner, Lower Gap, Bottom "..." and Plack Length. Some text have different fonts from each other, some can have outlines, and all are slightly rotated to left or right.</th>
+</tr>
+</table>
+</center>
+<br>
+----
+<br>
+<center>
+<table class="table mw-collapsible mw-collapsed" style="text-align:center; width:90%">
+<tr>
+<th colspan="3" class="table"><font size="6.5">2nd Old Version</font></th>
+</tr>
+<tr>
+<td class="table"><font size="5.25">Icon</font></td>
+<td colspan="2" class="table"><font size="5.25">Information</font></td>
+</tr>
+<tr>
+<th rowspan="4" class="table ot" style="padding:1.3em">[[File:Spectrumplex new icon.png|274px]]</th>
+<td class="table"><font size="5">Version:</font></td>
+<th class="table">2nd Old/Version 2</th>
+</tr>
+<tr>
+<td class="table"><font size="5">Date:</font></td>
+<th class="table">October 7th 2023</th>
+</tr>
+<tr>
+<td class="table"><font size="5">File Size:</font></td>
+<th class="table">356 KB</th> 
+</tr>
+<tr>
+<td class="table"><font size="5">User Made:</font></td>
+<th class="table">[[User:Astrominal|Astrominal]]</th>
+</tr>
+<tr>
+<th colspan="3" class="table"><font size="5.25">Representation:</font></th>
+</tr>
+<tr>
+<th colspan="3" class="table">The 2nd old icon represents the background gradient 45 degress to the left, with gradient colors being black to white. There is an unknow shape made that disturbs the gradient, which the color is black with a neon-ish white outline. between unknown shape and middle text there is a text that reads "Spectrums", with colors being gradient, grey to drak grey. Above "Spectrums" there is more texts that represents main spectrums<ref>Mid is renamed as Middle from Spectrumplex's spectrums.</ref><ref name=":0">Peak, High, Middle, Low, and Baseline.</ref> from [[w:c:jtoh:Juke's Towers of Hell|Juke's Towers of Hell]], which containts two "..." located top of Peak text and bottom of Baseline, the texts<ref name=":0" /> have outlines that are darker versions of main text colors, it apply "Spectrums" too but not two "..." also all texts are rotated.</th>
+</tr>
+</table>
+</center>
+<br>
+----
+<br>
+<center>
+<table class="table mw-collapsible mw-collapsed" style="text-align:center; width:90%">
+<tr>
+<th colspan="3" class="table"><font size="6.5">Original Version</font></th>
+</tr>
+<tr>
+<td class="table"><font size="5.25">Icon</font></td>
+<td colspan="2" class="table"><font size="5.25">Information</font></td>
+</tr>
+<tr>
+<th rowspan="4" class="table ot" style="padding:1.3em">[[File:Spectrumplex.png|274px]]</th>
+<td class="table"><font size="5">Version:</font></td>
+<th class="table">Original/Version 1</th>
+</tr>
+<tr>
+<td class="table"><font size="5">Date:</font></td>
+<th class="table">July 5th 2023</th>
+</tr>
+<tr>
+<td class="table"><font size="5">File Size:</font></td>
+<th class="table">217 KB</th> 
+</tr>
+<tr>
+<td class="table"><font size="5">User Made:</font></td>
+<th class="table">[[User:Astrominal|Astrominal]]</th>
+</tr>
+<tr>
+<th colspan="3" class="table"><font size="5.25">Representation:</font></th>
+</tr>
+<tr>
+<th colspan="3" class="table">The original icon represents the background gradient 45 degress to the right, with gradient colors being black to white. There are words which they are represented as spectrums<ref>Spectrums from Original icon are from the original version.</ref>, the order from top to bottom as words from the icon. The Point..., Top "...", Peak, Strongness, High , Moderated, Strong, Spicy, Middle, Newbie, Low, Lower Gap, Baseline, Peaceful, Easiness, Bottom "...", and Nothingness. Which The Point... and Nothingness are located at edges of the icon and slightly rotated.</th>
+</tr>
+</table>
+</center>
+<br>
+</div>
+|-|Colors=
+<div style="padding:0.7em">
+<h3><font size="7">Icon Colors</font></h3>
+<h4><font size="6">''Note:''</font></h4>
+The values given by CMYK, HSV, and NSL color standards have different structure system, it can be bit inaccurated. However, it's recommened use HEX and RGB color standards to be accurate. And Color Name standard was used by [https://colornames.org/ Colornames]<ref>That was suggested by ???</ref>, some colors can found marked as "Custom/Unnamed".
+<center>
+<table class="table mw-collapsible mw-collapsed" style="text-align:center; width:83%">
+<tr>
+<th colspan="8" class="table"><font size="6.5">Current Icon Colors</font></th>
+</tr>
+<tr>
+<td class="table"><font size="5">Color Used</font></td>
+<td class="table"><font size="5">Color Name</font></td>
+<td class="table"><font size="5">HEX</font></td>
+<td class="table"><font size="5">RGB</font></td>
+<td class="table"><font size="5">CMYK</font></td>
+<td class="table"><font size="5">HSV</font></td>
+<td class="table"><font size="5">NSL</font></td>
+<td class="table"><font size="5">Font Name</font></td>
+</tr>
+<tr>
+<th class="table ODITP">?</th>
+<th class="table ODITP">?</th>
+<th class="table ODITP">?</th>
+<th class="table ODITP">?</th>
+<th class="table ODITP">?</th>
+<th class="table ODITP">?</th>
+<th class="table ODITP">?</th>
+<th class="table ODITP">?</th>
+</tr>
+</table>
+</center>
+<br>
+----
+<br>
+<center>
+<table class="table mw-collapsible mw-collapsed" style="text-align:center; width:83%">
+<tr>
+<th colspan="8" class="table"><font size="6.5">Old Icon Colors</font></th>
+</tr>
+<tr>
+<td class="table"><font size="5">Color Used</font></td>
+<td class="table"><font size="5">Color Name</font></td>
+<td class="table"><font size="5">HEX</font></td>
+<td class="table"><font size="5">RGB</font></td>
+<td class="table"><font size="5">CMYK</font></td>
+<td class="table"><font size="5">HSV</font></td>
+<td class="table"><font size="5">NSL</font></td>
+<td class="table"><font size="5">Font Name</font></td>
+</tr>
+<tr>
+<th class="table ODITP">The Point...</th>
+<th class="table ODITP">Black</th>
+<th class="table ODITP">#000000</th>
+<th class="table ODITP">0, 0, 0</th>
+<th class="table ODITP">0%, 0%, 0%, 100%</th>
+<th class="table ODITP">0°, 0%, 0%</th>
+<th class="table ODITP">0°, 0%, 0%</th>
+<th class="table ODITP">Arial</th>
+</tr>
+<tr>
+<th class="table ODITD blackline">Top "..."</th>
+<th class="table ODITD blackline">Cheeto Dusty Orange</th>
+<th class="table ODITD blackline">#ff9500</th>
+<th class="table ODITD blackline">255, 149, 0</th>
+<th class="table ODITD blackline">0%, 42%, 100%, 0%</th>
+<th class="table ODITD blackline">35°, 100%, 100%</th>
+<th class="table ODITD blackline">35°, 100%, 50%</th>
+<th class="table ODITD blackline">Georgia</th>
+</tr>
+<tr>
+<th class="table ODIFa blackline">Fair</th>
+<th class="table ODIFa blackline">Flash Of Orange</th>
+<th class="table ODIFa blackline">#ffaa00</th>
+<th class="table ODIFa blackline">255, 170, 0</th>
+<th class="table ODIFa blackline">0%, 33%, 100%, 0%</th>
+<th class="table ODIFa blackline">40°, 100%, 100%</th>
+<th class="table ODIFa blackline">40°, 100%, 50%</th>
+<th class="table ODIFa blackline">Verdara</th>
+</tr>
+<tr>
+<th class="table ODIST blackline">Strong</th>
+<th class="table ODIST blackline">Amber</th>
+<th class="table ODIST blackline">#ffc000</th>
+<th class="table ODIST blackline">255, 192, 0</th>
+<th class="table ODIST blackline">0%, 25%, 100%, 0%</th>
+<th class="table ODIST blackline">45°, 100%, 100%</th>
+<th class="table ODIST blackline">45°, 100%, 50%</th>
+<th class="table ODIST blackline">Athens</th>
+</tr>
+<tr>
+<th class="table ODIIN blackline">Intense</th>
+<th class="table ODIIN blackline">Sunhouse</th>
+<th class="table ODIIN blackline">#ffd500</th>
+<th class="table ODIIN blackline">255, 213, 0</th>
+<th class="table ODIIN blackline">0%, 16%, 100%, 0%</th>
+<th class="table ODIIN blackline">50°, 100%, 100%</th>
+<th class="table ODIIN blackline">50°, 100%, 50%</th>
+<th class="table ODIIN blackline">Bahram</th>
+</tr>
+<tr>
+<th class="table ODISP blackline">Spicy</th>
+<th class="table ODISP blackline">Sunshine Yellow</th>
+<th class="table ODISP blackline">#ffd500</th>
+<th class="table ODISP blackline">255, 234, 0</th>
+<th class="table ODISP blackline">0%, 8%, 100%, 0%</th>
+<th class="table ODISP blackline">55°, 100%, 100%</th>
+<th class="table ODISP blackline">55°, 100%, 50%</th>
+<th class="table ODISP blackline">Aberus</th>
+</tr>
+<tr>
+<th class="table ODIMid blackline">Middle</th>
+<th class="table ODIMid blackline">Yellow</th>
+<th class="table ODIMid blackline">#ffd500</th>
+<th class="table ODIMid blackline">255, 255, 0</th>
+<th class="table ODIMid blackline">0%, 0%, 100%, 0%</th>
+<th class="table ODIMid blackline">60°, 100%, 100%</th>
+<th class="table ODIMid blackline">60°, 100%, 50%</th>
+<th class="table ODIMid blackline">Aberus</th>
+</tr>
+<tr>
+<th class="table ODINew blackline">Newbie</th>
+<th class="table ODINew blackline">Tarquish</th>
+<th class="table ODINew blackline">#c7ff00</th>
+<th class="table ODINew blackline">199, 255, 0</th>
+<th class="table ODINew blackline">22%, 0%, 100%, 0%</th>
+<th class="table ODINew blackline">73°, 100%, 100%</th>
+<th class="table ODINew blackline">73°, 100%, 50%</th>
+<th class="table ODINew blackline">Trebuchet MS</th>
+</tr>
+<tr>
+<th class="table ODILow blackline">Low</th>
+<th class="table ODILow blackline">Lime</th>
+<th class="table ODILow blackline">#80ff00</th>
+<th class="table ODILow blackline">128, 255, 0</th>
+<th class="table ODILow blackline">50%, 0%, 100%, 0%</th>
+<th class="table ODILow blackline">90°, 100%, 100%</th>
+<th class="table ODILow blackline">90°, 100%, 50%</th>
+<th class="table ODILow blackline">Atomosfer</th>
+</tr>
+<tr>
+<th class="table ODIBE">Beginner</th>
+<th class="table ODIBE">Custom/Unnamed</th>
+<th class="table ODIBE">#58d306</th>
+<th class="table ODIBE">88, 211, 6</th>
+<th class="table ODIBE">58%, 0%, 97%, 17%</th>
+<th class="table ODIBE">96°, 97%, 83%</th>
+<th class="table ODIBE">96°, 94%, 43%</th>
+<th class="table ODIBE">Amoreiza</th>
+</tr>
+<tr>
+<th class="table ODILG">Lower Gap</th>
+<th class="table ODILG">Custom/Unnamed</th>
+<th class="table ODILG">#31a904</th>
+<th class="table ODILG">49, 169, 4</th>
+<th class="table ODILG">71%, 0%, 98%, 34%</th>
+<th class="table ODILG">103°, 98%, 66%</th>
+<th class="table ODILG">103°, 96%, 34%</th>
+<th class="table ODILG">Alvida</th>
+</tr>
+<tr>
+<th class="table ODIBD">Below "..."</th>
+<th class="table ODIBD">Dark Green</th>
+<th class="table ODIBD">#008000</th>
+<th class="table ODIBD">0, 128, 0</th>
+<th class="table ODIBD">100%, 0%, 100%, 50%</th>
+<th class="table ODIBD">120°, 100%, 50%</th>
+<th class="table ODIBD">120°, 100%, 25%</th>
+<th class="table ODIBD">Georgia</th>
+</tr>
+<tr>
+<th class="table ODIPLGT">Planck Length Gradient Top</th>
+<th class="table ODIPLGT">Black</th>
+<th class="table ODIPLGT">#000000</th>
+<th class="table ODIPLGT">0, 0, 0</th>
+<th class="table ODIPLGT">0%, 0%, 0%, 100%</th>
+<th class="table ODIPLGT">0°, 0%, 0%</th>
+<th class="table ODIPLGT">0°, 0%, 0%</th>
+<th class="table ODIPLGT">Courier New</th>
+</tr>
+<tr>
+<th class="table ODIPLGB">Planck Length Gradient Bottom</th>
+<th class="table ODIPLGB">Custom/Unnamed</th>
+<th class="table ODIPLGB">#009c85</th>
+<th class="table ODIPLGB">0, 156, 133</th>
+<th class="table ODIPLGB">100%, 0%, 15%, 39%</th>
+<th class="table ODIPLGB">171°, 100%, 61%</th>
+<th class="table ODIPLGB">171°, 100%, 31%</th>
+<th class="table ODIPLGB">Courier New</th>
+</tr>
+<tr>
+<th class="table ODITPO blackline">The Point... Outline</th>
+<th class="table ODITPO blackline">White</th>
+<th class="table ODITPO blackline">#ffffff</th>
+<th class="table ODITPO blackline">255, 255, 255</th>
+<th class="table ODITPO blackline">0%, 0%, 0%, 0%</th>
+<th class="table ODITPO blackline">0°, 0%, 100%</th>
+<th class="table ODITPO blackline">0°, 0%, 100%</th>
+<th class="table ODITPO blackline">Arial</th>
+</tr>
+<tr>
+<th class="table ODISPO">Spicy Outline</th>
+<th class="table ODISPO">Demigorgon</th>
+<th class="table ODISPO">#4f0800</th>
+<th class="table ODISPO">79, 8, 0</th>
+<th class="table ODISPO">0%, 90%, 100%, 69%</th>
+<th class="table ODISPO">6°, 100%, 31%</th>
+<th class="table ODISPO">6°, 100%, 15%</th>
+<th class="table ODISPO">Aberus</th>
+</tr>
+<tr>
+<th class="table ODIBEO">Beginner Outline</th>
+<th class="table ODIBEO">Custom/Unnamed</th>
+<th class="table ODIBEO">#4f8e22</th>
+<th class="table ODIBEO">79, 142, 34</th>
+<th class="table ODIBEO">44%, 0%, 76%, 44%</th>
+<th class="table ODIBEO">95°, 76%, 56%</th>
+<th class="table ODIBEO">95°, 62%, 35%</th>
+<th class="table ODIBEO">Amoreiza</th>
+</tr>
+<tr>
+<th class="table ODIFSMO">Fair, Strong, and Middle Outlines</th>
+<th class="table ODIFSMO">Black</th>
+<th class="table ODIFSMO">#000000</th>
+<th class="table ODIFSMO">0, 0, 0</th>
+<th class="table ODIFSMO">0%, 0%, 0%, 100%</th>
+<th class="table ODIFSMO">0°, 0%, 0%</th>
+<th class="table ODIFSMO">0°, 0%, 0%</th>
+<th class="table ODIFSMO">Verdara, Athens, and Aberus</th>
+</tr>
+<tr>
+<th class="table ODIPLO">Planck Length Outline</th>
+<th class="table ODIPLO">Grey</th>
+<th class="table ODIPLO">#000000</th>
+<th class="table ODIPLO">128, 128, 128</th>
+<th class="table ODIPLO">0%, 0%, 0%, 50%</th>
+<th class="table ODIPLO">0°, 0%, 50%</th>
+<th class="table ODIPLO">0°, 0%, 50%</th>
+<th class="table ODIPLO">Courier New</th>
+</tr>
+</table>
+</center>
+<br>
+----
+<br>
+<center>
+<table class="table mw-collapsible mw-collapsed" style="text-align:center; width:83%">
+<tr>
+<th colspan="8" class="table"><font size="6.5">2nd Old Icon Colors</font></th>
+</tr>
+<tr>
+<td class="table"><font size="5">Color Used</font></td>
+<td class="table"><font size="5">Color Name</font></td>
+<td class="table"><font size="5">HEX</font></td>
+<td class="table"><font size="5">RGB</font></td>
+<td class="table"><font size="5">CMYK</font></td>
+<td class="table"><font size="5">HSV</font></td>
+<td class="table"><font size="5">NSL</font></td>
+<td class="table"><font size="5">Font Name</font></td>
+</tr>
+<tr>
+<th class="table SOIAD">Above "..."</th>
+<th class="table SOIAD">Barbaric War</th>
+<th class="table SOIAD">#731818</th>
+<th class="table SOIAD">115, 24, 24</th>
+<th class="table SOIAD">0%, 79%, 79%, 55%</th>
+<th class="table SOIAD">0°, 79%, 45%</th>
+<th class="table SOIAD">0°, 65%, 27%</th>
+<th class="table SOIAD">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIPe">Peak</th>
+<th class="table SOIPe">Custom/Unnamed</th>
+<th class="table SOIPe">#c83131</th>
+<th class="table SOIPe">200, 49, 49</th>
+<th class="table SOIPe">0%, 76%, 76%, 22%</th>
+<th class="table SOIPe">0°, 76%, 78%</th>
+<th class="table SOIPe">0°, 61%, 48%</th>
+<th class="table SOIPe">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIHi">High</th>
+<th class="table SOIHi">Custom/Unnamed</th>
+<th class="table SOIHi">#c87a31</th>
+<th class="table SOIHi">200, 122, 49</th>
+<th class="table SOIHi">0%, 39%, 76%, 22%</th>
+<th class="table SOIHi">29°, 76%, 78%</th>
+<th class="table SOIHi">29°, 61%, 48%</th>
+<th class="table SOIHi">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIMid">Middle</th>
+<th class="table SOIMid">Custom/Unnamed</th>
+<th class="table SOIMid">#c8c831</th>
+<th class="table SOIMid">200, 200, 49</th>
+<th class="table SOIMid">0%, 0%, 76%, 22%</th>
+<th class="table SOIMid">60°, 76%, 78%</th>
+<th class="table SOIMid">60°, 61%, 48%</th>
+<th class="table SOIMid">Georgia</th>
+</tr>
+<tr>
+<th class="table SOILow">Low</th>
+<th class="table SOILow">Custom/Unnamed</th>
+<th class="table SOILow">#5ec831</th>
+<th class="table SOILow">94, 200, 49</th>
+<th class="table SOILow">53%, 0%, 76%, 22%</th>
+<th class="table SOILow">102°, 76%, 78%</th>
+<th class="table SOILow">102°, 61%, 48%</th>
+<th class="table SOILow">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIBL">Baseline</th>
+<th class="table SOIBL">Saint Patrick's Glory</th>
+<th class="table SOIBL">#31c836</th>
+<th class="table SOIBL">49, 200, 54</th>
+<th class="table SOIBL">76%, 0%, 73%, 22%</th>
+<th class="table SOIBL">122°, 76%, 78%</th>
+<th class="table SOIBL">122°, 61%, 48%</th>
+<th class="table SOIBL">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIBD blackline">Bottom "..."</th>
+<th class="table SOIBD blackline">Seal The Teals</th>
+<th class="table SOIBD blackline">#33ffbe</th>
+<th class="table SOIBD blackline">51, 255, 190</th>
+<th class="table SOIBD blackline">80%, 0%, 25%, 0%</th>
+<th class="table SOIBD blackline">161°, 80%, 100%</th>
+<th class="table SOIBD blackline">161°, 100%, 60%</th>
+<th class="table SOIBD blackline">Georgia</th>
+</tr>
+<tr>
+<th class="table SOISGL">Spectrums Gradient Left</th>
+<th class="table SOISGL">Lucky Grey</th>
+<th class="table SOISGL">#777777</th>
+<th class="table SOISGL">119, 119, 119</th>
+<th class="table SOISGL">0%, 0%, 0%, 53%</th>
+<th class="table SOISGL">0°, 0%, 47%</th>
+<th class="table SOISGL">0°, 0%, 47%</th>
+<th class="table SOISGL">Georgia</th>
+</tr>
+<tr>
+<th class="table SOISGR">Spectrums Gradient Right</th>
+<th class="table SOISGR">DW Photography Gray</th>
+<th class="table SOISGR">#353535</th>
+<th class="table SOISGR">53, 53, 53</th>
+<th class="table SOISGR">0%, 0%, 0%, 79%</th>
+<th class="table SOISGR">0°, 0%, 21%</th>
+<th class="table SOISGR">0°, 0%, 21%</th>
+<th class="table SOISGR">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIPeO">Peak Outline</th>
+<th class="table SOIPeO">Valorie</th>
+<th class="table SOIPeO">#952525</th>
+<th class="table SOIPeO">145, 37, 37</th>
+<th class="table SOIPeO">0%, 74%, 74%, 43%</th>
+<th class="table SOIPeO">0°, 74%, 57%</th>
+<th class="table SOIPeO">0°, 58%, 36%</th>
+<th class="table SOIPeO">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIHiO">High Outline</th>
+<th class="table SOIHiO">Custom/Unnamed</th>
+<th class="table SOIHiO">#895422</th>
+<th class="table SOIHiO">137, 84, 34</th>
+<th class="table SOIHiO">0%, 39%, 75%, 46%</th>
+<th class="table SOIHiO">29°, 75%, 54%</th>
+<th class="table SOIHiO">29°, 60%, 34%</th>
+<th class="table SOIHiO">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIMidO">Middle Outline</th>
+<th class="table SOIMidO">Custom/Unnamed</th>
+<th class="table SOIMidO">#9c9c2a</th>
+<th class="table SOIMidO">156, 156, 42</th>
+<th class="table SOIMidO">0%, 0%, 73%, 39%</th>
+<th class="table SOIMidO">60°, 73%, 61%</th>
+<th class="table SOIMidO">60°, 58%, 39%</th>
+<th class="table SOIMidO">Georgia</th>
+</tr>
+<tr>
+<th class="table SOILowO">Low Outline</th>
+<th class="table SOILowO">Custom/Unnamed</th>
+<th class="table SOILowO">#418922</th>
+<th class="table SOILowO">65, 137, 34</th>
+<th class="table SOILowO">53%, 0%, 75%, 46%</th>
+<th class="table SOILowO">102°, 75%, 54%</th>
+<th class="table SOILowO">102°, 60%, 34%</th>
+<th class="table SOILowO">Georgia</th>
+</tr>
+<tr>
+<th class="table SOIBLO">Baseline Outline</th>
+<th class="table SOIBLO">Malfoy Manner</th>
+<th class="table SOIBLO">#1d6e1f</th>
+<th class="table SOIBLO">29, 110, 31</th>
+<th class="table SOIBLO">74%, 0%, 72%, 57%</th>
+<th class="table SOIBLO">121°, 74%, 43%</th>
+<th class="table SOIBLO">121°, 58%, 27%</th>
+<th class="table SOIBLO">Georgia</th>
+</tr>
+<tr>
+<th class="table SOISO">Spectrums Outline</th>
+<th class="table SOISO">DW Photography Gray</th>
+<th class="table SOISO">#464646</th>
+<th class="table SOISO">70, 70, 70</th>
+<th class="table SOISO">0%, 0%, 0%, 73%</th>
+<th class="table SOISO">0°, 0%, 27%</th>
+<th class="table SOISO">0°, 0%, 27%</th>
+<th class="table SOISO">Georgia</th>
+</tr>
+</table>
+</center>
+<br>
+----
+<br>
+<center>
+<table class="table mw-collapsible mw-collapsed" style="text-align:center; width:83%">
+<tr>
+<th colspan="8" class="table"><font size="6.5">Original Icon Colors</font></th>
+</tr>
+<tr>
+<td class="table"><font size="5">Color Used</font></td>
+<td class="table"><font size="5">Color Name</font></td>
+<td class="table"><font size="5">HEX</font></td>
+<td class="table"><font size="5">RGB</font></td>
+<td class="table"><font size="5">CMYK</font></td>
+<td class="table"><font size="5">HSV</font></td>
+<td class="table"><font size="5">NSL</font></td>
+<td class="table"><font size="5">Font Name</font></td>
+</tr>
+<tr>
+<th class="table OITP">The Point...</th>
+<th class="table OITP">Black</th>
+<th class="table OITP">#000000</th>
+<th class="table OITP">0, 0, 0</th>
+<th class="table OITP">0%, 0%, 0%, 100%</th>
+<th class="table OITP">0°, 0%, 0%</th>
+<th class="table OITP">0°, 0%, 0%</th>
+<th class="table OITP">Aberus</th>
+</tr>
+<tr>
+<th class="table OIAD">Top "..."</th>
+<th class="table OIAD">Merlot Sky</th>
+<th class="table OIAD">#970001</th>
+<th class="table OIAD">151, 0, 1</th>
+<th class="table OIAD">0%, 100%, 99%, 41%</th>
+<th class="table OIAD">360°, 100%, 59%</th>
+<th class="table OIAD">360°, 100%, 29%</th>
+<th class="table OIAD">Aberus</th>
+</tr>
+<tr>
+<th class="table OIPe">Peak</th>
+<th class="table OIPe">The Blood Of My Enemies</th>
+<th class="table OIPe">#790000</th>
+<th class="table OIPe">121, 0, 0</th>
+<th class="table OIPe">0%, 100%, 100%, 53%</th>
+<th class="table OIPe">0°, 100%, 47%</th>
+<th class="table OIPe">0°, 100%, 24%</th>
+<th class="table OIPe">Aberus</th>
+</tr>
+<tr>
+<th class="table OIST">Strongness</th>
+<th class="table OIST">Custom/Unnamed</th>
+<th class="table OIST">#a33201</th>
+<th class="table OIST">163, 50, 1</th>
+<th class="table OIST">0%, 69%, 99%, 36%</th>
+<th class="table OIST">18°, 99%, 64%</th>
+<th class="table OIST">18°, 98%, 32%</th>
+<th class="table OIST">Aberus</th>
+</tr>
+<tr>
+<th class="table OIHi">High</th>
+<th class="table OIHi">Custom/Unnamed</th>
+<th class="table OIHi">#744903</th>
+<th class="table OIHi">116, 73, 3</th>
+<th class="table OIHi">0%, 37%, 97%, 55%</th>
+<th class="table OIHi">37°, 97%, 45%</th>
+<th class="table OIHi">37°, 95%, 23%</th>
+<th class="table OIHi">Aberus</th>
+</tr>
+<tr>
+<th class="table OIMo">Moderated</th>
+<th class="table OIMo">Custom/Unnamed</th>
+<th class="table OIMo">#a13002</th>
+<th class="table OIMo">161, 48, 2</th>
+<th class="table OIMo">0%, 70%, 99%, 37%</th>
+<th class="table OIMo">17°, 99%, 63%</th>
+<th class="table OIMo">17°, 98%, 32%</th>
+<th class="table OIMo">Aberus</th>
+</tr>
+<tr>
+<th class="table OISr">Strong</th>
+<th class="table OISr">I Wish I Had Food</th>
+<th class="table OISr">#9f7e00</th>
+<th class="table OISr">159, 126, 0</th>
+<th class="table OISr">0%, 21%, 100%, 38%</th>
+<th class="table OISr">47°, 100%, 62%</th>
+<th class="table OISr">47°, 100%, 31%</th>
+<th class="table OISr">Aberus</th>
+</tr>
+<tr>
+<th class="table OISy">Spicy</th>
+<th class="table OISy">Perception Green</th>
+<th class="table OISy">#7f7106</th>
+<th class="table OISy">127, 113, 6</th>
+<th class="table OISy">0%, 11%, 95%, 50%</th>
+<th class="table OISy">53°, 95%, 50%</th>
+<th class="table OISy">53°, 91%, 26%</th>
+<th class="table OISy">Aberus</th>
+</tr>
+<tr>
+<th class="table OIMid blackline">Middle</th>
+<th class="table OIMid blackline">Bill Cipher</th>
+<th class="table OIMid blackline">#ffee01</th>
+<th class="table OIMid blackline">255, 238, 1</th>
+<th class="table OIMid blackline">0%, 7%, 100%, 0%</th>
+<th class="table OIMid blackline">56°, 100%, 100%</th>
+<th class="table OIMid blackline">56°, 100%, 50%</th>
+<th class="table OIMid blackline">Aberus</th>
+</tr>
+<tr>
+<th class="table OINew">Newbie</th>
+<th class="table OINew">Custom/Unnamed</th>
+<th class="table OINew">#67b200</th>
+<th class="table OINew">103, 178, 0</th>
+<th class="table OINew">42%, 0%, 100%, 30%</th>
+<th class="table OINew">85°, 100%, 70%</th>
+<th class="table OINew">85°, 100%, 35%</th>
+<th class="table OINew">Aberus</th>
+</tr>
+<tr>
+<th class="table OILow">Low</th>
+<th class="table OILow">Custom/Unnamed</th>
+<th class="table OILow">#097400</th>
+<th class="table OILow">9, 116, 0</th>
+<th class="table OILow">92%, 0%, 100%, 55%</th>
+<th class="table OILow">115°, 100%, 45%</th>
+<th class="table OILow">115°, 100%, 23%</th>
+<th class="table OILow">Aberus</th>
+</tr>
+<tr>
+<th class="table OILG">Lower Gap</th>
+<th class="table OILG">Custom/Unnamed</th>
+<th class="table OILG">#3aac02</th>
+<th class="table OILG">58, 172, 2</th>
+<th class="table OILG">66%, 0%, 99%, 33%</th>
+<th class="table OILG">100°, 99%, 67%</th>
+<th class="table OILG">100°, 98%, 34%</th>
+<th class="table OILG">Aberus</th>
+</tr>
+<tr>
+<th class="table OIBL">Baseline</th>
+<th class="table OIBL">Custom/Unnamed</th>
+<th class="table OIBL">#023204</th>
+<th class="table OIBL">2, 50, 4</th>
+<th class="table OIBL">96%, 0%, 92%, 80%</th>
+<th class="table OIBL">122°, 96%, 20%</th>
+<th class="table OIBL">122°, 92%, 10%</th>
+<th class="table OIBL">Aberus</th>
+</tr>
+<tr>
+<th class="table OIPF">Peaceful</th>
+<th class="table OIPF">Custom/Unnamed</th>
+<th class="table OIPF">#9f70b4</th>
+<th class="table OIPF">159, 112, 180</th>
+<th class="table OIPF">12%, 38%, 0%, 29%</th>
+<th class="table OIPF">281°, 38%, 71%</th>
+<th class="table OIPF">281°, 32%, 57%</th>
+<th class="table OIPF">Aberus</th>
+</tr>
+<tr>
+<th class="table OIEN">Easiness</th>
+<th class="table OIEN">Custom/Unnamed</th>
+<th class="table OIEN">#32b367</th>
+<th class="table OIEN">50, 179, 103</th>
+<th class="table OIEN">72%, 0%, 42%, 30%</th>
+<th class="table OIEN">145°, 72%, 70%</th>
+<th class="table OIEN">145°, 56%, 45%</th>
+<th class="table OIEN">Aberus</th>
+</tr>
+<tr>
+<th class="table OIBD">Bottom "..."</th>
+<th class="table OIBD">Custom/Unnamed</th>
+<th class="table OIBD">#44a18a</th>
+<th class="table OIBD">68, 161, 138</th>
+<th class="table OIBD">58%, 0%, 14%, 37%</th>
+<th class="table OIBD">165°, 58%, 63%</th>
+<th class="table OIBD">165°, 41%, 45%</th>
+<th class="table OIBD">Aberus</th>
+</tr>
+<tr>
+<th class="table OIHN">Nothingness</th>
+<th class="table OIHN">The Endlessness Of Time</th>
+<th class="table OIHN">#535353</th>
+<th class="table OIHN">83, 83, 83</th>
+<th class="table OIHN">0%, 0%, 0%, 67%</th>
+<th class="table OIHN">0°, 0%, 33%</th>
+<th class="table OIHN">0°, 0%, 33%</th>
+<th class="table OIHN">Aberus</th>
+</tr>
+<tr>
+<th class="table OITPO blackline">The Point... Outline</th>
+<th class="table OITPO blackline">White</th>
+<th class="table OITPO blackline">#ffffff</th>
+<th class="table OITPO blackline">255, 255, 255</th>
+<th class="table OITPO blackline">0%, 0%, 0%, 0%</th>
+<th class="table OITPO blackline">0°, 0%, 100%</th>
+<th class="table OITPO blackline">0°, 0%, 100%</th>
+<th class="table OITPO blackline">Aberus</th>
+</tr>
+<tr>
+<th class="table OIHNO">Nothingness Outline</th>
+<th class="table OIHNO">Black</th>
+<th class="table OIHNO">#000000</th>
+<th class="table OIHNO">0, 0, 0</th>
+<th class="table OIHNO">0%, 0%, 0%, 100%</th>
+<th class="table OIHNO">0°, 0%, 0%</th>
+<th class="table OIHNO">0°, 0%, 0%</th>
+<th class="table OIHNO">Aberus</th>
+</tr>
+</table>
+</center>
+<br>
+</div>
+</tabber>
+<h2>Spectrum List</h2>
+This is the spectrum list of <span id="spectrumplex">Spectrumplex</span>, being Baseline [[:Category:Class Negative|Class Negative]] to [[:Category:Class 22|Class 22]]. The average spectrums containing every class are around 5 spectrums, which every spectrum has it's cluster range of the class spectrum (Baseline, Low, Mid, High, or Peak) is on. Being grand total of 115 spectrums. 
+----<h3> '''<big>Unloseable Classification</big>''' </h3>
+Unloseable Classification ('''UnC''') is the easiest classification in the wiki requiring negative or no [[w:c:alldimensions:Existence Rank|Existence Rank]], and mostly difficulties from '''UnC''' are pure win. <b>UnC</b>'s gap is ranging from, [[File:Tfird.png|link=The First Difficulty|25x25px]] [[The First Difficulty]] to [[File:Instantwin.png|link=Instant Win|25x25px]] [[Instant Win|Instant-Win]], or -∞ to -31 for rating. Being 5 spectrums in total from this classification.
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class Negative</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Unexistent<br><small>-∞ to -(FOOT<sup>10</sup>(10<sup>100</sup>))</small></th>
+<th class="table ot" style="background-color: #4D9F6C">Nothingness<br><small>-Rayo(10<sup>100</sup>) to -G<sub>64</sub></small></th>
+<th class="table ot" style="background-color: #666B2C">Void<br><small>-10<sup>10<sup>10<sup>1,000,000</sup></sup></sup> to -10<sup>100</sup></small></th>
+<th class="table ot" style="background-color: #867438">Planck<br><small>-10<sup>10</sup> to -1,000</small></th>
+<th class="table ot" style="background-color: #7A493D">Negativity<br><small>-50 to -31</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Tfird.png|27x27px]] [[The First Difficulty]] » [[File:Negativity.png|27x27px]] [[Negativity]]</th>
+<th class="table ot lowRgn">[[File:Unimpossible New.png|27x27px]] [[Unimpossible]] » [[File:True Ease (New).webp|27x27px]] [[True Ease]]</th>
+<th class="table ot midRgn">[[File:Screenshot 2020-10-06 at 11.58.11 AM (1).png|27x27px]] [[A]] » [[File:Exist Difficulty Squared.png|27x27px]] [[Exist]]</th>
+<th class="table ot highRgn">[[File:Imagecool.png|27x27px]] [[Reversed Peripherality]] » [[File:Square Simple (100).png|27x27px]] [[Skip]]</th>
+<th class="table ot peakRgn">[[File:Restful3.png|27x27px]] [[Restful]] » [[File:Instantwin.png|27x27px]] [[Instant Win]]</th>
+</tr>
+</table>
+</center>
+<br>
+----<h3> '''<big>Humanly Possible Classification</big>''' </h3>
+Humanly Possible Classification ('''HPC''') is the second and last possible classification to be beaten legit and where [[w:c:jtoh:Difficulties|JToH Difficulty Chart]] is. Difficulties from '''HPC''' are completely automatic, beginner friendy towers, average obstacles, soul crushing difficulties, and beyond soul crushing difficulties, currently being [[File:UnrealIconModified1003.webp|25x25px]] [[w:c:jtohs-hardest-towers:Unreal|Unreal]] the hardest completion difficulty by towers as 18th october 2024. <b>HPC</b>'s gap is ranging from, [[File:One Second.png|25x25px]] [[Millisecondless]] to [[File:TheHumanLimit.png|25x25px]] [[The Human Limit]], or -30 to 15.5/15.99. Being 16 spectrums in total from this classification.
+<tabber>
+|-|Class 0=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 0</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Zero<br><small>-30 to -27.01</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Start<br><small>-27 to -24.01</small></th>
+<th class="table ot" style="background-color: #666B2C"> Beginner<br><small>-24 to -21.01</small></th>
+<th class="table ot" style="background-color: #867438">Negligible<br><small>-21 to -18.01</small></th>
+<th class="table ot" style="background-color: #7A493D">Lower Gap<br><small>-18 to -15.01</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:One Second.png|27x27px]] [[Millisecondless]] » [[File:Winsome.png|27x27px]] [[Winsome]]</th>
+<th class="table ot lowRgn">[[File:SquareDoNothing.png|27x27px]] [[Do Nothing]] » [[File:Re emergence yay.png|27x27px]] [[Ifinitude]]</th>
+<th class="table ot midRgn">[[File:Therobloxboss24 JustAir.png|27x27px]] [[Just Air]] » [[File:Locomotion.png|27x27px]] [[Locomotion]]</th>
+<th class="table ot highRgn">[[File:Walkthrough.png|27x27px]] [[Walkthrough]] » [[File:ShatteredBabass.png|27x27px]] [[Shattered Babass]]</th>
+<th class="table ot peakRgn">[[File:Frivolous.jpg|27x27px]] '''[[Frivolous]]''' » [[File:Spontaneous.png|27x27px]] [[Spontaneous]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 1=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 1</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592"> Underground<br><small>-15 to -12.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Friendly<br><small>-12 to -9.01</small></th>
+<th class="table ot" style="background-color: #666B2C"> Belowground<br><small>-9 to -6.01</small></th>
+<th class="table ot" style="background-color: #867438">Nerf<br><small>-6 to -3.01</small></th>
+<th class="table ot" style="background-color: #7A493D">Baseline<br><small>-3 to -0.01</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:JoyfulDiffIcon.png|27x27px]] [[Joyful]] » [[File:WAS.png|27x27px]] [[Walk A Slope]]</th>
+<th class="table ot lowRgn">[[File:Cat.png|27x27px]] [[Climb A Truss]] » [[File:CakeWalk.png|27x27px]] [[Cakewalk]]</th>
+<th class="table ot midRgn">[[File:Sweet (New).png|27x27px]] [[Sweet]] » [[File:ADNDnewimage.png|27x27px]] [[A Difficulty Named Difficulty|ADND]]</th>
+<th class="table ot highRgn">[[File:Pleasant.png|27x27px]] [[Pleasant]] » [[File:TooEasy Difficulty Revamped.jpg|27x27px]] [[TooEasy]]</th>
+<th class="table ot peakRgn">[[File:PeacefulNew.png|27x27px]] [[Peaceful]] » [[File:Gravel.png|27x27px]] [[Gravel]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 2=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 2</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Facile<br><small>0 to 1.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Low<br><small>2 to 2.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Newbie<br><small>3 to 4.99</small></th>
+<th class="table ot" style="background-color: #867438">Mid<br><small>5 to 6.49</small></th>
+<th class="table ot" style="background-color: #7A493D"> Moderate<br><small>6.5 to 8.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Effortless difficulty.png|27x27px]] [[w:c:jtoh:Effortless|Effortless]] » [[File:SWNew.jpg|27x27px]] [[Switch]]</th>
+<th class="table ot lowRgn">[[File:MediumDifficulty.jpg|27x27px]] [[w:c:jtoh:Medium|Medium]] » [[File:Rewardable diff.png|27x27px]] [[Rewardable]]</th>
+<th class="table ot midRgn">[[File:HardDifficulty.jpg|27x27px]] [[w:c:jtoh:Hard|Hard]] » [[File:Strenuous2.png|27x27px]] [[Strenuous]]</th>
+<th class="table ot highRgn">[[File:ChallengingDifficulty.jpg|27x27px]] [[w:c:jtoh:Challenging|Challenging]] » [[File:BetterTooMedium.jpg|27x27px]] [[TooMedium]]</th>
+<th class="table ot peakRgn blackline">[[File:Severe2.png|27x27px]] [[Severe]] » [[File:Relentless.png|27x27px]] [[Relentless]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 3=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="6" class="table"><font size="6.5">Class 3</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592"> High<br><small>9 to 9.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Dangerous<br><small>10 to 10.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Peak<br><small>11 to 11.99</small></th>
+<th class="table ot" style="background-color: #867438">Buff<br><small>12 to 13.49</small></th>
+<th class="table ot" style="background-color: #7A493D">Skyline<br><small>13.5 to 15.49</small></th>
+<th class="table ot" style="background-color: #5c2b27">Unknown<br><small>15.5 to 15.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:InsaneDifficulty.jpg|27x27px]] [[w:c:jtoh:Insane|Insane]] » [[File:ClassicalHighQuality.png|27x27px]] [[Classical]]</th>
+<th class="table ot lowRgn">[[File:ExtremeDifficulty.jpg|27x27px]] [[w:c:joh:Extreme|Extreme]] » [[File:AbsurdNewIcon.jpeg|27x27px]] [[Absurd]]</th>
+<th class="table ot midRgn">[[File:TerrifyingDifficulty.jpg|27x27px]] [[w:c:jtoh:Terrifying|Terrifying]] » [[File:Petrifying2.png|27x27px]] [[Petrifying]]</th>
+<th class="table ot highRgn">[[File:CatastrophicDifficulty.jpg|27x27px]] '''[[w:c:jtoh:Catastrophic|Catastrophic]]''' » [[File:ReversedNew.png|27x27px]] [[Reversed]]</th>
+<th class="table ot peakRgn">[[File:Eternalized.png|27x27px]] [[Eternal]] » [[File:Anguish2.png|27x27px]] [[Anguish]]</th>
+<th class="table ot skylRgn">[[File:TheHumanLimit.png|35x35px]] <big>[[The Human Limit]]</big></th>
+</tr>
+</table>
+</center>
+<br>
+</tabber>
+----<h3> '''<big>Humanly Impossible Classification</big>''' </h3>
+Humanly Impossible Classification ('''HIC''') is the first impossible classification that can't be beaten by any humans unless Tool-Assisted Speedrun ('''TAS'''), Abuse TAS, Alljump, or Exploting. It can be very Random Number Generator ('''RNG'''), but soon Alljump and TAS, normally can be impossible by difficulties getting more RNG-based jumps, gapping Alljump [[File:NewTARTARUS.jpeg|25x25px]] [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]]~ and TAS [[File:SquareSupreme.png|25x25px]] [[Supreme]] or above. '''HIC's''' gap is ranging from, [[File:Nil revamp lol.png|25x25px]] [[w:c:jtohs-hardest-towers:Nil|nil]] to [[File:SquareSupreme.png|25x25px]] [[Supreme]], or 16 to 60/60.99. Being 16 spectrums in total from this classification.
+<tabber>
+|-|Class 4=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 4</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Theoretical<br><small>16 to 18.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Peripheral<br><small>19 to 21.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Borderline<br><small>22 to 24.99</small></th>
+<th class="table ot" style="background-color: #867438">Higher Gap<br><small>25 to 27.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Errorline<br><small>28 to 30.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Nil revamp lol.png|27x27px]] [[w:c:jtohs-hardest-towers:Nil|nil]] » [[File:Overdrive.jpg|27x27px]]  [[MAXIMUM OVERDRIVE]]</th>
+<th class="table ot lowRgn">[[File:NoDifficulty.webp|27x27px]] [[w:c:jtohs-hardest-towers:No|No]] » [[File:NewNullifying.jpeg|27x27px]] [[Nullifying]]</th>
+<th class="table ot midRgn">[[File:NewHELL.jpeg|27x27px]] [[w:c:jtohs-hardest-towers:HELL|HELL]] » [[File:Killjoying.jpg|27x27px]] [[Killjoying]]</th>
+<th class="table ot highRgn">[[File:UnimaginableDifficulty.webp|27x27px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]] » [[File:CHAOS2.png|27x27px]] [[CHAOS]]</th>
+<th class="table ot peakRgn">[[File:AlephnullDifficulty.webp|27x27px]] [[Aleph-Null]] » [[File:Malevolent.png|27x27px]] [[Malevolent]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 5=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 5</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Improbability<br><small>31 to 33.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Unchangeability<br><small>34 to 36.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Unprobability<br><small>37 to 39.99</small></th>
+<th class="table ot" style="background-color: #867438">Probability 0<br><small>40 to 42.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Impossiblity<br><small>43 to 45.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:BuildingNew.png|27x27px]] [[Building]] » [[File:New epsilon .PNG|27x27px]] [[Hellicious]]</th>
+<th class="table ot lowRgn">[[File:Invigorating.jpg|27x27px]] [[Invigorating]] » [[File:DESTRUCTIVE.png|27x27px]] [[Destructive]]</th>
+<th class="table ot midRgn">[[File:Dissonant Revamp.jpg|27x27px]] [[Dissonant]] » [[File:Eldritch.jpg|27x27px]] [[ᴇʟᴅʀɪᴛᴄʜ]]</th>
+<th class="table ot highRgn">[[File:MonstrousNew.jpg|27x27px]] [[Monstrous]] » [[File:NewSystemErrorIcon.png|27x27px]] [[System Error]]</th>
+<th class="table ot peakRgn">[[File:Error Exe.png|27x27px]] [[Error.exe]] » [[File:Critical.png|27x27px]] [[Critical]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 6=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="6" class="table"><font size="6.5">Class 6</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Unnaturally<br><small>46 to 48.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Multipheral<br><small>49 to 51.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Inception<br><small>52 to 54.99</small></th>
+<th class="table ot" style="background-color: #867438">Fallibility<br><small>55 to 57.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Errorpheral<br><small>58 to 59.99</small></th>
+<th class="table ot" style="background-color: #5c2b27">TooFar<br><small>60 to 60.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Winter New.png|27x27px]] [[Winter]] » [[File:UDEADSONicon.png|27x27px]] [[U DED SON]]</th>
+<th class="table ot lowRgn">[[File:Funny-windows-error22.jpg|27x27px]] [[REEE... !!!]] » [[File:Creepy epic face.gif|27x27px]] [[D-I-E]]</th>
+<th class="table ot midRgn">[[File:Absolutism.png|27x27px]] [[Absolutism]]  » [[File:Oblivion2.png|27x27px]] [[Oblivion]]</th>
+<th class="table ot highRgn">[[File:Quantumless.jpg|27x27px]] [[QUANTUM]] » [[File:Interruption.png|27x27px]] [[Interruption]]</th>
+<th class="table ot peakRgn">[[File:Xi-Alpha revamp icon.png|27x27px]] [[Xi-Alpha]] » [[File:New Ultimaniac Icon.png|27x27px]] [[Ultimaniac]]</th>
+<th class="table ot skylRgn">[[File:SquareSupreme.png|27x27px]] <big>[[Supreme]]</big> » [[File:UNTHINKABLESquared.png|27x27px]] [[UNTHINKABLE]]</th>
+</tr>
+</table>
+</center>
+<br>
+</tabber>
+----<h3> '''<big>Physically Impossible Classification</big>''' </h3>
+Physically Impossible Classification ('''PIC''') is the last classification from [[Main Difficulty Chart]] that can be able to build in a roblox game, being 2,000,000 studs on X and Y axis, and 1,050,000 studs on Z axis. With that it's basically impossible to do by any human, alljump, or mid-late '''PI''' from TAS, TASes can be duable the first 5 or 6 spectrums but the obstacles can get exponentially large that you can't able to with TAS, unless you're using Abuse TAS or Exploiting. <b>PIC</b>'s gap is ranging from, [[File:Screen Shot 2020-08-09 at 9.36.26 PM.png|25x25px]] [[Ultra Instinct]] to [[File:Pinnacle.png|25x25px]] [[Pinnacle]], or 61 to 115/115.99. Being 20 spectrums in total from this classification.
+<tabber>
+|-|Class 7=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 7</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Ascension<br><small>61 to 63.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Triumph<br><small>64 to 66.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Colossal<br><small>67 to 69.99</small></th>
+<th class="table ot" style="background-color: #867438"> Diabolical<br><small>70 to 72.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Cosmical<br><small>73 to 75.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Screen Shot 2020-08-09 at 9.36.26 PM.png|27x27px]] [[Ultra Instinct]]  » [[File:Transfinite Revamp.png|27x27px]] [[Transfinite]] </th>
+<th class="table ot lowRgn">[[File:RoorXD.png|27x27px]] [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]] » [[File:El Vacio Sqaure.png|27x27px]] [[El Vacio]]</th>
+<th class="table ot midRgn">[[File:Universe Disruption.png|27x27px]] [[Universe Disruption]] » [[File:New UG.jpg|27x27px]] [[Universal Glitch]] </th>
+<th class="table ot highRgn">[[File:FalseGanar Z.png|27x27px]] [[FalseGanar]] » [[File:Placeholder (SDC).png|27px]] [[Gameifying]]</th>
+<th class="table ot peakRgn">[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|27x27px]] [[Infinity]] » [[File:TooPreciseRevamp.png|27x27px]] [[TooPrecise]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 8=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 8</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Post-Apolitic<br><small>76 to 78.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Apolitical<br><small>79 to 81.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Extinction<br><small>82 to 84.99</small></th>
+<th class="table ot" style="background-color: #867438">Cataclysmic<br><small>85 to 87.99</small></th>
+<th class="table ot" style="background-color: #7A493D">No Remains<br><small>88 to 90.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Epitome.png|27x27px]] [[Epitome]] » [[File:2020 09 21 Kleki.png|27x27px]] [[Abyssal]]</th>
+<th class="table ot lowRgn">[[File:New DI Image.JPG|27x27px]] [[Dilly Impossible]]  » [[File:Resilient Glow.png|27x27px]] [[Resilient Glow]]</th>
+<th class="table ot midRgn">[[File:Peculiar Wavestats.png|27x27px]] [[Arcane]] » [[File:Satan Tartarus Lucifer Void.png|27x27px]] [[Satan Tartarus Lucifer Void]]</th>
+<th class="table ot highRgn">[[File:Qr-codedifficulty.png|27x27px]] [[QR Code]] » [[File:Complete Users.png|27x27px]] [[User:Complete Users|Complete Users]]</th>
+<th class="table ot peakRgn">[[File:BobuxDeath.png|27x27px]] [[BobuxDeath]] » [[File:Screenshot 2020-09-26 032504.jpg|27x27px]] [[The Crystal Core]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 9=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 9</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Exaterrestrial<br><small>91 to 93.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Calamitious<br><small>94 to 96.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Unending<br><small>97 to 99.99</small></th>
+<th class="table ot" style="background-color: #867438">Monstrous<br><small>100 to 102.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Undeny<br><small>103 to 105.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Rush.png|27x27px]] [[Rush]] » [[File:New Misery Icon.png|27x27px]] [[Misery]]</th>
+<th class="table ot lowRgn">[[File:Mysterious2.png|27x27px]] [[Mysterious]] » [[File:Liminesque.png|27x27px]] [[Denial]] </th>
+<th class="table ot midRgn">[[File:AlphaNothing.png|27x27px]] [[Aleph-Something]] » [[File:Enigmatic.gif|27x27px]] [[Enigmatic]]</th>
+<th class="table ot highRgn">[[File:VHD.gif|27x27px]] [[Vrery hawrfd rdifficutl!!]] » [[File:Hellasious.png|27x27px]] [[Hellacious]]</th>
+<th class="table ot peakRgn">[[File:LOOP (NEW).jpg|27x27px]] [[LOOP]] » [[File:Imageforsomething....png|27x27px]] [[Eɼɼosion]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 10=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 10</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Grieful<br><small>106 to 107.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Totalitarianism<br><small>108 to 109.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Lamentous<br><small>110 to 111.99</small></th>
+<th class="table ot" style="background-color: #867438">Cuthulu-like<br><small>112 to 114.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Physical Gap<br><small>115 to 115.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Dynamix.png|27x27px]] [[Dynamix]] » [[File:Caught.png|27x27px]] [[Caught]]</th>
+<th class="table ot lowRgn">[[File:Wer.webp|27x27px]] [[TooAbnormal]] » [[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|27x27px]] [[IMPOSSIBLE.EXE]]</th>
+<th class="table ot midRgn">[[File:Elite phase1.png|27x27px]] [[Exploitist Elite]] » [[File:Obama Prism Ultimate.png|27x27px]] [[User blog:EpicTheGamer2014/True Obama Prism|True Obama Prism]]</th>
+<th class="table ot highRgn">[[File:Zanyte.png|27x27px]] [[Zany]] » [[File:Viratical.png|27x27px]] [[Viratical]]</th>
+<th class="table ot peakRgn">[[File:Pinnacle.png|35x35px]] <big>[[Pinnacle]]</big></th>
+</tr>
+</table>
+</center>
+<br>
+</tabber>
+----<h3> '''<big>Unbuildable Classification</big>''' </h3>
+Unbuildable Classification ('''UbC''') is the first classification from [[Extended Difficulty Chart]] that there starts to appear [[:Category:Fictional Towers|Fictional Towers]] and this point can't get build in roblox studio, parts that are 1,000,000+ studs from spawn or any axis, it'll be converted automatically to 1,000,000 whenever you left roblox studio, there is more side effects on floating point, being stud precision, in 16,777,216<ref name=":1">It's highly recommended watch this https://www.youtube.com/watch?v=OXFH_Z1JIb8 to understand floating point and stud precision.</ref> stud precision will increase to 1 stud and this point the bit usage gonna be overflowed. Is literally improbable to beat by any human, alljump, TAS, Abuse TAS, or even Exploiting due the obstacles can be more exponentially large to billion, trillion, quadrillion, even quintillion studs. <b>UbC</b>'s gap is ranging from [[File:Stardark.png|25x25px]] [[Stardark]] to [[File:Vigorous.png|25x25px]] [[Vigorous]], or 116 to 145/145.99. Being 10 spectrums in total from this classification
+<tabber>
+|-|Class 11=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 11</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Unbuildable<br><small>116 to 118.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Beyondable<br><small>119 to 119.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Blindful<br><small>120 to 123.99</small></th>
+<th class="table ot" style="background-color: #867438">Despair-Inducing<br><small>124 to 127.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Mentally Descending<br><small>128 to 130.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Stardark.png|27x27px]] [[Stardark]] » [[File:3rdDimensionNew.png|27x27px]] [[3rd Dimension]]</th>
+<th class="table ot lowRgn">[[File:Supreme Null.png|27x27px]] [[Supreme-Null]] » [[File:B5BBA602-1603-4723-908E-88EDC6DF90D5.png|27x27px]] [[Aleph]]</th>
+<th class="table ot midRgn">[[File:Uproarious.gif|27x27px]] [[Uproarious]] » [[File:New tb image.png|27x27px]] [[THE BORDERLINE]]</th>
+<th class="table ot highRgn">[[File:CrypticNew.png|27x27px]] [[Cryptic]] » [[File:Aleph-ts revamp.png|27x27px]] [[Aleph-TS]]</th>
+<th class="table ot peakRgn">[[File:Aerodynamix Difficulty.png|27x27px]] [[Aerodynamix]] » [[File:Destroiny.png|27x27px]] '''[[Destroiny]]'''</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 12=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 12</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Exiled<br><small>131 to 133.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Lovecraftian<br><small>134 to 136.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Never-Ending<br><small>137 to 139.99</small></th>
+<th class="table ot" style="background-color: #867438">Incapability<br><small>140 to 142.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Computability Limit<br><small>143 to 145.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Microwave.png|27x27px]] [[Microwave]] » [[File:Audiolizer.png|27x27px]] [[Audiolizer]]</th>
+<th class="table ot lowRgn">[[File:Abolished.png|27x27px]] [[Abolished]] » [[File:DeathwrathNew.png|27x27px]] [[DeathWrath|Deathwrath]]</th>
+<th class="table ot midRgn">[[File:53 new.png|27x27px]] [[53?]] » [[File:RoorOmegaNew.png|27x27px]] [[RoorOmega]]</th>
+<th class="table ot highRgn">[[File:Obstructed.png|27x27px]] [[Obstructed]] » [[File:Libetdelay(no its not).jpg|27x27px]] [[Libet's Delay]]</th>
+<th class="table ot peakRgn">[[File:Supramundane.png|27x27px]] [[Supermundane]] » [[File:Vigorous.png|27x27px]] [[Vigorous]]</th>
+</tr>
+</table>
+</center>
+<br>
+</tabber>
+----<h3> '''<big>Theoretically Impossible Classification</big>''' </h3>Theoretically Impossible Classification ('''TIC''') is the second and surpass roblox studio engine itself, with the real limit being 340,282,366,920,938,463,463,374,607,431,768,211,456 or 340.2 duodecillion, it can be equally to Low [[:Category:Class 13|Class 13]] obstacles, and if you try to go farther of the limit, your chracter will just explode<ref name=":1" />, being roblox engine can't support beyond 340.2 duodecillion studs. The obstacles are needed to do in real live or fictionally, and it can be EXPONENTIALLY HIGHER that <b>UbC</b>'s obstacles and starts of [[w:c:googology:Hyper-E notation|Hyper-E notation]] usage, bypassing 1024-bit limit, 1.797693134862315912e308 or 179.7 Uncentillion. This is literally surely that can't be beaten by any human, alljump, TAS, Abuse TAS, or Exploiting. <b>TIC</b>'s gap is ranging from [[File:TheCoolerTheoretical.png|25x25px]] [[Theoretical]] to [[File:3FF0R7FU1.png|25x25px]] [[THE CURSED DIFFICULTY]], or 146 to 190/190.99. Being 15 spectrums in total from this classification.
+<tabber>
+|-|Class 13=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 13</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Universal<br><small>146 to 148.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Multiversal<br><small>149 to 151.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Megaversal<br><small>152 to 154.99</small></th>
+<th class="table ot" style="background-color: #867438"> Metaversal<br><small>155 to 157.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Ultraversal<br><small>158 to 160.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:TheCoolerTheoretical.png|27x27px]] [[Theoretical]] » [[File:Doggodeath new icon.PNG|27x27px]] [[Doggo]]</th>
+<th class="table ot lowRgn">[[File:Shoving.png|27x27px]] [[Shoving]] » [[File:Thereisnodifficulty.jpg|27x27px]] [[There Is No Difficulty|TIND]]</th>
+<th class="table ot midRgn">[[File:1437875056.png|27x27px]] [[The Crystal HELL]] » [[File:Couch.png|27x27px]] [[couch]] </th>
+<th class="table ot highRgn">[[File:Are you done yet?.png|27x27px]] [[Are You Done Yet?]] » [[File:TEXTIFY.png|27x27px]] [[Textify]]</th>
+<th class="table ot peakRgn">[[File:Acceptance.png|27x27px]] [[Acceptance]] » [[File:Deranged2.png|27x27px]] [[Deranged]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 14=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 14</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Gigaversal<br><small>161 to 163.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Hyperversal<br><small>164 to 166.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Xenoversal<br><small>167 to 169.99</small></th>
+<th class="table ot" style="background-color: #867438"> Archversal<br><small>170 to 172.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Omniversal<br><small>173 to 175.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Aleph-Natsuki.png|27x27px]] [[Aleph-Natsuki]] » [[File:Destrall.png|27x27px]] [[Destrall]]</th>
+<th class="table ot lowRgn">[[File:DoloremAeternaDifficulty.png|27x27px]] [[Dolorem Aeterna]] » [[File:Fearfulness.jpeg|27x27px]] [[Fearfulness]]</th>
+<th class="table ot midRgn">[[File:KaizocoreDifficulty.png|27x27px]] [[Kaizocore]] » [[File:Titanical.png|27x27px]] [[TITANICAL]] </th>
+<th class="table ot highRgn">[[File:Universal Destruction.png|27x27px]] [[Universal Destruction]] » [[File:JSAD2V.jpg|27x27px]] [[Just Difficulties and Towers|JDaT]]</th>
+<th class="table ot peakRgn">[[File:DivineD.gif|27x27px]] '''[[Divinity]]''' » [[File:Absolute.gif|27x27px]] '''[[Absolute]]''' </th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 15=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 15</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Incomprehensiveable<br><small>176 to 178.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Primordial<br><small>179 to 181.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Beyond Comprehention<br><small>182 to 184.99</small></th>
+<th class="table ot" style="background-color: #867438"> Comprehentionless<br><small>185 to 187.99</small></th>
+<th class="table ot" style="background-color: #7A493D"> Breaking Point Gap<br><small>188 to 190.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:UnknownDiff.png|27x27px]] [[Unknown]] » [[File:Inexplicable larger.png|27x27px]] [[Inexplicable]]</th>
+<th class="table ot lowRgn">[[File:Byyungspinach.jpeg|27x27px]] [[Hardest in the Room]]  » [[File:Indiscernible.jpg|27x27px]] [[Indiscernible]]</th>
+<th class="table ot midRgn">[[File:TON 618.png|27x27px]] [[TON 618]] » [[File:CataclysmNewest.png|27x27px]] [[Cataclysm]]</th>
+<th class="table ot highRgn">[[File:CHAOS XD Revamp.png|27x27px]] [[CHAOS XD]] » [[File:Namibia.jpg|27x27px]] [[Namibia]]</th>
+<th class="table ot peakRgn">[[File:Beyond..png|27x27px]] [[Beyond]] » [[File:3FF0R7FU1.png|27x27px]]  [[THE CURSED DIFFICULTY]]</th>
+</tr>
+</table>
+</center>
+<br>
+</tabber>
+----<h3> '''<big>Logically Impossible Classification</big>''' </h3>
+Logically Impossible Classification ('''LIC''') is where the obstacles can really require breaking laws of physicaly simply to preform a single jump, being the jumps centillions more that the limit of a roblox place, marking the obstacles absurdly high that starts use [[w:c:googology:Hyper-E notation|Hyper-E notation]] previously found in late TI obstacles and [[w:c:googology:Fast-growing hierarchy|Fast-growing hierarchy]]. <b>LIC</b>'s gap is ranging from [[File:New Eternified Partyness.png|25x25px]] [[Eternified Partyness]] to [[File:KLJYNewNew.png|25x25px]] [[KLJY]], or 191 to 205/205.99. Being 5 spectrums in total from this classification.
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 16</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592"> Enough<br><small>191 to 193.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Inexplainable<br><small>194 to 196.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Immortablity<br><small>197 to 199.99</small></th>
+<th class="table ot" style="background-color: #867438">Hyperbolic<br><small>200 to 202.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Indescribable<br><small>203 to 205.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:New Eternified Partyness.png|27x27px]] [[Eternified Partyness]] » [[File:Nightfall.jpg|27x27px]] [[Nightfall]] </th>
+<th class="table ot lowRgn">[[File:Determination Of Crashing.png|27x27px]] [[Determination of Crashing|Doom O' Clock]] » [[File:Psychomania.png|27x27px]] [[Psychomania]]</th>
+<th class="table ot midRgn">[[File:Unnaed.png|27x27px]] [[Aleph-Eternity]] » [[File:Zer.PNG|27x27px]] [[Zerstörung]]</th>
+<th class="table ot highRgn">[[File:TomfooleryNEW.webp|27x27px]] [[Tomfoolery]] » [[File:P.O.S.S.I.B.L.E.png|27x27px]] [[P.O.S.S.I.B.L.E]]</th>
+<th class="table ot peakRgn">[[File:Conflicting.png|27x27px]] [[Conflicting]] » [[File:KLJYNewNew.png|27x27px]] [[KLJY]]</th>
+</tr>
+</table>
+</center>
+<br>
+----<h3> '''<big>Transcendentally Impossible Classification</big>''' </h3>
+Transcendentally Impossible Classification ('''TrIC''') is the last classification that use cardinal numbers, starting off [[:Category:Class 17|Class 17]], this class obstacles use [[w:c:googology:Fast-growing hierarchy|Fast-growing hierarchy]], [[w:c:googology:Busy beaver function|Busy beaver function]], [[w:c:googology:Rayo's number|Rayo's number]], and larger functions, as well this class is the last that finite numbers usage before transfinite ordinals. [[:Category:Class 18|Class 18]] is where transfinite ordinals are after all finite numbers, obstacles can be ω to [[w:c:googology:Infinite time Turing machine#ITTM ordinals|Infinite Time Turing Machine]] ordinals, until the obstacles becomes [[wikipedia:Inaccessible cardinal|Inaccessible]]. <b>TrIC</b>'s gap is ranging from [[File:Mania.png|25x25px]] [[Mania]] to [[File:Fragment.png|25x25px]] [[True Hell]], or 206 to 245/245.99. Being 15 spectrums in total from this classification.
+<tabber>
+|-|Class 17=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 17</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592"> Understandless<br><small>206 to 208.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Dementiablity<br><small>209 to 211.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Forgotteblity<br><small>212 to 214.99</small></th>
+<th class="table ot" style="background-color: #867438">Mindly Confusiontion<br><small>215 to 217.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Astronomicaliblity<br><small>218 to 220.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Mania.png|27x27px]] [[Mania]] » [[File:Placeholder (SDC).png|27px]] N/A</th>
+<th class="table ot lowRgn">[[File:VERYNewPie.png|27x27px]] [[π]] » [[File:Riftial2.gif|27x27px]] [[Riftial]]</th>
+<th class="table ot midRgn">[[File:Average Babass 2023.svg|27x27px]] '''[[Average Babass]]''' » [[File:Dynamicduo.jpg|27x27px]] [[DYNAMICDUO]]</th>
+<th class="table ot highRgn">[[File:ColossalNewest.jpg|27x27px]] [[Colossal]] » [[File:Choice.png|27x27px]] [[Choice]]</th>
+<th class="table ot peakRgn">[[File:TGTC.png|27x27px]] [[THE GREAT TRANASANIC COMBINATION|TGTC]] » [[File:Sunt Vera Ultima.png|27x27px]] [[Sunt Vera Ultima]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 18=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 18</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592"> Hypnotic<br><small>221 to 223.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C"> Cyclability<br><small>224 to 226.99</small></th>
+<th class="table ot" style="background-color: #666B2C"> Maniacal<br><small>227 to 229.99</small></th>
+<th class="table ot" style="background-color: #867438"> Divinity<br><small>230 to 232.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Megalomaniac<br><small>233 to 235.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Unfathomability New.png|27x27px]] [[Unfathomability]] » [[File:Ungraspable.png|27x27px]] [[Ungraspable]] </th>
+<th class="table ot lowRgn">[[File:Aleph-Math.jpg|27x27px]] [[Aleph-Math]] » [[File:Absolutely Unpossible.png|27x27px]] [[ABSOLUTELY UNPOSSIBLE]]</th>
+<th class="table ot midRgn">[[File:Sanjay.webp|27x27px]] [[Sanjay2133]] » [[File:5th dimension.gif|27x27px]] [[5th Dimension]]</th>
+<th class="table ot highRgn">[[File:Dicky wicky.webp|27x27px]] [[Psychosomatic]] » [[File:OneSection.png|27x27px]] [[OneSection]] </th>
+<th class="table ot peakRgn">[[File:RGB.webp|27x27px]] [[RGB]] » [[File:Deadly Tubular Death Icon.gif|27x27px]] [[DEADLY TUBULAR DEATH]]</th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 19=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 19</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Reality<br><small>236 to 237.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C">Omnipotentiblity<br><small>238 to 239.99</small></th>
+<th class="table ot" style="background-color: #666B2C">Dimensionality<br><small>240 to 241.99</small></th>
+<th class="table ot" style="background-color: #867438">Paradoxiblity<br><small>242 to 243.99</small></th>
+<th class="table ot" style="background-color: #7A493D">Enoughable...<br><small>244 to 245.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Mythic.gif|27x27px]] [[Mythic]] » [[File:ENDLESS.JPG|27x27px]] [[Endless]]</th>
+<th class="table ot lowRgn">[[File:Brutal Calamity.png|27x27px]] [[BRUTAL CALAMITY]] » [[File:Transmaximal-new.jpg|27x27px]] [[Transmaximal]] </th>
+<th class="table ot midRgn">[[File:Kenos..png|27x27px]] [[Kenos]]  » [[File:Eviscerating.gif|27x27px]] [[Eviscerating]]</th>
+<th class="table ot highRgn">[[File:Spinning skull 💀.gif|27x27px]] [[Spinning Skull]] » [[File:Absolute Infinity.jpg|27x27px]] [[ABSOLUTE INFINITY]]</th>
+<th class="table ot peakRgn">[[File:PrimalBabass2023.jpg|27x27px]] [[Primal Babass]] » [[File:Fragment.png|27x27px]] [[True Hell]]</th>
+</tr>
+</table>
+</center>
+<br>
+</tabber>
+----<h3> '''<big>Undefinable Classification</big>''' </h3>
+Undefinable Classification ('''UdC''') is the last classification of the wiki, which the obstacles can't be define any cases. <b>UdC</b>'s gap is ranging from [[File:Ee.png|25x25px]] [[Effortful]] to [[File:Final.png|25x25px]] [[The Final Difficulty.|The Final Difficulty]], or 246|115.5 to Infinite. Being 8 spectrums in total from this classification.
+<tabber>
+|-|Class 20=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="5" class="table"><font size="6.5">Class 20</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #629592">Ineffortiblity<br><small>246 to 246.99</small></th>
+<th class="table ot" style="background-color: #4D9F6C">Boundlessiblity<br><small>247 to 247.99</small></th>
+<th class="table ot" style="background-color: #666B2C">Unreasonbly Gap<br><small>248 to 248.99</small></th>
+<th class="table ot" style="background-color: #867438">Undefinablity<br><small>249 to 249.99</small></th>
+<th class="table ot" style="background-color: #7A493D">The Real Peak.<br><small>250 to 250.99</small></th>
+</tr>
+<tr>
+<th class="table ot baseRgn">[[File:Ee.png|64px]]<br><big>[[Effortful]]</big></th>
+<th class="table ot lowRgn">[[File:Unbounded.jpg|64px]]<br><big>[[Unboundable]]</big></th>
+<th class="table ot midRgn">[[File:Uncomputable.png|64px]]<br><big><span style="text-shadow: none">[[Uncomputable]]</span></big></th>
+<th class="table ot highRgn">[[File:Skypoint.png|64px]]<br><big>[[Undefinable]]</big></th>
+<th class="table ot peakRgn">[[File:Penultimate.png|64px]]<br><big>[[Penultimate]]</big></th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 21=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th colspan="2" class="table"><font size="6.5">Class 21</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #a17a4c"><font size="5.25">Reincarnation</font><br><small>251+</small></th>
+<th class="table ot" style="background-color: #646464"><font size="5.25">Transcendence<br></font><small>115.5 to Infinite</small></th>
+</tr>
+<tr>
+<th class="table ot ReinRgn">[[File:Loxus.gif|50px]] <big>[[Liminal]]</big> » [[File:Uber Current.gif|50px]] <big>[[Uber]]</big></th>
+<th class="table ot TransRgn">[[File:The Upper Gap.png|200px]]<br><font size="6">[[TUG|The Upper Gap]]</font></th>
+</tr>
+</table>
+</center>
+<br>
+|-|Class 22=
+<br>
+<center>
+<table class="table mw-collapsible" style="text-align:center; width:82%">
+<tr>
+<th class="table"><font size="6.5">Class 22</font></th>
+</tr>
+<tr>
+<th class="table ot" style="background-color: #000000"><font size="5.75">Infinite</font><br><small>Infinite</small></th>
+</tr>
+<tr>
+<th class="table ot EoIRgn">[[File:Final.png|300px]]<br><font size="7">[[TFinD|The Final Difficulty]]</font></th>
+</tr>
+</table>
+</center>
+<br>
+</tabber>
+----
+
+<h2>Gallery</h2>
+<h3><big>Official Icons</big></h3>
+<gallery widths="176" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#ffffff" bordercolor="#ffffff" captionsize="large">
+NewSpectrumplex.png|Current/Version 4 icon of Spectrumplex.
+Spectrumplex new new.png|Old/Version 3 icon of Spectrumplex.
+Spectrumplex new icon.png|2nd Old/Version 2 icon of Spectrumplex.
+Spectrumplex.png|Original/Version 1 icon of Spectrumplex.
+</gallery>
+<h3><big>Alternative Icons</big></h3>
+<gallery widths="176" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#ffffff" bordercolor="#ffffff" captionsize="large">
+Placeholder_(SDC).png|An early design for Current/Version 4.
+Spectrumplex new new alt.png|Alternative version of Old/Version 3.
+Spectrumplex alt.png|Alternative version of 2nd Old/Version 2.
+Spectrumplex old.png|A scrapped design for 2nd Old/Version 2.
+SpectrumplexEarlyOriginalIcon.png|An early design for Original/Version 1.
+SpectrumplexEarlierOriginalIcon.png|An earlier design for Original/Version 1.
+</gallery>
+<h2>References/Trvia</h2>
+<references />
+{{MainDifficultiesNavbox}}

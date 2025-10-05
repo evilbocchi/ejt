@@ -1,0 +1,74 @@
+{{Unclassified}}{{WIP}}
+{{NewDifficultyInfobox
+|image1 = <gallery>
+Construct New Icon.svg | Current
+Construct Old Icon.png | Old
+Construct Icon.svg | Original
+Construct New Unofficial Icon.png | Unofficial
+</gallery>
+|caption1=The icon for Construct.|class=Unclassified, but can vary from difficulty, which could be from [[:Category:Class Negative|Class Negative]] all the way to [[:Category:Class 22|Class 22]], depending on the adjustments made with this difficulty.|creator(s)=[[User:AlephWasTaken|AlephWasTaken]]|date_added=The date this was added on this wiki was at 19:44 BST on the 24th of September 2021.|title1=Construct|previous=Factorial|next=|previous_name=The previous name of this difficulty was 'Construction'.|removal_reason=No reason given for the deletion of the page by [[User:Ninjaaydhin|Ninjaaydhin]], possibly because of a bad page|rating=?|type=Unclassfied|counterpart=Eschaton (JToH)|full_name=The Eschatonian Construct|alt_names=Eschaton}}
+== What is '''Construct'''?== 
+'''Construct''' is an Unclassified difficulty that has a special quirk that allows you to place parts in a tower. This can be done with the ''Blueprint''. You can also delete parts with the ''Hammer''. Although, if the difficulty was high enough, the ''Hammer'' could be removed. There are also special areas called ''Barriers''. These are parts of the tower where you cannot place any parts. A ''Deadly Barrier'' is more dangerous, though, as if you go inside it, you have to restart your whole run, much like GBJs.
+
+==Rundown on the different mechanics exclusive to Construct==
+
+*'''Blueprint:''' Allows you to place parts down at any position that doesn't interfere with a ''Barrier''. You can place multiple parts with the ''Blueprint'', which will be talked about later in this article. With the Blueprint, you can move, rotate, and even scale parts with it. There can be a certain limit of how much you can scale it up to, though.
+*'''Hammer:''' Basically the opposite of the ''Blueprint'', which allows you to remove parts you placed using the ''Blueprint'' in the tower. There can be a certain limit on how much you can delete parts with the ''Hammer'', however, which is usually found of towers with the Insane part of Construct.
+*'''Barrier:''' An area of the tower that you can't place or position any parts in. This could be useful for preset obstacle courses you have to complete in order to continue with the tower, which we will explain about later in this article.
+*'''Deadly Barrier:''' A more dangerous version of the ''Barrier''. Along with you not being able to place any parts inside of it, if YOU go inside of it, you will automatically die in game. This is useful for patching any skips, like clipping outside of the frame to get past the obstacles inside the tower.
+
+=== Blueprint's Part choices: ===
+
+* '''Part''': A basic roblox part.
+* '''Truss''': A climbable part using the truss shape.
+* '''Spinner''': A spinning part which covers a larger distance.
+* '''Conveyor''': Similar to basic part, put pushes objects in a given direction. (Usually forwards)
+* '''Bounce Pad''': Similar to basic part as well, but pushes parts upwards instead of forwards
+
+More parts may be placable in different towers or floors, depending on the obstacles and difficulty.
+
+==Towers in/with Construct==
+<tabber>
+|-|Towers in Construct=
+These are towers that are in Construct difficulty.
+'''Fictional Towers:
+*Tower of Ascending Brick by Brick (ToABbB)
+*Box of Tools (BoT)
+*Tower of Roblox Studio (ToRS)
+*Santa's Intercontinental Ballistic Missile Factory (SIBMF) ([[The Final Universe|TFU]])
+
+'''Nonfictional Towers:
+*Tower of Building Blocks (ToBB) '''''[WIP]
+*[[w:c:jtoh:Tower_of_Eve_Is_Ent|Tower of Eve Is Ent]] (ToEIE)
+|-|DCTs with Construct=
+These are [[Difficulty Chart]] [https://jtoh.fandom.com/wiki/Tower Towers] that have Construct difficulty in them.
+*None as of now.
+</tabber>
+
+== Obstacles in this difficulty ==
+As said previously in the article, this difficulty is Unclassified, but there are a few obstacles you could put into the tower:
+
+*Rising lava.
+*Outside sections.
+* Preset obstacle courses.
+*Moving barriers.
+*No ''Hammer''.
+*Limited amount of parts you can place.
+* Events that happen randomly.
+*Turrets that destroy bricks.
+*Limited time that parts exist.
+
+== Trivia ==
+
+* This is the only Unclassified difficulty made by [[User:AlephWasTaken|AlephWasTaken]].
+* Towers in this difficulty are as hard to build as [[:Category:Class 12|Class 12]]> towers as you need to know how to script very well in order to make a tower in this difficulty.
+* There is currently one Construct difficulty obby in existence, but it isn't quite a tower. You can play it [https://www.roblox.com/games/15187918239/Tower-of-Building-Blocks-but-not-actually-tower here]. (The tools may become open-source soon.)
+* There is another difficulty in JToH that is called '''''Eschaton''''' that is practically the same as this difficulty.
+
+'''Please note that since Construct is a work in progress, the article has not been fully constructed (See what I did there?), so information may be missing. But don't worry, as this page will be finished soon, so ''please'' do not delete this page due to lack of information.'''
+
+{{DifficultiesNavbox}}
+[[Category:Unclassified]]
+[[Category:Difficulties]]
+[[Category:Icons made by AlephWasTaken]]
+[[Category:Icons made with pixel art]]

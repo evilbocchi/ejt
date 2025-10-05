@@ -1,0 +1,163 @@
+{{Background|File=Horrendous background.jpg|Size=1750px}}
+<div style="box-sizing:border-box; border-radius:15px;border:3px solid red;overflow:hidden;background:linear-gradient(180deg,maroon,black)">
+{{NoticeScrollboxNew|Notices=
+{{Humanly Impossible}}}}
+<center>[[File:Inimical.PNG|36x36px]]<big> [[Inimical]] ➥ [[File:Horrendous.png|frameless|35x35px]] '''Horrendous ➦'''</big> [[File:UltimateNew.jpg|35x35px]] <big>[[Ultimate]]</big></center>
+{{NewDifficultyInfobox|caption1=The red has started to appear even more frequently... Obstacles have started to look more terrifying...|title1=<span style="color: #FF0000;font-family: Segoe UI">Horrendous|image1=Horrendous.png|class=5|type=Sub-Difficulty|previous=[[File:MonstrousNew.jpg|frameless|30px]] [[Monstrous]]|next=[[File:UltimateNew.jpg|frameless|30x30px]] [[Ultimate]]|decal_id=125565361138152|official_music(s)=Ultrakill - Divine Intervention
+[[File:HorrendousMusic.webm]]|creator(s)=Jschirtzer
+ConfusionandTrickery (Revamper)|date_added=29/06/2022|date_removed=|class_range=High Class 5|difficulty_range=Baseline - Peak|rating=40.66|alt_previous=[[File:Inimical.PNG|frameless|30px]] [[Inimical]]|main_difficulty=[[File:MonstrousNew.jpg|frameless|30px]] [[Monstrous]]}}
+==<big>What is [[File:Horrendous.png|frameless|47x47px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>'''?</big>==
+<big>[[File:Horrendous.png|frameless|46x46px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>'''</big> is a '''Class 5''' sub-difficulty that sets itself apart from all the other challenges in a distinct way. It is one of those obstacles that is directly tied to [[File:MonstrousNew.jpg|frameless|30px]] [[Monstrous]] or [[File:Inimical.PNG|30px]] [[Inimical]], the epitome of despair and [[File:UltimateNew.jpg|30x30px]] [[Ultimate]], which all three/four of them are located inside the red zone.
+
+[[File:Horrendous.png|30x30px]] [[Horrendous]] is a challenge that surpasses the average difficulty level, instilling a sense of fear and apprehension in those who dare to face it. This particular trial presents a grim and daunting environment where the specter of instant killbrick looms at every turn, heightening the macabre atmosphere. The longer one remains in this realm, the more apparent it becomes that only those with unwavering determination and unwavering strength can persevere.
+
+[[File:Horrendous.png|30x30px]] [[Horrendous]] is not just a test of skill, but a true testament to one's ability to endure in the face of overwhelming adversity.
+
+==<big>[[File:Horrendous.png|frameless|50x50px]]'''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>''' - Placement</big>==
+Note: Please correct the rating because the rating on MDC is too unorganized 
+
+=== High Class 5=== 
+*[[File:MonstrousNew.jpg|30x30px]] [[Monstrous]] (40) 
+**[[File:Inimical.PNG|26x26px]] [[Inimical]] (40.33)
+**[[File:Horrendous.png|25x25px]] [[Horrendous]] (40.66) '''(YOU ARE HERE)'''
+*[[File:UltimateNew.jpg|30x30px]] [[Ultimate]] (41) 
+**[[File:NOUGHT.png|25x25px]] [[Nought]] (41.5)
+*[[File:NewSystemErrorIcon.png|30px]] [[System Error]] (42)
+
+==<big>[[File:Horrendous.png|frameless|50x50px]]'''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>''' - Icon Representation</big>==
+{| class="mw-collapsible fandom-table"
+|+
+!Name
+!Icon
+!Description
+|-
+|Current
+|[[File:Horrendous.png|158x158px]]
+|'''<span style="color: #FF0000;font-family: Segoe UI">Horrendous's</span>''' icon represents a red to black gradient like '''every other class 5 difficulty''', but instead there is a massive ν, or Greek lowercase Nu, in the middle of the difficulty in bold font.
+|}
+
+==<big>[[File:Horrendous.png|frameless|50x50px]]'''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>''' - Catches</big>==
+Before stepping into this difficulty. Let me introduce you to the catches that will happen during your experience when start completing these tedious obstacles.  
+*Difficutly atmosphere and surrounding is nearly as same as '''Ring 9''' of Juke's Tower of Hell. The hellish environment.
+*The obstacles are fully outside, if you fall, you will fall straight to the lava pool.
+*Almost everywhere is scattered with '''instant kills'''.
+*The lava is rising, speed is the same as [[Apocalyptic]] lava's speed
+
+==<big>[[File:Horrendous.png|frameless|50x50px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>''' - Obstacles</big>==
+<big>You will definitely '''NOT''' survive at all..</big><tabber>
+|-|Baseline=
+===Baseline [[File:Horrendous.png|frameless|35x35px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>'''===
+Welcome Player, I've Been expecting your arrival ever sense you've beaten [[Inimical]].
+
+Now, Onwards to the First of my Obstacles, have fun beating.
+* 170 Stud Moon-Wallhops
+* 6.40 Stud Stickouts (Unclimbable) 
+* 14.8 Stud Wraps 
+*  16.1 Stud Jumps
+* 11 Stud Jump MACCS
+* 95 Stud Killbrick Glitchwraps
+* 7.1 Stud stickouts
+* Completing all of  [[File:MonstrousNew.jpg|frameless|30px]] [[Monstrous]]'s Obstacles in 300 Seconds
+* Squeezing into a 0.2 stud gap Without Clipping
+*Dodging Moving 972 Speed Instant Kill Spinners Moving in and out of the survival box for 30 seconds 
+* Doing a 3 stud Danceclip
+* Preforming a 1 stud gap squeeze in only 2 studs (1x2 1 = up 2 = sides)
+* Doing 6 Evuuz's Flings after each other and landing inside a 3 stud gap
+|-|Low=
+===Low [[File:Horrendous.png|frameless|35x35px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>'''===
+* 175 Stud Moon-Wallhops
+* 6.45 Stud Stickouts (Unclimbable) 
+* 14.9 Stud Wraps 
+*  16.2 Stud Jumps
+* 11.2 Stud Jump MACCS
+* 97.5 Stud Killbrick Glitchwraps
+* 7.15 Stud stickouts
+* Completing all of  [[File:MonstrousNew.jpg|frameless|30px]] [[Monstrous]]'s Obstacles in 280 Seconds
+* Squeezing into a 0.175 stud gap Without Clipping
+*Dodging Moving 974 Speed Instant Kill Spinners Moving in and out of the survival box for 32 seconds 
+* Doing a 3.1 stud Danceclip
+* Preforming a 0.9 stud gap squeeze in only 2.5 studs
+* Doing 6 Evuuz's Flings after each other and landing inside a 2.9 stud gap
+|-|Mid=
+===Mid [[File:Horrendous.png|frameless|35x35px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>'''===
+* 180 Stud Moon-Wallhops
+* 6.5 Stud Stickouts (Unclimbable) 
+* 15 Stud Wraps 
+*  16.3 Stud Jumps
+* 11.3 Stud Jump MACCS
+* 98 Stud Killbrick Glitchwraps
+* 7.2 Stud stickouts
+* Completing all of  [[File:MonstrousNew.jpg|frameless|30px]] [[Monstrous]]'s Obstacles in 260 Seconds
+* Squeezing into a 0.15 stud gap Without Clipping
+*Dodging Moving 976 Speed Instant Kill Spinners Moving in and out of the survival box for 34 seconds 
+* Doing a 3.2 stud Danceclip
+* Preforming a 0.8 stud gap squeeze in only 3 studs
+* Doing 7 Evuuz's Flings after each other and landing inside a 2.8 stud gap
+|-|High=
+===High [[File:Horrendous.png|frameless|35x35px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>'''===
+* 185 Stud Moon-Wallhops
+* 6.6 Stud Stickouts (Unclimbable) 
+* 15.1 Stud Wraps 
+*  16.4 Stud Jumps
+* 11.3 Stud Jump MACCS
+* 100 Stud Killbrick Glitchwraps
+* 7.3 Stud stickouts
+* Completing all of  [[File:MonstrousNew.jpg|frameless|30px]] [[Monstrous]]'s Obstacles in 240 Seconds
+* Squeezing into a 0.125 stud gap Without Clipping
+*Dodging Moving 978 Speed Instant Kill Spinners Moving in and out of the survival box for 36 seconds 
+* Doing a 3.3 stud Danceclip
+* Preforming a 0.7 stud gap squeeze in only 3.5 studs
+* Doing 7 Evuuz's Flings after each other and landing inside a 2.7 stud gap
+|-|Peak=
+===Peak [[File:Horrendous.png|frameless|35x35px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>'''===
+* 190 Stud Moon-Wallhops
+* 6.7 Stud Stickouts (Unclimbable) 
+* 15.2 Stud Wraps 
+*  16.5 Stud Jumps
+* 11.4 Stud Jump MACCS
+* 102 Stud Killbrick Glitchwraps
+* 7.4 Stud stickouts
+* Completing all of  [[File:MonstrousNew.jpg|frameless|30px]] [[Monstrous]]'s Obstacles in 220 Seconds
+* Squeezing into a 0.1 stud gap Without Clipping
+*Dodging Moving 980 Speed Instant Kill Spinners Moving in and out of the survival box for 38 seconds 
+* Doing a 3.4 stud Danceclip
+* Preforming a 0.6 stud gap squeeze in only 4 studs
+* Doing 8 Evuuz's Flings after each other and landing inside a 2.6 stud gap
+</tabber>
+==<big>[[File:Horrendous.png|frameless|47x47px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>''' - Towers</big>==
+===Towers in this difficulty===
+<tabber>
+|-|
+Fictional=
+*Tower of Horrendous and Tedious Obstacles  (ToHaTO) [Fictional]
+*Steeple of Narrow Yet Ungodly Creations (SoNYUC) [Fictional]
+*Tower of Oh Great Heavens. (ToOGH) (GAT) [Fictional]
+*Obelisk of Nonstop Pain and Suffering (OoNPaS) [Fictional]
+|-|
+Non-Fictional=
+* [https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 54.66: Horrendous] (R54.66:H)
+</tabber>
+===Towers with this difficulty===
+<tabber>
+|-|
+Room-Obelisk=
+*N/A
+|-|
+Obelisk+=
+*N/A
+</tabber>
+==<big>[[File:Horrendous.png|frameless|46x46px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous</span>''' - Gallery</big>==
+<gallery>
+File:Horrendous.png| Horrendous's icon
+File:Horrendous maths.jpg|Horrendous Math (Unofficial)
+</gallery>
+==<big>'''<span style="color: #FF0000;font-family: Segoe UI">''Continuing From this Point.''</span>'''</big>==
+How..? You did [[File:Horrendous.png|frameless|35x35px]] '''<span style="color: #FF0000;font-family: Segoe UI">Horrendous's</span>''' unlike the other tens of people who couldn't pass this difficulty. Well, fair done traveler, I wish you luck on your next difficulty, [[File:UltimateNew.jpg|frameless|36x36px]] [[Ultimate]]
+
+='''''Good luck, traveler.'''''=
+{{DifficultiesNavbox}}
+[[Category:Class 5]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Sub-Difficulties]]
+[[Category:Humanly Impossible]]

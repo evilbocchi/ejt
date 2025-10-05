@@ -1,0 +1,89 @@
+<div style="background:#8F4C2A;padding:1em;font-family:rubik;border:25px solid #694027">
+{{NoticeScrollboxNew|Notices=
+{{Outdated|reason=Difficulty placements, different classification, and inaccurate difficulties.}}
+{{Physically Impossible}}
+}}
+----
+{{RevampQuote|Header=Upon Entering|Text=Well, this will have me confused. This isn't any difficulty I'm familiar with.|Quoter={{USERNAME}}}}
+----
+
+{{NewDifficultyInfobox|title1=[[File:Confusion.webp|30px]] <span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">'''Confusion|image1=Confusion.webp|caption1=All I Can Say Is... That You Are Stuck On This Page Or Just Close It|class=[[File:Confusion.webp|50px]]
+|previous=[[File:Confusion.webp|30px]] <span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">'''Confusion|next=[[File:Confusion.webp|30px]] <span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">'''Confusion|rating=[[File:Confusion.webp|50px]]|type=[[File:Confusion.webp|50px]]|class_range=[[File:Confusion.webp|50px]]|difficulty_range=[[File:Confusion.webp|50px]]|chain(s)=Confusion Chain|creator(s)=Sanjay2133|date_added=30 November 2022|revamp_date=9 July 2023 (start)|decal_id=136253136767652}}
+
+==Introduction - [[File:Confusion.webp|50px]] <big><span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]==
+
+
+[[File:Confusion.webp|30x30px]] <span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span> is a Class [[File:Confusion.webp|30x30px]] difficulty that resides after ██████████ and before ██████████. Due to this, it is an Unbuildable difficulty, residing after the buildable limit, and should not be attempted in any manner. In fact, one could not build some of this difficulty's obstacles, due to the Roblox engine not being engineered to capably reproduce the coordinates of certain parts that would be required to truly physically represent this difficulty's obstacles.
+
+As an unbuildable difficulty, [[File:Confusion.webp|30x30px]] <span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span> cannot be attempted in any way. Any attempts are replicating obstacles in this difficulty would be futile, for to do so would require absolutely ludicrous techniques that do not exist without some form of modifying Roblox in any manner. The only feasible method to completing a difficulty such as this one would be to utilize exploits, but even that would be far-fetched due to this difficulty being unbuildable.
+
+One may wonder why this difficulty is christened [[File:Confusion.webp|30x30px]] <span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span>, and why this is part of the so-called "Confusion Chain" Well that is due to the<div class="warningbox" id="red-warningbox" style="background-color:#330000;border:2px solid #540000">'''Error 121:''' You no longer have access to the <code>introduction</code> portion of the file, as it has been purged. Automatically continuing to next part of file.</div>
+
+==Placement - [[File:Confusion.webp|50px]] <big><span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span></big>==
+<div class="warningbox" id="red-warningbox" style="background-color:#330000;border:2px solid #540000">'''Error  404:''' The requested file cannot be accessed. Please contact a system administrator to recover the file.</div>
+
+==Icon Representation - [[File:Confusion.webp|50px]] <big><span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span></big>==
+{{IconRepresentationOfficialOnly|color=#694027|image=[[File:Confusion.webp|250px]]|description=The icon is made in pixel art. It is composed of brown colors, with a dark brown border with the top left and bottom right corner being slightly lighter. In the center, it is pitch black, except for a few specks and a diagonal line going through it, being to show a "reflection". The main focus of the icon are 3 question marks, representing the confusion one may feel when trying to complete this difficulty.}}
+
+==Catches - [[File:Confusion.webp|50px]] <big><span style="text-sha0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span></big>==
+
+*One completing this difficulty may feel disorientation and confusion when trying to complete the obstacles.
+*There does not seem to be a definite location for the obstacles; to one completing the difficulty, everything seems blurred and unclear.
+*Any signs that may appear in the difficulty are completely indecipherable.
+*██████ ██ █████ ██████ ██ ███ ███ ██ ███ ███ ██████ ██ ███████ ██████████
+*███ ███ █████████ ██████
+
+==Obstacles - [[File:Confusion.webp|50px]] <big><span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span></big>==
+<div style="overflow-x:scroll">{{ObstacleTableMultiply|JumpClimbableBase=17500|Round=-2.5|Increment=1.03191294052}}</div>
+
+==Trivia - [[File:Confusion.webp|50px]] <big><span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span></big>==
+*This section does break the character of the page, but is good to know general information about the page.
+*The basis of [[File:Confusion.webp|30x30px]] <span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span> is actually that there is no escape, and that you will be eternally led throughout the sub-pages of the difficulty.
+**The page uses the function of a page that randomly generates pages in a certain category, and it gives you a certain code to input into it, hence redirecting you to a page in that category.
+*This page has recieved a revamp from Sanjay2133, as the page originally had a similar concept, but all variations were on the same page.
+*By the way, this is the original variation of the page, or version 1.
+* The chain is the Confusion Chain, which is all spread out by 3 classes each.
+*The idea of the anonymous placement (being either before or after The Middleline) was made by [[File:TDE.png|30x30px]] [[The Difficulty Enthusiast|TDE]], who also makes an appearance on this page.
+**This is no longer true as the difficulty has been rebalanced to no longer include tredecillions.
+
+==Towers - [[File:Confusion.webp|50px]] <big><span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span></big>==
+
+===Towers===
+<div class="warningbox" id="red-warningbox" style="background-color:#330000;border:2px solid #540000">'''Error 404:''' There are no towers found in this difficulty, unfortunately. Please feel free to create towers in this difficulty or including this difficulty. Besides, this difficulty is unbuildable.</div>
+
+==Continuing On From This Point - [[File:Confusion.webp|50px]] <big><span style="text-shadow: 0 0 4px #3B1B08; color:#3B1B08">[[Confusion]]</span></big>==
+<div class="warningbox" id="red-warningbox" style="background-color:#330000;border:2px solid #540000">'''Error 404:''' Remaining content of <code>confusion.txt</code> cannot be found. Please refer back to the JJT Difficulty Loader and load another file.</div>
+<div style="background: #000000; color: #08FF00; margin:1em; padding:5px 10px; border:4px groove #08FF00;">
+<div align="left" ;>
+<div style="background: #000000; color: #08FF00; margin:0em; padding:0px 0px; font-family: Ms Pgothic; border:4px ridge #08FF00;">
+<div style="background-color:#08FF00; font-size: 150%; color:#000000; margin:10px; border: none; text-align:center;">
+<span style="font-size:17px; margin:1em; font-family: Ms Pgothic; text-shadow: 0px 0px 8px currentColor">
+'''Welcome to the JJT Difficulty Loader.'''</span>
+</div>
+<center>It is currently {{CURRENTTIME}}, {{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}} (UTC).</center>{{Collapse|num=10|initial=>> Help|final=>> Back|body=
+<div class="warningbox" id="red-warningbox" style="background-color:#330000;border:2px solid #540000"><span style="font-size:17px; margin:1em; font-family: Ms Pgothic; text-shadow: 0px 0px 8px currentColor">'''Error 111": Help is currently unavaliable. Please wait until an administrator comes online. Also, credits to the Backrooms Wiki for creating this!</span></div>
+}}
+{{Collapse|num=11|initial=>> Settings|final=>> Back|body=
+<div class="warningbox" id="red-warningbox" style="background-color:#330000;border:2px solid #540000"><span style="font-size:17px; margin:1em; font-family: Ms Pgothic; text-shadow: 0px 0px 8px currentColor">'''Error 111:''' "Settings" has been disabled by administrators. Please contact them if you would like to change the settings.</span></div>
+}}
+{{Collapse|num=12|initial=>> Motivation in Life|final=>> Back|body=
+<span style="font-size:17px; margin:1em; font-family: Ms Pgothic; text-shadow: 0px 0px 8px currentColor">What life are you talking about?</span>
+}}
+{{Collapse|num=13|initial=>> Play Hangman|final=>> Back|body=
+<span style="font-size:17px; margin:1em; font-family: Ms Pgothic; text-shadow: 0px 0px 8px currentColor">{{Hangman|StartMessage=Let's play hangman!|Word=Juxtaposition|LoseMessage=Imagine being a loser. You should've guessed it!|WinMessage=Wow..you won! For the first and only time in your life.}}</span>}}
+{{Collapse|num=14|initial=>> Access Files|final=>>> Back|body=
+<span style="font-size:17px; margin:1em; font-family: Ms Pgothic; text-shadow: 0px 0px 8px currentColor">
+{{Collapse|num=15|initial=>>> File no.1: staff_furry_rp.txt (requires passcode)|final=>>> Back|body=
+{{Collapse|num=16|initial=>>>> Password:|final=>>>> Password: ••••••••••|body=
+<div class="warningbox" id="red-warningbox" style="background-color:#330000;border:2px solid #540000">It seems you have entered the wrong password; please try again</div>
+}}}}
+{{Collapse|num=17|initial=>>>> File no.2: confusion.txt|final=>>> Back|body=
+'''Please refer to the page linked [[:Special:RandomInCategory|here]] and input the code "Middleline"'''
+}}
+}}
+[[Category:Anonymous Placement]]
+[[Category:Escape]]
+[[Category:Erroded]]
+[[Category:Variation]]
+[[Category:Outdated Difficulty]]
+[[Category:

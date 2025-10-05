@@ -1,0 +1,114 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: darkorange 0px 0.5px 6px;">'''Pinnacle'''</span></span>}}
+''Not to be confused with the [[User:Viranenthusiast/Tower Types (SDC)/Pinnacle|Pinnacle]] [[Tower Types|'''tower type''']].''
+{{Scrollbox|Notices='''Scrollbox'''
+----
+{{Class Finale}}
+{{Physically Impossible}}
+{{Legendary Difficulty}}
+----}}{{NewDifficultyInfobox
+|title1=<span style="background:linear-gradient(yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: darkorange 0px 0.5px 6px;">Pinnacle</span></span>
+|image1=Pinnacle.png
+|class=[[:Category:Class 10|Class 10]]
+|type=Difficulty
+|previous=[[File:Viratical.png|25px|link=Viratical]] [[Viratical]]
+|next=[[File:Stardark.png|25px|link=Stardark]] [[File:StardarkText.png|link=Stardark|60px]]
+|class_range=The End of The Main Chart Itself (Peak)
+|difficulty_range=Baseline to Peak
+|decal_id=N/A
+|creator(s)=[[File:TDE.png|30px|link=User:Viranenthusiast]] [[User:Viranenthusiast|Viranenthusiast]]
+|date_added=22nd February 2023|prior_previous=[[File:Crillion.png|25px|link=Crillion]] [[Crillion]]
+[[File:LOOP (NEW).jpg|25px|link=LOOP]] [[LOOP]]|prior_next=[[File:DOOM newer icon.png|25px|link=Doom]] [[Doom]]
+[[File:FallenDifficulty.png|25px|link=Fallen]] [[Fallen]]|rating=115}}<span style="background:linear-gradient(yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: darkorange 0px 0.5px 6px;">'''Pinnacle'''</span></span> is, as the name suggests, <u>''the pinnacle of human buildability.''</u> This means no difficulty after this is accurately buildable, no matter what you do. This is due to it going up into the tens of billions of studs, which is SOMEHOW still buildable, and a tower doesn’t necessarily have to include more than one jump, so this is still buildable.
+
+Jumps in this difficulty require heavy scripting, due to the obstacles being the absolute maximum of Roblox’s rendering engine. Any jumps with a higher stud count than <span style="background:linear-gradient(yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: darkorange 0px 0.5px 6px;">'''Pinnacle'''</span></span>’s peak phase are still buildable, but however start glitching out and start to become invisible, as well as the area becoming dark simply because the lighting engine can’t keep up either.
+
+Think of it like Minecraft Bedrock Edition, there is a certain point at which you encounter the stripe lands. Terrain generation becomes extremely glitchy, camera movement becomes nigh impossible, and you must use an elytra and creative mode to continue moving forward.
+
+Keep in mind you should also take this as solely a demonstration, as <span style="background:linear-gradient(yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: darkorange 0px 0.5px 6px;">'''Pinnacle'''</span></span> is not feasible in any way, even for an adept obbyist, like you. The creator could not find a proper adjacency of such a difficulty, due to C14 being too unbalanced, so this is the best he could do.
+
+That might be why you think this isn’t the buildable limit, even though it is. Also, [[File:Stardark.png|25px|link=Stardark]] [[File:StardarkText.png|link=Stardark|60px]],is NOT useless now, just solely repurposed for non-Roblox studio tower buildability limits.
+
+In short, this is the end of buildability, and is solely for show.
+==Icon Representation==
+<span style="background:linear-gradient(yellow,orange); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: darkorange 0px 0.5px 6px;">'''Pinnacle'''</span></span>’s icon is represented by a yellow to dark yellow gradient, with three white exclamation marks, with a grey border around them. There are 2 DX and XD emoticons, a :) emoticon, a >:( emoticon, a ??. emoticon, a :] emoticon, a .-. and ._. emoticon and all of those emoticons are located around the exclamation marks, at 0.5 transparency and with various rotations. This icon is recycled from [[The Middleline]], being its old icon.
+==Obstacles==
+Obviously, obstacles are only for viewing, as we are long past the stage of playability.
+===Baseline '''Pinnacle'''===
+*99,999,800,000 stud jump. (Climbable)
+*99,999,750,000 stud jump. (Unclimbable)
+*99,999,750,000 stud wraparound. (Climbable)
+*99,999,700,000 stud wraparound. (Unclimbable)
+*49,999,725,000 stud ice wraparound.
+===Low '''Pinnacle'''===
+*99,999,850,000 stud jump. (Climbable)
+*99,999,800,000 stud jump. (Unclimbable)
+*99,999,800,000 stud wraparound. (Climbable)
+*99,999,800,000 stud wraparound. (Unclimbable)
+*99,999,775,000 stud ice wraparound.
+===Middle '''Pinnacle'''===
+*99,999,900,000 stud jump. (Climbable)
+*99,999,850,000 stud jump. (Unclimbable)
+*99,999,850,000 stud wraparound. (Climbable)
+*99,999,800,000 stud wraparound. (Unclimbable)
+*99,999,825,000 stud ice wraparound.
+===High '''Pinnacle'''===
+*99,999,950,000 stud jump. (Climbable)
+*99,999,900,000 stud jump. (Unclimbable)
+*99,999,900,000 stud wraparound. (Climbable)
+*99,999,850,000 stud wraparound. (Unclimbable)
+*99,999,875,000 stud ice wraparound.
+===Peak '''Pinnacle'''===
+*100,000,000,000 stud jump. (Climbable)
+*99,999,950,000 stud jump. (Unclimbable)
+*99,999,950,000 stud wraparound. (Climbable)
+*99,999,900,000 stud wraparound. (Unclimbable)
+*99,999,925,000 stud ice wraparound.
+==Tower Section==
+<tabber>
+Towers=
+=== Towers ===
+* Tower of Humanity's Last Stretch (ToHLS) (Fictional)
+* Tower of Ultimate Difficulty Chart (ToUDC) (Fictional)
+|-|
+Citadels=
+=== Citadels ===
+* Citadel of Reality's Edge (CoRE) (Fictional)
+|-|
+Obelisks=
+=== Obelisks ===
+* Obelisk of Unfinished Business (OoUB) (Fictional)
+|-|
+Earth Navels=
+=== Earth Navels ===
+* Earth Navel of Infinite Impossibility (ENoII) (Fictional)
+|-|
+Great Citadels=
+=== Great Citadels ===
+* Great Citadel of True Hell (GCoTH) (Fictional)
+|-|
+Rooms=
+=== Rooms ===
+* Room of Bruh (RoB) (Fictional)
+* [[Room of Pinnicality]] (RoP)
+|-|
+Other=
+=== Other ===
+* The Pinnacle Stick (TPS) (Fictional)
+|-|
+Appearances in other towers=
+=== Appearances in other towers ===
+* N/A
+</tabber>
+==Trivia==
+*This difficulties icon was originally [[File:The MiddlelineNew.png|frameless|25x25px]] [[The Middleline]]’s icon, but it got replaced with a newer icon so it got separated into its own difficulty.
+*There has been a lot of debate over where buildability ends and where unbuildability starts. This difficulty hopes to stop debate over it.
+*This difficulty resided between the penultimate Peak Class 14 difficulty [[File:Imageforsomething....png|25px|link=Eɼɼosion]] [[Eɼɼosion]], and the first anonymous placement difficulty of its class, [[File:Confusion.webp|25px|link=Confusion]] [[Confusion]] prior to TDEx.
+==Continuing on from this point==
+From this point on, towers will start to become exceedingly more inaccurate than they were previously, and it will take a heavy toll on your goals to get through this chart. I implore you to go to [[File:Stardark.png|25px|link=Stardark]] [[File:StardarkText.png|link=Stardark|60px]], however.
+{{DifficultiesNavbox}}
+[[Category:Class 10]]
+[[Category:Physically Impossible]]
+ 
+[[Category:Unofficial Difficulty]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]

@@ -1,0 +1,73 @@
+<div style="background:#11111122;padding:1em;font-family:rubik;border-left:15px solid #FF0000">
+{{Scrollbox
+|Notices=
+{{Humanly Impossible}}
+{{Classic}}
+}}
+
+{{NewDifficultyInfobox|image1=<gallery>
+Simply Beyond.jpg|Current
+simpl.jpg|Old
+</gallery>|class=Class 5|rating=44|type=*Humanly Impossible
+*Classic|previous=[[File:Error Exe.png|30px]] [[Error.exe]]|next=[[File:Critical.png|30px]] [[Critical]]|class_range=Peak|difficulty_range=Bottom-Peripheral|official_music(s)=[https://www.youtube.com/watch?v=Plu8_rCyaG4 t+pazolite - Tempestissimo]|creator(s)=[[User:Phaxyi|Phaxyi]] (creator)<br/>[[User:TotallyNotAMeme00|TotallyNotAMeme00]] (revamper)|decal_id=7624591257|alt_next=[[File:Inferior difficulty.PNG|30px]] [[Ultra]]|sub_difficulty(ies)=[[File:Inferior difficulty.PNG|25px]] [[Ultra]]}}
+
+==Description==
+
+[[File:Simply Beyond.jpg|30px]] <span style="color:#FF0000">'''Simply Beyond'''</span> is a Peak Class 5 difficulty. It is located in-between [[File:Error Exe.png|30px]] [[Error.exe]] and [[File:Critical.png|30px]] [[Critical]], and one of the last humanly impossible difficulties before the physically impossible sector of the chart. Alternatively, this difficulty can be measured with it's rating of 44.
+
+At this point in the difficulty chart, obstacles start to become incoherent. and usually involve strange techniques without a clear way of performing them. Due to this, making a TAS of [[File:Simply Beyond.jpg|30px]] <span style="color:#FF0000">'''Simply Beyond'''</span> is infeasible.
+
+[[File:Simply Beyond.jpg|30px]] <span style="color:#FF0000">'''Simply Beyond'''</span>, as previously mentioned, is humanly impossible, indicating that it will be impossible to complete without the usage of external tools and/or extreme modification of external stats. Since it is at the higher end of this spectrum, it approaches the border of physical possibility, [[File:SquareSupreme.png|30px]] [[Supreme]].
+
+Another way of measuring [[File:Simply Beyond.jpg|30px]] <span style="color:#FF0000">'''Simply Beyond'''</span> is through [[Metris]]. Using this system, it gets a rating of |440|. Using the tiers system, it would get a rating of around Tier 45. However, the system is inaccurate, so this measurement may not be entirely correct.
+
+==Icon Representation==
+{| class="fandom-table"
+|+Icon Representation Table
+!'''Icon'''
+!'''Description'''
+|-
+|[[File:Simply Beyond.jpg|155px]]
+|The current icon. It shows a red to black gradient with a symbol on it, present in most other Class 5 difficulties. This time, the symbol is an ellipsis in pure red.
+|-
+|[[File:SBoldpredict.jpg|155px]]
+|(RECREATION) The original icon featured the same gradient and ellipsis, just with a much darker gradient.
+|}
+
+==Obstacles==
+Towers of [[File:Simply Beyond.jpg|30px]] <span style="color:#FF0000">'''Simply Beyond'''</span> will use a wide range of strange jumps in an attempt to confuse the player. As mentioned before, the obstacles also use strange and incomprehensible techniques to hinder one's progress. The levels of punishment here are also incomparable, with one mistake leading to a massive loss of progress.
+
+Client objects can also be utilised to make it harder for players to progress, such as beatblocks that are only CC true for a few nanoseconds, or shoving platforms that move incredibly fast.
+
+Below are some examples of advanced obstacles:<gallery>
+File:SB obstacle course.png|An example of a janky obstacle.
+File:SBobstacle.png|An example of a jump from [[True Chaotic Tower]], where the player has to jump from the starting platform (not visible) to a ladder, with fast spinning instakills in the way.
+File:Simply Beyond Wallwalks.jpg|Some wallwalks from [[Great Citadel of Hellish Difficulties|GCoHD]]'s Simply Beyond floor.
+</gallery>Here's the obstacle table:
+
+{{ObstacleTableRevamp|Increment=0.024|JumpClimbableBase=20.16}}
+
+==Towers==
+===Featuring the difficulty===
+*[[Great Citadel of Possible JJT Difficulties]]
+*[[Great Citadel of Hellish Difficulties]]
+*...and many more.
+
+===With the difficulty===
+*None.
+
+==Trivia==
+*''Simply Beyond'' originated from the [[Obelisk of Endless Difficulty Amplifying]] as one of its several custom difficulties.
+*This difficulty was revamped by [[User:TotallyNotAMeme00|TotallyNotAMeme00]].
+
+==CFTP==
+The player should continue onwards to [[File:Critical.png|30px]] [[Critical]] or [[File:Inferior difficulty.PNG|30px]] [[Ultra]] after clearing this difficulty, in order to continue their journey through the realm of JJT.
+
+{{DifficultiesNavbox}}</div>
+
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 5]]
+[[Category:Humanly Impossible]]
+[[Category:Classic]]
+[[Category:Classic Difficulty]]

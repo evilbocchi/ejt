@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:<span style="color:#2b0588;">'''gui remorseless'''</span>}}
+{{DifficultyTab
+|gui remorseless
+|textcolormain = 000
+|type = Event / Joke
+|blank1 =
+|blank2 =
+}}
+{{DifficultyInfobox
+|title1=gui remorseless
+|type=Joke
+|image1=
+<gallery>
+Guiremorselessiconpurple.png|Difficulty Chart
+Guiremorselessiconblue.png|Portals
+</gallery>
+|date_added=January 19, 2025
+}}
+{{Difficulty|guiremorseless|20px}} [[gui remorseless|<span style="color:#2b0588;">gui remorseless</span>]] is a joke difficulty which was released alongside [[The Stronghold]]. There is only one tower of this difficulty, that being [[Evidently Not a Tower]].
+{{Header|Towers}}
+<tabber>
+The Stronghold=
+<div align="center"><font size="5">{{Emblem|TS}} [[The Stronghold]] {{Emblem|TS}}</font></div>
+
+*ENaT - [[Evidently Not a Tower]]
+</tabber>
+{{Header|Trivia}}
+*This difficulty has a darker blue background on the difficulty chart than on Evidently Not a Tower's [[portal]].
+*This difficulty, [[nil|<span id="nil">'''nil'''</span>]] and [[korn|<span style="color:#FBFD7B;">'''korn'''</span>]] are the only difficulties that don’t have capital letters in their name.
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:The Stronghold]]

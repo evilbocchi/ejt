@@ -1,0 +1,229 @@
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(to bottom, #400000,#000000);-webkit-text-fill-color: block;-webkit">
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(to bottom, #000000,#171717);-webkit-text-fill-color: block;-webkit">__NOTOC__{{NoticeScrollboxNew|Notices={{Classic}}{{Physically Impossible}}
+{{CSS|content=
+/* Manual Import of Font(s) */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Difficulty Name */
+span.RoorHELL {
+    font-family: outfit;
+    font-weight: 700;
+    background: -webkit-linear-gradient(#800000,#000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 2px 5px rgba(0, 0, 0, 50%) /* Nice. :smug: */
+}
+
+/* Other Difficulty Names */
+
+/* Text styling */
+.page-content, .page-content h2, .page-content h3 {
+    font-family: outfit;
+    color: #aa0000
+}
+.page-content h2, .page-content h3 {
+    font-weight: 600;
+    color: #400000
+}
+.page-content h2 {
+    border-bottom: 2px solid #aa0000
+}
+
+/* Infobox styling */
+.portable-infobox {
+    border-image: linear-gradient(#ff0000,#000000) 30;
+	border-width: 2px;
+    box-shadow: inset 0 0 0 2px #800000;
+    --pi-background: #000000
+}
+.portable-infobox .pi-border-color {
+	border-color: #300000;
+}
+.portable-infobox .pi-image {
+	padding-left: 2px;
+	padding-right: 2px
+}
+.portable-infobox .wds-tabs__tab {
+	color: #ff0000
+}
+.portable-infobox .pi-header {
+    color: #ff0000
+}
+
+/* Table styling */
+.table {
+	border-collapse: collapse;
+	text-align: center;
+	border: 2px solid #000000;
+    background-color: #800000;
+    font-weight: normal
+}
+th.table {
+	padding: 1em 0.5em 1em;
+    width: auto;
+    color: #ffffff;
+    background-color: #000000
+}
+td.table {
+	padding: 0.5em 1em 0.5em
+}
+}}}}
+{{NewDifficultyInfobox|gradient=#ff0000,#000000|title1=<span class="RoorHELL">'''RoorHELL'''</span>|image1=<gallery>
+Roor hell.jpeg|Current
+RoorHELL.png|Original
+RoorHELLAlt.png|Alternative
+</gallery>|caption1=RoorXD but it’s red|class=[[:category:Class 7|Class 7]]|rating=64.5|type=Sub-Difficulty|previous=[[File:RoorXD.png|30px]] [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]]|next=[[File:Jes.png|30px]] [[Jesus Ballin'|Jesus Ballin']]|main_difficulty=[[File:RoorXD.png|35px]] [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]]|class_range=Low|difficulty_range=Belowground to Peripheral|creator(s)=[[User:Astrominal|Astrominal]] (Owner holder+revamper)<br>'''0atno''' (original creator)|date_added=23 December 2020‎}}
+
+<h2> Introduction </h2>You thought [[File:RoorXD.png|25x25px]] [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]] was hard enough? This difficulty is close to exceeding the JHT cap difficulty. Beating the [[Obelisk of Impossible Difficulty Chart]]  would be around the same skill level required to pass this difficulty. This difficulty is not TAS possible. Even with the usage of TAS, the obstacles in this difficulty would require unfathomable amounts of lucks, if you were to exclude the difficulty's Physically Impossible tag, meaning some/all obstacles would exceed or border Roblox's physics engine's limits.<h2> What is <span class="RoorHELL">RoorHELL</span>? </h2>
+[[File:Roor hell.jpeg|35x35px]] <span class="RoorHELL">RoorHELL</span> is a [[:Category:Class 7|Class 7]], [[:Category:Physically Impossible|Physically Impossible]] [[:Category:Sub-Difficulties|sub-difficulty]] that can be located in '''Low''' range or 5th difficulty from Physically Impossible. This difficulty contains RNG jumps or luck jumps with range of 5% to 2% rate to successfully complete a jump. Additionally, this difficulty can be classified as [[:Category:Physically Impossible|Physically Impossible]], meaning these difficulties can't be done a human or a TAS, but it can be beaten by Abuse TAS or exploiting. This difficulty is generally impossible for the normal human to complete and the realm of completion would only be on the table with skilled AI.
+
+[[File:Roor hell.jpeg|35x35px]] <span class="RoorHELL">RoorHELL</span> can be found in low [[:Category:Class 7|class 7]], marking one of the starting difficulties of [[Physically Impossible (Tier 27)|Physically Impossible]] difficulties. The difficulty succeeds [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]], though could be similar in difficulty depending on the range of the obstacles described. The difficulty precedes [[Jesus Ballin']].
+<h2> Placement </h2>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 7'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#629592;color:white" |'''Baseline'''
+|-
+|[[File:Screen Shot 2020-08-09 at 9.36.26 PM.png|50px]]
+|[[Ultra Instinct]]
+|Normal
+|61
+|-
+|[[File:Mort.png|50px]]
+|[[Mortifying]]
+|Normal
+|62
+|-
+|[[File:Dreadful.exeoffical.png|50px]]
+|[[Dreadful.exe]]
+|Sub-Difficulty
+|62.5
+|-
+|[[File:Transfinite Revamp.png|50px]]
+|[[Transfinite]]
+|Normal
+|63
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Low'''
+|-
+|[[File:RoorXD.png|50px]]
+|[[w:c:jtohs-hardest-towers:RoorXD|RoorXD]]
+|Normal
+|64
+|-
+|[[File:Roor hell.jpeg|50px]]
+|<span class="RoorHELL"><big>''[[RoorHELL]]''</big></span><big>'', you're here.''</big>
+|Sub-Difficulty
+|64.5
+|-
+|[[File:Jes.png|50px]]
+|[[Jesus Ballin']]
+|Normal
+|65
+|-
+|[[File:HyperViolent New.png|50px]]
+|[[HyperViolent]]
+|Sub-Difficulty
+|65.33
+|-
+|[[File:Enfarted.gif|50px]]
+|[[Enclosed]]
+|Sub-Difficulty
+|65.66
+|-
+|[[File:El Vacio Sqaure.png|50px]]
+|[[El Vacio]]
+|Normal
+|66
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|[[File:Universe Disruption.png|50px]]
+|[[Universe Disruption]]
+|Normal
+|67
+|-
+|[[File:CompleteObstacles.png|50px]]
+|[[Complete: Obstacles]]
+|Sub-Difficulty
+|67.5
+|-
+|[[File:Illegal Newest.png|50px]]
+|[[Illegal]]
+|Normal
+|68
+|-
+|[[File:Frick you (3).png|50px]]
+|[[Bad Request]]
+|Sub-Difficulty
+|68.5
+|-
+|[[File:New UG.jpg|50px]]
+|[[Universal Glitch]]
+|Normal
+|69
+|-
+|}
+<h2> Icon Representation </h2>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |''<big><big><big>Icon Representation</big></big></big>''
+|-
+!<big>''Version:''</big>
+!<big>''Icon:''</big>
+!<big>''Description:''</big>
+!<big>''Date was made:''</big>
+|-
+! style="background:linear-gradient(180deg, #000000,#000000); color: #800000" |''<big><big>Current</big></big>''
+| style="background:linear-gradient(180deg, #000000,#000000); color: #800000" |[[File:Roor hell.jpeg|250x250px]]
+| style="background:linear-gradient(180deg, #000000,#000000); color: #800000" |The current icon is similar that of [[File:RoorXD.png|25x25px]] [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]] but the icon is painted red and higher quality.
+| style="background:linear-gradient(180deg, #000000,#000000); color: #800000" |February 1st, 2021
+|-
+! style="background:linear-gradient(to top, #000000,#000000); color: #800000" |''<big><big>Original</big></big>''
+| style="background:linear-gradient(to top, #000000,#000000); color: #800000" |[[File:RoorHELL.png|250x250px]]
+| style="background:linear-gradient(to top, #000000,#000000); color: #800000" |The original icon is the RoorXD logo with the common "XD" symbol plastered over it with the HELL/TARTARUS coloring.
+| style="background:linear-gradient(to top, #000000,#000000); color: #800000" |December 23th, 2020
+|-
+! style="background:linear-gradient(180deg, #000000,#250000); color: #800000" |''<big><big>Alternative</big></big>''
+| style="background:linear-gradient(180deg, #000000,#250000); color: #800000" |[[File:RoorHELLAlt.png|250x250px]]
+| style="background:linear-gradient(180deg, #000000,#250000); color: #800000" |The alternative icon is same as current icon but an additional red to black gradient outline, the same found on the skull. Icon made by [[User:MaybeAFryingPan24|MaybeAFryingPan24]].
+| style="background:linear-gradient(180deg, #000000,#250000); color: #800000" | July 5th, 2024
+|}
+<h2> Obstacles </h2>
+{{ObstacleTableRevamp|JumpClimbableBase=67.407|Increment=0.267}}
+<h2> Towers </h2>
+{| class="wikitable mw--" style="text-align:center;"
+|-
+!<big>''Tower Name''</big>
+!<big>''Exact Difficulty''</big>
+!<big>''Status''</big>
+|-
+| style="background:linear-gradient(to top, #000000,#250000); color: #800000" |[https://www.roblox.com/games/8106446492/ Obelisk of Treacherous Difficulty Ascension] ('''OoTDC''')
+| style="background:linear-gradient(to top, #000000,#250000); color: #800000" |[[File:Roor hell.jpeg|50x50px]] <span class="RoorHELL">RoorHELL</span>
+| style="background:linear-gradient(to top, #000000,#250000); color: #800000" |Real
+|-
+| style="background:linear-gradient(180deg, #000000,#250000); color: #800000" |[[Reality's Frame]] ('''RF''')
+| style="background:linear-gradient(180deg, #000000,#250000); color: #800000" |[[File:Roor hell.jpeg|50x50px]] <span class="RoorHELL">RoorHELL</span>
+| style="background:linear-gradient(180deg, #000000,#250000); color: #800000" |Fictional
+|}
+<h2>Trivia</h2>
+*This is the first Physically Impossible difficulty that is still impossible if you take TAS tools into usage.
+*When this difficulty was created, it wasn't revamped at first.
+**It got revamped once again.
+*Grammar fixed by Gitmouse2.
+''<h2><center><big><big>Difficulty Navigation</big></big></center></h2>''
+
+<center><font size="5">« [[File:RoorXD.png|40px]] [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]] | [[File:Roor hell.jpeg|45px]] <span class="RoorHELL">'''RoorHELL'''</span> |  [[File:Jes.png|40px]] [[Jesus Ballin']]</font> »</center>
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+[[Category:Spooky icon]]
+[[Category:Revamped Difficulty]]
+[[Category:Physically Impossible]]
+[[Category:Two color icon]]

@@ -1,0 +1,81 @@
+{{Humanly Possible}}
+{{NewDifficultyInfobox|title1=Gravel|image1=Gravel.png|caption1=What a simplistic icon|class=Class 1|type=Sub-Difficulty|previous=[[File:EffortlesslessIconOoIDC.png|30px]] [[Effortlessless]]|next={{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]|class_range=Low Class 1|difficulty_range=Baseline to Peak|main_difficulty=[[File:EffortlesslessIconOoIDC.png|30px]] [[Effortlessless]]|creator(s)=Original Creator - AmazinglyOP
+Revampers - Sanjay2133|hex_color=#9AF6D1|rbg_color=154, 246, 209|cmyk_color=37%, 0%, 15%, 4%|hsv_color=156°, 37%, 96%|hsl_color=156°, 82%, 78%|decal_id=78562962549766|rgb_color=154, 246, 209}}
+==[[File:Gravel.png|50px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Gravel'''</span> - Introduction==
+<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Gravel'''</span> is a peak [[:Category:Class 1|Class 1]] sub-difficulty of {{Difficulty|Effortlessless}}, preceding the first EToH difficulty {{Difficulty|Effortless}} or [[Excavation Chain/Stone-Emerald#White Gem|White Gem]], an Excavation Chain sub-difficulty. This difficulty is one of the easiest difficulties with actual obstacles, and can be beaten by the majority of the Roblox obbyist population. 
+
+This difficulty is very welcoming to beginners, as it can be beaten by almost anyone with any experience in obbying. Towers in this difficulty are often very forgiving, being filled with safety nets and not being meant to "stop" you, but give you a fun experience. 
+
+Like the previous few difficulties, you are ''very'' likely to succeed in beating this difficulty, as this difficulty features very easy and simplistic jumps that can be performed without any effort. Many obby games out there, such as generic "ESCAPE THE ___" obbies and Mega Fun Obby are around this difficulty and/or {{Difficulty|Effortlessless}}.
+
+==[[File:Gravel.png|50px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gravel</span> - Icon Representation==
+{| class="fandom-table"
+|+'''Icon Representation Table'''
+!Icon 
+!Description 
+!Date Added
+|-
+|[[File:Gravel.png|200x200px]]
+| This icon is one of the simplest icons on the wiki and is just one color. It is similar to [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] [[Effortlessless]]'s icon but is slightly greener, representing the transition into {{Class1Difficulties|Effortless|30px}} [[w:c:jtoh:Effortless|Effortless]], which is the start of the JToH difficulties.
+|January 8th, 2021
+|}
+
+==[[File:Gravel.png|50px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gravel</span> - Obstacles ==
+<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Gravel'''</span>'s obstacles are slightly harder then [[Effortlessless]] but are a bit easier then [[w:c:jtoh:Effortless|Effortless]].
+
+Add more obstacles when rebalanced.
+
+===Baseline [[File:Gravel.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gravel</span>===  
+
+*4.75 stud jumps (Climbable)
+
+===Low '''[[File:Gravel.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gravel</span>'''===
+
+* 4.8 stud jumps (Climbable)
+
+===Mid '''[[File:Gravel.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gravel</span>'''===
+*4.85 stud jumps (Climbable)
+
+===High  [[File:Gravel.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Gravel'''</span>===
+*4.9 stud jumps (Climbable)
+===Peak  [[File:Gravel.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Gravel'''</span>===
+*4.95 stud jumps (Climbable)
+==[[File:Gravel.png|50px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gravel</span> - Towers in this difficulty==
+
+===Real=== 
+*[[Slab of Cave Descension]] (Mid-High Effortlessless)
+*[[deffinetly a soul crushing]] (Peak Effortlessless/Gravel)
+
+===Fictional=== 
+
+*Tower of Walking on Gravel <small>''(UoFTE, Temperature 1)''</small>
+* Tower of Gravel Mining <small>''(UoFTE, Temperature 1)''</small>
+*Steeple of Underground Caverns <small>''(UoFTE, Temperature 1)''</small>
+*Steeple of Falling Grey Blocks <small>''(UoFTE, Temperature 1)''</small>
+*[[Citadel of Class One]]
+
+===Including this Difficulty=== 
+
+*Multiple Difficulty Chart Towers
+
+==[[File:Gravel.png|50px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gravel</span> - Trivia==
+
+*The creator originally found this difficulty on another wiki (Tower Omniverse), but it wasn't official. 
+**''which i'm pretty sure i added, but it's fine if i didn't, i just remember making it, and now i'm on this wiki - logan''
+*Not to be confused with the [[w:c:minecraft:Gravel|Minecraft gravel block]]!
+* This was going to be claimed by the 6th armageddon, but [[User:Sanjay2133|Sanjay2133]] saved it.
+*Although this is unconfirmed, this difficulty is the equivalent of [[File:CORRUPT.png|frameless|30x30px]] [[C0RrUpT]] in JET.
+
+==[[File:Gravel.png|50px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, #8fffea, #8fffea);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gravel</span> - Continuing from this point ==
+That was really easy! Next up is [[w:c:jtoh:Effortless|Effortless]]. Good luck! You won't need it that much since you're still in Class 1 though, but nonetheless, I wish you good tidings on your journey.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 1]]
+[[Category:One color icon]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Class Finale Difficulties]]

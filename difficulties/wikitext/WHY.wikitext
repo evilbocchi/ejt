@@ -1,0 +1,24 @@
+{{DISPLAYTITLE:<span style="color:#000000;-webkit-text-stroke-color:white;-webkit-text-stroke-width:0.5px;">'''WHY'''</span>}}
+{{NewDifficultyInfobox|previous=[[Literal|<span style="color:#203a56">'''Literal'''</span>]]|next=[[No|<span style="color:#505050">'''No'''</span>]]|rating=17|image1=<gallery>
+File:Why.png|Current
+File:XD.webp|Old
+</gallery>|difficulty_number=17|title1=|rating=17|alt_names=TooHard|hex_color=BG: #000
+Text: #fff|rgb_color=BG: 0, 0, 0
+Text: 255, 255, 255}}
+
+== What is <span style="color:#000000;-webkit-text-stroke-color:white;-webkit-text-stroke-width:0.5px;">'''WHY'''</span>? ==
+<span style="color:#000000;-webkit-text-stroke-color:white;-webkit-text-stroke-width:0.5px;">'''WHY'''</span> (also known as '''TooHard''') is a difficulty that is below [[No|<span style="color:#505050;">'''No'''</span>]] and above [[Literal|<span style="color:#203a56">'''Literal'''</span>]] in the difficulty chart, represented by the color black [<span style="color:#000000">'''0,0,0'''</span>] with a white [<span style="color:#ffffff">'''255,255,255'''</span>] outline and a white XD in the middle. Nothing for certain can be said about this difficulty, since it is several difficulties beyond feasible reach for any obbyist today, and it likely will stay that way forever. Obstacles in towers of this difficulty would require unimaginable precision in every possible category of computer input and are borderline humanly impossible, with almost all individual jumps requiring tool assistance or even RNG manipulation. 
+==Towers==
+No towers as of now are properly rated.
+*TGC:U - [[The Great Centurial]]: Unnerfed (?)
+*ZAP:U - [[Zalgo Annihilated Purgatory]]: Unnerfed
+*TEZ - [[The Exclusion Zone]]
+*ToHM - [[Tower of HOLY MOLY]] (?)
+==Trivia==
+*Towers in this difficulty can be compared to tier 22 obbies.
+*'''WHY''' was renamed to '''TooHard''' in EToH, but in EHT, the difficulty is referred to as WHY to distinguish itself as an impossible difficulty from TooHard, which is a categorization of towers that are either too hard for EToH or impossible.
+*Some people consider WHY to be the last truly measurable difficulty, which can be correct due to the fact that this is theoretically the last difficulty that has "humanly possible" jumps, though 95% of them are extremely RNG and may not be verified.
+*In EToH, WHY/TooHard is usually reserved for towers that are too hard for the game or are impossible.
+[[Category:Difficulties]]
+[[Category:Why]]
+[[Category:Humanly impossible]]

@@ -1,0 +1,438 @@
+{{DISPLAYTITLE:<span id="Difficult">'''Difficult'''</span>}}__NOEDITSECTION____NOTOC__{{BetterQuote
+|text=This difficulty is where things start to get more heated! There are a lot more difficulties ahead of you to conquer, but this badge shows that you have quite a bit of persistence.
+|quoter=Badge description
+|name=[https://www.roblox.com/badges/2125419261 Beat Your First Difficult Tower]}}
+{{DifficultyTab
+|Difficult
+|textcolormain=FFF
+|difficulty1=Hard
+|diffcolor1=FE7C00
+|textcolor1=000
+|difficulty2=Challenging
+|diffcolor2=880015
+|textcolor2=FFF}}
+{{DifficultyInfobox
+|title1=Difficult
+|image1=New-new-difficult.png
+|type=Regular
+|previous={{Difficulty|Hard}} [[Hard|<span id="Hard">'''Hard'''</span>]]
+|next={{Difficulty|Challenging}} [[Challenging|<span id="Challenging">'''Challenging'''</span>]]
+|previous_name=Very Hard
+|rbg_color=DC: 146, 53, 53
+Menus: 255, 50, 50 
+Previous: 255, 12, 4
+|hex_color=DC: #923535
+Menus: #FF3232 
+Previous: #FF0C04
+|cmyk_color=DC: 0%, 64%, 64%, 43%
+Menus: 0%, 80%, 80%, 0% 
+Previous: 0%, 95.29%, 98.43%, 0%
+|hsv_color=DC: 0°, 64%, 57%
+Menus: 0°, 80%, 100% 
+Previous: 1.91°, 98.43%, 100%
+|hsl_color=DC: 0°, 47%, 39%
+Menus: 0°, 100%, 60% 
+Previous: 2°, 100%, 51%}}
+''Not to be confused with [[Difficulty]].'' 
+
+{{Difficulty|Difficult|20px}} <span id="Difficult">[[Difficult]]</span> is a [[difficulty]] in '''EToH''' that is represented with a vermillion/bright red parallelogram. Obstacles at this difficulty level require more precision and skill than the previous three difficulty levels. 
+
+Traps and falling platforms are now constantly hidden on this difficulty, especially in older [[towers]]. There will be more complicated obstacles such as 3-6 stud wraparounds and thin tightropes. You may sometimes have to use glitches to beat a tower in this difficulty. Towers in this difficulty requires to be beaten with more effort, as long as you can beat <span id="Hard">'''Hard'''</span> towers.
+
+There are currently 35 [[tower]]s, 3 [[citadel]]s, 8 [[steeple]]s and 2 [[Mini Tower]]s confirmed and/or in the game assigned to this difficulty rating. [[Tower of Screen Punching]], [[Tower of Infuriating Obstacles]], [[Tower of Vibrant Adventures]], [[Tower of Triangular Covering]], [[Tower of Despair]], [[Steeple of Desolate Isles]], [[Tower of Conflicting Frontiers]], [[Tower of Dust and Decay]], [[Tower of Dusk To Dawn]], [[Tower of Resonant Landscapes]] and [[Tower of Clandestine Zones]] were previously <span id="Difficult">[[Difficult]]</span>, but were moved up to either [[Challenging|<span id="Challenging">'''Challenging'''</span>]] or [[Intense|<span id="Intense">'''Intense'''</span>]]. [[Tower of Elysium]], [[Tower of Terrible Mondays]], [[Tower of Xanthophobia]], and [[SoFF|Steeple of Feudal Foliage]] used to be at this difficulty but were moved down to [[Hard|<span id="Hard">'''Hard'''</span>]]. [[Tower of Stress]], [[Tower of Contractual Obligations]], [[Tower of Dreams and Caverns]], and [[Tower of Arrantly Bodeful Cavern Depths]] were previously [[Challenging|<span id="Challenging">'''Challenging'''</span>]] but they were moved to this difficulty.
+{{Header|Towers in this Difficulty (Organized by Realm)}}
+<tabber>
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+*ToKY - [[Tower of Keyboard Yeeting]] - Bottom Difficult (4.10)
+*ToS - [[Tower of Stress]] - High-Peak Difficult (4.88)
+|-|
+Forgotten Ridge=
+<div align=center><font size=5>{{Emblem|FR}} [[Forgotten Ridge]] {{Emblem|FR}}</font></div>
+*ToII - [[Tower of Immense Ire]] - Low Difficult (4.24)
+*SoWP - [[Steeple of Wall Punching]] - Mid-High Difficult (4.57)
+*ToV - [[Tower of Versatility]] - Mid-High Difficult (4.64)
+|-|
+Ring 2=
+<div align=center><font size=5>{{Emblem|R2}} [[Ring 2]] {{Emblem|R2}}</font></div>
+*ToCH - [[Tower of Cold Hands]] - Baseline Difficult (4.00)
+|-|
+Garden of Eeshöl=
+<div align=center><font size=5>{{Emblem|GoE}} [[Garden of Eeshöl]] {{Emblem|GoE}}</font></div>
+*SoVV - [[Steeple of Various Vivariums]] - Bottom Difficult (4.01)
+*CoBG - [[Citadel of Biotech Genesis]] - Difficult (4.??)
+|-|
+Ring 3=
+<div align=center><font size=5>{{Emblem|R3}} [[Ring 3]] {{Emblem|R3}}</font></div>
+*ToSI - [[Tower of Slight Inconvenience]] - Bottom Difficult (4.01)
+*ToWH - [[Tower of Wall Hugging]] - Low-Mid Difficult (4.37)
+*ToLD - [[Tower of Lotsa Damage]] - Mid-High Difficult (4.61)
+|-|
+Ring 4=
+<div align=center><font size=5>{{Emblem|R4}} [[Ring 4]] {{Emblem|R4}}</font></div>
+*ToL - [[Tower of Linonophobia]] - Mid Difficult (4.50)
+*ToLL - [[Tower of Leaning Ledges]] - High Difficult (4.70)
+|-|
+Silent Abyss=
+<div align=center><font size=5>{{Emblem|SA}} [[Silent Abyss]] {{Emblem|SA}}</font></div>
+*SoRIS - [[Steeple of Resort In Stasis]] - High Difficult (4.71)
+*SoRA - [[Steeple of Ruinous Abate]] - High-Peak Difficult (4.87)
+*ToAI - [[Tower of Ancestral Interference]] - Peak Difficult (4.99)
+|-|
+Ring 5=
+<div align=center><font size=5>{{Emblem|R5}} [[Ring 5]] {{Emblem|R5}}</font></div>
+*LAT - [[Likely A Tower]] - Bottom Difficult (4.04)
+*ToRS - [[Tower of Rigid Success]] - Low-Mid Difficult (4.36)
+|-|
+Lost River=
+<div align=center><font size=5>{{Emblem|LR}} [[Lost River]] {{Emblem|LR}}</font></div>
+*CoIS - [[Citadel of Inside Situations]] - Mid-High Difficult (4.60)
+*ToLOZ - [[Tower of Losing Our Zeal]] - High-Peak Difficult (4.86)
+|-|
+Ring 6=
+<div align=center><font size=5>{{Emblem|R6}} [[Ring 6]] {{Emblem|R6}}</font></div>
+*ToEP - [[Tower of Environmental Pain]] - Low-Mid Difficult (4.40)
+*ToRR - [[Tower of Radiant Realms]] - Mid Difficult (4.52)
+|-|
+Ashen Towerworks=
+<div align=center><font size=5>{{Emblem|AT}} [[Ashen Towerworks]] {{Emblem|AT}}</font></div>
+*ToCWC - [[Tower of Corner Wedge Climbing]] - Low Difficult (4.23)
+|-|
+Ring 7=
+<div align=center><font size=5>{{Emblem|R7}} [[Ring 7]] {{Emblem|R7}}</font></div>
+*ToRB - [[Tower of Rushed Building]] - Mid-High Difficult (4.58)
+*FFAST - [[Far From A Surprising Tower]] - High-Peak Difficult (4.79)
+|-|
+Ring 8=
+<div align=center><font size=5>{{Emblem|R8}} [[Ring 8]] {{Emblem|R8}}</font></div>
+*ToITI - [[Tower of Insult To Injury]] (removed) - Peak Difficult (4.92)
+|-|
+The Starlit Archives=
+<div align=center><font size=5>{{Emblem|TSA}} [[The Starlit Archives]] {{Emblem|TSA}}</font></div>
+*ToLR - [[Tower of Lethean Recollection]] - Bottom-Low Difficult (4.13)
+*ToYLFW - [[Tower of You're Late For Work]] - High Difficult (4.73)
+*ToPLA - [[Tower of Pursuit Led Astray]] - Peak Difficult (4.96)
+|-|
+Zone 1=
+<div align=center><font size=5>{{Emblem|Z1}} [[Zone 1]] {{Emblem|Z1}}</font></div>
+*ToCO - [[Tower of Contractual Obligations]] - Mid Difficult (4.46)
+*ToYS - [[Tower of Yearning Success]] - Peak Difficult (4.92)
+*PoMN - ''[[Palace of Mechanical Nightmares]]'' (Scrapped)
+|-|
+Steelspire Horizon=
+<div align=center><font size=5>{{Emblem|SH}} [[Steelspire Horizon]] {{Emblem|SH}}</font></div>
+*SoBCM - [[Steeple of Bad Cable Management]] - Mid-High Difficult (4.65)
+*ToWE - [[Tower of Weird Energy]] - Peak Difficult (4.90)
+|-|
+Zone 2=
+<div align=center><font size=5>{{Emblem|Z2}} [[Zone 2]] {{Emblem|Z2}}</font></div>
+*ToTA - [[Tower of Troublesome Adventures]] - Bottom Difficult (4.05)
+*ToUD - [[Tower of Unearthed Discoveries]] - Bottom-Low Difficult (4.21)
+*ToDaC - [[Tower of Dreams and Caverns]] - Peak Difficult (4.91)
+|-|
+Arcane Area=
+<div align=center><font size=5>{{Emblem|AA}} [[Arcane Area]] {{Emblem|AA}}</font></div>
+*SoTC - [[Steeple of Twisted Crystals]] - Bottom-Low Difficult (4.15)
+*SoME - [[Steeple of Magical Elements]] - High-Peak Difficult (4.81)
+*SoOT - ''[[Steeple of Overturned Travels]]'' (Deconfirmed)
+|-|
+Zone 3=
+<div align=center><font size=5>{{Emblem|Z3}} [[Zone 3]] {{Emblem|Z3}}</font></div>
+*ToDH - [[Tower of Dimensional Hopping]] - Low-Mid Difficult (4.38)
+*ToMA - [[Tower of Mild Agitation]] - Mid-High Difficult (4.59)
+*ToCaS - [[Tower of Cogs and Steam]] - Mid-High Difficult (4.66)
+*ToRCH - [[Tower of Requiring Critical Help]] - Peak Difficult (4.98)
+*CoTS - [[Citadel of Tricky Situations]] - Peak Difficult (4.98)
+|-|
+Paradise Atoll=
+<div align=center><font size=5>{{Emblem|PA}} [[Paradise Atoll]] {{Emblem|PA}}</font></div>
+*SoSIS - [[Steeple of Sunny Island Shenanigans]] - Bottom Difficult (4.03)
+*SoAR - [[Steeple of Aquatic Rallies]] - Low-Mid Difficult (4.34)
+*ToHP - [[Tower of High Power]] - High Difficult (4.77)
+*SoHS - [[Steeple of Hallucinatory Spectacles]] - High Difficult (4.80)
+|-|
+Zone 4=
+<div align=center><font size=5>{{Emblem|Z4}} [[Zone 4]] {{Emblem|Z4}}</font></div>
+*ToET - [[Tower of Elevator Travelling]] - Mid Difficult (4.51)
+*ToWW - [[Tower of Wicked Wedges]] - High Difficult (4.69)
+|-|
+Zone 5=
+<div align=center><font size=5>{{Emblem|Z5}} [[Zone 5]] {{Emblem|Z5}}</font></div>
+*ToFV - [[Tower of Fractal Volution]] - Mid Difficult (4.52)
+*ToBS - [[Tower of Bright Serenity]] - High Difficult (4.75)
+|-|
+Zone 6=
+<div align=center><font size=5>{{Emblem|Z6}} [[Zone 6]] {{Emblem|Z6}}</font></div>
+*ToRC - [[Tower of Rock Climbing]] - High Difficult (4.67)
+|-|
+Zone 7=
+<div align=center><font size=5>{{Emblem|Z7}} [[Zone 7]] {{Emblem|Z7}}</font></div>
+*ToBR - [[Tower of Bygone Relic]] - Mid Difficult (4.49)
+*ToDF - [[Tower of Destructive Fever]] - High Difficult (4.72)
+|-|
+Zone 8=
+<div align=center><font size=5>{{Emblem|Z8}} [[Zone 8]] {{Emblem|Z8}}</font></div>
+*ToATD - [[Tower of A Tetromino Disaster]] - High-Peak Difficult (4.78)
+*ToXM - [[Tower of X Madness]] - Peak Difficult (4.96) 
+|-|
+Zone 9=
+<div align=center><font size=5>{{Emblem|Z9}} [[Zone 9]] {{Emblem|Z9}}</font></div>
+*ToABCD - [[Tower of Arrantly Bodeful Cavern Depths]] - Peak Difficult (4.95)
+|-|
+Event=
+{{#tag:tabber
+|Halloween Event 2018=
+<div align=center><font size=5>{{Emblem|H2018}} [[Halloween Event 2018]] {{Emblem|H2018}}</font></div>
+*SoRP (or ToRP) [[Steeple of Retina Pain]] - Bottom Difficult (4.03)
+{{!}}-{{!}}
+Christmas Event 2018=
+<div align=center><font size=5>{{Emblem|C2018}} [[Christmas Event 2018]] {{Emblem|C2018}}</font></div>
+*SoFT - [[Steeple of Frantic Terrificness]] (4.36)
+*CoFS - '''[[Citadel of Festive Struggles (2018)]]''' (scrapped)
+{{!}}-{{!}}
+Spring Event 2019=
+<div align=center><font size=5>{{Emblem|S2019}} [[Spring Event 2019]] {{Emblem|S2019}}</font></div>
+*SoCH - [[Steeple of Chaotic Hunting]] - Bottom Difficult (4.06)
+*SoES - [[Steeple of Egg Searches]] - Peak Difficult (4.89)
+{{!}}-{{!}}
+Halloween Event 2019=
+<div align=center><font size=5>{{Emblem|H2019}} [[Halloween Event 2019]] {{Emblem|H2019}}</font></div>
+*SoTaT - [[Steeple of Tricks and Treats]] - Low-Mid Difficult (4.35)
+{{!}}-{{!}}
+Christmas Event 2019=
+<div align=center><font size=5>{{Emblem|C2019}} [[Christmas Event 2019]] {{Emblem|C2019}}</font></div>
+*SoFFI - [[Steeple of Festive Factory Infiltration]] - Low Difficult (4.23)
+*SoJV - [[Steeple of Joyous Voyages]] - Peak Difficult (4.93)
+{{!}}-{{!}}
+Halloween Event 2020=
+<div align=center><font size=5>{{Emblem|H2020}} [[Halloween Event 2020]] {{Emblem|H2020}}</font></div>
+*SoMF - [[Steeple of Midnight Fortress]] - High-Peak Difficult (4.81)
+{{!}}-{{!}}
+Christmas Event 2020=
+<div align=center><font size=5>{{Emblem|C2020}} [[Christmas Event 2020]] {{Emblem|C2020}}</font></div>
+*SoWE - [[Steeple of Winter Expeditions]] - Bottom Difficult (4.08)
+*ToHCF - [[Tower of Hot Chocolate Fury]] - Low Difficult (4.25)
+{{!}}-{{!}}
+April Fools 2022=
+<div align=center><font size=5>{{Emblem|AF2022}} [[April Fools 2022]] {{Emblem|AF2022}}</font></div>
+*ToCRR - [[Tower of Crazy Rollercoaster Riding]] - Bottom-Low Difficult (4.19)
+*EFFF - [[ESCAPE FROM FEDDY FAZBEAR]] - Low-Mid Difficult (4.38)
+{{!}}-{{!}}
+Halloween Event 2022=
+<div align=center><font size=5>{{Emblem|H2022}} [[Halloween Event 2022]] {{Emblem|H2022}}</font></div>
+*SoBB - [[Steeple of Blighted Blazonry]] - Mid Difficult (4.50)
+{{!}}-{{!}}
+April Fools 2023=
+<div align=center><font size=5>{{Emblem|AF2023}} [[April Fools 2023]] {{Emblem|AF2023}}</font></div>
+*LoGoToBoR - [[Library of Garten of Tower of BanBan of Ruina]] (removed) - Low Difficult (4.24)
+*ToToToToT - [[TheVision of TheVision of Tower of TheVision of TheVision]] - Low Difficult (4.24)
+{{!}}-{{!}}
+Christmas Event 2023=
+<div align=center><font size=5>{{Emblem|C2023}} [[Christmas Event 2023]] {{Emblem|C2023}}</font></div>
+*SoCMC - [[Steeple of Crazy Maniac's Cabin]] - Mid-High Difficult (4.63)
+{{!}}-{{!}}
+April Fools 2024=
+<div align=center><font size=5>{{Emblem|AF2024}} [[April Fools 2024]] {{Emblem|AF2024}}</font></div>
+*TOGR - [[Tower Of Generation Retro]] - High-Peak Difficult (4.81)
+{{!}}-{{!}}
+Legacy Event 2024=
+<div align=center><font size=5>{{Emblem|L2023}} [[Legacy Event 2024]] {{Emblem|L2023}}</font></div>
+*ToTE(L) - [[Tower of Total Exhaustion]] - Low Difficult (4.28)
+*ToUP(L) - [[Tower of Unfortunate Possibilities]] - High-Peak Difficult (4.80)
+*ToG(L) - [[Tower of Gloom]] - Peak Difficult (4.89)
+{{!}}-{{!}}
+Christmas Event 2024=
+<div align=center><font size=5>{{Emblem|C2024}} [[Christmas Event 2024]] {{Emblem|C2024}}</font></div>
+*SoSA - [[Steeple of Seeking Asylum]] - High-Peak Difficult (4.86)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*ETTTT - [[ETOH TYCOON TYCOON TYCOON TYCOON]] - High Difficult (4.74)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|September 2021=
+<div align=center><font size=5>September 2021</font></div>
+*ToVR(M) - [[Tower of Various Routes]] - High-Peak Difficult (4.80)
+{{!}}-{{!}}
+November 2021=
+<div align=center><font size=5>November 2021</font></div>
+*CoMaV(M) - [[Citadel of Monochrome and Vibrance]] - Peak Difficult (4.91)
+{{!}}-{{!}}
+April 2022=
+<div align=center><font size=5>April 2022</font></div>
+*ToSG(M) - [[Tower of Subtle Graciousness]] - Low-Mid Difficult (4.56)
+{{!}}-{{!}}
+May 2022=
+<div align=center><font size=5>May 2022</font></div>
+*ToWP(M) - [[Tower of Wacky Progression]] - High Difficult (4.72)
+{{!}}-{{!}}
+June 2022=
+<div align=center><font size=5>June 2022</font></div>
+*SoPN(M) - [[Steeple of Pool Noodle]] - Bottom Difficult (4.21)
+{{!}}-{{!}}
+August 2022=
+<div align=center><font size=5>August 2022</font></div>
+*ToCCQ(M) - [[Tower of Close Cut Quandaries]] - High-Peak Difficult (4.81)
+{{!}}-{{!}}
+December 2022=
+<div align=center><font size=5>December 2022</font></div>
+*ToNH(M) - [[Tower of Numb Hands]] - Bottom-Low Difficult (4.15)
+{{!}}-{{!}}
+January 2023=
+<div align=center><font size=5>January 2023</font></div>
+*ToFaNS(M) - [[Tower of Fair and Nice Serenity]] - High-Peak Difficult (4.83)
+{{!}}-{{!}}
+March 2023=
+<div align=center><font size=5>March 2023</font></div>
+*ToNA(M) - [[Tower of Nebulous Attitudes]] - Bottom-Low Difficult (4.18)
+{{!}}-{{!}}
+May 2023=
+<div align=center><font size=5>May 2023</font></div>
+*ToCE(M) - [[Tower of Convoluted Expanses]] - Bottom Difficult (4.08)
+{{!}}-{{!}}
+June 2023=
+<div align=center><font size=5>June 2023</font></div>
+*ToBA(M) - [[Tower of Basement Antics]] - High-Peak Difficult (4.85)
+{{!}}-{{!}}
+November 2023=
+<div align=center><font size=5>November 2023</font></div>
+*ToPD(M) - [[Tower of Pleasant Descents]] - Mid-High Difficult (4.61)
+{{!}}-{{!}}
+May 2024=
+<div align=center><font size=5>May 2024</font></div>
+*ToVH(M) - [[Tower of Vast Horizons]] - Peak Difficult (4.94)
+{{!}}-{{!}}
+June 2024=
+<div align=center><font size=5>June 2024</font></div>
+*ToID(M) - [[Tower of Interstellar Dreams]] - Peak Difficult (4.95)
+{{!}}-{{!}}
+October 2024=
+<div align=center><font size=5>October 2024</font></div>
+*ToAIR(M) - [[Tower of An Intricate Rise]] - High Difficult (4.68)
+{{!}}-{{!}}
+March 2025=
+<div align=center><font size=5>March 2025</font></div>
+*ToRW(M) - [[Tower of Revolving Wack]] - High-Peak Difficult (4.82)
+{{!}}-{{!}}
+August 2025=
+<div align=center><font size=5>August 2025</font></div>
+*ToBC(M) - [[Tower of Big Crack]] - Mid-High Difficult (4.60)
+}}
+</tabber>
+{{Header|Towers in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+*{{emblem|GoE|20px}} ''CoBG - [[Citadel of Biotech Genesis]] - Difficult (4.??)'' {{emblem|GoE|20px}}
+*{{emblem|R2|20px}} ToCH - [[Tower of Cold Hands]] - Baseline Difficult (4.00) {{emblem|R2|20px}}
+*{{emblem|GoE|20px}} SoVV - [[Steeple of Various Vivariums]] - Bottom Difficult (4.01) {{emblem|GoE|20px}}
+*{{emblem|R3|20px}} ToSI - [[Tower of Slight Inconvenience]] - Bottom Difficult (4.01) {{emblem|R3|20px}}
+*{{emblem|PA|20px}} SoSIS - [[Steeple of Sunny Island Shenanigans]] - Bottom Difficult (4.03) {{emblem|PA|20px}}
+*{{emblem|R5|20px}} LAT - [[Likely A Tower]] - Bottom Difficult (4.04) {{emblem|R5|20px}}
+*{{emblem|Z2|20px}} ToTA - [[Tower of Troublesome Adventures]] - Bottom Difficult (4.05) {{emblem|Z2|20px}}
+*{{emblem|R1|20px}} ToKY - [[Tower of Keyboard Yeeting]] - Bottom Difficult (4.10) {{emblem|R1|20px}}
+*{{emblem|TSA|20px}} ToLR - [[Tower of Lethean Recollection]] - Bottom-Low Difficult (4.13) {{emblem|TSA|20px}}
+*{{emblem|AA|20px}} SoTC - [[Steeple of Twisted Crystals]] - Bottom-Low Difficult (4.15) {{emblem|AA|20px}}
+*{{emblem|Z2|20px}} ToUD - [[Tower of Unearthed Discoveries]] - Bottom-Low Difficult (4.21) {{emblem|Z2|20px}}
+*{{emblem|AT|20px}} ToCWC - [[Tower of Corner Wedge Climbing]] - Low Difficult (4.23) {{emblem|AT|20px}}
+*{{emblem|FR|20px}} ToII - [[Tower of Immense Ire]] - Low Difficult (4.24) {{emblem|FR|20px}}
+*{{emblem|PA|20px}} SoAR - [[Steeple of Aquatic Rallies]] - Low-Mid Difficult (4.34) {{emblem|PA|20px}}
+*{{emblem|R5|20px}} ToRS - [[Tower of Rigid Success]] - Low-Mid Difficult (4.36) {{emblem|R5|20px}}
+*{{emblem|R3|20px}} ToWH - [[Tower of Wall Hugging]] - Low-Mid Difficult (4.37) {{emblem|R3|20px}}
+*{{emblem|Z3|20px}} ToDH - [[Tower of Dimensional Hopping]] - Low-Mid Difficult (4.38) {{emblem|Z3|20px}}
+*{{emblem|R6|20px}} ToEP - [[Tower of Environmental Pain]] - Low-Mid Difficult (4.40) {{emblem|R6|20px}}
+*{{emblem|Z1|20px}} ToCO - [[Tower of Contractual Obligations]] - Mid Difficult (4.46) {{emblem|Z1|20px}}
+*{{emblem|Z7|20px}} ToBR - [[Tower of Bygone Relic]] - Mid Difficult (4.49) {{emblem|Z7|20px}}
+*{{emblem|R4|20px}} ToL - [[Tower of Linonophobia]] - Mid Difficult (4.50) {{emblem|R4|20px}}
+*{{emblem|Z4|20px}} ToET - [[Tower of Elevator Travelling]] - Mid Difficult (4.51) {{emblem|Z4|20px}}
+*{{emblem|R6|20px}} ToRR - [[Tower of Radiant Realms]] - Mid Difficult (4.52) {{emblem|R6|20px}}
+*{{emblem|Z5|20px}} ToFV - [[Tower of Fractal Volution]] - Mid Difficult (4.52) {{emblem|Z5|20px}}
+*{{emblem|FR|20px}} SoWP - [[Steeple of Wall Punching]] - Mid-High Difficult (4.57) {{emblem|FR|20px}}
+*{{emblem|R7|20px}} ToRB - [[Tower of Rushed Building]] - Mid-High Difficult (4.58) {{emblem|R7|20px}}
+*{{emblem|Z3|20px}} ToMA - [[Tower of Mild Agitation]] - Mid-High Difficult (4.59) {{emblem|Z3|20px}}
+*{{emblem|LR|20px}} CoIS - [[Citadel of Inside Situations]] - Mid-High Difficult (4.60) {{emblem|LR|20px}}
+*{{emblem|R3|20px}} ToLD - [[Tower of Lotsa Damage]] - Mid-High Difficult (4.61) {{emblem|R3|20px}}
+*{{emblem|FR|20px}} ToV - [[Tower of Versatility]] - Mid-High Difficult (4.64) {{emblem|FR|20px}}
+*{{emblem|SH|20px}} ''SoBCM - [[Steeple of Bad Cable Management]] - Mid-High Difficult (4.65)'' {{emblem|SH|20px}}
+*{{emblem|Z3|20px}} ToCaS - [[Tower of Cogs and Steam]] - Mid-High Difficult (4.66) {{emblem|Z3|20px}}
+*{{emblem|Z6|20px}} ToRC - [[Tower of Rock Climbing]] - High Difficult (4.67) {{emblem|Z6|20px}}
+*{{emblem|Z4|20px}} ToWW - [[Tower of Wicked Wedges]] - High Difficult (4.69) {{emblem|Z4|20px}}
+*{{emblem|R4|20px}} ToLL - [[Tower of Leaning Ledges]] - High Difficult (4.70) {{emblem|R4|20px}}
+*{{emblem|SA|20px}} SoRIS - [[Steeple of Resort In Stasis]] - High Difficult (4.71) {{emblem|SA|20px}}
+*{{emblem|Z7|20px}} ToDF - [[Tower of Destructive Fever]] - High Difficult (4.72) {{emblem|Z7|20px}}
+*{{emblem|TSA|20px}} ToYLFW - [[Tower of You're Late For Work]] - High Difficult (4.73) {{emblem|TSA|20px}}
+*{{emblem|Z5|20px}} ToBS - [[Tower of Bright Serenity]] - High Difficult (4.75) {{emblem|Z5|20px}}
+*{{emblem|PA|20px}} ToHP - [[Tower of High Power]] - High Difficult (4.77) {{emblem|PA|20px}}
+*{{emblem|Z8|20px}} ToATD - [[Tower of A Tetromino Disaster]] - High-Peak Difficult (4.78) {{emblem|Z8|20px}}
+*{{emblem|R7|20px}} FFAST - [[Far From A Surprising Tower]] - High-Peak Difficult (4.79) {{emblem|R7|20px}}
+*{{emblem|PA|20px}} SoHS - [[Steeple of Hallucinatory Spectacles]] - High Difficult (4.80) {{emblem|PA|20px}}
+*{{emblem|AA|20px}} SoME - [[Steeple of Magical Elements]] - High-Peak Difficult (4.81) {{emblem|AA|20px}}
+*{{emblem|LR|20px}} ToLOZ - [[Tower of Losing Our Zeal]] - High-Peak Difficult (4.86) {{emblem|LR|20px}}
+*{{emblem|SA|20px}} SoRA - [[Steeple of Ruinous Abate]] - High-Peak Difficult (4.87) {{emblem|SA|20px}}
+*{{emblem|R1|20px}} ToS - [[Tower of Stress]] - High-Peak Difficult (4.88) {{emblem|R1|20px}}
+*{{emblem|SH|20px}} ''ToWE - [[Tower of Weird Energy]] - Peak Difficult (4.90)'' {{emblem|SH|20px}}
+*{{emblem|Z2|20px}} ToDaC - [[Tower of Dreams and Caverns]] - Peak Difficult (4.91) {{emblem|Z2|20px}}
+*{{emblem|Z1|20px}} ToYS - [[Tower of Yearning Success]] - Peak Difficult (4.92) {{emblem|Z1|20px}}
+*{{emblem|Z9|20px}} ToABCD - [[Tower of Arrantly Bodeful Cavern Depths]] - Peak Difficult (4.95) {{emblem|Z9|20px}}
+*{{emblem|TSA|20px}} ToPLA - [[Tower of Pursuit Led Astray]] - Peak Difficult (4.96) {{emblem|TSA|20px}}
+*{{emblem|Z8|20px}} ToXM - [[Tower of X Madness]] - Peak Difficult (4.96) {{emblem|Z8|20px}}
+*{{emblem|Z3|20px}} ToRCH - [[Tower of Requiring Critical Help]] - Peak Difficult (4.98) {{emblem|Z3|20px}}
+*{{emblem|Z3|20px}} CoTS - [[Citadel of Tricky Situations]] - Peak Difficult (4.98) {{emblem|Z3|20px}}
+*{{emblem|SA|20px}} ToAI - [[Tower of Ancestral Interference]] - Peak Difficult (4.99) {{emblem|SA|20px}}
+|-|
+Monthly Towers=
+*{{emblem|TLS|20px}} ToCE(M) - [[Tower of Convoluted Expanses]] - Bottom Difficult (4.08) {{emblem|Z2|20px}}
+*{{emblem|TLC|20px}} ToNH(M) - [[Tower of Numb Hands]] - Bottom-Low Difficult (4.15) {{emblem|R2|20px}}
+*{{emblem|TLC|20px}} ToNA(M) - [[Tower of Nebulous Attitudes]] - Bottom-Low Difficult (4.18) {{emblem|Z6|20px}}
+*{{emblem|TLC|20px}} SoPN(M) - [[Steeple of Pool Noodle]] - Bottom-Low Difficult (4.21) {{emblem|PA|20px}}
+*{{emblem|TLP|20px}} ToSG(M) - [[Tower of Subtle Graciousness]] - Mid-High Difficult (4.56) {{emblem|R7|20px}}
+*{{emblem|TL?|20px}} ToBC(M) - [[Tower of Big Crack]] - Mid-High Difficult (4.60) {{emblem|ATw|20px}}
+*{{emblem|TLS|20px}} ToPD(M) - [[Tower of Pleasant Descents]] - Mid-High Difficult (4.61) {{emblem|Z3|20px}}
+*{{emblem|TLT|20px}} ToAIR(M) - [[Tower of An Intricate Rise]] - High Difficult (4.68) {{emblem|Z5|20px}}
+*{{emblem|TLC|20px}} ToWP(M) - [[Tower of Wacky Progression]] - High Difficult (4.72) {{emblem|Z4|20px}}
+*{{emblem|TLP|20px}} ToVR(M) - [[Tower of Various Routes]] - High-Peak Difficult (4.80) {{emblem|Z1|20px}}
+*{{emblem|TLC|20px}} ToCCQ(M) - [[Tower of Close Cut Quandaries]] - High-Peak Difficult (4.81) {{emblem|Z6|20px}}
+*{{emblem|TLT|20px}} ToRW(M) - [[Tower of Revolving Wack]] - High-Peak Difficult (4.82) {{emblem|Z4|20px}}
+*{{emblem|TLC|20px}} ToFaNS(M) - [[Tower of Fair and Nice Serenity]] - High-Peak Difficult (4.83) {{emblem|Z2|20px}}
+*{{emblem|TLS|20px}} ToBA(M) - [[Tower of Basement Antics]] - High-Peak Difficult (4.85) {{emblem|R5|20px}}
+*{{emblem|TLP|20px}} CoMaV(M) - [[Citadel of Monochrome and Vibrance]] - Peak Difficult (4.91) {{emblem|Z3|20px}}
+*{{emblem|TLT|20px}} ToVH(M) - [[Tower of Vast Horizons]] - Peak Difficult (4.94) {{emblem|Z6|20px}}
+*{{emblem|TLT|20px}} ToID(M) - [[Tower of Interstellar Dreams]] - Peak Difficult (4.95) {{emblem|Z4|20px}}
+|-|
+Event Towers=
+*{{emblem|HE2018|20px}} SoRP - [[Steeple of Retina Pain]] - Bottom Difficult (4.03) {{emblem|HE2018|20px}}
+*{{emblem|SE2019|20px}} SoCH - [[Steeple of Chaotic Hunting]] - Bottom Difficult (4.06) {{emblem|SE2019|20px}}
+*{{emblem|CE2020|20px}} SoWE - [[Steeple of Winter Expeditions]] - Bottom Difficult (4.08) {{emblem|CE2020|20px}}
+*{{emblem|AF2022|20px}} ToCRR - [[Tower of Crazy Rollercoaster Riding]] - Bottom-Low Difficult (4.19) {{emblem|AF2022|20px}}
+*{{emblem|CE2019|20px}} SoFFI - [[Steeple of Festive Factory Infiltration]] - Low Difficult (4.23) {{emblem|CE2019|20px}}
+*{{emblem|AF2023|20px}} ToToToToT - [[TheVision of TheVision of Tower of TheVision of TheVision]] - Low Difficult (4.24) {{emblem|AF2023|20px}}
+*{{emblem|CE2020|20px}} ToHCF - [[Tower of Hot Chocolate Fury]] - Low Difficult (4.25) {{emblem|CE2020|20px}}
+*{{emblem|LE2024|20px}} ToTE(L) - [[Tower of Total Exhaustion]] - Low Difficult (4.28) {{emblem|LR2|20px}}
+*{{emblem|HE2019|20px}} SoTaT - [[Steeple of Tricks and Treats]] - Low-Mid Difficult (4.35) {{emblem|HE2019|20px}}
+*{{emblem|CE2018|20px}} SoFT - [[Steeple of Frantic Terrificness]] - Low-Mid Difficult (4.36) {{emblem|CE2018|20px}}
+*{{emblem|AF2022|20px}} EFFF - [[ESCAPE FROM FEDDY FAZBEAR]] - Low-Mid Difficult (4.38) {{emblem|AF2022|20px}}
+*{{emblem|H2022|20px}} SoBB - [[Steeple of Blighted Blazonry]] - Mid Difficult (4.50) {{emblem|H2022|20px}}
+*{{emblem|CE2023|20px}} SoCMC - [[Steeple of Crazy Maniac's Cabin]] - Mid-High Difficult (4.63) {{emblem|CE2023|20px}}
+*{{emblem|AF2025|20px}} ETTTT - [[ETOH TYCOON TYCOON TYCOON TYCOON]] - High Difficult (4.74) {{emblem|AF2025|20px}}
+*{{emblem|LE2024|20px}} ToUP(L) - [[Tower of Unfortunate Possibilities]] - High-Peak Difficult (4.80) {{emblem|LR1|20px}}
+*{{emblem|HE2020|20px}} SoMF - [[Steeple of Midnight Fortress]] - High-Peak Difficult (4.81) {{emblem|HE2020|20px}}
+*{{emblem|AF2024|20px}} TOGR - [[Tower Of Generation Retro]] - High-Peak Difficult (4.81) {{emblem|AF2024|20px}}
+*{{emblem|CE2024|20px}} SoSA - [[Steeple of Seeking Asylum]] - High-Peak Difficult (4.86) {{emblem|CE2024|20px}}
+*{{emblem|SE2019|20px}} SoES - [[Steeple of Egg Searches]] - Peak Difficult (4.89) {{emblem|SE2019|20px}}
+*{{emblem|LE2024|20px}} ToG(L) - [[Tower of Gloom]] - Peak Difficult (4.89) {{emblem|LR2|20px}}
+*{{emblem|CE2019|20px}} SoJV - [[Steeple of Joyous Voyages]] - Peak Difficult (4.93) {{emblem|CE2019|20px}}
+</tabber>
+{{Header|Trivia}}
+*[[Zone 3]] has the most <span id="Difficult">[[Difficult]]</span> Towers out of any [[Realm]], having 5 towers with this difficulty.
+*[[Ring 8]], [[Ring 9]], and [[Zone 10]] are the only areas to not have any <span id="Difficult">[[Difficult]]</span> towers. 
+**[[Ring 8]] used to have two <span id="Difficult">[[Difficult]]</span> towers, but one of them was removed and the other was moved to <span id="Challenging">'''Challenging'''</span>.
+**[[Zone 10]] used to have one <span id="Difficult">[[Difficult]]</span> tower, but it was moved to <span id="Challenging">'''Challenging'''</span>.
+{{Header|Gallery}}
+<gallery wdiths="185" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Cc0eed2599fc29895e002fa84384a521.png|The [[badge]] obtained from beating a <span id="Difficult">[[Difficult]]</span> tower for the first time.
+</gallery>
+{{Difficulty Navibox}}
+{{Reflist}}
+[[Category:Difficult]]
+[[Category:Difficulties]]

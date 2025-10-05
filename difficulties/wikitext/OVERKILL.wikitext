@@ -1,0 +1,27 @@
+{{DISPLAYTITLE:<span style="color:#6014cc;">'''OVERKILL'''</span>}}
+{{DifficultyTab
+|OVERKILL
+|textcolormain = 000
+|type = Event / Joke
+|blank1 =
+|blank2 =
+}}
+{{DifficultyInfobox
+|title1=OVERKILL
+|image1=OVERKILLIcon.png
+|type=Joke
+|date_added=January 19, 2025
+}}
+{{Difficulty|OVERKILL|20px}} [[OVERKILL|<span style="color:#6014cc;">OVERKILL</span>]] is a joke difficulty which was released alongside [[The Stronghold]]. There are currently no towers of this difficulty, but there used to be a temporary tower in [[The Stronghold]] of this difficulty.
+{{Header|Towers}}
+<tabber>
+The Stronghold=
+<div align="center"><font size="5">{{Emblem|TS}} [[The Stronghold]] {{Emblem|TS}}</font></div>
+*MToMIM - [[w:c:etoh-misc:Mini Tower of Mayhem Inducing Mameplay|Mini Tower of Mayhem Inducing Mameplay]]
+</tabber>
+
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:The Stronghold]]

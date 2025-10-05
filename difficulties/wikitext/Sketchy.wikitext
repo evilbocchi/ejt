@@ -1,0 +1,31 @@
+__NOTOC____NOTOC__
+{{Scrollbox|Notices='''Notices'''
+{{Unclassified}}
+{{Collaboration|reason=This difficulty is made in collaboration with The Difficulty Enthusiast and Sanjay2133.}}}}{{BetterQuote|text=Hello, and welcome to this difficulty I have created. It is the sole unclassified difficulty I have created, and will likely stay that way for quite some time.
+----
+Also hi! It's me Sanjay2133! This is my second unclassified difficulty, so I hope you enjoy!|quoter=[[User:The Difficulty Enthusiast|The Difficulty Enthusiast]] and [[User:Sanjay2133|Sanjay2133]]}}
+==What is '''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(270deg, white, grey, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Sketchy</span>'''? ==
+{{NewDifficultyInfobox|image1=Sketchy.png|class=[[:Category:Unclassified|Unclassified]]|type=[[:Category:Difficulties|Undetermined Position]]|previous=N/A|next=N/A|class_range=[[:Category:Class Negative|Bottom Class Negative]] to [[:Category:Class Secret|Class Secret]]|decal_id=N/A|creator(s)=[[User:The Difficulty Enthusiast|The Difficulty Enthusiast]] and [[User:Sanjay2133|Sanjay2133]]|title1=<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(270deg, white, grey, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Sketchy</span>|difficulty_range=[[File:TFirDNew.png|30px]] [[The First Difficulty]] to [[File:Babass.png|30px]] [[Babass dficuklty]]|alt_previous=[[File:TFirDNew.png|50px]] [[The First Difficulty]]|alt_next=[[File:Babass.png|50px]] [[Babass dficuklty]]|date_added=23/01/2023}}'''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(270deg, white, grey, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Sketchy</span>''' is an [[:Category:Unclassified|unclassified]] [[:Category:Unofficial|unofficial difficulty]] with no determinable posterior or anterior difficulties, due to its unclassified nature. The difficulty of this ranges from about [[File:TFirDNew.png|30px]][[The First Difficulty]] to [[File:Babass.png|30px]][[Babass dficuklty]], meaning it is the unclassified difficulty with the greatest range, due to the other unclassifieds going from [[The First Difficulty]] to [[The Final Difficulty.|The Final Difficulty]] at maximum.
+
+==Icon Representation==
+'''Sketchy'''’s icon is represented by a paper background with a light grey background, and many different sketches. There is an angry head, a black scribble, a happy emoticon, a hand drawn XD, the symbol gar, another scribble, a sad emoticon with a tear, two other gar symbols rotated 90 degrees respectively, a agitated emoticon with sweat, a DX symbol, a triangle, a circle, a frowning emoticon, another agitated emoticon, a T_T emoticon and  an agitated person.
+
+== Obstacles/Premise ==
+'''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(270deg, white, grey, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Sketchy</span>''' is an odd difficulty, which is why it cannot be classified. In this difficulty, you posess a sketchbook that has the power to make almost anything come to life.  You can give yourself teleportation tools, noclip, coils; in fact, you can do everything (except for automatically losing any [[:Category:Beyond Existence Difficulties|beyond existence difficulties]] and winning any [[:Category:Beyond Logic Difficulties|beyond logic difficulties]]). Due to this, the difficulty is what you want it to be; it can be instantaneous or painfully hard.
+
+Also, any loopholes found via the sketchbook you now possess will immediately be negated, and this rule cannot be negated.
+==Towers in this difficulty==
+Naturally, due to the premise of this difficulty, non-fictional towers cannot be made in this difficulty. However, fictional towers can still be listed.
+* '''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(270deg, white, grey, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Tower of Conceptual Convenience (ToCC)</span>'''
+*'''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(270deg, white, grey, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Steeple of Your Own Imagination (SoYOI)</span>'''
+*'''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(270deg, white, grey, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Futuron of Sketchbook Troubles (FoST)</span>'''
+==Trivia==
+*This difficulty was inspired by [[The Sketchbook World]].
+*This was intended to be a [[TDE’s FTE Custom Difficulty Chart/Main Chart|TDE’s FTE Custom Difficulty Chart]] Unclassified Difficulty, but became an [[Alternate Difficulty Chart|alternate chart]] unclassified.
+==Continuing from this point==
+It’s your take. You could move onto literally any difficulty. It does not matter. What’s even the point of this section for unclassified? They don’t have a proper placement for a reason.                 
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Unclassified]]
+[[Category:Collab Page]]
+[[Category:Difficulties made by Sanjay2133]]

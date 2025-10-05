@@ -1,0 +1,72 @@
+__NOTOC__
+<div style="background:#611a7d;padding:1em;font-family:rubik;border:10px solid #c336fc">
+{{Humanly Possible}}
+{{NewDifficultyInfobox|title1=<span style="color:#c336fc";>Psycho</span>|image1=Psycho.png|caption1="Oh, she's sweet but psycho, a little bit psycho"|class=<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, maroon, black, magenta, #4800ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Class 2 - Hard</span>|date_added=3/21/23|hex_color=#c336fc|previous={{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]|next=[[File:Relentless.png|30px|link=Relentless]] [[Relentless]]|alt_previous=[[File:CORRUPT.png|30px|link=C0RrUpT]] [[C0RrUpT]]|alt_next=[[File:Harsh.png|30px]] [[Harsh]]|class_range=High|main_difficulty=|official_music(s)=Ava Max - Sweet But Psycho (Instrumental)|creator(s)=
+[[User:Glitchzeri|Glitchzeri]]|full_name=Psychopathic|alt_names=Psychotic|original_main_difficulty=[https://jtoh.fandom.com/wiki/Remorseless Remorseless]|decal_id=15734103180|original_creator(s)=[[User:The Human Limit|The Human Limit (not the difficulty)]]|sub_difficulty(ies)=[[File:Harsh.png|30px|link=Harsh]] [[Harsh]]|rbg_color=195, 54, 252|previous_sub_difficulty(ies)=[[File:Harsh.png|30px|link=Harsh]] [[Harsh]]<br>(CDC)}}
+==Introduction - <span style="color:#c336fc" ;>'''''Psycho'''''</span>==
+<span style="color:#c336fc" ;>'''''Psycho'''''</span> is a difficulty residing in High Class 2. Its location is in between [[C0RrUpT]] and [[Harsh]], as well as it being one of three non-sub difficulties defining the arbitrary border between non-soul crushing and soul crushing difficulties. This means it is one of the last difficulties before the <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, blue, #0084ff, cyan, white, #c778ff, #3d0073);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Soul-Crushing'''</span> range, as well as one of the last difficulties before your delve into insanity.
+
+Difficulties from here will try to end your run in some of the most absurd ways possible, ranging from "this is very hard but you can beat this if you put enough effort into it" to "THIS IS LOGICALLY IMPOSSIBLE YOU CAN NEVER BEAT THIS NOT EVEN IN EXPAN^^^EXPAN YEARS". That's just a tiny sneak peek to what the next difficulties will look like.
+
+==Icon Representation - <span style="color:#c336fc" ;>'''''Psycho'''''</span>==
+The icon is a single shade of solid purple. I really don't know why this needs to be explained.
+
+For the April Fool's icon, it's a purple crewmate from the video game ''Among Us''. The caption was also changed to "psychotic mute". The icon was added on March 23rd, 2022, and was reverted on April 2nd, 2022.
+
+==Obstacles - <span style="color:#c336fc" ;>'''''Psycho'''''</span>==
+
+===Baseline <span style="color:#c336fc" ;>'''''Psycho'''''</span>=== 
+
+*9.75 stud wrap.
+*11.75 stud jump. (C)
+*11.5 stud jump. (U)
+*3.1 stud ladder flick wraps.
+*2.1 stud walkarounds.
+
+===Low <span style="color:#c336fc" ;>'''''Psycho'''''</span>===
+
+*9.85 stud wrap.
+*11.85 stud jump. (C)
+*11.75 stud jump. (U)
+*3.2 stud ladder flick wraps.
+*2.222 stud walkarounds.
+
+===Mid <span style="color:#c336fc" ;>'''''Psycho'''''</span> === 
+
+*9.9 stud wrap.
+*11.9 stud jump. (C)
+*11.8 stud jump. (U)
+*3.25 stud ladder flick wraps.
+*2.25 stud walkarounds.
+
+===High <span style="color:#c336fc" ;>'''''Psycho'''''</span>===
+* 9.925 stud wrap.
+*11.95 stud jump. (C)
+*11.9 stud jump. (U)
+*3.5 stud ladder flick wraps.
+*2.5 stud walkarounds.
+
+===Peak <span style="color:#c336fc" ;>'''''Psycho'''''</span>===
+*9.95 stud wrap.
+*11.975 stud jump. (C)
+*11.95 stud jump. (U)
+*3.75 stud ladder flick wraps.
+* 2.69 stud walkarounds.
+==Towers - <span style="color:#c336fc" ;>'''''Psycho'''''</span>== 
+===Consists of===
+*[https://jtoh.fandom.com/wiki/Tower_of_Double_Trouble Tower of Double Trouble]
+*[https://jtoh.fandom.com/wiki/Citadel_of_Wacky_Strategy Citadel of Wacky Strategy]
+===Consisting Within===
+*[[Room of Mechanic Mayhem]] (Unofficial)
+*Steeple of Psychotic Madness (Fictional)
+
+==Trivia - <span style="color:#c336fc" ;>'''''Psycho'''''</span>== 
+
+*Bruhshard1 thought the caption of this difficulty's infobox was a Melanie Martinez reference, even though it's the first lyric of Sweet but Psycho by Ava Max.
+*This difficulty was originally made by a TheEndlessNova alt called The Human Limit, however TDE took it after THL was banned. 
+*This is the last main non-SC difficulty if you exclude [[Relentless]] and its subs.
+==Continuing From This Point - <span style="color:#c336fc" ;>'''''Psycho'''''</span>==
+Dang, you're really skilled at this. I thought this would stop you, but I guess not. Go to [[Relentless]], one of the last difficulties before the Soul-Crushing range. Good luck.
+[[Category:Class 2]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]

@@ -1,0 +1,354 @@
+{{Background|File=Neatbackground.png|Size=1000}}__NOTOC__
+{{NoticeScrollboxNew|Notices={{Humanly Possible}}{{Classic}}{{Large Page}}{{Background|File=Neatbackground.png|Size=1000}}
+{{CSS|content=<nowiki>
+/* Manual Import of Font(s) */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+/* Difficulty Name */
+span.Neat {
+    font-family: Comfortaa, sans-serif;
+    font-weight: 700;
+    background: -webkit-linear-gradient(90deg ,#fff, #acc451);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 2px 5px rgba(164, 189, 71, 79%) /* Nice. :smug: */
+}
+
+/* Other Difficulty Names */
+
+/* Text styling */
+.page-content, .page-content h2, .page-content h3 {
+    font-family: outfit;
+    color: #fff
+}
+.page-content h2, .page-content h3 {
+    font-weight: 600;
+    color: #c5cca9
+}
+.page-content h2 {
+    border-bottom: 2px solid #fff
+}
+/* Table styling */
+.table {
+	border-collapse: collapse;
+    width: auto;
+	text-align: center;
+	border: 2px solid #fff;
+    filter: drop-shadow(0 0 0.4em #fff)
+}
+th.table {
+    padding: 1em 0.5em 1em;
+    font-weight: bold;
+    background: #acc451;
+    color: #000;
+    text-shadow: 0 0 0.4em #000
+}
+td.table {
+	padding: 0.5em 1em 0.5em;
+    background: url(https://static.wikia.nocookie.net/jtohs-joke-towers/images/a/a6/Red_Carbon_Fibre_background.png/revision/latest?cb=20240728153911);
+    background-size: auto;
+    background-repeat: repeat;
+    box-shadow: inset 0 0 0 2px #fff
+}
+td.image {
+    padding: 0;
+    background: #fff;
+    box-shadow: none
+}
+
+/** This CSS rule affects 'Collapse' text in a collapsible table. **/
+.mw-collapsible span.mw-collapsible-toggle, .mw-collapsible span.mw-collapsible-toggle > a {
+    color: #FFF
+}
+
+/** Obstacle Table **/
+th.ot, td.ot {
+    color: #fff;
+    box-shadow: inset 0 0 0 0.5px #fff;
+    text-shadow: none;
+    background: none
+}
+th.ot {
+    text-shadow: 0 0 0.2em #000
+}
+td.b { background-color: #8aa470 }
+td.bl { background-color: #789264 }
+td.l { background-color: #678158 }
+td.lm { background-color: #576f4d }
+td.m { background-color: #475e41 }
+td.mh { background-color: #394e36 }
+td.h { background-color: #2b3e2b }
+td.hp { background-color: #1f2f20 }
+td.p { background-color: #132015 }
+
+/* Quotebox Styling */
+.page-content q, #quoter, #quote {
+    user-select: none
+}
+.page-content q {
+    filter: drop-shadow(0 0 0.4em #FFD226)
+}
+#quote {
+    margin: 0;
+    font-family: 'Playfair Display';
+    font-size: 300%;
+    color: #FFF;
+}
+</nowiki>}}}}{{Quote (Better Version)|quote=Welcome to this neat difficulty! You shouldn't have trouble here, good luck though!|quoter=The sign from Neat}}
+<center><font size="5">« [[File:EasyDifficulty.jpg|link=w:c:jtoh:Easy|37px]] [[w:c:jtoh:Easy|Easy]] | [[File:NEaT_resized.png|42px]] <span class="Neat">'''Neat'''</span> |  [[File:Calmness.png|link=Calm|37px]] [[Calm]] »</font></center>
+''Not to be confused with the EToH mini-tower [[w:c:jtoh:Not Even A Tower|NEAT]] (Not Even A Tower).''
+{{NewDifficultyInfobox
+|title1 = <font size="5.5"><span class="Neat">Neat</span></font>
+|image1 = <gallery>
+NEaT_resized.png | Official
+NeatAlt.png | Alternate
+</gallery>
+|caption1 = Not Even A Difficulty, lol.
+|class = [[:Category:Class 2|Class 2]]
+|type = [[:Category:Sub-Difficulties|Sub-Difficulty]]
+|previous = [[File:EasyDifficulty.jpg|link=w:c:jtoh:Easy|27px]] [[w:c:jtoh:Easy|Easy]]<br>(1 » 1.24/1.99)
+|next = [[File:Calmness.png|link=Calm|27px]] [[Calm]]<br>(1.5 » 1.74/1.99)
+|decal_id = [https://www.roblox.com/library/11490443312/ 11490443312]
+|main_difficulty = [[File:EasyDifficulty.jpg|link=w:c:jtoh:Easy|32px]] [[w:c:jtoh:Easy|Easy]] (1 » 1.24/1.99)
+|sub_difficulty(ies) = 
+|creator(s) = [[User:Dreadful.exe|Dreadful.exe]] (creator)<br>[[User:Astrominal|Astrominal]] (revamp)
+|date_added = October 31, 2020 (Difficulty Creation).<br>March 28, 2022 (Revival).
+|hex_color = {{colorbox|#a4bd47}} #a4bd47 (Background)<br>{{colorbox|#000000}} #000000 (Face)|previous_name=NEaT|official_music(s)=[https://www.youtube.com/watch?v=Ppv0iRU_PNg Jukes Towers of Hell OST - neat]|rating=1.25 (Ranging 1.25 » 1.49)|alt_next=|class_range=Baseline|difficulty_range=Baseline to Peak}}
+<h2>Introduction</h2>
+[[File:NEaT resized.png|25px]] <span class="Neat">Neat</span> is the sub-difficulty of the Baseline [[:Category:Class 2|Class 2]] (C2) difficulty [[File:EasyDifficulty.jpg|25px]] [[w:c:jtoh:Easy|Easy]] below [[File:Calmness.png|link=Calm|25px]] [[Calm]], with its exact difficulty rating being between 1.25 and 1.49.
+
+This difficulty was initially meant to be the difficulty for the [https://www.roblox.com/games/8562822414/Eternal-Towers-of-Hell Eternal Towers of Hell] (EToH) [[w:c:jtoh:Mini Tower|Mini Tower]], [[w:c:jtoh:Not Even A Tower|Not Even A Tower]] (NEAT). However, due to balance changes in the Main Difficulty Chart, NEAT then became [[File:SWNew.jpg|link=Switch|25px]] [[Switch]] difficulty instead, since its exact difficulty rating was 1.83 at the time. Later, slightly after the EToH Ring 1 revamp, NEAT was moved to 1.12, which changed NEAT's position to merely [[File:EasyDifficulty.jpg|25px]] [[w:c:jtoh:Easy|Easy]].
+
+Additionally, this difficulty was created by [[User:Dreadful.exe|Dreadful.exe]], and was revamped twice by [[User:IdklolXDXDXD|IdklolXDXDXD]] and [[User:Astrominal|Astrominal]] respectively. And, this difficulty, despite its theming, is not a joke difficulty.
+<h2> Placement </h2>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Placement'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#7A493D;color:white" |'''Peak - Class 1'''
+|-
+|[[File:PeacefulNew.png|50px]]
+|[[Peaceful]]
+|Normal
+| -3
+|-
+|[[File:Playful.png|50px]]
+|[[Playful]]
+|Sub-Difficulty
+| -2.5
+|-
+|[[File:Magnificent Current.png|50px]] 
+|[[Magnificent]]
+|Normal
+| -2
+|-
+|[[File:Facile1.png|50px]]
+|[[Facile]]
+|Sub-Difficulty
+| -1.5
+|-
+|[[File:EffortlesslessIconOoIDC.png|75px]]
+|[[Effortlessless]]
+|Class Finale
+|'''<big>-1</big>'''
+|-
+|[[File:Gravel.png|50px]]
+|[[Gravel]]
+|Normal/Sub-Difficulty
+| -0.5
+|-
+| colspan="4" style="background:#629592;color:white" |'''Baseline - Class 2'''
+|-
+|[[File:Effortless difficulty.png|50px]]
+|[[w:c:jtoh:Effortless|Effortless]]
+|Normal
+|0
+|-
+|[[File:Playgrounddif.png|50px]]
+|[[Playground]]
+|Sub-Difficulty
+|0.33
+|-
+|[[File:Simple.png|50px]]
+|[[Simple]]
+|Sub-Difficulty
+|0.66
+|-
+|[[File:EasyDifficulty.jpg|50px]]
+|[[w:c:JToH:Easy|'''Easy''']]
+|Normal
+|1
+|-
+|[[File:NEaT.png|50px]]
+|<span class="Neat">Neat</span>, you're here
+|Sub-Difficulty
+|1.25
+|-
+|[[File:Calmness-New.jpeg|50px]]
+|[[Calm]]
+|Normal
+|1.5
+|-
+|[[File:SWNew.jpg|50px]] 
+|[[Switch]] 
+|Sub-Difficulty
+|1.75 
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Low - Class 2'''
+|-
+|[[File:MediumDifficulty.jpg|50px]]
+|[[w:c:jtoh:Medium|'''Medium''']]
+|Normal
+|2
+|-
+|[[File:Normal2.png|50px]]
+| [[Normal]]
+|Sub-Difficulty
+|2.25 
+|-
+|[[File:Intermediate.png|50px]] 
+|[[Intermediate]]
+|Normal
+|2.5 
+|-
+|[[File:Rewardable diff.png|50px]]
+|[[Rewardable]]
+|Sub-Difficulty
+|2.75
+|-
+|{{Class1Difficulties|Hard|50px}}
+|[[w:c:jtoh:Hard|'''Hard''']]
+|Normal
+|3
+|}
+<h2> Icon Representation </h2>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |''<big><big><big>Icon Representation</big></big></big>''
+|-
+! colspan="2" |<big>''Icon, Version and Date''</big>
+!<big>''Description:''</big>
+|-
+! Current
+!October 31st, 2020<ref>[[File:NEaT.png|27px]] Unresized version</ref>
+| rowspan="2" style="background:linear-gradient(180deg, #a4bd47, #acc451); color: #000000" |The current icon is quite simple, with only a pixel art happy face on a yellowish green background.
+|-
+| colspan="2" style="background:linear-gradient(180deg, #a4bd47, #acc451); color: #000000" |[[File:NEaT_resized.png|250x250px]]
+|-
+!Alternate
+!September 15, 2025
+| rowspan="2" style="background:linear-gradient(0deg, #5A4C42, #A3A2A5, #FF9494, #0989CF, #F5CD30); color: #000000"|Alternate icon is simple too, it represents [[w:c:jtoh:Not Even A Tower|Not Even A Tower]] floor colors with saturated border
+|-
+| colspan="2" style="background:linear-gradient(0deg, #5A4C42, #A3A2A5, #FF9494, #0989CF, #F5CD30); color: #000000"|[[File:NeatAlt.png|250x250px]]
+|}
+<h2> Obstacles </h2>
+<table class="table">
+<tr>
+<th class="table">Obstacle Table</th>
+<th class="table ot" style="background-color: #a1bf82">Bottom<br><small>(1.25-1.27)</small></th>
+<th class="table ot" style="background-color: #8cab75">Bottom-Low<br><small>(1.28-1.3)</small></th>
+<th class="table ot" style="background-color: #799767">Low<br><small>(1.31-1.33)</small> </th>
+<th class="table ot" style="background-color: #66845a">Low-Mid<br><small>(1.34-1.36)</small></th>
+<th class="table ot" style="background-color: #54714d">Mid<br><small>(1.37-1.39)</small></th>
+<th class="table ot" style="background-color: #445e40">Mid-High<br><small>(1.4-1.42)</small></th>
+<th class="table ot" style="background-color: #344c34">High<br><small>(1.43-1.45)</small></th>
+<th class="table ot" style="background-color: #253b27">High-Peak<br><small>(1.46-1.48)</small></th>
+<th class="table ot" style="background-color: #182a1b">Peak<br><small>(1.49)</small></th>
+</tr>
+<tr>
+<th class="table">Jump (Unclimbable)</th>
+<td class="table ot b">4.203 studs</td>
+<td class="table ot bl">4.227 studs</td>
+<td class="table ot l">4.251 studs</td>
+<td class="table ot lm"> 4.275 studs</td>
+<td class="table ot m"> 4.298 studs </td>
+<td class="table ot mh"> 4.322 studs</td>
+<td class="table ot h"> 4.346 studs </td>
+<td class="table ot hp"> 4.37 studs </td>
+<td class="table ot p">4.393 studs</td>
+</tr>
+<tr>
+<th class="table">Jump (Climbable)</th>
+<td class="table ot b"> 4.425 studs</td>
+<td class="table ot bl">4.45 studs</td>
+<td class="table ot l">4.475 studs</td>
+<td class="table ot lm">4.5 studs</td>
+<td class="table ot m">4.525 studs</td>
+<td class="table ot mh">4.55 studs</td>
+<td class="table ot h">4.575 studs</td>
+<td class="table ot hp">4.6 studs</td>
+<td class="table ot p">4.625 studs</td>
+</tr>
+<tr>
+<th class="table">Wraparound</th>
+<td class="table ot b">1.761 studs</td>
+<td class="table ot bl">1.782 studs</td>
+<td class="table ot l">1.803 studs </td>
+<td class="table ot lm">1.825 studs</td>
+<td class="table ot m">1.846 studs</td>
+<td class="table ot mh"> 1.867 studs</td>
+<td class="table ot h">1.888 studs</td>
+<td class="table ot hp">1.91 studs </td>
+<td class="table ot p">1.931 studs</td>
+</tr>
+<tr>
+<th class="table">High Jump</th>
+<td class="table ot b">5.088 studs </td>
+<td class="table ot bl">5.117 studs</td>
+<td class="table ot l">5.146 studs</td>
+<td class="table ot lm">5.175 studs</td>
+<td class="table ot m">5.203 studs</td>
+<td class="table ot mh">5.232 studs</td>
+<td class="table ot h">5.261 studs</td>
+<td class="table ot hp">5.29 studs</td>
+<td class="table ot p">5.318 studs</td>
+</tr>
+</table>
+<h2> Towers </h2>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Towers
+|-
+! Tower Image
+!Tower Name
+!Tower Difficulty
+|-
+| colspan="3" style="background: deepskyblue; color: black" |Non-Fictional Towers
+|-
+|[[File:Cathedralosa.PNG|180px]]
+|CaoSA (QToN) - [https://www.roblox.com/games/10406214285/ToATH-CAoSA-R2-Quasis-Towers-of-Nonsense Cathedral of Sunrise Ascension]
+|[[File:NEaT resized.png|27px]] Low-Mid <span class="Neat">Neat</span>// [[File:EasyDifficulty.jpg|link=w:c:jtoh:Easy|27x27px]] Bottom-Low [[w:c:jtoh:Easy|Easy]] (1.31)
+|-
+|[[File:Tower of Silly Stuff.webp|254x254px]]
+|ToSS (AToS) - [[w:c:atos:Tower of Silly Stuff|Tower of Silly Stuff]]
+|[[File:NEaT resized.png|27x27px]] Mid <span class="Neat">Neat</span>// [[File:EasyDifficulty.jpg|link=w:c:jtoh:Easy|27x27px]] Low [[w:c:jtoh:Easy|Easy]] (1.36)
+|-
+| colspan="3" style="background: forestgreen; color: white" |EToH Towers
+|-
+|[[File:Not Even A TowerNEAT.png|175x175px]]
+|NEAT (EToH) - [[w:c:jtoh:Not Even A Tower|Not Even A Tower]]
+|[[File:NEaT resized.png|27x27px]] Technically <span class="Neat">Neat</span>// [[File:EasyDifficulty.jpg|link=w:c:jtoh:Easy|27x27px]] Bottom-Low [[w:c:jtoh:Easy|Easy]] (1.11)
+|-
+|[[File:Tower of Annoyingly Simple Trials.webp|305x305px]]
+|ToAST (EToH) - [[w:c:jtoh:Tower of Annoyingly Simple Trials|Tower of Annoyingly Simple Trials]] (old version)
+|[[File:NEaT resized.png|27x27px]] Low <span class="Neat">Neat</span>// [[File:EasyDifficulty.jpg|link=w:c:jtoh:Easy|27x27px]] Low [[w:c:jtoh:Easy|Easy]] (1.3)
+|-
+|[[File:Tower of Frame Carvings.png|311x311px]]
+|ToFC(M) (EToH) - [[w:c:jtoh:Tower of Frame Carvings|Tower of Frame Carvings]]
+|[[File:NEaT resized.png|27x27px]] Peak <span class="Neat">Neat</span>// [[File:EasyDifficulty.jpg|link=w:c:jtoh:Easy|27x27px]] Mid [[w:c:jtoh:Easy|Easy]] (1.49)
+|}
+<h2> Trivia </h2>
+*Many difficulty chart towers featured this difficulty as a sub-difficulty from [[w:c:jtoh:Easy|Easy]].
+*This revamp (27th august) was asked by the original creator permission to be revamped once again.
+*Grammar fixed by [[User:Sushislushwiki|Sushislushwiki]].
+*add!.
+<h2> References </h2>
+<references />
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Sub-Difficulties]]
+[[Category:Two color icon]]

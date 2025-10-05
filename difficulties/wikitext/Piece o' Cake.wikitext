@@ -1,0 +1,87 @@
+<div style="background-color:#b783c7;background-image:
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px; color: white;padding: 50px 20px; border-radius: 100px 100px"><div style="Font-family: Fredoka One"><div style="color:000000">{{NoticeScrollboxNew|Notices={{Humanly Possible}}{{Classic}}
+}}
+{{NewDifficultyInfobox|title1=Piece O' Cake|image1=<gallery>
+Piece O Cake UHD.jpeg|New
+Piece o cake old.png|Old
+Piece o' Cake Icon by MoldyScribble.png|Unofficial
+vanilla-cake-sprinkles.jpg|Joke
+</gallery>|caption1=Easy Peezy Lemon Squeezy.|class=High Class 1|rating=-5.5|previous={{Class0Difficulties|Pleasant}} [[Pleasant]]|next=[[File:Tutorial.png|30px]] [[Tutorial]]|decal_id=New: 6229095252
+Old: 6383396443|date_added=November 20th, 2020|creator(s)=[[User:JustAnotherKidLmao|JustAnotherKidLmao]] (page creator)|type=Sub-Difficulty|main_difficulty={{Class0Difficulties|Pleasant}} [[Pleasant]]|alt_previous=[[File:New_Eternified_Partyness.png|30px]] [[Eternified Partyness]]}}
+==What is '''Piece o' Cake'''?==
+<span style="text-shadow:#FE95FD">'''Piece o' Cake'''</span> is a sub-difficulty by the creators of [[Great Citadel of Custom, Impossible, and Normal Difficulties]] located in between {{Class0Difficulties|Pleasant}} [[Pleasant]] and [[File:Tutorial.png|30px]] [[Tutorial]]. This is also the first difficulty that requires you to move your camera (but only by a bit), all obstacles here are the exact same garbage, walking, climbing slopes, and maybe climbing ladders. This difficulty is really easy, most noobs can beat this. (Especially when you are smart enough to avoid [[File:New_Eternified_Partyness.png|30x30px]] [[Eternified Partyness]]'s fakeout)
+
+It's the 10th hardest difficulty in Class 1. It's easier than {{Class0Difficulties|Pleasant}} [[Pleasant]] but harder than [[File:Tutorial.png|30px]] [[Tutorial]]. Overall this difficulty is extremely easy, the day you can join Roblox is the day you beat this.
+
+==Icon Representation==
+{{IconRepresentation|image=[[File:Piece O Cake UHD.jpeg|50px]]|color=#fe95fd|description=This icon has a pink background (RGB: 254, 149, 253) with a dark gray (RGB: 52, 53, 62) Emoticon ":O" meaning getting surprised with something. ([https://create.roblox.com/store/asset/6229095252/Piece-o-Cake?externalSource=www decal here])|old_image=[[File:Piece o cake old.png|50px]]|old_color=#E91F63|old_description=The old icon features a reddish background with a ":[]" face on it.|alt_image=[[File:Piece o' Cake Icon by MoldyScribble.png|50px]]|alt_color=#E3ACE1|alt_title=Unofficial|alt_description=This icon by ''MoldyScribble'' features a ":O" emoticon on a pink background. When compared to the current icon, this icon made the emoticon smaller and used a stroke instead of filling the characters. Along with that, its background is more detailed than the other two icons, which are solid color backgrounds.}}
+
+==Towers:==
+
+===Towers in this difficulty:===
+
+* Tower of Window-Shopping In Bakeries (ToWSIB) (Fictional) (UoFTE Temperature 2)
+*Steeple of Cake Exploring (SoCE) (Fictional) ([[Galaxies of Unoriginal Difficulties|GoUD]] Ring 3) ( Mid-High )
+
+=== Towers with this difficulty:===  
+
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Custom, Impossible, and Normal Difficulties]] (GCoCIaND) (Floor 11)
+*Earth Navel of Too Many Difficulties (ENoTMD) (Floor 19)
+*Many more
+
+== Obstacles:==
+
+===Baseline===   
+
+*Walking Straight for 1 minute
+*A 2.3 climbable stud jump
+* Look at 15 clouds in the game
+* Eat a small piece of cake
+
+===Low===
+
+*Walking on 65 Slopes
+*2.35 Stud long jump
+*Send 10 messages in chat
+*Eat a medium piece of more yummy cake
+
+===Mid===
+
+*Moving Camera Around 25 times
+*0.4 stud unjumpable jump
+*0.22 Stud wraparound
+
+===High=== 
+
+*Walk straight for 15 seconds
+*0.45 Stud unjumpable jump
+*0.22 Stud wraparounds
+
+===Peak=== 
+
+*Eat a slice of cake
+*0.65 Stud unjumpable jump.
+* 0.235 Stud wraparounds
+
+==Gallery ==
+
+<gallery>
+File:Piece O Cake UHD.jpeg|New Piece o' Cake Icon
+File:Piece o cake old.png|Old Piece o' Cake icon
+File:Piece o' Cake Icon by MoldyScribble.png|Icon by MoldyScribble
+</gallery>
+
+==Continuing From This Point==
+I recommend you move onto {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]], but if you just want to try other ridiculously easy difficulties, move onto [[File:Tutorial.png|30px]] [[Tutorial]].
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 1]]
+[[Category:Emoticon Difficulties]]
+[[Category:Two color icon]]
+[[Category:Unfailable Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Classic]]

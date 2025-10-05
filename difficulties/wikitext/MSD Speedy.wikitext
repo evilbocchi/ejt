@@ -1,0 +1,27 @@
+{{DISPLAYTITLE:<span style="color:#e0e404;">'''MSD Speedy'''</span>}}
+{{DifficultyTab
+|MSD Speedy
+|textcolormain = 000
+|type = Event / Joke
+|blank1 =
+|blank2 =
+}}
+{{DifficultyInfobox
+|title1=MSD Speedy
+|image1=MSDSpeedyIcon.png
+|type=Joke
+|date_added=January 19, 2025
+}}
+{{Difficulty|MSDSpeedy|20px}} [[MSD Speedy|<span style="color:#e0e404;">MSD Speedy</span>]] is a joke difficulty which was released alongside [[The Stronghold]]. There are currently no towers of this difficulty, but there used to be a temporary tower in [[The Stronghold]] of this difficulty.
+{{Header|Towers}}
+<tabber>
+The Stronghold=
+<div align="center"><font size="5">{{Emblem|TS}} [[The Stronghold]] {{Emblem|TS}}</font></div>
+*BCP - [[w:c:etoh-misc:Bobs Coinventure Pillar|Bobs Coinventure Pillar]]
+</tabber>
+
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:The Stronghold]]

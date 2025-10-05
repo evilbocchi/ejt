@@ -1,0 +1,67 @@
+{{Humanly Possible}}
+{{NewDifficultyInfobox|image1=ShatteredBabass.png|title1=Shattered Babass|caption1=He's been shattered, how bad :(|class=[[:Category:Class 0|Class 0]]|rating=-18.5|type=*Chain
+*Sub-Difficulty|previous=[[File:Unlosable new.png|frameless|30px]] [[Unlosable]]|next=[[File:Frivolous.jpg|30px]] [[Frivolous]]|alt_previous=[[File:Roll Difficulty.png|30px]] [[Unlosable/Old#Roll|Roll]] or [[File:Mazeophobia.jpg|30px]] [[Unlosable/Old#Mazeophobia|Mazeophobia]]|original_name=Unshattered Babass|previous_name=Unshattered Babass|chain(s)=[[:Category:Babass Difficulties|Babass Difficulties]]|date_added=17th April, 2021|creator(s)=[[User:LautyrrIAm|LautyrrIAm]]|decal_id=6708826357}}
+''This difficulty belongs to [[LIA's Babass FamiIy]] (LIABF / LBF). The LBF is inspired by RagingEngineer's [[Babass dficuklty]] and shouldn't be considered an imposter at all levels. No pages upon the LBF are purposed to be in need for any sort of deletion or hatred. If you dislike the LBF, that's fine even if you like it.''
+==What is [[File:ShatteredBabass.png|frameless|51x51px]] '''<span style="color: #aa00ff;">Shattered Babass</span>'''?==
+[[File:ShatteredBabass.png|frameless|30x30px]] '''<span style="color: #aa00ff;">Shattered Babass</span>''' is a Class 0 Difficulty coming before {{Class0Difficulties|Automatic|30px}} [[Automatic]] but is after [[File:Unlosable new.png|frameless|30x30px|]] [[Unlosable]], [[File:Roll Difficulty.png|30px]] [[Unlosable/Old#Roll|Roll]] or [[File:Mazeophobia.jpg|30px]] [[Unlosable/Old#Mazeophobia|Mazeophobia]] This difficulty is the second last automatic difficulty behind obviously {{Class0Difficulties|Automatic|30px}} [[Automatic]]. [[File:ShatteredBabass.png|frameless|30x30px]] '''<span style="color: #aa00ff;">Shattered Babass</span>''' is basically too easy so just skip to Class 1, or even Class 2, but if you ACTUALLY SUCK then stay here for now, actually you know what, skip to {{Class0Difficulties|Automatic|30px}} [[Automatic]] . There is no reason to be on this sub-difficulty (if you aren't in a DCT, that is).
+==Difficulty Obstacles==
+===Low===
+*Complete [[Unlosable]] but the conveyors are slower while having 0 speed.
+*Go through conveyors at 2 speed.
+*Complete [[Automatic]] but the conveyors are 1.3x faster.
+*Wait 225 seconds. 
+===Mid===
+*Complete [[Unlosable/Old#Mazeophobia|Mazeophobia]] but the conveyors are slower while having 0 speed.
+*Complete [[Unlosable/Old#Roll|Roll]] but you are slower while having 0 speed.
+*Do a 100 stud jump, but you automatically go to the other side using a conveyor.
+*Wait 235 seconds. 
+===High===
+*Go through conveyors at 16 speed but with 5 spinners at 5 velocity that do 1 damage.
+*Go through elevators at 50 velocity but with 4 spinners at 3 velocity that do 2 damage.
+*Rebeat [[Just Air]] 3 times.
+*Wait 245 seconds. 
+==Towers==
+*Steeple of Patience and Procrastination - SoPaP
+*Beans a jump per difficulty (really high and kinda rng)
+*Steeple of Felix the ДА Mini Towers (SoFFtД)
+*[https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Tower of Anticlimatic Entrances] (ToAE)
+*[[Tower of Babass Movement]] (ToBM)
+==Trivia==
+*This is part of LIA's Babass Family, which was inspired by [[Babass dficuklty|Babass]].
+*There was an [[File:ShatteredBabassUnshattered.png|frameless|30x30px]] <span style="color: #aa00ff;">Unshattered Babass</span> after this sub difficulty, making it the second easiest LBF difficulty.
+*[[File:ShatteredBabass.png|frameless|30x30px]] '''<span style="color: #aa00ff;">Shattered Babass</span>''' is the first requested Babass Difficulty of the LBF.
+
+==Babass Navagation==
+To check all the Babasses, this is all of them.
+*[[File:DeceasedBabass.png|frameless|30x30px]] <span style="color: #aa1025;">Deceased Babass</span> (Doesn't Exist)
+*[[File:UnconsciousBabass.png|frameless|30x30px]] <span style="color: #2575cc;">Unconscious Babass</span> (Doesn't Exist)
+*[[File:ShatteredBabass.png|frameless|30x30px]] '''<span style="color: #aa00ff;">Shattered Babass</span> (You Are Here)'''
+*[[File:ShatteredBabassUnshattered.png|frameless|30x30px]]<span style="color: #aa00ff;">[[User blog:FOEGS720/Unshattered Babass|Unshattered Babass]]</span>
+*[[File:GuestBabass.png|frameless|38x38px]] <span style="color: #dddddd;">Guest Babass</span> (Doesn't Exist)
+*[[File:NoobBabass.png|frameless|30x30px]] <span style="color: #eeff50;">[[User blog:EpicTheGamer2014/Noob Babass|Noob Babass]]</span>
+*[[File:Serene Babass New.webp|frameless|30x30px]] <span style="color: #50ff50;">[[User blog:EpicTheGamer2014/Serene Babass|Serene Babass]]</span>
+*[[File:XDBabass.png|frameless|30x30px]] <span style="color: #aa9040;">XD Babass</span> (Doesn't Exist)
+*[[File:ImimimJnijnnjevnj_f_ng_g.jpg|frameless|30x30px]] [[User blog:EpicTheGamer2014/Black Babass|<span style="color: #000000;">Black Babass</span>]]
+*[[File:A-B New Resized.jpg|frameless|30x30px]]  [[Average Babass]]
+*<span style="color: #ffff00;">Mediocre Babass</span> (Doesn't Exist) (No Icon)
+*[[File:Supremebab.webp|frameless|30x30px]] <span style="color: #aa00ff;">Supreme Babass</span> (Doesn't Exist)
+*[[File:PrimalBabass2023.jpg|frameless|30x30px]] [[Primal Babass|<span style="color: #250000;">Primal Babass</span>]]
+*[[File:PeripheralBabass.png|frameless|106x106px]] <big><big><span style="color: #ffffff;">'''Peripheral Babass'''</span></big></big> (Doesn't Exist)
+*[[Babass dficuklty|<big><big><big><big><big>'''<span style="text-shadow: white 0px 0.5px 6px;"><span style="color: #aa1025;">B</span><span style="color: #2575cc;">a</span><span style="color: #aa00ff;">ba</span><span style="color: #dddddd;">s</span><span style="color: #eeff50;">s</span> <span style="color: #50ff50;">d</span><span style="color: #aa9040;">f</span><span style="color: #000000;">i</span><span style="color: #cc7575;">c</span><span style="color: #ffff00;">u</span><span style="color: #aa00ff;">k</span><span style="color: #250000;">l</span><span style="color: #ffffff;">ty</span></span>'''</big></big></big></big></big>]]
+
+==Moving On==
+Go to {{Class0Difficulties|Automatic|30px}} [[Automatic]] as it’s the next difficulty. Beyond this point, automacy is not helping you so will need to start moving. You can skip to something like [[File:New icon Delight.png|frameless|30x30px]] [[Delightful]] or [[File:EffortlesslessIconOoIDC.png|frameless|30x30px]] [[Effortlessless]] or even [[File:EasyDifficulty.jpg|frameless|30x30px]] [[w:c:jtoh:Easy|Easy]] if you want a challenge.
+
+Whatever you want to do is your choice. If you don't like what your up to doing, then you can [[The First Difficulty|quit the chart]] and do something else like play Welcome To Bloxburg (if you have the robux anyways), Minecraft (if you have the money anyways) or some other game you enjoy.{{DifficultiesNavbox}}
+[[Category:Class 0]]
+[[Category:Important Page]]
+[[Category:Possible]]
+[[Category:Babass Difficulties]]
+[[Category:This page will never be deleted.]]
+[[Category:Unfailable Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Chains]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Starter Zone]]

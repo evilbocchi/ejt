@@ -1,0 +1,198 @@
+{{DISPLAYTITLE:<span id="malevolent">Malevolent</span>}}
+{{CSS|content=<nowiki>
+/* Fonts Used */
+/* Darkmode CSS */
+/** There is no light in Malevolent; both paths lead you to darkness. **/
+.theme-fandomdesktop-dark, .theme-fandomdesktop-light {
+    --theme-page-background-color: rgba(25, 25, 25, 0.75); 
+    --theme-page-background-color--secondary: rgba(72, 50, 72, 0.75);
+    --theme-link-color: #CA84F6;
+    --theme-border-color: rgb(255, 105, 180);
+       .page-side-tool {
+        border: solid 2px rgb(128, 128, 128);
+        box-shadow: 0px 0px 10px rgb(128, 128, 128);
+           }
+    --theme-community-header-color: hotpink;
+    --theme-sticky-nav-background-color: rgb(128, 128, 128);
+    --theme-sticky-nav-text-color: white;
+    --theme-sticky-nav-text-color--hover: hotpink;
+}
+
+/* Text styling */
+.portable-infobox, .page-content p, .table, .page-content ul, .page-content ol, .page-content li, .page-content q {
+    line-height: 1.6;
+    
+    color: #EEE
+}
+.page-content p, .page-content ul, .page-content ol, .page-content li {
+    line-height: 1.6
+}
+
+h2.head {
+    text-align: center;
+    color: #FFF;
+    border-bottom: 2px solid #FFF
+}
+
+h3.head {
+    color: #FFF
+}
+
+/* Difficulty Name */
+#malevolent {
+    background: linear-gradient(black, black, #51D3F8, #FCA0FC, #51D3F8, black, black);
+    background-clip: text; 
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow:0 2px 5px purple;
+    font-weight: bold;
+    font-family: Kefa
+}
+
+/* Infobox styling */
+.portable-infobox {
+    background-color: #141414;
+    border-image: linear-gradient(#895589, #555, #895589) 30;
+    box-shadow: inset 0 0 0 3px #000;
+    border-width: 3px
+}
+.portable-infobox .pi-border-color {
+    border-color: #000000;
+}
+.portable-infobox .pi-image {
+    padding-left: 3px;
+    padding-right: 3px
+}
+.portable-infobox .pi-caption {
+    color: #F5F5F5;
+}
+.portable-infobox .wds-tabs__tab {
+    color: #f5f5f5;
+}
+.portable-infobox .pi-title {
+    font-weight: bold;
+    color: #ffffff;
+}
+.portable-infobox .pi-header {
+    font-weight: bold;
+    color: #ffffff
+}
+.portable-infobox .pi-data-label {
+    letter-spacing: 0.5px;
+}
+.portable-infobox .pi-data-value {
+    color: #C8C8C8;
+}
+
+/* Table styling */
+/** Reduced Padding **/
+.rp {
+    padding: 12px 0.5em !important
+}
+</nowiki>}}
+<div style="background: darkpurple; padding:1em; border-left: 5px solid magenta">
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Former Class Finale|reason=Subs aren’t counted as class finales if they’re the sub of a class finale.}}{{Large Page}}}}
+<p style="margin:2em"></p>
+{{JToHW Quote
+|text=A prepice. A barrier of sorts. By all technicalities, this is the finale of Class 4. However, this is not. Still, it is a major challenge nonetheless. Every technique must be used to complete it.
+|quoter=???}}
+<p style="margin:2em"></p>
+{{NewDifficultyInfobox
+|gradient=#000,#000
+|title1=<big><big><span id="malevolent">Malevolent</span></big></big>
+|image1=Malevolence.png
+|caption1=At the heart of malice you find malevolence.
+|class=[[:Category:Class 4|Class 4]]
+|rating=30.66
+|type=Sub-Difficulty
+|previous={{Class6Difficulties|Malicious}} [[w:c:jtohs-hardest-towers:Malicious|Malicious]]
+|next=[[File:BuildingNew.png|25px]] [[Building]]
+|alt_next=[[File:Autism but resized.png|25px]] [[Autism]]
+|class_range=Peak/Skyline
+|difficulty_range=Baseline to Peak
+|decal_id=*[https://www.roblox.com/library/98496393228857/Malevolent Current]
+*[https://create.roblox.com/store/asset/131100093465010/Malevolent Second Newest]
+*[https://create.roblox.com/store/asset/15290183913/Malevolent Old]
+*[https://create.roblox.com/store/asset/15113352627/Malevolent Older]
+*[https://www.roblox.com/library/11783982435/Malevolent Original]
+|main_difficulty={{Class6Difficulties|Malicious}} [[w:c:jtohs-hardest-towers:Malicious|Malicious]]
+|sub_difficulty(ies)=
+|official_music(s)=[https://www.youtube.com/watch?v=xH3M50axqPM Flood Escape 2 - Poisonous Chasm]
+|creator(s)=* Owner: [[User:EpicToastOkay|EpicToastOkay]]
+* Creator: [[User:Viranenthusiast|Viranenthusiast]]|original_name=Tool Assisted 
+|previous_name=Tool Assisted Speedrun
+|original_short_name=TAS
+|previous_short_name(s)=TAS}}
+<h2 class="head">What is [[File:Malevolent.png|25px]] <span id="malevolent">Malevolent</span>?</h2>
+[[File:Malevolent.png|25px]] <span id="malevolent">Malevolent</span> is a Peak Class 4 sub-difficulty of {{Class6Difficulties|Malicious}} [[w:c:jtohs-hardest-towers:Malicious|Malicious]] that comes after [[File:Autism but resized.png|25px]] [[Autism]], but before [[File:BuildingNew.png|25px]] [[Building]]. This difficulty is categorized in the Human Impossibility category, experiencing the factuality that raw human skill is not enough to be able to conquer this difficulty. One would be better off using other assists to aid them in their journey, such as modifying jump power and speed attributes. 
+
+This was also formerly regarded as the TAS limit because the creator had found out on YouTube that the hardest legitimate jump using a normal TAS (no modifications, no exploits, no glitches, just a normal TAS) documented on YouTube is a 15.5 stud jump, and the hardest wraparound documented on YouTube using a legitimate TAS is around 15 studs. However, this was inconsistent with the way TAS operates, hence it is just another meaningless difficulty.
+
+Anyone attempting this cannot consistently do these jumps even with the utilisation of '''Tool Assisted Speedrun''', and as such towers in this difficulty still aren’t completely TAS possible. However, as human skill keeps increasing, so will the size of the jumps doable with TAS. So, given a few years, towers in this difficulty will be TAS possible.
+<h2 class="head">Icon Representation</h2>
+{|class="fandom-table mw-collapsible mw-collapsed" style="width: 100%; line-height: 1.4; text-align: center"
+!colspan="3"|<big><big>Icon Representation</big></big>
+|-
+!colspan="2"|<big>Icon, Version<br>and Date</big>
+!<big>Description</big>
+|-
+|class="rp"|Current
+|class="rp"|August<br>9th, 2024
+|rowspan="2"|This icon was created by [[User:Sushislushwiki|Sushislushwiki]], which is similar to the previous icon, barring the pentagram being replaced with a 13-pointed star with a top-to-bottom white-to-purple shadow. The specific dark purple used as the background can be described in RGB as {{Colorbox|#1F001F}} (31, 0, 31), which is this difficulty's rating rounded up to the nearest whole number.
+|-
+|colspan="2" style="padding: 2px"|[[File:Malevolent.png|200px]]
+|-
+|class="rp"|Second Newest
+|class="rp"|May 30th,<br>2024
+|rowspan="2"|The icon is a black to purple gradient, with a grey to light pink border gradient surrounding the outside. In the middle is a pentagram with ten spokes.
+|-
+|colspan="2" style="padding: 2px"|<!-- Change the size of the image by changing the number after "scale-to-width-down/" to the desired size in pixels. --> https://static.wikia.nocookie.net/jtohs-joke-towers/images/3/39/Malevolent.png/revision/20241101182857/scale-to-width-down/200
+|-
+|class="rp"|Unused
+|class="rp"|May 15th,<br>2024
+|rowspan="2"|This has a pink pentagram with five spokes in the middle, with a black background and a purple outline on the outer regions of the icon.
+|-
+|colspan="2" style="padding: 2px"|[[File:MalevolentUnused.webp|200px]]
+|-
+|class="rp"|Old
+|class="rp"|October<br>25th, 2023
+|rowspan="2"|There is a bunch of squares rotated 45 degrees in the background which are hollow and have a sky blue outline. In the middle is a pink >_> emoticon, also rotated. There is a darker overlay on the border regions of the outside of the icon.
+|-
+|colspan="2" style="padding: 2px"|[[File:MalevolentOld2.png|200px]]
+|-
+|class="rp"|Older
+|class="rp"|July 23rd,<br>2023
+|rowspan="2"|This is a google image of a synthwave background, resized to be a square.
+|-
+|colspan="2" style="padding: 2px"|[[File:MalevolentOld.png|200px]]
+|-
+|class="rp"|Original
+|class="rp"|September<br>24th, 2022
+|rowspan="2"|This icon features stripes of all colors in the rainbow, from red to pink and even magenta and brown. There is a red >_> emoticon in the middle, with some filters applied to it and the whole icon.
+|-
+|colspan="2" style="padding: 2px"|[[File:Tool Assisted Speedrun.png|200px]]
+|}
+<h2 class="head">Obstacles</h2>
+{{ObstacleTableRevamp|JumpClimbableBase=17.5|Increment=0.062}}
+<h2 class="head">Towers</h2>
+<h3>Towers in this difficulty</h3>
+*Core (Tower) (C)
+*Tower of Former Potency (ToFP)
+*Steeple of Ultimate Failure (SoUF)
+*[[Tower of TAS Abuse]] (ToTA)
+<h3>Towers with this difficulty</h3>
+*[[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (MoEJD:R:P1)
+<h2 class="head">Trivia</h2>
+*This could have been considered a sequel to [[File:TheHumanLimit.png|25px]] [[The Human Limit]].
+*Hypothetically, if JToH utilised the JHT chart instead of the normal chart, this would be the equivalent of TooHard.
+*Prior to the ODC becoming the SDC, and this difficulties loss of fabled status, this was a fabled difficulty.
+*Prior to the deprecation of the TAS standard, this was potentially within a volatile portion of the chart. Thus, people were hypothetically free to move it with actual justification.
+*This difficulty was previously called '''Tool Assisted Speedrun'''.
+<h2 class="head">Continuing on from this point</h2>
+One completing this difficulty would have formerly been forced to use other methods in order to beat difficulties now, like exploits. If they wanted to, one would progress onto [[File:BuildingNew.png|25px]] [[Building]], which is the first difficulty of Class 5, or [[File:MaliciouszetaNEW.png|25px]] [[User blog:EpicTheGamer2014/Malicious-Zeta|Malicious-Zeta]] within the CDC.
+{{DifficultiesNavbox}}
+</div>
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 4]]

@@ -1,0 +1,85 @@
+__NOTOC__{{Humanly Possible}}{{Classic}}{{NewDifficultyInfobox|title1=Walk A Slope|caption1=Your knowledge of obbying is still developing. Your next difficulty will test you to obstacles that you may be familar to.|class=1|type=• Unoffical Sub-Difficulty
+• Humanly Possible|previous=[[File:Press a Key.png|25px]] [[Press a Key]]|next=[[File:Cat.png|25px]] [[Climb A Truss]]|alt_previous=[[File:2Tap2Move.webp|25px]] [[Tap to Move]] (sub difficulty)|class_range=Bottom|difficulty_range=Low-High|removal_reason=Useless difficulty|revival_date=11 / 4 / 23|image1=[[File:WAS.png]]|rating=-12.33|alt_next=|creator(s)=• Reviver: Astro6284
+• Creator: Over-Ship|short_name=WAS|alt_names=Climb a Slope|date_added=18 / 11 / 20|date_removed=13 / 11 / 22?|hex_color=#585858 and #8E4041|rbg_color=88, 88, 88 and 142, 64, 65|main_difficulty=[[File:Press a Key.png|35px]] [[Press a Key]]|decal_id=[https://create.roblox.com/store/asset/13407857912/Walk-A-Slope 13407857912]}}
+
+==Introduction - Walk A Slope==
+Slopes are used for everything from obbies to roofs for buildings to escalators. But in this difficulty, you will be learning about walking through different types of slopes, from steep to wide. Slopes look like a rotated (often by 45 degrees) part that you can walk on, and thus you are able to gain speed by walking down a slope (only in real life) because of your momentum. You may also learn to do harder variants of obstacles you have previously done (like climbing a truss or walking), but the next difficulty will challenge you to use your skills on these new obstacles you have learned through this class. WAS is a Class 1 difficulty consisting of a slope-walk.                                                                          
+
+==Icon Representation - Walk A Slope==
+The icon consists of a top-left grey slope representing the floor color/background and a bottom-right red slope which is the one you walk on. There's text saying "Walk A Slope" in the bottom-left. The slopes are 45 degrees. 
+
+==Obstacles in this Difficulty==
+'''''Note: These obstacles may be inaccurate, so please fix them if needed.'''''
+
+===Low Walk A Slope===   
+
+*Learn how to walk on a normal slope.
+*Learn how to climb a truss or ladder again.
+*Walk 150 studs.
+*Climb 80 studs up.
+
+===Mid Walk A Slope===
+
+*Learn to walk up a steep (up to 5 studs high) slope.
+*Learn to climb a 150° truss.
+*Do a 0.3 stud gap.
+*Walk 175 studs.
+
+===High Walk A Slope===
+
+*Learn to climb a tall (up to 10 studs high) slope.
+*Climb a 140° truss.
+*Do a 0.35 stud gap.
+*Walk 200 studs.
+
+===Core of Development===
+Now that you have learnt all about slopes, how about other minor obstacles that you may have to use after?
+
+*[[File:Press a Key.png|frameless|30x30px]] '''Press a Key.'''
+*[[File:ClimbATruss1.5.png|frameless|30x30px]] '''Climb a Truss.'''
+*[[File:Press a Button.png|25px]] ''Press a button.''
+* [[File:Placeholder white.PNG|25px]] ''Press a button, then jump.''
+*[[File:FIAHFTTOAT.jpg|25px]] ''Fall into a hole, from the highest point of a tower.''
+* [[File:Press a Key and Climb a Truss.PNG|25px]] ''Press a key, and climb a truss.''
+* [[File:FDAS.gif|25px]] ''Go down a slope.''
+*[[File:GAKTOAD 2.png|25px]] ''Get a key, so you can open a door.''
+*[[File:GIAB.png|25px]] ''Go into a hole.''
+*[[File:GoAroundAHole.png|25px]] ''Go around a hole.''
+*[[File:GaKTOaDTGIaH new.png|25px]] ''Get a key, so you can open a door, then you can go into a hole.''
+*[[File:Walk Around the Frame.png|25px]] ''Walk around a frame.''
+*[[File:Tap a Key then Press a Key then Hold a Key then Press a Key and Space a Bar then Type a Letter then Type a Word then Climb a Truss then Climb a Ladder then Press a Button then Press a Button and Jump then Walk a Slope then Climb a Slope then Fall Down.svg|frameless|50x50px]] Tap a Key then Press a Key then Hold a Key then Press a Key and Space a Bar then Type a Letter then Type a Word then Climb a Truss then Climb a Ladder then Press a Button then Press a Button and Jump then Walk a Slope then Climb a Slope then Fall Down.. or don't/.
+
+==Towers of / with this difficulty - Walk A Slope==
+
+===Towers of this difficulty===  
+
+*[[SLOPE]]
+*[[Room of Wedge Walking]] 
+*[[Tower of Falling and Avoiding Holes]]
+*[[Vent of Holding W]]
+*[[Edifice of Sloping Quadratics]]
+*[[Tower of Walking The Slopes]]
+
+===Towers with this difficulty=== 
+
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]]
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Endless Difficulty Amplifying]]
+*[[File:Final.png|30x30px]] [[Great Citadel of Hellish Difficulties]]
+
+== Trivia ==
+
+* For a long time, this difficulty was placed after Climb a Truss on the difficulty chart, even though when it was originally made it was placed before. The majority of difficulty chart games with this difficulty still have it placed after CAT, against the creators wishes.
+
+==Continuing on==
+Well, that was a useful but easy skill to learn, but [[File:JumplessDifficulty.webp|25px]] [[Jumpless]] may still be easy for you because it is just a review of all of the motionful skills you have learned since [[File:Press a Key.png|25px]] [[Press a Key]]. So then, good luck on your journey!
+
+(next difficulty: [[Climb A Truss]])
+
+{{DifficultiesNavbox}}
+[[Category:Class 1]]
+[[Category:Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Classic Difficulty]]
+[[Category:PaKs]]
+[[Category:Sub-Difficulties]]
+[[Category:Starter Zone]]

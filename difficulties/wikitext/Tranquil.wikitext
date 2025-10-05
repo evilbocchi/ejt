@@ -1,0 +1,81 @@
+{{Background|File=TranquilBG.jpeg}}
+{{InfuriatingTheme}}
+{{Humanly Possible}}
+----
+{{JToHW Quote
+|text=Kind of unfortunate that [[File:Heaven.webp|30px]] '''Heaven''' was deleted, the difficulty was kinda cool...
+|quoter=[[File:Vira.png|30px]] [[User:Viranenthusiast|vira]]}}
+----
+{{Redirect
+|Previous=[[File:WAS.png|30px]] [[Walk A Slope]]
+|Current=[[File:Tranquil2024.png|30px]] <span style="background:linear-gradient(to right, cyan, white, cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Tranquil'''</span>
+|Next=[[File:JumplessResized.PNG|30px]] [[Jumpless]]}}
+{{NewDifficultyInfobox
+|title1=<span style="background:linear-gradient(to right, cyan, white, cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Tranquil'''</span>
+|image1=Tranquil2024.png
+|class=1
+|rating=-11.5
+|type=Sub-Difficulty
+|previous=[[File:Cat.png|30px]] [[Climb A Truss|Climb a Truss]]
+|next=[[File:JumplessResized.PNG|30px]] [[Jumpless]]
+|alt_previous=[[File:WAS.png|30px]] [[Walk A Slope|Walk a Slope]]
+|class_range=Low
+|decal_id=127709890986973
+|main_difficulty=[[File:Cat.png|30px]] [[Climb A Truss|Climb a Truss]]
+|creator(s)=[[File:Vira.png|30px]] [[User:Viranenthusiast|vira]]
+|date_added=16/5/24}}
+==Description==
+[[File:Tranquil2024.png|30px]] <span style="background:linear-gradient(to right, cyan, white, cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Tranquil'''</span> is a Class 1 sub-difficulty with a rating of -11.5, succeeding the original heaven difficulty. It is between [[Climb A Truss|Climb a Truss]] and [[Jumpless]], as a sub of the former. Its location suggests that obbies within this difficulty are elementary and simplistic.
+
+[[File:Tranquil2024.png|30px]] <span style="background:linear-gradient(to right, cyan, white, cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Tranquil'''</span> delivers readily completable and surpassable obstacles that do not impede on progress severely, rendering them easily comprehensible. Additionally, as it is the predecessor of a JET difficulty, obstacles are still simplistic.
+==Icon Representation==
+{{IconRepresentation|difficulty=Tranquil|color=skyblue|title=Current Icon|image=[[File:Tranquil2024.png|100px]]|description=This is a rather simplistic icon as it contains a simple white smiling emoticon in the middle, and a gradient from teal at the top to blue at the bottom.|old_color=cyan|old_title=Old Icon|old_image=[[File:Tranquilness.png|100px]]|old_description=The icon contains a window with a night sky behind, with the moon in view and raindrops. The wall has a teal and blue checkerboard pattern.|alt_color=grey|alt_title=Unused Icon|alt_image=[[File:TranquilOG.png|100px]]|alt_description=It is the same as the old icon, but worse.}}
+==Obstacles==
+===Lower '''[[File:Tranquil2024.png|30px]] <span style="background:linear-gradient(to right, cyan, white, cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Tranquil</span>'''===
+*0.95 stud "jump" (C)
+*0.93 stud "jump" (UC)
+*3.8 stud stick-in wraparound (C)
+*3.75 stud stick-in wraparound (UC)
+*Walking 62.5 studs.
+===Middle '''[[File:Tranquil2024.png|30px]] <span style="background:linear-gradient(to right, cyan, white, cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Tranquil</span>'''===
+*1 stud "jump" (C)
+*0.98 stud "jump" (UC)
+*3.7 stud stick-in wraparound (C)
+*3.65 stud stick-in wraparound (UC)
+*Walking 75 studs
+===Upper '''[[File:Tranquil2024.png|30px]] <span style="background:linear-gradient(to right, cyan, white, cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Tranquil</span>'''===
+*1.05 stud "jump" (C)
+*1.03 stud "jump" (UC)
+*3.6 stud stick-in wraparound (C)
+*3.55 stud stick-in wraparound (UC)
+*Walking 87.5 studs
+==Towers in this difficulty==
+{| class="fandom-table"
+|+Towers in Tranquil
+!Tower Image 
+!Tower Name
+|-
+|[[File:Toctt.PNG|frameless|100px]]
+|[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Tower of Counting to Ten] (ToCtT)
+|-
+!colspan="2" | Fictional Towers
+|-
+|'''No image'''
+|[[Edifice of Totally Not Stud Spamming]] (EoTNSS)
+|}
+==Trivia==
+*This difficulty replaced [[File:Heaven.webp|30px]] '''Heaven'''.
+*Tranquil has the shortest CFTP, being 1 byte/character/emoji long.
+*It used to not have one because "it was integrated into the redirect" but that doesn't make sense.
+*This difficulty used to have a three part obstacle spectrum but that was removed since sub difficulties don't have spectrums.
+
+== Continuing from this point ==
+[[Jumpless|😎]]
+
+===Credits===
+*Credit goes to the Backrooms Wiki for some good CSS.
+{{DifficultiesNavbox}}
+[[Category:Class 1]]
+[[Category:Possible]]
+[[Category:Sub-Difficulties]]
+[[Category:Starter Zone]]

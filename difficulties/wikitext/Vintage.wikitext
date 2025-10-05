@@ -1,0 +1,59 @@
+<div style="background:purple;padding:1em;font-family:rubik;border:25px solid magenta">
+{{Unfinished}}{{Humanly Possible}}{{RevampQuote|Header=''Quote''|Text=''Finally do get to claim something possible myself, eh?''|Quoter=Touchgrass210779}}<blockquote>{{Quote (IPeedMyPants' Version)|color=Red|quote=You Copied Me!|quoter=[[Calm]] And [[Pleasant]].}}<blockquote></blockquote></blockquote>{{NewDifficultyInfobox|title1=Vintage|image1=Vintage.png|class=Class 0|previous=[[File:Blessing.jpeg|30px]] [[Blessing]]|next=[[File:Justairrevamprevamp.png|30px]] [[Just Air]]|class_range=Low|difficulty_range=Low to Peak|date_added=July 4th 2023|rating=-25|type=* Auto Difficulty
+* Unofficial Difficulty|sub_difficulty(ies)=[[File:Re emergence yay.png|25px]] [[ifinitude]]|creator(s)=New: Touchgrass210779 (Claimed)
+Old: Tetranaux (Rem's alt)
+Older: RemorselessJToH (blocked)|decal_id=16556628560|alt_next=[[File:Re emergence yay.png|frameless|30px]] [[Ifinitude]] (Sub difficulty)}}
+
+== What is Vintage? ==
+Vintage is a Class 0 difficulty that is before [[File:Justairrevamprevamp.png|30x30px]] [[Just Air]] ([[File:Re emergence yay.png|25x25px]][[Ifinitude]] if we're talking about sub-difficulties) but after [[File:Blessing.jpeg|30x30px]] [[Blessing]]. This difficulty also has a sub-difficulty named [[File:Re emergence yay.png|25x25px]] [[Ifinitude]]. This difficulty is also super easy, you don’t even need any skill to beat it due to how easy it is. This difficulty is also in Class 0's upper bound, so it is a little harder than difficulties in the lower bound.
+
+This difficulty is also from the [https://jjts-insane-difficulties.fandom.com/wiki/Vintage JJT's Insane Difficulties wiki], and it was also originally Class -1 in that wiki. This difficulty's rating is also -25.
+
+== Icon Representation ==
+The icon has a 22.5 degree gradient which consists of blue, magenta, and black. It also has a glowing lavender :D face in the center.<gallery>
+File:Vintage.png
+</gallery>
+
+== Obstacles ==
+
+=== Low Vintage ===
+
+* Wait 35 seconds.
+* Wait 35.5 seconds
+* Wait 36 seconds.
+* Wait 36.5 seconds.
+
+=== Mid Vintage ===
+
+* Wait 37 seconds.
+* Wait 37.5 seconds.
+* Wait 38 seconds.
+* Wait 38.5 seconds.
+
+=== High Vintage ===
+
+* Wait 39 seconds.
+* Wait 39.5 seconds
+* Wait 40 seconds.
+
+=== Peak vintage ===
+* Wait 44 seconds
+* Wait 58 seconds
+* Ride a 10-stud long conveyor that also has a speed of 10. 
+== Towers ==
+
+* Tower of Gotta Go Fast
+* Tower of Vacant Hindrances: Ungodly Nerf
+* [[Tower of Lightbolt Travelling]] (Fictional)
+
+== Trivia ==
+
+* This difficulty's name comes from another wiki.
+
+== Continuing from this point ==
+Go to [[File:Justairrevamprevamp.png|30x30px]] [[Just Air]], these difficulties are so easy. In fact, just go to [[File:EffortlesslessIcon.png|30x30px]] [[Effortlessless]].
+
+[[Category:Class 0]]
+[[Category:Humanly Possible]]
+[[Category:Starter Zone]]
+[[Category:Emoticon Difficulties]]

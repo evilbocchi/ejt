@@ -1,0 +1,186 @@
+{{DISPLAYTITLE:Sleepful}}<div style="box-sizing:border-box; border-radius:15px;border:3px solid #FFFFFF;overflow:hidden;background:linear-gradient(180deg,#5e9cff,#297cff);padding:0.5em;"><div style="--theme-accent-color:-webkit-linear-gradient(45deg,#ffffff,#4f90ff,#4f90ff,#4f90ff,#ffffff)">
+{{NoticeScrollboxNew|Notices=
+{{Squint to Win|reason="1.65:1 ratio" --[[User:Grander567|Grander567]]}}
+{{Humanly Possible}}
+{{Large Page}}
+}}
+{{NewDifficultyInfobox|title1=<big><big><span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span></big></big>|image1=Sleepful2.png|caption1="ZZZZZZZZZZZZZZZZZZZ"|class=[[File:Re emergence yay.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #311b52;font-family:Josefin Slab">Low Class 0</span>|rating=-26.5|type=Sub-Difficulty/Humanly Possible|previous=[[File:Do Nothing Unofficial.png|30px]] [[Do Nothing]]|next=[[File:Blessing.jpeg|30px]] [[Blessing|<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black">Blessing</span>]]|alt_previous=[[File:Restful3.png|30px]] [[Restful]]|class_range=Low|difficulty_range=Baseline to Peak|creator(s)=MaybeAFryingPan24|decal_id=18373942150}}
+==What is [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>?==
+[[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span> is a Class 0 sub-difficulty that falls between [[File:Do Nothing Unofficial.png|30px]] [[Do Nothing]] and [[File:Blessing.jpeg|30px]] [[Blessing|<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black">Blessing</span>]]. This particular challenge is based on the concept of [[File:Restful3.png|30px]] [[Restful]], emphasizing the importance of getting a good night's sleep.
+
+What makes [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span> so appealing is its extreme simplicity and automation. With a tier rating and Metris measurement that are both exceedingly low, Sleepful is not included in this discussion. However, it's worth noting that the difficulty rating for [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span> is an astonishing -26.5.
+
+What sets [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span> apart is the fact that it doesn't require any special techniques, macros, or other external aids to complete. While it's not entirely risk-free, it is highly likely that you will automatically conquer this task simply by falling asleep. It's important to acknowledge that there are challenges out there that are even more difficult than [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>. Some of them are automatic, others are not. Some are designed to be unbeatable, while some require a [[KLJY|transcendent level of skill]]. Nevertheless, for now, enjoy your time in the world of [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>, where the upper limit of difficulty is truly [[The First Difficulty|negative.]] 
+==Icon Representation - [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|-
+!'''''Icon'''''
+!'''''Description'''''
+|-
+! style="background:linear-gradient(180deg, #ffffff,#85b1ff); color: Black" |'''''Current'''''[[File:Sleepful2.png|center|128x128px]]
+| style="background:linear-gradient(180deg, #ffffff,#85b1ff); color: Black" |'''A White to Blue gradient, With 3 glowing Z's in the middle,And a lot of Z's in the background, and a few Z's on the top and bottom.'''
+|-
+|}
+==Obstacles - [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>==
+{| class="mw-collapsible fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Waiting
+| style="background-color: #014500;" |20 Seconds
+| style="background-color: #336000;" |22 Seconds
+| style="background-color: #6d5c00;" |24 Seconds
+| style="background-color: #964a00;" |26 Seconds
+| style="background-color: #5a0000;" |28 Seconds
+|-
+|Falling
+| style="background-color: #014500;" |300 studs
+| style="background-color: #336000;" |325 studs
+| style="background-color: #6d5c00;" |350 studs
+| style="background-color: #964a00;" |375 studs
+| style="background-color: #5a0000;" |400 studs
+|-
+|Conveyor Riding
+| style="background-color: #014500;" |100 studs
+| style="background-color: #336000;" |150 studs
+| style="background-color: #6d5c00;" |200 studs
+| style="background-color: #964a00;" |250 studs
+| style="background-color: #5a0000;" |300 studs
+|-
+|Conveyor Gaps
+| style="background-color: #014500;" |0.035 studs
+| style="background-color: #336000;" |0.040 studs
+| style="background-color: #6d5c00;" |0.045 studs
+| style="background-color: #964a00;" |0.050 studs
+| style="background-color: #5a0000;" |0.055 studs
+|-
+|Sleeping
+| style="background-color: #014500;" |3 Minutes
+| style="background-color: #336000;" |3.25 Minutes
+| style="background-color: #6d5c00;" |3.5 Minutes
+| style="background-color: #964a00;" |3.75 Minutes
+| style="background-color: #5a0000;" |4 Minutes
+|}
+==The Skip System - [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>==
+The "Skip System" is a mechanic in this difficulty where, when you sleep for a specific amount of time, you get to skip to a specific difficulty.
+{| class"="mw-collapsible" fandom-table"
+|+<big><big>The System.</big></big>
+! style="background-color: #5ea4ff;" |Time Spent Sleeping
+! style="background-color: #5ea4ff;" |‎Icon
+! style="background-color: #5ea4ff;" |Difficulty Skipped To
+|-
+| style="background-color: #0077cc;" |1.5 Hours
+| style="background-color: #0077cc;" |{{Class0Difficulties|Peaceful|50px}}
+| style="background-color: #0077cc;" |[[Peaceful]]
+|-
+| style="background-color: #0077cc;" |15 Hours
+| style="background-color: #0077cc;" |{{Class2Difficulties|Intense|50px}}
+| style="background-color: #0077cc;" |[[w:c:jtoh:Intense| Intense]]
+|-
+| style="background-color: #0077cc;" |5 Days
+| style="background-color: #0077cc;" |{{Class4Difficulties|Why|50px}}
+| style="background-color: #0077cc;" |[[w:c:jtohs-hardest-towers:WHY|WHY]]
+|-
+| style="background-color: #0077cc;" |2 Years
+| style="background-color: #0077cc;" |[[File:Apocalyptic.png|50px]]
+| style="background-color: #0077cc;" |[[Apocalyptic]]
+|-
+| style="background-color: #0077cc;" |5 Centuries
+| style="background-color: #0077cc;" |[[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|50px]]
+| style="background-color: #0077cc;" |<big>[[MegaDeath]]</big>
+|-
+| style="background-color: #0077cc;" |2 Millennia
+| style="background-color: #0077cc;" |[[File:ErrorisationRevamp.png|50px]]
+| style="background-color: #0077cc;" |[[Errorisation]]
+|-
+| style="background-color: #0077cc;" |1000 Millenia
+| style="background-color: #0077cc;" |[[File:Pinnacle.png|50px]]
+| style="background-color: #0077cc;" |<big>[[Pinnacle]]</big>
+|-
+| style="background-color: #0077cc;" |1 Googolplex years
+| style="background-color: #0077cc;" |[[File:Googol.jpg|50px]]
+| style="background-color: #0077cc;" |[[Googol]]
+|-
+| style="background-color: #0077cc;" |D^5(99) Years
+| style="background-color: #0077cc;" |[[File:3FF0R7FU1.png|frameless|50px]]
+| style="background-color: #0077cc;" |[[THE CURSED DIFFICULTY]]
+|-
+| style="background-color: #0077cc;" |Rayo's number years
+| style="background-color: #0077cc;" |[[File:Average Babass 2023.svg|50px]]
+| style="background-color: #0077cc;" |'''[[Average Babass]]'''
+|-
+| style="background-color: #0077cc;" |∞ years
+| style="background-color: #0077cc;" |[[File:Sunt_Vera_Ultima.png|50px]]
+| style="background-color: #0077cc;" |'''[[Sunt Vera Ultima]]'''
+|-
+| style="background-color: #0077cc;" |ε<sub>0</sub> years
+| style="background-color: #0077cc;" |[[File:Squarechamp.webp|50px]]
+| style="background-color: #0077cc;" |'''[[Epsilon-Naught]]'''
+|-
+| style="background-color: #0077cc;" |Ω years
+| style="background-color: #0077cc;" |[[File:Absolute Infinity.jpg|50px]]
+| style="background-color: #0077cc;" |[[ABSOLUTE INFINITY]]
+|-
+| style="background-color: #0077cc;" |ω†150 years
+| style="background-color: #0077cc;" |[[File:Unbounded.jpg|50x50px]]
+| style="background-color: #0077cc;" |[[Unboundable]]
+|-
+| style="background-color: #0077cc;" |ω†ω†ω Years
+| style="background-color: #0077cc;" |[[File:PrimalBabass2023.jpg|50px]]
+| style="background-color: #0077cc;" |[[Primal Babass]]
+|-
+| style="background-color: #0077cc;" |E<sub>0</sub> Years
+| style="background-color: #0077cc;" |[[File:QAZ.png|50px]]
+| style="background-color: #0077cc;" |<big>[[Penultimate]]</big>
+|-
+| style="background-color: #0077cc;" |E<sub>E<sub>E<sub>E<sub>...</sub></sub></sub></sub> Years
+| style="background-color: #0077cc;" |[[File:Loxus.gif|50x50px]]
+| style="background-color: #0077cc;" |[[Liminal]]
+|-
+| style="background-color: #0077cc;" |F<sub>0</sub> Years
+| style="background-color: #0077cc;" |[[File:Transcendence normal speed.gif|50x50px]]
+| style="background-color: #0077cc;" |[[Transcendence]]
+|-
+| style="background-color: #0077cc;" |F<sub>F<sub>F<sub>F<sub>F<sub>0</sub></sub></sub></sub></sub> Years
+| style="background-color: #0077cc;" |[[File:Uber Current.gif|50x50px]]
+| style="background-color: #0077cc;" |[[Uber]]
+|-
+| style="background-color: #0077cc;" |F<sub>F<sub>F<sub>F<sub>F<sub>...0</sub></sub></sub></sub></sub> Years
+| style="background-color: #0077cc;" |[[File:Ineffable.png|50x50px]]
+| style="background-color: #0077cc;" |[[Ineffable]] 
+|-
+| style="background-color: #0077cc;" | It<sub>0</sub> Years
+| style="background-color: #0077cc;" |[[File:Thisistheend.gif|50x50px]]
+| style="background-color: #0077cc;" |[[Inutilis]]
+|-
+| style="background-color: #0077cc;" |A<sub>0</sub> Years
+| style="background-color: #0077cc;" |[[File:Final.png|50px]]
+| style="background-color: #0077cc;" |[[The Final Difficulty.|<big>The Final Difficulty</big>]]
+|}
+==Towers - [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>==
+===Towers in this difficulty===
+*Tower of Laying Down (ToLD) (Fictional)
+*Citadel of Dozing Off (CoDO) (Fictional)
+*[[Room of Beds]] (RoB) (Fictional)
+*Not Even A Sleeping Bag Tower (NEASBT) (Non-Fictional)
+*Resting Tower (RT) (Non-Fictional)
+*Tower Of ZZZZZ (ToZZZZZ) (Fictional)
+===Towers with this difficulty===  
+*Great Monolith Of Every Difficulty On The Planet
+*Tower Of Every Class 0 Tower
+*[[Great Monolith of Every EJT Difficulty]]
+==Trivia - [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>==
+*The Creator (MaybeAFryingPan24, formerly RandomUsernameIDunno) only made this because of the Sleepful image in [[File:Restful3.png|30px]] [[Restful]].
+*idk lol
+==CFTP - [[File:Sleepful2.png|30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #96bfff;font-family:Alegreya Sans SC">Sleepful</span>==
+Well, there isn't really that much to do here, isn't there? Well, if you want you can continue to [[File:Blessing.jpeg|30px]] [[Blessing|<span style="color:#00e7b9;text-shadow:0 2px 5px #009f7f, 0 -2px 5px #00cfa5;font-family:Arial Black">Blessing</span>]], but in my opinion, you should just skip to [[File:EffortlesslessIconOoIDC.png|30px]] [[Effortlessless]].
+[[Category:Class 0]]
+[[Category:Humanly Possible]]
+[[Category:Large Pages]]
+[[Category:Sub-Difficulties]]
+[[Category:Starter Zone]]

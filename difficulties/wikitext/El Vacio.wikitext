@@ -1,0 +1,56 @@
+{{Classic}}{{Physically Impossible}}{{ViewerDiscretionWarning|reason=Icon may be disturbing to others.}}{{ArticleTab
+|blankgal=
+|custom=Original
+}}
+{{NewDifficultyInfobox|title1=<span style="background:linear-gradient(90deg,white,grey,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''El Vacio'''</span>|image1=El Vacio Sqaure.png|class=7|type=Difficulty|previous=[[File:Jes.png|30px]] [[Jesus Ballin'|Jesus Ballin]]|next=[[File:Screen Shot 2020-08-18 at 5.44.16 PM.png|frameless|30x30px]] [[Universe Disruption]]|decal_id=Current: [https://create.roblox.com/store/asset/13884139024/El-Vacio 13884139024]
+Old: [https://create.roblox.com/store/asset/7737837136/El-Vacio 7737837136]|creator(s)=[[User:Octogoat YT|Octogoat YT]]|alt_names=THE VOID
+THE ABYSS|original_class=8|date_added=11th August, 2021|revamp_date=6th June, 2022|prior_previous=Wot
+[[File:Screen Shot 2020-08-09 at 9.36.26 PM.png|frameless|30x30px]] [[Ultra Instinct]]|prior_next=[[File:Hyperwave.png|frameless|30x30px]] [[Hyperwave]]
+[[File:Eeeeeee.pngggggggggggg-0.png|frameless|35x35px]] [[Infinite Crashing]]|rating=66|alt_previous=[[File:HyperViolent New.png|30px]] [[HyperViolent]]}}
+
+==What is '''El Vacio'''?==
+[[File:El Vacio Sqaure.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,white,grey,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''El Vacio'''</span> is the spanish for '''THE VOID'''. The original icon resembles an SMG4 poorly edited picture that was made creepier. (It was originally going to be black with SCP-087 face and XD on it, which I think is more nightmare fuel.) As for the current icon, it is not as creepy as [[File:Roor hell.jpeg|frameless|30x30px]] <span style="background:linear-gradient(90deg,black,red,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[RoorHELL]]'''</span>, [[File:Creepy epic face.gif|frameless|30x30px]] <span style="background:linear-gradient(90deg,grey,white,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[D-I-E]]'''</span> or [[File:Screen Shot 2020-08-13 at 1.20.05 PM.png|frameless|30x30px]]  <span style="background:linear-gradient(90deg,black,grey,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Nonexistent]]'''</span>. Obbies with this difficulty should be miles harder than [[File:Jes.png|frameless|30x30px]] <span style="background:linear-gradient(120deg,#04fe94,#06fe98); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Jesus Ballin']]'''</span> and It should be ultimately impossible. seriously, do not even think about beating this difficulty. Every obstacles in this difficulty are very rarely to be seen and very hard to be manuevered. As for now, this difficulty is buffed and it's a lot harder than Jesus Ballin, maybe universe disruption or even Aleph-cow and very rarely Megadeath depends on how do you design your obstacle.  Attempting an obstacle of this difficulty will cause imminent death. The Decal id of the difficulty is: 7281337903.
+
+== Obstacles In El Vacio==
+
+If you See a Letter that is in Bolded Then That means It is In Non-Patched Form.
+
+{{ObstacleTableRevamp|JumpClimbableBase=65.213|Increment=1.2094}}
+
+===The Original (OG)===
+
+*[[El Vacio/Original|El Vacio (OG)]]
+
+==Towers with this difficulty==
+
+*Great Citadel of Peeing Your Pants
+*Room of El Vacio (in Obby Creator)
+*[[Room of Bleached Leaking Over Xenophobia]] (RoBLOX) (in Obby Creator)
+*[https://www.roblox.com/games/90735369092111/Box-of-Belittled-Middle-and-Low-Ends Box of Belittled Middle and Low Ends]
+*Box of Undeniably Hard Box (in Obby Creator)
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 69: El Vacio]
+
+==Gallery==
+<gallery>
+File:Screen Shot 2020-09-20 at 9.32.34 PM.png|OG Icon by Octogoat YT
+</gallery>
+
+==Trivia==
+
+*Octogoat YT created El Vacio long time ago.
+*The video is from SMG4 which is form the poorly edited el vacio thing is [https://www.youtube.com/watch?v=qTpO9fzX4GU SMG4 - Deleted] at the second 1:36.
+*El Vacio means The Void in spanish.
+*The opposite of this difficulty is [[El Feliz]].
+
+== Continuing from this point==
+You can do [[File:Jes.png|Frameless|30x30px]] <span style="background:linear-gradient(120deg,#04fe94,#06fe98); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[Jesus Ballin']]'''</span> again if u want to. I doubt you want to as the suffering there was pretty painful. Fine. You want even more challenges? Even though it will just lead to your death, go to [[File:Screen Shot 2020-08-18 at 5.44.16 PM.png|frameless|30x30px]] [[Universe Disruption]]. That difficulty is beyond this and it should provide you a challenge for quite a bit.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+[[Category:Spooky icon]]
+[[Category:Octo's Pages of Awesomeness]]
+[[Category:Former Legendary Difficulties]]
+[[Category:Classic Difficulty]]
+[[Category:Physically Impossible]]

@@ -1,0 +1,161 @@
+{{Background|File=Quandale Dingle.gif|Size=2000px}}
+<div style="background:#222222;padding:1em;font-family:rubik;border:25px solid #553333">
+{{Scrollbox|Notices={{Humanly Impossible}}{{Former Class Finale|reason=This difficulty was originally moved to Class 12 thanks to  Armageddon VII. Also [[Exigent]].}}{{ViewerDiscretionWarning|reason=The icon may be disturbing to some people.}}{{Edgy}}
+{{Classic}}
+{{Pseudo}}}}<div style="--theme-accent-color:-webkit-linear-gradient(45deg,#000000,#333333,#000000)">{{NewDifficultyInfobox|title1 = D-I-E|image1 = Creepy epic face.gif|previous = [[Nonexistent]]|next = [[Absolutism]]|class=Class 6|rating=51|sub_difficulty(ies)=[[Gar-Extreme]]|creator(s)=Octogoat YT|date_added=19/1/20|date_removed=|removal_reason=|revamp_date=5/28/23|revival_date=|class_range=Low|previous_class(es)=Class 7
+Class 12|prior_previous=[[Complete:Users]]|prior_next=[[Asthenic]]|previous_sub_difficulty(ies)=|type=[[:Category:Humanly Impossible|Humanly Impossible]]|difficulty_range=Belowground - Peripheral|chain(s)=RoPD|previous_type(s)=Physically Impossible}}</div>
+
+==What is '''<span style="background: linear-gradient(90deg, #777777, #777777); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 2px 9px #443333; font-weight: bold;">D-I-E</span>'''?==
+[[D-I-E]] is a class 6 difficulty. It comes after [[Nonexistent]], but before [[Absolutism]] (or [[Gar-Extreme]] if including chains). This is located at the end of the Road of Pseudo-Difficulties, and is humanly impossible. Since it is this hard, there is no way any human should be able to beat this, at least not in a few decades.   
+
+Even if this is before [[The Middleline]], it is still an incredible challenge to surpass, and beating this is a huge achievement. Towers in this difficulty will utilize a lot of frame-perfect glitches and may make even the best of Low Class 6 obbyists want to ragequit. Good luck, {{USERNAME}}. 
+
+==Icon Representation==
+The icon is a light gray Epic Face with the eyes bleeding, as well as there being a static effect applied to it.  
+
+==Obstacles==
+
+{| class="fandom-table"
+
+|+Obstacle Table
+
+! Spectrum/Obstacles
+
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+
+|-
+
+| Climbable Jumps
+
+| style="background-color: #005980;" |<font color="white"></font>14.2 studs
+
+| style="background-color: #014500;" |<font color="white">14.4 studs</font>
+
+| style="background-color: #336000;" |<font color="white">14.6 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">14.8 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">15 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">15.2 studs</font>
+
+| style="background-color: #550055;" |<font color="white">15.4 studs</font>
+
+|-
+
+|Unclimbable Jumps
+
+| style="background-color: #005980;" |<font color="white">13.8 studs</font>
+
+| style="background-color: #014500;" |<font color="white">13.96 studs</font>
+
+| style="background-color: #336000;" |<font color="white">14.12 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">14.28 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">14.42 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">14.56 studs</font>
+
+| style="background-color: #550055;" |<font color="white">14.8 studs</font>
+
+|-
+
+|Wraps
+
+| style="background-color: #005980;" |<font color="white"></font>11.8 studs
+
+| style="background-color: #014500;" |<font color="white">12 studs</font>
+
+| style="background-color: #336000;" |<font color="white">12.2 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">12.4 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">410</font> <font color="white">studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">411.5 studs</font>
+
+| style="background-color: #550055;" |<font color="white">413 studs</font>
+
+|-
+
+|Stickouts 
+
+| style="background-color: #005980;" |<font color="white"></font>5x5 studs
+
+| style="background-color: #014500;" |<font color="white">5.08x5.08 studs</font>
+
+| style="background-color: #336000;" |<font color="white">5.16x5.16 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">5.24x5.24 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">5.32x5.32 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">5.4x5.4 studs</font>
+
+| style="background-color: #550055;" |<font color="white">5.5x5.5 studs</font>
+
+|-
+
+|Cylinder Wraps 
+
+| style="background-color: #005980;" |<font color="white"></font>11 studs
+
+| style="background-color: #014500;" |<font color="white">11.18 studs</font>
+
+| style="background-color: #336000;" |<font color="white">11.36 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">11.54 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">11.72 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">11.9 studs</font>
+
+| style="background-color: #550055;" |<font color="white">12 studs</font>
+
+|}
+This obstacle table, while being much more accurate than before, is still likely not accurate, edit it if you please. 
+
+==Tower Section ==
+*Obelisk of D I E (OoDIE) (Fictional)
+*Citadel of Death
+*Tower of Green Reality Extreme Yeeting (ToGREY) (fictional)
+*Citadel of Misleading Difficulties
+
+Feel free to add your towers, I have no knowledge of them!
+
+== Trivia==
+
+*<s>As of March 11th, 2022, this is the 100th difficulty in the difficulty chart, counting the beginning and -1 and 0.</s>
+**This is no longer true.
+*This is the first difficulty to be a GIF, and is made by Octogoat YT and an unknown user.
+*This difficulty was Class 7 before Sanjay forced the revamper to move it to Class 12.
+**It got moved back to Class 6 due to TDEx.
+
+==Continuing From This Point==
+This difficulty is humanly impossible, and you still pushed through and beat it? Congratulations on that. Now player, move on to either[[Absolutism]], or [[Gar-Extreme]], they'll be much harder than this in comparison. Don't say I didn't warn you. If you still want to stay here, beat a couple more towers in this difficulty to practice. However, if you want to take a break, you probably should, especially before trying to beat the next difficulty. You probably shouldn't rush through these difficulties this fast.
+
+Good luck, and goodbye.
+
+No seriously, why it says "Edgy page" WHEN THERES NOTHING, AS A MID CLASS 6 OBBYIST I WAS DISSAPOINTED :C
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 6]]
+[[Category:Spooky icon]]
+[[Category:Unofficial Difficulty]]
+[[Category:Viewer Discretion Advised]]
+[[Category:Edgy]]

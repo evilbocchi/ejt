@@ -1,0 +1,192 @@
+{{Humanly Possible}}{{Large Page}}{{BetterQuote|text=Yuo gesT SLap IF bEat DHS|quoter=OoEDA’s Floor 19.75 Introduction Sign}}{{ArticleTab}}{{NewDifficultyInfobox|title1=Absurd|image1=<gallery>AbsurdNewIcon.jpeg|Current
+AbsurdSquareIcon.jpg|Old</gallery>|class=[[:Category:Class 3|Low-Mid Class 3]]|type=[[:Category:Sub-Difficulties|Sub Difficulty]]|previous=[[File:Turmoil.png|30px]] [[Turmoil]]|next={{Class3Difficulties|Terrifying}} [[w:c:jtoh:Terrifying|Terrifying]]|alt_next=|decal_id=*{{colorbox|#00caff}} [https://create.roblox.com/store/asset/8542676297/?externalSource=www 8542676297] (Current)
+*{{colorbox|#343fbf}} [https://create.roblox.com/store/asset/8542675287/?externalSource=www 8542675287] (Old)|main_difficulty=[[File:Turmoil.png|30px]] [[Turmoil]]|creator(s)=JJT Staff|previous_class(es)=*[[:Category:Class 3|Low Class 3]]
+*[[:Category:Class 3|Baseline-Low Class 3]]|original_class=[[:Category:Class 2|Skyline Class 2]]|date_added=15 January 2021 (First appeared on [[Obelisk of Endless Difficulty Amplifying|OoEDA]])|date_removed=7 July 2021|removal_reason=Low quality|revival_date=15 January 2022|prior_previous=Confusion ([[:Category:Class 2|Class 2]]) <span style="color:#FF0000" class="Level">[Deleted]</span>|prior_next={{Class3Difficulties|Uneasy}} [[User blog:EpicTheGamer2014/Uneasy|Uneasy]] ([[:Category:Class 2|Class 2]])|hex_color=*{{colorbox|#00caff}}  #00caff (New)
+*{{colorbox|#343fbf}} #343fbf (Old)|rgb_color=*{{colorbox|#00caff}} 0, 202, 255 (New)
+*{{colorbox|#343fbf}} 52, 63, 191 (Old)|cmyk_color=*{{colorbox|#00caff}} 100%, 21%, 0%, 0% (New)
+*{{colorbox|#343fbf}} 73%, 67%, 0%, 25% (Old)|hsv_color=*{{colorbox|#00caff}} 192%, 100º, 100º (New)
+*{{colorbox|#343fbf}} 235%, 73º, 75º (Old)|hsl_color=*{{colorbox|#00caff}} 192%, 100º, 50º (New)
+*{{colorbox|#343fbf}} 235%, 57º, 48º (Old) |alt_previous=|rating=10.75}}
+[[Absurd]] is a [[:Category:Class 3|Low-Mid Class 3]] difficulty made by [[User:TasmanianRex|TasmanianRex]]. This difficulty is placed between {{Class3Difficulties|Extreme|20px}} [[w:c:jtoh:Extreme|Extreme]] and {{Class3Difficulties|Terrifying|20px}} [[w:c:jtoh:Terrifying|Terrifying]] difficulties. However, it used to be the ABSOLUTE borderline difficulty of [[:Category:Class 2|Class 2]] before both {{Class3Difficulties|Insane|20px}} [[w:c:jtoh:Insane|Insane]] and {{Class3Difficulties|Extreme|20px}} [[w:c:jtoh:Extreme|Extreme]] moved to [[:Category:Class 3|Class 3]] along with their sub difficulties. Any difficulties that is designed to be harder than this difficulty will be placed above {{Class3Difficulties|Extreme|20px}} [[w:c:jtoh:Extreme|Extreme]]. Instead, these difficulties required a lot of practice for elite obbyists to acquire this achievement.
+
+Obstacles on this difficulty required advanced techniques and precise positioning to pass. [[Absurd]] difficulty {{jtoh|Tower|Towers}} are time consuming, punishing and challenging for emerging elite players. They can take tons of time and effort to beat these towers, eventually giving up to move on. The player should practice a lot before attempting any [[Absurd]] difficulty towers.
+==Icon Representation==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Difficulty’s Icons
+|-
+!Icon
+!Description
+|-
+| colspan="3" style="background: #00caff; color: black" |'''Current'''
+|-
+|{{Class3Difficulties|Absurd|80px}}
+|This icon is cyan in color conpared to the old icon. It represent that it is in between of {{Class3Difficulties|Extreme|20px}}  [[w:c:jtoh:Extreme|Extreme]] and {{Class3Difficulties|Terrifying|20px}} [[w:c:jtoh:Terrifying|Terrifying]] difficulties. Decals will be useless when it has one color.
+|-
+| colspan="3" style="background: #343fbf; color: white" |'''Old'''
+|-
+|{{Class3Difficulties|Absurd (Old)|80px}}
+|This icon is a shade of dark blue for simplicity. This color was used on [[Obelisk of Endless Difficulty Amplifying|OoEDA]] as of 2019. Like the new version, decals will be useless.
+|}
+==Obstacles==
+{{jtoh|Tower|Towers}} on this difficulty uses various glitches, punishments and length in attempt to waste player’s time. They also have a variety of jumps such as ladder and truss jumps, utilisation of glitches and wacky obstacles. Length is a factor on this difficulty, typically punishing the player by teleporting to a previous floor using teleporters. Nonetheless, this difficulty should not punish the player harshly by not inserting instakill bricks and tricky jumps without safety nets in this situation. Normal glitches such as corner flipping (which required a script to work), dance clipping and wallhopping could be used for these {{jtoh|Tower|Towers}} at this level, especially when these glitches are used unusually. This is the level where other known glitches are introduced: laugh clipping (easy version), lag clipping, head gliding, highjumping (both normal and cheer variants) and ladder clipping. This forces players to pick up new glitches along their journey when they occur for the first time.
+
+For example, the {{jtoh|ToTDA|Tower of The Dripping Amalgam}} utilises ladder jumps, glitches and regular jumps creatively. As you seen from floor 5, there are many unusual ladder jumps, normally indicated as darker shades to guide the player where they supposed to jump. This is to prevent the player from guessing and allow them to see the indication. Not only it uses regular jumps, it also uses client-sided obstacles. Alongside with the {{jtoh|ToCF|Tower of Conflicting Frontiers}}, these towers uses jump boost pads in a  innovative way. Another example would be the {{jtoh|ToFN|Tower of Frightening Nightmares}} as it has a variety of jumps. This {{jtoh|Tower}} uses orientation in attempt the make these jumps feel new and not repetitive to the player. It is a good advise to make your obstacles look odd and new as seen from this example when you are creating your first {{jtoh|Tower}}.
+
+Not only you are making a {{jtoh|Tower}} with this difficulty, it helps you to create excellent towers in the future and have a positive impact for your community. On the other hand, you should use these glitches when you are creating a {{jtoh|SC|Soul Crushing Tower}}. If you want to build a high-quality {{jtoh|Tower}}, you can learn at #building-tutorials channel in JToH discord. If building {{jtoh|Tower|Towers}} is not your hobby, it helps you to build better obbies and allows you to build more ambitious projects in the future.
+===Object Directory===
+In this section, you will see example of obstacles of this difficulty in images. This directory will help to picture these obstacles when you are building a {{jtoh|Tower}}. Here is the list of obstacles found on this section.
+
+If you want to use the Roblox model for [[Absurd]] difficulty glitches, the model can be found [https://create.roblox.com/store/asset/9401213408/Absurds-Difficulty-Example-Glitches?externalSource=www here].
+<tabber>
+|-|
+Basic Obstacles=
+<font size=5>Basic Obstacles</font></br>
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+ToTDA's Purist Example 1.png|This is a first example of a purist Jump from the {{jtoh|Tower of The Dripping Amalgam|Tower of The Dripping Amalgam}}.
+ToTDA's Purist Example 2.png|This is a second example of a purist Jump from the {{jtoh|Tower of The Dripping Amalgam|Tower of The Dripping Amalgam}}.
+ToTDA's Purist Example 3.png|This is a third example of a purist Jump from the {{jtoh|Tower of The Dripping Amalgam|Tower of The Dripping Amalgam}}.
+</gallery>
+|-|
+Client-Sided Obstacles=
+<font size=5>Client-Sided Obstacles</font></br>
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+ToCF's JPB Example 1.png|This is an example of a Jump Pad Boost Jump from the {{jtoh|Tower of Conflicting Frontiers|Tower of Conflicting Frontiers}}.
+ToTDA's JPB Example 1.png|This is an example of a Jump Pad Boost Jump from the {{jtoh|Tower of The Dripping Amalgam|Tower of The Dripping Amalgam}}.
+ToTDA's JPB Example 2.png|This is another example of a Jump Pad Boost Jump from the {{jtoh|Tower of The Dripping Amalgam|Tower of The Dripping Amalgam}}.
+</gallery>
+|-|
+Advanced Obstacles=
+<font size=5>Advanced Obstacles</font></br>
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+Absurd's Diff Dance Clip Example1.png|This is an example of a dance clip. The player has to clip through the hollow sphere and not go on top.
+Absurd's Diff Dance Clip Example2.png|This is another example of a dance clip. The player has to dance backwards to not grab on to the ladder.
+Absurd's Diff Wallhop Example1.png|This is an example of a wallhop. Users have to wallhop on these wall sections.
+Absurd's Diff Wallhop Example2.png|This is another example of a wallhop. Users have to wallhop from a wall to grab on to the ladder on the right.
+Absurd's Diff Laugh Clip Example1.png|This is an example of a laugh clip. Players have to laugh at the wall to fall down and fit the gap below.
+Absurd's Diff Laugh Clip Example2.png|This is another example of a laugh clip. Players have to laugh clip on the opposite end of the chamber to fall down and fit the gap below. Note that the slope on the other side prevents the player from laugh clipping.
+ToTDA's corner flip example.png|This is an example of a corner flip from the {{jtoh|Tower of The Dripping Amalgam|Tower of The Dripping Amalgam}}.
+ToMMs' head gliding example.png|This is an example of a head glide from the {{jtoh|Tower of Micro Management|Tower of Micro Management}}.
+ToMM's highjumping example.png|This is an example of a highjump from the {{jtoh|Tower of Micro Management|Tower of Micro Management}}.
+ToRC's Cheer Highjumping example.png|This is an example of a cheer highjump from the [[Tower of REAL CANCER]].
+</gallery>
+</tabber>
+==Towers==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Towers
+|-
+!Tower Image 
+!Tower Name
+!Difficulty Spectrum
+|-
+|[[File:Tohowtohowtohow.webp|50px]]
+|ToH:OW - [[Tower of Hecc: Obviously Wacky]]
+|Mid
+|}
+
+==Appearances==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Towers
+|-
+!Tower Image 
+!Tower Name
+!Location 
+!Tower Difficulty
+|-
+| colspan="4" style="background: #000000; color: white" |'''Others (Unplaced)'''
+|-
+|[[File:EoSaS's Frame.png|50px]]
+|EoSaS - [[Edifice of Short and Sweet]]
+|Secret Room
+|{{Class1Difficulties|Effortless|70px}}
+|-
+|[[File:OoEDA's Frame but better.png|50px]]
+|OoEDA - [[Obelisk of Endless Difficulty Amplifying]]
+|Floor 19.75
+|{{Class8Difficulties|Supreme|70px}}
+|-
+|[[File:MoDDA Updated.png|15px]]
+|MoDDA - [[Monolith of Deadly Difficulties Approaching]]
+|Floor 50.5
+|{{Class24Difficulties|DTD|70px}}
+|-
+|[[File:GCoHD (2).png|50px]]
+|GCoHD - [[Great Citadel of Hellish Difficulties]]
+|Floor 17.1
+|{{Class25Difficulties|TFinD|70px}}
+|-
+|[[File:Eh ok.png|150px]]
+| MoBIDC - [[Monolith of Beyond Immeasurable Difficulty Chart]]
+|Floor 53.1
+|{{Class25Difficulties|TFinD|70px}}
+|}
+==History==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="31" style="text-align:center; width:1%;" |''{{PAGENAME}}'''s History
+|-
+! colspan="3" |Before Deletion <br />(15 January 2021 - 7 July 2021)
+|-
+!Prior Previous
+!Prior Next
+!Date
+|-
+|Arduous ([[:Category:Class 2|Class 2]]) <span style="color:#FF0000" class="Level">[Deleted]</span>
+| rowspan="2" |{{Class3Difficulties|Terrifying}} [[w:c:jtoh:Terrifying|Terrifying]] ([[:Category:Class 3|Class 3]])
+|15 January 2021 - 1 February 2021
+|-
+|{{Class3Difficulties|Horrifying}} [[Horrifying]] ([[:Category:Class 2|Class 2]] at this time)
+|2 February 2021 - 13 March 2021
+|-
+|Confusion ([[:Category:Class 2|Class 2]]) <span style="color:#FF0000" class="Level">[Deleted]</span>
+|{{Class3Difficulties|Uneasy}} [[User blog:EpicTheGamer2014/Uneasy|Uneasy]] ([[:Category:Class 2|Class 2]])
+|14 March 2021 - 7 July 2021
+|-
+! colspan="3" |Revival<br />(15 January 2022‎ - Present)
+|-
+| rowspan="2" |N/A
+| All difficulties in this section are at [[:Category:Class 3|Class 3]].
+*{{Class3Difficulties|Terrifying}} [[w:c:jtoh:Terrifying|Terrifying]]
+*{{Class3Difficulties|Ghastly}} [[Ghastly]] ([[:Category:Sub-Difficulties|Sub Difficulty]])
+*R15-Intense (R15 Chain) <span style="color:#FF0000" class="Level">[Deleted]</span>
+*Mecha Effortless (Mecha Chain) <span style="color:#FF0000" class="Level">[Deleted]</span>
+*IRL-Challenging (IRL Chain) <span style="color:#FF0000" class="Level">[Deleted]</span>
+|15 January 2022‎ - 24 February 2022
+|-
+|Philippines ([[:Category:Class 3|Class 3]]) <span style="color:#FF0000" class="Level">[Deleted]</span>
+|25 February 2022 - 7 March 2022
+|}
+
+==Trivia==
+*This difficulty first appeared in the [[Obelisk of Endless Difficulty Amplifying]] and later was to be used in future [[Difficulty Chart]] [[:Category:Towers|towers]]. 
+**However, it stopped being used for these types of [[:Category:Towers|towers]].
+**Floor 19.5 was never built on [[Obelisk of Endless Difficulty Amplifying]] despite the revamp works.
+*'''Absurd''' was deleted due to low quality like other difficulties.
+*The quote on this article was a reference of [[Obelisk of Endless Difficulty Amplifying|OoEDA]]'s floor 19.75.
+*Unlike other difficulties, this difficulty do not show the rough estimate of the obstacles. Instead, it explain through detail on what they may look like.
+**This is to prevent obstacles to being misaligned for the 0.5 or 1 stud grid and further annoyance with design.
+*The old icon was blueish in color and it was used on [[Obelisk of Endless Difficulty Amplifying|OoEDA]].
+*This is (probably) [[User:TasmanianRex|TasmanianRex]]'s last difficulty.<ref>The difficulty's [https://jtohs-joke-towers.fandom.com/f/p/4400000000000080077 announcement].</ref>
+*This difficulty will be added on [[Monolith of Deadly Difficulties Approaching|MoDDA]].
+**Recently, [[User:Turbomaxwel|Turbomaxwel]] announced that this difficulty will be added to [[Monolith of Deadly Difficulties Approaching|MoDDA]].<ref>[https://jtohs-joke-towers.fandom.com/wiki/Monolith_of_Deadly_Difficulties_Approaching?commentId=4400000000000081973&replyId=4400000000000240473 Announcement] made by the creator of [[Monolith of Deadly Difficulties Approaching|MoDDA]].</ref>
+*It was revived after seven months of its deletion. 
+**Even more, it was first created one year ago and deleted in seven months of its existence.
+*This difficulty was in [[Images of Deleted Difficulties|IoDD]] before it was revived.
+*'''Absurd''' ’s version in JCC wiki was different completely. You can check this article [[w:c:jtohs-custom-chart:Absurd|here]].
+**Comparing with the icons, JJT's icon has a simple cyan background whereas JCC’s version has a black face with a darker blue background. Note that it was also placed between {{Class3Difficulties|Insane|20px}} [[w:c:jtoh:Insane|Insane]] and {{Class3Difficulties|Extreme|20px}} [[w:c:jtoh:Extreme|Extreme]] difficulties.
+*This difficulty used to be placed at [[:Category:Class 2|Skyline Class 2]].
+==Gallery==
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+AbsurdNewIconUpscale.jpeg|Absurd's Current Icon
+AbsurdOldIconUpscale.jpeg|Absurd's Old Icon
+</gallery>
+''View the full gallery [[/Gallery|here]].''
+----{{DifficultiesNavbox}}
+==References==
+[[Category:Class 3]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Large Pages]]
+[[Category:One color icon]]
+[[Category:Humanly Possible]]
+[[Category:Official]]
+[[Category:Official Difficulty]]
+<references />

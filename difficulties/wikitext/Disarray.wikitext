@@ -1,0 +1,80 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(45deg,#FF29D5,#FF0079,#FF29D5); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Disarray'''</span>}}{{Humanly Impossible}}
+{{Quote (Better Version)|quote=So, I see you've made it to Class 4. You've even gotten to this difficulty. What amount of grass have you touched today? How long have you been trying?
+
+All that just to be here on a difficulty.
+That's my question for you. Anyway, you won't make it past here, you've made it too far anyway.
+You wouldn't dare to keep moving on.
+Alright, you may proceed, but be warned: You're not beating this difficulty.
+'''''You have no purpose to be here.'''|quoter=[[File:DisarrayText2.png|100x100px]]}}
+<div style="--theme-accent-color:-webkit-linear-gradient(-45deg,#BB1D9E,#CA0063,#BB1D9E)">{{NewDifficultyInfobox|title1=[[File:DisarrayText2.png|100x100px]]|image1=<gallery>
+Disarray.png|Current
+OldDisarrayDifficultyIcon.png|Old
+</gallery>|caption1=You've made it very far, I have to admit, but now it's over.|class=4|type=Sub-Difficulty|previous=[[File:Omega akaTowerRushDifficulty.gif|32x32px]] [[w:c:jtohs-hardest-towers:Omega|Omega]]|altprevious=|next=[[File:SUFFER.png|32x32px]] [[SUFFER]]|altnext=|class_range=|difficulty_range=|decal_id=*Current: [https://create.roblox.com/store/asset/114832625566822/Disarray here]
+*Old: [https://create.roblox.com/store/asset/11967923682/Disarray here]|main_difficulty=[[File:Omega akaTowerRushDifficulty.gif|32x32px]] [[w:c:jtohs-hardest-towers:Omega|Omega]]|sub_difficulty(ies)=|chain(s)=Possible D chain (there are so many words of distress that start with D)|official_music(s)=1842559618 - Hijacked (Roblox Audio)|creator(s)=Auserfromrobloxx|full_name=|short_name=Dis|alt_names=Dismay|original_class=|previous_class(es)=|original_type=|previous_type(s)=|original_main_difficulty=|previous_main_difficulty(ies)=|original_official_music=|previous_official_music(s)=|original_creator(s)=|previous_creator(s)=|original_name=|previous_name=|original_full_name=|previous_full_name(s)=|original_short_name=|previous_short_name(s)=|date_added=11/21/22|date_removed=|removal_reason=|revamp_date=|revival_date=|prior_previous=|prior_next=|previous_sub_difficulty(ies)=|hex_color=FF0079|rbg_color=255 0 121|cmyk_color=0, 100, 53, 0|hsv_color=332° ,100%, 100%|hsl_color=92, 100%, 50%|rgba_color=255, 0, 121, 1|rating=26.5|alt_previous=}}
+
+==[[File:Disarray.png|45x45px]] [[File:DisarrayText2.png|100x100px]]'s introduction                                                        ==
+So, you decided to keep going. I guess I can't stop you, so here's some info about this difficulty:
+
+This difficulty, called [[File:Disarray.png|32x32px]] [[File:DisarrayText2.png|70x70px|link=Disarray]], is harder than [[File:Omega akaTowerRushDifficulty.gif|32x32px]] [[w:c:jtohs-hardest-towers:Omega|Omega]] , with an alternate of [[File:Me when new dimension icon.webp|frameless|32x32px]] '''[[Dimension]]''', and easier than [[File:SUFFER.png|32x32px]] [[SUFFER]]. It's a humanly impossible difficulty, meaning you obviously can't beat it. You've probably heard that alot by now. The walls will surround you. You will be trapped in an ascending pentagon tower. The confusing path of this tower will ultimately make you take a wrong move; then you'd die, and respawn again only to die again. And again, and again, until you cannot be bothered to even continue. Try this difficulty. After all, you've grinded countless hours to be here, right? Here you are!
+
+==[[File:Disarray.png|45x45px]] [[File:DisarrayText2.png|100x100px]]'s icon ''(outdated) <sub>then fix it, seriously</sub>''==
+[[File:Disarray.png|center|180x180px]]
+The icon is a repeating pink to hot pink gradient angled at 45 degrees. On top of this, there is 5 hollow circles which evenly interlock with each other, and lastly there are two big white eyes on top. Simple, right?
+
+==[[File:Disarray.png|45x45px]] [[File:DisarrayText2.png|100x100px]]'s obstacles==
+This difficulty serves as the border between theoretical physical possibility to stupidly impossible gameplay. The obstacles in this difficulty are therefore indecipherable. They are basically impossible for you, and it gets worse from here. To make a tower of this difficulty would take tremendous effort to not make the tower [[File:Omega akaTowerRushDifficulty.gif|32x32px]] [[w:c:jtohs-hardest-towers:Omega|Omega]] or [[File:SUFFER.png|32x32px]] [[SUFFER]] difficulty. The tower also has to be filled with outside sections, where it can either be forgiving or just unfair.
+
+
+{{ObstacleTableRevamp|JumpClimbableBase=15.9|Increment=0.00732}}
+==Towers in [[File:Disarray.png|45x45px]] [[File:DisarrayText2.png|100x100px]] difficulty==
+<tabber>
+|-|Regular Towers= 
+
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*Steeple of 5-Sided Hell
+*Tower of Messy Nihilism
+
+{{!}}-{{!}}
+Nonfictionals=
+*[[Room of Silly]]
+
+| false= 
+}}
+}}
+|-|DCTs=
+{{#tag:tabber|Fictionals=
+*Tower of Mini Chart
+*P.E.N.T.A.G.O.N
+
+{{!}}-{{!}}
+Nonfictionals=
+*[[Great Monolith of Every EJT Difficulty]]
+
+}}
+</tabber>
+
+== Floors on [[File:Disarray.png|45x45px]] [[File:DisarrayText2.png|100x100px]] ==
+GCOPJD (Floor ???)
+
+GOOED (Floor 105)
+
+==[[File:Disarray.png|45x45px]] [[File:DisarrayText2.png|100x100px]]'s trivia==
+
+*The difficulty was made back in November 2022, but the icon was made a few days earlier than the creation of the difficulty itself.  
+**The difficulty was finished the 28th of December the same year.
+*The most amount of time between edits was 23 days.
+
+[[Category:Class 4]]
+
+==[[File:Disarray.png|45x45px]] [[File:DisarrayText2.png|100x100px]]'s continuation==
+You... actually beat this? This is a huge accomplishment. I guess you're good enough to move on to the next difficulty, [[File:SUFFER.png|32x32px]] [[SUFFER]]. This is probably going to be your last difficulty conquered since [[File:SUFFER.png|32x32px]] [[SUFFER]] is even worse than this. Well, all I can say now is... good luck.
+
+{{DifficultiesNavbox}}
+[[Category:Unofficial Difficulty]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Class 4]]
+[[Category:Difficulty]]
+[[Category:Humanly Impossible]]

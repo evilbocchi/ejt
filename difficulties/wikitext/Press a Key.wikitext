@@ -1,0 +1,97 @@
+{{DISPLAYTITLE:<span id="pak">Press A Key</span>}}
+{{CSS|content=<nowiki>
+#pak {
+    font-family: Helvetica;
+    font-weight: 400;
+    color: #000;
+    background: #FFF;
+    box-shadow: 0 0 0 0.1em #FFF
+}
+
+.theme-fandomdesktop-dark {
+    --theme-link-color: #95A3FF;
+}
+.theme-fandomdesktop-dark {
+    --theme-link-color: #95A3FF;
+}
+a {
+color:darkblue;
+}
+</nowiki>}}
+<div style="padding:1em;border-radius: 25px; background: linear-gradient(to bottom right, #BDACBF, #BDACBF);-webkit-text-fill-color: block;-webkit">
+{{Scrollbox|Notices={{Squint to Win|reason=The color of the links, Placid, and Jumpless against this page's background div make them hard to see. This also applies to other links in this page like when you're trying to search this difficulty's name on this wiki, as well as "move" tab from those 3 dots, and more.}}{{Humanly Possible}}{{JET}}}}
+{{NewDifficultyInfobox|title1=Press a Key|image1=[[File:Press A Key.png|250px]]|caption1=yo bro just press a key|class=Baseline Class 1|type=Normal|previous=[[File:PLACID.png|30px]] [[Placid]]|next=[[File:Cat.png|30px]] [[Climb A Truss]]|decal_id=[https://www.roblox.com/library/6382750189/Press-a-Key-Difficulty 6382750189]|short_name=PAK|date_removed=None|alt_previous=|alt_next={{Class0Difficulties|Tap to Move|25px}} [[Tap to Move]] (Sub Difficulty)|rating=-13|original_name=Press A Key|previous_name=Press A Key|sub_difficulty(ies)={{Class0Difficulties|Tap to Move|25px}} [[Tap to Move]] and [[File:WAS.png|25px]] [[Walk A Slope]]}}
+== <span style="color:black;">What is <span id="pak">Press A Key</span>? ==
+<span style="color:black;">[[File:Press A Key.png|25px]] <span id="pak">Press A Key</span>, also known as PAK, is a class 1 difficulty. It succeeds [[File:PLACID.png|25px]] [[Placid]], but proceeds {{Class0Difficulties|Jumpless|25px}} [[Jumpless]]. But on the unofficial difficulty chart it is easier than {{Class0Difficulties|Tap to Move|25px}} [[Tap to Move]]  Obstacles in this difficulty are similar to {{Class0Difficulties|Jumpless|25px}} [[Jumpless]], but you need to walk either forward, backwards, left, or right.
+
+== <span style="color:black;">Icon Representation ==
+<span style="color:black;">The icon is just a white background with black text reading "PAK", the acronym for the name of this difficulty.
+
+== <span style="color:black;">Obstacles in this difficulty ==
+
+* <span style="color:black;">A simple walk that requires no direction change.
+* <span style="color:black;">Also a simple walk but with direction change (must not require camera movement).
+* <span style="color:black;">0.001 stud long jump
+* <span style="color:black;">0.001 stud high jump.
+* <span style="color:black;">Holding the W or up arrow key for a minute.
+=== <span style="color:black;">Towers ===
+<tabber>
+|-|
+Non-fictional=
+* <span style="color:black;">[https://www.roblox.com/games/10588501607/The-World-Is-My-Canvas Tower of The World's My Canvas]
+*<span style="color:black;">Mini Mini Steeple of Epic Gamer Moments (deleted)
+*<span style="color:black;">[[Earth Navel of One-Truss Boredom]]
+*<span style="color:black;">[https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Absolutely Not a Tower]
+*<span style="color:black;">[[Tower of Choosing a Key To Press]]
+*<span style="color:black;">[[Slope Sliding Madness]]
+*<span style="color:black;">[https://www.roblox.com/games/80166612504189/NEON-Not-Too-Easy-Towers Tower of Venturing Controls]
+*<span style="color:black;">[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Edifice of Extended Forward Motion]
+*<span style="color:black;">[https://www.roblox.com/games/130994144609857/RING-2-QToN-XS Kind of an Extended Forward Motion]
+*<span style="color:black;">[https://www.roblox.com/games/8457114449/BIOME-3-Jacks-Tiny-Towers-Of-Hell Steeple of Rough Intentions]
+*<span style="color:black;">[https://www.roblox.com/games/80166612504189/1K-Event-ToFR-Not-Too-Easy-Towers Tower of Decent Walking Progression]
+*<span style="color:black;">[[Edifice of Tom]]
+*<span style="color:black;">[[Steeple of Sugar Coating]] <!--page will be added soon-->
+|-|
+TNZT=
+*<span style="color:black;">[[w:c:tnzt:Tower of An Environmental Experience|Tower of An Environmental Experience]] (ToAEE)
+*<span style="color:black;">[[w:c:the-noob-zone-towers:Tower_of_Staying_Inside_the_Lines|Tower of Staying Inside the Lines]]
+*<span style="color:black;">[https://tnzt.fandom.com/wiki/Tower_of_Earth_Explorers Tower of Earth Explorers]
+*<span style="color:black;">[https://tnzt.fandom.com/wiki/Tower_of_Spiraling_Frames Tower of Spiraling Frames]
+*<span style="color:black;">[https://tnzt.fandom.com/wiki/Steeple_of_Rooms Steeple of Rooms]
+*<span style="color:black;">[https://tnzt.fandom.com/wiki/Steeple_of_Visiting_The_Village Steeple of Visiting The Village]
+*<span style="color:black;">[https://tnzt.fandom.com/wiki/Tower_of_A_Peaceful_Hike Tower of A Peaceful Hike]
+*<span style="color:black;">[https://tnzt.fandom.com/wiki/Steeple_of_A_Leisurely_Walk Steeple of A Leisurely Walk]
+*<span style="color:black;">[https://tnzt.fandom.com/wiki/Tower_of_Vibrant_Venturing Tower of Vibrant Venturing]
+|-|
+Fictional/Unknown=
+*<span style="color:black;">[https://jtohs-easiest-towers.fandom.com/wiki/XD XD] (Fictional)
+* <span style="color:black;">Tower of One Truss (RToN) <!-- UNKNOWN -->
+* <span style="color:black;">Obelisk of Snake Eaters JToH > Formerly on The Nil Zone (However actual range of the raw difficulty spans from Press a Key, to Remorseless.) <!-- what is bro yapping about.. provide a link to the obelisk least | UNKNOWN -->
+*<span style="color:black;">[[Tower of ???? ?????? ???? ????]]
+</tabber>
+
+== <span style="color:black;">Gallery ==
+<gallery>
+File:Jwklong Press A Key.png|<span style="color:black;">An unofficial icon by [[user:jwklong|jwklong]].
+File:Static-assets-upload17284141460006836295.webp|<span style="color:black;">An unofficial icon by [[user:TrueApple25|TrueApple25]].
+File:Static-assets-upload2328249961425769495.webp|<span style="color:black;">An unofficial icon by [[user:Austinperferstobeunkown|Austinperferstobeunkown]].
+File:Static-assets-upload16724920219573088275.webp|<span style="color:black;">An unofficial icon by [[user:Guest 78266|Guest 78266]].
+File:PAKAlt7thRevamped.png|<span style="color:black;">An unofficial icon by [[User:Doniabobes|Doniabobes]].</span>
+File:Nononopakirl.webp|<span style="color:black;">An unofficial icon by [[User:Jtohfanlolandeatduck|Jtohfanloleatduck]]
+File:Aaaaaaaaaaaabro.webp|<span style="color:black;">An unofficial icon by [[User:Datoejammerz|Datoejammerz]].
+File:Pwessakey.png|<span style="color:black;">An unofficial icon by [[User:AlexJN|AlexJN]].
+</gallery>
+
+== <span style="color:black;">Continuing From This Point ==
+<span style="color:black;">Good job defeating this difficulty! Head to [[File:2Tap2Move.webp|25px]] [[Tap to Move|Tap To Move]].
+
+{{DifficultiesNavbox}}
+
+<sup><span style="color:black;">Credit to JToH's Easiest Towers wiki.</sup>
+[[Category:Difficulties]]
+[[Category:Class 1]]
+[[Category:Humanly Possible]]
+[[Category:Classic Difficulty]]
+[[Category:Two color icon]]
+[[Category:Starter Zone]]
+[[Category:PaKs]]

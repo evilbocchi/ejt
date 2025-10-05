@@ -1,0 +1,45 @@
+{{Former Class Finale|reason=TDEx change placements}}
+{{Humanly Impossible}}<font size="5"></font><center><font size="5">«<small>[[File:Immeasurable-0.png|frameless|30x30px]] [[W:c:jtohs-hardest-towers:Immeasurable|Immeasurable]]</small> | <u>'''[[File:Noxious.png|frameless|40x40px]]'''</u> <span style="background:linear-gradient(blue,cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">'''Noxious'''</span></span> |</font> [[File:Malicious.png|frameless|30x30px]] <font size="5">[https://jtoh-hardest-towers.fandom.com/wiki/Malicious Malicious]»</font></center>
+{{NewDifficultyInfobox|image1=<gallery>
+Noxious.png|Current
+OldNoxiousDifficultyIcon.png|Old
+</gallery>|class=Peak Class 4|type=Sub-Difficulty|class_range=Peak|difficulty_range=Baseline to Peak|creator(s)=Bryanjr7747|date_added=06/07/2022|previous=[[File:Immeasurable-0.png|frameless|30x30px]] [[W:c:jtohs-hardest-towers:Immeasurable|Immeasurable]]|next=[[File:Malicious.png|frameless|30x30px]] [[W:c:jtohs-hardest-towers:Malicious|Malicious]]|decal_id=*Current: [https://create.roblox.com/store/asset/103162534665709/ Here]
+*Old: [https://create.roblox.com/store/asset/82477281964346/ Here]
+*Original: [https://create.roblox.com/store/asset/15739775449/ Here]|main_difficulty=[[File:Immeasurable-0.png|frameless|30x30px]] [[W:c:jtohs-hardest-towers:Immeasurable|Immeasurable]]|rating=29.5}}
+==What is [[File:Noxious.png|frameless|35x35px]] <span style="background:linear-gradient(blue,cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">Noxious</span>?==
+<span style="background:linear-gradient(blue,black,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">'''Noxious'''</span></span> is a Class 4 sub-difficulty, located at the top of the class. It takes place after [[File:Immeasurable-0.png|frameless|30x30px]] [[W:c:jtohs-hardest-towers:Immeasurable|Immeasurable]], but before [[File:Malicious.png|frameless|30x30px]] [[W:c:jtohs-hardest-towers:Malicious|Malicious]]. It is also the last difficulty until the last JHT difficulty. Obstacles of this difficulty require numerous mastered techniques, as well as luck. Towers of this difficulty are impossible to beat without any tools. 
+
+Verifying an obstacle of this difficulty is nearly impossible, and will take a huge amount of attempts.  
+
+==Icon Representation ==
+[[File:Noxious.png|frameless|25x25px]] <span style="background:linear-gradient(blue,cyan); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: blue 0px 0.5px 6px;">'''Noxious'''</span></span> icon is a black to blue gradient, with the dominant color of blue. There is also a dark blue border/outline around the icon. It is not complicated, but not too simple either.
+
+==Obstacle Section==
+{{ObstacleTableRevamp|JumpClimbableBase=16.8|Increment=0.0216}}
+
+== Tower Section==
+
+===Towers of this Difficulty===
+none yet
+
+===Towers with this Difficulty===
+
+* [[Great Monolith of Every EJT Difficulty]]
+
+==Trivia==
+
+*This difficulty has been made because of YourNuglyGuy's post, which can be read [https://jtohs-joke-towers.fandom.com/f/p/4400000000000095682 here].
+*[[File:Immeasurable-0.png|frameless|30x30px]] [[W:c:jtohs-hardest-towers:Immeasurable|Immeasurable]] was the final difficulty of Class 4 for a long time, until this difficulty took the spot.
+*[[Nightmare]] has been used as inspiration for this difficulty.
+*This difficulty was originally made by YataDev
+
+==Continuing from this Point==
+I don't know how you did that, but you sure as hell must be a great obbyist. Or you just used exploits. Doesn't matter now, as it's time to continue and continue onto [[File:Malicious.png|frameless|30x30px]] [[W:c:jtohs-hardest-towers:Malicious|Malicious]]. You will need a lot of game experience and luck, if you want to try to complete a tower of that difficulty.                                                                         
+{{DifficultiesNavbox}}
+[[Category:Class 4]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Humanly Impossible]]
+[[Category:Difficulty]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]

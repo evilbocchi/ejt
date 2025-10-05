@@ -1,0 +1,198 @@
+{{DISPLAYTITLE:<span id="menacing">Menacing</span>}}
+{{CSS|content=<nowiki>
+#menacing {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #B2140E;
+}
+#rage {
+    font-family: Balthazar;
+    font-weight: 400;
+    color: darkred;
+}
+#wacky {
+    background: linear-gradient(red,#19222D);
+    background-clip: text; 
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+}
+#bottom {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #23CA83;
+}
+#bottomlow {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #23C941;
+}
+#low {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #59CA24;
+}
+#lowmid {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #97CA23;
+}
+#mid {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #C9CA24;
+}
+#midhigh {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #C9A523;
+}
+#high {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #CA7D23;
+}
+#highpeak {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #C94B23;
+}
+#peak {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #CA2323;
+}
+</nowiki>}}
+{{NoticeScrollboxNew
+|Notices=
+{{Inclusion|reason=Allowed by staff}}
+{{Humanly Possible}}
+{{Large Page}}}}
+<p style="margin:2em"></p>
+{{JToHW Quote
+|text=Good job on making it here, as it must've been pretty difficult to do so. Just note that you are already more skilled than the average player.
+|quoter=Narrator}}
+<p style="margin:2em"></p>
+{{NewDifficultyInfobox
+|gradient=#B2140E,#B2140E
+|title1=Menacing
+|image1=MenacingDifficulty.png
+|class=[[:Category:Class 2|Class 2]]
+|rating=4.5
+|type=Normal
+|previous={{Class2Difficulties|Difficult|25px}} [[w:c:jtoh:Difficult|Difficult]]
+|next={{Class2Difficulties|Challenging|25px}} [[w:c:jtoh:Challenging|Challenging]]
+|alt_previous=[[File:Strenuous.png|25px]] [[Strenuous]] (Sub-Difficulty)
+|alt_next=[[File:Harming.svg|25px]] [[Harming]] (Sub-Difficulty)
+|class_range=Low
+|decal_id=*Current: N/A
+*Old: 14569082810
+*Oldest: N/A
+|sub_difficulty(ies)=*[[File:Harming.svg|25px]] [[Harming]]
+*[[File:WackyNewer.jpg|25px|link=User blog:Zeptocube/Wacky]] [[User blog:Zeptocube/Wacky|<span id="wacky">Wacky</span>]] (Removed)
+|official_music(s)=A Hat In Time - Mafia Boss’ Big Showdown
+|creator(s)=[[File:Vira.png|25px|link=User:Viranenthusiast]] [[User:Viranenthusiast|vira]]
+|alt_names=Complex}}
+==Description==
+<span id="menacing">'''Menacing'''</span> is a [[:Category:Class 2|Class 2]] difficulty directly between the Eternal Towers of Hell difficulties, {{Class2Difficulties|Difficult|25px}} [[w:c:jtoh:Difficult|Difficult]] and {{Class2Difficulties|Challenging|25px}} [[w:c:jtoh:Challenging|Challenging]].<ref>Alternatively between [[File:Strenuous.png|25px]] [[Strenuous]] and [[File:Harming.svg|25px]] [[Harming]] if counting sub-difficulties.</ref> This difficulty is where things start to get properly complicated, as 1 studs are now fairly common-place, and more long jumps start becoming prevalent (7-8 studs), and wraparounds of 5-7 studs can generally be found in this difficulty. Additionally, sometimes glitches may be used. 
+
+A [[Metris|Metris (Kol Metris)]] ranking for this difficulty would rank at about ~|55|, whereas a Tier rating would approximate at about [[Tiers#Tier 7|Tier 7]]. Overall, this difficulty is still fairly easy to beat with patience and some skill.
+==Obstacles==
+Keep note that these likely will not be accurate.
+<tabber>
+|-|
+Bottom=
+===Bottom <span id="menacing">'''Menacing'''</span>===
+*6.5 stud wraparound (C).
+*6 stud wraparound (UC).
+*9.5 stud jump (C).
+*9.4 stud jump (UC).
+|-|
+Low=
+===Low <span id="menacing">'''Menacing'''</span>===
+*6.7 stud wraparound (C).
+*6.2 stud wraparound (UC).
+*9.6 stud jump (C).
+*9.5 stud jump (UC).
+|-|
+Middle=
+===Middle <span id="menacing">'''Menacing'''</span>===
+*6.9 stud wraparound (C).
+*6.4 stud wraparound (UC).
+*9.7 stud jump (C).
+*9.6 stud jump (UC).
+|-|
+High=
+===High <span id="menacing">'''Menacing'''</span>===
+*7.1 stud wraparound (C).
+*6.6 stud wraparound (UC).
+*9.8 stud jump (C).
+*9.7 stud jump (UC).
+|-|
+Peak=
+===Peak <span id="menacing">'''Menacing'''</span>===
+*7.3 stud wraparound (C).
+*6.8 stud wraparound (UC).
+*10 stud jump (C).
+*9.8 stud jump (UC).
+</tabber>
+==Towers with this difficulty==
+To be updated
+<tabber>
+EToH=
+===Non-Fictional===
+Generally based on rating, NOT overall difficulty. Also, towers that have the rating of sub-difficulties will not be listed.
+*SoBB(E) - [[w:c:jtoh:SoBB|Steeple of Blighted Blazonry]] (4.5) (<span id="bottom">'''Bottom (Baseline)'''</span>)
+*ToET(E) - [[w:c:jtoh:ToET|Tower of Elevator Travelling]] (4.51) (<span id="bottom">'''Bottom'''</span>)
+*ToRR(E) - [[w:c:jtoh:ToRR|Tower of Radiant Realms]] (4.52)  (<span id="bottomlow">'''Bottom-Low'''</span>)
+*ToMA(E) - [[w:c:jtoh:ToMA|Tower of Mild Agitation]] (4.52)  (<span id="bottomlow">'''Bottom-Low'''</span>)
+*ToFV(E) - [[w:c:ToFV|Tower of Fractal Volution]] (4.52)  (<span id="bottomlow">'''Bottom-Low'''</span>) 
+*ToSG(M) - [[w:c:jtoh:ToSG(M)|Tower of Subtle Graciousness]] (4.56)  (<span id="low">'''Low'''</span>) 
+*SoWP(E) - [[w:c:jtoh:SoWP|Steeple of Wall Punching]] (4.57)  (<span id="low">'''Low'''</span>)
+*ToLL(E) - [[w:c:jtoh:ToLL|Tower of Leaning Ledges]] (4.57)  (<span id="low">'''Low'''</span>)
+*ToUP(E) - [[w:c:jtoh:ToUP(L)|Tower of Unfortunate Possibilities]] (4.57)  (<span id="low">'''Low'''</span>)
+*ToRB(E) - [[w:c:jtoh:ToRB|Tower of Rushed Building]] (4.58)  (<span id="low">'''Low'''</span>)
+*ToLD(E) - [[w:c:jtoh:ToLD|Tower of Lotsa Damage]] (4.61) (<span id="lowmid">'''Low-Mid'''</span>)
+*ToPD(M) - [[w:c:ToPD(M)|Tower of Pleasant Descents]] (4.61) (<span id="lowmid">'''Low-Mid'''</span>)
+*SoCMC(E) - [[w:c:jtoh:SoCMC|Steeple of Crazy Maniac's Cabin]] (4.63) (<span id="mid">'''Mid'''</span>)
+*ToV(E) - [[w:c:jtoh:ToV|Tower of Versatility]] (4.64) (<span id="mid">'''Mid'''</span>)
+*ToCaS(E) - [[w:c:jtoh:ToCaS|Tower of Cogs and Steam]] (4.66) (<span id="midhigh">'''Mid-High'''</span>)
+*ToRC(E) - [[w:c:jtoh:ToRC|Tower of Rock Climbing]] (4.67) (<span id="midhigh">'''Mid-High'''</span>)
+*ToAIR(M) - [[w:c:jtoh:ToAIR(M)|Tower of An Intricate Rise]] (4.68) (<span id="high">'''High'''</span>)
+*SoRIS(E) - [[w:c:jtoh:SoRIS|Steeple of Resort In Stasis]] (4.71) (<span id="highpeak">'''High-Peak'''</span>)
+*ToWP(M) - [[w:c:jtoh:ToWP(M)|Tower of Wacky Progression]] (4.72) (<span id="highpeak">'''High-Peak'''</span>)
+*ToDF(E) - [[w:c:jtoh:ToDF|Tower of Destructive Fever]] (4.72) (<span id="highpeak">'''High-Peak'''</span>)
+*ToYLFW(E) - [[w:c:jtoh:ToYLFW|Tower of You're Late For Work]] (4.73) (<span id="peak">'''Peak'''</span>)
+*ToCO(E) - [[w:c:jtoh:ToCO|Tower of Contractual Obligations]] (4.74) (<span id="peak">'''Peak'''</span>)
+*ETTTT(E) - [[w:c:ETTTT|ETOH TYCOON TYCOON TYCOON TYCOON]] (4.74) (<span id="peak">'''Peak'''</span>)
+|-|
+Fictional=
+===Fictional=== 
+*ToHI(F) - '''Tower of High Intensity''' (4.5) (<span id="bottom">'''Bottom (Baseline)'''</span>)
+*ToC(F) - '''Tower of Complexities''' (4.59) (<span id="lowmid">'''Low-Mid'''</span>)
+*ToST(F) - '''Tower of Stressful Tendencies''' (4.7) (<span id="high">'''High'''</span>)
+</tabber>
+==Trivia== 
+===General===
+*This was [[User:Viranenthusiast|vira]]’s second-ever Class 2 difficulty in 2022, only after [[File:Jolliness New New.png|25px]] [[User blog:EpicTheGamer2014/Onerous|Onerous]].
+**This was also the second Class 2 difficulty after it was unlocked in 2022 due to {{Class2Difficulties|Insane|25px}} [[w:c:jtoh:Insane|Insane]] and {{Class2Difficulties|Extreme|25px}} [[w:c:jtoh:Extreme|Extreme]] (and by extension, its sub-difficulties) being moved to Class 3.<ref>However, both of these metrics are outdated due to the difficulty chart being shifted multiple times.</ref>
+===History===
+*This was initially created on the 15th June 2022, called Agitation, and was a main difficulty between {{Class2Difficulties|Difficult|25px}} [[w:c:jtoh:Difficult|Difficult]] (as well as the now deleted [[File:Rage revamp icon.png|25px]] <span id="rage">'''Rage'''</span>) and {{Class2Difficulties|Challenging|25px}} [[w:c:jtoh:Challenging|Challenging]]. 
+*On the 20th July 2022, the user [[User:YataDev|YataDev]]<ref>Administrator at the time.</ref> had deleted the difficulty as it was seen as bad. 
+*A few hours later, the creator [[User:Viranenthusiast|vira]] revived it in a blog post. At the time, this had given it the technically revived status.
+*On the 27th July 2022, it was moved back into the mainspace once again.
+*At an unknown date, it was made into a {{Class2Difficulties|Difficult|25px}} [[w:c:jtoh:Difficult|Difficult]] sub-difficulty.
+*On the 5th March 2024, it was moved into a blog post once again and turned into a CDC exclusive difficulty due to its lack of towers and overall lack of necessity.
+*On the 7th April 2025, just over eleven months later, it was remade into a main difficulty once again and changed to be called <span id="menacing">'''Menacing'''</span>, with a new icon to serve.<ref>The name was changed to make it fit more with the EToH difficulties, just like the icon change.</ref>
+*On the 12th August 2025, [[User:Sanjay2133|Sanjay2133]] revived the difficulty, bringing it back to the main difficulty chart.
+==Gallery==
+<center><gallery>
+File:MenacingDifficulty.png|The current icon for <span id="menacing">'''Menacing'''</span>.
+File:Agitation.png|The icon for <span id="menacing">'''Menacing,'''</span> back when it was referred to as '''Agitation'''.
+File:CB8257D1-1046-4B9C-8BAB-D27600B3EEF0.png|The original icon for <span id="menacing">'''Menacing'''</span>.
+</gallery></center>
+==Continuing on from this point==
+From this point on, there are a variety of choices. Either the player could move onto [[File:Harming.svg|25px]] [[Harming]], <span id="menacing">'''Menacing's'''</span> sole sub-difficulty, or they could simply go to {{Class2Difficulties|Challenging|25px}} [[w:c:jtoh:Challenging|Challenging]].
+{{DifficultiesNavbox}}
+===References===
+[[Category:Class 2]]

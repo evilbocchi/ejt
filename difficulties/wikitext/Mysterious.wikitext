@@ -1,0 +1,66 @@
+<!-->Go back to True Core, the beginning of this all. What have you found? A part of damaged core. Return it.</!-->{{Scrollbox|Notices=
+'''Notices'''
+{{Physically Impossible}}
+----
+}}
+==Introduction==
+{{NewDifficultyInfobox
+|title1=<span style="background:linear-gradient(90deg,yellow,grey,yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mysterious'''</span>
+|image1=Mysterious2.png
+|caption1=why does it remind me of the backrooms - PhilG in TDM:R old server
+|class=[[:Category:Class 9|Class 9]]
+|type=* Unofficial Difficulty
+* Physically Impossible
+* [[:Category:Liminality Chain|Liminality Chain]] Difficulty
+|previous=[[File:New Misery Icon.png|30px|link=Maliciofied]] [[Misery]]
+|next=[[File:Undocumented.png|30px|link=Undocumented]] [[Undocumented]]
+|difficulty_range=The properties of Mysterious cannot allow a proper difficulty range.
+|decal_id=[https://create.roblox.com/store/asset/120104443993425/Mysterious 120104443993425]
+|class_range=Middle
+|rating=94}}
+<span style="background:linear-gradient(90deg,yellow,grey,yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mysterious'''</span> is the first difficulty of the [[:Category:Liminality Chain|Liminality Chain]], with the other 2 in the chain being called [[File:Undocumented.png|25x25px]] [[Undocumented]] and [[File:Liminesque.png|frameless|25x25px]] [[Denial]]. As the name would suggest, this difficulty is the embodiment of mystery, and is similar to other difficulties like [[Choice]] and [[Confusion]].
+
+It also goes between [[File:New Misery Icon.png|25x25px|link=Maliciofied]] [[Misery]] and [[File:Undocumented.png|25x25px|link=Undocumented]] [[Undocumented]] currently, due to the rest of the chain not having been created yet. This difficulty also originated from '''The Difficulty Machine: Revamp''', all the way in Class 33. You can still find it there.
+
+Despite obstacles not being definitive due to this difficulty's properties, a tier rating of this would be estimated at around the thousands (albeit probably quite inaccurate due to tiers being highly different to difficulties) and the Kol Metris rating would be around |300|.
+==Icon Representation==
+'''Mysterious'''’s icon is represented by grey to dark yellow gradient, with a outer black border and an inner pale yellow border with glitch on it. There is a white ? with a transparent diamond shape around it (which also has a black border). There is a black border thing in the top right and bottom left corners of the icon, and there is some noise on the icon.
+
+== Obstacles ==
+Obstacles of <span style="background:linear-gradient(90deg,yellow,grey,yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mysterious'''</span> are not definitive, however they range between Maliciofied and Undocumented. It can be anything in that range, and is randomly generated. It is overall mysterious.
+
+However, obstacles will still be listed in ranges, not definitive stud amounts.
+
+* 1260 to 4280 stud jump. (Climbable)
+* 1255 to 4275 stud jump. (Unclimbable)
+* 1255 to 4275 stud wrap. (Climbable)
+* 1260 to 4280 stud wrap. (Unclimbable)
+
+==Towers==
+
+=== Towers in this difficulty (all fictional) ===
+
+* Tower of Mysterious Mayhem (ToMM)
+* Tower of Mysterious Properties (ToMP)  
+*Box of Fascinating Mechanisms (BoFM)  
+
+=== Towers with this difficulty ===
+
+* N/A
+
+== Trivia ==
+
+* As said previously, this is a Class Post-25 difficulty in TDM:R (around C33).
+* This difficulty, along with the others in the chain, was going to be scrapped for a Judgement chain, but both will be made.
+
+== Continuing on from this point ==
+After completing <span style="background:linear-gradient(90deg,yellow,grey,yellow); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Mysterious'''</span>, [[File:Undocumented.png|25x25px|link=Undocumented]] [[Undocumented]] would obviously be the next difficulty you come across in your journey of the [[Alternate Difficulty Chart]].
+{{DifficultiesNavbox}}
+[[Category:Class 9]]
+[[Category:Difficulty]]
+[[Category:Difficulties]]
+[[Category:Liminality Chain]]
+[[Category:Physically Impossible]]
+ 
+[[Category:Unbuildable]]
+[[Category:Humanly Impossible]]

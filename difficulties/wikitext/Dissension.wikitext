@@ -1,0 +1,64 @@
+{{NoticeScrollboxNew|Notices={{Physically Impossible}}{{Former Class Finale|reason=See the trivia.}}}}
+{{BetterQuote|text=…You’ve actually made it. To the near-end of Class 7 of the [[Main Difficulty Chart]]. You’ve maneuvered through many, many measurements, and you’re right near [[MegaDeath]], the second legendary difficulty. I hope you are willing to put up a good fight.|quoter=???}}
+==What is [[File:Diss.png|frameless|30x30px]] '''<span style="color:teal">Dissension</span>'''?==
+{{NewDifficultyInfobox|title1=[[File:Diss.png|frameless|30px]] '''<span style="color:teal">Dissension</span>'''|image1=Diss.png|caption1=Welp, now it’s just another meaningless difficulty. btw, I made the icon but Noez uploaded it for no reason lo|class=[[:Category:Class 7|Peak Class 7]]|type=[[:Category:Sub-Difficulties|Sub-Difficulty]]|previous={{Class10Difficulties|Doog}} [[Doog]]|next={{Class10Difficulties|MegaDeath}} [[MegaDeath]]|class_range=[[:Category:Class 7|Peak Class 7]]|difficulty_range=Baseline-Peak|decal_id=[https://create.roblox.com/store/asset/11699214406/Dissension 11699214406]|creator(s)=*[[User:OrbentuneAlt|OrbentuneAlt]]|date_added=21/11/2022|prior_previous=[[File:JesusBallin.png|30px]] [[Jesus Ballin'|<span style="color:lime">'''Jesus Ballin’'''</span>]] (39)|alt_previous=|alt_next=|original_class=Class 8|original_type=Finale (not class finale, FINALE)|sub_difficulty(ies)=Nome|official_music(s)=Unknown|rating=74.5|main_difficulty=[[:Category:Sub-Difficulties|Sub-Difficulty]]}}[[File:Diss.png|frameless|30px]] '''<span style="color:teal">Dissension</span>''' is the former last difficulty of the official chart, before [[MegaDeath]] swooped the throne from it out of choice from the creator. Speaking of which, this difficulty is located between {{Class10Difficulties|Doog}} [[Doog|<span style="color:orange">'''Doog'''</span>]] and {{Class10Difficulties|MegaDeath}} [[MegaDeath|<span style="color:red">'''MegaDeath'''</span>]], the finale of class 7, but in the [[Main Difficulty Chart]], it is far from the last difficulty. This doesn’t change the fact that it is still absolutely, Inexistently, beyond any form of possibility. To put it bluntly, you’ll probably be stopped. I know it’s repetitive, but it’s how things are.
+
+This extends far out of the tier list, although the tier amount of Dissension could be closer to the high thousands and low tens of thousands, and the Kol Metris value may be close to the middle-high hundreds or even the highest hundreds. Yeah, it’s very hard.
+==Icon Representation==
+[[File:Diss.png|center|frameless|100x100px]][[File:Diss.png|frameless|30px]] '''<span style="color:teal">Dissension</span>'''’s icon is divided into 3 sections, the left being green, the middle being greenish teal, and the right section being teal. There are some filters, like fisheye lens, glitch and pixelation. It may look complex, but is simple to explain.
+==Obstacles==
+===Baseline '''Dissension'''===
+
+*54.5 stud jump (Climbable)
+*52.5 stud jump (Unclimbable)
+*50.5 stud wraparound (Climbable)
+*48.5 stud wraparound (Unclimbable)
+
+===Low '''Dissension'''===
+
+*54.6 stud jump (Climbable)
+*52.6 stud jump (Unclimbable)
+*50.6 stud wraparound (Climbable)
+*48.6 stud wraparound (Unclimbable)
+
+===Middle '''Dissension'''===
+
+*54.7 stud jump (Climbable)
+*52.7 stud jump (Unclimbable)
+*50.7 stud wraparound (Climbable)
+*48.7 stud wraparound (Unclimbable)
+
+===High '''Dissension'''===
+
+*54.8 stud jump (Climbable)
+*52.8 stud jump (Unclimbable)
+*50.8 stud wraparound (Climbable)
+*48.8 stud wraparound (Unclimbable)
+
+===Peak '''Dissension'''===
+
+*54.9 stud jump (Climbable)
+*52.9 stud jump (Unclimbable)
+*50.9 stud wraparound (Climbable)
+*48.9 stud wraparound (Unclimbable)
+
+==Tower Section==
+===Towers in this difficulty===
+*The Collapsed Time Rift (Tower) (TCTR) (Fictional)
+*Edifice of The Former End. (EoTE.) (Fictional)
+*Steeple of Insanity (SoI) (Fictional)
+===Towers with this difficulty=== 
+*[[Centurion of Infinite Difficulty Demise]] (CoIDD)
+==Trivia==
+* This was originally gonna be the last difficulty added to Class 24, but was repurposed instead.
+*This is one of the shorter lived chart finale difficulties, lasting a total of… 8 days, before it became just a normal difficulty.
+*[[Effortful|Barrier]] 3 complete: Probability- The limit of physical possibility.
+==Continuing on from this point==
+Congratulations! You should move onto the second legendary, {{Class10Difficulties|MegaDeath}} [[MegaDeath|<span style="color:red">'''MegaDeath'''</span>]], if you value ascending further in this chart.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 7]]
+[[Category:Physically Impossible]]

@@ -1,0 +1,187 @@
+{{Scrollbox|Notices={{Humanly Possible}}
+{{Large Page}}}}
+{{DISPLAYTITLE:<span id="anguish">Anguish</span>}}
+{{Redirect
+|Previous=[[File:NewUnrealIcon.png|30px]] [[w:c:jtohs-hardest-towers:Unreal|Unreal]]
+|Current=[[File:Anguish2.png|30px]] <span id="anguish">Anguish</span>
+|Next=[[File:Nil revamp lol.png|30px]] [[w:c:jtohs-hardest-towers:Nil|nil]]}}
+{{JToHW Quote
+|text=This is not to be confused with the joke EToH difficulty [[File:CrazyFromGammator.webp|25px]] [[w:c:jtoh:User blog:The Difficulty Enthusiast/crazy diff archive or smth|<span id="crazy">Crazy</span>]], a difficulty which only exists as an emoji within the respective games discord server.
+|quoter=vira}}
+<p style="margin:2em"></p>
+==Description==
+{{NewDifficultyInfobox
+|gradient=#cb8442,#69411d
+|title1={{PAGENAME}}
+|image1=AnguishNew2.png
+|class=[[:Category:Class 3|Class 3]]
+|rating=15
+|type=[[:Category:Difficulties|Normal]]
+|previous=*[[File:NewUnrealIcon.png|25px|link=w:c:jtohs-hardest-towers:Unreal]] [[w:c:jtohs-hardest-towers:Unreal|Unreal]]
+|next=*[[File:Nil revamp lol.png|25px|link=w:c:jtohs-hardest-towers:Nil]] [[w:c:jtohs-hardest-towers:Nil|nil]]
+|alt_previous=*{{Class3Difficulties|Hyper|25px}} [[HYPER]]
+*[[File:ProdigiousIcon.png|25px|link=User blog:EpicTheGamer2014/Prodigious]] [[User blog:EpicTheGamer2014/Prodigious|Prodigious]] (CDC)
+|alt_next=*[[File:TheHumanLimit.png|25px|link=The Human Limit]] <small>[[The Human Limit]]</small>
+*[[File:Oblivious.png|25px|link=User blog:EpicTheGamer2014/Oblivious]] [[User blog:EpicTheGamer2014/Oblivious|Oblivious]] (CDC)
+|decal_id=82907913542143
+|difficulty_range=Baseline - Peak
+|sub_difficulty(ies)=*[[File:Oblivious.png|25px|link=User blog:EpicTheGamer2014/Oblivious]] [[User blog:EpicTheGamer2014/Oblivious|Oblivious]] (CDC-Exclusive)
+|official_music(s)=*Celeste - Scattered and Lost
+|creator(s)=*[[File:aguywhoexists.jpeg|25px|link=User:AGuyWhoExists I Guess]][[User:AGuyWhoExists I Guess|AGuy]] (Owner)
+*[[File:vira.png|25px|link=User:Viranenthusiast]] [[User:Viranenthusiast|vira]] (Creator)
+*[[File:InvertedVertically.png|25px|link=User:InvertedVertically]][[User:InvertedVertically|InvertedVertically]] (Revamper)
+|prior_next=[[File:Misanthrope.png|25px|link=User blog:EpicTheGamer2014/Misanthrope]] [[User blog:EpicTheGamer2014/Misanthrope|Misanthrope]]
+|prior_previous=[[File:T7.jpg|25px]] <span id="t7">T7</span> (Deleted)
+[[File:No U.gif|25px|link=Reversed]] [[Reversed]] (Sub-Difficulty)
+|date_added=28th June 2022
+|revamp_date=*6th November 2022
+*18th August 2024
+|previous_sub_difficulty(ies)=[[File:2022 11 20 0ec Kleki.png|25px]] <span id="tbot">The Beginning Of TAS</span> (Deleted)
+|brickcolor=*Bright orange (Outline)
+*Really Black (Inside)
+|hex_color=*#da8541 (Outline)
+*#111111 (Inside)
+|rgb_color=*218,133,65 (Outline)
+*17,17,17 (Inside)}}
+[[File:Anguish2.png|25x25px]] <span id="anguish">Anguish</span> is a Peak [[:Category:Class 3|Class 3]] difficulty with a rating of 15. It is represented with the color black with a bright orange outline, styled after the [[w:c:jtoh:PoM|Pit of Misery]] SC+ difficulties. This difficulty is supposed to represent the idea of The Forgotten Difficulties, a set of three difficulties that were placed between [[w:c:jtoh:Unreal|Unreal]] and [[w:c:jtoh:Nil|nil]].<ref>According to the Unreal page on the EToH wiki.</ref><ref>Gammattor’s take was created '''after''' this difficulties creation.</ref>
+
+Towers in this difficulty are generally convoluted with the jumps they use, as a way for making up the fact that they are almost always purist. They also generally also consist of combinations of endurance tests, extreme glitch abuse and insanely precise camera and movement usage.  
+
+The feasibility of this difficulty is debated, as it is above Unreal, which has the hardest beaten tower. However, for the purposes of this wiki it will be considered a possible difficulty.
+
+[[File:Anguish2.png|25x25px]] <span id="anguish">Anguish</span> is also the second difficulty in the EToH spectrum that changes the difficulty ratings once again, because it has the exclusive rating of 15. The EToH rating that corresponds to this is (13.5 - 13.99).
+
+== Icon Representation ==
+Using the theme of The Forgotten Difficulties, the icon of [[File:Anguish2.png|25x25px]] <span id="anguish">Anguish</span> is an idea of what one of them would look like using the updated colors of the [[File:A23F67CF-8FFC-4BAF-8BDB-DBF544F9B561.webp|20px]] [[w:c:jtoh:Pit of Misery|Pit of Misery]]. It is most-likely that this difficulty is not inspired by the similar icon of Crazy, since that one seems to be inspired by the popular game, [[File:2Icon.webp|20x20px]] [[w:c:flood-escape-2:Crazy Maps|Flood Escape 2]]. Also,  [[File:Anguish2.png|25x25px]] <span id="anguish">Anguish</span> has the internal color be a dark grey, possibly because of the next difficulty being the [[The Human Limit]].
+
+==Placement==
+<tabber>
+Hide=
+|-|
+Text=
+<span id="anguish">Anguish</span> is above the non-canon EToH difficulty [[File:NewUnrealIcon.png|25px|link=w:c:jtohs-hardest-towers:Unreal]] [[w:c:jtohs-hardest-towers:Unreal|Unreal]] and below the removed EToH difficulty [[File:Nil revamp lol.png|25px|link=w:c:jtohs-hardest-towers:Nil]] [[w:c:jtohs-hardest-towers:Nil|nil]]. 
+
+When accounting for alternative placements, this difficulty is above the sub-difficulty of {{Class3Difficulties|Hyper|25px}} [[HYPER]] and the CDC exclusive of [[File:ProdigiousIcon.png|25px|link=User blog:EpicTheGamer2014/Prodigious]] [[User blog:EpicTheGamer2014/Prodigious|Prodigious]], yet below the legendary difficulty [[File:TheHumanLimit.png|25px|link=The Human Limit]] <small>[[The Human Limit]]</small> and the CDC exclusive sub-difficulty of [[File:Oblivious.png|25px]] [[User blog:EpicTheGamer2014/Oblivious|Oblivious]].
+
+<span id="anguish">Anguish</span> also used to be after the now deleted [[File:T7.jpg|25px]] <span id="t7">T7</span>, as well as [[File:No U.gif|25px|link=Reversed]] [[Reversed]], and used to be before [[File:Misanthrope.png|25px|link=User blog:EpicTheGamer2014/Misanthrope]] [[User blog:EpicTheGamer2014/Misanthrope|Misanthrope]]. It also used to have a sub-difficulty called [[File:2022 11 20 0ec Kleki.png|25px]] <span id="tbot">The Beginning Of TAS</span>.
+|-|
+List=
+Alternatively, a simple placement list has been provided (although this focuses on the community chart placement).
+
+*[[File:NewUnrealIcon.png|25px|link=w:c:jtohs-hardest-towers:Unreal]] [[w:c:jtohs-hardest-towers:Unreal|Unreal]] (14)
+**[[File:New_Treacherous_Icon.png|25px]] [[Treacherous]] (14.25)
+**{{Class3Difficulties|Hyper|25px}} [[HYPER]] (14.5)
+**[[File:ProdigiousIcon.png|25px|link=User blog:EpicTheGamer2014/Prodigious]] [[User blog:EpicTheGamer2014/Prodigious|Prodigious]] (14.75)
+*[[File:Anguish2.png|25x25px]] <span id="anguish">Anguish</span> (15)
+**[[File:Oblivious.png|25px|link=User blog:EpicTheGamer2014/Oblivious]] [[User blog:EpicTheGamer2014/Oblivious|Oblivious]] (Sub-Difficulty) (15.25)
+**[[File:TheHumanLimit.png|50px|link=The Human Limit]] [[The Human Limit]] (15.5)
+*[[File:Misanthrope.png|25px]][[Misanthrope]] (15.75)
+*[[File:Nil revamp lol.png|25px|link=w:c:jtohs-hardest-towers:Nil]] [[w:c:jtohs-hardest-towers:Nil|nil]] (16)
+</tabber>
+==Obstacles==
+This has one set of general obstacles to allow for more freedom. Also please note these obstacles are most likely inaccurate.
+*13.5 stud jump (60fps, Climbable)
+*13 stud jump (60fps, Unclimbable)
+*13.3 stud wrap (60fps, Climbable)
+*12.8 stud wrap (60fps, Unclimbable)
+*13.4 stud jump with a wedge of 30° in the middle<ref>Suggested by [[User:TneEnchantedPokemon]].</ref>
+==Towers==
+Just like [[Relentless]] and onwards, this section will have a EJT rating and a EToH one. This time, there will be an even bigger gap between them.
+
+'''[_.__] = EToH Diff'''
+
+(_.__) = EJT Diff
+{| class="mw-collapsible wikitable" style="text-align:center; width: 100%;"
+|+<span style="font-weight:bold;font-size:100%;background: linear-gradient(to right, #d48546, #67401d); -webkit-background-clip:text; -webkit-text-fill-color:transparent;"><big>Table Format</big></span>
+!'''Unknown'''
+!'''Baseline'''
+'''[13.50 - 13.59]''' 
+
+(15.00 - 15.19)
+!'''Low'''
+'''[13.60 - 13.69]'''
+
+(15.20 - 15.39)
+!'''Mid'''
+'''[13.70 - 13.79]'''
+
+(15.40 - 15.59)
+!'''High'''
+'''[13.80 - 13.89]'''
+
+(15.60 - 15.79)
+!'''Peak'''
+'''[13.90 - 13.99]'''
+
+(15.80 - 15.99)
+|-
+| style="background: #111111; color: #ffffff" |<u>SoFTL</u> <sub>(fictional)</sub>
+SoGD <sub>(QToN)</sub>
+
+R25:A <sub>(DR)</sub>
+| style="background: #d48546; color: #ffffff" |ToZS <sub>(EToH:TEA)</sub>
+ToTQFP <sub>(EToH:TEA)</sub>
+
+TaBLE <sub>(EHT)</sub>
+| style="background: #c6834c; color: #ffffff" |ToINE <sub>(EToH:TEA)</sub>
+| style="background: #b98153; color: #ffffff" |ToSFA <sub>(EHT)</sub>
+ToIZ <sub>(EToH:TEA)</sub>
+| style="background: #ac7e5a; color: #ffffff" |LT <sub>(EHT)</sub>
+GOoIaIH <sub>(EJT)</sub>
+| style="background: #9f7c60; color: #ffffff" |STONE <sub>(EToH:TEA)</sub>
+ToV <sub>(EToH:TEA)</sub>
+|}
+
+=== Baseline ===
+
+* [[w:c:pom2:Tower of Zen Surplus|Tower of Zen Surplus]] <sub>(EToH:TEA)</sub> '''[13.50]''' | (15.00)
+* [[w:c:pom2:ToTQFP|Tower of The Quest For Perfection]] <sub>(EToH:TEA)</sub> '''[13.50]''' | (15.00)
+* [[w:c:jtohs-hardest-towers:Totally a Brutally Long Ending|Totally a Brutally Long Ending]] <sub>(EHT)</sub> '''[13.55]''' | (15.09)
+
+=== Low ===
+
+* [[w:c:pom2:ToINE|Tower of It Never Ends]] <sub>(EToH:TEA)</sub> '''[13.65]''' | (15.29) 
+
+=== Mid ===
+
+* [https://www.roblox.com/games/12591631758/Tower-of-Sorrows-For-Anguish Tower of Sorrows For Anguish] <sub>(EHT)</sub> '''[13.73]''' | (15.54)
+* [[w:c:pom2:ToIZ|Tower of Insane Zodiac]] <sub>(EToH:TEA)</sub> '''[13.75]''' | (15.55)
+
+=== High ===
+
+* [[w:c:jtohs-hardest-towers:Long Tower|Long Tower]] <sub>(EHT)</sub> '''[13.80]''' | (15.60)
+* [[Great Obelisk of Interminable and Insufferable Heights]] <sub>(EJT)</sub> '''[13.88]''' | (15.78)
+
+=== Peak ===
+
+* [[w:c:pom2:STONE|Sadistically Terrifying Overachieving Neglectful Enragement Facility]] <sub>(EToH:TEA)</sub> '''[13.90]''' | (15.80)
+* [[w:c:pom2:ToV|Tower of Void]] <sub>(EToH:TEA)</sub> '''[13.95]''' | (15.91)
+* [[Citadel of Warm Pillow]] [13.96] | (15.93)
+
+=== Unknown ===
+
+* SoFTL - [[Steeple of Finding the Light|Steeple of Finding The Light]] <sub>(fictional)</sub> '''[13.5?]''' | (15.1?)
+* SoGD - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Steeple of Geosynchronous Departure] <sub>(QToN)</sub> '''[13.5?]''' | (15.??)
+*R25:A - [https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 25: Anguish] <sub>(Difficulty Rooms)</sub> '''[12.5?]''' | (15.??)
+
+=== Appearances ===
+
+* OoSDI - [https://www.roblox.com/games/18497570177/Obelisk-of-Singular-Difficulty-Increasing Obelisk of Singular Difficulty Increasing] (Floor ??)
+* JADCP - [https://www.roblox.com/games/18605136953/ Just a Difficulty Chart Pyramid] (Floor ??)
+* GCoBID - [[Great Citadel of Beyond Impossible Difficulties]] (Floor ??)
+* GMoEED - [[Great Monolith of Every EJT Difficulty]] (Floor ??)
+
+==Trivia==
+*Hypothetically, if this was to be added to the game, it would be located in the [[File:A23F67CF-8FFC-4BAF-8BDB-DBF544F9B561.webp|20px]] [[w:c:jtoh:Pit of Misery|Pit of Misery]], due to it being far too difficult to ever be added canonically.
+*There is no icon representation or continuing on section(s) due to them having been integrated elsewhere.
+**More specifically, the icon representation was integrated into the description, whereas the continuing on from this point became the redirect and has been placed directly below this section.
+
+== Gallery ==
+<gallery>
+File:AnguishShape.png|Shape version
+</gallery>
+----
+{{MainDifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 3]]
+[[Category:Humanly Possible]]

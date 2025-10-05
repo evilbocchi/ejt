@@ -1,0 +1,103 @@
+{{Humanly Impossible}}
+
+== What is '''Jank'''? ==
+{{NewDifficultyInfobox
+|title1= Jank
+|image1 = <gallery>
+Jank.png|Current
+Screenshot 2023-06-01 at 17.28.03.png|Old
+OriginalJankDifficultyIcon.png|Original
+</gallery>
+|caption1 = Nearing pure RNG
+|class = [[:Category: Class 4|4]]
+|type = Sub Difficulty
+|previous = [[File:Nil revamp lol.png|30x30px]] [[w:c:jtohs-hardest-towers:nil|nil]]
+|next = {{Class4Difficulties|Error|30px}} [[w:c:jtohs-hardest-towers:Error|eRRoR]]
+|class_range = Baseline
+|difficulty_range = Low-Peak
+|decal_id = new: 140128812897026
+
+
+old: 13728227879
+
+original: 13132871952
+|main_difficulty = [[File:Nil revamp lol.png|30x30px]] [[w:c:jtohs-hardest-towers:nil|nil]]
+|sub_difficulty(ies) = None
+|chain(s) = None
+|official_music(s) = None
+|creator(s) = [[:User: LORD_ARRAS|LORD_ARRAS]]
+|original_class = [[:Category:Class 3|Class 3]]
+|date_added = 9,june,2022
+|rating=16.33|alt_next=[[File:Heart Of The Void.png|30px]] [[The Heart of Void|The Heart Of Void]] (sub difficulty)}}
+'''Jank''' is one of the sub difficulties of Nil. It resides near the Peak phase of nil, so you can see similar challenges compared to the [[w:c:jtoh:Citadel of Void|Citadel of Void]]. It is the successor of [[File:Nil revamp lol.png|30x30px]] [[w:c:jtohs-hardest-towers:nil|nil]] but before the infamous [[File:Heart Of The Void.png|30px]] [[The Heart of Void|Heart of Void]] or {{Class4Difficulties|Error|30px}} [[w:c:jtohs-hardest-towers:Error|eRRoR]]. Even the best obbyists might give up trying to grind this due to the unfair and uncomfortable nature of the obstacles.
+
+A normal tower contains instakill floors and unfair wallhopping sections combined with uncomfortable gameplay and tight squeezes. These obstacles prevent even the most skilled to make it far. Imagine taking the [[w:c:jtoh:Citadel of Void|Citadel of Void]] and buffing floor 19 to mid {{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]. Now you will have a Citadel of Void that classifies as '''Jank'''.
+
+Even though beating this legit will not happen anytime soon, it doesn't mean it couldn't be beaten by someone. You can use blessed coil or TAS to help you get past obstacles. Beware that with TAS, it won't be a total cakewalk, as you still need to manually do the jumps it is just designed so that you can do the same jump over and over again.
+
+==Appearance==
+{| class="fandom-table"
+|+'''Icon Representation'''
+!'''Name'''
+!'''Icon'''
+!'''Description'''
+|-
+|'''Current'''
+|[[File:Jank.png|250px]]
+|This icon can be seen as the [[w:c:jtohs-hardest-towers:nil|nil]] icon but with a glowing fade from the top, where as the top is brighter than the bottom. This difficulty icon is one of the difficulty icons that became an outlined icon, which is very common from [[Eccentric]] to [[Under Construction]].
+|-
+|'''Old'''
+|[[File:Screenshot 2023-06-01 at 17.28.03.png|250px]]
+|There is a grey background representing [[w:c:jtohs-hardest-towers:nil|nil]] and has design at the top and on the bottom. There are also designs in the middle, those designs include 8 blocks, 2 crosses and 4 hollow circles.
+|-
+|'''Original'''
+|[[File:OriginalJankDifficultyIcon.png|250x250px]]
+|Jank's image is white lines phasing through eachother, with a light/dark'ish grey background with a dark grey to light grey gradient.
+
+The lines are in the color of light grey, the lines apparently appear to be drawings on the background, or purposely made design.
+|}
+==Obstacles in Jank==
+{{ObstacleTableRevamp|JumpClimbableBase=13.55|Increment=0.00791}}
+==Trivia==
+*This difficulty is the first sub-difficulty of [[w:c:jtohs-hardest-towers:nil|nil]] .
+* The creator of this difficulty has a dislike for this difficulty due to him being new to making pages.
+**The difficulty got revamped later that year, however.
+*This difficulty was listed in the 7th armageddon.
+==Towers==
+<big>Split in 2!</big> These Towers/Citadels/Obelisks will be split in 2 Topics, That will be:
+===Towers in this difficulty===
+<tabber>
+|-|
+Non-Fiction=
+*[[w:c:jtoh:Citadel of Void|Citadel of Void]] (CoV)
+*[[w:c:cscdroblox:Tower of Existential Crisis|Tower of Existential Crisis]] (ToEC)
+*[[Tower of Example Tower]] (ToET)
+|-|
+Fictional=
+* Steeple of Sphere and Wedges [SoSaW]
+* Tower of Unbearable Janky Obstacles [ToUJO]
+</tabber>
+===Towers with this difficulty===
+<tabber>
+|-|
+Non-Fiction=
+* [[Great Monolith of Every EJT Difficulty]] [GMoEED]
+|-|
+Fictional=
+* Tower of Borderline Humanly Impossible Difficulties [ToBHID]
+* Citadel of Soul Crushing Difficulties [CoSCD]
+</tabber>
+==Continuing ==
+If you have managed to beat a tower of this magnitude, then you can try to beat more towers within baseline [[:Category:Class 4|class 4]]. You could try to attempt [[File:Heart Of The Void.png|30px]] [[The Heart of Void]] difficulty towers, as they are similar to this difficulty it terms of intensity and obstacles. Or, if you have not done so already, beat the [[w:c:jtoh:Citadel of Void|Citadel of Void]].
+{{DifficultiesNavbox}}
+[[Category:Unfinished pages]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:Humanly Possible]]
+[[Category:Soul Crushing]]
+[[Category:Humanly Impossible]]
+[[Category:Unfinished page]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Difficulty]]

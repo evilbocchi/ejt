@@ -1,0 +1,133 @@
+<div style="box-sizing:border-box; border-radius:30px;border:6px solid white;overflow:hidden;background:linear-gradient(240deg,red,cyan)">
+{{NoticeScrollboxNew|Notices=
+{{Humanly Impossible}}
+{{Class Finale}}}}
+{{NewDifficultyInfobox
+|title1 = UNTHINKABLE
+|image1 = <gallery>
+UnthinkableSquare.png | Current
+UNTHINKABLE.jpg | Original
+UNTHINKABLE3.png | Alternative
+</gallery>
+|caption1 = ?¿?¿?
+|class = Class 6
+|previous = [[File:SquareSupreme.png|frameless|35px]] [[Supreme]]
+|next = [[File:UltraInstinct.png|frameless|30x30px]] [[Ultra Instinct]]
+|decal_id = 18836068034
+|main_difficulty =  [[File:SquareSupreme.png|40px]] [[Supreme]]
+|rating=60.66|class_range=Skyline|creator(s)=Core1052
+ConfusionandTrickery & Infinitely (Revampers)|type=Sub-Difficulty|alt_previous=[[File:Phi thing yes.png|30px]] [[Phi]]}}
+==What is UNTHINKABLE?==
+
+[[File:UnthinkableSquare.png|30px]] [[UNTHINKABLE]], undoubtedly, lives up to its name as a humanly impossible class 6 sub-difficulty with a rating of 60.33. Positioned right after [[File:SquareSupreme.png|frameless|35px]] [[Supreme]] or [[File:Phi thing yes.png|30px]] [[Phi]] and before [[File:UltraInstinct.png|frameless|30x30px]] [[Ultra Instinct]]. It presents a formidable challenge that will push even the most skilled individuals to their limits.
+
+To say that this difficulty is bonkers, would be an understatement. In fact, it surpasses the already intense [[File:SquareSupreme.png|40px]]  [[Supreme]] difficulty, offering obstacles that are on a whole new level of insanity. As you step into this realm where death lurks around every corner. Only those who possess unwavering focus and an unyielding spirit will have a chance at conquering the [[File:UnthinkableSquare.png|30px]] [[UNTHINKABLE]].
+
+Brace yourself for an experience like no other, where your sanity will be tested to its very peak.                                        
+==Icon Representation==
+{| class="sortable mw-collapsible fandom-table “fandom-table”"
+|+Icon Representation
+!Name
+!Icon
+! Description
+|-
+| Current
+|[[File:UnthinkableSquare.png|180px]]
+| The current icon of UNTHINKABLE represent a red to cyan diagonally  gradient and a ?¿?¿? in the middle.
+|-
+|Alternative 
+|[[File:UNTHINKABLE3.png|center|frameless|180x180px|alt=]]
+|The same as new but without bold text, resembled the oldest icon.
+|}
+==Obstacles==
+
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Wraparounds
+| style="background-color: #014500;" |<font color="white">18 studs</font>
+| style="background-color: #336000;" |<font color="white">18.02 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">18.04 studs</font>
+| style="background-color: #964a00;" |<font color="white">18.06 studs</font>
+| style="background-color: #5a0000;" |<font color="white">18.08 studs</font>
+|-
+|Unclimbable Long Jump
+| style="background-color: #014500;" |<font color="white">18.5 studs</font>
+| style="background-color: #336000;" |<font color="white">18.525 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">18.55 studs</font>
+| style="background-color: #964a00;" |<font color="white">18.575 studs</font>
+| style="background-color: #5a0000;" |<font color="white">18.6 studs</font>
+|-
+|Climbable Long Jump
+| style="background-color: #014500;" |<font color="white">18.9 studs</font>
+| style="background-color: #336000;" |<font color="white">18.925 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">18.95 studs</font>
+| style="background-color: #964a00;" |<font color="white">18.975 studs</font>
+| style="background-color: #5a0000;" |<font color="white">19 studs</font>
+|-
+|Stick Out Wraparounds
+| style="background-color: #014500;" |6 studs
+| style="background-color: #336000;" |6.003 studs
+| style="background-color: #6d5c00;" |6.006 studs
+| style="background-color: #964a00;" | 6.009 studs 
+| style="background-color: #5a0000;" |6.012 studs
+|-
+| Cylinder Wraparounds
+| style="background-color: #014500;" |<font color="white">15.5 studs</font>
+| style="background-color: #336000;" |<font color="white">15.52 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">15.54 studs</font>
+| style="background-color: #964a00;" |<font color="white">15.56 studs</font>
+| style="background-color: #5a0000;" |<font color="white">15.58 studs</font>
+|-
+|Raised Wraparounds
+| style="background-color: #014500;" |<font color="white">15.5 studs raised by 5 studs</font>
+| style="background-color: #336000;" |<font color="white">15.52 studs raised by 5 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">15.54 studs raised by 5 studs</font>
+| style="background-color: #964a00;" |<font color="white">15.56 studs raised by 5 studs</font>
+| style="background-color: #5a0000;" |<font color="white">15.58 studs raised by 5 studs</font>
+|}
+*
+==Towers In This Difficulty==
+<tabber>
+Tower of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*Tower of Nothing But Failure 
+*[[Steeple of Imperception]]
+{{!}}-{{!}}
+Non-Fictionals=
+*N/A
+| false=
+}}
+}}
+|-|
+Towers with=
+*[https://www.roblox.com/games/6000934333/Monolith-of-Pure-Hellish-Difficulties-MoPHD Monolith of Pure Hellish Difficulties]
+</tabber>
+==Trivia==
+*This difficulty got revamped on 8/22/2023 (MM/DD/YYYY) by ConfusionandTrickery and Infinitely
+*This difficulty was originally made by ZEROFROZEN987 in A Jump Per Difficulty
+==Gallery==
+<gallery>
+File:UnthinkableSquare.png|Current
+File:UNTHINKABLE2.jpg|Rectangle Current Icon
+File:UNTHINKABLE3.png|Alternative
+File:UNTHINKABLE.jpg|Oldest
+File:Unthinkable Remake.png|Fanmade icon 1
+File:Unthinkablestrangeicon.jpg|Fanmade icon 2</gallery>
+==Continuing from this point==
+How did you even beat that? I don't know, it’s truly unthinkable. But, it’s not over yet. Things from here are getting even more confusing, as comprehension on this kind of difficulty are borderline impossible. Go do [[File:UltraInstinct.png|frameless|30x30px]] [[Ultra Instinct]] . It will surely be your demise.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 6]]
+[[Category:Humanly Impossible]]
+[[Category:Class Finale Difficulties]]
+[[Category:Class Finale Difficulty]]

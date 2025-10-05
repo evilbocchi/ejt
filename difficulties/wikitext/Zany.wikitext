@@ -1,0 +1,235 @@
+<div style="box-sizing:border-box; border-radius:15px;border:0.5px solid #969D62;overflow:hidden;background:linear-gradient(135deg, #963b83,#43ba06);padding:1em;">
+<div style="font-family:Gotham">
+{{DISPLAYTITLE:<span style="font-family:Gotham"><span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zany'''</span></span>}}
+{{CSS|content=
+/* Page */
+.page {
+	border: solid 5px #CB4EB1;
+	margin-top: 12px;
+	position: relative;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px 0 #CB4EB1;
+    }
+.homebox {
+    background: linear-gradient(135deg, #963b83,#43ba06), var(--theme-page-background-color--secondary);
+}
+/* Darkmode CSS */
+.theme-fandomdesktop-dark {
+    --theme-page-background-color: rgba(153, 60, 134, 0.75); 
+    --theme-page-background-color--secondary: rgba(67, 181, 7, 0.75);
+    --theme-link-color: #58ff00;
+    --theme-border-color: rgb(183, 201, 115);
+       .page-side-tool {
+        border: solid 2px rgb(183, 201, 115);
+        box-shadow: 0px 0px 10px rgb(183, 201, 115);
+        color: rgb(183, 201, 115);
+        }
+    --theme-community-header-color: #58ff00;
+    --theme-sticky-nav-background-color: rgb(153, 60, 134);
+    --theme-sticky-nav-text-color: white;
+    --theme-sticky-nav-text-color--hover: rgb(153, 60, 134);
+}
+.portable-infobox .pi-data-value {
+    color: #58ff00;
+}
+/* Lightmode CSS */
+.theme-fandomdesktop-light {
+    --theme-page-background-color: rgba(153, 60, 134, 0.75); 
+    --theme-page-background-color--secondary: rgba(67, 181, 7, 0.75);
+    --theme-link-color: #58ff00;
+       .page-side-tool {
+        border: solid 2px rgb(183, 201, 115);
+        box-shadow: 0px 0px 10px rgb(183, 201, 115);
+           }
+    --theme-community-header-color: #58ff00;
+    --theme-sticky-nav-background-color: rgb(153, 60, 134);
+    --theme-sticky-nav-text-color: white;
+    --theme-sticky-nav-text-color--hover: rgb(153, 60, 134);
+}
+
+/* Icon and rail fix */
+
+.rail-module { --right-rail-background-color: #0000; }
+
+}}
+{{Background|File=BackgroundThing.jpg|Size=2000px}}
+{{NoticeScrollboxNew|Notices=
+{{Physically Impossible}}
+{{Large Page}}
+}}
+----
+{{RevampQuote|Text=A rare ore spawned in Stone Quarry!|Header=BS:EDR|Quoter=STONE QUARRY}}
+----
+<div style="--theme-accent-color:-webkit-linear-gradient(45deg,#cb4eb1,#FFFFFF,#5af609)">
+{{NewDifficultyInfobox|title1=<span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>Zany</big>'''</span>|image1=Zanyte.png|caption1=Seems kinda familiar...|class=Class 10|rating=112|type=*Normal
+*High Reality
+*Physically Impossible
+*Extended Excavation|previous=[[File:XX.png|30px]] [[TooTooHard]]|next=[[File:Ohnoez.png|30px]] [[Oh Noez!]]|class_range=High Class 10|difficulty_range=Belowground to Peripheral|chain(s)=*Excavation Chain (Extended)|creator(s)=sanjay2133|full_name=Zanyte|short_name=ZY|date_added=Sept. 8, 2023|decal_id=136451817612087}}
+</div>
+==Introduction ~ [[File:Zanyte.png|50px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>Zany</big>'''</span>==
+[[File:Zanyte.png|30x30px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zany'''</span> is a class 10, High Reality difficulty, which is after [[File:XX.png|30px]] [[TooTooHard]] yet before [[File:Ohnoez.png|30px]] [[Oh Noez!]]. It is ''incredibly'' difficult, as it is not only impossible to complete, but also impossible to build. One could alternatively place this difficulty as a successor of [[File:OrpimentNew.png|30x30px]] [[Excavation Chain/Sapphire-Tetra#Orpiment|Orpiment]], if it was to be placed in the Excavation Chain. If this was to be the case, it would also be a predecessor of [[File:Tetra.png|30x30px]] [[Excavation Chain/Sapphire-Tetra#Tetra|Tetra]].  
+
+One reading this page may wonder why this page is part of the excavation chain. Well, it is somewhat part of the excavation chain, but its own page is secluded from the others. As a result, it can be considered an extension. Its actual "full" name would be "Zanyte", a fictional mineral that can be obtained through the Orpiment geode, hence why it is after [[File:OrpimentNew.png|30x30px]] [[Excavation Chain/Sapphire-Tetra#Orpiment|Orpiment]]. There are also some other interesting facts about this difficulty, but they will be found in the Trivia section of the page.  
+
+What does [[File:Zanyte.png|30x30px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zanyte'''</span>'s placement exactly mean? Well, it indicates that part, or in fact, most of this difficulty is Physically Impossible, and that the regular stud jump would not be physically possible within the Roblox physics. In fact, this difficulty ranges in the hundred thousands, which over the course of this and the next few difficulties residing in High Reality, will approach [[File:Pinnacle.png|frameless|50x50px]] [[Pinnacle]], or the limit of buildability.   
+
+Since this is loosely related to the Excavation Chain, it does not include some catches featured in them. However, [[File:Zanyte.png|30x30px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zany'''</span> does include certain catches that are found in Excavation Chain difficulties. For example, this difficulty is somewhat themed around Zanyte, and does contain buttons that may be found in the game. Despite that, it is not considered to be entirely part of the chain.   
+
+One could also measure the magnitude of this difficulty using alternative measurements such as Kol Metris or Tiers. The tier rating of this difficulty would be in the hundred thousands, while the Metris rating would be around |~1|. Additionally, one could also compare [[File:Zanyte.png|30x30px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zanyte'''</span>'s to other difficulties. Comparing this to the next difficulty, [[File:Ohnoez.png|30px]] [[Oh Noez!]] would be similar comparing [[File:PASpontaneous.png|30x30px]] [[Spontaneous]] to a difficulty such as [[File:Dreadful.exeoffical.png|30x30px]] [[Dreadful.exe]]. This, as it may suggests, would be similar to jumping from peak Class 0 in skill to the skill of a baseilne Class 7 player (could be inaccurate).  
+
+==Icon Representation ~ [[File:Zanyte.png|50px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>Zany</big>'''</span>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" | Difficulty’s Icons
+|-
+!'''Icon'''
+!'''Description'''
+|-
+| colspan="3" style="background: #DB86CA; color: #7BF83B" |'''Official'''
+|-
+| style="background-color: #C853AC;" |[[File:Zanyte.png|300x300px]]
+| style="background-color: #47B00B;" |The icon of this difficulty is quite interesting. First and foremost, it is made in pixel art, just like every other Excavation Chain difficulty. It has a border of alternate lime and green checkboards, with the center also being a checkboard that is slightly darker. In the center, is a circle-like ring structure, with the border being light green, and in the center it is light pink. On the inside, there is another squarish border and inside it is a representation of [[File:Zanyte.png|30x30px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zanyte'''</span>, which is similar to a double helix of green and pink.
+|}
+
+==Balance and Catches ~ [[File:Zanyte.png|50px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>Zany</big>'''</span>==
+The obstacles in [[File:Zanyte.png|30x30px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zanyte'''</span> would not require the player to obtain all previous statistics, but rather the player starts at [[File:Diamond.png|30x30px]] [[Excavation Chain/Sapphire-Tetra#Diamond|Diamond]]. 
+
+If you are unaware of the progression from [[File:Diamond.png|30x30px]] [[Excavation Chain/Sapphire-Tetra#Diamond|Diamond]], it goes like this: ''Diamond - Starlight - Ion - Uranium - Bismuth - Boracite - Nissonite - Orpiment''. However, what does this have to relate with the difficulty? Well, using [[File:OrpimentNew.png|30x30px]] [[Excavation Chain/Sapphire-Tetra#Orpiment|Orpiment]], there should be a "geode button", which has a 1/12K chance of summoning a Zanyte.
+
+Alternatively, one could use the BS:ED:R version of this. Instead of it being obtained from a geode, it could spawn 1/12K of the time in a quarry.
+
+Though this is incredibly hard to recreate, it may be possible to create. For any builders who may be interested in building it, these catches are purely optional, and if you do choose to include them, you can get creative.
+
+==Obstacles ~ [[File:Zanyte.png|50px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>Zany</big>'''</span>==
+<div style="width: 100%; overflow-x: scroll;">
+{| class="fandom-table"
+|+Obstacle Table (Note: obstacles are based on [[User blog:Sanjay2133/I tend to get quirky at day too|this]], themed obstacles section may need rebalancing.)
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: #00c7c7;" |'''<font color="#009999">Bottom</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Middle</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: #ff00b3; " |'''<font color="#b3007d">Skyline</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Jump (Climbable)
+| style="background-color: #005980;" |<font color="white">275k</font>
+| style="background-color: #007a7a;" |<font color="white">300k</font>
+| style="background-color: #014500;" |<font color="white">325k</font>
+| style="background-color: #336000;" |<font color="white">350k</font>
+| style="background-color: #6d5c00;" |<font color="white">375k</font>
+| style="background-color: #964a00;" |<font color="white">400k</font>
+| style="background-color: #5a0000;" |<font color="white">425k</font>
+| style="background-color: #940068;" |<font color="white">450k</font>
+| style="background-color: #550055;" |<font color="white">475k</font>
+|-
+|Jump (Unclimbable)
+| style="background-color: #005980;" |<font color="white">256.5k</font>
+| style="background-color: #007a7a;" |<font color="white">285k</font>
+| style="background-color: #014500;" |308.75k
+| style="background-color: #336000;" |332.5k
+| style="background-color: #6d5c00;" |356.25k
+| style="background-color: #964a00;" |<font color="white">380k</font>
+| style="background-color: #5a0000;" |403.75k
+| style="background-color: #940068;" |<font color="white">427.5k</font>
+| style="background-color: #550055;" |<font color="white">451.25k</font>
+|-
+|Wraparound
+| style="background-color: #005980;" |<font color="white">233.75k</font>
+| style="background-color: #007a7a;" |<font color="white">255k</font>
+| style="background-color: #014500;" |<font color="white">276.25k</font>
+| style="background-color: #336000;" |<font color="white">297.5k</font>
+| style="background-color: #6d5c00;" |318.75k
+| style="background-color: #964a00;" |<font color="white">340k</font>
+| style="background-color: #5a0000;" |<font color="white">361.25k</font>
+| style="background-color: #940068;" |<font color="white">382.5k</font>
+| style="background-color: #550055;" |<font color="white">403.75k</font>
+|-
+|Cylinder Wraparound
+| style="background-color: #005980;" |<font color="white">192.5k</font>
+| style="background-color: #007a7a;" |210k
+| style="background-color: #014500;" |<font color="white">227.5k</font>
+| style="background-color: #336000;" |<font color="white">245k</font>
+| style="background-color: #6d5c00;" |262.5k
+| style="background-color: #964a00;" |<font color="white">280k</font>
+| style="background-color: #5a0000;" |<font color="white">297.5k</font>
+| style="background-color: #940068;" |315k
+| style="background-color: #550055;" |332.5k
+|-
+|Raised Wraparound
+| style="background-color: #005980;" |178.75k raised by 68.75k
+| style="background-color: #007a7a;" |195k raised by 75k
+| style="background-color: #014500;" |<font color="white">211.25k raised by 81.25k</font>
+| style="background-color: #336000;" |<font color="white">227.5k raised by 87.5k</font>
+| style="background-color: #6d5c00;" |<font color="white">243.75k raised by 93.75k</font>
+| style="background-color: #964a00;" |<font color="white">260k raised by 100k</font>
+| style="background-color: #5a0000;" |<font color="white">276.25k raised by 106.25k</font>
+| style="background-color: #940068;" |292.5k raised by 112.5k
+| style="background-color: #550055;" |308.75k raised by 118.75k
+|-
+|Stickout
+| style="background-color: #005980;" |<font color="white">110k</font>
+| style="background-color: #007a7a;" |<font color="white">120k</font>
+| style="background-color: #014500;" |<font color="white">130k</font>
+| style="background-color: #336000;" |<font color="white">140k</font>
+| style="background-color: #6d5c00;" |<font color="white">150k</font>
+| style="background-color: #964a00;" |<font color="white">160k</font>
+| style="background-color: #5a0000;" |<font color="white">170k</font>
+| style="background-color: #940068;" |<font color="white">180k</font>
+| style="background-color: #550055;" |<font color="white">190k</font>
+|-
+|High Jump 
+| style="background-color: #005980;" |316.25k
+| style="background-color: #007a7a;" |<font color="white">345k</font>
+| style="background-color: #014500;" |<font color="white">373.75k</font>
+| style="background-color: #336000;" |<font color="white">402.5k</font>
+| style="background-color: #6d5c00;" |<font color="white">431.25k</font>
+| style="background-color: #964a00;" |460k
+| style="background-color: #5a0000;" |<font color="white">488.75k</font>
+| style="background-color: #940068;" |<font color="white">517.5k</font>
+| style="background-color: #550055;" |<font color="white">546.25k</font>
+|-
+|Themed Obstacles
+| style="background-color: #005980;" |<font color="white">Obtain 11K Zanyte with the Orpiment Geode costing 11K</font>
+| style="background-color: #007a7a;" |<font color="white">Obtain 11.5K Zanyte with the Orpiment Geode costing 11K</font>
+| style="background-color: #014500;" |<font color="white">Obtain 11.5K Zanyte with the Orpiment Geode costing 11.5K</font>
+| style="background-color: #336000;" |<font color="white">Obtain 12K Zanyte with the Orpiment Geode costing 11.5K</font>
+| style="background-color: #6d5c00;" |<font color="white">Obtain 12K Zanyte with the Orpiment Geode costing 12K</font>
+| style="background-color: #964a00;" |<font color="white">Obtain 12.5K Zanyte with the Orpiment Geode costing 12K</font>
+| style="background-color: #5a0000;" |<font color="white">Obtain 12.5K Zanyte with the Orpiment Geode costing 12.5K</font>
+| style="background-color: #940068;" |<font color="white">Obtain 13K Zanyte with the Orpiment Geode costing 12.5K</font>
+| style="background-color: #550055;" |<font color="white">Obtain 13K Zanyte with the Orpiment Geode costing 13K</font>
+|}
+</div>
+==Trivia ~ [[File:Zanyte.png|50px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>Zany</big>'''</span>==
+
+*This difficulty was actually suggested by the Purple Diamond Studios server (the server of the studio that made BS:ED:R)
+**It received 16 upvotes on a message sent in #fan-art (which said "Should I make a Zanyte difficulty")
+* This is the only finished Extended Excavation Chain Difficulty.
+*The name "Zany" for this difficulty, as you may imagine, is derived from Zanyte.
+*The icon was actually remade once, due to the initial version looking too sloppy. Unfortunately, the version has now been lost to time.
+*In BS:ED:R, this ore is infamous for being incredibly frequent to spawn, as it is only 1/12K, but still has a spawn message.
+
+== Towers ~ [[File:Zanyte.png|50px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>Zany</big>'''</span>==
+
+===Residing in [[File:Zanyte.png|30x30px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zanyte'''</span>===
+
+*Stone Quarry (Citadel) (Fictional)
+*Tower of Zany Architecture: Mega Buff (Fictional)
+*Steeple of Intertwining Destinies (Fictional)
+*[[Radio Tower of Unreal Resentment]] (Fictional)
+
+===Including [[File:Zanyte.png|30x30px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Zanyte'''</span>===
+
+*None, at the moment.
+
+==Continuing On From This Point ~ [[File:Zanyte.png|50px]] <span style="background:linear-gradient(90deg,#cb4eb1,#5af609); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''<big>Zany</big>'''</span>==
+Congratulations, player! Is there any explanation necessary for what to do next? You've heard this probably hundreds of times already. Just get a move onto the next difficulty! As always, take a break if you need one, and then attempt [[File:Ohnoez.png|30px]] [[Oh Noez!]]. That's it!
+{{DifficultiesNavbox}}
+</div>
+</div>
+[[Category:Class 10]]
+[[Category:Physically Impossible]]
+[[Category:Physically Impossible Difficulties]]

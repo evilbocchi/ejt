@@ -1,0 +1,120 @@
+{{NoticeScrollboxNew|Notices={{Physically Impossible}}{{Fabled Difficulty}}{{Class Finale}}{{Large Page}}{{CSS|content=
+/*Manual Import of Font(s)*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+/*Difficulty Name*/
+span.MegaDeath {
+    background:linear-gradient(90deg,black,maroon,red,orangered,orange,yellow,orange,orangered,red,maroon,black);
+    background-clip:text;-webkit-background-clip:text;
+    color:transparent;text-shadow:0 2px 5px red;
+    font-weight:bold;
+    font-family:Kefa;
+    }}}}{{ArticleTab}}{{DISPLAYTITLE:<span class="MegaDeath"><big>MegaDeath</big></span>}}__NOEDITSECTION__{{BetterQuote|text=The skulls watch on with morbid curiosity as you reach the end of this barren chart, for no other beast had been able to reach this point.|quoter=???}}
+{{NewDifficultyInfobox|title1=<big><span class="MegaDeath">'''MegaDeath'''</span></big>|image1=Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|caption1=MegaDeath's Image.|class=[[:category:Class 7|Class 7]]|rating=75|type=Fabled<br>Former Legendary<br>Class Finale Difficulty|previous=[[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|30px]] [[Doog]]|next=[[File:Epitome.png|link=Epitome|30px]] [[Epitome]]|alt_next=• [[File:TooPreciseRevamp.png|30px]] [[TooPrecise]]
+• [[File:GigaDeath2.png|link=GigaDeath|30px]] [[GigaDeath]] ([[:category:Death Chain|Death Chain]])|class_range=Peak|difficulty_range=Baseline to Peak|decal_id=[https://www.roblox.com/library/6387371366/Megadeath-Difficulty 6387371366]|sub_difficulty(ies)=[[File:TooPreciseRevamp.png|link=TooPrecise|30px]] [[TooPrecise]]|creator(s)=[[User:Masterbuilder2310|Masterbuilder2310]] (creator)<br>[[User:Astrominal|Astrominal]] ("designer")<br>[[User:TneEnchantedPokemon|TneEnchantedPokemon]] (rewriter)|full_name=Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD|short_name=MegaDeath|original_class=Class 9|previous_class(es)=Class8<br>Class 9|original_type=Legendary|previous_name=Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD|date_added=September 17th, 2020|prior_previous=[[File:IDEKA.png|27px]] Aleph-I-Don't-Even-Know-Anymore<br>[[File:MalicatiousNew.png|27px]] [[User_blog:EpicTheGamer2014/Malicatious|Malicatious]]<br>{{Class10Difficulties|Doog|27px}} [[Doog]]|prior_next=[[File:Hellifying.png|link=Agony|27px]] [[Agony]]<br>[[File:Illegal Newest.png|27px]] [[Illegal]]|previous_sub_difficulty(ies)={{Class10Difficulties|RNGDreamBreaker|27px}}RNGDreamBreaker (Deleted)|official_music(s)=[https://www.youtube.com/watch?v=bgayQIMJtP4 UNDEAD CORPORATION - The Empress (scream off)]<br>[[File:MegaDeathMusic.mp3]]|alt_previous=[[File:Diss.png|link=Dissension|30px]] [[Dissension]]}}
+<h2>What is [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|frameless|35px]] '''<span class="MegaDeath">MegaDeath</span>?'''</h2>
+[[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|30px]] '''<span class="MegaDeath">MegaDeath</span>''' is the well known difficulty of EJT that concludes [[:category:Class 7|Class 7]] in the Main Difficulty Chart. It is associated with obstacles impossible even with TAS as a result of its precise complexity and unimaginable tasks the obbyist face. In many famous Difficulty Charts, like [[Obelisk of Endless Difficulty Amplifying|OoEDA]] , it has been well associated with fast-moving instant kill spinners, tight lodges, moon wallhops, and all the other unique obstacles you could think of.
+
+As a result, it is one of the more excruciating difficulties that far surpasses the new height of obstacles mentioned in the first paragraph. An obbyist would require inhuman skill and luck, of course, but as well as a mind that can process inhumanely to escape the extremes in the obstacles. Megadeath is the real deal, its obstacles are something to prepare for despite what you may have already accomplished. It would be a fool of you, or anyone to ignore the seriousness that is Megadeath. So, good luck player, as your environment around you will forever change into what is reality.  
+<h2>Icon Representation</h2>
+[[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|30px]] '''<span class="MegaDeath">MegaDeath</span>''' has a very complicated icon, yet simple to unravel. There are four Roblox decals that includes a group of different Roblox characters near the corner of the icon. Next to them, there are four human skulls, which represents the insanity and mortality that is inevitably faced when attempting '''MegaDeath'''.
+
+In the middle, there is a transparent Greek letter iota, with an evil smiley face layered on top. Looking carefully, the smiley face consists of two-digit numbers on it to resemble it's absurdity and randomness. Surrounding the iota and smiley face is a pentagram, of course, to resemble its demonizing attributes.
+
+And of course, how could you forget the zalgo text found hidden in the back of the skulls and Roblox avatars?
+<h2>Obstacle Section</h2>
+As stated before, this difficulty has obstacles that are impractical and impossible.<tabber>|-|Baseline=
+<big><h3> Baseline [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|27px]] <span class="MegaDeath">'''MegaDeath'''</span></h3></big>
+*145 stud jump (climbable)
+*137.75 stud jump (unclimbable)
+*123.25 stud wraparound (climbable)
+*99.463 stud wraparound (unclimbable)
+*101.5 stud cylinder wraparound
+*58 stud stickout
+|-|Low=
+<big><h3> Low [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|27px]] <span class="MegaDeath">'''MegaDeath'''</span></h3></big>
+*148.75 stud jump (climbable)
+*141.313 stud jump (unclimbable)
+*126.438 stud wraparound (climbable)
+*102.035 stud wraparound (unclimbable)
+*104.125 stud cylinder wraparound
+*59.5 stud stickout
+|-|Middle=
+<big><h3> Middle [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|27px]] <span class="MegaDeath">'''MegaDeath'''</span></h3></big>
+*152.5 stud jump (climbable)
+*144.875 stud jump (unclimbable)
+*129.625 stud wraparound (climbable)
+*104.607 stud wraparound (unclimbable)
+*106.75 stud cylinder wraparound
+*61 stud stickout
+|-|High=
+<big><h3> High [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|27px]] <span class="MegaDeath">'''MegaDeath'''</span></h3></big>
+*156.25 stud jump (climbable)
+*148.438 stud jump (unclimbable)
+*132.813 stud wraparound (climbable)
+*107.180 stud wraparound (unclimbable)
+*109.375 stud cylinder wraparound
+*62.5 stud stickout
+|-|Peak=
+<big><h3> Peak [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|27px]] <span class="MegaDeath">'''MegaDeath'''</span></h3></big>
+*160 stud jump (climbable)
+*152 stud jump (unclimbable)
+*136 stud wraparound (climbable)
+*109.752 stud wraparound (unclimbable)
+*112 stud cylinder wraparound
+*64 stud stickout</tabber>
+<h2>Tower Section</h2>
+<h3> Towers in this difficulty </h3>
+<tabber>
+|-|Rooms=
+<h3>Rooms</h3>
+*[[Room of MegaDeath]]
+*[[Room of Eternally Dying]]
+*[[User blog:Abnormic/Room of Bleached Leaking Over Xenophobia|Room of Bleached Leaking Over Xenophobia]] (buffed)
+|-|Steeples=
+<h3>Steeples</h3>
+*[[Steeple of Really Short Difficulty Chart]] (haha EoASDC Ripoff)
+*[[Steeple of Thistle-Bee Quake]]
+*[[Steeple of chonkin beanso]]
+|-|Towers=
+<h3>Towers</h3>
+*[[Tower of CANCER|Tower of CANCER: Secret Ending]]
+|-|Citadels=
+<h3>Citadels</h3>
+none.
+|-|Obelisks=
+<h3>Obelisks</h3>
+*[[Obelisk of Endless Difficulty Amplifying]] (legacy version)
+|-|Miscellaneous=
+<h3>Miscellaneous Structures</h3>
+*[[Edifice of Anxiously Short Difficulty Chart]]
+*[[Shower of Way Too Freaking Short Difficulty Chart: Revamp]]
+</tabber>
+<h3> Towers featuring this difficulty </h3>
+This is a list of structures that features <span class="MegaDeath">'''MegaDeath'''</span>, it doesn't count structures with MegaDeath difficulty.
+*[[Not Even a Monolith]]
+*[[Great Citadel of Custom, Impossible and Normal Difficulties]]
+*[[Great Citadel of Hellish Difficulties]] 
+*[[Obelisk of Jet's Difficulty Chart]]
+*[[Monolith of Deadly Difficulty Cluster|Monolith of Death Difficulty Cluster]]
+*[[Great Citadel of Way Too Hard Difficulties]]
+*[[Citadel of Monstrous Ascension]]
+*[[Obelisk of Great Difficulty Chart]]
+*and many more difficulty chart towers.
+
+<h3> Other challenges in this difficulty </h3>
+This is a list of other non-tower obstacles that are located in this difficulty.
+
+*[[The Final Universe/Information#Bosses|<span class="MegaDeath">MEGADEATH</span>]] (Multiple Expansion Godly Apex Deadly Eviscerating Antimemetic Terminator Hellifyer)
+
+<h2>Trivia</h2>
+*This difficulty was the only difficulty after TDEx got demotion to a normal difficulty.
+**After sometime, {{PAGENAME}} promoted to [[:Category:Fabled Difficulty|Fabled]] due popularity and importance is.
+*{{PAGENAME}} is a well-known Difficulty following [[File:SquareSupreme.png|30px]] [[Supreme]] and a couple of others due to its iconic importance in Prime EJT.
+<h3>When {{PAGENAME}} was Legendary </h3>
+*Megadeath used to be the second legendary difficulty on the Main DC, until later being confirmed by Sanjay2133 that it no longer sustains its status.
+*Since MegaDeath used to be a legendary floor, Difficulty Chart Towers gave a special floor/frame enlargement by 500 x 500 studs. This is true for the rest of the legendary difficulties. There, however, is exception to this in [[Great Citadel of Custom, Impossible, and Normal Difficulties|GCoCIaND]] where the frame is 250 x 250 studs.
+*[[Difficulty Button Simulator]] was the first game to introduce layers for this difficulty. Later, it became a trend for [[Difficulty Chart]] towers.
+<h2>Gallery</h2>
+<gallery widths="250"position="center"spacing="small"captionposition="below"captionalign="center"captiontextcolor="#fff"bordercolor="#000"captionsize="large">Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|The official MegaDeath logo.</gallery>''To view more images relating to '''{{PAGENAME}}''' Difficulty, click [[MegaDeath/Gallery|here]].''
+<h2>Continuing from this point.</h2>
+Through impossible jumps, precarious spinners, horrible deaths, lucky flings, and whatever hellish complexities you have faced, you have conquered the Class 7 finale, and an ex-legendary difficulty.  Your great victory will be remembered throughout history in the Obbyist Community. You may have won this battle, but of course, you haven't won the war. You've still got a long way ahead of you, kiddo. You can either continue, or you can quit. Perhaps, you'd like to do [[File:Epitome.png|30px]] [[Epitome]]. If you think you're prepared: go for it. I would say good luck, but there’s not a point to that, now is there?{{MainDifficultiesNavbox}}[[Category:Class 7]][[Category:Difficulties]][[Category:Difficulty]][[Category:Physically Impossible]][[Category:Large Pages]]

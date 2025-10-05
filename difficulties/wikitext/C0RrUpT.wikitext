@@ -1,0 +1,140 @@
+<div style="background: linear-gradient(to bottom, #3a0067, #7c0036);padding:1em;font-family:rubik;border:15px solid #fe006e;border-radius:15px">{{NoticeScrollboxNew|Notices={{Humanly Possible}}{{Classic}}{{Large Page}}}}{{BetterQuote|text=[Error... Failed to load Relentless/Insane... File is corrupt3d...]|quoter=<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">C0RrUpT</span>'s official sign}}
+{{NewDifficultyInfobox|title1=<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">C0RrUpT</span>|image1=CORRUPT.png|caption1=[Error.. File corrupted.. Failed to load Relentless.. Initiating CORRUPT..]|class=[[:Category:Class 2|''Class 2'']]|rating=7.5|type=[[:Category:Sub-Difficulties|''Sub-Difficulty'']]|previous={{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]|next={{Class2Difficulties|Relentless}} [[Relentless]]|difficulty_range=Baseline - Peak|decal_id=[https://roblox.com/library/6386742438 6386742438]|main_difficulty={{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]|official_music(s)=[https://youtu.be/EsOU0V2kpUI LeaF - Ka]|creator(s)=* Original creators:
+**[[User:Phaxyi|Phaxyi]] (as Corruption Area)
+**[[User:HexagonToken|HexagonToken]] (as CORrUpT)
+*Revamper: [[User:Rarezites|Rarezites]] o7|date_added=9/17/2020|class_range=High|hex_color=<span style="color:#7600d5">'''#7600D5'''</span> to <span style="color:#fe006e>'''#FE006E'''</span>|alt_names=Corruption Area}}
+==[[File:CORRUPT.png|25px]] <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Introdcution'''</span>==
+<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT'''</span> is a [[:Category:Class 2|''Class 2'']] sub-difficulty of {{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|<span style="color:#c800c8">'''Remorseless'''</span>]]. Its obstacles are somewhat tougher than '''{{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|<span style="color:#c800c8">Remorseless</span>]]''''s obstacles, having more mechanics and obstacles that you will tend to see more in Soul Crushing difficulties, and some are generally more complicated. It steps up the difficulty scale significantly; some towers of this difficulty can be very tough without practice and experience. Towers of this difficulty range from (7.50) to (7.80).
+
+However, it is a combination of some {{Class2Difficulties|Relentless}} [[Relentless|<span style="color:#6600ff">'''Relentless'''</span>]]-like or Soul Crushing-like obstacles and some Peak {{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|<span style="color:#c800c8">'''Remorseless'''</span>]]-like obstacles, causing it to be in between. This difficulty is very possible, but will be challenging if you lack the skill and experience to be trying a '''<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">C0RrUpT</span>''' difficulty tower.
+
+==[[File:CORRUPT.png|25px]] <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Icon Representation'''</span>==
+Seriously, why does this section exist? We aren't blind. Anyways, the icon is simply a horizontal gradient going from hot pink at the bottom, (representing {{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]) to purple at the top (representing {{Class2Difficulties|Relentless}} [[Relentless]]).
+
+==[[File:CORRUPT.png|25px]] <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Obstacles'''</span>==
+'''C0RrUpT'''<nowiki/>'s gameplay is quite challenging and tough for beginners. Obstacles of towers with this difficulty include: Wraparounds which may be long, usages of glitches such as wallhops, flicks and glitches that generally don't go beyond the intended toughness.
+
+===<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Baseline'''</span>===
+*9 Stud wraparounds.
+*11 Stud jump.
+*3.5 Stud stickout.
+*Wraparound while on a wobbly platform.
+
+===<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Low'''</span>===
+*9.25 Stud wraparounds.
+*11.2 Stud jump.
+*3.6 Stud stickout.
+*Dance-clip and then jump onto platform.
+
+===<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Mid'''</span>===
+*9.4 Stud wraparounds.
+*11.5 Stud jump.
+*3.65 Stud stickout.
+*Wallhop-wrap.
+
+===<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - High'''</span>===
+*9.7 Stud wraparounds.
+*11.8 Stud jump.
+*3.71 Stud stickout.
+*Conveyor-wraparound.
+
+===<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Peak'''</span>===
+*9.9 Stud wraparounds.
+*11.9 Stud jump.
+*3.75 Stud stickout.
+*2 second timed section, wallhop.
+==[[File:CORRUPT.png|25px]] <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Towers'''</span>==
+===Featuring the difficulty:=== 
+*OoEDA - [[Obelisk of Endless Difficulty Amplifying]]
+*OoGDC - [[Obelisk of Great Difficulty Chart]]
+===Unknown: ===
+
+*[[Steeple of Hot Temperature]] (7.??)
+*[[w:c:atos:Tower_of_A_Bad_Time|Tower of A Bad Time]] <sub>(AToS) (removed)</sub>  - (7.??)
+
+=== Baseline <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT'''</span> ===
+
+* [[w:c:jtoh-xl:TAC|Technically a Citadel]] <sub>(EToH:XL)</sub> - (7.51)
+* [[w:c:atos:tower_of_Mind_Grind|Tower of Mind Grind]] <sub>(AToS)</sub>  - (7.51)
+* [[w:c:jtoh:Tower_of_The_Foreboding_Abyss|Tower of The Foreboding Abyss]] <sub>(EToH)</sub>  - (7.51)
+* [[w:c:atos:Tower_of_Bevelled_Progression|Tower of Bevelled Progression]] <sub>(AToS)</sub>  - (7.54)
+* [[w:c:atos:Steeple_of_Absolute_Garbage|Steeple of Absolute Garbage]] <sub>(AToS)</sub>  - (7.55)
+* [[w:c:jtoh:ToU|Tower of Ultraviolet]] <sub>(EToH)</sub>  - (7.55)
+* [[w:c:jtoh:Tower_of_Freezing_Cold_Dreams|Tower of Freezing Cold Dreams]] <sub>(EToH)</sub>  - (7.55)
+* [[w:c:atos:Tower_of_I-V-VI-IV|Tower of I-V-VI-IV]] <sub>(AToS)</sub>  - (7.55)
+* [[w:c:jtoh-xl:CoRNI|Citadel of Ruthless New Ideas]] <sub>(EToH:XL)</sub> - (7.55)
+* [[w:c:jtoh:ToBC|Tower of Brief Challenges]] <sub>(EToH)</sub>  - (7.56)
+* [[w:c:jtoh:Tower_of_Orange_World|Tower of Orange World]] <sub>(EToH)</sub>  - (7.56)
+
+=== Low <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT'''</span> ===
+
+* [[w:c:jtoh:CoCR|Citadel of Contrasting Regions]] <sub>(EToH)</sub>  - (7.57)
+* [[w:c:atos:Citadel_of_High_Heights|Citadel of High Heights]] <sub>(AToS)</sub>  - (7.58)
+* [[w:c:jtoh:SoCV|Steeple of Cheesy Vengeance]] <sub>(EToH) (unreleased)</sub>  - (7.59)
+* [[w:c:jtoh:Tower_of_Spicy_Torment|Tower of Spicy Torment]] <sub>(EToH)</sub>  - (7.59)
+* [[w:c:atos:Tower_of_Elpayaso|Tower of Elpayaso]] <sub>(AToS)</sub>  - (7.60)
+* [[w:c:jtoh:ToBaBT|Tower of Brutal and Bizarre Torment]] <sub>(EToH)</sub>  - (7.61)
+* [[w:c:jtoh-xl:CoNP|Citadel of Nonsensical Platforms]] <sub>(EToH:XL)</sub>  - (7.62)
+
+=== Mid <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT'''</span> ===
+
+* [[w:c:atos:Tower_of_Typical_Obstacles|Tower of Typical Obstacles]] <sub>(AToS)</sub>  - (7.63)
+* [[w:c:atos:Tower_of_Large_Schism|Tower of Large Schism]] <sub>(AToS)</sub>  - (7.63)
+* [[w:c:atos:Tower_of_Ownage|Tower of Ownage]] <sub>(AToS)</sub>  - (7.64)
+* [[w:c:jtoh:Tower_of_Is_Steeple_Crossing_Required?|Tower of Is Steeple Crossing Required?]] <sub>(EToH)</sub>  - (7.64)
+* [[w:c:jtoh:Tower_of_Quantification|Tower of Quantification]] <sub>(EToH)</sub>  - (7.64)
+* [[w:c:jtoh:SoTP|Steeple of Towering Pillars]] <sub>(EToH)</sub>  - (7.65)
+* [[w:c:atos:Tower_of_Darkness_Anguish|Tower of Darkness Anguish]] <sub>(AToS)</sub>  - (7.65)
+* [[w:c:jtoh-xl:CoED|Citadel of Extreme Dystopia]] <sub>(EToH:XL)</sub>  - (7.65)
+* [[w:c:jtoh:CoTE|Citadel of True Exasperation]] <sub>(EToH)</sub>  - (7.66)
+* [[w:c:jtoh:ToYV|Tower of Yearning Victory]] <sub>(EToH)</sub>  - (7.67)
+* [[w:c:jtoh:ToPI|Tower of Prismatic Instability]] <sub>(EToH)</sub>  - (7.67)
+* [[w:c:jtoh:SoFB|Steeple of Forlorn Blizzard]] <sub>(EToH) (unreleased)</sub>  - (7.68)
+* [[w:c:jtoh:Tower_of_Nefarious_Endeavors|Tower of Nefarious Endeavors]] <sub>(AToS/EToH)</sub>  - (7.68)
+* [[w:c:jtoh:CoL|Citadel of Lethargy]] <sub>(EToH)</sub>  - (7.68)
+
+=== High <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT'''</span> ===
+
+* [[w:c:jtoh:ToMT|Tower of Mean Tasks]] <sub>(EToH)</sub>  - (7.69)
+* [[w:c:jtoh:ToDPW|Tower of Drinking Purist Water]] <sub>(EToH)</sub>  - (7.69)
+* [[w:c:atos:Tower_of_Actual_Stupidity|Tower of Actual Stupidity]] <sub>(AToS)</sub>  - (7.69)
+* [[w:c:jtoh:ToBBBB|Tower of Big Blocky Beefy Buttons]] <sub>(EToH)</sub>  - (7.70)
+* [[w:c:atos:Tower_of_Box_Pushing_Gimmicks|Tower of Box Pushing Gimmicks]] <sub>(AToS)</sub>  - (7.70)
+* [[w:c:jtoh:ToUI|Tower of Uncontrollable Ire]] <sub>(EToH)</sub>  - (7.71)
+* [[w:c:atos:Tower_of_Tightrope_Trouble|Tower of Tightrope Trouble]] <sub>(AToS)</sub>  - (7.71)
+* [[w:c:jtoh:WIAT|Wow! It's A Tower!]] <sub>(EToH)</sub>  - (7.72)
+* [[w:c:jtoh:ToNR|Tower of No Return]] <sub>(EToH)</sub>  - (7.73)
+* [[w:c:jtoh:ToRH|Tower of Rhythm Heaven]] <sub>(EToH)</sub>  - (7.74)
+* [[w:c:jtoh-xl:oovaro|obbies of void a real obleish]] <sub>(EToH:XL)</sub>  - (7.74)
+
+=== Peak <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT'''</span> ===
+
+* [[w:c:jtoh:ToMF|Tower of Minus Facility]] <sub>(EToH)</sub>  - (7.75)
+* [[w:c:atos:Tower_of_Uneven_Divisions|Tower of Uneven Divisions]] <sub>(AToS)</sub>  - (7.75)
+* [[w:c:jtoh-xl:CoFO|Citadel of Fractured Obstacles]] <sub>(EToH:XL) (unreleased)</sub>  - (7.75)
+* [[w:c:jtoh-xl:CoUT|Citadel of Ultimately Terrifying]] <sub>(EToH:XL)</sub>  - (7.76)
+* [[w:c:jtoh:Tower_of_Kyodaina_Reizouko|Tower of Kyodaina Reizouko]] <sub>(EToH)</sub>  - (7.77)
+* [[w:c:jtoh:CoACT|Citadel of A Cruel Tale]] <sub>(EToH)</sub>  - (7.77)
+* [[w:c:jtoh-xl:OoWN|Obelisk of Weird Nostalgia]] <sub>(EToH:XL)</sub>  - (7.77)
+* [[w:c:jtoh:ToMD|Tower of Mechanical Disarray]] <sub>(EToH)</sub>  - (7.79) 
+* [[w:c:jtoh:Tower_of_Lavish_Embellishment|Tower of Lavish Embellishment]] <sub>(EToH)</sub>  - (7.79)
+
+==[[File:CORRUPT.png|25px]] <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT - Trivia'''</span>== 
+*<span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT'''</span> has a variant called ''Corruption Area'' as it originated from [[Obelisk of Endless Difficulty Amplifying|OoEDA]].
+** Reportedly, HexagonToken conceptualised a "corrupted" difficulty between ''Remorseless'' and ''Insane'' without knowing of ''Corruption Area''<nowiki/>'s existence (or even before OoEDA did it). ''Corruption Area'' however was exclusive to the Obelisk so this got the official placement in the difficulty chart. The two difficulties have virtually no distinction and may be considered the same difficulty.
+**Some difficulty chart towers still refer to it as the latter.
+*In some towers this difficulty is depicted as a solid purple instead of a gradient.
+
+==[[File:CORRUPT.png|25px]] <span style="background: linear-gradient(to left, #7600D5, #FE006E); background-clip: text; -webkit-text-fill-color: transparent; -webkit-background-clip: text">'''C0RrUpT- Gallery'''</span> ==
+<gallery>
+File:CORRUPT.png|Icon
+File:C0RrUpT's Portal.png|Example portal
+</gallery>
+
+{{MainDifficultiesNavbox}}
+[[Category:Class 2]]
+[[Category:Official]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]

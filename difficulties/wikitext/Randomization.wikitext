@@ -1,0 +1,53 @@
+__NOTOC__{{Unclassified}}
+
+==What is [[File:Randomize Icon Minus 1.png|30x30px]] '''<span style="color:gray">Randomization</span>'''? ==
+{{NewDifficultyInfobox|title1=[[File:Randomize Icon 35.png|30x30px]] '''[[Randomization|<span style="color:gray">Randomization</span>]]'''|image1=<gallery>
+Randomize Icon 35.png|Current?
+Randomize Icon Minus 1.png|Alternative?
+</gallery>|caption1=Roll the dice and get a one! Get all your towers done! 
+<br>
+Roll the dice and get a two! Proceed to ask where are you! 
+<br>
+Roll the dice and get a three! Try to climb a big big tree! 
+<br>
+Roll the dice and get a four!  Prepositions: Of, At For! 
+<br>
+Roll the dice and get a five! Try again and roll the 
+dice! 
+<br>
+Roll the dice and get a six! Break the bones and break the sticks!|class=Unclassified|type=Unclassified Difficulty|previous=Construct|next=None|class_range=Class 1 ↔ Class 8|full_name=Randomization|short_name=Random|alt_names=RNG|date_added=19 March 2021‎ |revamp_date=23 November 2022|rating=0.6 - 47 (Unclassified to [[MegaDeath]])
+O.6 - 40 (Unclassified, to [[Supreme]])
+-0.1 - 40 (Original, to RoorXD from [[Instant Win]])|original_name=Randomize|previous_name=Shuffle, Luck, 4-Leaf}}[[File:Randomize Icon 35.png|30x30px]] '''<span style="color:gray">Randomization</span>''' is a unclassified "difficulty" if you want a challenge. Although it is a difficulty, It can also be considered a mode, And a challange due to it being entirely randomized. So, ''<big>Good luck</big>'' trying to beat this, And have fun.
+
+==[[File:Randomize Icon Minus 1.png|30x30px]] Icon Information==
+<center>[[File:Randomize Icon Minus 1.png|60x60px]]</center>
+The icon is represented by infinite amount of 6 sided dices in photonegative (exhibiting a decrease in electrical conductivity under illumination) effect with a pure black background. This difficulty also had 36 more icons, You can check it out on legacy.
+
+==[[File:Randomize Icon Minus 1.png|30x30px]] Obstacle Section==
+Randomize cannot have the possibility of having obstacles, It is purely randomized. When you spawn in a tower of this difficulty, The tower will be buffed to a entirely random difficulty, It is different each time you die: So for example, If you die while trying to beat this, The tower/obby will get harder or easier. If you want something less RNG then go to <span style="background:linear-gradient(90deg,Lime, Yellow, Red, Magenta, Blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[File:TheDifficultyRush.png|30x30px]] '''[[User blog:EpicTheGamer2014/Difficulty Rush|'''Difficulty Rush''']]'''</span>
+
+==Towers in [[Randomization|<span style="color:gray">'''Randomization'''</span>]]==
+
+===Non-Fictional===
+
+*''<small>Currently none as this would be nigh-impossible without scripts.</small>''
+
+===Fictional===
+
+* [[File:Randomize Icon Minus 1.png|30x30px]] <span style="color:gray">'''[[Citadel of Funky Mechanics]]''' (CoFM)</span>
+* [[File:Randomize Icon 35.png|30x30px]] '''[[Room of Plates of Fate]]''' (RoPoF)
+
+===Other Appearances===
+
+*''<small>Currently None (?)</small>''
+
+==Trivia==
+
+*This was one of the 76 survivors out of the 600+ difficulties that got deleted. 
+**This was called the "Difficulty Reformation" which swooped the difficulty chart.
+***It was part of the [[Page Armageddon]] which ended with 5, later a 6th round to clear off the wiki.
+*The old version of this difficulty was entirelyRNG, even the obstacles, colors and more.
+**The OG version was also incredibly long, with tons of repeatition and paragraphs that are just listing every combination of obstacles.
+*Both fictional towers of this difficulty have pages, hooray!
+{{MainDifficultiesNavbox}}
+[[Category:Unclassified]]

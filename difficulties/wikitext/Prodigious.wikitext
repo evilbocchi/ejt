@@ -1,0 +1,84 @@
+__NOTOC__{{NoticeScrollboxNew|Notices={{Inclusion|reason=Allowed by staff}}{{Humanly Possible}}}}
+
+== Introduction ==
+{{NewDifficultyInfobox|title1=Prodigious|image1=ProdigiousIcon.png
+|caption1='''PRO'''digious|class=[[:Category:Class 3|High-Peak Class 3]]|type=[[w:c:jtoh:Soul_Crushing|Soul Crushing]]
+<div style="padding: 2px; border: 1px solid; font-size: 10px; text-align: center">'''NOTE:''' This difficulty is not in EToH, but is in the soul-crushing section</div>|previous=[[File:Anguish2.png|25px]]<br>[[Anguish]] (15)|next=[[File:TheHumanLimit.png|25px]] [[The Human Limit]] (15.5)|difficulty_range=Bottom to Peak|decal_id=15065568084|creator(s)=[[User:IPeedMyPants|IPeedMyPants]]|previous_name=*Tremendous <span style="opacity: 50%">(Already Used)</span>
+*Appalling
+*Frightful <span style="opacity: 50%">(Already Used)</span>|date_added=27 June 2022|hex_color=*{{Colorbox|#407188}} #407188 (Outline)
+*{{Colorbox|black}} #000000 (Main)|official_music(s)=<center><small>Johannes Bornlöf - Awakening</small><br>
+[https://www.epidemicsound.com/track/I1zeKHZrKb/ (Listen on Epidemic Sound)]</center>|class_range=-|rbg_color=*{{Colorbox|#407188}} 64, 113, 136 (Outline)
+*{{Colorbox|black}} 0, 0, 0 (Main)|cmyk_color=*{{Colorbox|#407188}} 53%, 17%, 0%, 47% (Outline)
+*{{Colorbox|black}} 0%, 0%, 0%, 100% (Main)|hsv_color=*{{Colorbox|#407188}} 199°, 53%, 53% (Outline)
+*{{Colorbox|black}} 0°, 0%, 0% (Main)|hsl_color=*{{Colorbox|#407188}} 199°, 36%, 39% (Outline)
+*{{Colorbox|black}} 0°, 0%, 0% (Main)|prior_previous=[[File:Demise.png|25px]] [[User blog:Rarezites/Demise|Demise]]|prior_next={{Class3Difficulties|Misanthrope|25px}} [[Misanthrope]]|main_difficulty=|altprevious=[[File:No U.gif|25px]] [[Reversed]]|date_removed=25 October 2022|removal_reason=Creator request|revival_date=25 November 2022|rating=14.75}}
+
+'''Prodigious''' is a [[w:c:jtoh:Soul_Crushing|soul crushing]] difficulty made by [[User:IPeedMyPants|IPeedMyPants]], along with [[User:Viranenthusiast|Viranenthusiast]] finishing the page. It is represented with the color black with blue-ish outline. It has its placement in the Peak spectrum of [[:Category:Class 3|class 3]], in-between [[File:No U.gif|30x30px]] [[Reversed]] and the penultimate difficulty of the class 3 called [[File:Anguish2.png|25px]] [[Anguish]]. 
+
+Obstacles in here are difficult and requires skills beyond average obbyists. Failing a single jump would lead you to losing your whole progress, you have to redo all the obstacles until reaching where you failed and continue the rest of the tower which is highly difficult.
+
+Attempting this difficulty may take lots of experiences and time, you may need a helping tool such as '''Coils''' and '''Tool Assisted Speedrun'''.
+==Obstacles==
+Obstacles in '''Prodigious''' requires high amount of lucks, movements and severe amount of skills, but is it mainly focused on skills. Mechanics may appear in some jumps while doing this difficulty. It is not recommended for average players with hand-held devices (e.g. mobile, tablet), or even average players with PCs to attempt.
+:''This section covers the example of obstacles in '''Prodigious'''. Obstacles in here are shown in images.''
+<tabber>
+|-|Basic Obstacles=
+:''These are the examples of normal obstacles. It is the basic and common type of obstacles to (maybe) appear in this difficulty.''
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+File:ProdiExample2.png|This is a first example of a normal obstacle.
+File:ProdiExample5.png|This is a second example of a normal obstacle from [[w:c:jtoh:ToSF|Tower of Spiralling Fates]].
+File:ProdiExample6.png|This is a third example of a normal obstacle from [[w:c:jtoh:ToSF|Tower of Spiralling Fates]].
+</gallery>
+|-|Complex Obstacles=
+
+:''Obstacles in here are way more advanced than the basic ones. These obstacles may contain client-sided object (or script included) parts and may be more confusing than normal obstacles.''
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" bordercolor="#000000" captionsize="large">
+File:ProdiExample1.png|This is a first example of a complex obstacle.
+File:ProdiExample3.png|This is a second example of a complex obstacle.
+File:ProdiExample4.png|This is a third example of a complex obstacle.
+</gallery>
+</tabber>
+==Tower Section==
+{| class="wikitable" width="100%"
+! colspan="2" |Towers
+|-
+! width="50%" |Towers in this difficulty
+!Towers including this difficulty
+|-
+|In terms of reality, the closest towers to this difficulty are middle (12.5) to high (12.7) [[File:UnrealIconModified1003.webp|30x30px]] [[w:c:jtoh:Unreal|Unreal]] towers. Some examples are Tower of Sudden Death, Totally a Brutally Long Ending, Bernado Tower, Ikea Tower and Tower of Hyperfantasian Daydreams.
+
+Unfortunately however, there are no official Prodigious structures. Instead, here are some fictional ones! (You may non-fictionalize these)
+*Tower of Luck Required (ToLR) (Fictional)
+*Steeple of Ulterior Hell (SoUH) (Fictional)
+*Edifice of Ruthless Horrors (EoRH) (Fictional)
+|
+*[[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (MoEJD:R:P1)
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+|}
+==Trivia==
+*'''Prodigious''' was made into a page with the original creator's permission 3 months later.
+*This used to be a sub-difficulty difficulty.
+*This page may not contain some sections you see in other difficulties, this is due to this page mimicking some of the EToH wiki's difficulty page nature.
+*This is partially inspired by {{Class2Difficulties|Absurd|25px}} [[Absurd]], obstacle section and structures are nearly identical to it.
+*This used to be in [[:Category:Class 4|High-Peak Class 4]].
+**This is due to previous classification changes.
+**However in that time, this still stand by class 3.
+**This also used to be a sub difficulty of Unreal but was changed back to a normal difficulty.
+*Several days after Prodigious was created, it had been deleted due to the creator's request.
+**It was revived a month after the deletion.
+*'''Prodigious''' was included in '''MoDDA''' and '''MoEJD:R:P1''' but is yet to be placed in both of those.
+
+== Gallery ==
+<gallery>
+File:ProdigiousShape.png|Shape version
+</gallery>
+[[Category:Difficulties]]
+[[Category:Class 3]]
+[[Category:Humanly Possible]]
+[[Category:Sub-Difficulties]]
+[[Category:Possible]]
+[[Category:Difficulty]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Soul Crushing]]
+[[Category:Two color icon]]

@@ -1,0 +1,74 @@
+{{DISPLAYTITLE:<span id="insistent">Insistent</span>}}
+{{CSS|content=<nowiki>
+#insistent {
+    font-family: 'Comic Sans MS';
+    font-weight: bold;
+    text-shadow: 0 0 0.1em #59FF6BC0, 0 0.1em green, 0 0 0.3em #000
+}
+</nowiki>}}
+{{Humanly Impossible}}<font size="5"></font><center><font size="5">« <small>[[File:Absolutism.png|30px]] [[Absolutism]]</small> | [[File:Insistent.png|30px]] <span id="insistent">Insistent</span> | [[File:Shocking.png|30px]] [[Shocking]] »</font></center>
+{{NewDifficultyInfobox|image1=Insistent.png|class=Mid [[:Category:Class 6|Class 6]]|previous=* [[File:Absolutism.png|30px]] [[Absolutism]]|next=* [[File:Hi.png|30px]] [[Victor]]
+* [[File:Shocking.png|30px]] [[Shocking]] (Sub Difficulty)|decal_id=* Current - [https://create.roblox.com/store/asset/124778018485672 124778018485672]|creator(s)=[[User:YataDev|YataDev]]|title1=<big><big><big><big><span id="insistent">Insistent</span></big></big></big></big>|type=Normal|rating=53}}
+==Overview==
+[[File:Insistent.png|30px]] <span id="insistent">Insistent</span> is a Normal difficulty settled in the reaches of Middle Class 6, successing [[File:Absolutism.png|30px]] [[Absolutism]] and preceding [[File:Shocking.png|30px]] [[Shocking]]. It is regarded humanly impossible, rendering any legitimate attempts at an [[File:Insistent.png|30px]] <span id="insistent">Insistent</span> ranked obby futile. To have even the slimmest likelihood of completing any of the grueling obstacles [[File:Insistent.png|30px]] <span id="insistent">Insistent</span> obbies have, a player must be prepared with particular tools that can help overcome the hindrances.
+
+[[File:Insistent.png|30px]] <span id="insistent">Insistent</span> towers and obbies are made for entertainment purposes, and are not meant to be attempted legitimately.
+==Icon Representation==
+{|class="fandom-table mw-collapsible mw-collapsed" style="width: 100%; text-align: center"
+!colspan="3"|<big><big>Icon Representation</big></big>
+|-
+!colspan="2"|<big>Icon, Version and Date</big>
+!<big>Description</big>
+|-
+|Current
+|January<br>5th, 2025
+|rowspan="2" style="line-height: 1.6"|This icon was created by [[User:YataDev|YataDev]], and consists of a mint-green phi symbol from the Greek alphabet, placed on a black-to-green gradient background. The icon has an overlayed green outline as well, and a semi-transparent four-pointed star of a similar color to the icon's outline in each corner.
+|-
+|colspan="2" style="padding: 2px"|[[File:Insistent.png|250px]]
+|}
+== Obstacles ==
+As previously stated, [[File:Insistent.png|30px]] <span id="insistent">Insistent</span> contains obstacles that are humanly impossible to overcome without the use of additional tools and gear. Below is an example list of obstacles to help builders understand how to design them and to inform players about what challenges to expect from an [[File:Insistent.png|30px]] <span id="insistent">Insistent</span> difficulty obby.
+
+Such obstacles, on top of being humanly impossible with default Humanoid properties, require insane luck and precision. Obstacles like these should not be attempted without special tools.
+<tabber>
+|-|
+Low=
+<h3 style="text-align: center">Low [[File:Insistent.png|34px]] <span id="insistent">Insistent</span></h3>
+* 16.8 stud jump (climbable)
+* 16.2 stud jump (unclimbable)
+* 15.7 stud wrap
+* 15 stud wrap with 1 stud stickout
+* 14 stud wrap with 2 stud stickout
+|-|
+Mid=
+<h3 style="text-align: center">Mid [[File:Insistent.png|34px]] <span id="insistent">Insistent</span></h3>
+* 16.9 stud jump (climbable)
+* 16.3 stud jump (unclimbable)
+* 15.8 stud wrap
+* 15.2 stud wrap with 1 stud stickout
+* 14.2 stud wrap with 2 stud stickout
+|-|
+High=
+<h3 style="text-align: center">High [[File:Insistent.png|34px]] <span id="insistent">Insistent</span></h3>
+* 17 stud jump (climbable)
+* 16.4 stud jump (unclimbable)
+* 16 stud wrap
+* 15.4 stud wrap with 1 stud stickout
+* 14.4 stud wrap with 2 stud stickout
+|-|
+</tabber>
+==Towers & Obbies==
+<tabber>
+Non-Fictional=
+There are currently no towers or obbies constructed for this difficulty. Feel free to make one if you're a builder!
+|-|
+Fictional =  
+There are currently no fictional towers or obbies for Insistent. Feel free to create a page with material about your own tower/obby!
+|-|
+</tabber>
+==Trivia==
+*<span id="insistent">Insistent</span> was created as a replacement of [[File:Exigent.png|30px]] '''Exigent''', a deleted difficulty in the same placement.
+*It is the first properly made and finished difficulty made by [[User:YataDev|YataDev]] in over 2 years.
+== Completion ==
+After completing [[File:Insistent.png|30px]] <span id="insistent">Insistent</span>, a difficulty that should not be humanly feasible, an obby of [[File:Shocking.png|30px]] [[Shocking]] should be attempted next, if one expects something of higher difficulty.
+[[Category:Difficulty]]

@@ -1,0 +1,72 @@
+{{DISPLAYTITLE:<span id="funny">ÿ</span>}}
+{{CSS|content=<nowiki>
+#funny {
+    font-family: Comic Sans MS;
+    font-weight: bold;
+    text-shadow: 0 0.07em 0.2em #FF00C7, 0 -0.07em 0.2em #FF002F, 0 -0.07em 0.2em #FF002F, 0 0 0.5em #0007
+}
+</nowiki>}}
+{{Humanly Impossible}}
+{{NewDifficultyInfobox|image1=Ÿ revamp icon.png|title1=<span id="funny">ÿ</span>|caption1=Whÿ would ÿou attempt this?|class=Class 6|type=Chain Difficultÿ<br>Sub-Difficultÿ|previous=[[File:D-E-L-T-A Revamped Icon.png|30px]] [[D-E-L-T-A|D-E-L-T-A]]|next=[[File: ThetaVoidRevamp.png|30px]] [[Theta-Void|Theta-Void]]|class_range=Peak Class 6|difficulty_range=Baseline to Peak|chain(s)=Mike's Difficulty Chart|creator(s)=*Miketheoctoling - Original Creator
+*Sanjaÿ2133 - Revamper|date_added=Sep. 24, 2020|date_removed=Dec. 14, 2022|removal_reason=It was almost going to be removed due to it being low quality.|revamp_date=Dec. 14, 2022|rating=58.66|main_difficulty=[[FIle: Xi-Alpha Icon.png|30px]] [[Xi-Alpha]]|official_music(s)=[https://soundcloud.com/visioncrew-deltarune/pale-buster-ft-vcdr-team Pale Buster]}}
+==Introduction - [[File:Ÿ revamp icon.png|50x50px]] <span id="funny">ÿ</span>==
+[[File:Ÿ revamp icon.png|30px]] <span id="funny">ÿ</span> is a Class 6 sub-difficultÿ and the third difficultÿ of [[:Category:Mike's Difficulty Chart Chain|Mike's Difficultÿ Chart]], out of 5. Preceding it is the second difficultÿ of the chain, [[File:D-E-L-T-A Revamped Icon.png|30px]] '''[[D-E-L-T-A]]'''. After that lies [[File: ThetaVoidRevamp.png|30x30px]] '''[[Theta-Void]]''', the penultimate difficultÿ of the chain. [[File:Ÿ revamp icon.png|30px]] <span id="funny">ÿ</span> is so difficult, it is impossible to complete with naturallÿ, even with a TAS. The onlÿ waÿ to trulÿ complete something of this nature is to abuse phÿsics in waÿs that nobodÿ has ever done, or use something like noclip or a coil.
+
+[[File:Ÿ revamp icon.png|30px]] <span id="funny">ÿ</span><nowiki/>'s name originates from the ÿ found in Dutch and Afrikaans. This follows the pattern of different sÿmbols being used in the difficulties in the chain, such as Delta being used in [[File:D-E-L-T-A Revamped Icon.png|30px]] '''[[D-E-L-T-A]]''' and [[File: ThetaVoidRevamp.png|30x30px]] '''[[Theta-Void]]''' containing a theta (in its old icon).
+
+This difficultÿ requires unimaginable luck and skill, even more than required in [[File:D-E-L-T-A Revamped Icon.png|30px]] '''[[D-E-L-T-A]],''' and incredible motivation to keep pushing through it. Though this difficultÿ does surpass [[File:D-E-L-T-A Revamped Icon.png|30px]] '''[[D-E-L-T-A]]''' in difficultÿ and luck, there are still difficulties that require more to beat, such as [[File: ThetaVoidRevamp.png|30x30px]] '''[[Theta-Void]]'''.
+
+The difficultÿ in tiers would be around 58.66, due to there not being anÿ defined tiers around this difficultÿ and the nature of tiers being quite confusing. It would also land a Kol Metris rating of |587|+ due to its placement.
+
+Also, a special "gimmick" of this difficultÿ is that everÿ ''Y'' (I'm giving that specific ÿ a pass.) '''must''' be replaced with the ÿ sÿmbol in anÿthing related to it.
+
+==Icon Representation - [[File:Ÿ revamp icon.png|50x50px]] <span id="funny">ÿ</span>==
+{| class="fandom-table"
+|+'''Icon Representation'''
+!'''Name'''
+!'''Icon'''
+!'''Date Added'''
+!'''Description'''
+|-
+|'''New'''
+|[[File:Ÿ revamp icon.png|300x300px]]
+|'''Aug 18, 2021'''
+|The newer icon uses a red to pink gradient in the background, as well as a ÿ sÿmbol followed bÿ a dot in the center, seeminglÿ in comic sans, that is cÿan. Overall, it is much more cleaned up.
+|-
+|'''Old'''
+|[[File:RobloxScreenShot20200924 131538078.png|300x300px]]
+|'''Aug 15, 2020'''
+|The old icon is similar but less cleaned up. It originated from a Roblox screenshot. The background is red with a slight stripe of pink, and there is the cÿan ÿ sÿmbol slightlÿ stretched out. 
+|}
+
+==Obstacles - [[File:Ÿ revamp icon.png|50x50px]] <span id="funny">ÿ</span>==
+{{ObstacleTableRevamp|JumpClimbableBase=28.54|Increment=0.0525}}
+
+== Trivia ==
+
+* Everÿ y in this page except for the one in this sentence (plus the one that got the pass) has been replaced with a ÿ instead.
+
+==Towers - [[File:Ÿ revamp icon.png|50x50px]] <span id="funny">ÿ</span>==
+
+===Towers in this difficultÿ===
+
+*Tower of Dartinglessness and Netiloneterunaio Dangerouslitÿ Eras Lionerstinious Illnessless of Northing (ToDaNDELIoN) (Hardest Tower in ToCOLOR Part 2) (Fictional)
+
+===Towers with this difficultÿ===   
+
+*[[Monolith of Completely Endless Difficulties|Monolith of Completelÿ Endless Difficulties]] (Floor 696)
+*[[Monolith of Beyond Immeasurable Difficulty Chart|Monolith of Beÿond Immeasurable Difficultÿ Chart]] (Floor 106)
+*[[Great Citadel of Infinity Ascending|Great Citadel of Infinitÿ Ascending]] (Floor 106)
+*[[Great Citadel of Soul Crushing Difficulty Chart|Great Citadel of Soul Crushing Difficultÿ Chart]] (Unknown Floor)
+*[[Monolith of Deadly Difficulties Approaching|Monolith of Deadlÿ Difficulties Approaching]] (Unknown Floor, because of the frame is done onlÿ to Effortlessless.)
+
+==Continuing On - [[File:Ÿ revamp icon.png|50x50px]] <span id="funny">ÿ</span>==
+ÿou've done an amazing job here, in [[File:Ÿ revamp icon.png|30px]] <span id="funny">ÿ</span>. This is trulÿ a monumental achievement for humanitÿ, to be able to do something deemed impossible even bÿ TAS. Continue onto [[File: ThetaVoidRevamp.png|30x30px]] '''[[Theta-Void]]''', or staÿ here for a while and take a break.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 6]]
+[[Category:Mike's Difficulty Chart Chain]]
+[[Category:Humanly Impossible]]

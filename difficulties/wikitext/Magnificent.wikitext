@@ -1,0 +1,127 @@
+{{Background|File=Blewburrys.png}}
+{{Classic}}
+{{Humanly Possible}}{{NewHeader-Dynamic||text=What is [[File:Magnificent Current.png|30x30px]] Magnificent?}}
+{{NewDifficultyInfobox|title1=[[File:Magnificent Current.png|30x30px]] Magnificent
+|image1=<gallery>
+File:Magnificent Current.png | Current
+File:MagnificentBlueberries.jpg | Old
+File:Magv3.png | Alternate (creator approved)
+File:MagnificentSDC.png | Simplified Difficulty Chart Icon
+</gallery>|caption1=Mmm, yummy!|class=[[:Category:Class 1|Peak Class 1]]|type=Revived Classic Difficulty|previous=[[File:BabyingSDC.png|30x30px]] [[Babying]]|next=[[File:EffortlesslessIconOoIDC.png|30x30px]] [[Effortlessless]]|difficulty_range=Baseline - Peak|creator(s)=SodafizzIGuess (Original Difficulty Creator)
+[[User:Viranenthusiast|Viranenthusiast]] (Reviver)|date_added=11/19/20 (Original Page Creation Date)|date_removed=09/11/2021 (First, Second and Third Deletion)|removal_reason=Goodbye. (First Deletion)
+For each empty page you make, is an extra day on your block when you get one. (Second Deletion)
+N/A (Third Deletion)|revival_date=15/07/2022|prior_previous=[[File:Babying.jpg|30x30px]] [[w:c:extended-jtoh:Babying|Babying]]|prior_next={{Class0Difficulties|Effortlessless}} [[Effortlessless]]
+[[Mature]] (Sub Difficulty)|previous_sub_difficulty(ies)=[[Diaphanous]] (Doesn’t exist)
+|decal_id=
+*New: [https://www.roblox.com/library/13930255116 13930255116]
+*Old: [https://www.roblox.com/library/13930274896 13930274896]
+* Alt: [https://www.roblox.com/library/14410790622 14410790622]
+* Simplified: [https://create.roblox.com/store/asset/102220988293259/Magnificent 102220988293259]
+|rating=-1.66|alt_next=[[File:Facile1.png|30x30px]] [[Facile]]|sub_difficulty(ies)=|main_difficulty={{File:Babying.jpg|30x30px}} [[Babying]]}}
+[[File:Magnificent Current.png|30x30px]] '''Magnificent''' is a Peak Class 1 Revived Classic Difficulty, that sits between [[File:BabyingSDC.png|30px]] [[Babying]] and [[File:EffortlesslessIconOoIDC.png|30x30px]] [[Effortlessless]] (or [[File:Facile1.png|30x30px]] [[Facile]]) . Obstacles are extremely easy, so easy that you won’t feel any sort of challenge in this difficulty. 
+
+===History===
+This classic difficulty was created on November 19, 2020 by [[User:SodafizzIGuess|<bdi>SodafizzIGuess</bdi>]], placed between Babying and Effortlessless. It also had one sub difficulty, being Diaphanous, although it never actually existed. 
+
+On the 9th of November 2021, at 1:37 am (according to Fandom), the difficulty was deleted. A few hours later, the page was recreated, as an empty page, and was deleted later, at 4:30 pm, on the same day. Even later that day, the page was recreated '''again''' as a blank page, and was deleted at 8:28 pm on the same day.
+
+About 8 months later, the difficulty was revived by The Difficulty Enthusiast, and that is the page you’re reading right now.
+{{NewHeader-Dynamic||text=Icon Representations}}
+===New===
+[[File:Magnificent Current.png|center|frameless|60x60px]]
+This icon is more complex than the alternate one. There is a sky blue background, with a light blue border. In the sky blue background is the blueberry background from the old icon, but with 5% transparency, and in the middle is a ‘:)’ emoticon.
+===Old===
+[[File:MagnificentBlueberries.jpg|center|frameless|60x60px]]
+It’s just a blueberry background, that’s it. Just the average Classic difficulty icon.
+===Alternate===
+[[File:Magv3.png|center|frameless|60x60px]]
+cat.
+===Simplified Chart===
+[[File:MagnificentSDC.png|center|frameless|60x60px]]
+It's three blueberries on a light blue background with a blue leaf. It's simple, just like most of the Simplified difficulty chart.
+{{NewHeader-Dynamic|text=Obstacles}}
+
+===Low===
+
+*5 stud jump (climbable)
+*4.5 stud jump (unclimbable)
+*0.3 stud wraparound (Climbable)
+*0.25 stud wraparound (Unclimbable)
+
+===Middle===
+
+*5.2 stud jump (climbable)
+*4.8 stud jump (unclimbable)
+*0.35 stud wraparound (Climbable)
+*0.3 stud wraparound (Unclimbable)
+
+===High===
+
+*5.5 stud jump (climbable)
+*5.2 stud jump (unclimbable)
+*0.4 stud wraparound (Climbable)
+*0.3 stud wraparound (Unclimbable)
+{{NewHeader-Dynamic|text=Towers with this difficulty}}
+
+===Non-Fictional===
+
+*None
+
+===Fictional===
+
+*Tower of A Blueberry Feast (ToABF) (Low)
+*Steeple of Eating Blueberries (SoEB) (Mid)
+*Tower of Cats If They Were Blueberries (ToCITWB) (High)
+*Cathedral of Nostalgia (CAoN)
+
+===Other Appearances===
+
+*{{Class25Difficulties|The Final Difficulty.}} [[The Infinite Difficulty Chart (T.I.D.C)]]
+*[[File:DillyImpossibleRemake.png|30x30px]] [[Great Citadel of Beyond Impossible Difficulties|Great citadel of Beyond Impossible Difficulties]]
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]]
+*Probably a few more old dc towers
+{{NewHeader-Dynamic|text=Trivia}}
+
+*This is the second difficulty The Difficulty Enthusiast did not have affiliation with to be revived by TDE.
+*This was deleted for 8 months and 6 days, before being revived.
+*This is a Revived Difficulty.
+===Harder Expansion===
+in May 2022, a user named [[User:Kingoshri2020|Kingoshri]] added more obstacles beyond the High Spectrum, and made them sub bullet points. They were later reverted by [[User:GDL3344|GDL]] in the first of July 2022.
+
+The obstacles and catches are found below.
+====Catches====
+*you cant jump
+*you have 10 walkspeed
+*you dont have any boosts
+*your slowly losing hp
+**formula: 0.01 dmg per 0.01 seconds
+====Peak (C8)====
+*1,000 stud jump (climbable)
+*900 stud jump (unclimbable)
+*100 stud wraparound (climbable)
+*90 stud wraparound (unclimbable)
+====Skyline (C10)====
+*1,000,000 stud jump (climbable)
+*900,000 stud jump (unclimbable)
+*10,100 stud wraparound (climbable)
+*10,101 stud wraparound (unclimbable)
+====Peripheral (C19)====
+*∞<sup>2</sup> stud jump (climbable)
+*∞<sup>2</sup> stud jump (unclimbable)
+*∞<sup>2</sup> stud wraparound (climbable)
+*∞<sup>2</sup> stud wraparound (unclimbable)
+{{NewHeader-Dynamic|text=Gallery}}<gallery>
+File:Magnificent Current.png|The current icon.
+File:MagnificentBlueberries.jpg|The Original icon.
+File:Magv3.png|The alternate icon.
+</gallery>{{NewHeader-Dynamic|text=Continuing on from this point}}
+Now, it’s time to move onto another extremely easy difficulty, which is [[File:EffortlesslessIconOoIDC.png|30x30px]] [[Effortlessless]] or [[File:Facile1.png|29x29px]] [[Facile]]. You’re getting closer and closer to the full JToH chart!
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 1]]
+[[Category:Unfinished pages]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+[[Category:Unofficial Difficulty]]
+[[Category:Emoticon Difficulties]]

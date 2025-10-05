@@ -1,0 +1,102 @@
+{{NoticeScrollboxNew|Notices={{Revamp}}{{Humanly Impossible}}}}
+{{NewDifficultyInfobox|title1=Reality|image1=<gallery>
+shimeshimeyehshimeyehshimeyaah.jpg|Current
+OldRealityDifficultyIcon.jpg|Old
+GYFET.png|2nd Old
+New reality image.webp|3rd Old
+REALITY.png|Original
+</gallery>|caption1=Remember when this was called Reality? ... What?|class=[[:Category:Class 4|Class 4]]|type=[[:Category:Sub-Difficulties|Sub-Difficulty]]|previous=[[File:AlephnullDifficulty.webp|30px]] [[Aleph-Null]]|next=[[File:ImmeasurableDifficulty.webp|30px]] [[W:c:jtohs-hardest-towers:Immeasurable|Immeasurable]]|class_range=Peak|difficulty_range=Baseline to Peak|decal_id=*Current: [https://www.roblox.com/library/7938906474/Reality Here]
+*Old: Here
+*2rd Old: [https://create.roblox.com/store/asset/7915383096/Reality Here]
+*3rd Old: [https://create.roblox.com/store/asset/9699095084/Reality Here]
+*Original: [https://www.roblox.com/library/6418992418/Reality Here]|creator(s)=[[User:Phaxyi|Phaxyi]] (Creator)
+[[User:Viranenthusiast|Vira]] (Revamper)<br>
+[[User:InvertedVertically|<span style="text-shadow: 0 0 4px #ffcc00; color:#ffcc00; font-family:Comfortaa;"><b>InvertedVertically</span>]]</b> (Updater)|date_added=2/14/2021|prior_previous=Jevil (Deleted)|alt_next=|rating=28.66|alt_previous=[[File:Mystical.jpeg|30px]] [[Mystical]]|main_difficulty=[[File:AlephnullDifficulty.webp|30px]] [[Aleph-Null]]|hex_color=*#640000 (Outline)
+*#370000 (Top of gradient)
+*#000000 (Bottom of gradient)
+*#e60000 (Dot)|rgb_color=*100, 0, 0 (Outline)
+*55, 0, 0 (Top of gradient)
+*0, 0, 0 (Bottom of gradient)
+*230, 0, 0 (Dot)}}
+==What is '''Reality'''?               ==
+'''Reality''' is a class 4 difficulty that is sure to end your reality, or at least keep you in check for a long time. It is harder than Aleph-Null and Mystical, however, it is easier than Immeasurable. The floor is dark, and the fog will also overtake you into nothingness. If you somehow even locate the obstacles in this difficulty, you’ll find that they are not allowed to be messed with. They are unbelievably hard, and, combined with the darkness, you’ll have trouble even scouting the jump for your TAS. This floor is sure to be a huge roadblock in your journey.
+
+== Placement ==
+
+=== High Class 4 ===
+
+* [[File:UnimaginableDifficulty.webp|30x30px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]] (25)
+** [[File:Me_when_new_dimension_icon.webp|30x30px]] [[Dimension]] (25.5)
+* [[File:Omega_akaTowerRushDifficulty.gif|30x30px]] [[w:c:jtohs-hardest-towers:Omega|Omega]] (26)
+** [[File:Disarray.png|30x30px]] [[Disarray]] (26.5)
+* [[File:SUFFER.png|30x30px]] [[SUFFER]] (27)
+** [[File:CHAOS2.png|30x30px]] [[CHAOS]] (27.5)
+
+=== Peak Class 4 ===
+
+* [[File:AlephnullDifficulty.webp|30x30px]] <big><span class="alephn">Aleph-Null</span> (28)</big>
+** [[File:Mystical.jpeg|30x30px]] [[Mystical]] (28.33)
+** [[File:Shimeshimeyehshimeyehshimeyaah.jpg|50x50px]] [[Reality]] (28.66) <big>'''You are here.'''</big>
+* [[File:ImmeasurableDifficulty.webp|30x30px]] [[W:c:jtohs-hardest-towers:Immeasurable|Immeasurable]] (29)
+** [[File:Noxious.png|30x30px]] [[Noxious]] (29.5)
+* [[File:Malicious.png|30x30px]] [[w:c:jtohs-hardest-towers:Malicious|Malicious]] (30)
+** [[File:Autism_but_resized.png|30x30px]] [[Autism]] (30.33)
+** [[File:Malevolent.png|30x30px]] [[Malevolent]] (30.66)
+
+== Icon Representation ==
+{| class="fandom-table"
+|+
+!Icon
+!Category
+!Description
+|-
+|[[File:Shimeshimeyehshimeyehshimeyaah.jpg|frameless]]
+|Current
+|This icon follows the theme of the outlined difficulties that fall in the [[w:c:jtohs-hardest-towers|JHT]] range. It has a dark red outline with a darker red gradient stretching from the top to the bottom of the icon, the end of it is black. In the bottom-middle there is a bright red dot that has some faint glow around it.
+|-
+|[[File:OldRealityDifficultyIcon.jpg|left|frameless]]
+|Old
+|This was the longest lasting old icon. It has the same gradient as the current one except it's flipped and has a slightly lighter red. There is still the same dot in the bottom-middle but is smaller and has no glow. It's possible that it was made with text.
+|-
+|[[File:GYFET.png|left|frameless]]
+|2nd Old
+|This old icon is extremely similar to its successor but with a few changes/flaws. There is a rather bright red at the bottom of the gradient which also happens to have a slight orange tint. The dot is once again bigger but also off-centered to the left.
+|-
+|[[File:New reality image.webp|left|frameless]]
+|3rd Old
+|This is the most "complicated" icon here. The gradient is similar to the current version but at °275 and with a bright red. In the middle of the icon, instead of a dot there is a stylized [[wikipedia:Virgo (astrology)|Virgo]] star sign in white. There also is a black shadow to the left. Finally, there is a difficult to see white glow around the symbol.
+|-
+|[[File:REALITY.png|left|frameless]]
+|Original
+|This icon is the most flawed out of all. The background is a gradient from grey to black with the red dot being off-centered once again, and slightly higher up. The dot also seems to be stretched vertically. It is plausible this icon was made in Scratch.
+|}
+
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=16.5|Increment=0.0113}}
+==Towers With This Difficulty== 
+
+*[[Great Monolith of Every EJT Difficulty]] (GMoEED)
+*[[Great Citadel of Beyond Impossible Difficulties]] (GCoBID)
+*[[Obelisk of Endless Difficulty Amplifying]] (OoEDA)
+*[[Monolith of Deadly Difficulty Cluster]] (MoDDC)
+*[[Great Citadel of Hellish Difficulties]] (GCoHD)
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 40: Reality] (R40:R)
+
+==Gallery==
+<gallery>
+File:REALITY’s Portal GCoHD.jpg|Reality’s portal in [[Great Citadel of Hellish Difficulties|GCoHD]].
+</gallery>
+
+==Moving Forward==
+Ok, I’m not done, still. Although we are close to the end of class 4, I still have a lot more to give. You have no chance. Just Accept it. 
+
+Well, the longer you stay here, the more likely you will die. So, get going and get into [[File:ImmeasurableDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]]. It will be sure to secure your doom. 
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:Humanly Impossible]]
+[[Category:Undergoing Revamp]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Difficulty]]

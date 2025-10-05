@@ -1,0 +1,199 @@
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(135deg, #000000 50%, #ffffff 50%);-webkit-text-fill-color: block;-webkit">
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(135deg, #000000, #4b4b4b, #000000);-webkit-text-fill-color: block;-webkit">
+<div style="--theme-accent-color:-webkit-linear-gradient(#c8c8c8, #000000)">{{NoticeScrollboxNew|Notices={{Bad Grammar}}{{Humanly Impossible}}}}{{NewDifficultyInfobox|image1=<gallery>
+Me when new dimension icon.webp|Current
+New dimension image.png |Old
+Previous dimension image.png |2nd Old
+Dimension2.png |Original
+</gallery>|class=[[:Category:Class 4|Class 4]]|previous=[[File:UnimaginableDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]] (25)|next=[[File:Omega akaTowerRushDifficulty.gif|30px]] [[w:c:jtohs-hardest-towers:Omega|Omega]] (26)|decal_id=*[https://create.roblox.com/store/asset/100291724495606/Dimension Current]
+*[https://create.roblox.com/store/asset/15076237919/Dimension Old]
+*[https://create.roblox.com/store/asset/13201708624/Dimension 2nd Old]
+*[https://create.roblox.com/store/asset/7947911870/Dimension Original]|creator(s)=[[User:Astrominal|Astrominal]]|full_name=Dimension|date_added=*Page: 15 january, 2021‎
+*Created: Somewhere August 2020|hex_color=|title1=<big><span style="color:#ffffff;text-shadow:0 0 1px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000">'''Dimension'''</span></big>|type=Sub-Difficulty|rating=25.5|class_range=High|sub_difficulty(ies)=|alt_previous=|short_name=Dim|alt_next=|main_difficulty=[[File:UnimaginableDifficulty.webp|35px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]]|official_music(s)=[https://www.youtube.com/watch?v=4z1mfLTMadg&ab_channel=PanoChaberta ICONOCLASTS - Omega Wheel (Vs Omega) &#124;OST&#124;]}}
+
+==What is Dimension?==
+[[File:Me when new dimension icon.webp|30px]] <span style="color:#ffffff;text-shadow:0 0 1px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000">'''Dimension'''</span> ('''Dim''') is a [[:Category:Class 4|'''Class 4''']] (formerly [[:Category:Class 5|'''Class 5''']]) [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] in the <span style="background:linear-gradient(180deg,#867438,#69522b); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''High'''</span> range. '''Dim''' can be classified as '''[[:Category:Humanly Impossible|Humanly Impossible]]''', meaning this classification's difficulties are impossible to do by humans unless you're using Tool-Assisted Speedrun ('''TAS''') or exploits, ranging from [[File:Nil revamp lol.png|25x25px]] [[w:c:jtohs-hardest-towers:nil|nil]] to [[File:UnthinkableSquare.png|25x25px]] [[UNTHINKABLE]]. The obstacles require '''TAS''' to perform, and because of the immense difficulty the obstacles have, '''Dim''' is classified as '''[[:Category:Humanly Impossible|Humanly Impossible]]'''.
+
+[[File:Me when new dimension icon.webp|30px]] <span style="color:#ffffff;text-shadow:0 0 1px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000">'''Dimension'''</span> is in-between [[File:UnimaginableDifficulty.webp|25x25px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]] (25) and [[File:Omega akaTowerRushDifficulty.gif|25x25px]] [[w:c:jtohs-hardest-towers:Omega|Omega]] (26), alternatively [[File:Disarray.png|25px]] [[File:DisarrayText2.png|60x60px|link=Disarray]] (26.5), with '''Dim''' as a [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] from [[File:UnimaginableDifficulty.webp|25x25px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]], rating of 25.5. Speaking of [[File:UnimaginableDifficulty.webp|25x25px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]]'s sub-difficulties, there were 6 more Sub-Difficulties of which 1 was a '''Sub-Sub-Difficulty'''. 
+
+===The list of [[File:UnimaginableDifficulty.webp|30x30px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]]'s deleted sub-difficulties (Sub-Class 4.2).===
+*[[File:Unfriendly MegaUnDeath.png|30x30px]] <span style="background:linear-gradient(45deg,#ff0000,#000000,#ff0000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Unfriendly MegaUnDeath'''</span>
+*[[File:Unrebirthable.png|30x30px]] <span style="background:linear-gradient(180deg,#a30000,#781200); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Unrebirthable'''</span>
+*[[File:DISBELIEF.png|30x30px]] <span style="background:linear-gradient(180deg,#ffffff,#ff0000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''DISBELIEF'''</span>
+*[[File:Me when new dimension icon.webp|30px]] <span style="color:#ffffff;text-shadow:0 0 1px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000">'''Dimension'''</span>, <small>Sub. placement</small>
+*[[File:Screenshot 2021-04-17 2.22.18 AM.png|30x30px]] <span style="background:linear-gradient(180deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Pi'''</span> 
+**[[File:Pie Difficulty.png|25x25px]] <span style="background:linear-gradient(180deg,#f5e578,#e0d16c); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Pie'''</span> (Sub-Difficulty of Pi)
+*[[File:Infinite difficulty.png|30x30px]] <span style="background:linear-gradient(180deg,#ffffff,#000000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Infinite'''</span>
+
+[[File:Me when new dimension icon.webp|30px]] <span style="color:#ffffff;text-shadow:0 0 1px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000">'''Dimension'''</span> was first made in August 2020 at the Unreleased Version of GCoCIaND[[JJT's Lost Media List#Unreleased GCoCIaND Version|<sup>[1]</sup>]]. At the time it was placed above [[File:Malicious.png|25x25px]] [[w:c:jtohs-hardest-towers:Malicious|Malicious]] with two more difficulties slightly harder than '''Dim''' and a chain, which the two difficulties are Pi<sup>(don't be confused with the actual [[​π|page]])</sup> and Infinite, and the chain[https://jtohs-joke-towers.fandom.com/wiki/Dimension?oldid=22557#Unused_Difficutlies_(NO_ADD_NOT_THIS_DIFFICUTLIES) <sup>[2]</sup>] was only variant of '''Dimension''', Pi and Infinite.
+
+=='''''<big>Placement</big>'''''==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 4'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|[[File:NewHELL.jpeg|50px]]
+|[[w:c:jtohs-hardest-towers:HELL|HELL]]
+|Normal
+|22
+|-
+|[[File:Vortex.png|50px]]
+|[[Vortex]]
+|Sub-Difficulty
+|22.5
+|-
+|[[File:NewTARTARUS.jpeg|50px]]
+|[[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]]
+|Normal
+|23
+|-
+|[[File:NewCALAMITY.jpeg|50px]]
+|[[CALAMITY]]
+|Normal
+|24
+|-
+|[[File:Neutralize 2.jpg|50px]]
+|[[Neutralize]]
+|Sub-Difficulty
+|24.33
+|-
+|[[File:Killjoying.jpg|50px]]
+|[[Killjoying]]
+|Sub-Difficulty
+|24.66
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
+|-
+|[[File:UnimaginableDifficulty.webp|50px]]
+|[[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]]
+|Normal
+|25
+|-
+|[[File:Me when new dimension icon.webp|50px]]
+|[[Dimension]]
+|Sub-Difficulty
+|25.5
+|-
+|[[File:Omega akaTowerRushDifficulty.gif|50px]]
+|[[w:c:jtohs-hardest-towers:Omega|Omega]]
+|Normal
+|26
+|-
+|[[File:Disarray.png|50px]]
+|[[File:DisarrayText2.png|75px|link=Disarray]]
+|Sub-Difficulty
+|26.5
+|-
+|[[File:SUFFER.png|50px]]
+|[[SUFFER]]
+|Normal
+|27
+|-
+|[[File:CHAOS2.png|50px]]
+|[[CHAOS]]
+|Sub-Difficulty
+|27.5
+|-
+| colspan="4" style="background:#7A493D;color:white" |'''Peak'''
+|-
+|[[File:AlephnullDifficulty.webp|50px]]
+|[[Aleph-Null]]
+|Normal
+|28
+|-
+|[[File:Mystical.jpeg|50px]]
+|[[Mystical]]
+|Sub-Difficulty
+|28.33
+|-
+|[[File:Shimeshimeyehshimeyehshimeyaah.jpg|50x50px]]
+|[[Reality]]
+|Sub-Difficulty
+|28.66
+|-
+|[[File:ImmeasurableDifficulty.webp|50px]]
+|[[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]]
+|Normal
+|29
+|-
+|[[File:Noxious.png|50px]]
+|[[Noxious]]
+|Sub-Difficulty
+|29.5
+|-
+|[[File:Malicious.png|75px]]
+|[[w:c:jtohs-hardest-towers:Malicious|Malicious]]
+|Class Finale
+|<big>'''30'''</big>
+|-
+|[[File:Autism but resized.png|50px]]
+|[[Autism]]
+| Sub-Difficulty
+|30.33
+|-
+|[[File:Malevolence.png|50px]]
+|[[Malevolent]]
+|Sub-Difficulty
+|30.66
+|-
+|}
+==''<big>Icon Representation</big>''==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="3" style="text-align:center; width: 1%" |'''<big>''Icon Representation''</big>'''
+|-
+! style="border:5px solid #ffffff; background: #000000;" | Icon
+! style="border:5px solid #ffffff; background: #000000;" | Representation
+! style="border:5px solid #ffffff; background: #000000;" | Date
+|-
+| style="border:5px solid #ffffff; background: #000000;" |<big>'''Current Version:'''</big>[[File:Me when new dimension icon.webp|center|thumb|180x180px]]
+| style="border:5px solid #ffffff; background: #000000;" | The current icon represents a gradient at the edges of the icon in which the colors are white ('''#ffffff''') to black ('''#000000''') not degreed. The background is pretty weird, at the left white ('''#ffffff''') and the right is black ('''#000000'''). In the middle is a lower case Omega ('''ω''') with the colors inverted as the background.
+| style="border:5px solid #ffffff; background: #000000;" | 25 March 2024 (D/M/Y)
+|-
+| style="border:5px solid #ffffff; background: #000000;" |<big>'''Old Version:'''</big>[[File:New dimension image.png|center|thumb|180x180px]]
+| style="border:5px solid #ffffff; background: #000000;" | The old icon is the same as the current one without the edge gradient outside.
+| style="border:5px solid #ffffff; background: #000000;" | 7 August 2023 (D/M/Y)
+|-
+| style="border:5px solid #ffffff; background: #000000;" |<big>'''2nd Old Version:'''</big>[[File:Previous dimension image.png|center|thumb|180x180px]]
+| style="border:5px solid #ffffff; background: #000000;" | The second old icon has a black ('''#000000''') background'''.''' At the middle is a white ('''#ffffff''') capital Sampi ('''Ϡ''') 
+| style="border:5px solid #ffffff; background: #000000;" | 2 February 2022 (D/M/Y)
+|-
+| style="border:5px solid #ffffff; background: #000000;" |<big>'''Original Version:'''</big>[[File:Dimension2.png|center|thumb|180x180px]]
+| style="border:5px solid #ffffff; background: #000000;" | The original icon represents the background color; Black Russian ('''#000018'''). At the middle is a lower case Omega ('''ω''').
+| style="border:5px solid #ffffff; background: #000000;" | 7 February 2021  (D/M/Y)
+|}
+==<big>''Obstacles''</big>==
+{{ObstacleTableRevamp|JumpClimbableBase=14.65|Increment=0.0157}}
+==<big>''Towers''</big>==
+
+*[[The Pyramid Brothers/Just a Difficulty Chart Pyramid|Just a Difficulty Chart Pyramid]] (Baseline [[File:Me when new dimension icon.webp|frameless|25x25px]] '''Dimension)'''
+*[[Tower of Compressed Anarchy]] (Mid [[File:Me when new dimension icon.webp|frameless|25x25px]] '''Dimension''') ''(Fictional)''
+*[[Citadel of Dizzily Hellish]] (High [[File:Me when new dimension icon.webp|frameless|25x25px]] '''Dimension''') ''(Fictional''
+
+==<big>''Trivia''</big>==
+
+*This difficulty was deleted before but after sometime it got revived by [[Page Resurrection]], exactly at ''Resurrection II''.
+*This difficulty was made in  August 2020, outside of the wiki.
+**This is probably the oldest difficulty that [[User:Astrominal|Astrominal]] made outside of the wiki.
+
+==<big>''Gallery''</big>==
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#ffffff" bordercolor="#000000" captionsize="large">
+Me when new dimension icon.webp|The current icon (by [[User:sanjay2133|sanjay2133]]).
+New dimension image.png|The old icon.
+Previous dimension image.png|The second old icon.
+Dimension2.png|The original icon.
+</gallery>
+
+<center><font size="5">« [[File:UnimaginableDifficulty.webp|40px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]] | [[File:Me when new dimension icon.webp|40px]] '''Dimension''' |  [[File:Omega akaTowerRushDifficulty.gif|40px]] [[w:c:jtohs-hardest-towers:Omega|Omega]] »</font></center>
+
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:Two color icon]]
+[[Category:Humanly Impossible]]
+[[Category:Revived]]{{DifficultiesNavbox}}

@@ -1,0 +1,61 @@
+<div style="box-sizing:border-box; border-radius:5px;border:5px solid black;overflow:hidden;background:linear-gradient(black, darkred); padding:0.5em;" div><div style="Font-family: Helvetica">
+
+__NOTOC__{{Humanly Impossible}}{{Revamp}}{{NewDifficultyInfobox|image1=Ultrabetter.jpg|next=[[File:Critical.png|frameless|30x30px]] [[Critical]]|main_difficulty=[[File:Simply Beyond.jpg|frameless|30x30px]] [[Simply Beyond]]|creator(s)=Bruhshard1|date_added=4/25/2022|caption1=This.. is an impossible difficulty.|class=[[:Category:Class 5|Peak Class 5]]|type=Sub-Difficulty|previous=[[File:Simply Beyond.jpg|frameless|30x30px]] [[Simply Beyond]]|decal_id=11166505112|official_music(s)=Jetpack Joyride (1) - Main Theme|short_name=Ultr.|alt_names=Inferior, Ultimate|rating=44.5}}
+
+== What is Ultra? ==
+[[File:Inferior difficulty.PNG|frameless|30x30px]] '''Ultra''' is a Peak class 5 sub-difficulty that follows  [[File:Simply Beyond.jpg|frameless|30x30px]] [[Simply Beyond]] as a sub-difficulty, and is the last challenge (optional). This is the end of your victory. Prepare to feel defeated as this difficulty is Humanly Impossible.
+== Icon representation ==
+Ultra's icon consists of the basic class 7 default icon, with  [[File:MonstrousNew.jpg|30px]] [[Monstrous]], [[File:UltimateNew.jpg|30px]] [[Ultimate]], [[File:Undoable.PNG|frameless|30x30px]] <span style="background:linear-gradient(90deg,red,maroon,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Undoable</span> (Deleted)  [[File:Simply Beyond.jpg|frameless|30x30px]] [[Simply Beyond]], and [[File:Nano Collection.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,red,maroon,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Nano Collection</span> (Deleted) 's icons all present here along with a carat for good measures.. Except you won't feel good coming out of this sub-difficulty, that is if you even will.
+
+== Obstacles in Ultra ==
+'''Ultra''' is the first difficulty to use a "Mars Wallhop" extended by more than 1. Start learning severe RNG, kid.
+
+=== Baseline Ultra ===
+
+* 235 Consecutive Moon Wallhops
+* 14 stud high jump with a 0.125 stud unclimbable tightrope
+
+=== Low Ultra ===
+
+* Doing 1.5 Mars Wallhops
+* Count to infinity in 100 seconds without saying Infinity.
+
+=== Mid Ultra ===
+
+* Landing on a 0.05 stud while lava is under it
+* 13 stud jump on a 0,01 stud tightrope
+* Doing 2 mars wallhops
+
+=== High Ultra ===
+
+* 20.5 stud jump (climbable)
+* 19.91 stud wrap
+* Do 2.5 Mars Wallhops.
+
+=== Peak Ultra ===
+
+* 245 consecutive Moon Wallhops.
+*19.95 stud wrap.
+
+== Towers ==
+
+* Tower of Finale (Floor 4.5)
+* Monolith of the Monolithal Finale (Floor 87.2)
+*Obelisk of The Difficulty Beatdown (Floor 74.5)
+
+== Gallery ==
+<gallery>
+File:Inferior difficulty.PNG|The icon for Ultra.
+</gallery>
+
+== Continuing from this point ==
+Good game. It's best to now try {{Class8Difficulties|Supreme|50px}} [[Supreme]], but I can see, and I know you don't have enough skill to do so. We need to go to [[File:Critical.png|30px]] [[Critical]]. Good luck there!
+
+{{DifficultiesNavbox}}
+[[Category:Class 5]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Humanly Impossible]]
+[[Category:Difficulty]]

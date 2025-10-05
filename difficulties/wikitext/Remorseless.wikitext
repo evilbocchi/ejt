@@ -1,0 +1,461 @@
+{{DISPLAYTITLE:<span id="Remorseless">'''Remorseless'''</span>}}__NOEDITSECTION____NOTOC__{{BetterQuote
+|text=A very impressive achievement, as only the players with a ludicrous amount of skill are able to conquer towers of this difficulty.
+|quoter=Badge description
+|name=[https://www.roblox.com/badges/2125419276 Beat Your First Remorseless Tower]}}
+{{DifficultyTab
+|Remorseless
+|textcolormain=FFF
+|difficulty1=Intense
+|diffcolor1=192832
+|textcolor1=FFF
+|difficulty2=Insane
+|diffcolor2=0035CC
+|textcolor2=FFF}}
+{{DifficultyInfobox
+|image1=remicon.png|Current
+|type=Regular
+|previous={{Difficulty|Intense}} [[Intense|<span id="Intense">'''Intense'''</span>]]
+|next={{Difficulty|Insane}} [[Insane|<span id="Insane">'''Insane'''</span>]]
+|original_name=Eggplant (Pre-Rings)/??? ([[Ring 1]] release).
+|previous_name=Impossible
+|title1=Remorseless
+|rbg_color=DC: 123, 0, 123
+Menus: 201, 0, 200
+|hex_color=DC: #C800C8
+Menus: #C900C8
+|cmyk_color=DC: 0%, 100%, 0%, 52%
+Menus: 0%, 100%, 0%, 21%
+|hsv_color=DC: 300°, 100%, 48%
+Menus: 300°, 100%, 78%
+|hsl_color=DC: 300°, 100%, 24%
+Menus: 300°, 100%, 39%
+|roblox_name=DC: Eggplant}}
+{{Difficulty|Rem|20px}} <span id="Remorseless">[[Remorseless]]</span> is a [[difficulty]] in '''EToH''' represented with a magenta octagon. This is the hardest non-[[Soul Crushing]] difficulty and is the last difficulty required for game progression.              
+
+Obstacles in [[towers]] of this difficulty are more difficult forms of those in [[Challenging|<span id="Challenging">'''Challenging'''</span>]] and [[Intense|<span id="Intense">'''Intense'''</span>]] towers. Few players are able to beat these towers, and they will likely require hours of practice to complete. Some examples of jumps in this difficulty are 8-10 stud wraparounds, 11-12 stud long jumps, and 2-3 stud stickouts. There is often higher punishment in <span id="Remorseless">[[Remorseless]]</span> towers compared to previous difficulties.             
+
+There are currently 42 [[tower]]s, 10 [[citadel]]s and 5 [[steeple]]s and 2 [[obelisk]]s confirmed for the game that are assigned to this difficulty. All of the above except the 2 [[obelisk]]s can be practiced [https://www.roblox.com/games/3240225109 here]. 
+
+[[Citadel of Laptop Splitting|CoLS]], [[Tower of Holy Flip|ToHF]], and [[Tower of Tenebrous Depths|ToTD]] were all previously this difficulty but were moved to [[Intense|<span id="Intense">'''Intense'''</span>]]. [[Tower of Bent Trauma|ToBT]], [[Tower of Extreme Hell|ToEH]], [[Tower of Terrain Climbing Adventures|ToTCA]], and [[Tower of You're A Star|ToYAS(M)]] were all previously this difficulty but were moved to [[Insane|<span id="Insane">'''Insane'''</span>]]. [[Tower of Strategic Mechanics|ToSM]] and [[Tower of Suffering Outside|ToSO]] were this difficulty but were moved to [[Extreme|<span id="Extreme">'''Extreme'''</span>]], and [[Tower of Falling and Failing|ToFaF]] was this difficulty before being moved to [[Challenging|<span id="Challenging">'''Challenging'''</span>]].
+
+The color of this difficulty was originally purple, but when the difficulty chart colors changed to neon, it changed to pink. It was soon darkened to look like purple again.
+
+<span id="Remorseless">[[Remorseless]]</span> starts out as a relatively uncommon difficulty, with only a single tower being in [[Ring 1]], 2 present in [[Ring 2]], and none being in [[Ring 3]]. However, the difficulty becomes increasingly more common the further you go in World 1, as the average difficulty of towers increases. [[Ring 7]], for instance, has 4 <span id="Remorseless">[[Remorseless]]</span> towers (including a citadel).
+{{Header|Towers in this Difficulty (Organized by Realm)}}
+<tabber>
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+*ToTS - [[Tower of True Skill]] - Bottom Remorseless (7.09)
+|-|
+Forgotten Ridge=
+<div align=center><font size=5>{{Emblem|FR}} [[Forgotten Ridge]] {{Emblem|FR}}</font></div>
+*SoTP - [[Steeple of Towering Pillars]] - Mid-High Remorseless (7.65)
+|-|
+Time-Lost Sands=
+<div align=center><font size=5>{{Emblem|TLS}} [[Time-Lost Sands]] {{Emblem|TLS}}</font></div>
+*WIAT - [[Wow! It's A Tower!]] - High Remorseless (7.72)
+|-|
+Ring 2=
+<div align=center><font size=5>{{Emblem|R2}} [[Ring 2]] {{Emblem|R2}}</font></div>
+*ToES - [[Tower of Eternal Suffering]] - Mid Remorseless (7.50)
+*CoWS - [[Citadel of Wacky Strategy]] - Peak Remorseless (7.96)
+|-|
+Ring 4=
+<div align=center><font size=5>{{Emblem|R4}} [[Ring 4]] {{Emblem|R4}}</font></div>
+*ToNP - [[Tower of Nonsensical Platforms]] - Bottom Remorseless (7.08)
+*ToCN - [[Tower of Corrupted Nightmares]] - Peak Remorseless (7.95)
+|-|
+Silent Abyss=
+<div align=center><font size=5>{{Emblem|SA}} [[Silent Abyss]] {{Emblem|SA}}</font></div>
+*SoMA - [[Steeple of Midnight Acropolis]] - Low-Mid Remorseless (7.34)
+*SoMB - [[Steeple of Malignant Blight]] - Mid Remorseless (7.45)
+|-|
+Ring 5=
+<div align=center><font size=5>{{Emblem|R5}} [[Ring 5]] {{Emblem|R5}}</font></div>
+*ToGaH - [[Tower of Glitching and Healing]] - Bottom Remorseless (7.05)
+*ToFO - [[Tower of Fractured Obstacles]] - Low Remorseless (7.31)
+*CoCR - [[Citadel of Contrasting Regions]] - Mid-High Remorseless (7.57)
+|-|
+Lost River=
+<div align=center><font size=5>{{Emblem|LR}} [[Lost River]] {{Emblem|LR}}</font></div>
+*ToTEM - [[Tower of Tallying Every Mistake]] - Baseline Remorseless (7.00)
+*ToTJ - [[Tower of Triple Jeopardy]] - Bottom Remorseless (7.01)
+|-|
+Ring 6=
+<div align=center><font size=5>{{Emblem|R6}} [[Ring 6]] {{Emblem|R6}}</font></div>
+*ToN - [[Tower of Niflheim]] - Bottom-Low Remorseless (7.10)
+*CoSR - [[Citadel of Scythe Recognition]] - Low-Mid Remorseless (7.34)
+|-|
+Ashen Towerworks=
+<div align=center><font size=5>{{Emblem|AT}} [[Ashen Towerworks]] {{Emblem|AT}}</font></div>
+*ToFSF - [[Tower of Forever-Sleeping Flower]] - Bottom Remorseless (7.02)
+*ToCB - [[Tower of Climactic Beats]] - Bottom Remorseless (7.06)
+*ToRH - [[Tower of Rhythm Heaven]] - High Remorseless (7.74)
+*ToMD - [[Tower of Mechanical Disarray]] - High-Peak Remorseless (7.79)
+|-|
+Ring 7=
+<div align=center><font size=5>{{Emblem|R7}} [[Ring 7]] {{Emblem|R7}}</font></div>
+*ToNED - [[Tower of Never Ending Dizziness]] - Bottom-Low Remorseless (7.18)
+*ToU - [[Tower of Ultraviolet]] - Mid Remorseless (7.55)
+*CoTE - [[Citadel of True Exasperation]] - Mid-High Remorseless (7.66)
+*ToYV - [[Tower of Yearning Victory]] - High Remorseless (7.67)
+|-|
+Ring 8=
+<div align=center><font size=5>{{Emblem|R8}} [[Ring 8]] {{Emblem|R8}}</font></div>
+*ToVE - [[Tower of Verdant Entropy]] - Mid-High Remorseless (7.56)
+*ToMT - [[Tower of Mean Tasks]] - High Remorseless (7.69)
+|-|
+The Starlit Archives=
+<div align=center><font size=5>{{Emblem|TSA}} [[The Starlit Archives]] {{Emblem|TSA}}</font></div>
+*ToFFEE - [[Tower of Fleeing From Everything Ending]] - Low Remorseless (7.32)
+*ToHWH - [[Tower of House Without Home]] - Low-Mid Remorseless (7.35)
+*SoFB - [[Steeple of Forlorn Blizzard]] - Mid-High Remorseless (7.64)
+*SoCV - [[Steeple of Cheesy Vengeance]] - High Remorseless (7.69)
+|-|
+Ring 9=
+<div align=center><font size=5>{{Emblem|R9}} [[Ring 9]] {{Emblem|R9}}</font></div>
+*ToBBB - [[Tower of Beat Block Berserk]] - Bottom Remorseless (7.03)
+*ToQT - [[Tower of Questionable Trials]] - Low Remorseless (7.23)
+*CoL - [[Citadel of Lethargy]] - High Remorseless (7.68)
+*ToPP - [[Tower of Pastel Pillars]] - High-Peak Remorseless (7.87)
+|-|
+The Final Stretch=
+<div align=center><font size=5>{{Emblem|TFS}} [[The Final Stretch]] {{Emblem|TFS}}</font></div>
+*OoH - [[Obelisk of Hell]] - High Remorseless (7.75)<ref group="lower-alpha" name="targeted">Targeted difficulty.</ref>
+|-|
+Zone 1=
+<div align=center><font size=5>{{Emblem|Z1}} [[Zone 1]] {{Emblem|Z1}}</font></div>
+*ToED - [[Tower of Extreme Dystopia]] - Bottom-Low Remorseless (7.12)
+*ToRNI - [[Tower of Really Nasty Ideas]] - Bottom-Low Remorseless (7.19)
+*ToUT - [[Tower of Ultimately Terrifying]] (with Risky Buttons) - Low Remorseless
+*ToUT: SE - [[Tower of Ultimately Terrifying|Tower of Ultimately Terrifying: Secret Ending]] (without Risky Buttons) - Mid Remorseless
+*CoP - [[Citadel of Peril]] - Peak Remorseless (7.95)
+*ToZ - [[Tower of Zespluz]] - Peak Remorseless (7.97)
+|-|
+Steelspire Horizon=
+<div align=center><font size=5>{{Emblem|SH}} [[Steelspire Horizon]] {{Emblem|SH}}</font></div>
+*ToGK - [[Tower of Geometric Kinetics]] - Low Remorseless (7.33)
+|-|
+Zone 2=
+<div align=center><font size=5>{{Emblem|Z2}} [[Zone 2]] {{Emblem|Z2}}</font></div>
+*ToGD - [[Tower of Great Displeasure]] - Bottom-Low Remorseless (7.17)
+*ToCM - [[Tower of Chaotic Moments]] - Low Remorseless (7.25)
+|-|
+Arcane Area=
+<div align=center><font size=5>{{Emblem|AA}} [[Arcane Area]] {{Emblem|AA}}</font></div>
+*ToIA - [[Tower of Icy Adventures]] - Bottom Remorseless (7.03)
+|-|
+Zone 4=
+<div align=center><font size=5>{{Emblem|Z4}} [[Zone 4]] {{Emblem|Z4}}</font></div>
+*ToDDD - [[Tower of Dance Dance Destruction]] - Bottom-Low Remorseless (7.13)
+*ToFG - [[Tower of Funky Grooves]] - Low Remorseless (7.29)
+*CoQ - [[Citadel of Quadrilaterals]] - High- Peak Remorseless (7.85)
+*ToTV - [[Tower of Tornado Vehemence]] - Peak Remorseless (7.98)
+|-|
+Zone 5=
+<div align=center><font size=5>{{Emblem|Z5}} [[Zone 5]] {{Emblem|Z5}}</font></div>
+*ToBaBT - [[Tower of Brutal and Bizarre Torment]] - Mid-High Remorseless (7.61)
+*ToZA - [[Tower of Zany Architecture]] - Peak Remorseless (7.94)
+|-|
+Zone 6=
+<div align=center><font size=5>{{Emblem|Z6}} [[Zone 6]] {{Emblem|Z6}}</font></div>
+*ToAF - [[Tower of Astral Fusion]] - Bottom Remorseless (7.02)
+*ToMO - [[Tower of Massive Overheating]] - Low-Mid Remorseless (7.42)
+*ToBC - [[Tower of Brief Challenges]] - Mid-High Remorseless (7.56)
+|-|
+Zone 7=
+<div align=center><font size=5>{{Emblem|Z7}} [[Zone 7]] {{Emblem|Z7}}</font></div>
+*ToUI - [[Tower of Uncontrollable Ire]] - High Remorseless (7.71)
+*CoACT - [[Citadel of A Cruel Tale]] - High Remorseless (7.77)
+|-|
+Zone 8=
+<div align=center><font size=5>{{Emblem|Z8}} [[Zone 8]] {{Emblem|Z8}}</font></div>
+*ToOV - [[Tower of Overbearing Vertigo]] - Bottom Remorseless (7.04)
+*CoPE - [[Citadel of Pyramid Escapades]] - Bottom Remorseless (7.07)
+*ToTaSM - [[Tower of Time and Space Manipulation]] - Low Remorseless (7.38)
+*ToNR - [[Tower of No Return]] - High Remorseless (7.73)
+|-|
+Zone 9=
+<div align=center><font size=5>{{Emblem|Z9}} [[Zone 9]] {{Emblem|Z9}}</font></div>
+*ToEC - [[Tower of Eye Candy]] - Bottom Remorseless (7.01)
+*ToBBBB - [[Tower of Big Blocky Beefy Buttons]] - High Remorseless (7.70)
+*ToMF - [[Tower of Minus Facility]] - High Remorseless (7.75)
+*CoIC - [[Citadel of Increasing Claustrophobia]] - High-Peak Remorseless (7.83)
+*ToVITE - [[Tower of Voyaging Into The Earth]] - Peak Remorseless (7.92)
+|-|
+Zone 10=
+<div align=center><font size=5>{{Emblem|Z10}} [[Zone 10]] {{Emblem|Z10F}}</font></div>
+*ToOTTF - [[Tower of One Two Three Four]] - Bottom-Low Remorseless (7.12)
+*ToTDF - [[Tower of The Despondent Fortress]] - Low Remorseless (7.24)
+*ToPI - [[Tower of Prismatic Instability]] - High Remorseless (7.67)
+*ToPL - [[Tower of Power Laws]] - High-Peak Remorseless (7.86)
+*CoOTWI - [[Citadel of Overcoming The World's Imperfections]] - Peak Remorseless (7.99)
+|-|
+The Void's Farewell=
+<div align=center><font size=5>{{Emblem|TVF}} [[The Void's Farewell]] {{Emblem|TVF}}</font></div>
+*OoV - [[Obelisk of Void]] - High-Peak Remorseless (7.85)<ref group="lower-alpha" name="targeted" />
+|-|
+Event=
+{{#tag:tabber
+|Halloween Event 2020=
+<div align=center><font size=5>{{Emblem|H2020}} [[Halloween Event 2020]] {{Emblem|H2020}}</font></div>
+*CoHP - [[Citadel of Horrifying Phobias]] - Low-Mid Remorseless (7.42)
+{{!}}-{{!}}
+April Fools 2021=
+<div align=center><font size=5>{{Emblem|AF2021}} [[April Fools 2021]] {{Emblem|AF2021}}</font></div>
+*ToHG - [[Tower of Hella Gimmicks]] - Peak Remorseless (7.91)
+{{!}}-{{!}}
+April Fools 2022=
+<div align=center><font size=5>{{Emblem|AF2022}} [[April Fools 2022]] {{Emblem|AF2022}}</font></div>
+*ToCCE - [[Tower of Coca Cola Espuma]] - Bottom-Low Remorseless (7.16)
+{{!}}-{{!}}
+Halloween Event 2022=
+<div align=center><font size=5>{{Emblem|H2022}} [[Halloween Event 2022]] {{Emblem|H2022}}</font></div>
+*SoTT - [[Steeple of Treacherous Toxins]] - Bottom Remorseless (7.08)
+{{!}}-{{!}}
+April Fools 2023=
+<div align=center><font size=5>{{Emblem|AF2023}} [[April Fools 2023]] {{Emblem|AF2023}}</font></div>
+*ToDPW - [[Tower of Drinking Purist Water]] - High Remorseless (7.69)
+{{!}}-{{!}}
+Halloween Event 2023=
+<div align=center><font size=5>{{Emblem|H2023}} [[Halloween Event 2023]] {{Emblem|H2023}}</font></div>
+*CoTaT - [[Citadel of Treats and Tricks]] - Bottom Remorseless (7.09)
+{{!}}-{{!}}
+April Fools 2024=
+<div align=center><font size=5>{{Emblem|AF2024}} [[April Fools 2024]] {{Emblem|AF2024}}</font></div>
+*ToSRW - [[Tower of Sparkling Rainbow Water]] - Low Remorseless (7.29)
+{{!}}-{{!}}
+Legacy Event 2024=
+<div align=center><font size=5>{{Emblem|LE2024}} [[Legacy Event 2024]] {{Emblem|LE2024}}</font></div>
+*ToMD(L) - [[Tower of Mass Destruction]] - Bottom Remorseless (7.11)
+*ToST(L) - [[Tower of Spicy Torment]] - Mid-High Remorseless (7.59)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*ToBIGFAIL - [[Tower of BIG IGB GIB FAIL AILF ILFA LFAI]] - Low Remorseless (7.28)
+*TAN - [[Totally A Neat]] - Mid Remorseless (7.45)
+*ToCRS - [[Tower of Class Resident Storage]] - Peak Remorseless (7.96)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|September 2021=
+<div align=center><font size=5>September 2021</font></div>
+*ToAP(M) - [[Tower of Annoying Paths]] - Bottom Remorseless (7.08)
+{{!}}-{{!}}
+May 2022=
+<div align=center><font size=5>May 2022</font></div>
+*ToFHF(M) - [[Tower of Fun House Frenzy]] - Low Remorseless (7.29)
+{{!}}-{{!}}
+August 2022=
+<div align=center><font size=5>August 2022</font></div>
+*ToISCR(M) - [[Tower of Is Steeple Crossing Required?]] - Mid-High Remorseless (7.64)
+{{!}}-{{!}}
+December 2022=
+<div align=center><font size=5>December 2022</font></div>
+*ToFCD(M) - [[Tower of Freezing Cold Dreams]] - Mid Remorseless (7.55)
+{{!}}-{{!}}
+February 2023=
+<div align=center><font size=5>February 2023</font></div>
+*ToSET(M) - [[Tower of Slowly Escalating Tension]] - Low Remorseless (7.31)
+{{!}}-{{!}}
+May 2023=
+<div align=center><font size=5>May 2023</font></div>
+*ToTME(M) - [[Tower of The Mind Electric]] - High-Peak Remorseless (7.83)
+{{!}}-{{!}}
+July 2023=
+<div align=center><font size=5>July 2023</font></div>
+*ToDI(M) - [[Tower of Demonic Inspiration]] - High-Peak Remorseless (7.84)
+{{!}}-{{!}}
+September 2023=
+<div align=center><font size=5>September 2023</font></div>
+*CoSW(M) - [[Citadel of Squiggly Wiggly]] - Bottom Remorseless (7.03)
+{{!}}-{{!}}
+October 2023=
+<div align=center><font size=5>October 2023</font></div>
+*ToGD(M) - [[Tower of Gloomy Depths]] - Bottom Remorseless (7.10)
+{{!}}-{{!}}
+December 2023=
+<div align=center><font size=5>December 2023</font></div>
+*ToKR(M) - [[Tower of Kyodaina Reizouko]] - High Remorseless (7.77)
+{{!}}-{{!}}
+January 2024=
+<div align=center><font size=5>January 2024</font></div>
+*ToLE(M) - [[Tower of Lavish Embellishment]] - High-Peak Remorseless (7.79)
+{{!}}-{{!}}
+April 2024=
+<div align=center><font size=5>April 2024</font></div>
+*ToNE(M) - [[Tower of Nefarious Endeavors]] - High Remorseless (7.68)
+{{!}}-{{!}}
+May 2024=
+<div align=center><font size=5>May 2024</font></div>
+*ToICC(M) - [[Tower of Insanely Chaotic Creations]] - Mid Remorseless (7.45)
+{{!}}-{{!}}
+October 2024=
+<div align=center><font size=5>October 2024</font></div>
+*ToOW(M) - [[Tower of Orange World]] - Mid-High Remorseless (7.56)
+{{!}}-{{!}}
+November 2024=
+<div align=center><font size=5>November 2024</font></div>
+*ToCL(M) - [[Tower of Celestial Luminescence]] - Bottom-Low Remorseless (7.18)
+{{!}}-{{!}}
+December 2024=
+<div align=center><font size=5>December 2024</font></div>
+*ToLM(M) - [[Tower of Luminescent Midnight]] - High-Peak Remorseless (7.88)
+{{!}}-{{!}}
+February 2025=
+<div align=center><font size=5>February 2025</font></div>
+*ToQ(M) - [[Tower of Quantification]] - Mid-High Remorseless (7.64)
+{{!}}-{{!}}
+March 2025=
+<div align=center><font size=5>March 2025</font></div>
+*ToTFA(M) - [[Tower of The Foreboding Abyss]] - Mid Remorseless (7.51)
+{{!}}-{{!}}
+June 2025=
+<div align=center><font size=5>June 2025</font></div>
+*ToBRUH(M) - [[Tower of Bone Ripping Utter Hell]] - Mid Remorseless (7.53)
+{{!}}-{{!}}
+September 2025=
+<div align=center><font size=5>September 2025</font></div>
+*ToLBC(M) - [[Tower of Losing Brain Cells]] - High-Peak Remorseless (7.83)
+{{!}}-{{!}}
+October 2025=
+<div align=center><font size=5>October 2025</font></div>
+*SoB(M) - [[Steeple of Banishment]] - Bottom-Low Remorseless (7.20)
+}}
+|-|
+Tower Rushes=
+<div align=center><font size=5>{{Difficulty|TowerRush}} [[Tower Rush]]es {{Difficulty|TowerRush}}</font></div>
+*R1TR - [[Ring 1 Tower Rush]] - High-Peak Remorseless (7.83)
+*LRTR - [[Lost River Tower Rush]] - High-Peak Remorseless (7.85)
+*PATR - [[Paradise Atoll Tower Rush]] - Bottom Remorseless (7.09)
+*AATR - [[Arcane Area Tower Rush]] - Low-Mid Remorseless (7.41)
+*Z3TR - [[Zone 3 Tower Rush]] - Bottom-Low Remorseless (7.16)
+*LFTR - [[Legacy Fortress Tower Rush]] - Peak Remorseless (7.95)
+</tabber>
+{{Header|Towers in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+* {{emblem|LR|20px}} ToTEM - [[Tower of Tallying Every Mistake]] - Baseline Remorseless (7.00) {{emblem|LR|20px}}
+* {{emblem|LR|20px}} ToTJ - [[Tower of Triple Jeopardy]] - Bottom Remorseless (7.01) {{emblem|LR|20px}}
+* {{emblem|Z9|20px}} ToEC - [[Tower of Eye Candy]] - Bottom Remorseless (7.01) {{emblem|Z9|20px}}
+* {{emblem|AT|20px}} ToFSF - [[Tower of Forever-Sleeping Flower]] - Bottom Remorseless (7.02) {{emblem|AT|20px}}
+* {{emblem|Z6|20px}} ToAF - [[Tower of Astral Fusion]] - Bottom Remorseless (7.02) {{emblem|Z6|20px}}
+* {{emblem|R9|20px}} ToBBB - [[Tower of Beat Block Berserk]] - Bottom Remorseless (7.03) {{emblem|R9|20px}}
+* {{emblem|AA|20px}} ToIA - [[Tower of Icy Adventures]] - Bottom Remorseless (7.03) {{emblem|AA|20px}}
+* {{emblem|Z8|20px}} ToOV - [[Tower of Overbearing Vertigo]] - Bottom Remorseless (7.04) {{emblem|Z8|20px}}
+* {{emblem|R5|20px}} ToGaH - [[Tower of Glitching and Healing]] - Bottom Remorseless (7.05) {{emblem|R5|20px}}
+* {{emblem|AT|20px}} ToCB - [[Tower of Climactic Beats]] - Bottom Remorseless (7.06) {{emblem|AT|20px}}
+* {{emblem|Z8|20px}} CoPE - [[Citadel of Pyramid Escapades]] - Bottom Remorseless (7.07) {{emblem|Z8|20px}}
+* {{emblem|R4|20px}} ToNP - [[Tower of Nonsensical Platforms]] - Bottom Remorseless (7.08) {{emblem|R4|20px}}
+* {{emblem|R1|20px}} ToTS - [[Tower of True Skill]] - Bottom Remorseless (7.09) {{emblem|R1|20px}}
+* {{emblem|R6|20px}} ToN - [[Tower of Niflheim]] - Bottom Remorseless (7.10) {{emblem|R6|20px}}
+* {{emblem|Z1|20px}} ToED - [[Tower of Extreme Dystopia]] - Bottom-Low Remorseless (7.12) {{emblem|Z1|20px}}
+* {{emblem|Z10|20px}} ToOTTF - [[Tower of One Two Three Four]] - Bottom-Low Remorseless (7.12) {{emblem|Z10F|20px}}
+* {{emblem|Z4|20px}} ToDDD - [[Tower of Dance Dance Destruction]] - Bottom-Low Remorseless (7.13) {{emblem|Z4|20px}}
+* {{emblem|Z2|20px}} ToGD - [[Tower of Great Displeasure]] - Bottom-Low Remorseless (7.17) {{emblem|Z2|20px}}
+* {{emblem|R7|20px}} ToNED - [[Tower of Never Ending Dizziness]] - Bottom-Low Remorseless (7.18) {{emblem|R7|20px}}
+* {{emblem|Z1|20px}} ToRNI - [[Tower of Really Nasty Ideas]] - Bottom-Low Remorseless (7.19) {{emblem|Z1|20px}}
+* {{emblem|R9|20px}} ToQT - [[Tower of Questionable Trials]] - Low Remorseless (7.23) {{emblem|R9|20px}}
+* {{emblem|Z10|20px}} ToTDF - [[Tower of The Despondent Fortress]] - Low Remorseless (7.24) {{emblem|Z10|20px}}
+* {{emblem|Z2|20px}} ToCM - [[Tower of Chaotic Moments]] - Low Remorseless (7.25) {{emblem|Z2|20px}}
+* {{emblem|Z4|20px}} ToFG - [[Tower of Funky Grooves]] - Low Remorseless (7.29) {{emblem|Z4|20px}}
+* {{emblem|R5|20px}} ToFO - [[Tower of Fractured Obstacles]] - Low Remorseless (7.31) {{emblem|R5|20px}}
+* {{emblem|TSA|20px}} ToFFEE - [[Tower of Fleeing From Everything Ending]] - Low Remorseless (7.32) {{emblem|TSA|20px}}
+* {{emblem|SH|20px}} ''ToGK - [[Tower of Geometric Kinetics]] - Low Remorseless (7.33)'' {{emblem|SH|20px}}
+* {{emblem|SA|20px}} SoMA - [[Steeple of Midnight Acropolis]] - Low-Mid Remorseless (7.34) {{emblem|SA|20px}}
+* {{emblem|R6|20px}} CoSR - [[Citadel of Scythe Recognition]] - Low-Mid Remorseless (7.34) {{emblem|R6|20px}}
+* {{emblem|TSA|20px}} ToHWH - [[Tower of House Without Home]] - Low-Mid Remorseless (7.35) {{emblem|TSA|20px}}
+* {{emblem|Z8|20px}} ToTaSM - [[Tower of Time and Space Manipulation]] - Low-Mid Remorseless (7.38) {{emblem|Z8|20px}}
+* {{emblem|Z6|20px}} ToMO - [[Tower of Massive Overheating]] - Low-Mid Remorseless (7.42) {{emblem|Z6|20px}}
+* {{emblem|SA|20px}} SoMB - [[Steeple of Malignant Blight]] - Mid Remorseless (7.45) {{emblem|SA|20px}}
+* {{emblem|R2|20px}} ToES - [[Tower of Eternal Suffering]] - Mid Remorseless (7.50) {{emblem|R2|20px}}
+* {{emblem|R7|20px}} ToU - [[Tower of Ultraviolet]] - Mid Remorseless (7.55) {{emblem|R7|20px}}
+* {{emblem|R8|20px}} ToVE - [[Tower of Verdant Entropy]] - Mid-High Remorseless (7.56) {{emblem|R8|20px}}
+* {{emblem|Z6|20px}} ToBC - [[Tower of Brief Challenges]] - Mid-High Remorseless (7.56) {{emblem|Z6|20px}}
+* {{emblem|R5|20px}} CoCR - [[Citadel of Contrasting Regions]] - Mid-High Remorseless (7.57) {{emblem|R5|20px}}
+* {{emblem|Z5|20px}} ToBaBT - [[Tower of Brutal and Bizarre Torment]] - Mid-High Remorseless (7.61) {{emblem|Z5|20px}}
+* {{emblem|TSA|20px}} SoFB - [[Steeple of Forlorn Blizzard]] - Mid-High Remorseless (7.64) {{emblem|TSA|20px}}
+* {{emblem|FR|20px}} SoTP - [[Steeple of Towering Pillars]] - Mid-High Remorseless (7.65) {{emblem|FR|20px}}
+* {{emblem|R7|20px}} CoTE - [[Citadel of True Exasperation]] - Mid-High Remorseless (7.66) {{emblem|R7|20px}}
+* {{emblem|R7|20px}} ToYV - [[Tower of Yearning Victory]] - High Remorseless (7.67) {{emblem|R7|20px}}
+* {{emblem|Z10|20px}} ToPI - [[Tower of Prismatic Instability]] - High Remorseless (7.67) {{emblem|Z10F|20px}}
+* {{emblem|R9|20px}} CoL - [[Citadel of Lethargy]] - High Remorseless (7.68) {{emblem|R9|20px}}
+* {{emblem|R8|20px}} ToMT - [[Tower of Mean Tasks]] - High Remorseless (7.69) {{emblem|R8|20px}}
+* {{emblem|TSA|20px}} SoCV - [[Steeple of Cheesy Vengeance]] - High Remorseless (7.69) {{emblem|TSA|20px}}
+* {{emblem|Z9|20px}} ToBBBB - [[Tower of Big Blocky Beefy Buttons]] - High Remorseless (7.70) {{emblem|Z9|20px}}
+* {{emblem|Z7|20px}} ToUI - [[Tower of Uncontrollable Ire]] - High Remorseless (7.71) {{emblem|Z7|20px}}
+* {{emblem|TLS|20px}} WIAT - [[Wow! It's A Tower!]] - High Remorseless (7.72) {{emblem|TLS|20px}}
+* {{emblem|Z8|20px}} ToNR - [[Tower of No Return]] - High Remorseless (7.73) {{emblem|Z8|20px}}
+* {{emblem|AT|20px}} ToRH - [[Tower of Rhythm Heaven]] - High Remorseless (7.74) {{emblem|AT|20px}}
+* {{emblem|Z9|20px}} ToMF - [[Tower of Minus Facility]] - High Remorseless (7.75) {{emblem|Z9|20px}}
+* {{emblem|TFS|20px}} ''OoH - [[Obelisk of Hell]] - High Remorseless (7.75)'' {{emblem|TFS|20px}}<ref group="lower-alpha" name="targeted" />
+* {{emblem|Z7|20px}} CoACT - [[Citadel of A Cruel Tale]] - High Remorseless (7.77) {{emblem|Z7|20px}}
+* {{emblem|AT|20px}} ToMD - [[Tower of Mechanical Disarray]] - High-Peak Remorseless (7.79) {{emblem|AT|20px}}
+* {{emblem|Z9|20px}} CoIC - [[Citadel of Increasing Claustrophobia]] - High-Peak Remorseless (7.83) {{emblem|Z9|20px}}
+* {{emblem|Z4|20px}} CoQ - [[Citadel of Quadrilaterals]] - High-Peak Remorseless (7.85) {{emblem|Z4|20px}}
+* {{emblem|TVF|20px}} ''OoV - [[Obelisk of Void]] - High-Peak Remorseless (7.85)'' {{emblem|TVF|20px}}<ref group="lower-alpha" name="targeted" />
+* {{emblem|Z10|20px}} ToPL - [[Tower of Power Laws]] - High-Peak Remorseless (7.86) {{emblem|Z10F|20px}}
+* {{emblem|R9|20px}} ToPP - [[Tower of Pastel Pillars]] - High-Peak Remorseless (7.87) {{emblem|R9|20px}}
+* {{emblem|Z9|20px}} ToVITE - [[Tower of Voyaging Into The Earth]] - Peak Remorseless (7.92) {{emblem|Z9|20px}}
+* {{emblem|Z5|20px}} ToZA - [[Tower of Zany Architecture]] - Peak Remorseless (7.94) {{emblem|Z5|20px}}
+* {{emblem|R4|20px}} ToCN - [[Tower of Corrupted Nightmares]] - Peak Remorseless (7.95) {{emblem|R4|20px}}
+* {{emblem|Z1|20px}} CoP - [[Citadel of Peril]] - Peak Remorseless (7.95) {{emblem|Z1|20px}}
+* {{emblem|R2|20px}} CoWS - [[Citadel of Wacky Strategy]] - Peak Remorseless (7.96) {{emblem|R2|20px}}
+* {{emblem|Z1|20px}} ToZ - [[Tower of Zespluz]] - Peak Remorseless (7.97) {{emblem|Z1|20px}}
+* {{emblem|Z4|20px}} ToTV - [[Tower of Tornado Vehemence]] - Peak Remorseless (7.98) {{emblem|Z4|20px}}
+* {{emblem|Z10|20px}} CoOTWI - [[Citadel of Overcoming The World's Imperfections]] - Peak Remorseless (7.99) {{emblem|Z10F|20px}}
+|-|
+Monthly Towers=
+* {{emblem|TLS|20px}} CoSW(M) - [[Citadel of Squiggly Wiggly]] - Bottom Remorseless (7.03) {{emblem|Z7|20px}}
+* {{emblem|TLP|20px}} ToAP(M) - [[Tower of Annoying Paths]] - Bottom Remorseless (7.08) {{emblem|R8|20px}}
+* {{emblem|TLS|20px}} ToGD(M) - [[Tower of Gloomy Depths]] - Bottom Remorseless (7.10) {{emblem|SA|20px}}
+* {{emblem|TLT|20px}} ToCL(M) - [[Tower of Celestial Luminescence]] - Bottom-Low Remorseless (7.18) {{emblem|SA|20px}}
+* {{emblem|TL?|20px}} SoB(M) - [[Steeple of Banishment]] - Bottom-Low Remorseless (7.20) {{emblem|SA|20px}}
+* {{emblem|TLC|20px}} ToFHF(M) - [[Tower of Fun House Frenzy]] - Low Remorseless (7.29) {{emblem|R9|20px}}
+* {{emblem|TLC|20px}} ToSET(M) - [[Tower of Slowly Escalating Tension]] - Low Remorseless (7.31) {{emblem|R6|20px}}
+* {{emblem|TLT|20px}} ToICC(M) - [[Tower of Insanely Chaotic Creations]] - Mid Remorseless (7.45) {{emblem|Z3|20px}}
+* {{emblem|TLT|20px}} ToTFA(M) - [[Tower of The Foreboding Abyss]] - Mid Remorseless (7.51) {{emblem|Z6|20px}}
+* {{emblem|TL?|20px}} ToBRUH(M) - [[Tower of Bone Ripping Utter Hell]] - Mid Remorseless (7.53) {{emblem|R9|20px}}
+* {{emblem|TLC|20px}} ToFCD(M) - [[Tower of Freezing Cold Dreams]] - Mid Remorseless (7.55) {{emblem|R5|20px}}
+* {{emblem|TLT|20px}} ToOW(M) - [[Tower of Orange World]] - Mid-High Remorseless (7.56) {{emblem|Z8|20px}}
+* {{emblem|TLC|20px}} ToISCR(M) - [[Tower of Is Steeple Crossing Required?]] - Mid-High Remorseless (7.64) {{emblem|R4|20px}}
+* {{emblem|TLT|20px}} ToQ(M) - [[Tower of Quantification]] - Mid-High Remorseless (7.64) {{emblem|R8|20px}}
+* {{emblem|TLS|20px}} ToNE(M) - [[Tower of Nefarious Endeavors]] - High Remorseless (7.68) {{emblem|Z5|20px}}
+* {{emblem|TLS|20px}} ToKR(M) - [[Tower of Kyodaina Reizouko]] - High Remorseless (7.77) {{emblem|R8|20px}}
+* {{emblem|TLS|20px}} ToLE(M) - [[Tower of Lavish Embellishment]] - High-Peak Remorseless (7.79) {{emblem|Z5|20px}}
+* {{emblem|TLS|20px}} ToTME(M) - [[Tower of The Mind Electric]] - High-Peak Remorseless (7.83) {{emblem|Z4|20px}}
+* {{emblem|TL?|20px}} ToLBC(M) - [[Tower of Losing Brain Cells]] - High-Peak Remorseless (7.83) {{emblem|TSA|20px}}
+* {{emblem|TLS|20px}} ToDI(M) - [[Tower of Demonic Inspiration]] - High-Peak Remorseless (7.84) {{emblem|R9|20px}}
+* {{emblem|TLT|20px}} ToLM(M) - [[Tower of Luminescent Midnight]] - High-Peak Remorseless (7.88) {{emblem|Z8|20px}}
+|-|
+Event Towers=
+* {{emblem|H2022|20px}} SoTT - [[Steeple of Treacherous Toxins]] - Bottom Remorseless (7.08) {{emblem|H2022|20px}}
+* {{emblem|H2023|20px}} CoTaT - [[Citadel of Treats and Tricks]] - Bottom Remorseless (7.09) {{emblem|H2023|20px}}
+* {{emblem|LE2024|20px}} ToMD(L) - [[Tower of Mass Destruction]] - Bottom Remorseless (7.11) {{emblem|LE2024|20px}}
+* {{emblem|AF2022|20px}} ToCCE - [[Tower of Coca Cola Espuma]] - Bottom-Low Remorseless (7.16) {{emblem|AF2022|20px}}
+* {{emblem|AF2025|20px}} ToBIGFAIL - [[Tower of BIG IGB GIB FAIL AILF ILFA LFAI]] - Low Remorseless (7.28) {{emblem|AF2025|20px}}
+* {{emblem|AF2024|20px}} ToSRW - [[Tower of Sparkling Rainbow Water]] - Low Remorseless (7.29) {{emblem|AF2024|20px}}
+* {{emblem|HE2020|20px}} CoHP - [[Citadel of Horrifying Phobias]] - Low-Mid Remorseless (7.42) {{emblem|HE2020|20px}}
+* {{emblem|AF2025|20px}} TAN - [[Totally A Neat]] - Mid Remorseless (7.45) {{emblem|AF2025|20px}}
+* {{emblem|LE2024|20px}} ToST(L) - [[Tower of Spicy Torment]] - Mid-High Remorseless (7.59) {{emblem|LR2|20px}}
+* {{emblem|AF2023|20px}} ToDPW - [[Tower of Drinking Purist Water]] - High Remorseless (7.69) {{emblem|AF2023|20px}}
+* {{emblem|AF2021|20px}} ToHG - [[Tower of Hella Gimmicks]] - Peak Remorseless (7.91) {{emblem|AF2021|20px}}
+* {{emblem|AF2025|20px}} ToCRS - [[Tower of Class Resident Storage]] - Peak Remorseless (7.96) {{emblem|AF2025|20px}}
+|-|
+Tower Rushes=
+* {{emblem|PA|20px}} PATR - [[Paradise Atoll Tower Rush]] - Bottom Remorseless (7.09) {{emblem|PA|20px}}
+* {{emblem|Z3|20px}} Z3TR - [[Zone 3 Tower Rush]] - Bottom-Low Remorseless (7.16) {{emblem|Z3|20px}}
+* {{emblem|AA|20px}} AATR - [[Arcane Area Tower Rush]] - Low-Mid Remorseless (7.41) {{emblem|AA|20px}}
+* {{emblem|R1|20px}} R1TR - [[Ring 1 Tower Rush]] - High-Peak Remorseless (7.83) {{emblem|R1|20px}}
+* {{emblem|LR|20px}} LRTR - [[Lost River Tower Rush]] - High-Peak Remorseless (7.85) {{emblem|LR|20px}}
+* {{emblem|LF|20px}} LFTR - [[Legacy Fortress Tower Rush]] - Peak Remorseless (7.95) {{emblem|LF|20px}}
+</tabber>
+{{Header|Gallery}}
+<gallery wdiths="185" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Beatfirstrem.png|The [[badge]] obtained from beating a <span id="Remorseless">[[Remorseless]]</span> tower for the first time.
+</gallery>
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Remorseless]]

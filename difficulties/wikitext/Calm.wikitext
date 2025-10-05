@@ -1,0 +1,105 @@
+{{DISPLAYTITLE:<span style="color:greenyellow">'''Calm'''</span>}}
+{{Humanly Possible}}
+{{NewDifficultyInfobox
+|title1='''Calm'''
+|image1=Calmness.png
+|type=[[:Category:Difficulties|Normal Difficulty]]
+|rating=1.5 (1.50-1.99)<ref>1.50-1.74 counting [[Switch]].</ref>
+|previous={{Class1Difficulties|Easy|25px}} [[w:c:jtoh:Easy|Easy]]
+|next={{Class1Difficulties|Medium|25px}} [[w:c:jtoh:Medium|Medium]]
+|difficulty_range=Bottom to Peak
+|decal_id=Normal: N/A
+Alternate: [https://create.roblox.com/store/asset/137213834869841/Calm Here]
+|counterpart=[[File:Fearfulness.jpeg|25px|link=Fearfulness]] [[Fearfulness]]
+|sub_difficulty(ies)=[[File:SWNew.jpg|25px|link=Switch]] [[Switch]]
+|creator(s)=Viranenthusiast
+|date_added=3rd May 2022<ref>29th April 2022 if you prioritise page creation date over chart addition.</ref>
+|prior_next=[[File:VIABLE.png|30x30px]] ''Viable'' (Deleted)
+|alt_names=Calmness
+|original_class=Unclassified
+|previous_class(es)=1
+|previous_sub_difficulty(ies)=[[File:Terrific.jpg|25px|link=User blog:EpicTheGamer2014/Terrific]] [[User blog:EpicTheGamer2014/Terrific|Terrific]]
+[[File:Rewardable diff.png|25px|link=Rewardable]] [[Rewardable]]
+|prior_previous=[[File:EpicRevamped.png|25px|link=User blog:EpicTheGamer2014/Epic]] [[User blog:EpicTheGamer2014/Epic|Epic]] (1.375 to 1.49)}}
+''For the CDC variant of the difficulty, click [[User:Viranenthusiast/Calm (CDC)|here]].''
+<br>
+<br>
+<span style="color:greenyellow">'''Calm'''</span> is a transitional difficulty between the Eternal Towers of Hell difficulties {{Class1Difficulties|Easy|25px}} [[w:c:jtoh:Easy|Easy]] and {{Class1Difficulties|Medium|25px}} [[w:c:jtoh:Medium|Medium]]. As this difficulty is on the lower spectrum of the EToH chart, obstacles here tend to be passable without much effort. Any contraptions (i.e conveyors and fading platforms) are usually indicated and often much slower to deal harm than normal client objects typically would. Additionally, killbricks are used rather infrequently, and 1-1.5 stud platforms are almost never used within towers of this difficulty. 
+==Obstacles==
+Keep in mind that due to the variance of obstacle difficulty, these generally should not be used as a basis for obstacles.
+<tabber>
+Bottom=
+===Bottom <span style="color:greenyellow">'''Calm'''</span>===
+*6.5 stud jump (C)
+*6.4 stud jump (UC)
+*2 stud squeeze
+*1 stud wraparound (C)
+*0.9 stud wraparound (UC)
+|-|
+Low=
+===Low <span style="color:greenyellow">'''Calm'''</span>===
+*6.6 stud jump (C)
+*6.5 stud jump (UC)
+*1.95 stud squeeze
+*1.1 stud wraparound (C)
+*1 stud wraparound (UC) 
+|-|
+Middle=
+===Middle <span style="color:greenyellow">'''Calm'''</span>===
+*6.7 stud jump (C)
+*6.6 stud jump (UC)
+*1.9 stud squeeze
+*1.2 stud wraparound (C)
+*1.1 stud wraparound (UC)
+|-|
+High=
+===High <span style="color:greenyellow">'''Calm'''</span>===
+*6.8 stud jump (C)
+*6.7 stud jump (UC)
+*1.85 stud squeeze
+*1.3 stud wraparound (C)
+*1.2 stud wraparound (UC)
+|-|
+Peak=
+===Peak <span style="color:greenyellow">'''Calm'''</span>===
+*7 stud jump (C)
+*6.9 stud jump (UC)
+*1.8 stud squeeze
+*1.5 stud wraparound (C)
+*1.4 stud wraparound (UC)
+</tabber>
+==Towers in this difficulty==
+<tabber>
+Non-Fictional=
+===Non-Fictional===
+*EoCaR - [[Edifice of Calmness and Relaxation]]
+|-|
+Fictional=
+===Fictional===
+For towers regarding this section, click [[Calm/Towers#Fictional Towers|here]].
+|-|
+Other Towers=
+===Towers that are technically this difficulty===
+For towers regarding this section, click [[Calm/Towers#Towers that are technically this difficulty|here]].
+|-|
+Appearances=
+===Appearances===
+*[[File:RoorXDHd.png|frameless|30x30px]] JP - [[The Pyramid Brothers|JJT Pyramid]] (Stage 74)
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] MoDDA - [[Monolith of Deadly Difficulties Approaching]] (Floor 42.5)
+*{{Class1Difficulties|Medium}} ToASA - [[Tower of A Serene Adventure]] (Removed)
+</tabber>
+==Trivia== 
+*'''Calm''' is the second difficulty made by Viranenthusiast.
+*Since its creation, this difficulty has received nine revamps.
+*There were many different variants of this difficulty made across the years.<ref>These should not be considered serious anymore; a majority of them are either lost media or not related to the difficulty anymore.</ref>
+*There is no continuing on from this point or icon representation section(s) due to the redundancy of them.
+==Gallery==
+<center><gallery>
+Calmness.png|'''Calm'''’s current icon.
+CalmAlt.png|'''Calm'''’s alternate icon.
+</gallery></center>
+For more images of this difficulty, click [[/Gallery|here]].
+{{DifficultiesNavbox}}
+[[Category:Class 1]]
+[[Category:Possible]]
+===References===

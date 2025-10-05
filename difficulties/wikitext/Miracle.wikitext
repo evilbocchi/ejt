@@ -1,0 +1,59 @@
+{{Humanly Impossible}}
+{{CSS|content=<nowiki>
+
+/* Difficulty Name */
+#miracle {
+    font-family: Arial;
+    font-weight: 900;
+    color: #2f1c5b;
+    text-shadow: -0.04em 0.04em #5633a7, 0 0.04em #5633a7, 0.04em 0.04em #5633a7, -0.04em 0 #5633a7, 0.04em 0 #5633a7, -0.04em -0.04em #5633a7, 0 -0.04em #5633a7, 0.04em -0.04em #5633a7, 0 0.15em 0.15em #5633a7, 0 -0.15em 0.15em #5633a7, 0 0 0.3em #5633a7
+}
+
+</nowiki>}}
+{{Quote (Better Version)|quote=It’s a miracle there’s finally a difficulty here|quoter=[[User:AGuyWhoExists I Guess|AGuyWhoExists I Guess]]}}
+{{NewDifficultyInfobox
+|title1=<font size="5"><span id="miracle">{{PAGENAME}}</span></font>
+|image1=Miracle.png
+|caption1=That one stream
+|class=High [[:Category:Class 6|Class 6]]
+|rating=56
+|type=Normal
+|previous=[[File:Quantumless.jpg|28px]] [[QUANTUM]] // 55
+|next=[[File:Non-Transparent Delete.png|28px]] [[DELETE]] // 57
+|alt_next=[[File:Yeetus revamp.png|24px]] [[Y E E T U S]] // 56.5
+|sub_difficulty(ies)=[[File:Yeetus revamp.png|24px]] [[Y E E T U S]]
+|decal_id=132851912451031
+|creator(s)=[[User:Astrominal|Astrominal]]
+|hex_color={{colorbox|#5533a6}} Main Color: #5533a6<br>{{colorbox|#2f1c5b}} Secondary Color:  #2f1c5b
+|rgb_color={{colorbox|#5533a6}} Main Color: 85, 51, 166<br>{{colorbox|#2f1c5b}}  Secondary Color: 47, 28, 91|date_added=5th July 2025}}
+==What is <span id="miracle">[[File:Miracle.png|30px]] '''{{PAGENAME}}'''</span>?==
+[[File:Miracle.png|30px]] <span id="miracle">'''{{PAGENAME}}'''</span> is a normal difficulty located in High [[:Category:Class 6|Class 6]], which makes it [[:Category:Humanly Impossible|Humanly Impossible]]. This difficulty succeeds [[File:Quantumless.jpg|28x28px]] [[QUANTUM]] (55) and precedes [[File:Non-Transparent_Delete.png|28x28px]] [[DELETE]] (57), with the rating by extension being 56. Miracle also contains a sub-difficulty, [[File:Yeetus revamp.png|24px]] [[Y E E T U S]]. This is one of the last Humanly Impossible difficulties before reaching the [[:Category:Physically Impossible|Physically Impossible]] difficulties. 
+
+[[File:Miracle.png|30px]] <span id="miracle">'''{{PAGENAME}}'''</span> is the replacement for [[File:Everdark.png|28px]] '''Everdark'''. Originally, it was created by LendleYT, but then was removed somewhere in 2024 due to the author's request. This deletion lead to two other difficulties planned to replace it. These difficulties were an emoji themed difficulty by wiki manager [[User:Sanjay2133|Sanjay2133]] and a difficulty by former content moderator [[User:Sushislushwiki|Sushislushwiki]] called [[File:No Win.png|28px]] '''No Win'''. More information regarding these can be found in the trivia section.
+
+<h2>Icon Representation</h2>
+[[File:Miracle.png|left|104px]]
+The official icon was created by [[User:Astrominal|Astrominal]], the difficulty's creator. It consists of  two exclamation symbols that are outlined in black and feature a black shadow behind, with one of the exclamation marks also being flipped. The background features a '''<span style="color:#5533a6">purplish</span>''' outline and a '''<span style="color:#2f1c5b">dark purplish</span>''' interior. The alternative icon is the exact same with the exception of the dark purplish interior.
+
+<h2>Obstacles</h2>
+{{ObstacleTableRevamp|JumpClimbableBase=47.1|Increment=0.25}}
+<h2>Towers in this difficulty</h2>
+[[File:Miracle.png|30px]] <span id="miracle">'''{{PAGENAME}}'''</span> has no towers that are real or fictional. Feel free to add any towers that are "accurate" or fictional here.
+
+<h2>Trivia</h2>
+* [[File:Miracle.png|30px]] <span id="miracle">'''{{PAGENAME}}'''</span> features no continuing on from this point, as it is replaced with a redirect section at the bottom of the page.
+* The emoji difficulty planned to replace Everdark only had an introduction finished before it was ultimately scrapped. 
+** Whereas, the No Win difficulty was essentially finished but due to the lack of a tower was never implemented, and eventually the difficulty creator was blocked meaning it would never be moved to the mainspace.
+* This is currently the latest difficulty in the [[Main Difficulty Chart]].
+
+==Gallery==
+<center><gallery>
+Miracle.png|The current icon for [[File:Miracle.png|30x30px]] '''{{PAGENAME}}'''.
+MiracleNonoutlined.png|The non-outlined version of [[File:Miracle.png|30x30px]] '''{{PAGENAME}}'''.
+MiracleModernIconidk.png|The alternative version of [[File:Miracle.png|30x30px]] '''{{PAGENAME}}''' by [[User:Enyara69|Enyara69]].
+</gallery></center>
+----
+<font size="5"></font><center><font size="5">« <small>[[File:Quantumless.jpg|30px]] [[QUANTUM]]</small> | [[File:Miracle.png|30px]] <span id="miracle">{{PAGENAME}}</span> | [[File:Non-Transparent Delete.png|30px]] [[DELETE]] »</font></center>
+{{DifficultiesNavbox}}
+[[Category:Difficulty]]
+[[Category:Class 6]]

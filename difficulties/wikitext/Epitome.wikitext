@@ -1,0 +1,182 @@
+<div style="box-sizing:border-box; border-radius:10px;border:16px solid black; padding: 0.8em; overflow:hidden;background:linear-gradient(45deg,mediumblue, red); color: #000000;">
+<font color="white">{{Physically Impossible}}
+
+{{WIP}}{{Large Page}}<span></span>
+[[Category:Large Pages]]
+{{RevampQuote|Text=Damn, Baseline C8 is full, isn't it?|Header=Quote|Quoter=the guy who wrote the intro}}
+{{NewDifficultyInfobox|title1=[[File:EpitomeText.png|frameless|164x164px]]|caption1=Welcome to the epitome of obstacles. Ready for a long journey?|class=Class 8 // Entrance|full_name=The Epitome of the Truest Absolutest Skyline of the Peripheral Peak Borderline|image1=Epitome.png|previous=[[File:MegaDeath.png|frameless|30x30px]] [[MegaDeath]] (75)|next=[[File:Hellifying.png|frameless|30x30px]] [[Agony]] (77)|creator(s)=<s>Sanman2133</s> Sanjay2133, Touchgrass210779, Jack|date_added=January 14th, 2021|revamp_date=October 18th, 2023|official_music(s)=[https://www.youtube.com/watch?v=xjW3OTpjagc garlagan - There]|short_name=Epit|type=Class Entry|rating=76|alt_previous=[[File:TooPreciseRevamp.png|frameless|30x30px]] [[TooPrecise]] (75.5)|decal_id=[https://create.roblox.com/store/asset/8541867526/Epitome 8541867526]}}</font>
+
+==<span style="font-family:Josefin Slab"><span style="color: black; text-shadow: 1px 1px 3px mediumblue,-1.375px -1.375px 3px red;">'''The Epitome.'''</span></span>==
+Welcome, to the epitome of obstacles. This difficulty contains <u>a lot</u> of obstacle types. Don't be surprised seeing more obstacles than usual.
+
+[[File:Epitome.png|frameless|30x30px]] [[File:EpitomeText.png|frameless|75x75px]] is the entry of Class 8, standing just after [[File:TooPreciseRevamp.png|frameless|30x30px]] <code>[[TooPrecise]]</code> (75.5), perhaps the deleted [[File:New DreamBreaker icon.jpg|frameless|30x30px]] <code>RNGDreamBreaker</code> (75.2x?), or [[File:MegaDeath.png|frameless|30x30px]] <code>[[MegaDeath]]</code> (75) not accounting for sub-difficulties, or even [[File:Divine.png|frameless|30x30px]] [[Divine]], if we throw in anonymous placements. Additionally, it resides before [[File:Hellifying.png|frameless|30x30px]] [[Agony]]. As such, it is assigned a rating of 76, comparable to its previous difficulties. 
+
+One of [[File:Epitome.png|frameless|30x30px]] [[File:EpitomeText.png|frameless|75x75px]]'s obstacles could be beating every JToH tower blindfolded without failing while buffed by 2 classes, or throwing a basketball into outer space. No matter which one of the obstacles it is, they'll still be scientifically impossible to even do a fraction of. Regularly, the obstacles can reach up to 160-171 studs, for cylinder wraparounds. 
+
+[[File:Epitome.png|frameless|30x30px]] [[File:EpitomeText.png|frameless|75x75px]] was revamped after [[User:Sanjay2133|Sanjay2133]]'s approval of [[User:Touchgrass210779|Touchgrass210779]] working on this difficulty, with revamp progress starting on 18/10/2023, long after the difficulty's initial creation, 14/01/2022. The rest of the intro - even this paragraph - was made on the same date. Additionally, this difficulty is a collaboration between the two aforementioned users, with [[User:Touchgrass210779|Touchgrass210779]] making the introduction, catches and obstacles (and the custom text), with [[User:Sanjay2133|Sanjay2133]] making the rest of [[File:Epitome.png|frameless|30x30px]] [[File:EpitomeText.png|frameless|75x75px]]'s sections. 
+
+Albeit its placement placing it at the lowest bound of Class 8, [[File:Epitome.png|frameless|30x30px]] [[File:EpitomeText.png|frameless|75x75px]] is impossible with the current physics of the average ROBLOX character. Its jumps, as previously stated, can reach 160-171 studs if measured. Thus, for the average obbyist, completing even one massively nerfed jump accurate to this difficulty, would be an extraordinary feat. 
+
+==<span style="font-family:Josefin Slab"><span style="color: black; text-shadow: 1px 1px 3px mediumblue,-1.375px -1.375px 3px red;">'''Icon Representation'''</span></span>==
+{{IconRepresentationOfficialOnly|color=red|title=Epitome Icon Representation|image=[[File:Epitome.png|200px]]|description=<font color="white">The icon is quite simple: It is a red to blue gradient in the background, with a :( emoticon in the center slightly rotated. Very simple.</font>}}
+
+==<span style="font-family:Josefin Slab"><span style="color: black; text-shadow: 1px 1px 3px mediumblue,-1.375px -1.375px 3px red;">'''Catches'''</span></span>==
+
+* Performing any kind of glitch results in being instantaneously sent back to [[File:Eldritch.jpg|frameless|30x30px]] [[ᴇʟᴅʀɪᴛᴄʜ]].
+**Emotes such as <code>/e dance2</code> are not exempt from this rule, unless the obstacles require the player to use them.
+**Glitch obstacles are immune to this catch.
+**This includes tab glitching.
+*Everything is a killbrick that does 2 1/2 damage.
+* The tower type of this difficulty will always be an Obelisk, if not, it has extremely long and tiresome floors.
+*The gameplay changes every 5 minutes.
+*For every jump performed, there is a 15% chance that a pillar appears directly in front of the player. It is one stud wide and long, however EXTREMELY tall (roughly 200 studs).
+* If the player attempts to cheat and/or skip any part of [[File:Epitome.png|frameless|30x30px]] [[File:EpitomeText.png|frameless|75x75px]], the obstacles will be buffed to always be ever-so-slightly beyond the player's skill level, similar to [[File:Loxus.gif|frameless|30x30px]] [[Liminal]].
+
+==<span style="font-family:Josefin Slab"><span style="color: black; text-shadow: 1px 1px 3px mediumblue,-1.375px -1.375px 3px red;">'''Obstacles'''</span></span>==
+
+Beware of the Obstacle Flood!
+
+{| class="fandom-table"
+|+WHY ARE THERE SO MANY
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="black">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="black">Low</font>'''
+! style="background-color: yellow; " |'''<font color="black">Mid</font>'''
+! style="background-color: orange; " |'''<font color="black">High</font>'''
+! style="background-color: red; " |'''<font color="black">Peak</font>'''
+|-
+| style="background-color: #1a1616;" |Climbable Jumps
+| style="background-color: #014500;" |<font color="white">161 studs</font>
+| style="background-color: #336000;" |<font color="white">163 3/4 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">166 1/2 studs</font>
+| style="background-color: #964a00;" |<font color="white">168 1/4 studs</font>
+| style="background-color: #5a0000;" |<font color="white">172 studs</font>
+|-
+| style="background-color: #1a1616;" |Unclimbable Jumps
+| style="background-color: #014500;" |<font color="white">160 1/2 studs</font>
+| style="background-color: #336000;" |<font color="white">163 1/4 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">166 studs
+| style="background-color: #964a00;" |<font color="white">168 3/4 studs</font>
+| style="background-color: #5a0000;" |<font color="white">171 1/2 studs</font>
+|-
+| style="background-color: #1a1616;" |Wraparounds
+| style="background-color: #014500;" |<font color="white">160 1/3 studs</font>
+| style="background-color: #336000;" |<font color="white">162 5/6 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">165 1/3 studs</font>
+| style="background-color: #964a00;" |<font color="white">167 5/6 studs</font>
+| style="background-color: #5a0000;" |<font color="white">171 1/3 studs</font>
+|-
+| style="background-color: #1a1616;" |Stickouts
+| style="background-color: #014500;" |<font color="white">91 x 33 studs</font>
+| style="background-color: #336000;" |<font color="white">92 1/2 x 34 1/2 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">94 x 36 studs</font>
+| style="background-color: #964a00;" |<font color="white">95 1/2 x 37 1/2 studs</font>
+| style="background-color: #5a0000;" |<font color="white">97 x 39 studs</font>
+|-
+| style="background-color: #1a1616;" | Cylinder Wraparounds
+| style="background-color: #014500;" |<font color="white">160 studs</font>
+| style="background-color: #336000;" |<font color="white">162 3/4 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">165 1/2 studs</font>
+| style="background-color: #964a00;" |<font color="white">168 1/4 studs</font>
+| style="background-color: #5a0000;" |<font color="white">171 studs</font>
+|-
+| style="background-color: #1a1616;" |Walkarounds
+| style="background-color: #014500;" |<font color="white">119 studs</font>
+| style="background-color: #336000;" |<font color="white">121 3/4 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">124 1/2 studs</font>
+| style="background-color: #964a00;" |<font color="white">127 1/4 studs</font>
+| style="background-color: #5a0000;" |<font color="white">130 studs</font>
+|-
+| style="background-color: #1a1616;" |Instant-Kill Walkarounds
+| style="background-color: #014500;" |<font color="white">117 studs</font>
+| style="background-color: #336000;" |<font color="white">119 3/4 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">122 1/2 studs</font>
+| style="background-color: #964a00;" |<font color="white">125 1/4 studs</font>
+| style="background-color: #5a0000;" |<font color="white">128 studs</font>
+|-
+| style="background-color: #1a1616;" |Truss Jumps
+| style="background-color: #014500;" |<font color="white">167 studs</font>
+| style="background-color: #336000;" |<font color="white">169 3/4 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">172 1/2 studs</font>
+| style="background-color: #964a00;" |<font color="white">174 1/4 studs</font>
+| style="background-color: #5a0000;" |<font color="white">178 studs</font>
+|-
+| style="background-color: #1a1616;" |Wallhops
+| style="background-color: #014500;" |<font color="white">110 studs apart</font>
+| style="background-color: #336000;" |<font color="white">112 3/4 studs apart</font>
+| style="background-color: #6d5c00;" |<font color="white">115 1/2 studs apart</font>
+| style="background-color: #964a00;" |<font color="white">117 1/4 studs apart</font>
+| style="background-color: #5a0000;" |<font color="white">120 studs apart</font>
+|-
+| style="background-color: #1a1616;" |Wraparounds (with instant-killbrick spinners)
+| style="background-color: #014500;" |<font color="white">96 studs, 1,001 RPS</font>
+| style="background-color: #336000;" |<font color="white">97 studs, 1,002 RPS</font>
+| style="background-color: #6d5c00;" |<font color="white">98 studs, 1,003 RPS</font>
+| style="background-color: #964a00;" |<font color="white">99 studs, 1,004 RPS</font>
+| style="background-color: #5a0000;" |<font color="white">100 studs, 1,005 RPS</font>
+|-
+| style="background-color: #1a1616;" |Dance Clips
+| style="background-color: #014500;" |<font color="white">39 studs</font>
+| style="background-color: #336000;" |<font color="white">39.1 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">39.2 studs</font>
+| style="background-color: #964a00;" |<font color="white">39.3 studs</font>
+| style="background-color: #5a0000;" |<font color="white">39.4 studs</font>
+|-
+| style="background-color: #1a1616;" |Pre-patch MACCs in a row
+| style="background-color: #014500;" |<font color="white">41</font>
+| style="background-color: #336000;" |<font color="white">42</font>
+| style="background-color: #6d5c00;" |<font color="white">43</font>
+| style="background-color: #964a00;" |<font color="white">44</font>
+| style="background-color: #5a0000;" |<font color="white">45</font>
+|-
+| style="background-color: #1a1616;" |Flinging
+| style="background-color: #014500;" |<font color="white">880 studs</font>
+| style="background-color: #336000;" |<font color="white">895 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">910 studs</font>
+| style="background-color: #964a00;" |<font color="white">925 studs</font>
+| style="background-color: #5a0000;" |<font color="white">940 studs</font>
+|-
+| style="background-color: #1a1616;" |Miscellany
+| style="background-color: #014500;" |<font color="white">Beat every JToH tower blindfolded, buffed by 2 classes, without failing</font>
+| style="background-color: #336000;" |<font color="white">Read every page on JJT, twice</font>
+| style="background-color: #6d5c00;" |<font color="white">Build one [[File:MCrazy.png|frameless|30x30px]] <code>[[MCrazy]]</code> obstacle</font>
+| style="background-color: #964a00;" |<font color="white">Throw a basketball into outer space (110 km/62 mi high)</font>
+| style="background-color: #5a0000;" |<font color="white">Beat a highly buffed [[File:Diss.png|frameless|30x30px]] <code>[[Dissension]]</code></font>
+|}
+
+==<span style="font-family:Josefin Slab"><span style="color: black; text-shadow: 1px 1px 3px mediumblue,-1.375px -1.375px 3px red;">'''Difficulty Crossing'''</span></span>==
+jack and touchgrass do this
+
+Welcome, to the Difficulty Crossing. Something to actually test the skill of Class 8's enterers. <sub>Is that even a real word? (yeah...)</sub> Beat the difficulties correctly, or fall! (In that case, go back to [[File:TooPreciseRevamp.png|frameless|30x30px]] <code>[[TooPrecise]]</code>.) Also, the <code>computer code</code> feature is used on some hyperlinks to make them look more visually appealing. EVEN IN THE INTRODUCTION. (should have said this earlier)
+
+*[[File:Victor.png|frameless|35x35px]] '''[[Victor]]''' (54)
+*[[File:Everdark.png|frameless|30x30px]] <code>[[Everdark]]</code> (56)
+*[[File:Non-Transparent Delete.png|frameless|30x30px]] [[DELETE]] (57)
+** [[File:Move.png|frameless|30x30px]] [[MOVE]] (57.5)
+*[[File:SupremeDifficulty.png|frameless|50x50px]] [[Supreme]] (60)
+*[[File:RoorXD.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]] (64)
+*[[File:JesusBallin.png|frameless|30x30px]] [[w:c:jtohs-hardest-towers:RoorXD#Jesus Ballin'|Jesus Ballin']] (65)
+*[[File:Illegal Newest Version.png|frameless|30x30px]] [[Illegal]] (68)
+*[[File:MegaDeath.png|frameless|50x50px]] <big><code>[[MegaDeath]]</code></big> (75)
+**[[File:TooPreciseRevamp.png|frameless|30x30px]] <code>[[TooPrecise]]</code> (75.5)
+
+==<span style="font-family:Josefin Slab"><span style="color: black; text-shadow: 1px 1px 3px mediumblue,-1.375px -1.375px 3px red;">'''Towers'''</span></span>== 
+
+*[[Edifice of The Epitome]]
+
+==<span style="font-family:Josefin Slab"><span style="color: black; text-shadow: 1px 1px 3px mediumblue,-1.375px -1.375px 3px red;">'''Trivia'''</span></span>==
+
+* As Sanjay2133, I forgot to do this part for a while.
+* This was one of my first difficulties, but was deleted before I could finish it.
+** There was also a twin difficulty that came a few days after this one, but I can't find any proof, so it's lost media.
+* Originally, the difficulty had a quote saying "why don't you go jump in that die pit over there" or something along the lines of that. Don't jump in die pits, kids.
+* Surprisingly, it's actually the first difficulty of a class, taking the place of ''Agony'' as the successor to MegaDeath.
+* To unlock CFTP, wait another 5 months!
+* <span class="spoilerblur" style="color:#00FF00">(Don't get mad at me being 8 classes early here, but baseline class 8 really IS full of difficulties.)</span>
+
+==<span style="font-family:Josefin Slab"><span style="color: black; text-shadow: 1px 1px 3px mediumblue,-1.375px -1.375px 3px red;">'''CFTP (Continuing From This Point)'''</span></span>==
+<span style="color: black;">[[Agony|Sanjay made this]]</span>{{MainDifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 8]]
+[[Category:Physically Impossible]]

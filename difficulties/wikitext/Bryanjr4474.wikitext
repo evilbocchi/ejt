@@ -1,0 +1,198 @@
+<div style="box-sizing:border-box; border-radius:15px;border:3px solid black;overflow:hidden;background:linear-gradient(135deg, #c8c96d,#faffb3,#c8c96d,#faffb3,#c8c96d,#faffb3,#c8c96d,#faffb3,#c8c96d,#faffb3)">
+{{Scrollbox|Notices='''Notices'''
+{{Inclusion|reason=(NOT IN A LOCK CLASS BUT) Sanjay allowed this to be the final user difficulty}}
+{{Large Page}}
+{{Physically Impossible}}
+}}
+{{NewDifficultyInfobox|image1=[[File:BRYANJR4474 DIFFICULTY.jpeg]]|caption1=Bryanjr4474 YT Profile (MINE)|class=[[:Category:Class 9|Peak Class 9]]|type=normal|previous=[[File:LOOP (NEW).jpg|30px]] [[LOOP]]|next=[[File:Imageforsomething....png|30px]] [[Eɼɼosion]]|title1=[[File:BRYANJR4474 DIFFICULTY.jpeg|40px]] Bryanjr4474 |difficulty_range=Baseline - Peak|decal_id=[https://create.roblox.com/store/asset/135068788320572/BryanJr4474-Square 135068788320572]|creator(s)=[[User:Bryanjr7747| Bryanjr7747]]|revival_date=nah|rating=104}}
+
+==<span style="color:#000000;text">What is Bryanjr4474 Difficulty?</span>==
+<span style="color:#000000;text">[[User:Bryanjr7747|Bryanjr4474]] is a member of this wiki (creator of this page) and he has a [https://www.youtube.com/@Bryanjr4474/featured YouTube channel] with ~5,030 Subscribers who uploads VR (Virtual Reality) content, mostly of Gorilla Tag (VR Game where you use your hands to move), Beat Saber, or Capuchin (Gorilla Tag Fangame), and I guess Bryan made a page about himself. Bryanjr4474 is also a contributor of the wiki, having 1.3k edits and 759 posts. I've made many pages, some are [[Building]], [[SourceCode]], and [[Spinning Skull]]. [[User:Bryanjr7747|Bryanjr4474]] is a heavily active JJT user, being friends with [[User:Sanjay2133|Sanjay2133]], [[User:Ferdinandloveslegos|Ferd]], and [[User:OrbentuneAlt|Orben]].</span>
+
+<span style="color:#000000;text">Anyways, enough rambling about me. '''BRYANJR4474 DIFFICULTY''' is a Peak Class 9 difficulty. It is a normal difficulty in between other difficulties [[LOOP]] and</span> [[Eɼɼosion]]<span style="color:#000000;text">. With a rating of 104, Bryanjr4474 has no sub-difficulties. Made on March 10th, 2023, Bryanjr4474 is a physically impossible difficulty that currently isn't in any chains, and hasn't been revived, revamped, or removed yet.</span>
+
+<span style="color:#000000;text">There actually is a gimmick. All obstacles are selected by <u>me</u>, Bryan. Since Bryan is the boss, he controls what you do. You could do a 10<sup>17</sup> stud jump, or maybe recreating a bots movements. A lot of times (75%), it's the basic obstacles, sometimes (20%), it's the extended obstacles. Very rarely (5%), its IRL obstacles.</span>
+
+<span style="color:#000000;text">Half of the obstacles are client objects, but they are used very fairly, and used in the correct difficulty. Lastly, this difficulty, as aforementioned, is rated 104 on the [[Main Difficulty Chart]], unrankable by tiers, but ranked ~|1800| on the [[Kol Metris]] scale.</span>
+
+==<span style="color:#000000;text">Icon Representation</span>==
+<span style="color:#000000;text">It is a gorilla tag character (not tagged) with the color code (RGB9) 8, 8, 5. It has the cosmetics: Durag (2021 Halloween Event), and Scarf (City). Its username is "Bryan", but gets cutoff at A.</span>
+
+==<span style="color:#000000;text">Catches</span>==
+*<span style="color:#000000;text">Obstacles are selected by the boss</span>
+*<span style="color:#000000;text">The winpad is invisible, and spawns anywhere from 1 million to 100 million studs away from spawn. It is also only 2.56x10<sup>-8</sup> of a stud big.</span>
+*<span style="color:#000000;text">You cannot detect the winpad's position with exploits.</span>
+*<span style="color:#000000;text">You cannot teleport yourself with exploits either, you can change your velocity though.</span>
+
+==<span style="color:#000000;text">Terms</span>==
+*<span style="color:#000000;text">J*U7J~rqU366}E] - a number that constantly changes every minute, meaning that it can be 0 for one moment, and 9 vigintillion the next moment. The limit is 10<sup>100</sup> (googol)</span>
+*<span style="color:#000000;text">''K'' = Weakly Compact Cardinal</span>
+*<span style="color:#000000;text">the Ultimate Long Jump (long-jump into an alternate game, depending on which orientation and position you are in, you will find yourself in a different game outside of Roblox)</span>
+==<span style="color:#000000;text">Obstacles</span>==
+<tabber>
+|-|
+Normal=
+{| class="fandom-table"
+|+<span style="color:#000000;text">Obstacles (credit to Malignant)</span>
+!Spectrum/Obstacles
+! style="background-color: green;" |<span style="color:#000000;text">'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |<span style="color:#000000;text">'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |<span style="color:#000000;text">'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |<span style="color:#000000;text">'''<font color="brown">High</font>'''
+! style="background-color: red; " |<span style="color:#000000;text">'''<font color="#7d0000">Peak</font>'''
+|-
+|<span style="color:#000000;text">Wraparounds</span>
+| style="background-color: #014500;" |1.2e8 studs
+| style="background-color: #336000;" |1.32e8 studs
+| style="background-color: #6d5c00;" |1.4e8 studs
+| style="background-color: #964a00;" |1.47e8 studs
+| style="background-color: #5a0000;" |1.52e8 studs
+|-
+|<span style="color:#000000;text">Unclimbable Long Jump</span>
+| style="background-color: #014500;" |1.3e8 studs
+| style="background-color: #336000;" |1.47e8 studs
+| style="background-color: #6d5c00;" |1.6e8 studs
+| style="background-color: #964a00;" |1.65e8 studs
+| style="background-color: #5a0000;" |1.78e8 studs
+|-
+|<span style="color:#000000;text">Climbable Long Jump</span>
+| style="background-color: #014500;" |1.54e8 studs
+| style="background-color: #336000;" |1.75e8studs
+| style="background-color: #6d5c00;" |1.88e8 studs
+| style="background-color: #964a00;" |2e8 studs
+| style="background-color: #5a0000;" |2.2e8 studs
+|-
+|<span style="color:#000000;text">Stick Out Wraparounds</span>
+| style="background-color: #014500;" |1.1e8 studs
+| style="background-color: #336000;" |1.2e8 studs
+| style="background-color: #6d5c00;" |1.3e8 studs
+| style="background-color: #964a00;" |1.37e8 studs
+| style="background-color: #5a0000;" |1.5e8 studs
+|-
+|<span style="color:#000000;text">Cylinder Wraparounds</span>
+| style="background-color: #014500;" |1.2e8 studs
+| style="background-color: #336000;" |1.25e8 studs
+| style="background-color: #6d5c00;" |1.37e8 studs
+| style="background-color: #964a00;" |1.43e8 studs
+| style="background-color: #5a0000;" |1.51e8 studs
+|-
+|<span style="color:#000000;text">Raised Wraparounds</span>
+| style="background-color: #014500;" |1e6 studs raised by 2<sup>9</sup>
+| style="background-color: #336000;" |1e6 studs raised by 2<sup>12</sup>
+| style="background-color: #6d5c00;" |1e6 studs raised by 2<sup>15</sup>
+| style="background-color: #964a00;" |1e6 studs raised by 2<sup>18</sup>
+| style="background-color: #5a0000;" |1e6 studs raised by 2<sup>21</sup>
+|}
+|-|
+Extended=
+{| class="fandom-table"
+|+<span style="color:#000000;text">Obstacles (credit to Malignant)</span>
+!Spectrum/Obstacles
+! style="background-color: green;" |<span style="color:#000000;text">'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |<span style="color:#000000;text">'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |<span style="color:#000000;text">'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |<span style="color:#000000;text">'''<font color="brown">High</font>'''
+! style="background-color: red; " |<span style="color:#000000;text">'''<font color="#7d0000">Peak</font>'''
+|-
+|<span style="color:#000000;text">Extended Obstacle #1</span>
+| style="background-color: #014500;" |Use an elevator to push you up 16T studs (speed: 10<sup>-15</sup>) to get to a beat block (1B STUDS FROM THE TOP) that activates once only every 1.77 hours. Once you get hit by the beat block you must travel 10<sup>9</sup> studs onto the next obstacles. 
+| style="background-color: #336000;" |1. Go on vr, got that? Once you've done that, connect to PCVR. 2. Once your on Roblox, you gotta do something weird.<br>
+So, your physics are like a normal users, not "VR Hands." Now do a 1B stud jump but here's the funny part. Your walking and jumping mechanic don't work. So pretty much do a million stud jump IRL.
+
+I seriously complicated this one, didn't I?
+| style="background-color: #6d5c00;" |1 million stud instakill wallwalk with random 2,000 stud instakill wallwalkarounds every stud.
+| style="background-color: #964a00;" |Do a 102-stud thick dance clip into a 100,000 stud jump. Then once you do that, do a 96-stud thick laugh clip into a 96,500 stud jump.
+| style="background-color: #5a0000;" |Do this random difficulty I just thought of, "Dodge walls underwater", where pretty much its random walls underwater. Now this isn't class 0. This is class 14! Now that isnt water. It's a swimmable lava banbrick, going on for 1k studs, and every wall makes you do a 7k stud stickout, which is every 20 studs.
+|-
+|<span style="color:#000000;text">Extended Obstacle #2</span>
+| style="background-color: #014500;" |You know what? I'm feeling generous. You pick the obstacles this time, I'm not stopping you.
+| style="background-color: #336000;" |There are 2 doors you need to unlock, for the first one, find 10M invisible buttons. They could be 40 studs in the air for crying out loud. For the second one, complete a standard baseline Bryanjr4474 difficulty obstacle course.
+| style="background-color: #6d5c00;" |Travel into Roblox IRL and abuse the collisions of the real life physics engine in some way 
+| style="background-color: #964a00;" |Do the Ultimate Long Jump
+| style="background-color: #5a0000;" |Push a 20M stud high push killblock 100,000 studs away onto a can-collide false block, then jump onto the killbrick and do a 10,000 stud high jump onto the can-collide false block to move on.
+|-
+|<span style="color:#000000;text">Extended Obstacle #3</span>
+| style="background-color: #014500;" |Comprehend [[The Final Difficulty.|TFinD]] then build a nerfed version (down to [[Grievous]], then beat it 1.3 times. (beat once then do 3 more obstacles)
+| style="background-color: #336000;" |Hey, I should give you a break. A ''scary'' break. Jump over a 2 stud frickbrick (explodes device on touch).
+| style="background-color: #6d5c00;" |Did you like that break? Well lets get back to hell. Noclip through a 10 stud wall, but the game has the worlds best anticheat. It doesn't stop there, pal. The worlds best anticheat gets a 19!% buff.
+| style="background-color: #964a00;" |Fall ''K'' Studs to land on a 0.1 stud block 
+| style="background-color: #5a0000;" |Beat the entirety of mega fun obby but its upside down.
+|}
+</tabber>
+
+==<span style="color:#000000;text">Boss</span>==
+{{JToHW Quote|text='''bro what are you doing i said i didnt wanna fight you'''|quoter=Bryanjr4474, the boss.}}
+{{Boss|title1=Bryanjr4474|caption1=Is me|hp=1QD|damage=100T|how_to_access=Beating base-peak BRYANJR4474|difficulty=Peripheral Bryan|image1=[[File:BryanJr4474.png]]|drops=A VR headset}}
+
+<span style="color:#000000;text">Well, the Bryan boss, holder of the obstacle- wait, you don't wanna fight?</span>
+
+[[File:BryanJr4474.png|30x30px]] <span style="color:yellow;text">yes</span>
+
+[[File:Player.png|30px]] <span style="color:#000000;text">'''Please?'''</span>
+
+[[File:BryanJr4474.png|30x30px]] <span style="color:yellow;text">no</span>
+
+[[File:Player.png|30px]] <span style="color:#000000;text">'''Come on!'''</span>
+
+[[File:BryanJr4474.png|30x30px]] <span style="color:yellow;text">no</span>
+
+[[File:Player.png|30px]] <span style="color:#000000;text">'''PLEASE???'''</span>
+
+[[File:BryanJr4474.png|30x30px]] <span style="color:yellow;text">no</span>
+
+[[File:Player.png|30px]] <span style="color:#000000;text">'''fine...'''</span>
+
+<span style="color:#000000;text"><big><big>Well, looks like he doesn't want to fight.</big></big></span>
+
+==<span style="color:#000000;text">Trivia</span>==
+*<span style="color:#000000;text">Yes, I was too lazy to mak the boss.</span>
+*<span style="color:#000000;text">This is the LAST user difficulty, because now it's banned.</span>
+**<span style="color:#000000;text">Sanjay allowed this</span>
+
+==<span style="color:#000000;text">Towers</span>==
+<tabber>
+|-|
+Towers of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*<span style="color:#000000;text">BRYANS ULTRA MEGA SUPREME SUPER DUPER TOWER!!! (BUMSSDT!!!) (Joke)</span>
+*<span style="color:#000000;text">Bryans home. (Room)</span>
+{{!}}-{{!}}
+Nonfiction=
+<span style="color:#000000;text">None yet.</span>
+| false= 
+}}
+}}
+|-|
+Towers with=
+*<span style="color:#000000;text">Probably all the DC Towers/Citadels/Great Citadels/Monolith/etc.</span>
+|-|
+Obbies of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*<span style="color:#000000;text">Bryan's one stage per difficulty chart (Technically this is supreme but I made it so cry about it.</span>
+{{!}}-{{!}}
+Nonfiction=
+*<span style="color:#000000;text">None yet.</span>
+| false= 
+}}
+}}
+|-|
+Obbies with=
+<span style="color:#000000;text">Probably all the DC obbies.</span>
+|-|
+</tabber>
+
+==<span style="color:#000000;text">Cont.</span>==
+<span style="color:#000000;text">Well, looks like you beat my difficulty, good job on surpassing my difficulty. I want you to move onto</span> [[File:Imageforsomething....png|30px]] [[Eɼɼosion]]<span style="color:#000000;text">, and good luck on it too.</span>
+
+<center><div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:{{{File|Thats sucks.gif}}}|{{{Size|2000px}}}]]</div>
+{{DifficultiesNavbox}}
+[[Category:Large Pages]]
+[[Category:Physically Impossible]]
+[[Category:Class 9]]
+[[Category:Difficulty]]
+[[Category:Difficulties]]
+[[Category:User-Related Difficulty]]

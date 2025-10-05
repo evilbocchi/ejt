@@ -1,0 +1,125 @@
+__NOTOC__
+{{NoticeScrollboxNew|Notices={{PrimordialDifficulty}}
+{{Physically Impossible}}
+{{Important Page}}
+{{Background|File=TMnewbg.jpg|Size=2000}}}}<div style="--theme-accent-color:-webkit-linear-gradient(45deg,#222200,
+#9E9411)">{{NewDifficultyInfobox
+|title1='''<span style="background:linear-gradient(40deg,yellow,#8E9500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">The Middleline.</span>'''
+|image1=<gallery>
+File:TheMiddlelineRemake.png|Current
+File:The MiddlelineNew.png|Old
+</gallery>
+|rating= 115.5
+|caption1=You've made it, you're halfway to the end, good luck...
+|type=
+*''<span style="background:linear-gradient(90deg,blue,green,yellow,darkred,dimgrey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Primordial</span>''
+*''Unofficial Difficulty''
+*''Physically Impossible''
+|class=13
+|class_range=[[:Category:Class µ|Mid Class µ]]/The Middlepoint of All Classes
+|previous=
+[[File:Pinnacle.png|frameless|40px]] [[Pinnacle]]
+|next=
+[[File:Stardark.png|30px]] [[File:StardarkText.png|link=Stardark|75px]]
+|alt_previous=
+[[File:Missing.jpg|30px]] [[Missing]]
+|official_music(s)=[https://www.youtube.com/watch?v=36q0R4jyRXA Locknar - Enter the Nexus (from Madness: Project Nexus)]
+|decal_id=[https://create.roblox.com/marketplace/asset/11825813040/New-Icon-For-The-Middleline-Difficulty?pageNumber=1&pagePosition=0&keyword=the+middleline 11825813040]
+|creator(s)=
+*Youcannothackme7134 (OG creator)
+*TotallyNotAMeme00 (revamper)
+|original_class=Mid Class 13|alt_next=[[File:Missing.jpg|30px]] [[Missing]]}}
+
+==Description - '''<span style="background:linear-gradient(40deg,yellow,#8E9500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">The Middleline</span>'''==
+
+'''<span style="background:linear-gradient(40deg,yellow,#8E9500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">The Middleline</span>''' is the third of the Primordials and is the only Peak Class 10 difficulty. It is located halfway in between [[File:Tfird.png|45x45px]] [[The First Difficulty]] and [[File:Final.png|frameless|45x45px]] [[The Final Difficulty.|The Final Difficulty]]. Due to it's positioning on the chart, you cannot build it, let alone even come close to beating it. Obstacles of this difficulty are unfathomably absurd, and will never be accomplished by any form of TAS, as it is so ungraspably demanding that any assists or items that could be of potential help are neutralized upon entry.
+
+In tiers, this difficulty would be rated unfathomably high, at a tier rating of around 1,000,000, and has a Metris value of exactly 2000, as it is in the exact middle of the chart, and therefore is in the middle of the Metris spectrum too. Technically the true middle should have a Metris of 0 since it's in the middle between -4k and +4k, and that would equal to [[File:Exist Difficulty Squared.png|frameless|30x30px]] [[Exist]], but the gameplay is much closer to TFirD. TM is technically more closer to TFirD too since TFirD acts as 0 instead of negative infinity, while TFinD acts as positive infinity. [[File:Pinnacle.png|frameless|40px]] [[Pinnacle]] being compared to this is like {{Class-1Difficulties|Instant Win}} '''<span style="background:linear-gradient(90deg,blue,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Instant Win]]</span>''' being compared to{{Class7Difficulties|System Error}} '''<span style="background:linear-gradient(90deg,red,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[System Error]]</span>'''.
+
+And for classification, [[The First Difficulty]] has a Metris Kol of -4000 and [[The Final Difficulty.|The Final Difficulty]] has a Metris Kol of 4000.
+
+==Icon Representation - '''<span style="background:linear-gradient(40deg,yellow,#8E9500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">The Middleline</span>'''==
+<center>[[File:The MiddlelineNew.png|frameless|100px]]</center>
+The icon is a yellow - dark yellow gradient with several emoticons and symbols. In the center, there are three exclamation marks. Directly above that are two emoticons - an XD and a DX. To the left is a :) emoticon, a >:( emoticon and three question marks. To the right is a .-. and a flipped version of that emoticon. And below it is another XD and DX, and also a :] face.
+
+==Obstacles - '''<span style="background:linear-gradient(40deg,yellow,#8E9500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">The Middleline</span>'''==
+No catches, just pure skill.
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Wraparounds
+| style="background-color: #014500;" |<font color="white">100,000,000 studs</font>
+| style="background-color: #336000;" |<font color="white">110,000,000 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">120,000,000 studs</font>
+| style="background-color: #964a00;" |<font color="white">130,000,000 studs</font>
+| style="background-color: #5a0000;" |<font color="white">140,000,000 studs</font>
+|-
+|Unclimbable Long Jump
+| style="background-color: #014500;" |<font color="white">105,000,000 studs</font>
+| style="background-color: #336000;" |<font color="white">115,000,000 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">125,000,000 studs</font>
+| style="background-color: #964a00;" |<font color="white">135,000,000 studs</font>
+| style="background-color: #5a0000;" |<font color="white">145,000,000 studs</font>
+|-
+|Climbable Long Jump
+| style="background-color: #014500;" |<font color="white">110,000,000 studs</font>
+| style="background-color: #336000;" |<font color="white">120,000,000 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">130,000,000 studs</font>
+| style="background-color: #964a00;" |<font color="white">140,000,000 studs</font>
+| style="background-color: #5a0000;" |<font color="white">150,000,000 studs</font>
+|-
+|Stick Out Wraparounds
+| style="background-color: #014500;" |<font color="white">60,000,000 studs</font>
+| style="background-color: #336000;" |<font color="white">65,000,000 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">70,000,000 studs</font>
+| style="background-color: #964a00;" |<font color="white">75,000,000 studs</font>
+| style="background-color: #5a0000;" |<font color="white">80,000,000 studs</font>
+|-
+|Cyllinder Wraparounds
+| style="background-color: #014500;" |<font color="white">80,000,000 studs</font>
+| style="background-color: #336000;" |<font color="white">88,000,000 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">96,000,000 studs</font>
+| style="background-color: #964a00;" |<font color="white">104,000,000 studs</font>
+| style="background-color: #5a0000;" |<font color="white">112,000,000 studs</font>
+|-
+|Raised Wraparounds
+| style="background-color: #014500;" |<font color="white">90,000,000 studs raised by 10,000,000 studs</font>
+| style="background-color: #336000;" |<font color="white">99,000,000 studs raised by 10,000,000 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">108,000,000 studs raised by 10,000,000 studs</font>
+| style="background-color: #964a00;" |<font color="white">117,000,000 studs raised by 10,000,000 studs</font>
+| style="background-color: #5a0000;" |<font color="white">125,000,000 studs raised by 11,000,000 studs</font>
+|}
+
+==Towers - '''<span style="background:linear-gradient(40deg,yellow,#8E9500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">The Middleline</span>'''==
+We will divide this part into 2 sections, towers within the difficulty, and towers containing the difficulty. Make sure to add more when you see them.
+
+===Within this difficulty===
+*[[Great Citadel of Hopeless Elation Difficulty Chart]]
+*[[Monolith of Every JJT Difficulty: Reimagined: Part 1]]
+
+===Containing the difficulty=== 
+*[[Monolith of Deadly Difficulties Approaching]]
+*[[Monolith of Every JJT Difficulty]]
+
+==Trivia - '''<span style="background:linear-gradient(40deg,yellow,#8E9500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">The Middleline</span>'''==
+*This difficulty was revamped on 17th February, 2023.
+*This is one of the more overlooked primordials, along with the 2 Gaps.
+*The background for this can be found on Google quite easily, just search for a black hole background.
+*This is one of the last difficulties until difficulties become unbuildable, unplayable, unusable, and unrenderable in the ROBLOX engine.
+
+==Continuing on - '''<span style="background:linear-gradient(40deg,yellow,#8E9500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">The Middleline</span>'''==
+Very impressive. You have completed another primordial. Continue onwards into the realm of the Upper Gap, and start your journey off with [[File:Stardark.png|30px]] [[File:StardarkText.png|link=Stardark|75px]]. Best of luck, obbyist!
+
+{{DifficultiesNavbox}}
+[[Category:Class µ]]
+[[Category:Class 10]]
+[[Category:Physically Impossible Difficulties]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Important Page]]

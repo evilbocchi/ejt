@@ -1,0 +1,88 @@
+__NOTOC__'''''<big>p.s. don't add the buffed template to this k thx.</big>'''''
+
+{{Humanly Impossible}}
+{{BetterQuote
+|text=You're now approaching the Heart of Void. Best of luck, traveler.
+|quoter=OoIDC
+}}
+{{NewDifficultyInfobox
+|title1 = Heart of Void
+|image1 = <gallery>
+Heart Of The Void.png|Current
+OldTheHeartofVoidDifficultyIcon.png|Old
+</gallery>
+|class = [[:Category:Class 4|Class 4]]
+|type = [[:Category:Sub-Difficulties|Sub Difficulty]]
+|previous = 
+[[File:Nil revamp lol.png|30x30px]] [[w:c:jtohs-hardest-towers:nil|nil]]
+|next = {{Class4Difficulties|Error|30px}} [[w:c:jtohs-hardest-towers:Error|eRRoR]]
+|decal_id = *Current: [https://create.roblox.com/store/asset/106137175631269/The-Heart-of-Void Here]
+*Old: [https://create.roblox.com/store/asset/8084492599/The-Heart-Of-Void Here]
+|main_difficulty = [[File:Nil revamp lol.png|30x30px]] [[w:c:jtohs-hardest-towers:nil|nil]]
+|creator(s) = [[User:Real The Gamer|Real The Gamer]]
+|date_added = Unknown
+|original_creator(s) = Unknown
+|alt_previous=[[File:Jank.png|30x30px]] [[Jank]] (sub difficulty)|rating=16.66}}
+== What is '''Heart Of Void'''? ==
+The '''Heart Of Void''' is a [[:Category:Class 4|Baseline Class 4]] humanly impossible [[:Category:Sub-Difficulties|Sub-Difficulty]] made by [[User:Real The Gamer|Real The Gamer]]. It is harder than [[w:c:jtohs-hardest-towers:nil|nil]] or [[Jank]] but easier than [[w:c:jtohs-hardest-towers:Error|eRRoR]]. Obstacles in this difficulty require near-perfect precision and skill, which is why towers of this difficulty are not recommended to attempt without the use of items.
+
+This difficulty used to be the transitioning point between [[w:c:jtohs-hardest-towers:nil|nil]] and [[w:c:jtohs-hardest-towers:Error|eRRoR]]. However, newer difficulties such as [[Nightmare]] were made which took that position away from '''Heart Of Void.''' Also it is a sub dificulty from [[w:c:jtohs-hardest-towers:Error|eRRoR]].
+
+== Icon Representation ==
+{| class="fandom-table"
+!Icon
+!Name
+!Description
+!Creation
+|-
+|[[File:Heart Of The Void.png|100x100px]]
+|Current
+|The icon is a dark gray - gray gradient with a gray outline and a black heart in the middle.
+Overall, still very simple
+|15 May 2024
+|-
+|[[File:OldTheHeartofVoidDifficultyIcon.png|100x100px]]
+|Original
+|The icon is a gray background with a black heart in the middle. Overall, a simplistic icon.
+|24 November 2021
+|}
+
+== Obstacles ==
+{{ObstacleTableRevamp|JumpClimbableBase=13.62|Increment=0.00873}}
+== Towers ==
+*[[w:c:jtoh:The Great Centurial|The Great Centurial]]
+*Obelisk of Weirdly Impossible Difficulties (OoWID) (Coming Soon)
+*Tower of Heart Mistake (ToHM) (Fictional)
+* Tower of Underworlding (ToU) (Fictional)
+* [[Tower of Finding Out Obama's Last Name]] (ToFOOLN)
+
+== Appearances ==
+*OoIDC - [[Obelisk of Impossible Difficulty Chart]]
+*MoDDA - [[Monolith of Deadly Difficulties Approaching]]
+*GCoCIaND - [[Great Citadel of Custom, Impossible, and Normal Difficulties]]
+*GCoBID - [[Great Citadel of Beyond Impossible Difficulties]]
+*GMoEED - [[Great Monolith of Every EJT Difficulty]]
+*TIDC - [[The Infinite Difficulty Chart]]
+
+== Trivia ==
+* This difficulty was originated from OoIDC.
+
+== Gallery ==
+<gallery>
+55E4FCE4-94FB-4878-BB32-634BD2A065FE.jpeg|HoV's portal in OoIDC.
+OoEDA hov.jpg|HoV’s introduction sign in OoEDA.
+</gallery>
+
+== Continuing on from this point. ==
+After this stop you should trying to beat other towers. There’s no point wasting hundreds of hours of your life. Go touch grass, seek professional help or something.
+
+You still want more? Okay, go do {{Class4Difficulties|No|24px}} [[w:c:jtohs-hardest-towers:No|No]] difficulty.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:Humanly Impossible]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Difficulty]]

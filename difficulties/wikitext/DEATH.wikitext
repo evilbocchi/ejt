@@ -1,0 +1,18 @@
+__NOTOC__{{NewDifficultyInfobox|image1=<gallery>
+File:DEATHrevamp.png|Current
+File:DEATH.png|Old
+</gallery>|previous=[[No]]|next=[[HELL]]|title1=|caption1=|rating=19|decal_id=5891931233, 795922313|creator(s)=|type=Humanly impossible}}
+==What is '''DEATH'''?==
+'''DEATH''' is a difficulty assigned to towers that are harder than [[No]] difficulty and easier than [[HELL]]. It is represented by a red skull on top of a background with the color black and a red outline. Towers in this difficulty are humanly impossible.
+== Towers in this difficulty ==
+
+*ToMP - [[Tower of Mental Playground]] (Low DEATH)
+
+==Trivia== 
+
+*Towers in this difficulty are as hard as tie<nowiki/>r 24 obbies.
+*The difficulty icon is taken from one of [[nil]]<nowiki/>'s old difficulty icons.
+*[[Tower of Mental Playground]] was the first and currently the only non-joke tower to be in this difficulty.
+
+[[Category:Difficulties]]
+[[Category:DEATH]]

@@ -1,0 +1,79 @@
+__NOTOC__{{Humanly Impossible}}
+{{BetterQuote|text=It is astounding that you made it here.
+After all of those difficulties, saying that they’re “humanly impossible” and “you will not beat this”. 
+Countless impossible difficulties.
+They were all saying the same thing..
+
+Oh how wrong they all were.
+But now..
+You are face to face, with one of the penultimate difficulties before you come across your first legendary.
+There is one objective left after this, before.. well, supremity.
+
+I wish you the best of luck on your obbyist journey.|quoter=The average sign in a DCT when you reach [[File:Shocking.png|30x30px]] <span style="background:linear-gradient(90deg,red,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Shocking</span>.}}{{NewDifficultyInfobox|title1=[[File:Shocking.png|30x30px]] <span style="background:linear-gradient(90deg,red,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Shocking</span>|image1=Shocking.png|caption1=It’s really shocking that you’re even here.|class=[[:Category:Class 6|Class 6]]|type=[[:Category:Sub-Difficulties|Sub-Difficulty]]|previous=[[File:Insistent.png|30px]] [[Insistent]]|next=[[File:Hi.png|30px]] [[Victor]]|class_range=[[:Category:Class 6|Mid]]|difficulty_range=Low to High|decal_id=[https://create.roblox.com/store/asset/11825718876/Shocking 11825718876]|creator(s)=[[User:Noobinthetrash|Noobinthetrash]]|main_difficulty=[[File:Insistent.png|30px]] [[Insistent]]|rating=53.5}}
+
+==[[File:Shocking.png|30x30px]] <span style="background:linear-gradient(90deg,red,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Shocking'''</span> - Introduction==
+[[File:Shocking.png|30x30px]] <span style="background:linear-gradient(90deg,red,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Shocking'''</span> is a Mid Class 6 sub-difficulty, lodged between [[File:Insistent.png|30px]] [[Insistent]] and [[File:Hi.png|30px]] [[Victor]]. This difficulty has originated from the ‘JToH’s Joke Towers Revamp Wiki’, and has been brought here due to the wiki being abandoned minutes after being created. Pretty pointless, right? Moving on from that. 
+
+This difficulty possesses gruelling obstacles that no lifeform could dream of even passing, and boost items like Gravity Coil and a TAS so complex, very few humans currently comprehend must be used if you even want to get past the first obstacle. As such, representations of this difficulty are often undermined by issues like inaccuracies and repetitive, unfun gameplay, due to play testing being a dubious, near-physically impossible task, and original, fun mechanics being practically impossible to make at this stage of obby-building. 
+
+This difficulty is also notorious for its tendency to randomly instakill the player for seemingly no reason at a 1% chance every minute, and towers of that difficulty are about 30 minutes long. 
+
+==Icon Representation ==
+For people who are blind, and have someone else reading the page '''for''' them, then I will put this for them. Yeah, I know it’s pointless, since like 2 people here are blind, but cry about it.[[File:Shocking.png|center|frameless|60x60px]]
+It is a lightish red to lightish navy gradient, with a red, shocked emoticon (1’o’1) in the middle, rotated by 7 degrees.
+
+==Obstacles==
+
+===Low===
+
+*Do a 16.1 stud jump (Unclimbable).
+*Do a 17.1 stud jump (Climbable).
+*Do a 16.1 stud wraparound. (Climbable)
+*Do a 16 stud wraparound. (Unclimbable)
+
+===Middle===
+
+*Do a 16.3 stud jump (Unclimbable).
+*Do a 17.3 stud jump (Climbable).
+*Do a 16.3 stud wraparound. (Climbable)
+*Do a 16.2 stud wraparound. (Unclimbable)
+
+===High===
+
+*Do a 16.5 stud jump (Unclimbable).
+*Do a 17.5 stud jump (Climbable).
+*Do a 16.5 stud wraparound. (Climbable)
+*Do a 16.5 stud wraparound. (Unclimbable)
+
+==Towers with this difficulty==
+
+===Non-Fictional===
+
+*[[Box of Extremely Punishing Obstacles]] (BoEPO) (Peak)
+
+=== Fictional===
+
+*All Tower: Mega Nerfed (AT:N) (Low)
+*Citadel of The Antepenultimate Stride (CoTAS) (Middle)
+
+=== Other Appearances===
+
+* N/A
+
+==Trivia==
+
+*The creator was considering making this the new penultimate difficulty before Supreme.
+**This wasn't intended but it is now
+*You can read the JJT Revamp version [[w:c:jtohs-joke-towers-revamp:Shocking|here]].
+*It wan only one difficulty between difficulty that been deleted/moved to higher class ([[File:Desmos.png|30x30px]] [[Desmos]] and [[File:Gloomy.jpeg|30x30px]] [[Gloomy]]) which is not been affected.
+**Only moved to Class 7. 
+***Only moved again to class 6.
+
+== Continuing on from this point==
+After beating Shocking, you can now move onto your fourt-, nevermind you dont still at the final difficulty, do [[File:Hi.png|30px]] [[Victor]].
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Humanly Impossible]]
+[[Category:Class 6]]

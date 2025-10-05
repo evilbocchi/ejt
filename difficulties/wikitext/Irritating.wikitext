@@ -1,0 +1,139 @@
+<div style="background:#65040d;padding:1em;font-family:rubik;border:25px solid #420000">
+{{NoticeScrollboxNew|Notices=
+{{Humanly Possible}}
+}}
+{{NewDifficultyInfobox
+|title1 = Irritating
+|image1 = <gallery>
+irritating square.PNG | New
+Irritating.png | Old
+</gallery>
+|class = [[:Category:Class 2|Class 2]]
+|type = [[:Category:Sub-Difficulties|Sub Difficulty]]
+|previous = {{Class2Difficulties|Challenging}} {{jtoh|Challenging}}
+|next = {{Class2Difficulties|Maniacal}} [[Maniacal]]
+|alt_previous = 
+|alt_next = 
+|rating = 5.25
+|decal_id = Not Available
+|main_difficulty = {{Class2Difficulties|Challenging}} {{jtoh|Challenging}}
+|date_added = 3/15/21
+|hex_color = #e52313
+|rbg_color= 66, 0, 3 (New)
+|cmyk_color = 0%, 100%, 100%, 74% (New)
+|hsv_color = 0%, 100°, 26° (New)
+|hsl_color = 0%, 100°, 13° (New)
+|rgb_color=66,0,0}}
+
+== Introduction - [[File:irritating square.PNG|30px]] <span style="color:#B00000">Irritating</span> ==
+[[File:irritating square.PNG|30px]] <span style="color:#B00000">'''Irritating'''</span> is a sub-difficulty of {{Class2Difficulties|Challenging}} [[w:c:jtoh:Challenging|Challenging]], residing between {{Class2Difficulties|Challenging}} {{jtoh|Challenging}} and {{Class2Difficulties|Maniacal}} [[Maniacal]] with a rating of 5.25. This difficulty is in class 2 which means that it is humanly possible. However, it is difficult for the average Obbyist to complete towers of this difficulty. Using this logic, the average MEGA FUN OBBY player will struggle and potentially give up after a few jumps on this difficulty. Consider beating a tower of this difficulty an achievement.
+
+[[File:irritating square.PNG|30px]] <span style="color:#B00000">'''Irritating'''</span> is one of the transitions from {{Class2Difficulties|Challenging}} [[w:c:jtoh:Challenging|Challenging]] to {{Class2Difficulties|Intense}} [[w:c:jtoh:Intense|Intense]]. [[File:irritating square.PNG|30px]] <span style="color:#B00000">Irritating</span> has a rating of 5.25, this sub-difficulty is nested within the borders of low-mid {{Class2Difficulties|Challenging}} [[w:c:jtoh:Challenging|Challenging]]. This difficulty is usually beaten because of tower cleanups, as jumping from low to mid gives more skill than taking it slow and moving every segment up.               
+
+The recommended towers to beat in this difficulty are [[w:c:jtoh:Steeple of Climbing|Steeple of Climbing]] and [[w:c:jtoh:Tower of Break It, Buy It|Tower of Break It, Buy It]]. These two towers are excellent for skill progression as Steeple of Climbing is a tower that is near mid {{Class2Difficulties|Challenging}} [[w:c:jtoh:Challenging|Challenging]], usually towers in mid are completed after one or two easier towers of the same difficulty are beaten. If you are going from a highest of peak {{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]], you may try [[w:c:jtoh:Tower of Break It, Buy It|Tower of Break It, Buy It]] as it is modern and can prepare you for harder and more modern towers, the only downside though is ToBIBI is all the way in Zone 6, which is very far from the early areas of JToH.
+
+== Icon Representation - [[File:irritating square.PNG|30px]] <span style="color:#B00000">Irritating</span> ==
+{| class="fandom-table"
+|+'''Icon Representation'''
+!'''Name'''
+!'''Icon'''
+!'''Description'''
+!'''Creator'''
+|-
+|Old Icon
+|[[File:Irritating.png|100px]]
+|This icon is a light red gradient with red lines that are 255, 0, 0 in RGB.
+|Made by [[User:Fakealizer|Fakealizer]].
+|-
+|New Icon
+|[[File:irritating square.PNG|100px]]
+|This icon is a dark shade of red.
+|Made by [[User:Monstar1567|Monstar1567]].
+|}
+
+== Obstacles - [[File:irritating square.PNG|30px]] <span style="color:#B00000">Irritating</span> ==
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Jumps
+| style="background-color: #014500;" |10.2 stud jumps
+| style="background-color: #336000;" |10.25 stud jumps
+| style="background-color: #6d5c00;" |10.3 stud jumps
+| style="background-color: #964a00;" |10.35 stud jumps
+| style="background-color: #5a0000;" |10.4 stud jumps
+|-
+|Jumps (Unclimbable)
+| style="background-color: #014500;" |10 stud jumps
+| style="background-color: #336000;" |10.05 stud jumps
+| style="background-color: #6d5c00;" |10.1 stud jumps
+| style="background-color: #964a00;" |10.15 stud jumps
+| style="background-color: #5a0000;" |10.2 stud jumps
+|-
+|Wraparounds
+| style="background-color: #014500;" |7 stud wraparounds
+| style="background-color: #336000;" |7.1 stud wraparounds
+| style="background-color: #6d5c00;" |7.2 stud wraparounds
+| style="background-color: #964a00;" |7.3 stud wraparounds
+| style="background-color: #5a0000;" |7.4 stud wraparounds
+|-
+|Stickouts
+| style="background-color: #014500;" |2.15 stud stickout
+| style="background-color: #336000;" |2.175 stud stickout
+| style="background-color: #6d5c00;" |2.2 stud stickout
+| style="background-color: #964a00;" |2.225 stud stickout
+| style="background-color: #5a0000;" |2.25 stud stickout
+|}
+
+== Towers - [[File:irritating square.PNG|30px]] <span style="color:#B00000">Irritating</span> ==
+=== Towers in this difficulty ===
+<tabber>
+|-|
+Non-Fiction=
+*[[w:c:jtoh:Tower of Pure Chroma|Tower of Pure Chroma]]
+*[[w:c:jtoh:Tower of Pleasant Fantasies|Tower of Pleasant Fantasies | Revamp]] | Played [https://www.roblox.com/games/5685778753/ToPF-R Here]
+*[[Steeple of Abandoned Fractures]] (SoAF)
+*[[Tower of Traps Fake Parts]] (ToTFP)
+|-|
+Fictional=
+*Tower of Unaverageness (ToU)
+</tabber>
+=== Towers with this difficulty ===
+<tabber>
+|-|
+Non-Fiction=
+*[[Great Citadel of Beyond Impossible Difficulties]] (GCoBID)
+*[[Great Citadel of Hellish Difficulties]] (GCoHD)
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+
+|-|
+Fictional=
+*N/A
+</tabber>
+
+== Trivia - [[File:irritating square.PNG|30px]] <span style="color:#B00000">Irritating</span> ==
+* The icon was made using Microsoft Office PowerPoint 2007.
+* This difficulty had a revamp on 11 July 2023, but it hasn't been finished until 30 August 2023.
+
+== Gallery - [[File:irritating square.PNG|30px]] <span style="color:#B00000">Irritating</span> ==
+<gallery widths="185">
+Irritating.png|The old image for Irritating.
+</gallery>
+
+== Continuing on ==
+GG, this is a difficulty that most Roblox players struggle on, so if you successfully beat a tower of this difficulty you have proven yourself to be an above-average Roblox player in terms of obbies. Move on to the [[Maniacal]] difficulty towers. If you want a bigger jump in skill, you can attempt [[w:c:jtoh:Intense|Intense]] difficulty towers.
+{{DifficultiesNavbox}}
+
+<br />
+</div>
+[[Category:Difficulties]]
+[[Category:Class 2]]
+[[Category:Sub-Difficulties]]
+[[Category:One color icon]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]

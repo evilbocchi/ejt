@@ -1,0 +1,157 @@
+<div style="background:#32196e10;padding:1.2em;border-left:10px solid #47307d">{{Humanly Possible}}
+{{CSS|content=<nowiki>
+
+#Complex{
+    font-weight: 900;
+    color: #47307d
+}
+#Relentless{
+    font-weight: 900;
+    color: #5900ff
+}
+#Vexatious{
+    font-weight: 900;
+    color: #3d28c9
+}
+#Insane{
+    font-weight: 900;
+    color: #00f
+}
+
+#Thanos{
+    font-weight: 900;
+    color: #440096
+}
+#Classical{
+    font-weight: 900;
+    color: #0091ff
+}
+#Destruction{
+    font-weight: 900;
+    color: #0d1036;
+    text-shadow: -0.04em 0.04em #fff, 0 0.04em #fff, 0.04em 0.04em #fff, -0.04em 0 #fff, 0.04em 0 #fff, -0.04em -0.04em #fff, 0 -0.04em #fff, 0.04em -0.04em #fff, 0 0.15em 0.15em #000, 0 -0.15em 0.15em #000, 0 0 0.3em #fff
+}
+#ComplexOld{
+    font-weight: 900;
+    background: -webkit-linear-gradient(left, #ec1c24 50% ,#ff7f27 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#Meshuga{
+    font-weight: 900;
+    background: -webkit-linear-gradient(#00f,#C800C8,#19222D);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+</nowiki>}} {{ArticleTab|blankgal=|changebg=#47307d}}
+{{NewDifficultyInfobox
+|class=[[:Category:Class 3|Class 3]]|main_difficulty=[[File:VexatiousShapedIcon.png|36px]] <span id="Vexatious ">Vexatious</span>, formerly [[File:RelentlessShapedIcon.png|link=Relentless|36px]] <span id="Relentless">Relentless</span>|creator(s)=Astrominal|date_added=January 9, 2022|hex_color=Current: #47307d
+Old: #32196e|image1=<gallery>
+ComplexShapedIcon.png|Current
+Complex.png|Square
+</gallery>|next=[[File:InsaneShapedIcon.png|30px|link=w:c:jtoh:Insane]] <span id="Insane">Insane</span>|previous=[[File:VexatiousShapedIcon.png|30px]] <span id="Vexatious">Vexatious</span>|title1=Complex|type=Soul Crushing, Sub-Difficulty|short_name=|original_class=|rating=8.75 EJT<br> 8.05-8.09* EToH|rgb_color=Current: 71, 48, 125
+Old: 50, 25, 110|cmyk_color=Current: 43%, 62%, 0%, 51%
+Old: 55%, 77%, 0%, 57%|hsv_color=Current: 258°, 62%, 49%
+Old: 257°, 77%, 43%|hsl_color=Current: 258°, 45%, 34%
+Old: 257°, 63%, 26%}}
+
+[[File:ComplexShapedIcon.png|30px]] <span id="Complex">Complex</span> is a [[:Category:Sub-Difficulties|sub-difficulty]] located at [[w:c:jtoh:SC|Soul Crushing]] (SC) territory/Baseline [[:Category:Class 3|Class 3]] (C3 between [[File:VexatiousShapedIcon.png|30px]] <span id="Vexatious">Vexatious</span> and [[File:InsaneShapedIcon.png|link=w:c:jtoh:Insane|30px]] <span id="Insane">Insane</span>. This difficulty is also the first sub-difficulty in Baseline C3, with the following sub-difficulties being [[File:ThanosIcon.jpeg|26px|link=w:c:jtoh:Thanos_(Difficulty)]] <span id="Thanos">Thanos</span> and [[File:ClassicalHighQuality.png|26px|link=Classical]] <span id="Classical">Classical</span>. Alongside these difficulties are exclusive to the EJT Wiki, with the main difficulty of <span id="Complex">Complex</span> being [[File:VexatiousShapedIcon.png|30px]] <span id="Vexatious">Vexatious</span>. 
+
+[[File:ComplexShapedIcon.png|30px]] <span id="Complex">Complex</span> formerly belonged to [[File:RelentlessShapedIcon.png|link=Relentless|30px]] <span id="Relentless">Relentless</span> as the last difficulty branching Regular and SC difficulties, between sub-difficulties [[File:Destruction_difficulty.png|26px|link=User blog:EpicTheGamer2014/Destruction]] <span id="Destruction">Destruction</span> and [[File:ThanosIcon.jpeg|26px|link=w:c:jtoh:Thanos_(Difficulty)]] <span id="Thanos">Thanos</span>. As well, it was originally planned to be a C8 difficulty before moving down to Peak C2, and is currently positioned at Baseline C3. However, there was another difficulty named [[File:Complex dif.PNG|26px]] <span id="ComplexOld">Complex</span> by [[User:Bruhshard1|Bruhshard1]], which was located in C5, created in 2022, and deleted the same year.
+
+Going by the EToH difficulty chart, <span id="Complex">Complex</span> ranges from 8.05-8.09* (8.75-8.99 in EJT). Being the introduction of SC towers, there are currently a few towers that range this difficulty, being [[w:c:jtoh:TT|Thanos Tower]] (8.05), [[w:c:jtoh:Z7TR|Zone 7 Tower Rush]] (8.06), and [[w:c:jtoh:ToYAS(M)|Tower of You're A Star]] (8.08) in EToH.
+==Icon==
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+! colspan="5" style="text-align:center; width:1%;" |'''<big>Complex's Icon</big>'''
+|-
+! colspan="2" |Icon
+! colspan="3" |Description 
+|-
+| colspan="2" |[[File:ComplexShapedIcon.png|200px]]
+| colspan="3" |This icon is made by [[User:Astrominal|Astrominal]], it features a 3-pointed star, which represents a transition between <span id="Vexatious">Vexatious</span> to <span id="Insane">Insane</span>, with the color being dark purplish.
+|-
+| colspan="2" |[[File:Complex.png|200px]]
+| colspan="3" |This icon is pretty much the same as the current one, but this time it is a square instead of a star.
+|-
+!HEX
+!RGB
+!CMYK
+!HSV
+!HSL
+|-
+|#47307d
+|71, 48, 125
+|43%, 62%, 0%, 51%
+|258°, 62%, 49%
+|258°, 45%, 34%
+|-
+| colspan="2" |[[File:ComplexOriginalIcon.png|200px]]
+| colspan="3" |This icon is pretty much like the square version, but it's a darker purple.
+|-
+!HEX
+!RGB
+!CMYK
+!HSV
+!HSL
+|-
+|#32196e
+|50, 25, 110
+|55%, 77%, 0%, 57%
+|257°, 77%, 43%
+|257°, 63%, 26%
+|}
+==Towers in this Difficulty (Organized by Fangame)==
+<tabber>
+|-|
+EToH=
+===Eternal Towers of Hell===
+*[[w:c:jtoh:TT|Thanos Tower]] (8.05) (Ring 1)
+*[[w:c:jtoh:Z7TR|Zone 7 Tower Rush]] (8.06) (Zone 7)
+*[[w:c:jtoh:ToYAS(M)|Tower of You're A Star]] (8.08) (Monthly Tower)
+
+|-|
+EToH: XL=
+===Eternal Towers of Hell XL===
+*[[w:c:etoh-xl:CoGaH|Citadel of Glitching and Healing]] (8.06) (Ring 5)
+*[[w:c:etoh-xl:BK|Burj Khalifa]] (8.09) (AF2024)
+*[[w:c:etoh-xl:R3CR|Ring 3 Citadel Rush]] (8.09) (Ring 3)
+
+|-|
+AToS=
+===Another's  Towers of Stupidity===
+*[[w:c:atos:ToTU|Tower of Throttling Up]] (8.05) (Ring 1)
+|-|
+CSCD=
+===Caleb's Soul Crushing Domain===
+*[[w:c:cscdroblox:ToDB|Tower of Difficulty Breezing]] (8.05) (Scope 2)
+*[[w:c:cscdroblox:GCoTDI|Great Citadel of The Deserts Inferno]] (8.05) (Fools Nil Zone)
+</tabber>
+
+==Towers in this Difficulty (Organized by position in the Difficulty Chart)==
+<tabber>
+|-|
+Regular Towers=
+===Regular Towers===
+*[[w:c:jtoh:TT|Thanos Tower]] (8.05) (Ring 1/EToH)
+*[[w:c:atos:ToTU|Tower of Throttling Up]] (8.05) (Ring 2/AToS)
+*[[w:c:cscdroblox:ToDB|Tower of Difficulty Breezing]] (8.05) (Scope 2/CSCD)
+*[[w:c:etoh-xl:CoGaH|Citadel of Glitching and Healing]] (8.06) (Ring 5/EToH:XL)
+*[[w:c:jtoh:ToYAS(M)|Tower of You're A Star]] (8.08) (Monthly Tower/EToH)
+
+|-|
+Tower Rushes=
+===Tower Rushes===
+*[[w:c:jtoh:Z7TR|Zone 7 Tower Rush]] (8.06) (Zone 7/EToH))
+*[[w:c:etoh-xl:R3CR|Ring 3 Citadel Rush]] (8.09) (Ring 3/EToH:XL)
+
+|-|
+Event Towers=
+===Event Towers===
+*[[w:c:cscdroblox:GCoTDI|Great Citadel of The Deserts Inferno]] (8.05) (Fools Nil Zone/CSCD)
+*[[w:c:etoh-xl:BK|Burj Khalifa]] (8.09) (AF2024/EToH:XL)
+</tabber>
+==Trivia==
+*This difficulty is meant to be a replacement for [[File:MeshugaNew.png|26px|link=Meshuga]] <span id="Meshuga">Meshuga</span>.
+{{DifficultiesNavbox}}
+[[Category:Sub-Difficulties]]
+[[Category:Class 3]]

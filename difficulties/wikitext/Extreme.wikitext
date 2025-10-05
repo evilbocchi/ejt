@@ -1,0 +1,146 @@
+{{DISPLAYTITLE:<span style="color:#088CFC">'''Extreme'''</span>}}__NOEDITSECTION____NOTOC__{{DifficultyTab
+|Extreme|textcolormain=FFF
+|difficulty1=Insane
+|change1=Thanos
+|diffcolor1=0000FF
+|textcolor1=FFF
+|difficulty2=Terrifying
+|diffcolor2=01FFFF
+|textcolor2=000
+|type=Soul Crushing}}{{DifficultyInfobox
+|title1=Extreme
+|image1=<gallery>
+extricon.png|Current
+ExtremeIcon100.png|Old
+</gallery>
+|type=[[Soul Crushing|Soul-Crushing]]
+|previous={{Difficulty|Insane}} [[Insane|<span id="Insane">'''Insane'''</span>]]
+|next={{Difficulty|Terri}} [[Terrifying|<span id="Terrifying">'''Terrifying'''</span>]]
+|rbg_color=DC: 51, 88, 130
+Menus: 2, 138, 255
+|hex_color=DC: #327DFF
+Menus: #0287FF
+|cmyk_color=DC: 61%, 32%, 0%, 49%
+Menus: 99%, 46%, 0%, 0%
+|hsv_color=DC: 211°, 60%, 50%
+Menus: 207°, 99%, 100%
+|hsl_color=DC: 212°, 44%, 35%
+Menus: 208°, 100%, 50%
+|roblox_name=DC: Storm blue}}
+{{Difficulty|Extreme|20px}} <span id="Extreme">[[Extreme]]</span> is a [[difficulty]] in '''EToH''' that is represented with a cerulean 4-pointed star. This difficulty level is the second [[Soul Crushing|Soul-Crushing]] difficulty, and the third hardest canon difficulty currently in-game. Obstacles in [[Tower]]s of this difficulty are harder than those in [[Insane|<span id="Insane">'''Insane'''</span>]], with obstacles being noticeably more difficult and taking a lot longer to overcome than the difficulty before it.   
+
+There are currently 13 towers (18 including events) confirmed for the game assigned to this difficulty rating. [[Tower of Frightening Nightmares]] and [[Tower of Fractured Memories]] were previously <span id="Extreme">[[Extreme]]</span>, but they were moved to <span id="Terrifying">'''Terrifying'''</span>. [[Tower of Thinning Layers]], [[Tower of Double Trouble]], [[Tower of Confusion]], [[Tower of Frightening and Confusing Trials]], [[Tower of Hollow Reformations]] and [[Tower of Great Displeasure]] were also previously <span id="Extreme">[[Extreme]]</span>, but the first five towers were changed to <span id="Insane">'''Insane'''</span>, and the last one was changed to [[Remorseless|<span id="Remorseless">'''Remorseless'''</span>]]. [[Tower of Frightening and Confusing Trials]] was previously <span id="Insane">'''Insane'''</span> but was moved to this difficulty.
+{{Header|Towers in this Difficulty (Organized by Realm)}}
+<tabber>
+Ring 6=
+<div align=center><font size=5>{{Emblem|R6}} [[Ring 6]] {{Emblem|R6}}</font></div>
+*ToSM - [[Tower of Strategic Mechanics]] - Mid Extreme (9.46)
+|-|
+Ashen Towerworks=
+<div align=center><font size=5>{{Emblem|AT}} [[Ashen Towerworks]] {{Emblem|AT}}</font></div>
+*To<span style="color:#FF0000">W</span>F - [[Tower of Wicked Fortress]] - Low-Mid Extreme (9.39)
+|-|
+Ring 7=
+<div align=center><font size=5>{{Emblem|R7}} [[Ring 7]] {{Emblem|R7}}</font></div>
+*ToTB - [[Tower of Terrifying Beauty]] - Low-Mid Extreme (9.43)
+*ToIP - [[Tower of Increasing Pressure]] (deconfirmed)
+|-|
+Ring 8=
+<div align=center><font size=5>{{Emblem|R8}} [[Ring 8]] {{Emblem|R8}}</font></div>
+*ToMT:GE - [[Tower of Mean Tasks#GBJ Edition| Tower of Mean Tasks: GBJ Edition]] 
+*ToSO - [[Tower of Suffering Outside]] - Mid Extreme (9.53)
+*ToEI - [[Tower of Externalizing Insanity]] - Peak Extreme (9.95)
+|-|
+Ring 9=
+<div align=center><font size=5>{{Emblem|R9}} [[Ring 9]] {{Emblem|R9}}</font></div>
+*ToFaCT - [[Tower of Frightening and Confusing Trials]] - Bottom Extreme (9.05)
+*ToBK - [[Tower of Bloodthirsty Kenos]] - Bottom Extreme (9.08)
+|-|
+Zone 3=
+<div align=center><font size=5>{{Emblem|Z3}} [[Zone 3]] {{Emblem|Z3}}</font></div>
+*ToHH - [[Tower of Hopeless Hell]] - Low-Mid Extreme (9.36)
+|-|
+Zone 4=
+<div align=center><font size=5>{{Emblem|Z4}} [[Zone 4]] {{Emblem|Z4}}</font></div>
+*ToAAA - [[Tower of Astronomically Aimless Annoyances]] - Low Extreme (9.25)
+|-|
+Zone 6=
+<div align=center><font size=5>{{Emblem|Z6}} [[Zone 6]] {{Emblem|Z6}}</font></div>
+*ToTDA - [[Tower of The Dripping Amalgam]] - Mid Extreme (9.55)
+|-|
+Zone 8=
+<div align=center><font size=5>{{Emblem|Z8}} [[Zone 8]] {{Emblem|Z8}}</font></div>
+*ToAE - [[Tower of Astral Eclipse]] - Baseline Extreme (9.00)
+|-|
+Zone 9=
+<div align=center><font size=5>{{Emblem|Z9}} [[Zone 9]] {{Emblem|Z9}}</font></div>
+*ToPB - [[Tower of Panelling Barricades]] - Bottom-Low Extreme (9.16)
+|-|
+Zone 10=
+<div align=center><font size=5>{{Emblem|Z10}} [[Zone 10]] {{Emblem|Z10F}}</font></div>
+*ToRoMW:A - [[Tower of Rain on My World#Rain Mode|Tower of Rain on My World: Ascension]]
+*ToBP - [[Tower of Blast Power]] - Mid-High Extreme (9.60)
+|-|
+Event Towers=
+{{#tag:tabber
+|April Fools 2024=
+<div align=center><font size=5>{{Emblem|AF2024}} [[April Fools 2024]] {{Emblem|AF2024}}</font></div>
+*T1 - [[Tower 1]] - Low Extreme (9.29)
+{{!}}-{{!}}
+100Mil Event=
+<div align=center><font size=5>{{Emblem|R1}} [[100Mil Event]] {{Emblem|R1}}</font></div>
+*100MR - [[100M Revenge]] - Peak Extreme (9.92)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*MOoMO - [[Mini Obelisk of Mini Obelisk]] - Bottom-Low Extreme (9.13)
+*TogM - [[Tower of g Möller]] - Low Extreme (9.27)
+*CoW - [[Citadel of Walkies]] - Low-Mid Extreme (9.42)
+}}
+|-|
+Tower Rushes=
+<div align=center><font size=5>{{Difficulty|TowerRush}} [[Tower Rush]]es {{Difficulty|TowerRush}}</font></div>
+*R5TR - [[Ring 5 Tower Rush]] - Bottom Extreme (9.07)
+*TSATR - [[The Starlit Archives Tower Rush]] - High Extreme (9.77)
+*R8TR - [[Ring 8 Tower Rush]] - Bottom Extreme (9.05)
+*Z4TR - [[Zone 4 Tower Rush]] - Bottom Extreme (9.06)
+*Z9TR - [[Zone 9 Tower Rush]] - Peak Extreme (9.89)
+*TLCTR - [[Time-Lost Clockwork Tower Rush]] - Mid Extreme (9.53)
+</tabber>
+{{Header|Towers in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+* {{emblem|Z8|20px}} ToAE - [[Tower of Astral Eclipse]] - Baseline Extreme (9.00) {{emblem|Z8|20px}}
+* {{emblem|R9|20px}} ToFaCT - [[Tower of Frightening and Confusing Trials]] - Bottom Extreme (9.05) {{emblem|R9|20px}}
+* {{emblem|R9|20px}} ToBK - [[Tower of Bloodthirsty Kenos]] - Bottom Extreme (9.08) {{emblem|R9|20px}}
+* {{emblem|Z9|20px}} ToPB - [[Tower of Panelling Barricades]] - Bottom-Low Extreme (9.16) {{emblem|Z9|20px}}
+* {{emblem|Z4|20px}} ToAAA - [[Tower of Astronomically Aimless Annoyances]] - Low Extreme (9.25) {{emblem|Z4|20px}}
+* {{emblem|Z3|20px}} ToHH - [[Tower of Hopeless Hell]] - Low-Mid Extreme (9.36) {{emblem|Z3|20px}}
+* {{emblem|AT|20px}} To<span style="color:#FF0000">W</span>F - [[Tower of Wicked Fortress]] - Low-Mid Extreme (9.39) {{emblem|AT|20px}}
+* {{emblem|R7|20px}} ToTB - [[Tower of Terrifying Beauty]] - Low-Mid Extreme (9.43) {{emblem|R7|20px}}
+* {{emblem|R6|20px}} ToSM - [[Tower of Strategic Mechanics]] - Mid Extreme (9.46) {{emblem|R6|20px}}
+* {{emblem|R8|20px}} ToSO - [[Tower of Suffering Outside]] - Mid Extreme (9.53) {{emblem|R8|20px}}
+* {{emblem|Z6|20px}} ToTDA - [[Tower of The Dripping Amalgam]] - Mid Extreme (9.55) {{emblem|Z6|20px}}
+* {{emblem|Z10|20px}} ToBP - [[Tower of Blast Power]] - Mid-High Extreme (9.60) {{emblem|Z10F|20px}}
+* {{emblem|R8|20px}} ToEI - [[Tower of Externalizing Insanity]] - Peak Extreme (9.95) {{emblem|R8|20px}}
+|-|
+Event Towers=
+* {{emblem|AF2025|20px}} MOoMO - [[Mini Obelisk of Mini Obelisk]] - Bottom-Low Extreme (9.13) {{emblem|AF2025|20px}}
+* {{emblem|AF2025|20px}} TogM - [[Tower of g Möller]] - Low Extreme (9.27) {{emblem|AF2025|20px}}
+* {{emblem|AF2024|20px}} T1 - [[Tower 1]] - Low Extreme (9.29) {{emblem|AF2024|20px}}
+* {{emblem|AF2025|20px}} CoW - [[Citadel of Walkies]] - Low-Mid Extreme (9.42) {{emblem|AF2025|20px}}
+* {{emblem|R1|20px}} 100MR - [[100M Revenge]] - Peak Extreme (9.92) {{emblem|R1|20px}}
+|-|
+Tower Rushes=
+* {{emblem|R8|20px}} R8TR - [[Ring 8 Tower Rush]] - Bottom Extreme (9.05) {{emblem|R8|20px}}
+* {{emblem|Z4|20px}} Z4TR - [[Zone 4 Tower Rush]] - Bottom Extreme (9.06) {{emblem|Z4|20px}}
+* {{emblem|R5|20px}} R5TR - [[Ring 5 Tower Rush]] - Bottom Extreme (9.07) {{emblem|R5|20px}}
+* {{emblem|TLC|20px}} TLCTR - [[Time-Lost Clockwork Tower Rush]] - Mid Extreme (9.53) {{emblem|TLC|20px}}
+* {{emblem|TSA|20px}} TSATR - [[The Starlit Archives Tower Rush]] - High Extreme (9.77) {{emblem|TSA|20px}}
+* {{emblem|Z9|20px}} Z9TR - [[Zone 9 Tower Rush]] - Peak Extreme (9.89) {{emblem|Z9|20px}}
+</tabber>
+{{Difficulty Navibox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Extreme]]
+[[Category:Soul Crushing]]

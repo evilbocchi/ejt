@@ -1,0 +1,141 @@
+__NOTOC____NOTOC____NOTOC__
+<div style="background:#240066;padding:1em;font-family:rubik;border:25px solid #7a33ff">
+<br>
+{{NoticeScrollboxNew|Notices={{Inclusion|reason=Falsely TDEx'd}}
+{{Physically Impossible}}
+{{Visual Impairment|reason=Purple text on purple background.}}
+{{Large Page}}
+<small><small><small><small><small>You're still doing the clues? Dang, you're persistent. I want you to scroll down to the obstacles to find another one...</small></small></small></small></small>
+}}
+{{NewDifficultyInfobox|image1=<gallery>
+HowNewest.webp|New
+How‽.png|Old
+HowAlternate.webp|Alternate
+</gallery>|caption1=‽|class=High Class 8|previous=[[File:V is for.png|32x32px]] [[Vacant]]|next=[[File:ErrorisationRevamp.png|30x30px]] [[Errorisation]]|creator(s)=OrbentuneAlt|date_added=1/3/22|decal_id=[https://www.roblox.com/library/8985488588/How 8985488588]|previous_sub_difficulty(ies)=[[File:Uhh....png|frameless|30x30px]] [[Uhh...]]|revamp_date=18/5/23|revival_date=|rating=68.4|type=Normal, Phys. Impossible|alt_next=[[The Discord Limits]]|class_range=Low|alt_names=How?!}}
+==What is <span style="background: linear-gradient(90deg, #360099, #360099); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 2px 9px #360099; font-weight: bold;">How‽</span>?==
+<span style="background: linear-gradient(90deg, #360099, #360099); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 2px 9px #360099; font-weight: bold;">'''How‽'''</span> (also known as '''How?!''') is a High Class 8 difficulty before [[File:ErrorisationRevamp.png|30x30px]] [[Errorisation]], but after [[File:V is for.png|32x32px]] [[Vacant]]. This difficulty has absolutely absurd tricks and traps that it uses to stop you from beating it. Obstacles here will be unimaginably impossible, whether it's an insane long jump or an esoteric glitch, it doesn't matter. You won't be able to beat this legitimately, with boosts, with TAS. The only hope you have of beating this is with hacks or exploits, such as flying to the winpad. Oh, I've just received word that you can't even use hacks either. '''How fun!''' 
+
+==Icon Representation==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Difficulty’s Icons
+
+|-
+!Icon
+
+!Description
+|-
+| colspan="3" style="background: #220064; color: white" |'''Current'''
+|-
+|[[File:HowNewest.webp|frameless|250px]]
+|The new icon is basically the same as the old one, but more detailed. There is a darker purple border, as well as dark purple squares behind the How‽.
+|-
+| colspan="3" style="background: #220064; color: white" |'''Old'''
+|-
+|[[File:How‽.png|frameless|250px]]
+|The old icon is a dark bluish purple square with white drawn text saying "How‽". The '''‽''' is also called an interrobang.
+|-
+| colspan="3" style="background: #220064; color: white" |'''Alternate'''
+|-
+|[[File:HowAlternate.webp|frameless|250px]]
+|The alternate icon is the same as the old icon, but it has vignette, and there are multiple more Hows on the icon overlapped.
+|}
+
+
+==Obstacles in <span style="background: linear-gradient(90deg, #360099, #360099); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 2px 9px #360099; font-weight: bold;">'''How‽'''</span>==
+</div><div style="background:navy;padding:1em;font-family:rubik;border:25px solid blue">
+===Baseline How‽=== 
+
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">180 stud jump.</span>
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">179 stud unclimbable jump.</span>
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">178 stud wrap.</span>
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">177 stud cylinder wrap.</span>
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">176.5 stud killbrick wrap.</span>
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">176.5 stud raised jump.</span>
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">30x40 stud stickout.</span>
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">177 stud truss jump.</span>
+*<span style="background: linear-gradient(90deg, blue, blue); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px blue; font-weight: bold;">176.5 stud truss flick.</span>
+</div><div style="background:green;padding:1em;font-family:rubik;border:25px solid lime">
+===Low How‽=== 
+
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">181 stud jump.</span>
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">179.5 stud unclimbable jump.</span>
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">178.5 stud wrap.</span>
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">177.5 stud cylinder wrap.</span>
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">177 stud killbrick wrap.</span>
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">177 stud raised jump.</span>
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">31x41 stud stickout.</span>
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">177.5 stud truss jump.</span>
+*<span style="background: linear-gradient(90deg, lime, lime); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px lime; font-weight: bold;">177 stud truss flick.</span>
+</div><div style="background:#555500;padding:1em;font-family:rubik;border:25px solid yellow">
+===Mid How‽=== 
+
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">182 stud jump.</span>
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">180 stud unclimbable jump.</span>
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">179 stud wrap.</span>
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">178 stud cylinder wrap.</span>
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">177.5 stud killbrick wrap.</span>
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">177.5 stud raised jump.</span>
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">32x42 stud stickout.</span>
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">178 stud truss jump.</span>
+*<span style="background: linear-gradient(90deg, yellow, yellow); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px yellow; font-weight: bold;">177.5 stud truss flick.</span>
+</div><div style="background:#552200;padding:1em;font-family:rubik;border:25px solid orange">
+===High How‽=== 
+
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">183 stud jump.</span>
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">180.5 stud unclimbable jump.</span>
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">179.5 stud wrap.</span>
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">178.5 stud cylinder wrap.</span>
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">178 stud killbrick wrap.</span>
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">178 stud raised jump.</span><!-- Nice! You've found another clue! Now, you're gonna have to find certain letters in the difficulties I worked on.
+The first letter is E. -->
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">33x43 stud stickout.</span>
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">178.5 stud truss jump.</span>
+*<span style="background: linear-gradient(90deg, orange, orange); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px orange; font-weight: bold;">178 stud truss flick.</span>
+</div><div style="background:maroon;padding:1em;font-family:rubik;border:25px solid red">
+===Peak How‽===  
+
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">184 stud jump.<span>
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">181 stud unclimbable jump.</span>
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">180 stud wrap.</span>
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">179 stud cylinder wrap.</span>
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">178.5 stud killbrick wrap.</span>
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">178.5 stud raised jump.</span>
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">33x44 stud stickout.</span>
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">179 stud truss jump.</span>
+*<span style="background: linear-gradient(90deg, red, red); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px red; font-weight: bold;">178.5 stud truss flick.</span>
+</div><div style="background:black;padding:1em;font-family:rubik;border:25px solid #555555">
+===Skyline How‽=== 
+
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">185 stud jump.<span>
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">181.5 stud unclimbable jump.</span>
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">180.5 stud wrap.</span>
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">179.5 stud cylinder wrap.</span>
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">179 stud killbrick wrap.</span>
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">179 stud raised jump.</span>
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">34x45 stud stickout.</span>
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">179.5 stud truss jump.</span>
+*<span style="background: linear-gradient(90deg, #555555, #555555); background-clip: text; -webkit-background-clip: text; color: transparent;text-shadow:0 3px 5px #555555; font-weight: bold;">179 stud truss flick.</span>
+</div><div style="background:#240066;padding:1em;font-family:rubik;border:25px solid #7a33ff">
+==Tower Section==
+
+===Non-Fictional===
+
+*None so far.
+
+===Fictional===
+
+*Tower of Head Splitting
+*[[Tagged Tower]]
+
+==Trivia==
+*The ‽ is called an interrobang.
+*This difficulty was going to be Class 17 but was changed to low class 11, then low class 12. It was then revived and moved to class 8.
+
+==Continuing From How‽==
+Go to [[Errorisation]] if you want to continue further, continue playing this difficulty if you want to practice more.
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Class 8]]
+[[Category:Physically Impossible]]

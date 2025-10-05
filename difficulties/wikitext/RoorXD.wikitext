@@ -1,0 +1,96 @@
+__NOTOC__
+{{DISPLAYTITLE:RoorXD and Jesus Ballin'}}
+<tabber>
+|-|RoorXD=
+{{NewDifficultyInfobox
+|title1=RoorXD
+|image1=[[File:Roorxd2.png]]
+|caption1=RoorXD's current icon.
+|previous=[[File:Malicious.png|35px]] [[Malicious]]
+|next=[[File:JesusBallinDifficulty.png||35px]] [[Jesus Ballin'|<span style="color:#00ffa5">'''Jesus Ballin''''</span>]]
+|rating=27}}
+==What is RoorXD?==
+
+'''RoorXD''' is a difficulty that is represented with the color black with a white skull on it. '''RoorXD''' is placed above Malicious in the difficulty chart as it is physically impossible. Obstacles in '''RoorXD''' are unverified, or are unintentionally impossible. 
+
+Anything classified as '''RoorXD''' DIFFICULTY means it was built with the intention of being a different difficulty, but instead was impossible. Individual jumps classified as RoorXD are not verified. 
+
+Basically, it's similar to the function of [[w:c:jtoh:TooHard|TooHard]] ([[WHY]]) in EToH, making it theoretically the hardest EHT difficulty.
+
+
+|-|Jesus Ballin'=
+{{NewDifficultyInfobox|title1=Jesus Ballin'|caption1=jesus b a l l i n|next=|image1=Jess2.png|previous=[[RoorXD]]|next=Nothing. If you are seeking [https://jtohs-joke-towers.fandom.com/wiki/Main_Difficulty_Chart more difficulties], go to the EJT wiki.|rating=28}}
+==What is <span style="color:#00ffa5">'''Jesus Ballin''''</span>?==
+<span style="color:#00ffa5">'''Jesus Ballin''''</span>, usually referred to as <span style="color:#00ffa5">'''JesusBallin'''</span>, is a difficulty similar to [[RoorXD]], but is used to describe obbies that are intentionally made to be physically impossible. While jumps of [[RoorXD]] classification are unverified, jumps of <span style="color:#00ffa5">'''Jesus Ballin''''</span> classification are jumps that are known to be fully unverifiable no matter the circumstances (ex. 1000 stud jumps, unlocking a key door without a key, and first-attempting moon wallhops), even with TAS. use a TAS hacks from synapse, as the name suggests only Jesus can complete this difficulty and be balling.
+==='''NOTE: <u>No</u><span style="color:#00ffa5"> '''Jesus Ballin''''</span> towers are allowed on EHT. <u>Go put it in [[w:c:jtohs-joke-towers|EJT]] instead. Or don't, I can't stop you.</u>'''===
+
+==Trivia==
+*Despite the usage of [[RoorXD]] and <span style="color:#00ffa5">'''Jesus Ballin''''</span> on EHT, on EJT they are real difficulties with real obstacles. EJT RoorXD and [[w:c:jtohs-joke-towers:Jesus Ballin|<span style="color:#00ffc5">'''Jesus Ballin''''</span>]] are massively different from EHT [[RoorXD]] and <span style="color:#00ffa5">'''Jesus Ballin'''</span>.
+</tabber>
+<!-- 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::::::::::::::................................:::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::::::::::::::::::::............................::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::::::::::::::::::......................::::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::^^^^::::::::::::::::.............:::::::::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::^?YYYJJJ?!::::::::::::::::::.::::::::::::::::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::7G55YJJYYY!::::::::::::::::::::::::::::::::::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^77~^^^^~7J7::::::::::::::::::::::::::::::::::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^!5PPY5YYJYYY5P5J^:::::::::::::::::::::::::::::::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^?GP?YPJYP5J5BPY^:::::::::::::::::::::::::::::::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~7~7?!7J?!?J!^:::::::::::::::::::::::::::::::::::::::::^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~!7??J7?!~^::^^:::::::::::::::::::::::::::::::::::::^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~!!!7~!!~^^^^^^^:::::::::::::::::::::::::::::::::^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~~!77!7JJJ7~^~^^^^^^^^^^::::::::::::::::::::::^:^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~7?J5YJ5J???7!~~?77!~^^^^^^^^^^^::::::::::::^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~~!~^^7YY55YJYY??7777~?????77~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~~~~!JJ7!JYYYYYJJJ!~?J?^~?????????7^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~^^^~^^~~~^~~~~~~^^^^^^^^^~~~~~~~~7JYY?JYJJJJJJJ?^!JJ~????????JJ?^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!JJ??~~?JJJJJJJJ!?JJJ??J????JJJY!^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!7~!7??JYJJJJJJYJYJYJJJJJJJJJY5Y7^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!!7^~77J5YYYYYYYJY5JYYJYJJJJJYYY5P?~~~^^^^^^^^^^^^^^^^^^^^^^^^^~~^^~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!!?YJ7?JJ55555555YJ55YYYJJJYYYY55J5Y~~~~~~^^^^^^^^^^^^^^^^^~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!!7YY#B#BPBGPPPP5555Y55YJYYYY5555YYJJ!~~~~~~~^~^^^^~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~!!!!?5GBBBPP#BBGGPP555555YYYYYY555PYYYJ!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~!!!!!7JPGBBGGBBBBBGP55555YYYYYYY55GBYYJJ!!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~!!!!!!777?YP5BBBBGGP55555PYYYYYYYY5#GYYYJ7!!!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~!!!!!!!77777??J5PPPP5555555PYYYYYYYYYGGY55Y7!!!!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!!!!!!!!!!~!~~~~~~~~!!!!!!!!!7777????JY5555555555PPYYYYYY5YYYPYYY5?!!!!!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!!!!!!!!!!!!!!!!!!!!!!!!!!!777777???JYY5555555PPPPGYYYYYYPGP5555YYY7!!!!!~~~~~~~~~~~~~~~~~~~~!~~!~!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!7777777???JJYYJYY55PPPPPG5YYYY55PP55YYY5Y7!!!!!!!!!!!!!!!~~~!!!!!!!!!!!!!!
+77!!!!!!!!!!!!!!!!!!!!!!!7777777????JJYYYY55PP55PGGYYYY5555GP5YYYYY7!J5PPPPPPP5555J~!!!!!!!!!!!!!!!!
+777777777!!!!!!!!!!!!!777777777????JJJYY555PP5PPPGGYYYYY555G5YYJYYY7!YGGGGGG55JJJ5J!!!!!!!!!!!!!!!!!
+???777777777!!!!!!7777777777777????JJYY5555555555PG5Y555555PJJ5YYYJ7!?GGGGPPYYJJJYJ!!!!!!!!!!!!!!!!!
+??????????7777777777777777?????????JYY55555555PPPG#PY555555YJ??YJ7!!!7JJJJJJ??7777!!!!!!!!!!!!!!!!!!
+J??????????777777777777777?????????JY5555PPPGGGGGGB#GPPGGGYJJ?777!?Y55J?????JJJJJY55557!!!!!!!!!!!!!
+YYJJJ??JJ?????77777?7????????????JJJY555555PPP5PP##BBGGGGPJJ??7777?YYY55555GPP5YJ??J?7!!!!!!!!!!!777
+5YJJJJJJJJ??????????????????????JJJYY55555PP5PPP#&#BGGPGGYJ???77777!!!!!!!7G?PY~^:~!!!!!!77777777777
+P5YJJJJJJJJ????????????????????JJJJYY555P5PPPPPB&#BGGGPGYJJ???7777777!!!!7????77~^~7!777777777777777
+GP5YJJJJJJJJJ???????JJJ???????JJJJYYY5P5PP555PG#&#BGGGPYJJ????77777!!!!!!7?JYYJ7~^!!!777777777777777
+GGP555YYYYJJJJJJJJJJJJJJJJJJJJJJJYYYY55555PPGGG#&BGGGG5JJJ????777777J5PPJ~~!!!7?JYY?7777777777777777
+GGPPP5555YYJJJJJJJJJJJJJJJJJJJJJYYYY5P55PPGGGPG#&BGGGPJJJJ????7777!YBB##P757!5GGPPPGGJ77777777777777
+GGGPPPPP555YYYYYYYJYYJJJYJJJJYYYYYY5P5PPGGGPPGB##BGGG5JJJJJ???77777?P###5PB?G##BBBGBB5Y5?7777777????
+55YYYYJJJJJ????????????????????????J55PPPPPPGG####BGG?777777!!!!!!!!~JBBB&#B#######B#BGBY!!!!!777777
+?77777!!!~~~~~^^^^^^^^^^^^^~~~^^^^^YPPPPPPGBPGBB##BG5~^^^^::::::::::..JBB#########BJGBBBY:::::::::::
+5YYYYYYYJJJ????777?????????????????PPPGPPGBPPBBGGGBB57!!!!!!~~~~~~~~~~7BB##BB#####J:Y##BP?^^^^^^^^^^
+#BB##B#BBBBGGGGGGBBBBBBBBBBBBBBBBBGPP55PGGPPG#BGGGGGGGGGPPPPPP55555555YGB##B##BBBB5Y5GBBG5Y5YYYY5Y55
+######BBBBBBGGGBBBBBBBBGBBGBBBBBBBGPPPPPPPPPBBB##BBB#&BGPPPPPPPP5PPPPP5GB##BB#BGGGP55Y7!^.~555555555
+&&&@&&#BBGGGBBBBBBBBBGBGGBGGGBBBBGPPPPPP555GBBB#&@@@@@@&GPPPGPPPPPPPPP5PB#####BGGGG55Y7^ ..J55555555
+&&&&##BBBBBBBBBBBBBGGGGGGGGGGGGBBPP555555PGBBBBBBB#&&@@#GPPPPPPPPPPPPPP5G######BBBP555?~~!~^55555555
+####BBBBBBBBBBGGGGGGGPPPPPPPPPPGBP55555PGB#BBBBGGGGGGBGPPPP55555555555555G##B####G555P5Y77!75P555555
+####BBBBBBBGGGGGGGPPPPPPPPPPPPPGB&BP5PGGBBBBGGGGGPPPPPPP55555YY555YYY5YY5PBBBB##BP555555Y?J55P5PPPPP
+##BBBBBBBBGGGPGPPPPPP555PP5PPPP#&@@&##&#BBBGGPP5555555555555555555555YYY5#BBBB##B5Y5Y55555PP5555PP5P
+B#BBBBBBGGGGPPPPPPPP555555555PB&&&&@#BGPGPPP55555555555555555Y55Y55555YYY5PBB###BPYYY5Y55555P5P5555P
+BBBBBBGGGPPPPPPPPP55555555555P#&&&&BPG5555P555555555555Y5555555Y5555YY5YY5B#BBBBBP55YYY555555P55555P
+BGGGGGGGPPPPPPPPP5555555Y5555PPPGBGPP555PP55555555555P555555555Y55YYYYYYY5#BP5PBP5YYYYYYY55555555555
+BGBGGGGPPPPPPPPP5555555555Y5555PPPP55555PP55555555555555555555YY55YY55YYYYPGGGP5Y555Y5Y55Y55555555PP
+BBGGGPPPPPPPPP5PPP55555555555YY5Y5555555555555555Y5555555555YYY5Y55YY5YY5YYYYYYYYY55Y5YY5555555555PP
+GGGGPPGPPPPPPPPP55PP5PP5555555555555555555555555555Y555YY555Y5YYY5YYY555YY5YY5YYY5Y55555555555555555
+GGGGGGGPPPPPGPPPPPPPPP5PPP5P555555555555555555555Y5YY55555YYYY5555555YY5555555Y5555555Y5P555555555PP
+GGGGGGPGPGGGGPPPPPPPPPPPPPPPP5P55555555555555555555555YY5Y5Y555555555555555YP555P555555P555555555555
+
+the fuck is this doin here - evstalk
+-->
+
+[[Category:Difficulties]]
+[[Category:Humanly impossible]]
+[[Category:RoorXD]]

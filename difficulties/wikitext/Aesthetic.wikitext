@@ -1,0 +1,211 @@
+{{Background|File=Background(Astethic).png}}<div style="background:#077a19;padding:1em;font-family:rubik;border:25px solid #33CC33">{{Classic}}{{Humanly Possible}}
+<br>
+{{BetterQuote
+|text=Why this difficulty was moved many times?
+|quoter= TasmanianRex, a former administrator of the JJT wiki
+}}''<s>Not to be confused with [[Asthenic]], which is 9 classes above this difficulty.</s>'' {{NewDifficultyInfobox
+|title1 = <span style="color:#33CC33">Aesthetic
+|image1 = Aesthetic.png
+|caption1 = Aesthetic's Image.
+|class = [[:Category:Class 1|Class 1]]
+|type = [[:Category:Sub-Difficulties|Sub Difficulty]]
+|previous = {{Class0Difficulties|Sweet}} [[Sweet]]
+|next = {{Class0Difficulties|Lovely}} [[Lovely]]
+|decal_id = [https://create.roblox.com/store/asset/6383094816/Aesthetic-Difficulty?externalSource=www 6383094816]
+|main_difficulty = {{Class0Difficulties|Sweet}} [[Sweet]]
+
+|original_type = [[:Category:Sub-Difficulties|Sub Difficulty]]
+|previous_type(s) = [[:Category:Difficulties|Normal Difficulty]]
+|original_main_difficulty = {{Class0Difficulties|Jump Once}} Jump Once
+|previous_main_difficulty(ies) = {{Class0Difficulties|Sweet}} [[Sweet]]
+|date_added = 1/13/2020
+|prior_previous =
+* Jump Twice
+* {{Class0Difficulties|Sugary}} [[Sugary]]
+* {{Class0Difficulties|Cakewalk}} [[Cakewalk]]
+* Do A Wrap
+|prior_next =
+* Jump Thrice
+* {{Class0Difficulties|Lovely}} [[w:c:jtohs-easiest-towers:Lovely|Lovely]]
+* [[Do A Maze]]
+|rating=-8.33|creator(s)=
+*Harrykc (Difficulty Creator)
+*ConfusionandTrickery, Lunka, JackDoubleSquared, Imxxxddddd (Revampers)
+*FRoB (Grammar Fixer)
+|alt_previous={{Class0Difficulties|Sugary}} [[Sugary]] (sub difficulty)}}
+
+==''Overview - Aesthetic''==
+[[File:Aesthetic.png|frameless|30x30px]] '''Aesthetic''' is a humanly possible sub-difficulty located in class 1 and also a sub-difficulty of [[File:Sweet (New).png|30x30px]] [[Sweet]] between [[File:Sweet (New).png|30x30px]] [[Sweet]] or [[File:Sugary (New).png|25x25px]] [[Sugary]] and [[File:LovelyDifficulty..webp|30x30px]] [[Lovely]]. This difficulty is self-explanatory. It is just for design.              
+
+Towers with '''Aesthetic''' as their difficulty are basically the equivalent of an art gallery, each spectrum will have a lot of pictures scattered everywhere in the floor ranging from pleasant pictures to semi-disturbing ones, and the only thing you have to do is to walk to the winpad along with some random obstacles for some certain spectrums, like turns, truss/ladders, small gaps, random poles, up/downs, or mazes (on the highest spectrum). The only thing that could prevent you from winning is going AFK, lag, or leaving the game both intentionally or accidentally.
+
+This difficulty also has a gallery having artwork. Did you know that this difficulty has a difficulty in a difficulty? It’s called [[File:Water difficulty.PNG|frameless|30x30px]] Drink a Glass of Water. It’s found in Mid Aesthetic and it’s a nerfed version of [[File:Hydration.png|frameless|30x30px]] [[User blog:EpicTheGamer2014/Hydration|Hydration]].
+
+===History===
+This difficulty was created on Jan 13th, 2021, and it was in its early stages. And at that point it was in between [[File:Do a wrap fanmade.PNG|frameless|30x30px]] Do A Wrap and Do A Maze, but a little while later they were both deleted. DAW for being “too hard for class 1” while DAM I guess because of the first Armageddon. And next, The [[File:JumpOnce.png|frameless|30x30px]][[File:Jump Twice.png|frameless|30x30px]][[File:Jump Thrice New Icon.png|frameless|30x30px]] Jump Chain replaced DAW, but then all three got deleted. Now it’s a sub-difficulty of [[File:Sweet (New).png|frameless|30x30px]] [[Sweet]] and it’s also after [[File:Sugary (New).png|frameless|30x30px]] [[Sugary]] and before [[File:LovelyDifficulty..webp|frameless|30x30px]] [[Lovely]].
+
+And then nothing happened apart from getting the classic template. And another while later it got the human limit template. Then it got a deleted template called “A Difficulty” which is just literally pointless back then. And it was at peace by now until…
+
+===The 7th Armageddon.===
+At this point it was signed up for Armageddon. Its future wasn’t gonna be bright until a lot of people came and revamped this and here we are June 3rd!
+
+==Placement==
+
+*'''[[File:Sweet (New).png|frameless|35x35px]] [[Sweet]] (-9)'''
+**'''[[File:Sugary (New).png|frameless|35x35px]] [[Sugary]] (Sub-Difficulty) (-8.66)'''
+**'''[[File:Aesthetic.png|frameless|35x35px]] Aesthetic (Sub-Difficulty) (-8.33) (YOU ARE HERE)'''
+*'''[[File:LovelyDifficulty..webp|35x35px]] [[Lovely]] (-8)'''
+**'''[[File:Glee Difficulty.png|36x36px]] [[Glee]] (-7.5)'''
+*'''[[File:New flowerness image1.png|frameless|35x35px]] [[Flowerness]] (-7)'''
+**'''[[File:NewestCoasterifying.png|frameless|35x35px]] [[Coasterifying]] (-6.66)'''
+**'''[[File:ADNDnewimage.png|frameless|35x35px]] [[A Difficulty Named Difficulty]] (-6.33)'''
+==Icon Representation ~ Aesthetic==
+[[File:Aesthetic.png|center|100x100px]]
+Aesthetic icon has a large white star in the center on a pale-lime green background.
+
+==Catches== 
+
+*Each part will need at least 1 safety net in case of accidental or intentional falls.
+*There are various styles of pictures on the walls and/or platforms which range from peaceful images to mildly disturbing images depending on the section.
+*There is music too, lower sections will have relaxing music and higher sections will have a creepier and more disturbing ambience.
+*(Optional) The environment is different depends on your current spectrum, from peaceful view to literal emptiness (not really) space.
+* There is also art scattered around. Potentially made by anyone.
+
+==Obstacles==
+===Primary Obstacles===
+<tabber>
+|-|
+Baseline=
+__NOEDITSECTION__
+==== Baseline Aesthetic ====
+*Beat 21 [[File:Win (i guess).png|frameless|30x30px]] [[Win]] Towers.
+*Press 6.5 Buttons in 100 Seconds.
+*Do 10 1.81 Stud Jumps
+*Rebeat [[Cakewalk]] but it’s buffed by x1.01 - x1.12
+*Beat [[Sugary]] But it’s buffed by x1.00005393
+|-|
+Bottom=
+__NOEDITSECTION__
+==== Bottom Aesthetic ====
+*Look at a few aesthetic images while walking to the winpad.
+*Beat the entirety of class negative again, but buffed to [[Instant Win]].
+*Do [[Pleasant]] but nerfed down to baseline Aesthetic.
+*Look at some more [[Lovely]] aesthetic pictures.
+*Speaking of [[Lovely]], beat it but nerfed 1.5x while looking at aesthetically pleasing images.
+|-|
+Low=
+__NOEDITSECTION__
+==== Low Aesthetic ====
+*Do 15 [[File:Do Nothing but better.webp|frameless|30x30px]] [[Do Nothing]] Towers but it’s buffed by 0.612%
+*Do 10 1.825 Stud Jumps
+*4.8 Stud High Jumps
+*(Idea From Sugary) Afk for 4.8 Minutes.
+*Beat [[Pixelable]] But it’s Nerfed to Skyline [[Cakewalk]].
+*Beat Lovely but it’s Nerfed by x1.45 times plus the images are more disturbing. but not so disturbing to the point where It’s Horrific. Only a tiny bit.
+|-|
+Mid=
+__NOEDITSECTION__
+==== Mid Aesthetic ====
+*Beat 10 [[File:Justairrevamprevamp.png|frameless|30x30px]] [[Just Air]] Towers. Basically it’s like gliding but it’s very long.
+*[[Pixelable]] But buffed by x1.035.
+*Beat [[Tutorial]] but Nerfed by x2.5 times. 
+*1.8 Stud Jump.
+*Look at some images.
+'''IRL Obstacles'''
+*Drink a glass of water. This is also a difficulty in HelloArt's DC.
+|-|
+High=
+__NOEDITSECTION__
+==== High Aesthetic ====
+*5 1.85 Stud Jumps.
+*0.1 Stud Maze.
+*5 Stud Wall Jump.
+*Beat A [[Sweet]] obstacle but buffed by x1.00001 Times.
+*Tutorial But Nerfed to Mid Aesthetic.
+*Look at more art.
+*15 [[File:Justairrevamprevamp.png|frameless|30x30px]] [[Just Air]] Towers.
+|-|
+Peak=
+__NOEDITSECTION__
+==== Peak Aesthetic ====
+*Do A Simple Maze but the images are a more horrifying by 6%.
+*Do [[Tutorial]] But Nerfed To High Aesthetic But buffed x1.03 times.
+*Beat [[File:Sugary (New).png|frameless|30x30px]] [[Sugary]] 0.92 Times.
+*5 1.87 Stud Jumps.
+*Beat [[Sweet]] Again and look at some pictures.
+|-|
+</tabber>
+
+===Secondary Obstacles===
+
+<tabber>
+|-|
+Baseline=
+====Baseline Obstacles====
+You will get teleported to the winpad in just a few quick seconds. Bad luck though, that's less than enough time to look at these scattered image gallery.
+|-|
+Bottom=
+====Bottom Obstacles====
+A slow conveyor labyrinth with some complex conveyor rides which bring you to the winpad. The images are magnificent and very satisfying to look, help you to relax which makes you want to stay here for a little bit as a break zone.
+|-|
+Low=
+====Low Obstacles====
+You walk to the winpad, which is not very far away, there's a few gaps and walls blocking your way and a bit of turns and slopes. The images are pleasant which makes you want to stay in the game and not just leave, and also makes the game less boring.
+|-|
+Mid=
+====Mid Obstacles====
+Walking and jumping to the winpad, just a filler floor with some simple client objects and jumping, the images aren't too good, nor bad, nor interesting, nor boring. Basically it's just to make the tower keep your attention while doing the obstacles. 
+
+This obstacles is ideal for an Aesthetic floor in a difficulty chart towers.
+|-|
+High=
+====High Obstacles====
+Walking to the winpad, but it has more jumps with a more severe punishment, client objects are used against you like killbricks and slippery parts, the images are terrible which would makes player unmotivated and might make people not want to finish.
+|-|
+Peak=
+====Peak Obstacles====
+Do a slightly dark maze to the winpad, there's occasionally killbricks and client objects and gaps to jump, failing one of these gaps will result in progress lost. The images are very disturbing and makes people want to leave.
+
+This obstacles is ideal for an Aesthetic: Hard Route in a difficulty chart tower.
+|-|
+Skyline=
+====Skyline Obstacles====
+Do a very dark maze with a slow cosmic entity follow you along with some obstacles scattered in it, failing them will result in ending run. The images are incredibly creepy and disturbing for whoever sees it which makes players want to leave.
+</tabber>
+
+==Towers==
+
+===Fictional===     
+
+*Steeple of Gallery Art
+*Tower of 10 Floors of Creepy Maze
+
+===Non-Fictional===    
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Barely a Tower]
+*[https://www.roblox.com/games/130994144609857/RING-2-QToN-XS Barely a Barely a Tower]
+
+===Contains Aesthetic===
+*Monolith Of Amplifying Difficulty Chaos (Obby Creator)
+*Citadel Of Every Difficulty Possible
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]]
+
+==Gallery - Aesthetic==
+<gallery>
+File:Aesign.PNG|Aesthetic Sign From MoDDA
+File:Aesthetic.png|Main Icon.
+</gallery>
+
+==Trivia==  
+*This difficulty got moved many times but it finally landed in its original place.
+*This is JackDoubleSquared’s first revamped difficulty ever.
+*This Was JackDoubleSquared’s First Difficulty to make a new era in JJT Quality.
+==Continuing On==
+Yeah, you didn't really do anything that impressive. If you want to know what to do next, then go do [[File:LovelyDifficulty..webp|frameless|30x30px]] [[Lovely]]. Or you can just, you know, go to [[File:NEaT.png|frameless|30x30px]] [[Neat]] already since Class 1 is not going to get you anywhere. If you want a challenge, do [[File:DifficultDifficulty.jpg|frameless|30x30px]] '''[[w:c:jtoh:Difficult|Difficult]]'''.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 1]]
+[[Category:Sub-Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Classic]]
+[[Category:Bad Grammar]]

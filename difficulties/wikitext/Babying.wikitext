@@ -1,0 +1,63 @@
+{{Scrollbox|Notices={{Humanly Possible}}
+{{Inclusion}}}}{{NewDifficultyInfobox|title1=Babying|alt_names=*Baby
+*Baby Mode
+*Childish|rbg_color=*Background: 1, 255, 215
+*Emoticon: 0, 0, 0|hex_color=*Background: #01FFD7
+*Emoticon: #000000|previous_sub_difficulty(ies)=*Elementary
+*Angelic
+*Blocky Effortless
+*Inferior
+(All of these are according to [[The GREAT Decal Difficulty Chart Container|TGDDCC]].)|prior_next=*Elementary
+*Angelic|prior_previous=*[[File:Magnificent Current.png|30px]] [[Magnificent]]
+*[[File:PeacefulNew.png|30px]] [[Peaceful]]|revival_date=*12/08/22|revamp_date=*12/08/22|removal_reason=None|date_removed=Will Not Be Removed|date_added=12/07/22|original_type=Normal Difficulty|original_class=1|short_name=Babyi|image1=BabyingSDC.png|full_name=Babying Baby|creator(s)=*OrbentuneAlt (3rd Creator)
+*ToAAA best tower (2nd Creator)
+*I am human nani?! (1st Creator)
+* 4d9r (Concept Creation made in his tower place, see the trivia link)
+*The Difficulty Enthusiast (Page Finisher)|official_music(s)=None|sub_difficulty(ies)=N/A|decal_id=Current: [https://create.roblox.com/store/asset/109376640464272/Babying 109376640464272]<br>Old: [https://create.roblox.com/store/asset/11856537241/Babying 11856537241]|difficulty_range=Baseline to Peak|class_range=Low|next=[[File:EffortlesslessIconOoIDC.png|30px]] [[Effortlessless]]|previous=[[File:Peaceful.png|30px]] [[Peaceful]]|type=Normal Difficulty|class=1|caption1=You need to be a baby to beat this!|cmyk_color=*Background; 100%, 0%, 16%, 0%
+*Emoticon: 0%, 0%, 0%, 0%|rating=-2|alt_previous=[[File:Playful.png|30px]] [[Playful]]|alt_next=[[File:Magnificent Current.png|30px]] [[Magnificent]]|counterpart=Smile Face|main_difficulty=Babying|chain(s)=Normal|previous_class(es)=0|previous_type(s)=|original_main_difficulty=N/A|previous_main_difficulty(ies)=N/A|original_official_music=None|previous_official_music(s)=None|original_creator(s)=None|previous_creator(s)=None|original_name=Baby|previous_name=Baby|original_full_name=Baby Baby|previous_full_name(s)=Baby Baby|original_short_name=Bab|previous_short_name(s)=Bab|brickcolor=None|rgb_color=*Background 1, 215, 255
+*Emoticon: 0, 0, 0|hsv_color=Idk|hsl_color=Idk|rgba_color=Idk}}
+
+== What is '''Babying'''? ==
+'''Babying''' is a Low Class 1 Possible difficulty. It is righteously in between [[File:Magnificent Current.png|30px]] [[Magnificent]]  (Which is after Babying) and [[File:PeacefulNew.png|30x30px]] [[Peaceful]] (Which is before Babying). Babying also being in Class 1, makes it humanly possible. It is one of the only few difficulties that are that type. This difficulty is so easy, many 3 to 4 year olds on their mom's tablet would be able to complete this. 
+
+== Icon Representation ==
+
+=== Current ===
+[[File:BabyingSDC.png|center|thumb|60x60px]]
+The new icon for '''Babying''' is the same as the classic one, but the background is lighter and the =D is a very dark teal.
+
+=== Classic ===
+[[File:Babying.jpg|center|frameless|61x61px]]
+'''Babying'''’s old icon is represented by a simple teal background, with a black =D emoticon. That's literally just it.
+
+== Obstacles ==
+'''Babying''' obstacles aren’t much harder than  [[File:PeacefulNew.png|30x30px]] [[Peaceful]] obstacles, but aren’t much easier than [[File:Magnificent Current.png|30px]] [[Magnificent]] obstacles, either.
+
+* 4.25 stud jump (climbable)
+* 4.1 stud jump (unclimbable)
+* 0.1 stud wraparounds. (Climbable)
+* 0.05 stud wraparounds. (Unclimbable, first unclimbable wraparound)
+* 4.24 stud high jumps.
+
+== Towers ==
+''Note: Towers listed here are likely inaccurate.''
+* Tower of Built Like a Baby But Extremely Robloxissupereasy (ToBLaBBER) (Fictional)
+* Steeple of Becoming an Infant Again (SoBaIA) (Fictional)
+* Basically Any Basic Year Facility (B.A.B.Y Facility) (Fictional)
+
+== Trivia ==
+* The link on the chart used to link to a extended JToH fandom page. You can still read it [[w:c:extended-jtoh:Babying|here]].
+* Babying has been revived thrice.
+
+== Continuing on from this point ==
+Well, you’ve completed '''Babying'''. Whatever, not like it’s an accomplishment anyway, move onto [[File:Magnificent Current.png|30px]] [[Magnificent]]. 
+{{DifficultiesNavbox}}
+[[Category:Unfinished pages]]
+[[Category:Class 1]]
+[[Category:Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Collab Page]]
+[[Category:Revamped Difficulty]]
+[[Category:Possible]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]

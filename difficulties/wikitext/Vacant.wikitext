@@ -1,0 +1,30 @@
+{{Physically Impossible}}{{Classic}}{{NewDifficultyInfobox|image1 = V is for.png|caption1 = There’s a grey V in the middle, let’s see if you can see it.|class = [[:Category:Class 8|High Class 8]]|type = [[:Category:Difficulties|Normal Difficulty]]|previous = {{Class12Difficulties|QR Code}} [[QR Code]]|next =[[File:HowNewest.webp|30px]] [[How‽]]|date_added=25 September 2020|title1=Vacant|rating=85.5|class_range=|decal_id=96292557339807|sub_difficulty(ies)=|chain(s)=|official_music(s)=|creator(s)=YourNuglyGuy|difficulty_range=Belowground-Peripheral|alt_next=[[File:Sandbox.png|frameless|26x26px]] [[User:EndJJT/Sandbox|<span style="text-shadow: 0 2px 4px #B59B79; color:#B59B79">'''Sandbox'''</span>]]}}
+
+==Overview==
+'''Vacant''' is one of the class 8 difficulties. This is one of the last difficulties before difficulties start going beyond physically impossible. Difficulty spikes will start exploding after this difficulty, as this compared to {{Class12Difficulties|QR Code|20px}} [[QR Code]] will be the same as Easy compared to Immeasurable. It’s time to start doubling up on your practice, so doing every jump in the next few difficulties thousands of times is important, otherwise you can't proceed.
+
+==Icon Representation==
+<tabber>
+|-|
+Current=
+<font size=5>Current Icon</font></br>
+'''Vacant'''’s icon doesn’t have much on it, which fits the name quite well. Anyways, the icon has a very dark icon. It’s almost black, but if you squint, you can see the letter "V" on it. The V is grey, and it blends in with the background. I also think the V stands for '''Vacant''', which is cool.
+</tabber>
+
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=617.5|Increment=6.94}}
+
+==Towers==
+*VT - Vacant Tower ''(Fictional)''
+
+==Continuing From This Point==
+Go to [[File:HowNewest.webp|30x30px]] [[How‽]], it is much harder than this difficulty, and it will be sure to send you to hell. I don’t recommend it though, unless you are mentally insane. If you are medically ill, you should scan the  [[File:HowNewest.webp|30x30px]] [[How‽]] to torture yourself.
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Class 11]]
+[[Category:Icons made by AlephWasTaken]]
+[[Category:Physically Impossible]]
+[[Category:Two color icon]]
+[[Category:Candidates for Revamp]]

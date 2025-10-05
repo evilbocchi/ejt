@@ -1,0 +1,95 @@
+{{DISPLAYTITLE:Harming}}
+{{NoticeScrollboxNew|Notices={{Inclusion|reason=Allowed by staff}}{{Humanly Possible}}}}<br>
+{{BetterQuote|text=Warning to all obbyists: This difficulty may cause self-harm.|quoter=A sign.}}
+==[[File:Harming.svg|30x30px]] <span style="color:#FF0000">'''Harming'''</span> - Introduction==
+{{NewDifficultyInfobox|title1=[[File:Harming.svg|30x30px]] <span style="color:#FF0000">Harming</span>|image1=<gallery>
+Harming.svg | Current
+HarmingUnofficial.png | Alternate
+</gallery>|class={{Class2Difficulties|Jolly}} [[:Category:Class 2|<span style="color:orange">Mid Class 2</span>]]|type=[[File:Absolutism.png|30x30px]] [[:Category:Revived|<span style="color:blue">Revived Sub-Difficulty</span>]]|previous=[[File:MenacingDifficulty.png|30px]] [[Menacing]]|next={{Class2Difficulties|Challenging}} [https://jtoh.fandom.com/wiki/Challenging Challenging]|main_difficulty={{Class2Difficulties|Difficult}} [https://jtoh.fandom.com/wiki/Difficult <span style="color:red">Difficult</span>]|creator(s)=*[[User:Sanjay2133|Sanjay2133]] (Reviver), [[User:The Difficulty Enthusiast|The Difficulty Enthusiast]] (Another reviver)
+*[[User:AlephWasTaken|AlephWasTaken]] (Original Creator)|caption1=haha mi[REDACTED] you can’t revive [[Harming|harming]] as a class 7 difficulty when it should NOT be one|date_removed=5/5/22 - 1st Time
+7/11/22 - 2nd Time|removal_reason=1st Time - Unknown
+2nd Time - Mass removal of all pages created by GlitchedLiness|revival_date=8/31/22 (first), 8/12/25 (second)|date_added=19/01/2021|prior_previous=*{{Class2Difficulties|Wait}} [[Wait|<span style="color:white">'''Wait'''</span>]]
+*[[File:Absolutism.png|30x30px]] [[Absolutism]]
+*[[File:Crewmate.png|30x30px]] Crewmate (deleted)
+*{{Class2Difficulties|Noob Babass}} [[Noob Babass]]|prior_next=*{{Class2Difficulties|Noob Babass}} [[Noob Babass]]
+*[[File:ASDFGHJKL_REEEEE.png |30x30px]] Problematic (deleted)
+*[[File:Random.jpg|30x30px]] Random (Deleted)
+*[[File:Rage_revamp_icon.png|30x30px]] Rage (Deleted)|decal_id=122776176623840}}
+'''[[File:Harming.svg|30x30px]] <span style="color:#FF0000">Harming</span>''' is a [[:Category:Class 2|<span style="color:#FF0000">'''Mid Class 2'''</span>]] '''[[:Category:Revived|<span style="color:#3333AA">Revived Sub-Difficulty</span>]]''' of [[File:MenacingDifficulty.png|30px]] [[Menacing|<span style="color:red">'''Menacing'''</span>]]. The difficulty comes before EToH's {{Class2Difficulties|Challenging}} [https://jtoh.fandom.com/wiki/Challenging Challenging] difficulty so if you want to proceed onto the next difficulty, you must be able to conquer this sub-difficulty.
+
+<span style="color:#FF0000">'''Harming'''</span> incorporates techniques typically seen in [[File:MenacingDifficulty.png|30px]] [[Menacing|<span style="color:red">'''Menacing'''</span>]] and other slightly easier difficulties. But don't underestimate the difficulty as it for sure can drive someone mad to the point where they may cause harm to themselves. This difficulty is often a roadblock for the average obbyist as it takes some serious dedication to overcome. It is pretty much the gateway to {{Class2Difficulties|Challenging}} [https://jtoh.fandom.com/wiki/Challenging Challenging] so a tough challenge is to be expected. If this difficulty was on the difficulty chart, it would probably be High to Peak Difficult.
+
+This difficulty had been revived more than once and even had a different version located in Class 7 called '''Hyper-Harming''' which now doesn't exist anymore.
+
+=== <span style="background:linear-gradient(90deg, red, white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> Former Placement </span> ===
+This difficulty was formerly placed between {{Class2Difficulties|Wait}} [[Wait|<span style="color:#FFFFFF">'''Wait'''</span>]] and {{Class2Difficulties|Noob Babass}} ''[[Noob Babass]]'', both of which are not included in the main difficulty chart anymore.
+
+==Icon Representation==
+<tabber>
+Current=
+<center>[[File:Harming.svg|60x60px]]</center>
+It is represented with a simple red background, with a sad emoticon and a dark red #. It’s pretty simple, some might even say it looks a bit plain.
+|-|
+Alternate=
+<center>[[File:HarmingUnofficial.png|60x60px]]</center>
+This is a lot different. The alternate icon is a maroon radial gradient background. On it, there's a -~- face with a tear in its right eye, and the same red # from the current icon.
+<small>Credits to [[User:TheEndlessNova|TheEndlessNova]] for making this icon.</small>
+</tabber>
+
+==Obstacles==
+
+===Low===
+
+* 8.3 stud jump.
+* 5.85 stud wraparounds (Climbable).
+* 5.6 stud wraparounds (Unclimbable).
+* 7.85 stud truss jumps.
+* 1.35 stud stickouts (Climbable).
+* 1.15 stud stickouts (Unclimbable).
+
+===Middle===
+
+* 8.35 stud jump.
+* 5.9 stud wraparounds (Climbable).
+* 5.65 stud wraparounds (Unclimbable).
+* 7.9 stud truss jumps.
+* 1.4 stud stickouts (Climbable).
+* 1.2 stud stickouts (Unclimbable).
+
+===High===
+
+* 8.4 stud jump.
+* 5.95 stud wraparounds (Climbable).
+* 5.7 stud wraparounds (Unclimbable).
+* 7.95 stud truss jumps.
+* 1.45 stud stickouts (Climbable).
+* 1.25 stud stickouts (Unclimbable).
+
+==Tower Section==
+
+===Towers in this difficulty===
+
+*[https://jtoh.fandom.com/wiki/Tower_of_Versatility Tower of Versatility]
+*[https://jtoh.fandom.com/wiki/Tower_of_Cogs_and_Steam Tower of Cogs and Steam]
+*[[Mini Tower of Taking Damage]] (MToTD)
+*Tower of Lotsa Damage but There's More Damage (ToLDbTMD)
+*Steeple of Getting Reseted Lots of Times (SoGRLoT)
+*Edifice of Having Some Pain (EoHSP)
+
+===Towers with this difficulty===
+
+*None yet.
+
+==Trivia==
+
+*This was originally revived by GlitchedLiness and then again by [[User:Sanjay2133|Sanjay2133]].
+*MinaAshidoFromMHA’s buff of Harming in Class 7 was unfortunately deleted so you cannot see it now.
+
+==Continuing on from this point==
+Player, you’ve completed '''[[File:Harming.svg|30x30px]] <span style="color:#FF0000">Harming</span>''', yet another sub difficulty of Difficult. You may or may not have harmed yourself while playing this difficulty, but hopefully you didn’t. You can ascend to Challenging now.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 2]]
+[[Category:Humanly Possible]]

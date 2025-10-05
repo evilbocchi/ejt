@@ -1,0 +1,53 @@
+R{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Buffed}}{{Unfinished}}}}
+'''Not to be confused with [[KLJY]].'''
+{{NewDifficultyInfobox|title1=[[Killjoying]]|image1=
+<gallery>
+Killjoying.jpg | Current
+KilljoyingOld.jpg | Old
+Killjoying 2.jpeg | Alternative
+</gallery>
+|caption1=A new icon for an old icon.|class=4|rating=24.66|type=Sub Difficulty|previous=[[File:NewestCalamity.png|30px]] [[CALAMITY]]|next=[[File:UnimaginableDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]]|alt_previous=[[File:Neutralize 2.jpg|30px]] [[Neutralize]] (sub difficulty)|alt_next=|class_range=Mid|difficulty_range=None|decal_id=*[https://create.roblox.com/store/asset/6418985217/Killjoying 6418985217] (Old)
+*[https://create.roblox.com/store/asset/17220449335/Killjoying 17220449335] (New)
+*[https://create.roblox.com/store/asset/16077848066/Killjoying 16077848066] (Alternative)|main_difficulty=[[File:NewestCalamity.png|30px]] [[CALAMITY]]|chain(s)=XD Chain|official_music(s)=None|creator(s)=Core1052|short_name=KLJG|date_added=16/01/21|date_removed=N/A|revamp_date=N/A|hex_color=N/A|rbg_color=N/A|counterpart={{Class3Difficulties|Unreal}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]]}}
+== What is Killjoying? ==
+'''Killjoying''' is a low-mid Class 5 humanly impossible difficulty of [[CALAMITY]]. Obstacles in here are so hard that without TAS, this difficulty is impossible.. This difficulty is harder than [[Neutralize]], This is the XD chain, or super-buffed variant of [[w:c:jtoh:Unreal|Unreal]], and is the fourth hardest difficulty in the XD chain.
+
+== XD Chain Navigation ==
+Killjoying is also in the XD chain. This chain is just a buffed version of some difficulties from JToH. Killjoying is represented as a buffed version of Unreal. The icon is the old Unreal icon, and there is also an alternative, new icon based off the new Unreal icon.
+
+Difficulties in the XD chain include: 
+*[[File:NewNullifying.jpeg|30x30px]] [[Nullifying|<span style="color:#0000FF">Nullifying</span>]] (Insane Buffed)
+*[[File:NewHELL.jpeg|30x30px]] <span style="color:#85C2FF">[[w:c:jtohs-hardest-towers:HELL|HELL]]</span> (Extreme Buffed)
+*[[File:NewTARTARUS.jpeg|30x30px]] <span style="color:#CAF5FF">[[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]]</span> (Terrifying Buffed)
+*[[File:NewestCalamity.png|30x30px]] [[CALAMITY|<span style="color:#FFFFFF">CALAMITY</span>]] (Catastrophic Buffed)
+**[[File:Neutralize 2.jpg|30x30px]] <span style="color:#ECC9F7">[[Neutralize]]</span> (Horrific Buffed)
+**[[File:Killjoying.jpg|31x31px]] [[Killjoying|<span style="color:#521989">Killjoying</span>]] (Unreal Buffed) '''(YOU ARE HERE)'''
+==Towers in Killjoying==
+
+*Tower of Killjoys: Gigabuff (ToK:G) (Fictional)
+*Great Citadel of Hopeless Impossible (Not started)
+*Tower of Creepy Boss Fights (ToCBF) (Fictional)
+*[[Tower of Chomik Difficulty Chart]] (ToCDC) (Fictional)
+
+== Obstacles in Killjoying ==
+{{ObstacleTableRevamp|JumpClimbableBase=15.434|Increment=0.011}}
+==Trivia ==
+
+*''Killjoying'' was inspired by Tower of Killjoys
+*This difficulty was inspired by [[File:NewestCalamity.png|30x30px]] [[CALAMITY]].
+*This is the final of the XD Chain, after [[File:ContradictionModern.png|30x30px]] [[Contradiction|Contradition]] was deleted.
+
+== Continuing From This Point==
+You should definitely take a break if you have beaten this. Difficulties beyond this are very unforgiving, so I suggest you stop beating more or there will be consequences. But if you want to continue so badly, just go straight to [[File:UnimaginableDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:Unimaginable|Unimaginable]].
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:XD Chain]]
+[[Category:Emoticon Difficulties]]
+[[Category:Two color icon]]
+[[Category:Humanly Impossible]]
+ 
+[[Category:Undergoing Revamp]]

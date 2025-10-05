@@ -1,0 +1,154 @@
+__NOTOC__{{DISPLAYTITLE:'''<code><big><span style="text-shadow: 0 0 3px">Omniscient</span></big></code>'''}}
+<div style="box-sizing:border-box; border-radius:25px;border:10px solid white;overflow:hidden;background:linear-gradient(180deg, #00A4FF, #0036FF, #9A0FFF); padding:0.5em;">{{CSS|content=
+.portable-infobox {
+    background: linear-gradient(180deg, #00A4FF, #0036FF, #9A0FFF);
+    --theme-link-color: rgba(255, 255, 255, 1);
+    border:5px solid #FFFFFF;
+}
+.portable-infobox .pi-title,
+.portable-infobox .pi-header {
+    background: linear-gradient(180deg, #00A4FF, #0036FF, #9A0FFF);
+    color: white;
+}
+.theme-fandomdesktop-dark {
+    --theme-link-color: rgba(200, 200, 200, 1);
+}
+}}{{Physically Impossible}}{{NewDifficultyInfobox|title1=Omniscient|image1=OmniscientDiff.png|class=Class 9|type=
+*Physically Impossible Difficulty
+*Chain Difficulty|previous=[[File:AlphaNothing.png|30x30px]] [[Aleph-Something]]|next=[[File:Enigmatic.gif|30x30px]] [[Enigmatic]]|alt_next=[[File:OmnipresentDiff.png|30x30px]] [[Omnipresent]]|class_range=Mid|difficulty_range=Baseline to Peak|chain(s)=Omni-chain|creator(s)=
+*Original Creator: User321865 
+*Revamper: [[User:SilentX555|SilentX555]]|rating=98|decal_id=128811987588403}}
+==What is '''Omniscient'''?==
+[[File:OmniscientDiff.png|30x30px]] '''Omniscient''' is a [[:Category:Physically Impossible|Physically Impossible]] difficulty that is located right in the '''Mid''' range in [[:Category:Class 9|Class 9]], being harder than [[File:AlphaNothing.png|30x30px]] [[Aleph-Something]] but easier than [[File:Enigmatic.gif|30x30px]] [[Enigmatic]], with a difficulty rating of 98.
+
+This difficulty, along with the difficulties in Class 9 and above, cannot be accurately built on obby building games like Tower Creator and Obby Creator (even with gamepasses) because of the limits of the slots provided by the games, meaning it's recommended to know how to use Roblox Studio to build a structure of this difficulty with perfect accuracy.
+
+Also, the completion of a structure of [[File:OmniscientDiff.png|30x30px]] '''Omniscient''' difficulty, along with the rest of the Omni-chain difficulties, gives the player an item corresponding to the difficulty beaten. For this difficulty, the item obtained is the '''Gift of Omniscience''', which the ability of said item is while holding it, the item shows the player how to do a glitch obstacle, an advanced jump, and any complex obstacle that the player might be confused about, being really powerful for difficulties well above the difficulty rating of 98.<div style="width: 100%; overflow-x: scroll;">
+==Icon Representation==
+{| class="fandom-table"
+! style="background-color: #00A4FF; background: linear-gradient(to bottom, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%); " |Icon
+! style="background-color: #00A4FF; background: linear-gradient(to bottom, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%); " |Description
+! style="background-color: #00A4FF; background: linear-gradient(to bottom, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%); " |Date Created
+|-
+| style="background-color: #00A4FF; background: linear-gradient(to top, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%); " |[[File:OmniscientDiff.png|250x250px]]
+| style="background-color: #00A4FF; background: linear-gradient(to top, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%); " |The icon is a ζ (Greek letter zeta) that has a gradient from turquiose (#00A4FF) to blue (#0036FF) to purple (#9A0FFF) with a white outline, a blue and purple galaxy in the background and a light vignette effect applied to it.
+| style="background-color: #00A4FF; background: linear-gradient(to top, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%); " |21 May, 2022
+|}
+==Difficulty Placement==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 9'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#629592;color:white" |'''Baseline'''
+|-
+|[[File:Rush.png|50px]]
+|[[Rush]]
+|Normal
+|91
+|-
+|[[File:Hhhhhhhhhhhh.png|50px]]
+|[[Aleph-VSC]]
+|Normal
+|92
+|-
+|[[File:New Misery Icon.png|50px]]
+|[[Misery]]
+|Normal
+|93
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Liminality Chain (Low)'''
+|-
+|[[File:Mysterious2.png|50px]]
+|[[Mysterious]]
+|Liminality Chain
+|94
+|-
+|[[File:Undocumented.png|50px]]
+|[[Undocumented]]
+|Liminality Chain
+|95
+|-
+|[[File:Liminesque.png|50px]]
+|[[Denial]]
+|Liminality Chain
+|96
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|[[File:AlphaNothing.png|50px]]
+|[[Aleph-Something]]
+|Normal
+|97
+|-
+|[[File:OmniscientDiff.png|50px]]
+|<code>[[Omniscient]] '''(You are here.)'''</code>
+|Omni-Chain
+|98
+|-
+|[[File:Enigmatic.gif|50px]]
+|[[Enigmatic]]
+|Normal
+|99
+|}
+==Obstacles==
+{| class="fandom-table"
+|+Obstacles of [[File:OmniscientDiff.png|30x30px]] '''Omniscient'''
+! style="background-color: #00A4FF; background: linear-gradient(to bottom, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%);" |Spectrum/Obstacles
+! style="background-color: #00A4FF;" |Baseline
+! style="background-color: #006DFF;" |Low
+! style="background-color: #0036FF;" |Mid
+! style="background-color: #4D23FF;" |High
+! style="background-color: #9A0FFF;" |Peak
+|-
+| style="background-color: #00A4FF; background: linear-gradient(to top, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%);" |Jump (Climbable)
+| style="background-color: #0086d1;" |3567 studs
+| style="background-color: #0059d1;" |3783.75 studs
+| style="background-color: #002cd1;" |4000.5 studs
+| style="background-color: #3e1bd1;" |4217.25 studs
+| style="background-color: #7e0dd1;" |4434 studs
+|-
+| style="background-color: #00A4FF; background: linear-gradient(to bottom, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%);" |Jump (Unclimbable)
+| style="background-color: #0086d1;" |3388.65 studs
+| style="background-color: #0059d1;" |3594.5625 studs
+| style="background-color: #002cd1;" |3800.475 studs
+| style="background-color: #3e1bd1;" |4006.3875 studs
+| style="background-color: #7e0dd1;" |4212.3 studs
+|-
+| style="background-color: #00A4FF; background: linear-gradient(to top, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%);" |Wraparound (Climbable)
+| style="background-color: #0086d1;" |3031.95 studs
+| style="background-color: #0059d1;" |3216.1875 studs
+| style="background-color: #002cd1;" |3400.425 studs
+| style="background-color: #3e1bd1;" |3584.6625 studs
+| style="background-color: #7e0dd1;" |3768.9 studs
+|-
+| style="background-color: #00A4FF; background: linear-gradient(to bottom, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%);" |Wraparound (Unclimbable)
+| style="background-color: #0086d1;" |2885.703 studs
+| style="background-color: #0059d1;" |3061.05375 studs
+| style="background-color: #002cd1;" |3236.4045 studs
+| style="background-color: #3e1bd1;" |3411.75525 studs
+| style="background-color: #7e0dd1;" |3587.106 studs
+|-
+| style="background-color: #00A4FF; background: linear-gradient(to top, #00A4FF 0%, #0036FF 50%, #9A0FFF 100%);" |Special Obstacles
+| style="background-color: #0086d1;" |Complete a random Class 8 structure but everything is invisible.
+| style="background-color: #0059d1;" |Beat an [[File:ErrorDifficulty.webp|30x30px]] [[w:c:jtohs-hardest-towers:Error|eRRoR]] difficulty structure but with unpredictable glitches that buffs the structure to this spectrum.
+| style="background-color: #002cd1;" |Predict 500 coinflips while doing a 4000 studs climbable jump.
+| style="background-color: #3e1bd1;" |Rebeat the difficulty chart from Baseline Class Negative up to [[File:Mysterious2.png|30x30px]] [[Mysterious]].
+| style="background-color: #7e0dd1;" |Do a MAIKBSPPMCCC2.2VW2OBWSBTWGA11.11VWAIKSSITFF. (Short for: <small><small>Mid air insta-kill beatblock spinning post-patch moving cylinder corner clip going at 2.2 velocity with 2 other beginner weld spinners trying to block the way going at 11.11 velocity with an insta-kill spinner shoved in there just for fun</small></small>)
+|}</div>
+==Structures==
+===Structures of this difficulty:===
+*[[Radio Tower of Manifesting Boundless Mastery]] (Baseline [[File:OmniscientDiff.png|30x30px]] '''Omniscient''')
+===Structures containing this difficulty:===
+*Probably a lot of DC structures that goes to this difficulty or above.
+==Trivia==
+*This difficulty is the easiest and the first difficulty that resides in the Omni-chain.
+==CFTP==
+If a player somehow completes a structure of [[File:OmniscientDiff.png|30x30px]] '''Omniscient''' difficulty, along with getting the item previously mentioned, also can go to 2 different paths: [[File:Enigmatic.gif|30x30px]] [[Enigmatic]], for continuing the main chart or [[File:OmnipresentDiff.png|30x30px]] [[Omnipresent]], for continuing the Omni-chain.{{MainDifficultiesNavbox}}
+[[Category:Class 9]]
+[[Category:Difficulties]]
+[[Category:Omni-chain]]
+[[Category:Physically Impossible]]

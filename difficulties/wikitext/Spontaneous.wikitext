@@ -1,0 +1,214 @@
+__NOTOC__
+<div style="background:forestgreen;padding:1em;font-family:rubik;border-left:5px solid #00ff08">
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:SpontaneousBackground.jpeg|2000px]]</div>
+<div class="html5audio" style="clear:both;float:right;" data-file="https://static.wikia.nocookie.net/jtohs-joke-towers/images/9/9d/SpontaneousMusic.mp3" data-volume="0.1" data-download="false" data-preload="metadata" data-options="autoplay,loop">The official music of <span style="color:#81ff73;text-shadow:0 2px 5px #81ff73;font-family:Josefin Slab">''Spontaneous''</span></div>
+{{Scrollbox|Notices=
+'''Notices'''
+{{Humanly Possible}}
+{{Inclusion|reason=Sanjay2133 made it}}
+{{Large Page}}
+{{Class Finale}}
+}}{{JToHW Quote|text='''Welcome to one of the easiest difficulties you will encounter! Also I hope you like the music I put.'''|quoter=Sanjay2133}}
+----
+
+----
+{{NewDifficultyInfobox|title1=<span style="color:#81ff73;text-shadow:0 2px 5px #81ff73;font-family:Josefin Slab">''Spontaneous''</span>|image1=Spontaneous.png|caption1=Welcome!|class=Class 0|rating=-16|type=*Unofficial Difficulty
+*Humanly Possible|previous=[[File:AutomaticNew.png|30px]] [[Automatic]]|next=[[File:JoyfulDiffIcon.png|30px]] [[Joyful]]|alt_previous=|alt_next=|class_range=Peak Class 0|difficulty_range=Belowground to Peripheral|main_difficulty=[[File:AutomaticNew.png|30px]] [[Automatic]]|official_music(s)=[https://www.youtube.com/watch?v=KNO40AbHuTQ&ab_channel=SiIvaGunner Green Greens - Kirby Super Star]|creator(s)=sanjay2133|date_added=Feb 28, 2023|prior_previous=* [[File:Mazeophobia.jpg|30px]] [[Unlosable/Old#Mazeophobia|Mazeophobia]]
+* [[File:Unlosable.png|30px]] [[Unlosable]]|prior_next=[[File:AutomaticNew.png|30px]] [[Automatic]]|decal_id=12646657234}}
+<h2 style="
+display: block;
+border-bottom: 3px solid #81ff73;
+color: #b3ffb0;
+font-size: 125%;
+font-weight: bold;
+text-align: left;">
+<span style="background: #81ff73; padding: 0.4em; margin: 0.1em;"><span style="color:#33c416">Introduction</span></span>
+</h2>
+'''What is''' [[File:Spontaneous.png|30x30px]] <span style="color:#81ff73;text-shadow:0 2px 5px #81ff73;font-family:Josefin Slab">'''<big>Spontaneous</big>'''</span>? 
+
+Well, [[File:Spontaneous.png|30x30px]] <span style="color:#81ff73;text-shadow:0 2px 5px #81ff73;font-family:Josefin Slab">'''<big>Spontaneous</big>'''</span> is an incredibly simple class 0 difficulty and a successor of [[File:AutomaticNew.png|30px]] [[Automatic]] and a predecessor of [[File:JoyfulDiffIcon.png|30px]] [[Joyful]], the first difficulty requiring input. This difficulty does not require any input but is possible to fail if one was to try to do so deliberately. This means you can go AFK and still win, since you don't have to do anything! Due to this, it is one of the easiest difficulties one may encounter in the chart. 
+
+This difficulty is humanly possible, meaning that it is possible for humans to complete. In fact, it is so easy that almost every human could beat this difficulty. In fact, it is possible for some smarter organisms to even complete. 
+
+[[File:Spontaneous.png|30x30px]] <span style="color:#81ff73;text-shadow:0 2px 5px #81ff73;font-family:Josefin Slab">'''<big>Spontaneous</big>'''</span> relies heavily on client objects such as conveyors and elevators. An average tower in this difficulty would have various contraptions to get the player to the winpad without the player performing a single action. 
+
+Its name originates from the word spontaneous, which means both natural and uninhibited and instinctive and involuntary. This means that this difficulty is also very simple and natural, and retains the automatic nature of [[File:AutomaticNew.png|30px]] [[Automatic]]. 
+
+[[File:Spontaneous.png|30x30px]] <span style="color:#81ff73;text-shadow:0 2px 5px #81ff73;font-family:Josefin Slab">'''<big>Spontaneous</big>'''</span> is also the border of automated possibility, meaning that this is the last difficulty you do not need to perform any input in. In difficulties after this, you would need to perform at least one action. 
+
+The difficulty would have a tier 0 and would have a [[Metris|Kol Metris]] rating of |1.2| due to its placement. 
+
+Enough with the introduction, let's move onto the Icon Representation! 
+<h2 style="
+display: block;
+border-bottom: 3px solid #81ff73;
+color: #b3ffb0;
+font-size: 125%;
+font-weight: bold;
+text-align: left;">
+<span style="background: #81ff73; padding: 0.4em; margin: 0.1em;"><span style="color:#33c416">Icon Representation</span></span>
+</h2>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Difficulty’s Icons
+|-
+!'''Icon'''
+!'''Description'''
+|-
+| colspan="3" style="background: #81ff73; color: white" |'''Current''' 
+|-
+| style="background-color: green;" |[[File:Spontaneous.png|300x300px]]
+| style="background-color: green;" |The icon contains a mint and a light green checkered background. There is also a grassy and a darker viridescent border around it. One of the important elements of the icon is a ":D" emoticon in the center, referencing the previous difficulty, [[File:AutomaticNew.png|30px]] [[Automatic]]. There are 2 stars on the top left and the bottom right of the icon as well, representing the easiness and joy one would experience when beating this difficulty. Last of all, inward are various brighter spots, representing the bright nature of this difficulty.
+|}
+<h2 style="
+display: block;
+border-bottom: 3px solid #81ff73;
+color: #b3ffb0;
+font-size: 125%;
+font-weight: bold;
+text-align: left;">
+<span style="background: #81ff73; padding: 0.4em; margin: 0.1em;"><span style="color:#33c416">Catches</span></span>
+</h2>
+In this difficulty, the catches are mostly random events that don't affect the difficulty in any way. 
+
+* Lighthearted and joyful music is playing!
+*Every 7.5 seconds you spend in this difficulty, there is a chance of an event happening. 
+**The conveyors/contraptions are sped up 7.5%. - 10%
+**The conveyors/contraptions are slowed down by 2.5%. - 10%
+**A cute picture appears on your screen. - 7%
+**A random sound effect plays. - 5%
+**You gain 5 more WS and 8 more JP! - 4%
+**You instantly win! - 1.5%
+*On the sides of the walls, there are various cute pictures for you to stare at!
+*The entire difficulty is around 30 seconds to 3 minutes long.
+*Some parts of the difficulty are unfailable, but some aren't.
+<h2 style="
+display: block;
+border-bottom: 3px solid #81ff73;
+color: #b3ffb0;
+font-size: 125%;
+font-weight: bold;
+text-align: left;">
+<span style="background: #81ff73; padding: 0.4em; margin: 0.1em;"><span style="color:#33c416">Obstacles</span></span>
+</h2>
+
+{| class="fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>''' 
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Waiting
+| style="background-color: #005980;" |<font color="white">Wait 450 seconds</font>
+| style="background-color: #014500;" |<font color="white">Wait 475 seconds</font>
+| style="background-color: #336000;" |<font color="white">Wait 500 seconds</font>
+| style="background-color: #6d5c00;" | <font color="white">Wait 525 seconds</font>
+| style="background-color: #964a00;" |<font color="white">Wait 550 seconds</font>
+| style="background-color: #5a0000;" |<font color="white">Wait 575 seconds</font>
+| style="background-color: #550055;" |<font color="white">Wait 599 seconds</font>
+|-
+| Conveyors
+| style="background-color: #005980;" |<font color="white">Ride a conveyor for 100 studs</font>
+| style="background-color: #014500;" |<font color="white">Ride a conveyor up a slope for 100 studs.</font>
+| style="background-color: #336000;" |<font color="white">Ride a tilted conveyor for 100 studs.</font> 
+| style="background-color: #6d5c00;" |<font color="white">Ride a conveyor with turns for 100 studs</font>
+| style="background-color: #964a00;" |<font color="white">Ride a conveyor maze</font>
+| style="background-color: #5a0000;" |<font color="white">Ride a slow conveyor maze</font>
+| style="background-color: #550055;" |<font color="white">Ride a spinning conveyor</font> 
+|-
+|Elevators
+| style="background-color: #005980;" |<font color="white">Ride a rapid elevator up 100 studs.</font>
+| style="background-color: #014500;" |<font color="white">Ride a rapid elevator up 150 studs</font>
+| style="background-color: #336000;" |<font color="white">Ride a fast elevator up 150 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">Ride a fast elevator up 200 studs</font>
+| style="background-color: #964a00;" |<font color="white">Ride an elevator up 200 studs</font>
+| style="background-color: #5a0000;" |<font color="white">Ride an elevator up 250 studs</font>
+| style="background-color: #550055;" |<font color="white">Ride a slow elevator up 225 studs</font>
+|-
+|Killbrick
+| style="background-color: #005980;" | <font color="white">Get pushed into an instakill brick, die, and then respawn at the winpad.</font> 
+| style="background-color: #014500;" | <font color="white">Get pushed into a killbrick that does 66 damage, die, and then respawn at the winpad.</font> 
+| style="background-color: #336000;" | <font color="white">Get pushed into a killbrick that does 40 damage, die, and then respawn at the winpad.</font> 
+| style="background-color: #6d5c00;" | <font color="white">Get pushed into a killbrick that does 30 damage, die, and then respawn at the winpad.</font> 
+| style="background-color: #964a00;" | <font color="white">Get pushed into a killbrick that does 20 damage, die, and then respawn at the winpad.</font>
+| style="background-color: #5a0000;" |<font color="white">Get pushed into a killbrick that does 15 damage, die, and then respawn at the winpad.</font>
+| style="background-color: #550055;" |<font color="white">Get pushed into a killbrick that does 10 damage, die, and then respawn at the winpad.</font>
+|}
+<h2 style="
+display: block;
+border-bottom: 3px solid #81ff73;
+color: #b3ffb0;
+font-size: 125%;
+font-weight: bold;
+text-align: left;">
+<span style="background: #81ff73; padding: 0.4em; margin: 0.1em;"><span style="color:#33c416">Gallery</span></span>
+</h2>
+<gallery>
+File:Jwklong Spontaneous.png|An unofficial icon made by jwklong.
+</gallery><h2 style="
+display: block;
+border-bottom: 3px solid #81ff73;
+color: #b3ffb0;
+font-size: 125%;
+font-weight: bold;
+text-align: left;">
+<span style="background: #81ff73; padding: 0.4em; margin: 0.1em;"><span style="color:#33c416">Trivia</span></span>
+</h2>
+
+*This difficulty uses its own custom-colored headers; however, they aren't a template.
+*This is the first difficulty to have both a Belowground and a Peripheral section on the Obstacle table. 
+**This used [[File:Cataclysmicreal.jpg|30x30px]] [[Cataclysmic]]'s table that had a Peripheral section, but not a Belowground section.
+*This difficulty was created after class 0 was changed to high standard after many class 0 difficulties were deleted.
+*[[File:Spontaneous.png|30x30px]] <span style="color:#81ff73;text-shadow:0 2px 5px #81ff73;font-family:Josefin Slab">'''<big>Spontaneous</big>'''</span> was originally planned to be before [[File:AutomaticNew.png|30px]] [[Automatic]], but this was changed (obviously)
+*This difficulty was then moved to the finale of Class -1.
+*Its icon was originally going to feature a ":)" emoticon, before it was changed to resemble [[File:AutomaticNew.png|30px]] [[Automatic]]'s "=D" emoticon.
+*The icon description of this difficulty was made by [[User:YataDev|YataDev]]?.
+<h2 style="
+display: block;
+border-bottom: 3px solid #81ff73;
+color: #b3ffb0;
+font-size: 125%;
+font-weight: bold;
+text-align: left;">
+<span style="background: #81ff73; padding: 0.4em; margin: 0.1em;"><span style="color:#33c416">Towers!</span></span>
+</h2>
+
+====Towers within this Difficulty:==== 
+
+*Tower of Quirky Contraptions: Mega Nerfed ''(Fictional)''
+*Steeple of Astounding Automations ''(Fictional)''
+*Citadel of Joyous Adventures ''(Fictional)''
+*[[Citadel of Zeroeth Class]] ''(Non-fictional)''
+
+==== Towers including this Difficulty:==== 
+
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Monolith of Every EJT Difficulty]]
+
+<h2 style="
+display: block;
+border-bottom: 3px solid #81ff73;
+color: #b3ffb0;
+font-size: 125%;
+font-weight: bold;
+text-align: left;">
+<span style="background: #81ff73; padding: 0.4em; margin: 0.1em;"><span style="color:#33c416">Afterwards</span></span>
+</h2>That was fun, wasn't it? Well, it's time for you to start being joyfu
+[[Category:Class 0]]
+[[Category:Humanly Possible]]
+[[Category:Sub-Difficulties]]
+[[Category:Class Finale Difficulties]]
+l, as the
+
+next difficul
+
+ty is [[File:JoyfulDiffIcon.png|30px]] [[Joyful]], so get ready to s
+
+tart actually performing inputs! Have fun and good luck on future adventures!
+{{DifficultiesNavbox}}
+[[Category:Class Finale Difficulty]]
+[[Category:Emoticon Difficulties]]
+[[Category:Starter Zone]]

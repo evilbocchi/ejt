@@ -1,0 +1,91 @@
+<div style="background:navy;padding:1em;font-family:rubik;border-left:5px solid blue">{{Scrollbox|Notices=
+<center>'''Notices'''</center>
+{{Humanly Possible}}
+}}
+{{NewDifficultyInfobox
+|title1=[[File:Winsome.png|25px]] <span style="color:cyan">'''Winsome'''</span>
+|image1=Winsome.png
+|class=[[:Category:Class 0|Class 0]]
+|rating=-28
+|type=[[:Category:Difficulties|Difficulty]]
+|previous=[[File:2020 10 28 0ec Kleki.png|30px]] [[Win]]
+|next=[[File:SquareDoNothing.png|30px]] [[Do Nothing]]
+|class_range=Baseline
+|difficulty_range=Low to High
+|decal_id=137182508877484
+|creator(s)=* [[File:MyNewAvatar.png|30px]] [[User:Tafgo7162|Tafgo7162]]|original_creator(s)=[[File:TDE.png|25px|link=User:Viranenthusiast]] [[User:Viranenthusiast|Viranenthusiast]]}}
+[[File:Winsome.png|25px]] <span style="color:cyan">'''Winsome'''</span> is an [[:Category:Unofficial|Unofficial]] [[:Category:Class 0|Class 0]] difficulty. This specific difficulty lies after {{Class0Difficulties|Win|25px}} [[Win]], yet before {{Class0Difficulties|Do Nothing|25px}} [[Do Nothing]]. It has a rating of -28, and is the supposed final difficulty in the "Chain of Winning", which isn’t actually an established chain.
+
+Due to its extremely low placement in the [[Difficulty Chart]], Winsome lies near the beginning of human possibility, as the second difficulty of the second class. Anyone, from robloxians with very low IQ, to even possibly some animals (excluding humanity), could quite easily complete such a difficulty as Winsome. 
+
+It is literally automated at this point, and incredibly boring. Some may even wonder why this difficulty exists. 
+
+A tier rating for this would be ''below'' the tier scale, and a Kol Metris would be ~|23|.
+
+=== Placement ===
+
+* [[File:Win (i guess).png|frameless|30x30px]] [[Win]] (-29)
+* [[File:Winsome.png|30x30px]] <span style="color:cyan">'''Winsome''' ''(YOU ARE HERE) (-28)''</span>
+* {{Class0Difficulties|Do Nothing}} [[Do Nothing]] (-27)
+
+== Icon Representation ==
+The icon for this difficulty is represented in a similar format to that of Instant Win and Win, featuring a sky blue background with a cyan -_- emoticon. However, it also features a slightly darker border.
+
+== Obstacles ==
+
+=== Baseline '''Winsome''' ===
+
+* 20 stud fall to the winpad.
+* Wait for 5 seconds. 
+
+=== Low '''Winsome''' ===
+
+* 25 stud fall to the winpad.
+* Wait for 7 seconds. 
+
+=== Middle '''Winsome''' ===
+
+* 35 stud fall to the winpad.
+* Wait for 9 seconds. 
+
+=== High '''Winsome''' ===
+
+* 55 stud fall to the winpad.
+* Wait for 11 seconds. 
+
+=== Peak '''Winsome''' ===
+
+* 75 stud fall to the winpad.
+* Wait for 13 seconds. 
+
+== Appearances ==
+
+=== Non-Fictional [[File:Mmmmmmm.jpg|frameless|60x60px]] ===
+* [https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Floor of Swift Descension] (Mid-High '''Winsome''')
+
+=== Fictional ===
+
+* Tower of Freefall (Low '''Winsome''')
+* Tower of Almost Instantaneous Gameplay (High '''Winsome''')
+* [[Tower of Reversed Gravity]] ('''Winsome?''')
+
+== Gallery ==
+<gallery>
+File:Jwklong Winsome.png|An unofficial icon made by jwklong.
+File:Winsum.png|An unofficial icon made by Winlogon95.
+</gallery>
+
+== Trivia ==
+
+* This difficulty was originally intended for TDE’s Difficulty Button Simulator.
+* This difficulty was created once [[:Category:Class Negative|Class Negative]] was split.
+
+== Continuing on from this point ==
+{{DifficultiesNavbox}}
+After one was to have beaten this incredibly easy difficulty, they would have gone on to {{Class0Difficulties|Do Nothing|25px}} [[Do Nothing]].
+</div>
+[[Category:Class 0]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+[[Category:Two color icon]]
+[[Category:Starter Zone]]

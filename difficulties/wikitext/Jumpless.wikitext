@@ -1,0 +1,150 @@
+{{JET}}
+{{Humanly Possible}}
+{{DISPLAYTITLE:'''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">Jumpless</span>'''}}
+{{NewDifficultyInfobox|image1=JumplessResized.PNG|title1='''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">Jumpless</span>'''|caption1=Handicapped friendly obbies!|class=Class 1|type=*Humanly Possible Difficulty
+*Official Difficulty|previous=[[File:Cat.png|30px]] [[Climb A Truss]]|next=[[File:Lovely.png|30px]] [[Lovely]]|class_range=Low|difficulty_range=Baseline to Peak|creator(s)=*??? - Original
+*Sanjay2133 - Revamper|date_added=*To JET - ???
+*To JJT - 20 May 2022|revamp_date=Feb. 2nd, 2023|decal_id=8361645230|rgb_color=201, 192, 231|rating=-11|alt_previous=[[File:Tranquil2024.png|30px]] [[Tranquil]]|alt_next=[[File:Starter.png|30px]] [[Starter]]}}
+==Introduction - [[File:JumplessDifficulty.webp|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">''Jumpless''</span>'''</big>==
+[[File:JumplessDifficulty.webp|30x30px]] '''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">Jumpless</span>''' is a Class 1 difficulty in the unofficial chart. It is an official difficulty that originated from the JToH's Easiest Towers wiki. Additionally, it's humanly possible, meaning that it's possible to attempt and complete as a human, and it lies before [[File:Starter.png|frameless|30x30px]] [[Starter]] but after  [[File:Tranquil2024.png|30px]] [[Tranquil]].                             
+
+[[File:JumplessDifficulty.webp|30x30px]] '''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">Jumpless</span>'''<nowiki/>'s name references how this difficulty is incredibly easy, hence why it's placed in class 1, and how it's possible to complete without jumping. Due to this, most of the Roblox community would be able to complete an obby of this magnitude. There are some gaps, but they are not really "jumps" as you can easily walk over them without falling. The difficulty of a jumpless tower mostly comes from the fact that walking off is easy, and not because of the existence of "jumps".
+
+This difficulty has a rating of -11, signifying that [[File:JumplessDifficulty.webp|30x30px]] '''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">Jumpless</span>''' is one of the easiest difficulties one would encounter on their journey through the chart. As previously mentioned, almost any Robloxian could beat an obstacle of this difficulty without any problem.
+
+The difficulty would not have a tier rating, due to it being too easy. However, it would land a [[Metris|Kol Metris]] rating of |~8-9| due to its placement.
+== Icon Representation - [[File:JumplessDifficulty.webp|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">''Jumpless''</span>'''</big>==
+{| class="fandom-table"
+|+'''Icon Representation'''
+!'''Name'''
+!'''Icon'''
+!'''Date Added'''
+!'''Description'''
+|-
+|'''New'''
+|[[File:JumplessResized.PNG|300x300px]] 
+|'''June 23, 2022'''
+|The icon is incredibly simple, suggesting that the difficulty is the same as well. It is merely a light lavender square, signifying its ease and the effortless nature of the difficulty.
+|-
+|'''Fanmade'''
+|[[File:Jumpless Difficulty Remake.png|300x300px]]
+|'''Jan 10, 2023'''
+|The fanmade icon is similar but has more elements. It has a pink background instead of a lavender one, with a blotch of lavender in the topright and a big "^_^" emoticon in the center. Overall, it is similar and conveys a similar meaning to the official icon.
+|}
+==Obstacles - [[File:JumplessDifficulty.webp|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">''Jumpless''</span>'''</big>==
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|"Jumps"
+| style="background-color: #014500;" |2 studs
+| style="background-color: #336000;" |<font color="white">2.075 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">2.15 studs</font>
+| style="background-color: #964a00;" |<font color="white">2.225 studs</font>
+| style="background-color: #5a0000;" |<font color="white">2.3 studs</font>
+|-
+|Stick-In's
+| style="background-color: #014500;" |3.5 stud
+| style="background-color: #336000;" |<font color="white">3.4 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">3.3 studs</font>
+| style="background-color: #964a00;" |<font color="white">3.2 studs</font>
+| style="background-color: #5a0000;" |<font color="white">3.1 studs</font>
+|-
+|Walking
+| style="background-color: #014500;" |<font color="white">100 studs</font>
+| style="background-color: #336000;" |125 studs
+| style="background-color: #6d5c00;" |<font color="white">150 studs</font>
+| style="background-color: #964a00;" |<font color="white">175 studs</font>
+| style="background-color: #5a0000;" |<font color="white">200 studs</font>
+|-
+|Conveyors
+| style="background-color: #014500;" |<font color="white">300 studs on a 15 speed conveyor</font>
+| style="background-color: #336000;" |<font color="white">310 studs on a 14 speed conveyor</font>
+| style="background-color: #6d5c00;" |<font color="white">320 studs on a 13 speed conveyor</font>
+| style="background-color: #964a00;" |<font color="white">330 studs on a 12 speed conveyor</font>
+| style="background-color: #5a0000;" |<font color="white">340 studs on a 11.5 speed conveyor</font>
+|-
+|Walking With Turns
+| style="background-color: #014500;" |<font color="white">Walk 50 studs with 2 turns</font>
+| style="background-color: #336000;" |<font color="white">Walk 75 studs with 2 turns</font>
+| style="background-color: #6d5c00;" |<font color="white">Walk 80 studs with 3 turns</font>
+| style="background-color: #964a00;" |<font color="white">Walk 100 studs with 3 turns</font>
+| style="background-color: #5a0000;" |<font color="white">Walk 115 studs with 4 turns</font>
+|-
+|High "Jumps"
+| style="background-color: #014500;" |0.8 stud
+| style="background-color: #336000;" |<font color="white">0.85 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">0.9 stud</font>
+| style="background-color: #964a00;" |<font color="white">0.95 stud</font>
+| style="background-color: #5a0000;" | <font color="white">1 stud</font>
+|}
+==Towers - [[File:JumplessDifficulty.webp|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">''Jumpless''</span>'''</big> ==
+<tabber>
+|-|
+Non-fictional=
+===Note: Towers listed here are likely inaccurate.===
+*[https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Floor of Not Even Needing to Jump]
+*[[Steeple of No Space]]
+*[[w:c:laabt:Tower of True Destiny|Tower of True Destiny]]
+*[https://www.roblox.com/games/8457114449/BIOME-3-Jacks-Tiny-Towers-Of-Hell Steeple of Jumpless Adventures]
+*[https://www.roblox.com/games/80166612504189/1K-Event-ToFR-Not-Too-Easy-Towers Tower of Midnight Walk]
+*[[Great Citadel of Needlessly Endlessly Evolving Difficulties]]
+|-|
+TNZT=
+*[[w:c:tnzt:Tower of Walking Inside The Frame|Tower of Walking Inside The Frame]]
+*[[w:c:tnzt:Tower of Jumpless Adventures|Tower of Jumpless Adventures]]
+*[[w:c:tnzt:Mini Tower of Input Delay|Mini Tower of Input Delay]]
+*[[w:c:tnzt:Tower of Underestimating and Overestimating Difficulty|Tower of Underestimating and Overestimating Difficulty]]
+*[[w:c:tnzt:Tower of Cart Ride For Admin|Tower of Cart Ride For Admin]]
+*[[w:c:tnzt:Steeple of Slow Motion|Steeple of Slow Motion]]
+*[[w:c:tnzt:Steeple of Different Areas|Steeple of Different Areas]]
+*[[w:c:tnzt:Tower of Two-Dimensional Vibes|Tower of Two-Dimensional Vibes]]
+*[[w:c:tnzt:Citadel of Crossing the Great Wall|Citadel of Crossing the Great Wall]]
+*[[w:c:tnzt:Mini Tower of Mechanical Tap|Mini Tower of Mechanical Tap]]
+*[[W:c:the-noob-zone-towers:Steeple of Needing Water|Steeple of Needing Water]]
+*[[w:c:tnzt:Steeple of Being Inconvienently Too Tall|Steeple of Being Inconvienently Too Tall]]
+*[[w:c:tnzt:Tower of Arcane Trials|Tower of Arcane Trials]]
+*[[w:c:tnzt:Tower of Weighed Down|Tower of Weighed Down]]
+*[[w:c:tnzt:Tower of Spine Chilling Nightmares|Tower of Spine Chilling Nightmares]]
+*[[w:c:tnzt:Steeple of Acrophobia|Steeple of Acrophobia]]
+*[[w:c:tnzt:Steeple of Lost and Found Eggs|Steeple of Lost and Found Eggs]]
+*[[w:c:the-noob-zone-towers:Great Citadel of Walking Inside The Frame|Great Citadel of Walking Inside The Frame]]
+*[[w:c:tnzt:Steepull of Making Orang Rhyme With Banan|Steepull of Making Orang Rhyme With Banan]]
+*[[w:c:tnzt:Steeple of Dreamy Hue|Steeple of Dreamy Hue]]
+*[[w:c:tnzt:Tower of Epic Ascension|Tower of Epic Ascension]]
+|-|
+Fictional/Unknown=
+*Tower of Intersectional Frenzy <!-- UNKNOWN -->
+* Hallway of Walking <!-- UNKNOWN -->
+|-|
+Upcoming=
+*[[w:c:laabt:Gleeful|Tower of Maneuvering]]
+|-|
+DCTs=
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Monolith of Every EJT Difficulty]]
+*{{Class25Difficulties|The Final Difficulty.}} [[Monolith of Completely Endless Difficulties]]
+*{{Class25Difficulties|The Final Difficulty.}} [[Monolith of Beyond Immeasurable Difficulty Chart]] 
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Custom, Impossible and Normal Difficulties|Great Citadel of Custom, Impossible, and Normal Difficulties]] 
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Grand and Endless Difficulties]]
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Infinity Ascending]] 
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Citadel of Soul Crushing Difficulty Chart]]
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]]
+*[[File:New DI Image.JPG|frameless|30x30px]] [[Great Citadel of Beyond Impossible Difficulties]]
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Impossible Difficulty Chart]]
+*[[File:Supreme.PNG|frameless|30x30px]] [[Obelisk of Humanly Impossible Difficulty Chart]]
+</tabber>
+
+==Continuing On - [[File:JumplessDifficulty.webp|50x50px]] <big>'''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">''Jumpless''</span>'''</big> ==
+You've beaten the 5th difficulty on the official difficulty chart, [[File:JumplessDifficulty.webp|30x30px]] '''<span style="background:-webkit-linear-gradient(left, lavender, lavender); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2px lavender">Jumpless</span>'''! Congratulations! Next up on the list is the difficulty [[File:Starter.png|frameless|30x30px]] [[Starter]], which will likely also be incredibly easy and simple to complete.
+{{MainDifficultiesNavbox}}
+[[Category:Possible]]
+[[Category:Class 1]]
+[[Category:Difficulties]]
+[[Category:One color icon]]
+[[Category:Classic Difficulty]]
+[[Category:Starter Zone]]

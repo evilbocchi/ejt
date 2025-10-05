@@ -1,0 +1,327 @@
+<!--SEE THIS LINK: https://docs.google.com/document/d/1bkIXlBZxDDzdhs1qmvitH4TqjynwrPWIWfF9ZVe1Wwo TO FIND OUT THE CONDITIONS OF MAINTAINING THIS DIFFICULTY-->{{Physically Impossible}}{{Large Page}}
+{{Quote (IPeedMyPants' Version)
+|quote = Scan the QR Code.
+|quoter = {{USERNAME}}
+}}
+{{NewDifficultyInfobox
+|title1 = QR Code
+|image1 = qr-codedifficulty.png
+|class = High [[:Category:Class 8|Class 8]]
+|type = [[:Category:Difficulties|Regular Difficulty]]
+|previous = {{Class11Difficulties|STLV}} [[Satan Tartarus Lucifer Void]]
+|next = [[File:Errorisation.png|frameless|30px]] [[Errorisation]]
+|sub_difficulty(ies) = {{Class12Difficulties|Bar Code}} [[User blog:EpicTheGamer2014/Bar Code|Bar Code]]
+|previous_creator(s)  =
+* [[User:OrbentuneAlt|OrbentuneAlt]]
+* [[User:TasmanianRex|TasmanianRex]]
+|date_added = 29 July 2021
+|previous_sub_difficulty(ies) = 
+* [[File:Nlogo.PNG|30px]] Narganizing
+* {{Class12Difficulties|Low Quality QR Code}} [[User:TasmanianRex/LQQRC: Legacy|Low Quality QR Code]]
+* [[File:Newest Narganizing.PNG|30px]] Narg
+|hex_color =
+* {{colorbox|#ffffff}} #FFFFFF (Background)
+* {{colorbox|#000000}} #000000 (Code)
+|rbg_color =
+* {{colorbox|#ffffff}} 255, 255, 255 (Background)
+* {{colorbox|#000000}} 0, 0, 0 (Code)
+|cmyk_color =
+* {{colorbox|#ffffff}} 0% ,0% ,0%, 0% (Background)
+* {{colorbox|#000000}} 0%, 0%, 0%, 100% (Code)
+|hsv_color =
+* {{colorbox|#ffffff}} 0°, 0%, 100% (Background)
+* {{colorbox|#000000}} 0°, 0%, 0% (Code)
+|hsl_color =
+* {{colorbox|#ffffff}} 0°, 0%, 100% (Background)
+* {{colorbox|#000000}} 0°, 0%, 0% (Code)
+|rating=85}}
+
+'''QR Code''' is a High [[:Category:Class 8|Class 8]] difficulty made by [[User:TasmanianRex|TasmanianRex]]. It consists of one sub difficulty, {{Class12Difficulties|Bar Code}} [[User blog:EpicTheGamer2014/Bar Code|Bar Code]] which is a sequel to this difficulty. This difficulty is the first difficulty made by TasmanianRex, with a humorous origin dating back in 2021. The icon represents your typical everyday QR Code. Obstacles in this difficulty are impossible to build in sandboxes, when there is a space limit (i.e Obby Creator). It was created on 29 July 2021.
+
+==Variants==
+Over the course of history, this difficulty has two variations, Bar Code and {{Class12Difficulties|Low Quality QR Code|20px}} [[User:TasmanianRex/LQQRC: Legacy|Low Quality QR Code]]. Bar Code is a sequel to this difficulty, originally meant to be an independent difficulty located in Baseline [[:Category:Class 15|Class 15]]. LQQRC is a follow up from Bar Code when the Low Budget Chain was relevant. It was deleted due to personal reasons and later archived in a subpage of User:TasmanianRex.
+*{{Class12Difficulties|Bar Code}} [[User blog:EpicTheGamer2014/Bar Code|Bar Code]]
+*{{Class12Difficulties|Low Quality QR Code}} [[User:TasmanianRex/LQQRC: Legacy|Low Quality QR Code]]
+
+==Icon Implementation==
+Implementing the icon of this difficulty is generally not recommended, as this is a potential violation of Roblox's Terms of Service if you added an external link outside of Roblox (except YouTube, Facebook, Discord, Twitter and Twitch). You also have to comply with your jurisdiction in your region as well as the Terms of Services in other websites. Moreover, you cannot circumvent Roblox's monitors by using a bypass. Thus, ether you have to substitute with a filter icon (ex. [Insert QR Code here]) or replicate the icon on Roblox Studio (which is subjected to moderation on Roblox). If you have the risk, you can ether use the original video found in this icon or use a different link. The safest option is to use what the QR code shown in this difficulty takes you to, even though it’s a rickroll. Here are the methods listed in this article:
+
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Methods
+|-
+!Image
+!Method Name
+!Description
+|-
+|[[File:qrmethod1.png|50px]]
+|Filter Image
+| This is one of the easiest method you can replicate. Not only you can create the icon with little to no effort, you also avoiding the risk of Roblox Moderation (unless it looks like a QR Code).
+|-
+|[[File:qrmethod2.png|50px]]
+|Hand-Made Image
+| By carefully building by using the icon as a reference, you can create a perfect looking icon. However, it may contain inaccuracies and subjected to moderation on Roblox.
+|-
+|[[File:qrmethod3.png|50px]]
+|Freshly Uploaded Image
+| This is the most dangerous method with highest rewards, as this is involving uploading a QR Code and waiting for moderation review process. If your image is flagged as a violation of Roblox's ToS, you will punished by warning or ban if continued with pre-existing offences.
+|-
+|[[File:qrmethod4.png|50px]]
+|Model/Decal Bypass
+|By bypassing the moderation process, you can exactly upload the icon into Roblox by unconventional means. For example, [https://www.roblox.com/library/7423058726/ this model] was uploaded into Roblox by using a patched model bypass method. The linked model is NOT the ultimate solution to the icon implementation problem. 
+|}
+
+==Obstacles==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Obstacle Directory
+|-
+!Obstacle Image
+! Obstacle Name
+!Spectrum
+!Catches/Notes
+|-
+| colspan="4" style="background: green; color: white" |'''Basic Obstacles'''
+|-
+| rowspan="5" |[[File:qrex1.png|50px]]
+|1015 Stud Wraparound
+|Bottom
+| rowspan="10" |<span style="color:gray" class="Level" ;>N/A</span>
+|-
+|1030 Stud Wraparound
+|Low
+|-
+|1045 Stud Wraparound
+|Mid
+|-
+|1060 Stud Wraparound
+|High
+|-
+|1075 Stud Wraparound
+|Peak
+|-
+| rowspan="5" |[[File:qrex2.png|50px]]
+|505x505 Stud Wraparound
+|Bottom
+|-
+|515x515 Stud Wraparound
+|Low
+|-
+|525x525 Stud Wraparound
+|Mid
+|-
+|535x535 Stud Wraparound
+|High
+|-
+|545x545 Stud Wraparound
+|Peak
+|-
+| rowspan="5" |[[File:qrex3.png|50px]]
+|1020 Stud Jump
+|Bottom
+| rowspan="5" |Climbable
+|-
+|1040 Stud Jump
+|Low
+|-
+|1060 Stud Jump
+|Mid
+|-
+|1080 Stud Jump
+|High
+|-
+|1100 Stud Jump
+|Peak
+|-
+| rowspan="5" |[[File:qrex4.png|50px]]
+|1015 Stud Jump
+|Bottom
+| rowspan="5" |Unclimbable
+|-
+|1035 Stud Jump
+|Low
+|-
+|1055 Stud Jump
+|Mid
+|-
+|1075 Stud Jump
+|High
+|-
+|1095 Stud Jump
+|Peak
+|-
+| colspan="4" style="background: maroon; color: white" | '''Advanced Obstacles'''
+|-
+| rowspan="2" |[[File:qrex6.png|50px]]
+|Mid-Air Laugh Clip
+|Low-Mid
+|<span style="color:gray" class="Level" ;>N/A</span>
+|-
+|Natural Mid-Air Freeze Clip
+|Mid
+|Without using FPS unlocker or holding Windows X Button.
+|-
+|[[File:Placeholder.png|50px]]
+|Spawn Fling Control
+|High
+|<span style="color:gray" class="Level" ;>N/A</span>
+|-
+|[[File:qrex5.png|50px]]
+|Dance Clip
+|Peak
+|Your character has no limbs, cannot jump, and you are not allow to use fling control. 
+|-
+| colspan="4" style="background: black; color: white" | '''Miscellaneous Obstacles'''
+|-
+| rowspan="10" |[[File:Placeholder.png|50px]]
+|Manually scan 10 Billion QR Codes alone.
+|Bottom
+| rowspan="5" |Every 50 Billion scans, you have to beat a buffed version of the entire Peak obstacles.
+|-
+|Manually scan 30 Billion QR Codes alone.
+|Low
+|-
+|Manually scan 100 Billion QR Codes alone.
+|Mid
+|-
+|Manually scan 500 Billion QR Codes alone.
+|High
+|-
+|Manually scan 1 Trillion QR Codes alone.
+|Peak
+|-
+|Manually scan 4 Trillion QR Codes alone.
+|Bottom
+| rowspan="5" |One of them is the correct one, but failing forces you to click 100 Billion times per second for 4 seconds or else you'll not proceed. 
+|-
+|Manually scan 10 Trillion QR Codes alone.
+|Low
+|-
+|Manually scan 30 Trillion QR Codes alone.
+|Mid
+|-
+|Manually scan 250 Trillion QR Codes alone.
+|High
+|-
+|Manually scan 1 Quadrillion QR Codes alone.
+|Peak
+|}
+
+==Difficulty History ==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Difficulty History
+|-
+! colspan="3" |Prior Previous 
+! colspan="3" |Prior Next
+|-
+!Difficulty
+!Class
+!Status
+!Difficulty
+!Class
+!Status
+|-
+|{{Class11Difficulties|STLV}} [[Satan Tartarus Lucifer Void]]
+|Peak [[:Category:Class 11|Class 11]]
+|<span style="color:green" class="Level" ;>[Unofficial]</span>
+|Snacker12
+|Baseline [[:Category:Class 12|Class 12]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|{{Class11Difficulties|Vacant}} [[Vacant]]
+|High [[:Category:Class 11|Class 11]]
+|<span style="color:green" class="Level" ;>[Unofficial]</span>
+|Smug Dance
+| Baseline [[:Category:Class 12|Class 12]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|Really Impossible
+|Baseline [[:Category:Class 12|Class 12]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+| rowspan="6" |[[File:sad asteroid.png|30px]] Imaginary
+| rowspan="6" |Baseline [[:Category:Class 12|Class 12]]
+| rowspan="6" |<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|{{Class11Difficulties|Vacant}} [[Vacant]]
+|High [[:Category:Class 11|Class 11]]
+|<span style="color:green" class="Level" ;>[Unofficial]</span>
+|-
+|[[File:Mr Incredible Deus Vult.PNG|30px]] DEUS VULT
+|Peak [[:Category:Class 11|Class 11]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|{{Class11Difficulties|TORMENT}} TORMENT
+|Peak [[:Category:Class 11|Class 11]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|[[File:Useless Imaginary.png|30px]] Useless Imaginary
+|Peak [[:Category:Class 11|Class 11]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|[[File:Bloody Collapse.png|30px]] Bloody Collapse 
+|Peak [[:Category:Class 11|Class 11]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|{{Class11Difficulties|STLV}} [[Satan Tartarus Lucifer Void]]
+|Peak [[:Category:Class 11|Class 11]]
+|<span style="color:green" class="Level" ;>[Unofficial]</span>
+|Satan Tartarus Lucifer Void: Badge's Version
+|Baseline [[:Category:Class 12|Class 12]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|[[File:Letterj.png|30px]] J
+|Peak [[:Category:Class 11|Class 11]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+| rowspan="2" |[[File:스크린샷 2022-04-29 오후 7.23.27.png|30px]] Faster than Speed 100 AI
+| rowspan="2" |Baseline [[:Category:Class 12|Class 12]]
+| rowspan="2" |<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|[[File:Impossible.jpg|30px]] ImpossibIe
+|Peak [[:Category:Class 11|Class 11]]
+|<span style="color:red" class="Level" ;>[Deleted]</span>
+|-
+|{{Class11Difficulties|STLV}} [[Satan Tartarus Lucifer Void]]
+|Mid [[:Category:Class 8|Class 8]]
+|<span style="color:green" class="Level" ;>[Unofficial]</span>
+|{{Class12Difficulties|Questionable}} [[User blog:EpicTheGamer2014/Questionable|Questionable]]
+|Baseline [[:Category:Class 12|Class 12]]
+|<span style="color:red" class="Level" ;>[Archived]</span>
+|}
+
+==Appearances==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Appearances in Each Experience
+|-
+!Experience Image
+! Experience Name
+!Location
+|-
+| colspan="3" style="background: teal; color: white" |'''Experiences'''
+|-
+|[[File:DBS Image.png|80px]]
+|[[Difficulty Button Simulator]]
+| rowspan="2" |[[:Category:Class 12|Class 12]]
+|-
+|[[File:Difficulty RPG thumbnail.jpeg|80px]]
+|Difficulty RPG
+|-
+| colspan="3" style="background: navy; color: white" |'''Towers'''
+|-
+|[[File:EoSaS's Frame.png|50px]]
+|EoSaS - [[Edifice of Short and Sweet]]
+|Secret Room
+|-
+|[[File:MoDDA Updated.png|10px]]
+|MoDDA - [[Monolith of Deadly Difficulties Approaching]]
+|Floor ???
+|}
+
+== Trivia ==
+
+* The QR code on the current image leads to a rickroll.
+* This difficulty cannot have a proper decal due to Roblox disallowing images that share links.
+* QR Code used to be in Class 12, as shown in a variety of games.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 8]]
+[[Category:Physically Impossible]]
+[[Category:Unofficial]]

@@ -1,0 +1,178 @@
+__NOTOC__
+{{Background|File=Spongebob_Background.png|Size=2000px}}
+<div style="padding:1em;border:10px solid #FFFD4D;background:#FFFC4D">
+
+<div style="background:grey;border-radius: 40px; padding: 10px 10px; opacity: 75%">
+{{NoticeScrollboxNew|Notices=
+{{Physically Impossible}}
+}}
+{{NewDifficultyInfobox
+|title1=<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Spongebob'''
+|image1=
+<gallery>
+File:Spongebob2.jpeg|Current
+File:Spongebob.jpeg|Old
+</gallery>
+|class=<span style="color:#053551;text-shadow:0 2px 6px ;font-family:Kefa">'''Class 9'''
+|rating=53.875
+|type=Sub-Difficulty
+|previous=[[File:60mmm.jpg|30px]] [[60mmm]] (Class 9 Version)
+|next=[[File:MalicatiousNew.png|30px]] [[Malicatious]]
+|class_range=<span style="text-shadow: 0 2px 4px #81CDF9; color:#81CDF9">Peak Class 9</span>
+|difficulty_range=Baseline - Peak
+|decal_id=[https://www.roblox.com/library/6413716691/Spongebob 6413716691] (OLD I'LL MAKE NEW SOON)
+|creator(s)=
+* [[User:Jtohfanlover|Jtohfanlover]]: Creator
+* [[User:KoolTheEpic|KoolTheEpic]]: Owner
+* [[User:EndJJT|EndJJT]]: Revamper
+|date_added=January 28th 2021}}
+==<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Spongebob - Introduction'''==
+<tabber>
+|-|
+Difficulty Explanation=
+[[File:Spongebob2.jpeg|30px]] <span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Spongebob'''</span> is a peak Class 9 and is the last sub in the class. It's currently a sub of [[File:60mmm.jpg|30px]] [[60mmm]]. It it obviously above [[File:60mmm.jpg|30px]] [[60mmm]] and is behind [[File:MalicatiousNew.png|30px]] [[Malicatious]]. This sub-difficulty is the only sub-difficulty here meaning there is no other sub-difficulties or sub-sub-difficulties.
+
+This difficulty is classified as physically impossible, meaning you must defy physics in order to beat these difficulties. Any successful attempt of beating this is illegitimate, either that or it is heavily inaccurate.
+
+|-|
+Character Explanation=
+(This explanation is from [https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character) Wikipedia] itself.)
+
+"SpongeBob SquarePants is the protagonist of the American animated television series of the same name. Voiced by Tom Kenny, he is characterized by his optimism and childlike attitude. SpongeBob is commonly seen hanging out with his friend Patrick Star, working at the Krusty Krab, and attending Mrs. Puff's Boating School".                          
+</tabber>  
+==<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Spongebob - Icon Representation'''==
+===[[File:Spongebob2.jpeg|20px]] <span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Current Icon''' [[File:Spongebob2.jpeg|20px]]===
+
+The current icon represents the character named "Spongebob Squarepants" with a bright yellow background.
+
+===[[File:Spongebob.jpeg|20px]] <span style="text-shadow: 0 0 4px #FAE139; color:#FAE139">'''Old Icon''' [[File:Spongebob.jpeg|20px]]===
+
+Basically the same thing as the current icon but it's a bit longer and Spongebob looks a little bit better.
+==<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Placement'''==
+===High Class 9===
+*[[File:El Vacio Sqaure.png|30px]] [[El Vacio]] (52)
+*[[File:Universe Disruption.png|frameless|30x30px]] [[Universe Disruption]] (53)
+*[[File:Mentality.jpg|30px]] [[Mentality]] (53.25)
+*{{Class9Difficulties|Hyperwave}} [[Hyperwave]]  (53.5)
+===Peak Class 9===
+*{{Class9Difficulties|60mmm}} [[60mmm]] (53.75)
+**[[File:Spongebob2.jpeg|50px]] <big>'''Spongebob'''</big> (53.875) ← '''''YOU ARE HERE'''''
+*[[File:MalicatiousNew.png|frameless|30x30px]] [[Malicatious]] (54)
+*[[File:Glitcher.png|30x30px|link=Glitcher]] [[File:GlitcherText.png|50px|link=Glitcher]] (54.16)
+===Baseline Class 10=== 
+*[[File:Save File.png|frameless|30x30px]] [[Save File]] (54.33)
+*[[File:Evennewerzenith.png|30px|link=Zenith]] [[zenith]] (54.5)
+*[[File:Johncentaty.jpg|frameless|30x30px]] [[John Cena Tycoon]] (54.66)
+*[[File:Big chungus.png|30px]] [[Big Chungus]] (54.83)
+==<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Spongebob - Obstacles'''==
+===<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Baseline Spongebob'''===
+* 40 stud jump (Climbable)
+* 38 stud jump (Unclimbable)
+* 35 stud wraps 
+* 30 stud stickouts
+* 32 stud jumps (Iced)
+* 31 stud wraps (Iced)
+===<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Low Spongebob'''===
+* 41 stud jump (Climbable)
+* 39 stud jump (Unclimbable)
+* 36 stud wraps 
+* 31 stud stickouts
+* 33 stud jumps (Iced)
+* 32 stud wraps (Iced)
+===<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Middle Spongebob'''===
+* 42 stud jump (Climbable)
+* 40 stud jump (Unclimbable)
+* 37 stud wraps 
+* 32 stud stickouts
+* 34 stud jumps (Iced)
+* 33 stud wraps (Iced)
+===<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''High Spongebob'''===
+* 43 stud jump (Climbable)
+* 41 stud jump (Unclimbable)
+* 38 stud wraps 
+* 33 stud stickouts
+* 35 stud jumps (Iced)
+* 34 stud wraps (Iced)
+===<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Peak Spongebob'''===
+* 44 stud jump (Climbable)
+* 42 stud jump (Unclimbable)
+* 39 stud wraps 
+* 34 stud stickouts
+* 36 stud jumps (Iced)
+* 35 stud wraps (Iced)
+==<span style="text-shadow: 0 0 4px #FFFC4D; color:#FFFC4D">'''Spongebob - Towers'''==
+===Fictional===
+*Tower of Spongebob Memes on Facebook
+===Non-Fictional=== 
+*Sparta Tower (Tower not made yet) (Maybe)
+==[[Malicatious|CTFP]]==
+Well, not much I have to say here. I guess you can go on to the sword hell that is [[Malicatious]].
+<tabber>
+Hide=
+|-|
+Old Version=
+{{Unofficial}}
+{{Physically Impossible}}
+
+{{Difficulty_Template|type/class=Class 9|previous_difficulty=[[File:60mmm.jpg|30px]] [[60mmm]]|next_difficulty=[[File:Malicatious.png|30px]] [[Malicatious]]|image1=<gallery>
+Spongebob2.jpeg | Current
+Spongebob.jpeg | Old 
+</gallery>|caption1=The icon.|date_it_was_added=1/28/2021}}
+== What is Spongebob? ==
+Spongebob is a Sub-Difficulty of [[60mmm]]. This difficulty is 1,000,000,000x harder than Patrick. BAAAAAAAAAAAAAAAAA!!! No but seriously, you can't beat this. Even the yellow sponge with brown pants, and black shoes denies your request of you getting farther.
+
+== Icon representation ==
+
+=== Current Icon ===
+The current icon represents the character named "Spongebob Squarepants" with a bright yellow background.
+
+=== Old Icon ===
+The old icon represents the character named "Spongebob Squarepants" with a yellow background. The old one is like an rtx version of the new one.
+
+== Obstacles/Jumps in this difficulty ==
+
+* 54 stud jump
+* 55 stud wrap
+* 0.0001 stud
+* 19 stud stick out wrap
+* 21 stud insta kill wrap
+* 95 stud fling
+* 18 stud thick laugh clip
+* 30 stud high jump
+* 10 stud thick dance clip
+* 0.00000000000000000000000000000000000000000000000000000001 stud tightrope
+* Walk for 50 days
+* Surviving Spongebob the Killer for googolplex hours
+* Meet Spongebob Squarepants in Real Life
+* Being Spongebob Squarepants
+* Sound like Spongebob Squarepants
+* BE TOM KENNY
+
+== Towers in this difficulty (Low to High Spongeboy) ==
+
+* Tower of Spongebob Memes on Facebook
+* Sparta Tower (Tower not made yet)
+* N/A
+* N/A
+* N/A
+
+== Decal ==
+
+* [https://web.roblox.com/library/6413716691/Spongebob Old]
+* New (Decal not made yet)
+== Continuing from this point ==
+If you beat this difficulty, just go to [[Malicatious]]. Beware of the swords there!
+
+== Gallery ==
+<gallery>
+File:Spongebob's Portal.jpg|Spongebob's Portal
+</gallery>
+|-|
+</tabber>
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 9]]
+[[Category:Based of a meme]]
+[[Category:Spongebob Related]]
+[[Category:Based off of a cartoon]]

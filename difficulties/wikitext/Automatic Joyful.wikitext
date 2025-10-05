@@ -1,0 +1,299 @@
+<!-- <div style="background:#b3cf00;padding:1em;font-family:rubik;border:20px solid yellow"> -->
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; 8 lmright:0; bottom:0;">[[File:AJBackground.jpg|2000px]]</div>
+{{NoticeScrollboxNew|Notices=
+{{Humanly Possible}}
+{{Large Page}}}}
+{{NewDifficultyInfobox|title1=[[File:{{PAGENAME}} Remade.png|30px]] {{PAGENAME}}|class=Class 0|creator(s)=Original Creator: Youcannothackme7134 
+Reviver/Revamper: ConfusionandTrickery|short_name=Auto Joy|alt_names=*Automatically Joyful
+*Automatically Joyous
+*Automatic Joyous|image1=[[File:{{PAGENAME}} Remade.png]]|rating=-20|type=Humanly Possible Difficulty|previous=*[[File:Walkthrough.png|30px]] [[Walkthrough]] (-21)|next=[[File:Unlosable.png|30px]] [[Unlosable]] (-19)|caption1=Nah, pressing key is bad and very hard so we will not going to do that here, right?|alt_previous=|alt_next=|class_range=High|difficulty_range=Bottom - Peak|decal_id=Current: [https://create.roblox.com/store/asset/117654809225140/Automatic-Joyful 117654809225140]<br>Old: [https://create.roblox.com/store/asset/8215438352/Automatic-Joyful 8215438352]<br>Older: [https://create.roblox.com/store/asset/8614522322/Automatic-Joyful 8614522322]|official_music(s)=[[File:AJAudio.mp3]]}}{{BetterQuote|text=no, I dont need the space key, i am already fine.|quoter=Original Creator}}
+
+==Pre-Introduction==
+'''''You probably either looking at the screen do absolutely nothing or AFK right now. You just beat''''' [[File:Walkthrough.png|30x30px]] '''''[[Walkthrough]] like less than a three quarters of a minute without pressing any single key. Well welcome to another unfailable difficulty [[File:{{PAGENAME}}2.png|30x30px]] {{PAGENAME}}'''''
+
+==Introduction==
+[[{{PAGENAME}}]] is a few Humanly Possible difficulty that is completely automatic which is located in the Upper gap of Class Negative. It has a rating of -20 and was put between [[File:Walkthrough.png|30x30px]] [[Walkthrough]] (-21) and [[File:Unlosable.png|30x30px]] [[Unlosable]] (-19).
+
+This difficulty is still extremely easy, you can easily tell why, it’s literally an automatic difficulty with obstacles that required absolutely no effort whatsoever.
+
+[[{{PAGENAME}}]] has a usage of a lot of mechanic and contraption with a very straightforward yet fun twist. It uses a lot of different Client Objects to not be too repetitive along with very risky conveyors ride but still ensure that you cannot fail at any point.
+
+This difficulty is harder by x1.22 times than [[File:Walkthrough.png|30x30px]] [[Walkthrough]]. Compare this to the previous difficulty is like comparing [[File:Restful3.png|30x30px]] [[Restful]] to [[File:Ifinitely-Winsome.png|30x30px]] [[Ifinity]] which is a very small gap between them. 
+
+==Placement==
+{|class="wikitable mw-collapsible"style="text-align:center;"
+!colspan="25"style="text-align:center;width:1%"|'''{{PAGENAME}} Placement'''
+|-
+!Difficulty Image
+!Difficulty Name 
+!Difficulty Type
+!Difficulty Rating
+|-
+|colspan="4"style="background:#666B2C;color:white"|'''Mid'''
+|-
+|[[File:Therobloxboss24 JustAir.png|50px]]
+|[[Just Air]]
+|Normal
+| -24
+|-
+|[[File:Happylike remake.png|50px]]
+|[[Happylike]]
+|Normal
+| -23
+|-
+|[[File:Locomotion.png|50px]]
+|[[Locomotion]]
+|Normal
+| -22
+|-
+|colspan="4"style="background:#867438;color:white"|'''High'''
+|-
+|[[File:Walkthrough.png|50px]]
+|[[Walkthrough]]
+|Normal
+| -21
+|-
+|[[File:Automatic Joyful Remade.png|50px]]
+|[[Automatic Joyful]] (YOU ARE HERE)
+|Normal
+| -20
+|-
+|[[File:Unlosable.png|50px]]
+|[[Unlosable]]
+|Normal
+| -19
+|-
+|[[File:Roll Difficulty.png|50px]]
+|[[Unlosable/Old#Roll|Roll]]
+|Variation/Sub-Difficulty
+| -19
+|-
+|[[File:Mazeophobia.jpg|50px]]
+|[[Unlosable/Old#Mazeophobia|Mazeophobia]]
+|Variation/Sub-Difficulty
+| -19
+|-
+|[[File:ShatteredBabass.png|50px]]
+|[[Shattered Babass]]
+|Chain/Sub-Difficulty
+| -18.5
+|}
+
+==Icon Representation==
+{| class="fandom-table"
+|+
+! style="background:linear-gradient(180deg, #b3cf00, #b3cf00)" |<span style="color: white;">Icon</span>
+! style="background:linear-gradient(180deg, #b3cf00, #b3cf00)" |<span style="color: white;">Description</span>
+|-
+! colspan="4" style="background: #b3cf00; color: white" |<center>'''Current'''</center>
+|-
+| style="background:linear-gradient(180deg, #b3cf00, #b3cf00)"|[[File:{{PAGENAME}} Remade.png|168x168px]]
+| style="background:linear-gradient(180deg, #b3cf00, #b3cf00)" |<span style="color: white;"> The new icon is a lot more various, the :D face is tilted with “Automatic Joyful” words. There is the “ok” text on too left represent another old icon. There is also a conveyor on the top right which represent the automatic obstacles.
+|-
+! colspan="4" style="background: #b3cf00; color: white" |<center>'''Old'''</center>
+|-
+| style="background:linear-gradient(180deg, #b3cf00, #b3cf00)" | [[File:Automatic Joyful.png]]
+| style="background:linear-gradient(180deg, #b3cf00, #b3cf00)" |<span style="color: white;"> The old icon represent the pixel :D face like [[Unlosable]] and [[Automatic]] but with yellow-green background.
+|-
+! colspan="4" style="background: #b3cf00; color: white" |<center>'''Older'''</center>
+|-
+| style="background:linear-gradient(180deg, #b3cf00, #b3cf00)" | [[File:{{PAGENAME}} JTE.png|center|frameless|180px]]
+| style="background:linear-gradient(180deg, #b3cf00, #b3cf00)" |<span style="color: white;"> This icon is literally a green background with the word “ok”
+|}
+
+==Chances==
+'''All chances are nearly harmless and does not make you lose nor die.''' 
+<tabber>
+Conveyor speed=
+===Conveyor speed===
+There’s a chance of the conveyor speed will speed up or slowed down. Some part disabled conveyor speed for safety issue.
+*Chance of the conveyor speed will speed up by: 
+**2.5% (30%)
+**5% (15%)
+**10% (5%)
+**15% (0.5%)
+**20% (0.075%)
+*Chance of the conveyor speed will slowed down by:
+**2.5% (20%)
+**5% (10%)
+**10% (1%)
+**15% (0.01%)
+**20% (0.001%)
+|-|
+Music=
+===Music===
+There is a chance for the music change
+*Current music (100%)
+*Adding calm music (25%)
+*Adding one random music from [[w:c:jtoh:Tower of Two Sided Troubles|ToTST]] (10%)
+*Adding either nelward-hi or Neat (JToH OST) (1%)
+|-|
+Rebeat=
+===Rebeat===
+There is a low chance of rebeat a section of the difficulties under.
+*[[File:Happylike remake.png|30x30px]] [[Happylike]] (2%)
+*[[File:Locomotion.png|30px]] [[Locomotion]] (1%)
+*[[File:Walkthrough.png|30px]] [[Walkthrough]] (0.25%)
+|-|
+Others=
+===Others===
+These are other chances, nothing much
+*Every part are transparent for 1 second (10%)
+*Every part turn into a 0.2 damage killbrick (3.5%)
+*Your speed or jump disabled (Return after complete the obstacles) (2%)
+*Instantly Win (0.005%)
+*Replay the old self of {{PAGENAME}} (5%)
+</tabber>
+==Obstacles==
+Notice: This is not complex obstacles, refer as the simple one, for anyone making a DC type tower.
+<tabber>
+|-|
+Current Obstacles=
+{| class="fandom-table"
+|+
+!Spectrum/Obstacles
+! style="background-color: #00a4eb; |Belowground
+! style="background-color: green;" |Bottom 
+! style="background-color: #80ff00;" |Low
+! style="background-color: yellow; " |Mid
+! style="background-color: orange; " |High
+! style="background-color: red; " |Peak
+! style="background-color: magenta; " | Skyline
+|-
+|Waiting 
+| style="background-color: #005980;" |160 seconds
+| style="background-color: #014500;" |165 seconds
+| style="background-color: #336000;" |170 seconds 
+| style="background-color: #6d5c00;" |175 seconds
+| style="background-color: #964a00;" |180 seconds
+| style="background-color: #5a0000;" |185 seconds
+| style="background-color: #550055;" |190 seconds
+|-
+|Falling 
+| style="background-color: #005980;" |Fall down 800 studs
+| style="background-color: #014500;" |Fall down 1000 studs 
+| style="background-color: #336000;" |Fall down 1200 studs 
+| style="background-color: #6d5c00;" |Fall down 1400 studs 
+| style="background-color: #964a00;" |Fall down 1600 studs
+| style="background-color: #5a0000;" |Fall down 1800 studs
+| style="background-color: #550055;" |Fall down 2000 studs
+|-
+|Conveyors
+| style="background-color: #005980;" | Go on a rapid conveyor for 75 studs
+| style="background-color: #014500;" | Go on a quick conveyor for 100 studs
+| style="background-color: #336000;" |Go on a fast conveyor for 125 studs
+| style="background-color: #6d5c00;" |Go on a normal conveyor for 150 studs
+| style="background-color: #964a00;" |Go on a slow conveyor for 175 studs
+| style="background-color: #5a0000;" |Go on a very slow conveyor for 200 studs
+| style="background-color: #550055;" |Go on a tediously slow conveyor for 225 studs
+|-
+| Elevators
+| style="background-color: #005980;" | Ride on a rapid elevator for 40 studs
+| style="background-color: #014500;" |Ride on a quick elevator for 60 studs
+| style="background-color: #336000;" |Ride on a fast elevator for 80 studs
+| style="background-color: #6d5c00;" | Ride on a normal elevator for 100 studs
+| style="background-color: #964a00;" |Ride on a slow elevator for 120 studs
+| style="background-color: #5a0000;" |Ride on a very slow elevator for 140 studs
+| style="background-color: #550055;" |Ride on a tediously slow elevator for 160 studs
+|-
+|Spinner
+| style="background-color: #005980;" | Ride on a rapid speed spinner
+| style="background-color: #014500;" |Ride on a quick spinner
+| style="background-color: #336000;" | Ride on a fast spinner
+| style="background-color: #6d5c00;" | Ride on a normal spinner
+| style="background-color: #964a00;" |Ride on a slow spinner
+| style="background-color: #5a0000;" |Ride on a very slow spinner
+| style="background-color: #550055;" |Ride on a tediously slow spinner
+|}
+|-|
+Alternative Obstacles=
+===Main Obstacles===
+Notice: This is the old version of {{PAGENAME}} obstacles. There is no range spectrum (now ranking from easiest to hardest) and can be outdated or inaccurate, this tab is used for archive the alternative section. There are currently 4 obstacles here. 
+
+*[[File:Justairrevamprevamp.png|30x30px]] [[Just Air]] but the winpad is on the top and you bounce to it.
+*Fast conveyors, in the end there is an elevator that bounces you into the winpad
+*Conveyors, but you have to wait 15 seconds to reach the elevator that bounces you to the winpad.
+*Conveyors, but you have to wait 25 seconds to reach the elevator that bounces you to the winpad.
+----
+===Extended Obstacles===
+Welcome to the Route of Boringness. This do not exist in the old {{PAGENAME}} page. Completing these trials will send you to [[Joyful]] immediately. There are currently 9 obstacles here. Feel free to add more obstacles into this section related to the first nine obstacles here.
+
+====The First Nine====
+*Complete a [[Joyful]] tower anywhere you need to jump is replaced with a elevator.
+*Beat a [[Joyful]] citadel but you don't have to do anything.
+*Jump! (But there is a script that makes you hold spacebar).
+*Stand on a part but every 5 seconds there is a 15% it will launch you up to the winpad.
+*Play an automatic walkthrough of a [[Joyful]] monolith (but you can skip it).
+*Conveyors that moves you to an x-launcher which launches you up to the sky, then falls down to the rotated x-launcher which sends you to the winpad.
+*Launches/bounces yourself up until you have enough momentum to launches you to the winpad
+*Complete all [[Joyful]] obstacles, but every obstacles are done automatically
+*Jump onto the fake winpad when you supposed to not jump for 15 seconds, jumping into the fall winpad will reset and increases the timer by 5 seconds. (There is a sign somewhere near the obstacles hinting that you shouldn't jump).
+====Others====
+*The winpad is 100 studs above you. The elevator will bounce you up with a random heights from 20 to 200.
+*Conveyors to a vertical shover that shoves you into the winpad
+*A complex conveyors contraption that bounce you up at the end
+*[[Walkthrough]] an Automatic Joyful obstacles
+
+
+</tabber>
+==Towers ==
+<tabber>
+
+|-|
+Towers of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*Tower of Slow Elevation
+*Tower of Go On A Boat On The Top Of The Mountain
+*Tower of Fast Speedy Ride
+*[[Tower of No I Don't Need the Space Key]]
+*[[Tower of Pointless Double Combination]]
+{{!}}-{{!}}
+Non-Fictionals=
+*Edifice of Impending Incineration
+| false= 
+}}
+}}
+|-|
+Towers with=
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]]
+*{{Class25Difficulties|The Final Difficulty.}} [[Varying Difficulty Overload Facility]]
+|-|
+Obbies of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*None
+{{!}}-{{!}}
+Non-Fictionals=
+*None
+| false= 
+}}
+}}
+|-|
+Obbies with=
+*None
+|-|
+</tabber>
+
+==Gallery ==
+<gallery>
+Automatic Joyful Remade.png| Current icon
+Automatic Joyful.png| Old JJT icon
+Automatic Joyful JTE.png| Old JTE icon
+File:Jwklong Automatic Joyful.png|An unofficial icon by jwklong.
+</gallery>
+==Trivia==
+*This difficulty was revived in Class 0. The original creator is Youcannothackme7134 by the way so credits to him.
+*This difficulty originate from JTE as the only JTE that exist in this wiki.
+*This difficulty (revived version) meaning is extremely different to the original version. As the revived version required complex mechanics and the original is [[Joyful]] but automatically do for you (basically bounce pad to represent a “jump”.
+**The old obstacles that was removed now here along with several new obstacles related to the old version.
+==CFTP==
+You complete this difficulty which literally automatic. You can continue to [[File:Unlosable.png|30x30px]] [[Unlosable]] to travel through the Noob Zone, which is probably one of the easiest obby you ever met in JJT. Or if you want for an actual gameplay, do [[File:Delightful Revamp.png|30x30px]] [[Delightful]].
+{{DifficultiesNavbox}}
+[[Category:Humanly Possible]]
+[[Category:Class 0]]
+[[Category:Classic Difficulty]]
+[[Category:Emoticon Difficulties]]
+[[Category:Starter Zone]]

@@ -1,0 +1,190 @@
+<div style="box-sizing:border-box; border-radius:25px;border:10px solid white;overflow:hidden;background:linear-gradient(#FF7878, #B10000); padding:0.5em;"><div style="font-family:Marker Felt">
+{{NoticeScrollboxNew|Notices={{Physically Impossible}}{{Large Page}}}}
+===== Not to be confused with [[File:New epsilon .PNG|frameless|26x26px]] [[Exile]], formerly named Hellicious, a class 5 difficulty. =====
+{{NewDifficultyInfobox|title1=Hellacious|image1=Hellasious.png|caption1=First time trying to do physically impossible difficulty, please don't kill me|class=9|rating=102.5|type=*Sub-Difficulty
+*Physically Impossible|previous=[[File:HELLWRATH.png|30px]] [[HELLWRATH]]|next=[[File:LOOP (NEW).jpg|30px]] [[LOOP]]|class_range=High|difficulty_range=Belowground to peripheral|main_difficulty=[[File:HELLWRATH.png|30px]] [[HELLWRATH]]|chain(s)=|official_music(s)=[https://www.youtube.com/watch?v=6Xu6z6h832o Context Sensitive - World's Edge]|creator(s)=Tafgo7162|full_name=|short_name=|date_added=08/26/23|decal_id=16404131295}}
+
+==Introduction ~ <span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">[[File:Hellasious.png|40x40px]] Hellacious</span>==
+<span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">Hellacious</span> is high class 14 sub difficulty which is [[File:HELLWRATH.png|30x30px]] [[HELLWRATH]]'s sub difficulty, also that difficulty is before [[File:LOOP (NEW).jpg|30x30px]] [[LOOP]], this difficulty range is 102.5. So that also means it's [[File:Pinnacle.png|30x30px]] [[:Category:Physically Impossible|Physically Impossible]]. Also that difficulty is tafgo7162's first sub difficulty made and also first physically impossible difficulty by him.
+
+Compare this with his main difficulty named [[File:HELLWRATH.png|30x30px]] [[HELLWRATH]] will be like [[File:TooEasy Difficulty Revamped.jpg|32x32px]] [[TooEasy]] compared to [[File:Errorisation.png|30x30px]] [[Errorisation]], also it's metris is ~|2200| so that means it's between [[File:New Misery Icon.png|30x30px]] [[Misery]] and [[File:B5BBA602-1603-4723-908E-88EDC6DF90D5.png|30x30px]] [[:Category:Aleph Sequence|Aleph Sequence]].
+
+as i said you this difficulty is [[File:Pinnacle.png|30x30px]] [[:Category:Physically Impossible|Physically Impossible]] which encounts breaking roblox physics to make it somehow buildable, and you can't put an like 10,000 stud long wrap with one part, you like need 9-10 parts to make it ~10,000 stud wraparound. So you can't put those in towers because they're max frame is 100x100 stud. But there's include if you make dc obby you can put those, but you still can not make even 50 studs with tas, because it was beyond tas limit and even noclip be removed for those difficulties.
+
+==Placement ~ <span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">[[File:Hellasious.png|40x40px]] Hellacious</span>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |'''Class 9'''
+|-
+! Difficulty Image
+
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+
+|-
+| colspan="4" style="background: #666B2C; color: white" |'''Mid'''
+|-
+|[[File:AlphaNothing.png|50x50px]]
+|[[Aleph-Something]]
+|Normal
+|97
+|-
+|[[File:OmniscientDiff.png|50x50px]]
+|[[Omniscient]]
+|Omni-Chain
+|98
+|-
+|[[File:Enigmatic.gif|50x50px]]
+|[[Enigmatic]]
+|Normal
+|99
+|-
+| colspan="4" style="background: #867438; color: white" |'''High'''
+|-
+|[[File:VHD.gif|50x50px]]
+|[[Vrery hawrfd rdifficutl!!]]
+|Normal
+|100
+|-
+|[[File:Fs.de.jpg|frameless|50x50px]]
+|[[Free-smiley.de]]
+|Normal
+|101
+|-
+|[[File:HELLWRATH.png|70x70px|frameless]]
+|[[HELLWRATH]]
+|Fabled
+|102
+|-
+|[[File:Hellasious.png|60px]]
+|[[Hellacious]] '''''(you are here)'''''
+|Sub-Difficulty
+|102.5
+|-
+| colspan="4" style="background: #7A493D; color: white" |'''Peak'''
+|-
+|[[File:LOOP (NEW).jpg|50px]]
+|[[LOOP]]
+|Normal 
+|103
+|-
+|[[File:BRYANJR4474 DIFFICULTY.jpeg|50px]]
+|[[Bryanjr4474]]
+|Normal
+|104
+|-
+|[[File:Imageforsomething....png|70x70px]]
+|[[Eɼɼosion]]
+|Class Finale
+|'''<big>105</big>'''
+|-
+| colspan="4" style="background: #908991; color: white" |'''Anonymous Placement'''
+|-
+|[[File:Confusion.webp|50px]]
+|[[Confusion]]
+| Normal/Anonymous Placement 
+|105.x
+|}
+==Icon Representation ~ [[File:Hellasious.png|40x40px]] <span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">Hellacious</span>==
+{| class="fandom-table"
+|+
+!Icon
+!Data added
+!Description
+|-
+|<span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">[[File:Hellasious.png|200x200px]]</span>
+|30/9/23
+|As well first that you see is three exclamation marks which are some type of 3D and there's light-red - crimson gradient background with overlayered border. And also on corners you can see following texts: "Hellacious" and "Unbeatable"
+|}
+
+==Obstacles ~ <span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">[[File:Hellasious.png|40x40px]] Hellacious</span>==
+{| class="fandom-table"
+|+Obstacles (Credits to [[Perfect]])
+!Spectrum/Obstacles
+! style="background-color: cyan;" |'''<font color="#007E88">Belowground</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " | '''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#880083">Peripheral</font>'''
+|-
+|Jumps (C)
+| style="background-color: #0081C3;" |<font color="white">3.7B studs</font>
+| style="background-color: #014500;" |<font color="white">3.8B studs</font>
+| style="background-color: #336000;" |<font color="white">4B studs</font>
+| style="background-color: #6d5c00;" |<font color="white">4.1B studs</font>
+| style="background-color: #964a00;" |<font color="white">4.3B studs</font>
+| style="background-color: #5a0000;" |<font color="white">4.5B studs</font>
+| style="background-color: #C300AF;" |<font color="white">5B studs</font>
+|-
+|Jumps (U)
+| style="background-color: #0081C3;" |<font color="white">3.6B studs</font>
+| style="background-color: #014500;" |<font color="white">3.7B studs</font>
+| style="background-color: #336000;" |<font color="white">3.9B studs</font>
+| style="background-color: #6d5c00;" |<font color="white">4B studs</font>
+| style="background-color: #964a00;" |<font color="white">4.2B studs</font>
+| style="background-color: #5a0000;" |<font color="white">4.4B studs</font>
+| style="background-color: #C300AF;" |<font color="white">4.8B studs</font>
+|-
+|Wraparounds
+| style="background-color: #0081C3;" |<font color="white">3.3B studs</font>
+| style="background-color: #014500;" |<font color="white">3.4B studs</font>
+| style="background-color: #336000;" |<font color="white">3.6B studs</font>
+| style="background-color: #6d5c00;" |<font color="white">3.7B studs</font>
+| style="background-color: #964a00;" |<font color="white">3.8B studs</font>
+| style="background-color: #5a0000;" |<font color="white">3.9B studs</font>
+| style="background-color: #C300AF;" |<font color="white">4B studs</font>
+|-
+|Stickouts
+| style="background-color: #0081C3;" |<font color="white">800M studs</font>
+| style="background-color: #014500;" |<font color="white">830M studs</font>
+| style="background-color: #336000;" |<font color="white">850M studs</font>
+| style="background-color: #6d5c00;" |<font color="white">860M studs</font>
+| style="background-color: #964a00;" |<font color="white">880M studs</font>
+| style="background-color: #5a0000;" |<font color="white">890M studs</font>
+| style="background-color: #C300AF;" |<font color="white">900M studs</font>
+|-
+|Cylinder wraparound
+| style="background-color: #0081C3;" |<font color="white">750M studs</font>
+| style="background-color: #014500;" |<font color="white">760M studs</font>
+| style="background-color: #336000;" |<font color="white">770M studs</font>
+| style="background-color: #6d5c00;" |<font color="white">780M studs</font>
+| style="background-color: #964a00;" |<font color="white">790M studs</font>
+| style="background-color: #5a0000;" |<font color="white">800M studs</font>
+| style="background-color: #C300AF;" |<font color="white">830M studs</font>
+|-
+| Miscellaneous
+| style="background-color: #0081C3;" |<font color="white">Beating</font> [[File:Rush.png|30x30px]] <font color="white">[[Rush]] to</font> [[File:VHD.gif|29x29px]] [[Vrery hawrfd rdifficutl!!]]
+| style="background-color: #014500;" |Little Difficulty Crossing
+[[File:Tricky.png|30x30px]] [[Tricky]]
+[[File:Relentless.png|30x30px]] [[Relentless]]
+
+[[File:Vortex.png|30x30px]] [[Vortex]]
+[[File:DESTRUCTIVE.png|30x30px]] [[Destructive]]
+
+[[File:El Vacio Sqaure.png|30x30px]] [[El Vacio]]
+[[File:Sacrificingly-Impossible W effects.jpg|30x30px]] [[Sacrificingly Impossible]]
+
+[[File:New Misery Icon.png|30x30px]] [[Misery]]
+| style="background-color: #336000;" |<font color="white">
+Just rebeat from class -1 to baseline Peak 13 with change 1.56% to get back to</font> [[File:Illegal Newest Version.png|30x30px]] [[Illegal]] after per class
+| style="background-color: #6d5c00;" |<font color="white">Beating any class 1 tower, but tower type is centurion (will have 2B floors)</font>
+| style="background-color: #964a00;" |<font color="white">No misc for high spectrum</font>
+| style="background-color: #5a0000;" |<font color="white">You have to do 15 stud wraparound but it has 300M stickout</font>
+| style="background-color: #C300AF;" |<font color="white">300M stud wallhop wraparound with 2M stickout</font>
+|-
+|}
+==Towers ~ <span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">[[File:Hellasious.png|40x40px]] Hellacious</span>==
+*[[Tower of Ascending Failure]] (ToAF) (Fictional)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Not Sure if it is a Tower] (NSiiiaT) (QToN Ring 9)
+*N/A
+==Trivia ~ <span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">[[File:Hellasious.png|40x40px]] Hellacious</span>==
+
+*N/A
+
+==CFTP ~ <span style="background-image: linear-gradient(90deg, #FF0000, #000000); color: transparent; background-clip: text; -webkit-background-clip: text;text-shadow:0 2px 6px red;font-family: Comic Sans MS">[[File:Hellasious.png|40x40px]] Hellacious</span>==
+Well done, i guess... just move to [[File:LOOP (NEW).jpg|30x30px]] [[LOOP]] don't wanna see you here.{{MainDifficultiesNavbox}}
+[[Category:Class 14]]
+[[Category:Large Pages]]
+[[Category:Sub-Difficulties]]

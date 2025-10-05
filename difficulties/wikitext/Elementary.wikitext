@@ -1,0 +1,202 @@
+{{CSS|content=<nowiki>
+}
+#pleasantfully {
+    background: linear-gradient(135deg, lightgreen, teal, skyblue, purple);
+    background-clip: text; 
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    font-family: Rubik
+}
+}
+#encouragement {
+    font-family: Kefa;
+    font-weight: bold;
+    color: #FFAC7D;
+}
+#nice {
+    font-family: Rubik;
+    font-weight: bold;
+    color: #C8FF00;
+}
+#calm {
+    font-family: Rubik;
+    font-weight: bold;
+    color: #C1BE42;
+}
+#gareffortlessless {
+    font-family: Rubik;
+    font-weight: bold;
+    color: #99D9EA;
+}
+#bottom {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #23CA83;
+}
+#bottomlow {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #23C941;
+}
+#low {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #59CA24;
+}
+#lowmid {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #97CA23;
+}
+#mid {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #C9CA24;
+}
+#midhigh {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #C9A523;
+}
+#high {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #CA7D23;
+}
+#highpeak {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #C94B23;
+}
+#peak {
+    font-family: Rubik;
+    font-weight: 400;
+    color: #CA2323;
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices=
+{{Humanly Possible}}
+{{Classic}}
+{{Inclusion|reason=[[User:Sanjay2133|Sanjay]] revived this.}}
+{{Large Page}}}}
+<p style="margin:2em"></p>
+{{JToHW Quote
+|text=Good job on making it here! This is a benchmark before reaching the first ingame EToH difficulty.
+|quoter=Narrator}}
+<p style="margin:2em"></p>
+{{NewDifficultyInfobox
+|gradient=#00aa00,#008206
+|title1=Elementary
+|image1=Comforting (Resized).png
+|type=Normal
+|rating=0.5
+|class=[[:Category:Class 2|<span id="Effortless">Bottom Class 2]]
+|previous={{Class1Difficulties|Effortless|30px}} [[w:c:jtoh:Effortless|Effortless]]
+|alt_previous=[[File:Playgrounddif.png|30px|link=[[Playground]]]] [[Playground]]<br>(Sub-Difficulty)
+[[File:PixelizedNew.PNG|30px]] [[User blog:EpicTheGamer2014/Pixelized|Pixelized]] (Sub-Difficulty)<br>(CDC)
+|next={{Class1Difficulties|Easy|30px}} [[w:c:jtoh:Easy|Easy]]
+|alt_next={{Class1Difficulties|Simple}} [[Simple]]<BR>(Sub-Difficulty)<br>[[File:PleasantfullyRemakeOhmyGAWD.png|30px|link=[[Pleasantfully]]]] [[Pleasantfully|<span id="pleasantfully">Pleasantfully</span>]] (Sub-Difficulty)<br>(CDC)
+|class_range=
+|creator(s)=*[[User:Touchgrass210779|Touchgrass210779]]
+*[[User:InvertedVertically|<span style="text-shadow: 0 0 4px #ffdd00; color:#ffdd00; font-family:Comfortaa;"><b>InvertedVertically</b></span>]]<br>(Updater)
+|alt_names=
+|original_main_difficulty=[[File:PleasantfullyRemakeOhmyGAWD.png| 30px]] [[Pleasantfully|<span id="pleasantfully">Pleasantfully</span>]]
+|previous_main_difficulty(ies)=*[[FIle:Comfortabl.PNG| 30px]] [[User blog:Bruhshard1/Comfort|<span style="text-shadow: 0 0 4px #8f9aff; color:#8f9aff"><b>Comforting</b></span>]]
+*{{Class1Difficulties|Easy| 30px}} [[w:c:jtoh:Easy|Easy]]
+*[[File:Amazing difficulty 2.PNG| 30px]] [[User blog:Bruhshard1/Encouragement|<span id="encouragement">Encouragement</span>]]
+|original_creator(s)=[[User:HammockIsHere|HammockIsHere]]
+|date_added=23/11/2020
+|date_removed=15/05/2021
+|removal_reason=N/A (First Deletion)
+e1 (Second Deletion)
+|revamp_date=21st April 2025
+|revival_date=22/05/2022 (First Revival)
+22/09/2022 (Second Revival)
+|prior_previous=[[FIle:Gar-Effortlessless.png|30x30px]] [[Gar-Effortlessless|<span style="text-shadow: 0 0 4px #99d9ea; color:#99d9ea"><b>Gar-Effortlessless</b></span>]]
+|prior_next=[[File:Calm.png| 30px]] [[Calm/Old Versions#Legacy|<span id="calm">Calm (Legacy)</span>]]
+|hex_color=*Current: <span style="color:#00ff00"><b>#00ff00</b></span>
+*Old: <span style="color:#00ff83"><b>#00ff83</b></span>
+*Original: <span style="color:#c8ff00"><b>#c8ff00</b></span>
+|rgb_color=*Current: <span style="color:#00ff00"><b>0, 255, 0</b></span>
+*Old: <span style="color:#00ff83"><b>0, 255, 131</b></span>
+*Original: <span style="color:#c8ff00"><b>200, 255, 0</b></span>|original_type=*CDC Exclusive|original_name=*<span style=color:#c80ff"><b>Nice</b></span>|caption1="2 Humanly Possible Difficulties down, 46 to go."|previous_name=*<span style=color:#00ff83"><b>Enjoyment</b></span>|decal_id=104340423742409}}
+[[File:Comforting (Resized).png| 30px]] <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span> is a [[:Category:Class 2|<span id="bottom">'''Bottom'''</span> Class 2]]  difficulty between {{Class1Difficulties|Effortless| 30px}} [[w:c:jtoh:Effortless|Effortless]] and {{Class1Difficulties|Easy| 30px}} [[w:c:jtoh:Easy|Easy]]. It is represented by a pure green color, as an inbetween of the previously mentioned difficulties colors. This difficulty is seen as generally extremely simplistic, typically featuring few notable hindrances. Almost any trap that would prove a challenge is either indicated or features safety nets (usually both). It's rating range is '''(0.5)''' to '''(0.74)'''. 
+==Icon Representation==
+The current icon will be excluded as it has already been explained in the introduction. 
+<tabber>
+Old=
+===Old Icon===
+<center>[[File:Nice Revamp.png|100px]]</center>
+----
+The old icon features an orange-ish yellow background with a gradient in the bottom left corner featuring a darker variant of the background color, with another gradient in the top right featuring a lighter variant of the background color.
+|-|
+Oldest=
+===Oldest Icon===
+<center>[[File:Enjoyment Old.png|100px]]</center>
+----
+The oldest icon features a yellowish green background with a gradient featuring a darker variant of the background color, similar to the <small>[[Joyful]]</small> icon color.
+|-|
+Original=
+<center>[[File:Nice.png|100px]]</center>
+----
+The original icon is almost the same as the oldest icon, with the only difference being the lack of the gradient.
+</tabber>
+==Obstacles==
+This set of obstacles is around the average of [[File:Comforting (Resized).png| 30px]] <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span> obstacles.
+*5.5 stud jump (Climbable)
+*5 stud jump (Unclimbable)
+*0.5 stud wraparound (Climbable)
+*0.4 stud wraparound (Unclimbable)
+*2 stud jump raised by 2 studs (Climbable)
+*1.5 stud jump raised by 1.5 studs (Unclimbable)
+==Towers in this difficulty==
+<tabber>
+Non-fictional=
+===Non-fictional towers in this difficulty===
+*QoNS - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Quadrant of Neating Spins]
+|-|
+Fictional=
+===Fictional===
+*ToBaBS(F) - Tower of Bright and Beautiful Scenery
+*ToSaE(F) - Tower of Support and Encouragement
+*SPoE(F) - Spire of Enjoyment
+*RoAN(F) - Room of Appreciating Nature
+*ZoTTTG(F) - Ziggurat of Traversing Through The Graves
+*OoJT(F) - Obelisk of Jumpless Trials
+*CoFaF(F) - Citadel of Flowers and Fauna
+*SoSR(F) - Steeple of Sunshine Road
+|-|
+Appearances=
+===Appearances===
+*[[File:The MiddlelineNew.png|frameless|30x30px]] MoEJD:R:P1 - [[Monolith of Every JJT Difficulty: Reimagined: Part 1]]
+*{{Class25Difficulties|The Final Difficulty.}} GMoEJD - [[Great Monolith of Every EJT Difficulty]]
+</tabber>
+==Trivia==
+*[[File:Comforting (Resized).png| 30px]]  <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span> used to be a sub-difficulty of [[File:PleasantfullyRemakeOhmyGAWD.png| 30px]] [[Pleasantfully|<span id="pleasantfully">Pleasantfully</span>]], [[FIle:Comfortabl.PNG| 30px]] [[User blog:Bruhshard1/Comfort|<span style="text-shadow: 0 0 4px #8f9aff; color:#8f9aff"><b>Comforting</b></span>]] and [[File:Amazing difficulty 2.PNG| 30px]] [[User blog:Bruhshard1/Encouragement|<span id="encouragement">Encouragement</span>]].<ref>The latter two are deleted.</ref>
+*This is a revival of the classic {{Class1Difficulties|Easy| 30px}} [[w:c:jtoh:Easy|Easy]] sub-difficulty [[File:Nice.png|30x30px]] <span id="nice">Nice</span>, originally created by [[User:HammockIsHere|HammockIsHere]].
+**Prior to its revival, it was located between [[FIle:Gar-Effortlessless.png|30x30px]] [[Gar-Effortlessless|<span id="gareffortlessless">Gar-Effortlessless</span>]] and [[File:Calm.png| 30px]] <span id="calm">[[Calm/Old Versions|Calm (Legacy)]]</span>.
+*This was initially was revamped with former staff member [[User:YataDev|YataDevs]] criticisms in mind.
+**After former staff member [[User:AlsoOmori|AlsoOmori]] deleted [[File:Comforting (Resized).png| 30px]] <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span>, it was revamped a second time to make the article better.
+**The article was eventually revamped a third time on the 21st April 2025 due to the former owners long standing dissatisfaction with the difficulty.
+*This difficulties current icon was originally intended to be a resized version of [[FIle:Comfortabl.PNG| 30px]] [[User blog:Bruhshard1/Comfort|<span style="text-shadow: 0 0 4px #8f9aff; color:#8f9aff"><b>Comforting</b></span>]]'s icon as it did not render on the creators end.
+**As this revamp never got moved to the mainspace, the icon was instead repurposed for [[File:Comforting (Resized).png| 30px]] <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span> so that it fit better with the main EToH difficulties.
+*[[File:Comforting (Resized).png| 30px]] <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span> shares a name of a deleted [[File:Babying.jpg|30x30px]] [[Babying]] sub-difficulty with this icon: [[File:Без названия1 20220123211206.png|30x30px]].<ref>[[File:Enjoyable old on HelloArt edc.png|thumb]]
+Other Elementary seen in [[HelloArt's Extended Difficulty Chart]].</ref>
+==Gallery==
+<center><gallery>
+File:Comforting (Resized).png|The current image for  <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span>.
+File:Nice Revamp.png|The old image for  <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span>.
+File:Enjoyment Old.png|The older image for  <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span>.
+File:Nice.png|The original image for  <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span> when it was know as <span id="nice">Nice</span>.
+</gallery></center>
+----
+{{Redirect
+|Previous={{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|Effortless]]
+|Current=[[File:Comforting (Resized).png| 30px]]  <span style="text-shadow: 0 0 4px #00ff00; color:#00ff00"><b>Elementary</b></span>
+|Next={{Class1Difficulties|Easy}} [[w:c:jtoh:Easy|Easy]]}}
+{{DifficultiesNavbox}}
+==References==
+[[Category:Class 1]]
+[[Category:One color icon]]
+[[Category:Blog posts]]

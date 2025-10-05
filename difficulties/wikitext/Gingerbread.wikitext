@@ -1,0 +1,67 @@
+{{DISPLAYTITLE:<span style="color:#6C584B">'''Gingerbread'''</span>}}
+__NOEDITSECTION____NOTOC__
+{{DifficultyTab
+|Gingerbread
+|textcolormain=0
+|type=Miscellaneous
+|blank1=
+|blank2=}}
+{{Difficulty Infobox v2.0
+|current_icon=Screen Shot 2022-08-05 at 09.32.23.png
+|class=Miscellaneous Difficulty
+|reason_of_removal=
+|image1=GingerbreadIcon100.webp}}
+<span style="color:#6C584B">[[Gingerbread]]</span> is a miscellaneous [[difficulty]] and the placeholder difficulty of '''EToH'''. It is represented by a strange-looking gingerbread man and uses the color brown for the difficulty chart and win messages. It became initially well-known when it was used as a placeholder difficulty for the monthly tower [[Tower of Is Steeple Crossing Required?]].
+
+It originated as an inside joke during the judging of the [[Garden of Eeshöl]] submissions where if a difficulty could not be decided, the staff would just post gingerbread GIFs instead.<ref>"[https://discord.com/channels/551741409624064011/551911984149299220/1004930841471881236 and that it started from an inside joke in garden of eeshol judging where we used to post gingerbread gifs when we had no idea what the difficulty was]" - {{PlayerName|Gammattor}}</ref> Despite this humorous origin, it exists as a semi-official difficulty according to {{PlayerName|Gammattor}}.<ref>The same way that the [[Thanos (Difficulty)|<span id="Thanos">'''Thanos'''</span>]] difficulty is official as confirmed: "[https://discord.com/channels/551741409624064011/551911984149299220/1004931475348668538 yes]" - {{PlayerName|Gammattor}}</ref>
+{{Header|Towers in this Difficulty}}
+{{Header|Organized by Realm|Sub2}}
+<tabber>
+Event=
+{{#tag:tabber
+|April Fools 2023=
+<div align="center"><font size="5">{{Emblem|AF2023}} [[April Fools 2023]] {{Emblem|AF2023}}</font></div>
+*"ToO" - [["Tower of Oblivion"]] - Bottom-Low Gingerbread (🍪.16)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|July 2022=
+<div align=center><font size=5>July 2022</font></div>
+*ToSIO(M) - [[Tower of Stunning Inconsistent Obstacles]] - Low Gingerbread (🍪.32) 
+{{!}}-{{!}}
+February 2023=
+<div align=center><font size=5>February 2023</font></div>
+*ToPaG(M) - [[Tower of Potency and Greatness]] - Bottom-Low Gingerbread (🍪.21)
+}}
+|-|
+Tower Rushes=
+<div align=center><font size=5>{{Difficulty|TowerRush}} [[Tower Rush]]es {{Difficulty|TowerRush}}</font></div>
+*PoMTR - [[Pit of Misery Tower Rush]] - Peak Gingerbread (🍪.99) 
+</tabber>
+{{Header|Organized by Difficulty|Sub2}}
+* {{emblem|AF2023|20px}} "ToO" - [["Tower of Oblivion"]] - Bottom-Low Gingerbread (🍪.16) {{emblem|AF2023|20px}}
+* {{emblem|TLC|20px}} ToPaG(M) - [[Tower of Potency and Greatness]] - Bottom-Low Gingerbread (🍪.21) {{emblem|R3|20px}}
+* {{emblem|TLC|20px}} ToSIO(M) - [[Tower of Stunning Inconsistent Obstacles]] - Low Gingerbread (🍪.32) {{emblem|Z3|20px}}
+* {{emblem|PoM|20px}} PoMTR - [[Pit of Misery Tower Rush]] - Peak Gingerbread (🍪.99) {{emblem|PoM|20px}}
+{{Header|Towers that were previously '''Gingerbread'''}}
+*ToISCR(M) - [[Tower of Is Steeple Crossing Required?]] (Moved after 15 minutes.)
+*ToPB - [[Tower of Panelling Barricades]] - High Gingerbread (🍪.77) (For a brief duration on 10 December 2024, then reverted back to [[Insane|<span id="Insane">'''Insane'''</span>]] and later moved to [[Extreme|<span id="Extreme">'''Extreme'''</span>]])
+*ToOLC - [[Tower of Overthinking Life Choices]] - High-Peak Gingerbread (🍪.81) (Moved to [[Terrifying|<span id="Terrifying">'''Terrifying'''</span>]])
+{{Header|Trivia}}
+{{TriviaSection}}
+<!--*Gamma really wanted a page on the wiki for this thing for some reason.<ref>[https://discord.com/channels/551741409624064011/551911984149299220/1004931880589738039 ...Here?]</ref>-->
+*Towers with the <span style="color:#6C584B">[[Gingerbread]]</span> difficulty that are hard enough such that it is possible that they may end up as [[Soul Crushing]] towers may have their wins displayed in the #sc-tower-winners channel of the official '''EToH''' Discord server.<ref>"[https://discord.com/channels/551741409624064011/551911984149299220/1004933213896065044 only high ][[File:GingerbreadIcon.png|20px|link=https://discord.com/channels/551741409624064011/551911984149299220/1004933213896065044]][https://discord.com/channels/551741409624064011/551911984149299220/1004933213896065044 s]" - {{PlayerName|Gammattor}}</ref>
+*During the [[Winter Event 2022|2022 Winter Event]], the team logo for the Gingerbread Guardians contained a Gingerbread Man that was holding the <span style="color:#6C584B">[[Gingerbread]]</span> icon.
+
+{{Header|Gallery}}
+<gallery width="200" captionsize="large" captiontextalign="center" bordercolor="#555" captioncolor="#ddd" galleryalign="left">
+Toiscrportalgingerbread.png|<b>ToISCR</b>'s [[portal]] at <span style="color:#6C584B">[[Gingerbread]]</span> difficulty.
+gingerbreadtlc.png|<span style="color:#6C584B">[[Gingerbread]]</span>'s cutout from the Difficulty Chart in [[Time-Lost Clockwork]].
+</gallery>
+
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:Gingerbread]]

@@ -1,0 +1,182 @@
+<div style="background-color:#FF0000;background-image:
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px; color: white;padding: 50px 20px; border-radius: 100px 100px"> {{Scrollbox|Notices='''Notices'''
+{{Large Page}}
+{{Classic}}
+{{Pseudo}}
+{{Humanly Impossible}}
+}}
+
+<div style="background:#940000;padding:1em;font-family:rubik;border-left:5px solid #940000">
+{{Quote (IPeedMyPants' Version)|quote=your computer will blowing up|quoter=???}}
+
+{{NewDifficultyInfobox|image1=Feicon.jpeg|class=[[:Category:Class 6|6]]|previous=
+{{Class7Difficulties|Winter}} [[Winter]]|next={{Class7Difficulties|U DED SON}} [[U DED SON]]|decal_id=[https://www.roblox.com/library/6269100549/Error here]|creator(s)=[[User:SoaringStyle|SoaringStyle]]|full_name=|date_added=10/7/2020|title1=<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, white, red, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Fatal Error'''</span>|type=Normal/Chain|caption1=You have just made a fatal error.|revamp_date=06/7/2023|class_range=Baseline|difficulty_range=Belowground to Peripheral|rating=47|chain(s)=[[Road of Pseudo Difficulties]]}}
+</div>
+==<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">Intro</span>==
+<div style="background:#940000;padding:1em;font-family:rubik;border-left:5px solid #940000">
+
+<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Fatal Error is a class six difficulty lodged into the [[:Category:Road of Pseudo Difficulties|Road of Pseudo Difficulties]] chain. It is also lodged between {{Class7Difficulties|Winter}} [[Winter]] and {{Class7Difficulties|U DED SON}} [[U DED SON]], being the second difficulty in. With the [[Main Difficulty Chart]] rating of 47, Fatal Error is a normal difficulty made by [[User:SerPlunk|SoaringStyle]] on October 7th, 2020, but revamped by [[User:Bryanjr7747|Bryanjr7747]] on June 7th, 2023. This difficulty was never removed or revived, but has been revamped. This is not in any chains, variations, or the Official Difficulty Chart.'''''</span>
+
+<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Fatal Error, categorized as a TAS impossible difficulty, is impossible with TAS itself, so you should probably use multiple external cheats in order to get past this difficulty.'''''</span>
+
+<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''I don't know if you're an exploiter trying to look cool, but you should've been gone a while ago. If you want to beat this difficulty, let alone even one singular obstacle in this difficulty, you must use exploits; it being the only tool which can reasonably be a helping hand to you.'''''</span>
+
+<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Fatal Error is unbearably hard, which is to be expected. Because of this, you need a ton of practice. Before stepping foot in this difficulty, it is expected that you eat all three important meals, stay hydrated, and get large amounts of sleep to keep you at peak performance. It's also recommended to beat obbies or towers of prior difficulties in class 6 before you do so first.'''''</span>
+
+<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Mentioning this again, Fatal Error is rated 47 on the [[Main Difficulty Chart]], and ranked around tier 31 on the [[Unofficial Tiers]], and a [[Metris|Kol Metris]] rating of ~|479|'''''</span>
+</div>
+==<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">Placement</span>==
+<div style="background:#940000;padding:1em;font-family:rubik;border-left:5px solid #940000">
+*[[File:Winter New.png|frameless|30x30px]] [[Winter]] (46)
+*{{Class7Difficulties|Fatal Error}} [[Fatal Error]] (47) (YOU'RE HERE)
+*{{Class7Difficulties|U DED SON}} [[U DED SON]] (48)
+*{{Class7Difficulties|REEE... !!!}} [[REEE... !!!]] (49)
+*{{Class7Difficulties|Nonexistent}} [[Nonexistent]] (50)
+</div>
+==<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">Catches</span>==
+<div style="background:#940000;padding:1em;font-family:rubik;border-left:5px solid #940000">
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''You will be invisible when doing this difficulty. A robot will spin the wheel twice to confirm your invisibility. If you aren't invisible, the difficulty will be buffed by a random percentage.'''''</span>
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Every minute you are in a tower of this difficulty, it gets buffed by 1%. This caps at 25%.'''''</span>
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Every 10 minutes, your computer has 10 to 1 odds of crashing and immediately shutting down.'''''</span>
+</div>
+==<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">Obstacles</span>==
+<div style="background:#940000;padding:1em;font-family:rubik;border-left:5px solid #940000">
+{| class="fandom-table"
+|+<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">Obstacle Table</span>
+! style="font-family:Courier New; " |Spectrum/Obstacles
+! style="font-family:Courier New; background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="font-family:Courier New; background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="font-family:Courier New; background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="font-family:Courier New; background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="font-family:Courier New; background-color: orange; " |'''<font color="brown">High</font>'''
+! style="font-family:Courier New; background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="font-family:Courier New; background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+| style="font-family:Courier New; " |Stud Jump
+| style="font-family:Courier New; background-color: #005980;" |<font color="white">22.575</font>
+| style="font-family:Courier New; background-color: #014500;" |<font color="white">22.6</font>
+| style="font-family:Courier New; background-color: #336000;" |<font color="white">22.625</font>
+| style="font-family:Courier New; background-color: #6d5c00;" |<font color="white">22.65</font>
+| style="font-family:Courier New; background-color: #964a00;" |<font color="white">22.675</font>
+| style="font-family:Courier New; background-color: #5a0000;" |<font color="white">22.7</font>
+| style="font-family:Courier New; background-color: #550055;" |<font color="white">22.725</font>
+|-
+| style="font-family:Courier New; " |Stud High Jump
+| style="font-family:Courier New; background-color: #005980;" |<font color="white">19.5</font>
+| style="font-family:Courier New; background-color: #014500;" |<font color="white">19.675</font>
+| style="font-family:Courier New; background-color: #336000;" |<font color="white">19.75</font>
+| style="font-family:Courier New; background-color: #6d5c00;" |<font color="white">19.875</font>
+| style="font-family:Courier New; background-color: #964a00;" |<font color="white">20</font>
+| style="font-family:Courier New; background-color: #5a0000;" |<font color="white">20.125</font>
+| style="font-family:Courier New; background-color: #550055;" |<font color="white">20.25</font>
+|-
+| style="font-family:Courier New; " |Stud Wraparound
+| style="font-family:Courier New; background-color: #005980;" |<font color="white">21.4</font>
+| style="font-family:Courier New; background-color: #014500;" |<font color="white">21.45</font>
+| style="font-family:Courier New; background-color: #336000;" |<font color="white">21.5</font>
+| style="font-family:Courier New; background-color: #6d5c00;" |<font color="white">21.55</font>
+| style="font-family:Courier New; background-color: #964a00;" |<font color="white">21.6</font>
+| style="font-family:Courier New; background-color: #5a0000;" |<font color="white">21.65</font>
+| style="font-family:Courier New; background-color: #550055;" |<font color="white">21.7</font>
+|-
+| style="font-family:Courier New; " |Stud Stickout
+| style="font-family:Courier New; background-color: #005980;" |<font color="white">21x2</font>
+| style="font-family:Courier New; background-color: #014500;" |<font color="white">21.0025x2.05</font>
+| style="font-family:Courier New; background-color: #336000;" |<font color="white">21.005x2.075</font>
+| style="font-family:Courier New; background-color: #6d5c00;" |<font color="white">21.0075x2.1</font>
+| style="font-family:Courier New; background-color: #964a00;" |<font color="white">21.001x2.125</font>
+| style="font-family:Courier New; background-color: #5a0000;" |<font color="white">21.00125x2.15</font>
+| style="font-family:Courier New; background-color: #550055;" |<font color="white">21.0015x2.175</font>
+|-
+| style="font-family:Courier New; " |Stud Cylinder Wraparound
+| style="font-family:Courier New; background-color: #005980;" |<font color="white">19</font>
+| style="font-family:Courier New; background-color: #014500;" |<font color="white">19.025</font>
+| style="font-family:Courier New; background-color: #336000;" |<font color="white">19.05</font>
+| style="font-family:Courier New; background-color: #6d5c00;" |<font color="white">19.075</font>
+| style="font-family:Courier New; background-color: #964a00;" |<font color="white">19.1</font>
+| style="font-family:Courier New; background-color: #5a0000;" |<font color="white">19.125</font>
+| style="font-family:Courier New; background-color: #550055;" |<font color="white">19.15</font>
+|-
+| style="font-family:Courier New; " |Stud Walkaround
+| style="font-family:Courier New; background-color: #005980;" |<font color="white">1e583</font>
+| style="font-family:Courier New; background-color: #014500;" |<font color="white">1e585</font>
+| style="font-family:Courier New; background-color: #336000;" |<font color="white">1e587</font>
+| style="font-family:Courier New; background-color: #6d5c00;" |<font color="white">1e589</font>
+| style="font-family:Courier New; background-color: #964a00;" |<font color="white">1e591</font>
+| style="font-family:Courier New; background-color: #5a0000;" |<font color="white">1e593</font>
+| style="font-family:Courier New; background-color: #550055;" |<font color="white">1e595</font>
+|-
+| style="font-family:Courier New; " | Extended Obstacle #1
+| style="font-family:Courier New; background-color: #005980;" |<font color="white">Jump onto a 0.15 stud Instant Killbrick.</font>
+| style="font-family:Courier New; background-color: #014500;" |<font color="white">Vertical 10 Luck Clips in a lattice.</font>
+| style="font-family:Courier New; background-color: #336000;" |<font color="white">Using all spells in Elemental Battlegrounds at once to kill everyone in all servers (but 3) in the whole game.</font>
+| style="font-family:Courier New; background-color: #6d5c00;" |<font color="white">Walk 37 studs of beat-blocks that switch every Planck time.</font>
+| style="font-family:Courier New; background-color: #964a00;" |<font color="white">Walking for 61,466 minutes. There is a software automatically installed that detects whether a genuine human finger is pressing the movement keys, or not.</font>
+| style="font-family:Courier New; background-color: #5a0000;" |<font color="white">Do a 5 stud jump but every 10<sup>-7</sup> seconds, you teleport anywhere within a half-stud radius.</font>
+| style="font-family:Courier New; background-color: #550055;" |<font color="white">21 meter jump IRL.</font>
+|-
+| style="font-family:Courier New; " |Themed Obstacle #2
+| style="font-family:Courier New; background-color: #005980;" |<font color="white">Comprehend Class 19.</font>
+| style="font-family:Courier New; background-color: #014500;" |<font color="white">Create 100 difficulties and have at least 90 of them become fabled.</font>
+| style="font-family:Courier New; background-color: #336000;" |<font color="white">Do a 10 stud wrap in a quarter of a second.</font>
+| style="font-family:Courier New; background-color: #6d5c00;" |<font color="white">Split all of the atoms in every element in the periodic table.</font>
+| style="font-family:Courier New; background-color: #964a00;" |<font color="white">Beat class 2 in a vivid dream (you have lucid claustrophobia).</font>
+| style="font-family:Courier New; background-color: #5a0000;" |<font color="white">You cannot jump for this obstacle. Grab onto a spinning part and squeeze through a 1.05 stud consisting of 2 insta-kills and successfully land on a moving part.</font>
+| style="font-family:Courier New; background-color: #550055;" |<font color="white">From a 0.05 stud tightrope made out of ice, use momentum to wrap around a 2x1 wall and lodge into a gap. From there, make a turn and time it correctly and land on a 0.1x0.05 stud.</font>
+|}
+someone fix these damn obstacles, supreme has 18 stud jumps so this is supposed to have ~17 stud jumps <sub>i'm lazy LOL</sub>
+</div>
+==<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">Towers</span>==
+<div style="background:#940000;padding:1em;font-family:rubik;border-left:5px solid #940000">
+<tabber>
+|-|
+Towers of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Tower of Madness Absolute Rage Oblivion of Niflheim (Fictional) - ToMAROoN'''''</span>
+{{!}}-{{!}}
+Nonfiction=
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Great Citadel of The Fatal Mistake (High Fatal Error)'''''</span>
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Tower of Crashing and Error (Low Fatal Error) (Deleted)'''''</span>
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Xenahir of Dolorem Aeterna (Skyline Fatal Error)'''''</span>
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Floor Absolute Terrible and Linonophobia Extreme Rage Really Oblivious Rage - FATaLERROR'''''</span>
+| false= 
+}}
+}}
+|-|
+Towers with=
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''[[Great Citadel of Beyond Impossible Difficulties]] (GCoBID)'''''</span>
+|-|
+Obbies of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''cant think'''''</span>
+{{!}}-{{!}}
+Nonfiction=
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''None yet.'''''</span>
+| false= 
+}}
+}}
+|-|
+Obbies with=
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Probably most DC obbies that go up to this class.'''''</span>
+|-|
+</tabber>
+</div>
+==<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">CFTP</span>==
+<div style="background:#940000;padding:1em;font-family:rubik;border-left:5px solid #940000">
+<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''Well done, player, for completing such a crazy difficulty! For many people, this would seem like a mere dream, but you have somehow completed this difficulty against some odds! The next difficulty would be [[File:UDEADSONicon.png|30px]] [[U DED SON]], so you may want to practice it before attempting it.'''''</span>
+</div>
+==<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">Trivia</span>==
+<div style="background:#940000;padding:1em;font-family:rubik;border-left:5px solid #940000">
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''The icon looks like an emoji, specifically the ⛔, [[🚫]], and ❌ emojis combined.'''''</span>
+*<span style="color:#ff6b6b;text-shadow:0 2px 5px #6e1313, 0 -2px 5px #f56969;font-family:Courier New">'''''This was originally meant to be harder than [[File:SquareSupreme.png|50px|link=Supreme]] [[Supreme]].'''''</span>{{MainDifficultiesNavbox}}
+</div>
+[[Category:Class 6]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Road of Pseudo Difficulties]]
+[[Category:Humanly Impossible]]

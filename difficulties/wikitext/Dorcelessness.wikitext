@@ -1,0 +1,80 @@
+{{Inclusion|reason=Allowed by staff}}{{Humanly Possible}}__NOTOC____NOTOC__{{ViewerDiscretionWarning|reason=Old icon}}
+
+== What Is [[File:DorcelessnessDifficulty.png|30x30px]] '''Dorcelessness'''? ==
+{{NewDifficultyInfobox|title1=</u> <span style="background:linear-gradient(magenta,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: white 0px 0.5px 6px;">Dorcelessness</span>|image1=<gallery>
+DorcelessnessDifficulty.png | Current
+DorcelessnessShape.png | Shape
+Dorcelessness.png | Old
+DorcelessnessModern.png | "Modern"
+</gallery>|caption1=|class=New: [[:Category:Class 3|Class 3]]
+Old: [[:Category:Class 15|Class 15]]|decal_id=Current: [https://create.roblox.com/marketplace/asset/13121505579/Dorcelessness?keyword=dorcelessness&pageNumber=1&pagePosition=7 13121505579]
+Old: [https://create.roblox.com/marketplace/asset/8349566656/dorcelessness?keyword=dorcelessness&pageNumber=1&pagePosition=3 8349566656]|main_difficulty=|sub_difficulty(ies)=None|previous=[[File:Eccentric.PNG|30px]][[Eccentric]]|next=*{{Class3Difficulties|Horrific}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]]|alt_previous=[[File:Champion%27s_Road.png |30x30px]] [[Champion's Road]] (SUB-DIFFICULTY)|type=Normal Difficulty|alt_next={{Class3Difficulties|Cruel}} [[Cruel]] (SUB-DIFFICULTY)|rating=12.5}}
+[[File:DorcelessnessDifficulty.png|30x30px]] '''<big>Dorcelessness</big>''' is a Difficulty that is not found inside of '''JToH.''' This is the difficulty that resides between [[File:Eccentric.PNG|15x15px]] [[Eccentric]] and [[File:Horrific Updated.webp|15x15px]] [https://jtohs-hardest-towers.fandom.com/wiki/Horrific Horrific]. It is meant to border the 2 difficulties, while also containing towers from the peak of the [[File:CatastrophicDifficulty.jpg|15x15px]] [https://jtohs-hardest-towers.fandom.com/wiki/Catastrophic Catastrophic] difficulty. It is represented by a light pink square surrounded by many triangles with varying shades of pastel pink. With the center being displayed with many small cracks in a stained glass like pattern.
+
+This difficulty contains some extremely difficulty jumps even the current best obbyists will struggle with. Containing many jumps that can be found within towers such as [https://jtoh.fandom.com/wiki/Tower_of_Cruel_Punishment?so=search Tower of Cruel Punishment], as well as [https://jtoh.fandom.com/wiki/Tower_of_Vacant_Hindrances?so=search Tower of Vacant Hindrances]. 
+
+== Obstacles ==
+
+=== Baseline ===
+
+* 12.75 Stud Jump. (Unclimbable)
+*10.5 Stud Wrap. (Unclimbable)
+*4 Stud Stickout. (Unclimbable)
+
+=== '''Low''' ===
+
+* 13 Stud Jump. (Unclimbable)
+* 11 Stud Wrap. (Unclimbable
+* 12 Stud Dance Clip Jump. (Unclimbable) ''<small>Obviously.</small>''
+* 7 Stud Wallhop Wrap. (Unclimbale)
+
+=== Mid ===
+
+* 13.25 Stud Jump. (Unclimbable)
+* 4 Stud Stickout Ladder Flick Wrap. (Unclimbable)
+* 8 Stud Wallhop Wrap (Unclimbable)
+
+=== High ===
+
+* 1 Stud Squeeze. (Unclimbable)
+* 13.5 Stud Jump.
+* 11.5 Stud Wrap. (Unclimbable)
+
+=== Peak ===
+
+* 13.75 Stud Jump. (Unclimbable)
+* 9 Stud Wallhop Wrap. (Unclimbable)
+* 0.75 Stud Squeeze On X-Pusher. (Unclimbable) <small>''Again, Obviously.''</small>
+
+== Trivia ==
+
+* The word "Dorcelessness" is a made up word from a video titled [https://www.youtube.com/watch?v=Td2x8s9GZlo ''BLUE_CHANNEL: THALASIN''].
+**[https://www.youtube.com/watch?v=Td2x8s9GZlo ''BLUE_CHANNEL: THALASIN''] is an Analog Horror video by Gooseworx that, at first glance, appears to just be an old-timey commercial advertising a fantasy product dubbed ''Thalasin'', which forces you to have certain emotions, but when the second half of the video kicks in, it advertises ''Thalasin+'', which supposedly adds new emotions to your brain... but these emotions happen to distort your face into [[eldritch]] horrors, where '''Dorcelessness''' is shown on the 4th ''Thalasin+'' emotion, depicted with a mostly blackened face with one eye visible.
+***Additionally, That face was used as it's icon during the time '''Dorcelessness''' was a class 15 difficulty. You can view the archived version of it [[User_blog:OlekGamer1000/Dorcelessness|here]].
+
+== Gallery ==
+<gallery>
+File:DorcelessnessDifficulty.png|The current icon of [[Dorcelessness]].
+File:Dorcelessness.png|[[Dorcelessness]]' icon while it was still a [[:Category:Class 15|Class 15]] difficulty.
+File:DorcelessnessShape.png|Dorcelessness shape version (aka emblem version)
+File:DorcelessnessModern.png|So named "modern" version of [[Dorcelessness]].
+</gallery>
+
+== Towers In This Difficulty ==
+
+* [[File:CatastrophicDifficulty.jpg|15x15px]] [https://atos.fandom.com/wiki/Tower_of_Exodus_Obscurity Tower of Exodus Obscurity] '''(Baseline Dorcelessness)'''
+* [[File:CatastrophicDifficulty.jpg|15x15px]] [https://jtoh.fandom.com/wiki/Tower_of_Cruel_Punishment?so=search Tower of Cruel Punishment] '''(Baseline Dorcelessness)'''
+* [[File:Horrific Updated.webp|15x15px]] [https://jtoh.fandom.com/wiki/Tower_of_Vacant_Hindrances?so=search Tower of Vacant Hindrances] '''(Low Dorcelessness)'''
+* [[File:Horrific Updated.webp|15x15px]] [https://cscdroblox.fandom.com/wiki/Tower_of_Jabberwock_Jagger Tower of Jabberwock Jagger] '''(Mid Dorcelessness)'''
+* [[File:Horrific Updated.webp|15x15px]] Citadel of Insatiable Emotions (Fictional) ('''High Dorcelessness)'''
+* [[File:Horrific Updated.webp|15x15px]] [https://cscdroblox.fandom.com/wiki/Tower_of_Futile_Perusal Tower of Futile Persual] '''(Peak Dorcelessness)'''
+
+== Continuing On From This Point ==
+You clearly show extreme skill if you were able to conquer a structure of a difficulty this high, this is most likely your breakthrough into Class 3. Trust me, now that you've made it this far, you aren't gonna have a very good time. I suggest either moving on to [[File:Horrific Updated.webp|15x15px]] [https://jtohs-hardest-towers.fandom.com/wiki/Horrific Horrific], or if you're really feeling like suffering, but being the first person to perform a achievement this big, you could skip the difficulty entirely and move on to [[File:UnrealIconModified1003.webp|15x15px]] [https://jtohs-hardest-towers.fandom.com/wiki/Unreal Unreal].
+
+{{DifficultyNavbox}}
+[[Category:Difficulties]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:Soul Crushing]]
+[[Category:Class 3]]

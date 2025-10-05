@@ -1,0 +1,81 @@
+{{DISPLAYTITLE:Missing}}__NOTOC__
+''Don't try to make this difficulty more obscure as it is :/''{{NewDifficultyInfobox|image1=Missing.jpg|caption1=Not class 10 or 11? What is it then?
+(THIS IS NOT IN ANY PART OF 10 OR 11. I CAN'T BELIEVE I HAVE TO REMIND PEOPLE.)|class=Missing is between Class 10 and Class 11, but is not in either of said classes. One could say class 10.5, but that doesn't exist.|previous=|next=|main_difficulty=|chain(s)=|creator(s)=MapleIsNotAMapleLeaf|full_name=Missing Information.|alt_names=|date_added=13 March 2022|date_removed=|rating=?|alt_previous=[[File:The MiddlelineNew.png|50px]] [[The Middleline]]|alt_next=[[File:Stardark.png|frameless|30x30px]] [[File:StardarkText.png|frameless|link=Stardark|75x75px]]|type=Anonymous Placement|class_range=Baseline, Low, Mid, High, and Peak.}}
+==What is [[Missing]] Difficulty?==
+[[Missing]] is an unknown difficulty. This difficulty, is missing on the chart. It has zero placement, or place. This cannot be defined, under any circumstances. It does not make sense, since [[File:The MiddlelineNew.png|50px]] [[The Middleline]] is the set in stone, end. This isnt the beginning OR end of anything. It's nowhere. 
+
+However, this cant be unclassified since it has obstacles that are the SAME difficulty dependent on its point between these 2 difficulties. This wouldn't happen without The Aleph Sequence (baseline Class 11, ranging from [[File:Supreme Null.png|frameless|30x30px]] [[Supreme-Null]] to [[File:B5BBA602-1603-4723-908E-88EDC6DF90D5.png|frameless|30x30px]] [[Aleph]]) which Missing is not a part of.
+
+You may be scratching your head, questioning: “just use the main chart, wacko.” Well, that's the big picture. Looking behind it, you see that this was designed to be EASIER than the main chart. we cant do this. So do we place this inbetween [[File:Vigorous.png|frameless|50px]] [[Vigorous]] and [[File:The MiddlelineNew.png|50px]] [[The Middleline]]? Well, no. This is harder than both, but easier than the Aleph Sequence. 
+
+Overall: This cant be determined. Its not the end. Not the beginning. Not anything. This cant be unclassified, too. 
+
+==Icon Representation==
+{| class="fandom-table"
+|+ Icon Table
+! Icon
+!Explanation
+|-
+|[[File:Missing.jpg|frameless|150x150px]]
+|A blue background, with a 3x in the middle. 
+|}
+
+==Obstacles in this Difficulty==
+You know catches? Yeah… There's only two.
+
+The first one being that everything is 97.5% transparent. The next one is that your walkspeed and jumppower are set to 1.
+
+Without being said, lets go onto the obstacles!
+
+==Normal Obstacles==
+{{ObstacleTableMultiply|JumpClimbableBase=9.2e18|Increment=1.01047720667|Round=-16}}
+
+==Special Obstacles==
+These used to be the main obstacles, but they are now stuffed in here for simplification.<tabber>
+Baseline=
+
+*4e71 stud spinner wrap, continue this for a certain amount of time up until you reach 4e71 ticks. A tick happens every 15 milliseconds. 66.6 ticks happen every second. Every tick is 3FPS. That goes up to 20 FPS. Not NEARLY enough. 1 FPS = +5 Time Machinery. A time machinery will send you 5 seconds to where you would be constantly moving on the axis. It will multiply the current axis position. And it will send you that far in the direction you are at. It will set you back up to the y coordinate you were,at if you fall, 20 x 5 = 100 time machinery. However, it divides by your fps. So it doesn't matter. All you have to do is travel a far coordinate and use one of those, and you are set. However, if you are in contact with a block, it works. If you aren't, it doesn't. Maximum coordinate radius is 50x, 100y, 50z. After 2 uses, it turns into +. However, it turns the tables, and the limit is 1000x, 500y, 1000z. This all will happen within 6e70 seconds while constantly doing the wrap.
+*Now, after doing that, the time machinery breaks. Now do the 4e71 stud spinner wrap once without time machinery. Doing that will lead you onto obstacle two, which is:
+*3x. This means nothing. However, 3x has a deeper meaning. Choose any number. ANY NUMBER TO FIT ALONGSIDE THREE. 3(2)?  Nice Choice. Now, divide by 2 and subtract 3. That's your walkspeed. Now divide by your jumppower and coordinates. Then, multiply your coordinates 3 times. Add 3x. That's the length of the jump, and you are now slow as hell. Now, to make it harder, your jumppower has to be the same as your walkspeed. Multiply by 3.x. That's your jumppower. The amount of time you have to do this is your jumppower, divided by your starting number. 3x x 3x minus every current statistic is the amount of time you have. Lowest reach is 0.1S. Now, what you chose is now, the chance to switch every time you do it. You can switch into a:
+*Cylinder Wrap, Spinner Wrap, Square wrap, rectangular wrap, octagon wrap, triangular wrap, high jump, mid air high jump, etc.
+*You are now in the negative realm. You have to keep clear when anyone sees you. Then, the amount of time it takes to beat N/A, is converted into a jump. Do it in the amount of time it takes to beat N/A.
+* After all of this, you should be able to move on to low, right? No? Well, I don't care! Do this again, or move on. There are also some practice courses of [[File:Vigorous.png|frameless|30x30px]] [[Vigorous]] difficulty that you can do, with a few twists.
+
+|-|
+Low=
+*Do a 2 stud jump. However, there may or may not be a statement that prevents you doing the jump, and that statement could be false. There can also be a sub-statement that makes the value of its main statement false or true. The sub-statement could be false, or true on its own, or due to a sub-sub-statement. ''Keep in mind that you do not know whether any of the three statements exist or not!'' Disregarding any one of them, if they exist, will send you back to [[File:Vigorous.png|frameless|30x30px]] [[Vigorous]]. Each nested layer of statements has a lower chance to exist, depending on the layer. You have no way of knowing which statements exist, and every time you restart from [[File:Vigorous.png|frameless|30x30px]] [[Vigorous]], these statements refresh and different ones can exist, or none at all.
+*Do a wraparound that wraps around itself, and that wraparound also wraps around itself, with at least 37 layers of wraparounds wrapping around themselves. You must do this wraparound flawlessly, while at least 37 instakill layers of YOURSELF are also wrapping around themselves.
+* Do a MACC where your attributes must be the same. Since your default walkspeed and jumppower without catches are 16, respectively 50, they average to 33; this means you must do a MACC where both your walkspeed and your jumppower are 33. Although this may seem simple, there could be anywhere from 52 to 1,089 instakills blocking the path, and this number will always be divisible by 3. We'll call that number ''n''. The only way to detect whether an instakill is nearby and where it is, is redoing a random obstacle of [[File:52!.jpg|frameless|30x30px]] [[User blog:EpicTheGamer2014/52!|52!]] to decrease the transparency of an also random instakill, by 0.025. If you choose to not re-beat the difficulty in order to make the instakills visible, you can choose blindly doing the MACC that is 1,000 studs away. Out of the ''n'' instakills, a third of them are spinners, another third of them are shoving parts, and the remaining ones are plain instakills.
+|-|
+Mid=
+* Remember ''n''? Do a 3''n'' stud jump, while the second number you notice n is divisible by, do a 1e70 stud jump times that second number. This will be relevant later. Then, fling yourself 2,147,483,647 studs, the theoretical limit. But "limits" can't stop us, can they? Use the near-none momentum you had to fling yourself beyond that limit. Then, use THAT momentum, to go back to the 3''n'' stud jump. This time, it's a 648''n'' stud jump. You've noticed that 648''n'' is not only divisible by 3, but also divisible by 216, and by 9 due to ''n'' always being divisible by 3. This leads to a 1e70 times 216 stud jump, or a 2.16e72 stud jump.
+* A simple 1e60 stud wrap, with a gimmick. The gimmick is that you cannot jump around the wrap, but rather above it. Above the 30 quindecillion stud wrap, are killbricks. There is a 1/344 stud gap between the top of the wraparound, and the killbricks. You also notice, there is another instakill, from which you must tall fling into the gap. When you're inside of the gap, carefully use shiftlock while not touching the killbricks more than twice, and fall onto the platform at the end of the wrap. The platform is actually a horizontal X-pusher. Walk on the pusher to gain enough momentum to get onto the platform beneath the X-pusher without touching the wraparound, then high-jump to the killbricks, which have swapped with the wraparound and are now normal parts.
+*Step on a winpad, but this isn't the end, is it? In fact, it's a decoy made by [[Johndog69420]] to troll new players and end their run on Missing. You notice he's online on Spiritual Roblox. Personally meet Johndog in Spiritual Roblox and ask him about the winpad. There are no obstacles in reach, and you two have caught wind of that. Johndog tells you he made the obstacles, but it's up to you to find them.
+
+|-|
+High=
+*Do a glitch performed by nobody so far: the flipclip. The flipclip is a glitch where your character changes position, while your hitbox doesn't. There are two keys to doing a correct flipclip: the first one is the ability to perfectly MACC with this. Here, it's 2,500,000 MACCs, we'll call this a Hyperflipclip. Flipclipping does have some effects, such as having two hitboxes: an imaginary one (where you would zoom in and the unchanged hitbox inside of your character) and the regular hitbox (the hitbox that collides with the obstacles). This is why the second key to flipclipping is perfectly being able to control your imaginary hitbox and doing obstacles with it. Start with a simple jump. This should be easy, as your imaginary hitbox and regular hitbox should be ~10 studs apart in a perfect flipclip, if the outcome does not satisfy this, restart and redo the flipclip. From there, we can work our way up to wraps, flings, regular CCs, either one or multiple at a time and even individual MACCs. With this knowledge, the obstacle should be way easier, and you'll be able to do a Hyperflipclip.
+* You might know by now that this difficulty is neither part of Class 15, nor part of Class 16 and not even the end of the main chart. Prove it using simple reasons, scientifically accurate reasons and universal axioms. An axiom is a statement that will always be declared as "true", and you must find a way to make one "false", and throw it into your dumpster fire of an argument. Make that, in itself, an axiom, which contains other axioms within itself, as the obstacle required you to do. If you get any JJT admin to voluntarily agree, do a 5e71 stud wrap. ''THIS OBSTACLE IS NERFED DUE TO PENULTIMATE.''
+*Do a triangular wraparound, it's really what it looks like. However, it's a spinning triangle, and spinning very fast. So fast, in fact, that Roblox doesn't even render it. This causes the wrap to become invisible, meaning that you do not know how large the wrap is, and thus do not know how much momentum to gain in order to do the wrap. It can range anywhere from a 1e60 stud to a 1e80 stud wrap, with your luck adjusted in such a way it most likely averages to 1e70. Since the triangle is spinning so fast, you might get flung, or even accidentally flipclip, causing your imaginary hitbox to remain on the platform (if you're lucky enough to land on it) while your real hitbox is just dangling in the void. If your flipclip isn't so successful, you could have a 1-stud distance between the two hitboxes, causing the platform to remain sandwiched between two versions of your character. Try not to trigger an accidental flipclip while wrapping around it.
+
+|-|
+Peak=
+*10,500 mid-air pushbox clips, but you can't see them. Not because they're 95% transparent like the main platform you're on, but you can't see them at all. There is a button that activates a pushbox. It requires 10,000 clicks, and each time you activate a pushbox/wall, it resets. You noticed that the 10,000 required clicks have a limit of 32.296 seconds, divided by your average FPS in the difficulty, not including the parts where you used an FPS unlocker. This gives you a time limit of roughly 0.5978526472 seconds. This means a total of 210,000,000 clicks, within less than 3,512,571.216 seconds. This means you'll have to achieve a minimum of 59.78526472 clicks per second for 3,512,571.216 seconds or less, depending on your clicks per second. After clicking, the pushboxes and walls should activate and become CC-true, from where you do the obby yourself.
+*A simple 1e71 stud wrap. Again, you can't see it. That's because the wrap is twice as far away from your character as it is long. That means 2e71 studs from you, in any random direction. Although no matter in which direction it is away from you, it will be 2e71 studs away. Meaning that it could be 2e71 studs away in only the Z axis, or a total of 2e71 studs away in the X, Y and Z axis adding up to make 2e71 studs from you. Luckily, you have a reaching machine that can reach any point in Roblox. It is 55,000 studs away from you in the same manner as the wraparound and an obby of a random difficulty in Class 15. That obby is buffed accordingly so that it is Baseline [[File:Missing.jpg|frameless|30x30px]] Missing. The reaching machine is invisible until you are in a 298-307 stud radius of it. So is the obby. The reaching machine can only move 1e67 studs per 5.5 seconds at full throttle, and has enough fuel for 332,680 hours of flight. From there, once you see the wraparound, use the momentum from the reaching machine to land on the platform and do the wraparound. Regardless on which platform you land, you still have to do the wraparound. The wraparound has a 1/101.069 chance to generate a teleporter to the next obstacle.
+* Do a fling until you can see the cosmic microwave background, with some catches. Before we get into the catches, ''how many studs would that mean flinging?'' More importantly, how do you convert meters to studs? Well, to convert meters to studs, you have to multiply by 25/7 and viceversa, so one meter means 3 4/7 studs, and the speed of light is 299,792,458 m/s, 1,070,687,350 studs per second. The universe is 93 billion lightyears, assuming the baseplate is the center of the universe, 46.5 billion lightyears, 4.9786e+19 studs. And that's only to fling across the universe. We won't properly see the universe until we're 2e+20 studs away from it. Then, fling control all around the universe. I almost forgot, catches! 
+# You must not attempt or successfully perform any form of fling control until the 2e+20 mark is reached.
+## From there, you're free to do said fling control around the universe.
+# Remember the reaching machine in the previous obstacles? It's now gone.
+# Your walkspeed and jumppower are at their normal values, multiplied by 2, per se 32 and 100.
+</tabber>
+
+
+==Towers in this difficulty==
+
+*Tower of Insanity and Colonization (ToIaC) (Mid Missing)
+*[[Tower of Existence, Endings and Everything]] (ToEEaE)
+{{DifficultiesNavbox}}
+
+[[Category:Anonymous Placement]]
+[[Category:Difficulties]]
+[[Category:Physically Impossible]]

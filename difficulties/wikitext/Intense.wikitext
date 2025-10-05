@@ -1,0 +1,520 @@
+{{DISPLAYTITLE:<span id="Intense">'''Intense'''</span>}}__NOEDITSECTION____NOTOC__{{BetterQuote
+|text=Well done! Many players aren't even able to come close to conquering these towers. You must have taken a lot of time and patience to beat your first tower of this difficulty.
+|quoter=Badge description
+|name=[https://www.roblox.com/badges/2125419275 Beat Your First Intense Tower]}}
+{{DifficultyTab
+|Intense
+|textcolormain=FFF
+|difficulty1=Challenging
+|diffcolor1=880015
+|textcolor1=FFF
+|difficulty2=Remorseless
+|diffcolor2=C800C8
+|textcolor2=FFF}}
+{{DifficultyInfobox
+|title1=Intense
+|image1=inticon.png
+|type=Regular
+|previous={{Difficulty|5}} [[Challenging|<span id="Challenging">'''Challenging'''</span>]]
+|next={{Difficulty|7}} [[Remorseless|<span id="Remorseless">'''Remorseless'''</span>]]
+|original_name=Good Luck Buddy
+|previous_name=Insane
+|rbg_color=DC: 45, 60, 70
+Menus: 25, 34, 45
+|hex_color=DC: #192832
+Menus: #19222D
+|cmyk_color=DC: 36%, 14%, 0%, 73%
+Menus: 44%, 24%, 0%, 82%
+|hsv_color=DC: 204°, 35%, 27%
+Menus: 213°, 44%, 17%
+|hsl_color=DC: 204°, 22%, 23%
+Menus: 213°, 29%, 14%}}
+{{Difficulty|6|20px}} <span id="Intense">[[Intense]]</span> is a [[difficulty]] in '''EToH''' that is represented with a black hexagon. Obstacles at this difficulty level are usually slightly harder forms of those seen in [[Challenging|<span id="Challenging">'''Challenging'''</span>]] towers but are sub-standard in [[Remorseless|<span id="Remorseless">'''Remorseless'''</span>]] towers. 
+
+Towers of these difficulty are often considered the gateway to higher difficulties on a player's '''EToH''' journey, being a considerable increase from [[Challenging|<span id="Challenging">'''Challenging'''</span>]] and all difficulties below. In this difficulty level, you can see some jumps such as 7-9 stud wraparounds and 10–11 stud long jumps, with a risk of falling down most (if not all) of the way down the tower.
+
+It is the most common difficulty in-game, with 68 permanent, non-event towers assigned to this difficulty and at least one tower with this difficulty appearing in every canon non-event area, with the exception of {{Emblem|R0|20px}} [[Ring 0]].
+
+There are currently 53 [[Tower]]s, 7 [[Steeple]]s, 8 [[Citadel]]s, and 3 [[Mini Tower]]s confirmed for the game assigned to this difficulty rating. [[Towers]] such as [[Tower of Really Nasty Ideas|ToRNI]], [[Tower of Mean Tasks|ToMT]], [[Tower of Yearning Victory|ToYV]], [[Tower of Funky Grooves|ToFG]], [[Tower of Questionable Trials|ToQT]], [[Tower of Nonsensical Platforms|ToNP]], [[Tower of Never Ending Dizziness|ToNED]], [[Citadel of Horrifying Phobias|CoHP]], [[Tower of The Despondent Fortress|ToTDF]], and [[Tower of Icy Adventures|ToIA]] were previously <span id="Intense">[[Intense]]</span>, but they were all moved to <span id="Remorseless">'''Remorseless'''</span>. [[Tower of Triangular Terror|ToTT]] and [[Tower of Insanely Innovative Ideas|ToIII]] were moved to <span id="Remorseless">'''Remorseless'''</span> for a short time but were brought back down to <span id="Intense">'''Intense'''</span>. [[Tower of Glitching and Healing]] originally had this difficulty, then it was moved to <span id="Remorseless">'''Remorseless'''</span> and then [[Insane|<span id="Insane">'''Insane'''</span>]], but it was brought back down to <span id="Intense">[[Intense]]</span> on 11 December 2021 due to the corner clip patch, then moved back to <span id="Remorseless">'''Remorseless'''</span> on 25 December 2021.
+{{Header|Towers in this Difficulty (Organized by Realm)}}
+<tabber>
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+*ToIE - [[Tower of Impossible Expectations]] - Bottom Intense (6.01)
+*CoLS - [[Citadel of Laptop Splitting]] - Mid Intense (6.50)
+|-|
+Forgotten Ridge=
+<div align=center><font size=5>{{Emblem|FR}} [[Forgotten Ridge]] {{Emblem|FR}}</font></div>
+*SoHP - [[Steeple of Huge Pain]] - Low-Mid Intense (6.35)
+*ToIS - [[Tower of Increasing Stress]] - Low-Mid Intense (6.37)
+*ToDE - [[Tower of Dangerous Expeditions]] - High Intense (6.75)
+*CoWN - [[Citadel of Weird Nostalgia]] - High Intense (6.77)
+|-|
+Time-Lost Clockwork=
+<div align=center><font size=5>{{Emblem|TLC}} [[Time-Lost Clockwork]] {{Emblem|TLC}}</font></div>
+*TIAT - [[This Is A Tower]] - Bottom-Low Intense (6.20)
+|-|
+Ring 2=
+<div align=center><font size=5>{{Emblem|R2}} [[Ring 2]] {{Emblem|R2}}</font></div>
+*ToTF - [[Tower of Table Flipping]] - Low-Mid Intense (6.44)
+|-|
+Garden of Eeshöl=
+<div align=center><font size=5>{{Emblem|GoE}} [[Garden of Eeshöl]] {{Emblem|GoE}}</font></div>
+*ToPA - [[Tower of Perilous Antipode]] - Baseline Intense (6.00)
+*SoBA - [[Steeple of Buoyant Automations]] - Bottom Intense (6.03)
+|-|
+Ring 3=
+<div align=center><font size=5>{{Emblem|R3}} [[Ring 3]] {{Emblem|R3}}</font></div>
+*CoHaD - [[Citadel of Heights and Depths]] - Bottom-Low Intense (6.13)
+*TAT - [[Totally A Tower]] - Peak Intense (6.99)
+|-|
+Ring 4=
+<div align=center><font size=5>{{Emblem|R4}} [[Ring 4]] {{Emblem|R4}}</font></div>
+*ToHF - [[Tower of Holy Flip]] - Mid Intense (6.45)
+*CoU - [[Citadel of Uneasiness]] - High-Peak Intense (6.80)
+*ToO - [[Tower of Oblivion]] - Peak Intense (6.97)
+*ToLS - ''[[Tower of Laptop Snapping (Scrapped)|Tower of Laptop Snapping]]'' (scrapped) - (6.??)
+|-|
+Silent Abyss=
+<div align=center><font size=5>{{Emblem|SA}} [[Silent Abyss]] {{Emblem|SA}}</font></div>
+*SoWG - [[Steeple of Wicked Grotto]] - Bottom Intense (6.02)
+*ToSW - [[Tower of Shallow Waters]] - Mid-High Intense (6.64)
+*SoII - [[Steeple of Involuntary Isolation]] - High Intense (6.71)
+*ToTD - [[Tower of Tenebrous Depths]] - Peak Intense (6.90)
+|-|
+Ring 5=
+<div align=center><font size=5>{{Emblem|R5}} [[Ring 5]] {{Emblem|R5}}</font></div>
+*ToFF - [[Tower of Floral Fury]] - Bottom Intense (6.05)
+*ToEA - [[Tower of Extraordinary Adventures]] - Bottom-Low Intense (6.12)
+*ToTH - [[Tower of Tokyo Heights]] - Mid Intense (6.46)
+|-|
+Lost River=
+<div align=center><font size=5>{{Emblem|LR}} [[Lost River]] {{Emblem|LR}}</font></div>
+*ToWaW - [[Tower of Witchcraft and Wizardry]] - High Intense (6.74)
+*ToCS - [[Tower of Compact Spaces]] - Peak Intense (6.98)
+|-|
+Ring 6=
+<div align=center><font size=5>{{Emblem|R6}} [[Ring 6]] {{Emblem|R6}}</font></div>
+*ToADF - [[Tower of A Depressing Future]] - Bottom-Low Intense (6.12)
+*ToISC - [[Tower of Intense Solar Chaos]] - Low Intense (6.30)
+*ToDR - [[Tower of Dispersed Rooms]] - High Intense (6.68)
+*ToFS - [[Tower of Flustering Sections]] - High Intense (6.71)
+*FNAT - [[Fortunately Not A Tower]] - High Intense (6.76)
+*ToIaOS - [[Tower of Inner and Outer Scaling]] (removed) - Peak Intense (6.89)
+*ToTW - ''[[Tower of Time Wasting]]'' (deconfirmed) - (6.??)
+|-|
+Ashen Towerworks=
+<div align=center><font size=5>{{Emblem|AT}} [[Ashen Towerworks]] {{Emblem|AT}}</font></div>
+*ToSR - [[Tower of Shadowy Radiance]] - Bottom Intense (6.08)
+*ToWIA - [[Tower of Whisking It All]] - Low Intense (6.26)
+*ToWoW - [[Tower of Whirl of Winds]] - Low-Mid Intense (6.42)
+*ToLLL - [[Tower of Largely Limited Luminance]] - Mid Intense (6.55)
+|-|
+Ring 7=
+<div align=center><font size=5>{{Emblem|R7}} [[Ring 7]] {{Emblem|R7}}</font></div>
+*ToEW - ''[[Tower of Endless Wandering]]'' (deconfirmed) - (6.??)
+*ToOOO - [[Tower of Orientating Oscillating Opinions]] - Low Intense (6.29)
+*ToNGUE - [[Tower of Never Giving Up, Ever]] - Mid Intense (6.54)
+|-|
+Ring 8=
+<div align=center><font size=5>{{Emblem|R8}} [[Ring 8]] {{Emblem|R8}}</font></div>
+*CoCHS - [[Citadel of Constant Heart Stopping]] - Mid Intense (6.49)
+*ToUS - [[Tower of Uneasy Scaling]] - Mid-High Intense (6.66)
+*ToIII - [[Tower of Insanely Innovative Ideas]] - Peak Intense (6.99)
+|-|
+The Starlit Archives=
+<div align=center><font size=5>{{Emblem|TSA}} [[The Starlit Archives]] {{Emblem|TSA}}</font></div>
+*ToTUTU - [[Tower of The Umbrella, The User]] - Low Intense (6.32)
+*ToIR - [[Tower of Infiltrated Ruins]] - Low-Mid Intense (6.36)
+*SoIB - [[Steeple of Itsy Bitsy]] - Low-Mid Intense (6.40)
+*ToADE - [[Tower of A Disillusioned Existence]] - Mid-High Intense (6.57)
+*ToWR - [[Tower of Warranted Retribution]] - High Intense (6.75)
+|-|
+Ring 9=
+<div align=center><font size=5>{{Emblem|R9}} [[Ring 9]] {{Emblem|R9}}</font></div>
+*ToGO - [[Tower of Great Overcomings]] - Mid Intense (6.49)
+|-|
+Zone 1=
+<div align=center><font size=5>{{Emblem|Z1}} [[Zone 1]] {{Emblem|Z1}}</font></div>
+*ToUT - [[Tower of Ultimately Terrifying]] - Mid-High Intense (6.58)
+|-|
+Steelspire Horizon=
+<div align=center><font size=5>{{Emblem|SH}} [[Steelspire Horizon]] {{Emblem|SH}}</font></div>
+*ToFP - [[Tower of Fixture Park]] - Low Intense (6.30)
+*ToNoS - [[Tower of Nerves of Steel]] - Mid-High Intense (6.66)
+*CoT - [[Citadel of Treachery]] - Peak Intense (6.95)
+|-|
+Zone 2=
+<div align=center><font size=5>{{Emblem|Z2}} [[Zone 2]] {{Emblem|Z2}}</font></div>
+*CoTD - ''[[Citadel of True Darkness]]'' (scrapped) - (6.??)
+*ToB - ''[[Tower of Basement]]'' (scrapped) - (6.??)
+*CoGS - [[Citadel of Green Stuff]] - Low-Mid Intense (6.39)
+*ToEE - [[Tower of Extraterrestrial Enchantment]] - Mid Intense (6.49)
+*ToAZ - [[Tower of Arcanium Zenturing]] - High Intense (6.76)
+*ToTT - [[Tower of Triangular Terror]] - Peak Intense (6.98)
+|-|
+Arcane Area=
+<div align=center><font size=5>{{Emblem|AA}} [[Arcane Area]] {{Emblem|AA}}</font></div>
+*SoMC - [[Steeple of Magical Collaborations]] - Bottom-Low Intense (6.22)
+*ToMFE - ''[[Tower of Main Five Elements]]'' (deconfirmed) - Peak Intense (6.??)
+|-|
+Zone 3=
+<div align=center><font size=5>{{Emblem|Z3}} [[Zone 3]] {{Emblem|Z3}}</font></div>
+*ToQC - [[Tower of Quirky Contraptions]] - Bottom-Low Intense (6.18)
+*ToIO - [[Tower of Infuriating Obstacles]] - Low Intense (6.32)
+*ToCaUP - [[Tower of Cruel and Unusual Punishment]] - Mid Intense (6.46)
+|-|
+Paradise Atoll=
+<div align=center><font size=5>{{Emblem|PA}} [[Paradise Atoll]] {{Emblem|PA}}</font></div>
+*ToTTT - [[Tower of Traversing The Tropics]] - Bottom Intense (6.06)
+*SoDD - [[Steeple of Dusty Dunes]] - Low Intense (6.32)
+*SoUB - [[Steeple of Underlying Breezes]] - Mid Intense (6.54)
+|-|
+Zone 4=
+<div align=center><font size=5>{{Emblem|Z4}} [[Zone 4]] {{Emblem|Z4}}</font></div>
+*ToMIM - [[Tower of Mechanically Induced Mayhem]] - Bottom Intense (6.02)
+*ToSS - [[Tower of Shifting Slopes]] - High-Peak Intense (6.80)
+|-|
+Zone 5=
+<div align=center><font size=5>{{Emblem|Z5}} [[Zone 5]] {{Emblem|Z5}}</font></div>
+*ToHK - [[Tower of Heiwana Kaze]] - Low Intense (6.33)
+*ToHE - [[Tower of Horrifying Experiences]] - Low Intense (6.33)
+*ToGT - [[Tower of Guided Trials]] - Mid Intense (6.52)
+*CoCE - [[Citadel of Corporate Enterprise]] - High-Peak Intense (6.79)
+*ToAO - [[Tower of Anticlimactic Outcomes]] - Peak Intense (6.96)
+|-|
+Zone 6=
+<div align=center><font size=5>{{Emblem|Z6}} [[Zone 6]] {{Emblem|Z6}}</font></div>
+*CoTaW - [[Citadel of Twists and Weirdness]] - Bottom Intense (6.06)
+*ToHL - [[Tower of Hazardous Laddering]] - Low Intense (6.25)
+*ToW - [[Tower of Watts]] - Low-Mid Intense (6.40)
+|-|
+Zone 7=
+<div align=center><font size=5>{{Emblem|Z7}} [[Zone 7]] {{Emblem|Z7}}</font></div>
+*ToY - [[Tower of Yore]] - Low Intense (6.27)
+*ToCMC - [[Tower of Cone Mesh Climbing]] - Mid Intense (6.48)
+*ToSaPS - [[Tower of Swift and Precise Sections]] - High-Peak Intense (6.78)
+|-|
+Zone 8=
+<div align=center><font size=5>{{Emblem|Z8}} [[Zone 8]] {{Emblem|Z8}}</font> </div>
+*ToCT:FSR - [[Tower of Cosmic Tides#Trivia|Tower of Cosmic Tides: Final Stretch Route]]
+*ToON - [[Tower of One Nine]] - Low Intense (6.33)
+*ToNEF - [[Tower of Never Ending Fun]] - Mid-High Intense (6.65)
+*ToML - [[Tower of Manic Lows]] - High-Peak Intense (6.78)
+|-|
+Zone 9=
+<div align=center><font size=5>{{Emblem|Z9}} [[Zone 9]] {{Emblem|Z9}}</font> </div>
+*ToSRD - [[Tower of Sugar Rush Deluxe]] - Bottom Intense (6.01)
+*ToNN - [[Tower of Nothing New]] - High Intense (6.73)
+*ToFCB - [[Tower of Furious Chicken Brawl]] - High-Peak Intense (6.86)
+*ToFU - [[Tower of Falling Up]] - Peak Intense (6.93)
+|-|
+Zone 10=
+<div align=center><font size=5>{{Emblem|Z10}} [[Zone 10]] {{Emblem|Z10F}}</font> </div>
+*ToETU - [[Tower of Expecting The Unexpected]] - High-Peak Intense (6.79)
+*ToMN - [[Tower of Mach Nine]] - Peak Intense (6.99)
+|-|
+Events=
+{{#tag:tabber
+|Halloween Event 2019=
+<div align=center><font size=5>{{Emblem|H2019}} [[Halloween Event 2019]] {{Emblem|H2019}}</font></div>
+*SoMT - [[Steeple of Midnight Terrors]] - Bottom-Low Intense (6.16)
+{{!}}-{{!}}
+Halloween Event 2020=
+<div align=center><font size=5>{{Emblem|H2020}} [[Halloween Event 2020]] {{Emblem|H2020}}</font></div>
+*SoCT - [[Steeple of Cosmic Terror]] - Mid-High Intense (6.56)
+{{!}}-{{!}}
+April Fools 2021=
+<div align=center><font size=5>{{Emblem|AF2021}} [[April Fools 2021]] {{Emblem|AF2021}}</font></div>
+*Toua - [[Tower of u a]] - Bottom Intense (6.05)
+{{!}}-{{!}}
+April Fools 2023=
+<div align=center><font size=5>{{Emblem|AF2023}} [[April Fools 2023]] {{Emblem|AF2023}}</font></div>
+*CoABL - [[Citadel of "A Bug's Life!"]] - Peak Intense (6.94)
+{{!}}-{{!}}
+Legacy Event 2023=
+<div align=center><font size=5>{{Emblem|L2023}} [[Legacy Event 2023]] {{Emblem|L2023}}</font></div>
+*ToMD(L) - [[Tower of Mass Destruction]] - High-Peak Intense (6.83)
+{{!}}-{{!}}
+Halloween Event 2023=
+<div align=center><font size=5>{{Emblem|H2023}} [[Halloween Event 2023]] {{Emblem|H2023}}</font></div>
+*SoMH - [[Steeple of Moonlit Heresy]] - Low-Mid Intense (6.42)
+{{!}}-{{!}}
+Christmas Event 2023=
+<div align=center><font size=5>{{Emblem|C2023}} [[Christmas Event 2023]] {{Emblem|C2023}}</font></div>
+*SoTBD - [[Steeple of Triple Black Diamonds]] - Bottom Intense (6.07)
+{{!}}-{{!}}
+April Fools 2024=
+<div align=center><font size=5>{{Emblem|AF2024}} [[April Fools 2024]] {{Emblem|AF2024}}</font></div>
+*ToQBF - [[Tower of Quick, Brown Fox!]] - Bottom Intense (6.02)
+*ToTCF - [[Tower of The Conscious Fallacy]] - Peak Intense (6.95)
+{{!}}-{{!}}
+Legacy Event 2024=
+<div align=center><font size=5>{{Emblem|L2024}} [[Legacy Event 2024]] {{Emblem|L2024}}</font></div>
+*ToTU(L) - [[Tower of Tearing Up]] - Low Intense (6.26)
+*ToGI(L) - [[Tower of Great Infamy]] - High-Peak Intense (6.78)
+{{!}}-{{!}}
+100Mil Event=
+<div align=center><font size=5>{{Emblem|R1}} [[100Mil Event]] {{Emblem|R1}}</font></div>
+*100MF - [[100M Finale]] - Mid Intense (6.52)
+{{!}}-{{!}}
+Christmas Event 2024=
+<div align=center><font size=5>{{Emblem|C2024}} [[Christmas Event 2024]] {{Emblem|C2024}}</font></div>
+*SoPE - [[Steeple of Psycho Eyes]] - Low Intense (6.28)
+{{!}}-{{!}}
+The Stronghold=
+<div align=center><font size=5>{{Emblem|TS}} [[The Stronghold]] {{Emblem|TS}}</font></div>
+*DT2 - [[Double Tower 2]] (removed) - Bottom Intense (6.03)
+{{!}}-{{!}}
+April Fools 2025=
+<div align=center><font size=5>{{Emblem|AF2025}} [[April Fools 2025]] {{Emblem|AF2025}}</font></div>
+*ToNLU - [[Tower of Not Like Us]] - High Intense (6.69)
+*CT&HT - [[Cringe Tower & Hinge Tower]] - Peak Intense (6.99)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|June 2021=
+<div align=center><font size=5>June 2021</font></div>
+*ToSBC(M) - [[Tower of Stained, Brutal Calamity]] - Low-Mid Intense (6.36)
+{{!}}-{{!}}
+July 2021=
+<div align=center><font size=5>July 2021</font></div>
+*ToTEP(M)- [[Tower of Truly Extensive Pillars]] - Peak Intense (6.93)
+{{!}}-{{!}}
+August 2021=
+<div align=center><font size=5>August 2021</font></div>
+*ToCD(M) - [[Tower of Celestial Darkness]] - Peak Intense (6.89)
+{{!}}-{{!}}
+January 2022=
+<div align=center><font size=5>January 2022</font></div>
+*ToDW(M) - [[Tower of Disjointed Worlds]] - High-Peak Intense (6.79)
+{{!}}-{{!}}
+March 2022=
+<div align=center><font size=5>March 2022</font></div>
+*ToUGH(M) - [[Tower of Unfaithful Great Heights]] - High Intense (6.71)
+{{!}}-{{!}}
+June 2022=
+<div align=center><font size=5>June 2022</font></div>
+*ToFA(M) - [[Tower of Fast Acceleration]] - High-Peak Intense (6.78)
+{{!}}-{{!}}
+July 2022=
+<div align=center><font size=5>July 2022</font></div>
+*ToOT(M) - [[Tower of Onerous Traversing]] - Low Intense (6.32)
+{{!}}-{{!}}
+October 2022=
+<div align=center><font size=5>October 2022</font></div>
+*ToVC(M) - [[Tower of Violet Contradiction]] - Mid-High Intense (6.61)
+{{!}}-{{!}}
+July 2023=
+<div align=center><font size=5>July 2023</font></div>
+*ToSB(M) - [[Tower of Stalactite Boundaries]] - Mid-High Intense (6.57)
+{{!}}-{{!}}
+December 2023=
+<div align=center><font size=5>December 2023</font></div>
+*ToFU(M) - [[Tower of Frozen Uplift]] - High-Peak Intense (6.87)
+{{!}}-{{!}}
+February 2024=
+<div align=center><font size=5>February 2024</font></div>
+*SoTDW(M) - [[Steeple of The Deep Well]] - Bottom Intense (6.05)
+*ToSTP(M) - [[Tower of Scaling The Pillar]] - Peak Intense (6.96)
+{{!}}-{{!}}
+April 2024=
+<div align=center><font size=5>April 2024</font></div>
+*ToNM(M) - [[Tower of Nothing Much]] - High-Peak Intense (6.85)
+{{!}}-{{!}}
+May 2024=
+<div align=center><font size=5>May 2024</font></div>
+*ToV(M) - [[Tower of Vibing]] - Bottom Intense (6.04)
+{{!}}-{{!}}
+June 2024=
+<div align=center><font size=5>June 2024</font></div>
+*ToDIM(M) - [[Tower of Diving Into Madness]] - Low Intense (6.33)
+{{!}}-{{!}}
+September 2024=
+<div align=center><font size=5>September 2024</font></div>
+*ToCV(M) - [[Tower of Concealed Visions]] - Peak Intense (6.94)
+{{!}}-{{!}}
+December 2024=
+<div align=center><font size=5>December 2024</font></div>
+*ToTaS(M) - [[Tower of Taking a Seat]] - Peak Intense (6.97)
+{{!}}-{{!}}
+January 2025=
+<div align=center><font size=5>January 2025</font></div>
+*CoM(M) - [[Citadel of Malice]] - Peak Intense (6.94)
+{{!}}-{{!}}
+February 2025=
+<div align=center><font size=5>February 2025</font></div>
+*ToGTI(M) - [[Tower of Gates To Infinity]] - Mid-High Intense (6.61)
+{{!}}-{{!}}
+April 2025=
+<div align=center><font size=5>April 2025</font></div>
+*ToPE(M) - [[Tower of Pure Exasperation]] - Mid Intense (6.49)
+{{!}}-{{!}}
+June 2025=
+<div align=center><font size=5>June 2025</font></div>
+*ToGMLB(M) - [[Tower of Good Morning, Let's Basketball]] - Low Intense (6.25)
+{{!}}-{{!}}
+July 2025=
+<div align=center><font size=5>July 2025</font></div>
+*ToAI(M) - [[Tower of Ashen Inferno]] - High-Peak Intense (6.84)
+{{!}}-{{!}}
+August 2025=
+<div align=center><font size=5>August 2025</font></div>
+*ToLS(M) - [[Tower of Laptop Snapping]] - High Intense (6.77)
+{{!}}-{{!}}
+September 2025=
+<div align=center><font size=5>September 2025</font></div>
+*ToIDY(M) - [[Tower of I Dislike You]] - Peak Intense (6.92)
+}}
+|-|
+Tower Rushes=
+<div align=center><font size=5>{{Difficulty|TowerRush}} [[Tower Rush]]es {{Difficulty|TowerRush}}</font></div>
+*R14MTR - [[Rings 1-4 Mini Tower Rush]] - Intense (6.??)
+*GoETR - [[Garden of Eeshöl Tower Rush]] - Mid-High Intense (6.62)
+*R3TR - [[Ring 3 Tower Rush]] - Peak Intense (6.89)
+</tabber>
+{{Header|Towers in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+* {{emblem|GoE|20px}} ToPA - [[Tower of Perilous Antipode]] - Baseline Intense (6.00) {{emblem|GoE|20px}}
+* {{emblem|Z9|20px}} ToSRD - [[Tower of Sugar Rush Deluxe]] - Bottom Intense (6.01) {{emblem|Z9|20px}}
+* {{emblem|R1|20px}} ToIE - [[Tower of Impossible Expectations]] - Bottom Intense (6.01) {{emblem|R1|20px}}
+* {{emblem|Z4|20px}} ToMIM - [[Tower of Mechanically Induced Mayhem]] - Bottom Intense (6.02) {{emblem|Z4|20px}}
+* {{emblem|SA|20px}} SoWG - [[Steeple of Wicked Grotto]] - Bottom Intense (6.02) {{emblem|SA|20px}}
+* {{emblem|GoE|20px}} SoBA - [[Steeple of Buoyant Automations]] - Bottom Intense (6.03) {{emblem|GoE|20px}}
+* {{emblem|R5|20px}} ToFF - [[Tower of Floral Fury]] - Bottom Intense (6.05) {{emblem|R5|20px}}
+* {{emblem|PA|20px}} ToTTT - [[Tower of Traversing The Tropics]] - Bottom Intense (6.06) {{emblem|PA|20px}}
+* {{emblem|Z6|20px}} CoTaW - [[Citadel of Twists and Weirdness]] - Bottom Intense (6.06) {{emblem|Z6|20px}}
+* {{emblem|AT|20px}} ToSR - [[Tower of Shadowy Radiance]] - Bottom Intense (6.08) {{emblem|AT|20px}}
+* {{emblem|R5|20px}} ToEA - [[Tower of Extraordinary Adventures]] - Bottom-Low Intense (6.12) {{emblem|R5|20px}}
+* {{emblem|R6|20px}} ToADF - [[Tower of A Depressing Future]] - Bottom-Low Intense (6.12) {{emblem|R6|20px}}
+* {{emblem|R3|20px}} CoHaD - [[Citadel of Heights and Depths]] - Bottom-Low Intense (6.13) {{emblem|R3|20px}}
+* {{emblem|Z3|20px}} ToQC - [[Tower of Quirky Contraptions]] - Bottom-Low Intense (6.18) {{emblem|Z3|20px}}
+* {{emblem|TLC|20px}} TIAT - [[This Is A Tower]] - Bottom-Low Intense (6.20) {{emblem|TLC|20px}}
+* {{emblem|AA|20px}} SoMC - [[Steeple of Magical Collaborations]] - Bottom-Low Intense (6.22) {{emblem|AA|20px}}
+* {{emblem|Z6|20px}} ToHL - [[Tower of Hazardous Laddering]] - Low Intense (6.25) {{emblem|Z6|20px}}
+* {{emblem|AT|20px}} ToWIA - [[Tower of Whisking It All]] - Low Intense (6.26) {{emblem|AT|20px}}
+* {{emblem|Z7|20px}} ToY - [[Tower of Yore]] - Low Intense (6.27) {{emblem|Z7|20px}}
+* {{emblem|R7|20px}} ToOOO - [[Tower of Orientating Oscillating Opinions]] - Low Intense (6.29) {{emblem|R7|20px}}
+* {{emblem|R6|20px}} ToISC - [[Tower of Intense Solar Chaos]] - Low Intense (6.30) {{emblem|R6|20px}}
+* {{emblem|SH|20px}} ''ToFP - [[Tower of Fixture Park]] - Low Intense (6.30)'' {{emblem|SH|20px}}
+* {{emblem|Z3|20px}} ToIO - [[Tower of Infuriating Obstacles]] - Low Intense (6.32) {{emblem|Z3|20px}}
+* {{emblem|TSA|20px}} ToTUTU - [[Tower of The Umbrella, The User]] - Low Intense (6.32) {{emblem|TSA|20px}}
+* {{emblem|PA|20px}} SoDD - [[Steeple of Dusty Dunes]] - Low Intense (6.32) {{emblem|PA|20px}}
+* {{emblem|Z5|20px}} ToHK - [[Tower of Heiwana Kaze]] - Low Intense (6.33) {{emblem|Z5|20px}}
+* {{emblem|Z5|20px}} ToHE - [[Tower of Horrifying Experiences]] - Low Intense (6.33) {{emblem|Z5|20px}}
+* {{emblem|Z8|20px}} ToON - [[Tower of One Nine]] - Low Intense (6.33) {{emblem|Z8|20px}}
+* {{emblem|FR|20px}} SoHP - [[Steeple of Huge Pain]] - Low-Mid Intense (6.35) {{emblem|FR|20px}}
+* {{emblem|TSA|20px}} ToIR - [[Tower of Infiltrated Ruins]] - Low-Mid Intense (6.36) {{emblem|TSA|20px}}
+* {{emblem|FR|20px}} ToIS - [[Tower of Increasing Stress]] - Low-Mid Intense (6.37) {{emblem|FR|20px}}
+* {{emblem|Z2|20px}} CoGS - [[Citadel of Green Stuff]] - Low-Mid Intense (6.39) {{emblem|Z2|20px}}
+* {{emblem|TSA|20px}} SoIB - [[Steeple of Itsy Bitsy]] - Low-Mid Intense (6.40) {{emblem|TSA|20px}}
+* {{emblem|Z6|20px}} ToW - [[Tower of Watts]] - Low-Mid Intense (6.40) {{emblem|Z6|20px}}
+* {{emblem|AT|20px}} ToWoW - [[Tower of Whirl of Winds]] - Low-Mid Intense (6.42) {{emblem|AT|20px}}
+* {{emblem|R2|20px}} ToTF - [[Tower of Table Flipping]] - Low-Mid Intense (6.44) {{emblem|R2|20px}}
+* {{emblem|R4|20px}} ToHF - [[Tower of Holy Flip]] - Mid Intense (6.45) {{emblem|R4|20px}}
+* {{emblem|R5|20px}} ToTH - [[Tower of Tokyo Heights]] - Mid Intense (6.46) {{emblem|R5|20px}}
+* {{emblem|Z3|20px}} ToCaUP - [[Tower of Cruel and Unusual Punishment]] - Mid Intense (6.46) {{emblem|Z3|20px}}
+* {{emblem|Z7|20px}} ToCMC - [[Tower of Cone Mesh Climbing]] - Mid Intense (6.48) {{emblem|Z7|20px}}
+* {{emblem|R8|20px}} CoCHS - [[Citadel of Constant Heart Stopping]] - Mid Intense (6.49) {{emblem|R8|20px}}
+* {{emblem|R9|20px}} ToGO - [[Tower of Great Overcomings]] - Mid Intense (6.49) {{emblem|R9|20px}}
+* {{emblem|Z2|20px}} ToEE - [[Tower of Extraterrestrial Enchantment]] - Mid Intense (6.49) {{emblem|Z2|20px}}
+* {{emblem|R1|20px}} CoLS - [[Citadel of Laptop Splitting]] - Mid Intense (6.50) {{emblem|R1|20px}}
+* {{emblem|Z5|20px}} ToGT - [[Tower of Guided Trials]] - Mid Intense (6.52) {{emblem|Z5|20px}}
+* {{emblem|R7|20px}} ToNGUE - [[Tower of Never Giving Up, Ever]] - Mid Intense (6.54) {{emblem|R7|20px}}
+* {{emblem|PA|20px}} SoUB - [[Steeple of Underlying Breezes]] - Mid Intense (6.54) {{emblem|PA|20px}}
+* {{emblem|AT|20px}} ToLLL - [[Tower of Largely Limited Luminance]] - Mid Intense (6.55) {{emblem|AT|20px}}
+* {{emblem|TSA|20px}} ToADE - [[Tower of A Disillusioned Existence]] - Mid-High Intense (6.57) {{emblem|TSA|20px}}
+* {{emblem|Z1|20px}} ToUT - [[Tower of Ultimately Terrifying]] - Mid-High Intense (6.58) {{emblem|Z1|20px}}
+* {{emblem|SA|20px}} ToSW - [[Tower of Shallow Waters]] - Mid-High Intense (6.64) {{emblem|SA|20px}}
+* {{emblem|Z8|20px}} ToNEF - [[Tower of Never Ending Fun]] - Mid-High Intense (6.65) {{emblem|Z8|20px}}
+* {{emblem|R8|20px}} ToUS - [[Tower of Uneasy Scaling]] - Mid-High Intense (6.66) {{emblem|R8|20px}}
+* {{emblem|SH|20px}} ''ToNoS - [[Tower of Nerves of Steel]] - Mid-High Intense (6.66)'' {{emblem|SH|20px}}
+* {{emblem|R6|20px}} ToDR - [[Tower of Dispersed Rooms]] - High Intense (6.68) {{emblem|R6|20px}}
+* {{emblem|R6|20px}} ToFS - [[Tower of Flustering Sections]] - High Intense (6.71) {{emblem|R6|20px}}
+* {{emblem|SA|20px}} SoII - [[Steeple of Involuntary Isolation]] - High Intense (6.71) {{emblem|SA|20px}}
+* {{emblem|Z9|20px}} ToNN - [[Tower of Nothing New]] - High Intense (6.73){{emblem|Z9|20px}}
+* {{emblem|LR|20px}} ToWaW - [[Tower of Witchcraft and Wizardry]] - High Intense (6.74) {{emblem|LR|20px}}
+* {{emblem|FR|20px}} ToDE - [[Tower of Dangerous Expeditions]] - High Intense (6.75) {{emblem|FR|20px}}
+* {{emblem|TSA|20px}} ToWR - [[Tower of Warranted Retribution]] - High Intense (6.75) {{emblem|TSA|20px}}
+* {{emblem|R6|20px}} FNAT - [[Fortunately Not A Tower]] - High Intense (6.76) {{emblem|R6|20px}}
+* {{emblem|Z2|20px}} ToAZ - [[Tower of Arcanium Zenturing]] - High Intense (6.76) {{emblem|Z2|20px}}
+* {{emblem|FR|20px}} CoWN - [[Citadel of Weird Nostalgia]] - High Intense (6.77) {{emblem|FR|20px}}
+* {{emblem|Z7|20px}} ToSaPS - [[Tower of Swift and Precise Sections]] - High-Peak Intense (6.78) {{emblem|Z7|20px}}
+* {{emblem|Z8|20px}} ToML - [[Tower of Manic Lows]] - High-Peak Intense (6.78) {{emblem|Z8|20px}}
+* {{emblem|Z5|20px}} CoCE - [[Citadel of Corporate Enterprise]] - High-Peak Intense (6.79) {{emblem|Z5|20px}}
+* {{emblem|Z10|20px}} ToETU - [[Tower of Expecting The Unexpected]] - High-Peak Intense (6.79) {{emblem|Z10F|20px}}
+* {{emblem|Z4|20px}} ToSS - [[Tower of Shifting Slopes]] - High-Peak Intense (6.80) {{emblem|Z4|20px}}
+* {{emblem|R4|20px}} CoU - [[Citadel of Uneasiness]] - High-Peak Intense (6.80) {{emblem|R4|20px}}
+* {{emblem|Z9|20px}} ToFCB - [[Tower of Furious Chicken Brawl]] - High-Peak Intense (6.86) {{emblem|Z9|20px}}
+* {{emblem|SA|20px}} ToTD - [[Tower of Tenebrous Depths]] - Peak Intense (6.90) {{emblem|SA|20px}}
+* {{emblem|Z9|20px}} ToFU - [[Tower of Falling Up]] - Peak Intense (6.93) {{emblem|Z9|20px}}
+* {{emblem|SH|20px}} ''CoT - [[Citadel of Treachery]] - Peak Intense (6.95)'' {{emblem|SH|20px}}
+* {{emblem|Z5|20px}} ToAO - [[Tower of Anticlimactic Outcomes]] - Peak Intense (6.96) {{emblem|Z5|20px}}
+* {{emblem|R4|20px}} ToO - [[Tower of Oblivion]] - Peak Intense (6.97) {{emblem|R4|20px}}
+* {{emblem|LR|20px}} ToCS - [[Tower of Compact Spaces]] - Peak Intense (6.98) {{emblem|LR|20px}}
+* {{emblem|Z2|20px}} ToTT - [[Tower of Triangular Terror]] - Peak Intense (6.98) {{emblem|Z2|20px}}
+* {{emblem|R3|20px}} TAT - [[Totally A Tower]] - Peak Intense (6.99) {{emblem|R3|20px}}
+* {{emblem|R8|20px}} ToIII - [[Tower of Insanely Innovative Ideas]] - Peak Intense (6.99) {{emblem|R8|20px}}
+* {{emblem|Z10|20px}} ToMN - [[Tower of Mach Nine]] - Peak Intense (6.99) {{emblem|Z10F|20px}}
+|-|
+Monthly Towers=
+* {{emblem|TLT|20px}} ToV(M) - [[Tower of Vibing]] - Bottom Intense (6.04) {{emblem|R2|20px}}
+* {{emblem|TLS|20px}} SoTDW(M) - [[Steeple of The Deep Well]] - Bottom Intense (6.05) {{emblem|SA|20px}}
+* {{emblem|TL?|20px}} ToGMLB(M) - [[Tower of Good Morning, Let's Basketball]] - Low Intense (6.25) {{emblem|Z7|20px}}
+* {{emblem|TLC|20px}} ToOT(M) - [[Tower of Onerous Traversing]] - Low Intense (6.32) {{emblem|R7|20px}}
+* {{emblem|TLT|20px}} ToDIM(M) - [[Tower of Diving Into Madness]] - Low Intense (6.33) {{emblem|LR|20px}}
+* {{emblem|TLP|20px}} ToSBC(M) - [[Tower of Stained, Brutal Calamity]] - Low-Mid Intense (6.36) {{emblem|R6|20px}}
+* {{emblem|TLT|20px}} ToPE(M) - [[Tower of Pure Exasperation]] - Mid Intense (6.49) {{emblem|Z1|20px}}
+* {{emblem|TLS|20px}} ToSB(M) - [[Tower of Stalactite Boundaries]] - Mid-High Intense (6.57) {{emblem|Z6|20px}}
+* {{emblem|TLT|20px}} ToGTI(M) - [[Tower of Gates To Infinity]] - Mid-High Intense (6.61) {{emblem|Z3|20px}}
+* {{emblem|TLC|20px}} ToVC(M) - [[Tower of Violet Contradiction]] - Mid-High Intense (6.61) {{emblem|Z6|20px}}
+* {{emblem|TLP|20px}} ToUGH(M) - [[Tower of Unfaithful Great Heights]] - High Intense (6.71) {{emblem|Z3|20px}}
+* {{emblem|TL?|20px}} ToLS(M) - [[Tower of Laptop Snapping]] - High Intense (6.77) {{emblem|R4|20px}}
+* {{emblem|TLC|20px}} ToFA(M) - [[Tower of Fast Acceleration]] - High-Peak Intense (6.78) {{emblem|Z5|20px}}
+* {{emblem|TLP|20px}} ToDW(M) - [[Tower of Disjointed Worlds]] - High-Peak Intense (6.79) {{emblem|R6|20px}}
+* {{emblem|TL?|20px}} ToAI(M) - [[Tower of Ashen Inferno]] - High-Peak Intense (6.84) {{emblem|R7|20px}}
+* {{emblem|TLS|20px}} ToNM(M) - [[Tower of Nothing Much]] - High-Peak Intense (6.85) {{emblem|Z5|20px}}
+* {{emblem|TLS|20px}} ToFU(M) - [[Tower of Frozen Uplift]] - High-Peak Intense (6.87) {{emblem|Z2|20px}}
+* {{emblem|TLP|20px}} ToCD(M) - [[Tower of Celestial Darkness]] - Peak Intense (6.89) {{emblem|Z3|20px}}
+* {{emblem|TL?|20px}} ToIDY(M) - [[Tower of I Dislike You]] - Peak Intense (6.92) {{emblem|R3|20px}}
+* {{emblem|TLP|20px}} ToTEP(M) - [[Tower of Truly Extensive Pillars]] - Peak Intense (6.93) {{emblem|R7|20px}}
+* {{emblem|TLT|20px}} ToCV(M) - [[Tower of Concealed Visions]] - Peak Intense (6.94) {{emblem|ATw|20px}}
+* {{emblem|TLT|20px}} CoM(M) - [[Citadel of Malice]] - Peak Intense (6.94) {{emblem|R7|20px}}
+* {{emblem|TLS|20px}} ToSTP(M) - [[Tower of Scaling The Pillar]] - Peak Intense (6.96) {{emblem|R9|20px}}
+* {{emblem|TLT|20px}} ToTaS(M) - [[Tower of Taking a Seat]] - Peak Intense (6.97) {{emblem|Z7|20px}}
+|-|
+Event Towers=
+* {{emblem|AF2024|20px}} ToQBF - [[Tower of Quick, Brown Fox!]] - Bottom Intense (6.02) {{emblem|AF2024|20px}}
+* {{emblem|AF2021|20px}} Toua - [[Tower of u a]] - Bottom Intense (6.05) {{emblem|AF2021|20px}}
+* {{emblem|CE2023|20px}} SoTBD - [[Steeple of Triple Black Diamonds]] - Bottom Intense (6.07) {{emblem|CE2023|20px}}
+* {{emblem|HE2019|20px}} SoMT - [[Steeple of Midnight Terrors]] - Bottom-Low Intense (6.16) {{emblem|HE2019|20px}}
+* {{emblem|LE2024|20px}} ToTU(L) - [[Tower of Tearing Up]] - Low Intense (6.26) {{emblem|LE2024|20px}}
+* {{emblem|CE2024|20px}} SoPE - [[Steeple of Psycho Eyes]] - Low Intense (6.28) {{emblem|CE2024|20px}}
+* {{emblem|H2023|20px}} SoMH - [[Steeple of Moonlit Heresy]] - Low-Mid Intense (6.42) {{emblem|H2023|20px}}
+* {{emblem|100M|20px}} 100MF - [[100M Finale]] - Mid Intense (6.52) {{emblem|100M|20px}}
+* {{emblem|HE2020|20px}} SoCT - [[Steeple of Cosmic Terror]] - Mid-High Intense (6.56) {{emblem|HE2020|20px}}
+* {{emblem|AF2025|20px}} ToNLU - [[Tower of Not Like Us]] - High Intense (6.69) {{emblem|AF2025|20px}}
+* {{emblem|LE2024|20px}} ToGI(L) - [[Tower of Great Infamy]] - High-Peak Intense (6.78) {{emblem|LR2|20px}}
+* {{emblem|AF2023|20px}} CoABL - [[Citadel of "A Bug's Life!"]] - Peak Intense (6.94) {{emblem|AF2023|20px}}
+* {{emblem|AF2024|20px}} ToTCF - [[Tower of The Conscious Fallacy]] - Peak Intense (6.95) {{emblem|AF2024|20px}}
+* {{emblem|AF2025|20px}} CT&HT - [[Cringe Tower & Hinge Tower]] - Peak Intense (6.99) {{emblem|AF2025|20px}}
+|-|
+Tower Rushes=
+* {{emblem|R5|20px}} R14MTR - [[Rings 1-4 Mini Tower Rush]] - Intense (6.??) {{emblem|R5|20px}}
+* {{emblem|GoE|20px}} GoETR - [[Garden of Eeshöl Tower Rush]] - Mid-High Intense (6.62) {{emblem|GoE|20px}}
+* {{emblem|R3|20px}} R3TR - [[Ring 3 Tower Rush]] - Peak Intense (6.89) {{emblem|R3|20px}}
+|-|
+Removed Towers=
+* {{emblem|TS|20px}} DT2 - [[Double Tower 2]] - Bottom Intense - (6.03)
+* {{emblem|R6|20px}} ToIaOS - [[Tower of Inner and Outer Scaling]] - Peak Intense (6.89)
+</tabber>
+{{Header|Gallery}}
+<gallery wdiths="185" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+746c2b5b02e70b6e6dc260ccf46e5c27.png|The [[badge]] obtained from beating an <span id="Intense">[[Intense]]</span> tower for the first time.
+</gallery>
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Intense]]

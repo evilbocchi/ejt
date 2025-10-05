@@ -1,0 +1,142 @@
+{{JET}}
+{{Humanly Possible}}
+{{Legendary Difficulty}}
+{{Quote (IPeedMyPants' Version)|quote=This is so ez! Skip to Effortless already, man.|quoter=Bruhshard1 on Joyful}}
+__NOEDITSECTION__
+{{NewDifficultyInfobox
+|title1 = {{Class0Difficulties|Joyful}} Joyful {{Class0Difficulties|Joyful}}
+|image1= [[File:JoyfulDiffIcon.png]]
+|caption1 = The most joyful difficulty
+|class = [[:Category:Class 1|Class 1]]
+|type = [[:Category:Difficulties|Normal Difficulty]]
+|previous = {{Class0Difficulties|Automatic}} [[Automatic]]
+|next = {{Class0Difficulties|Press a Key}} [[Press a Key]]
+|decal_id = [https://www.roblox.com/library/9034496541/Joyful 9034496541]
+|sub_difficulty(ies) = {{Class0Difficulties|Do Something}} [[Do Something]]
+|chain(s) = JET Chain
+|creator(s) = [[User:TasmanianRex|TasmanianRex]]
+|original_creator(s) = [[User:Adoqexon|Adoqexon]]
+|date_added = 
+* 19 January 2020 (JET)
+* 20 May 2022‎ (JJT)
+|previous_sub_difficulty(ies) =
+* Patrick
+* Primitive
+|hex_color = {{colorbox|#CEFA05}} #CEFA05
+|rbg_color = {{colorbox|#CEFA05}} 206, 250, 5
+|cmyk_color = {{colorbox|#CEFA05}} SOON
+|hsv_color = {{colorbox|#CEFA05}} SOON
+|hsl_color = {{colorbox|#CEFA05}} SOON
+|alt_next=[[File:PLACID.png|30x30px]] [[Placid]]}}
+
+== Overview ==
+'''Joyful''' is a [[:Category:Class 1|Class 1]] difficulty created for the [https://jtohs-easiest-towers.fandom.com/wiki/JToH%27s_easiest_towers_Wiki JET] Chain. It is a difficulty between {{Class0Difficulties|Automatic|20px}} [[Automatic]] and [[File:Press a Key.png|20x20px]] [[Press a Key]] (or [[Placid]]). This difficulty also only has one sub difficulty: {{Class0Difficulties|Do Something|20px}} [[Do Something]].
+
+Obstacles in this difficulty only requires a single in-game action to complete. The rest of the obstacles in '''Joyful''' are similar to {{Class0Difficulties|Automatic|20px}} [[Automatic]]. Joyful USED to contain really slow and boring conveyers as well to the point where you'll just do multiple actions instead, but I guess it's gone now.
+
+Like other [[:Category:Class 1|Class 1]] difficulties, this difficulty is almost never a challenge to the player. It is recommended that you skip these time-wasting difficulties and move on to attempting something similar in difficulty like [https://jtoh.fandom.com/wiki/Tower_of_Annoyingly_Simple_Trials Tower of Annoyingly Simple Trials] instead.
+
+== Icon representation ==
+<tabber>
+|-|
+OoEDA (Official)=
+<font size=5>[[Obelisk of Endless Difficulty Amplifying|OoEDA]]’s Icon (Official)</font></br>
+The official Joyful difficulty icon represents a line colored shade background. Originally the icon was used in [[Obelisk of Endless Difficulty Amplifying|OoEDA]] and now it's used in many [[Difficulty Chart|Difficulty Chart Towers]] today.
+|-|
+OoIDC (Original)=
+<font size=5>[[Obelisk of Impossible Difficulty Chart|OoIDC]]’s Icon (Original)</font></br>
+This icon has a vertical white to yellow gradient as its background.
+</tabber>
+
+== Obstacles ==
+In this difficulty, the player only has to do a single in-game action, usually by pressing the spacebar to jump. Not only do you have to press the spacebar in order to complete this difficulty, you can also ''Tap a Key'' similar to {{Class0Difficulties|Do Something|20px}} [[Do Something]]. The rule of thumb for creating a tower in this difficulty is that you cannot build more than one obstacle. Based on the explanation given on this section, building a '''Joyful''' difficulty tower is simple and not time consuming.
+
+In Difficulty Chart Towers, '''Joyful''' in difficulty charts by making the whole floor Automatic until the last part of it, where you have to jump to proceed to the next difficulty/sub-difficulty. The definitions have changed in the years and as more useless difficulties piled onto the chart, this is the first action the player needs to do.
+
+=== Object Directory ===
+<tabber>
+|-|
+Main Obstacles=
+<font size=5>Main Obstacles</font></br>
+* Jumping
+|-|
+Other Obstacles=
+<font size=5>Other Obstacles</font></br>
+* Walk, jump or click a button on a wall (JToH V6 Kit)
+* Automatic sections, except jumping is dangerous
+</tabber>
+
+== Towers ==
+<tabber>
+|-|
+TNZT=
+<font size=5>TNZT</font></br>
+* SoWaRE - [https://tnzt.fandom.com/wiki/Steeple_of_Weird_and_Random_Events Steeple of Weird and Random Events]
+* ToP - [https://tnzt.fandom.com/wiki/Tower_of_Plinko Tower of Plinko]
+* ToVA - [https://tnzt.fandom.com/wiki/Tower_of_Vertical_Advancements Tower of Vertical Advancements]
+* ToSP - [https://tnzt.fandom.com/wiki/Tower_of_Slow_Progression Tower of Slow Progression]
+* ToASJ - [https://tnzt.fandom.com/wiki/Tower_of_A_Single_Jump Tower of A Single Jump]
+* ToBA - [https://tnzt.fandom.com/wiki/Tower_of_Bouncing_Around Tower of Bouncing Around]
+|-|
+TJFD=
+<font size=5>TJFD</font></br>
+* SoJJ - [[Spire of Jumping Joy]]
+|-|
+Others (Unplaced)=
+<font size=5>Others (Unplaced)</font></br>
+* [https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Tower of Jumping Around]
+|-|
+Fictional=
+<font size=5>''Fictional''</font></br>
+* ToHTBAoNT - Tower of How To Be AFK on The Tower
+* ToG - Tower of Garb
+* ToPTS - Tower of Press That Spacebar
+</tabber>
+
+== Appearances ==
+<tabber>
+|-|
+Games=
+<font size=5>Games</font></br>
+* DM - [[Difficulty Mines]] ''(Sector 1)''
+* DBS - [[Difficulty Button Simulator]] ''(Class 0)''
+* FDR - [[Funny difficulty rpg]] ''(Class 0)''
+* DCRPG - [[Difficulty Chart RPG]] ''(Class 0)''
+* TDR - Tadd's Difficulty RPG ''(Class 0)''
+* DRT - [[Difficulty RPG Tower]] ''(Class 0 or Floor 2)''
+|-|
+Others (Unplaced)=
+<font size=5>Others (Unplaced)</font></br>
+''Normal Towers and popular [[Difficulty Chart|Difficulty Chart Towers]] with this difficulty are placed here.''
+* {{Class8Difficulties|Supreme}} OoIDC - [[Obelisk of Impossible Difficulty Chart]] ''(Floor 0.25 in the Noob Zone)''
+* {{Class8Difficulties|Supreme}} OoEDA - [[Obelisk of Endless Difficulty Amplifying]] ''(Floor 3)''
+* {{Class24Difficulties|DTD}} MoDDA - [[Monolith of Deadly Difficulties Approaching]] ''(Floor 22)''
+* {{Class24Difficulties|DTD}} MoDDC - [[Monolith of Deadly Difficulty Cluster]] ''(Floor 4)''
+* {{Class25Difficulties|TFinD}} GCoCIaND - [[Great Citadel of Custom, Impossible, and Normal Difficulties]] ''(Floor 4 in the Noob Zone)''
+* {{Class25Difficulties|TFinD}} GCoGaED - [[Great Citadel of Grand and Endless Difficulties]] ''(Floor 6)''
+* {{Class25Difficulties|TFinD}} GCoHD - [[Great Citadel of Hellish Difficulties]] ''(Floor 3)''
+* {{Class25Difficulties|TFinD}} MoCED - [[Monolith of Completely Endless Difficulties]] ''(Floor 222)''
+* {{Class25Difficulties|TFinD}} MoEJD - [[Monolith of Every JJT Difficulty]] ''(Floor ???)''
+* {{Class25Difficulties|TFinD}} TMoAD - [[The Mother of All Difficulties]] ''(Floor 4 [Excluding class negative difficulties])''
+* {{Class25Difficulties|TFinD}} TIDC - [[The Infinite Difficulty Chart (T.I.D.C)|The Infinite Difficulty Chart]] ''(Floor ???)''
+* {{Class25Difficulties|SCCD}} TUDC - [[The Ultimate Difficulty Container (TUDC)|The Ultimate Difficulty Container]] ''(Floor 3)''
+</tabber>
+
+== Trivia ==
+* This difficulty alongside other [https://jtohs-easiest-towers.fandom.com/wiki/JToH%27s_easiest_towers_Wiki JET] difficulties were transferred to JJT due to the potential closure of [https://jtohs-easiest-towers.fandom.com/wiki/JToH%27s_easiest_towers_Wiki JET] wiki.
+* GNZT used to use the original [[Obelisk of Impossible Difficulty Chart|OoIDC]] icon in-game, but it was change to a modern-day icon as seen in [[Obelisk of Endless Difficulty Amplifying|OoEDA]].
+
+== Gallery ==
+<gallery>
+JoyfulDiffIcon.png|Current Icon for '''Joyful''' difficulty.
+Joyful 4D.png|Fan Made Art for '''Joyful''' difficulty.
+File:Jwklong Joyful.png|The second fanmade icon by jwklong.
+</gallery>
+
+== Continuing From This Point ==
+Go to [[File:Press a Key.png|20x20px]] [[Press a Key]]. Or, you can go to [[File:Do Something 2.png|30x30px]] [[Do Something]].{{DifficultiesNavbox}}
+<sup>Credit to JET wiki.</sup>
+[[Category:Class 1]]
+[[Category:Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Legendary Difficulty]]

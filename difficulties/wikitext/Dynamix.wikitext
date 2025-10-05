@@ -1,0 +1,154 @@
+<div style="background:#000000;padding:1em;font-family:rubik;border:10px solid #A9A6EB">
+{{Scrollbox
+|Notices=
+{{Physically Impossible}}{{Collaboration}}
+}}
+
+{{NewDifficultyInfobox
+|title1=<span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>
+|image1=Dynamix.png
+|caption1=The entrance to the end of physically impossible classes.
+|class=Class 10
+|rating=106
+|type=
+*Entry Difficulty
+*Physically Impossible
+|previous=[[File:Imageforsomething....png|30px]] [[Eɼɼosion]]
+|next=[[File:Diversity New.png|30px]] [[Eshinion]]
+|alt_previous=[[File:Confusion.webp|30px]] [[Confusion]]
+|alt_next=
+|class_range=Baseline|difficulty_range=Belowground - Peripheral
+|decal_id=[https://www.roblox.com/library/13897236878 13897236878]
+|creator(s)=TotallyNotAMeme00, Tafgo7162, Touchgrass210779 and KoolTheEpic
+|official_music(s)=[https://www.youtube.com/watch?v=-u_D3afnK7U Cave Story Arranged - Last Battle (Ballos Mix)]}}
+
+==Difficulty Information - [[File:Dynamix.png|40px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>==
+[[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span> is the first difficulty of Class 10, and one of the last difficulties to be '''Physically Impossible'''. It is the successor to [[File:Confusion.webp|30px]] [[Confusion]], a difficulty with an anonymous placement, wedged in-between Class 9 and 10. However, it is also the precursor to [[File:Diversity New.png|30px]] [[Eshinion]], a difficulty even harder than this one.
+
+As a Physically Impossible difficulty, trying to create an obstacle of [[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span> would be possible but thousands of studs for a single jump. The physically impossible classification exceeds hundred to a few millions. The difficulties in the classification approach the limits of roblox velocity reaching it at [[File:Pinnacle.png|frameless|35x35px]] <big>[[Pinnacle]].</big>
+
+Assists of any kind become insignificant while inside [[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>. They simply fail to be of any use against the sheer scale of this difficulty's obstacles. Said obstacles are mind-numbingly complex, and usually require nonsensical techniques yet to be fully grasped. These obstacles are usually extremely long, and will take several centuries to master, even for an obbyist with a skill level of Peripheral [[File:Confusion.webp|30px]] [[Confusion]].
+
+As players ascend the difficulty chart, gaps between difficulties become ridiculously large. For example, if one was to compare [[File:Confusion.webp|30px]] [[Confusion]] to [[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>, it would be like comparing [[File:Instantwin.png|30px]] [[Instant Win]] to [[File:Invigorating.jpg|30x30px]] [[Invigorating]]. This indicates that progressing from [[File:Confusion.webp|30px]] [[Confusion]] to [[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span> is like skipping from Class Negative all the way to Class 5.
+
+[[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span> can also be measured via alternative methods. One such method is the tier system. The tier rating of [[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span> would be astoundingly high, being placed in the hundreds. Another way to measure this difficulty is with [[Metris]]. It would have a rating of around |1800|.
+
+== Icon Representation - [[File:Dynamix.png|40px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span> ==
+{{IconRepresentationOfficialOnly|color=#ADA9F1|image=[[File:Dynamix.png|250px]]|description=[[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>'s icon is represented by a black background. There is a white border around the edges. In the middle is a white ">:3" emoticon, glowing light purple. }}
+
+==Obstacles - [[File:Dynamix.png|40px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>==
+{| class="mw-collapsible fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Stud Jump
+| style="background-color: #005980;" |150B
+| style="background-color: #014500;" |170B
+| style="background-color: #336000;" |190B
+| style="background-color: #6d5c00;" |210B
+| style="background-color: #964a00;" |230B
+| style="background-color: #5a0000;" |250B
+| style="background-color: #550055;" |270B
+|-
+|Stud Wraparound
+| style="background-color: #005980;" |145B
+| style="background-color: #014500;" |165B
+| style="background-color: #336000;" |185B
+| style="background-color: #6d5c00;" |205B
+| style="background-color: #964a00;" |225B
+| style="background-color: #5a0000;" |245B
+| style="background-color: #550055;" |265B
+|-
+|Stud Stickout
+| style="background-color: #005980;" |100B
+| style="background-color: #014500;" |120B
+| style="background-color: #336000;" |140B
+| style="background-color: #6d5c00;" |160B
+| style="background-color: #964a00;" |180B
+| style="background-color: #5a0000;" |200B
+| style="background-color: #550055;" |220B
+|-
+|Stud Cylinder Wraparound
+| style="background-color: #005980;" |115B
+| style="background-color: #014500;" |135B
+| style="background-color: #336000;" |155B
+| style="background-color: #6d5c00;" |175B
+| style="background-color: #964a00;" |195B
+| style="background-color: #5a0000;" |215B
+| style="background-color: #550055;" |235B
+|-
+|Stud High Jump
+| style="background-color: #005980;" |140B
+| style="background-color: #014500;" |160B
+| style="background-color: #336000;" |180B
+| style="background-color: #6d5c00;" |200B
+| style="background-color: #964a00;" |220B
+| style="background-color: #5a0000;" |240B
+| style="background-color: #550055;" |260B
+|-
+|Stud Truss Jump
+| style="background-color: #005980;" |160B
+| style="background-color: #014500;" |180B
+| style="background-color: #336000;" |200B
+| style="background-color: #6d5c00;" |220B
+| style="background-color: #964a00;" |240B
+| style="background-color: #5a0000;" |260B
+| style="background-color: #550055;" |280B
+|-
+|Stud Wallhop Jump
+| style="background-color: #005980;" |135B
+| style="background-color: #014500;" |155B
+| style="background-color: #336000;" |175B
+| style="background-color: #6d5c00;" |195B
+| style="background-color: #964a00;" |215B
+| style="background-color: #5a0000;" |235B
+| style="background-color: #550055;" |255B
+|-
+|Miscellaneous
+|Do a 120B stud truss jump
+while dodging 20 year
+prison sentence bricks.
+|Do 1 million
+147B stud jumps.
+|Solve 2+2
+does not
+equal 4
+|Beat a mid nil difficulty tower, but it is buffed by 6 classes.
+|
+|
+|
+|}
+
+==Towers - [[File:Dynamix.png|40px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>==
+
+===Containing [[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>===
+
+*None as of now.
+
+===Within [[File:Dynamix.png|30px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>===
+
+*[[Tower of Exasperation Flux]] (ToEF)
+
+==Trivia - [[File:Dynamix.png|40px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>==
+
+*This difficulty used to be a Class 11 (Class 8) sub difficulty of [[File:Peculiar Wavestats.png|30px]] [[Arcane]].
+**It also used to be the final sub difficulty of [[File:Peculiar Wavestats.png|30px]] [[Arcane]]., preceded by ''Untocular'' and ''Peculiar.''
+*The difficulty was originally owned by RemorselessJToH. However, after he got blocked, he passed ownership to his alt, Tetranaux.
+**After Tetranaux got blocked, it was claimed by TotallyNotAMeme00
+
+==CFTP - [[File:Dynamix.png|40px]] <span style="color:#A5A3E4;text-shadow:0 2px 5px #7A79AF;font-family:Josefin Slab">'''Dynamix'''</span>==
+After one has completed this difficulty, they can either choose to continue onwards to [[File:Diversity New.png|30px]] [[Eshinion]].
+{{DifficultiesNavbox}}
+</div>
+[[Category:Class 10]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Physically Impossible Difficulties]]
+[[Category:Collab Page]]

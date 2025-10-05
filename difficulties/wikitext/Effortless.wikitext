@@ -1,0 +1,38 @@
+{{Removed}}
+{{DISPLAYTITLE:<span id="Effortless">'''Effortless'''</span>}}__NOEDITSECTION____NOTOC__
+{{DifficultyTab
+|Effortless
+|blank1=
+|difficulty2=Easy
+|diffcolor2=76F447
+|textcolor2=000
+|type=Removed}}
+{{DifficultyInfobox
+|title1=Effortless
+|image1=EffortlessIconModified100.png
+|type=Removed
+|next={{Difficulty|Easy}} [[Easy|<span id="Easy">'''Easy'''</span>]]
+|date_removed=June 2019
+|reason_for_removal=Being Too Easy
+|hex_color=00CE00
+|rbg_color=0, 206, 0
+|cmyk_color=100%, 0%, 100%, 19%
+|hsv_color=120°, 100%, 81%
+|hsl_color=120°, 100%, 40%
+|roblox_name=Lime green
+|previous=
+}}
+{{Difficulty|Effortless|20px}} <span id="Effortless">[[Effortless]]</span> was the previous easiest [[difficulty]] in '''EToH''' before its deletion. It was represented with a color more darker green than [[Easy]]. Towers in this difficulty contained extremely simplistic, and mostly basic obstacles, such as Tower of Slight Unhappiness.
+{{Header|Towers in this difficulty (Organized by Realm)}}
+<tabber>
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+* ToSU - [[Tower of Slight Unhappiness]] (removed) (revamped into [[Tower of Another Beginning]] in [[Zone 1]] which got replaced by [[Tower of Zero Disturbances]])
+* ToAST - [[Tower of Annoyingly Simple Trials]] (Moved to {{Difficulty|Easy|20px}} Easy, then removed from the game)
+</tabber>
+{{Header|History}}
+There had only been one {{Difficulty|Effortless|20px}} <span id="Effortless">[[Effortless]]</span> tower ever in '''EToH''', which was [[Tower of Slight Unhappiness]] by {{PlayerName|Gammattor}}. [[Tower of One Equals Zero]] was also considered to be {{Difficulty|Effortless|20px}} <span id="Effortless">[[Effortless]]</span> before, but that was no longer the case once {{Difficulty|Effortless|20px}} <span id="Effortless">[[Effortless]]</span> got removed.
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Effortless]]

@@ -1,0 +1,235 @@
+{{DISPLAYTITLE:<span style="color: #626262;text-shadow:0 2px 5px #626262;font-family: Segoe UI">'''Eshinion'''</span>}}{{Scrollbox|Notices='''Notice Scrollbox'''
+{{Physically Impossible}}
+{{Large Page|reason=39k bytes of pure destruction.}}
+{{Former Class Finale|reason=any difficulty past [[Pinnacle]] was moved to class 15}}
+{{Revamp}}
+}}<br>
+{{Quote (IPeedMyPants' Version)|quote=''You're finally here, it is such a pleasure to meet you in person. You've got THIS far, maybe a bit too far, to the point when you're starting to break the gravity, to the point when you are capable of destroying the whole reality with a SINGLE wrong move, no lifeform was capable of doing that before.''
+
+
+''An insanely huge Difficulty Chart, with treacherous, impossible, extreme and unbearable difficulties. Huh, isn't it wonderful to feel this immense sense of victory, the sense that you did something that NO ONE ever did before. But, only to understand that it's a sense of a false victory?''
+
+
+''You have proved that you are no ordinary obbyist, someone close to the 'chosen one' in stories. You will be remembered as the one who did an incomprehensible thing.''
+
+''Conquer this difficulty, and you will enter Class 10 - the last class of the main difficulty chart, after it the extended chart begins.''
+
+''Absolutely sure that you're ready to take on this challenge, huh? ...Well, I see. You have an immense urge to complete this, but I won't ask why - just not interested in your stories. Do your worst!|quoter='''???'''.}}<br>
+<font size="5"><center> « [[File:Dynamix.png|frameless|40px]] [[Dynamix]] | <u>'''[[File:Diversity New.png|frameless|45x45px]]'''</u> <span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion</span> | [[File:Caught.png|40px]] [[Caught]] »</center></font>Be patient, {{USERNAME}}, this difficulty is undergoing a revamp.
+
+==Introduction to [[File:Diversity New.png|frameless|35x35px]] '''<span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion</span>'''==
+{{NewDifficultyInfobox|title1=<span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion|image1=<gallery>
+Diversity New.png|New
+Eshinion Very New.png|Old
+</gallery>|class=Class 10|type=Normal Difficulty|previous=[[File:Dynamix.png|frameless|40px]] [[Dynamix]]|next=* [[File:Wer.webp|30px]] [[TooAbnormal]]
+* [[File:Caught.png|40px]] [[Caught]] (Sub Difficulty)|decal_id=None currently|official_music(s)=Camellia - #1f1e33 (#00102g version) [From Arcaea]|creator(s)=Migastrate|date_added=25/03/2022|date_removed=None|original_type=Mythical Difficulty|previous_creator(s)=Migastrate, TDE, tosm (it's mine again :evilface: - migastrate)|caption1=As your life slowly withers away...|rating=107|class_range=Low|difficulty_range=Baseline-Peak}}Greetings, {{USERNAME}}.  [[File:Diversity New.png|frameless|28x28px]] '''<span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion</span>''' is a difficulty that lies in '''''Low Class 10'''''. It succeeds [[File:Dynamix.png|frameless|30x30px]] [[Dynamix]]''',''' and is much harder than it, but precedes  [[File:Caught.png|30x30px]] [[Caught]], being easier than it. As you can clearly see, this difficulty contains immeasurable obstacles that won't let you easily proceed, and that's for a reason - [[File:Diversity New.png|frameless|28x28px]] '''<span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion</span>''' tests you, it tests if you're seriously capable of doing something of a mind-breaking level, of a level beyond any mortal mind, if you're really the one who's worthy of proceeding further up into this seemingly never-ending Difficulty Chart. You are truly something else if you succeed at conquering this. 
+----Additionally to the obstacles, this difficulty contains '''Catches''' and '''Trials''' that shall make the path to your desired achievement harder tenfold, but also '''Boosts''' that will help you throughout your journey, you'll learn about them in a few minutes. Honestly, why not just stop and call this a day? Even if previous difficulties felt easy to you, this one won't, and I mean it. Personally, I feel like you're not really okay by now...
+
+==[[File:Diversity New.png|frameless|35x35px]] '''<span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion</span>''' - Icon Representation==
+{{IconRepresentation|image=[[File:Diversity New.png|150px]]|color=black|description=This difficulty's icon represents a background with a gradient, that goes from light white from the bottom to light grey (or dark white) on the upper part of the icon. There are two outlines that are both grey and slightly transparent. The outline that is closer to the middle of the icon is bigger than the other one, the other outline being smaller and further away from the center. There's a pitch-black outline at the corners of the icon. A centered ">_<" face is present, being pitch-black and having shadows with an RGB glow, while also being slightly tilted to the left. There are also unknown amalgamations at different parts of the icon, 3 in total. They're all pitch-black. [Credits to IPeedMyPants for making this icon.]|old_color=|old_image=[[File:Eshinion  Very New.png|150x150px]]|old_description=Eshinion's icon represents catastrophe, which clearly fits the difficulty. The icon consists of a grey pixelated >_< emoji with 2 dark teeth, the mouth being slightly open. Therefore, the background of this difficulty is a rotated by 90 grey-black-grey gradient. You can see text on the upper part and lower parts of the icon - Bold-styled "ABOMINATION" text on the lower part and the same styled "TERMINATION" text on the upper part.|alt_image=None|alt_description=None}}
+ 
+==[[File:Diversity New.png|frameless|35x35px]] '''<span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion</span>''' - Catches==
+'''[[File:Diversity New.png|frameless|28x28px]] <span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion</span>''' is not a challenge at all without any catches. You should prove that you really are a god-like obbyist, so get used to them, as they'll be with you throughout all of your journey. 
+*If you fail, you get brought back to [[File:SnackerDeath.png|frameless|30x30px]] ''SnackerDeath''.
+*Every 30 minutes you spend here, your ''WalkSpeed'' decreases by 0.3. When it gets to absolute zero, you'll need to restart.
+*Shiftlock is disabled.
+*First Person stops working at the ''Middlepoint stage.''
+*Controls are switched at ''The Borderline stage''. (Example: W is switched with S, while A is switched with D.)
+* You cannot edit your ''JumpPower'' and ''WalkSpeed'' values. (You'll meet a nearly exact catch in [[File:Vigorous.png|frameless|31x31px]] [[Vigorous]] later.)
+*Your screen starts to slowly spin at the ''Skyline stage''. (Doing a full 360 every 5 minutes.)
+*Your screen starts to shake at the ''Peak stage''.
+*Reality Control doesn't work at this difficulty.
+
+==[[File:Diversity New.png|frameless|35x35px]] '''<span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Eshinion</span>''' - Obstacles==
+
+'''<span style="background:linear-gradient(90deg,White,Grey); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">''Make no mistake.''</span>'''
+
+<small>[Credits to Galaktor for the template]</small>
+<tabber>
+Obstacles=
+{| class="fandom-table"
+|+Obstacles
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="black">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="black">Low</font>'''
+! style="background-color: yellow; " |'''<font color="black">Mid</font>'''
+! style="background-color: orange; " |'''<font color="black">High</font>'''
+! style="background-color: red; " | '''<font color="black">Peak</font>'''
+|-
+|Wraparounds
+| style="background-color: #014500;" |<font color="white">3T studs</font>
+| style="background-color: #336000;" |<font color="white">3.1T studs</font>
+| style="background-color: #6d5c00;" |<font color="white">3.2T studs</font>
+| style="background-color: #964a00;" |<font color="white">3.3T studs</font>
+| style="background-color: #5a0000;" |<font color="white">3.4T studs</font>
+|-
+|Climbable Long Jumps
+| style="background-color: #014500;" |<font color="white">126e+12 studs</font>
+| style="background-color: #336000;" |<font color="white"> 132e+12 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">137e+12 studs</font>
+| style="background-color: #964a00;" |<font color="white">142e+12 studs</font>
+| style="background-color: #5a0000;" |<font color="white">147e+12 studs</font>
+|-
+|Unclimbable Long Jumps
+| style="background-color: #014500;" |<font color="white">123.5e+12 studs</font>
+| style="background-color: #336000;" |<font color="white">127.4e+12 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">132.1e+12 studs</font>
+| style="background-color: #964a00;" |<font color="white">137.8e+12 studs</font>
+| style="background-color: #5a0000;" |<font color="white">141.6e+12 studs</font>
+|-
+|Stick-Outs
+| style="background-color: #014500;" |<font color="white"> 55x60e+12 stud</font>
+| style="background-color: #336000;" |<font color="white">62x55.5e+12 stud</font>
+| style="background-color: #6d5c00;" |<font color="white">68x49.9e+12 stud</font>
+| style="background-color: #964a00;" |<font color="white">71x47e+12 stud</font>
+| style="background-color: #5a0000;" |<font color="white">76x45e+12 stud</font>
+|-
+| Cyllinder Wraparounds
+
+| style="background-color: #014500;" |<font color="white">113e+12 studs</font>
+| style="background-color: #336000;" |<font color="white">117e+12 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">124e+12 studs</font>
+| style="background-color: #964a00;" |<font color="white">128e+12 studs</font>
+| style="background-color: #5a0000;" |<font color="white">134e+12 studs</font>
+|-
+|Climbable Walkaround
+| style="background-color: #014500;" |<font color="white">98e+12 studs</font>
+| style="background-color: #336000;" |<font color="white">105e+12 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">110.7e+12 studs</font>
+| style="background-color: #964a00;" |<font color="white">115e+12 studs</font>
+| style="background-color: #5a0000;" |<font color="white">119e+12 studs</font>
+|-
+|Unclimbable Walkaround
+| style="background-color: #014500;" |<font color="white">91e+12 studs</font>
+| style="background-color: #336000;" |<font color="white">95.2e+12 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">99e+12 studs</font>
+| style="background-color: #964a00;" |<font color="white">105.9e+12 studs</font>
+| style="background-color: #5a0000;" |<font color="white">110e+12 studs</font>
+|}
+
+|-|
+Trials=
+{| class="fandom-table"
+|+Trials
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="black">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="black">Low</font>'''
+! style="background-color: yellow; " |'''<font color="black">Mid</font>'''
+! style="background-color: orange; " |'''<font color="black">High</font>'''
+! style="background-color: red; " |'''<font color="black">Peak</font>'''
+|-
+|Trial #1
+| style="background-color: #014500;" |<font color="white">o a Luck Fling on a 15 stud cylinder over 93e+12 studs far, while five 52.5e+12 stud wraparounds are blocking your way. Then, complete a 49 damage killbrick 77e+12 stud wrap with 2e+12 stud gaps blindfolded, while the gravity is increased by 90%, and your JumpPower is increased to 50. After that, walk on a 0.00001 Stud wide 100e+12 stud Tightrope with three 50e+12 stud wide Insta-Kill spinners surrounding it. The gravity is buffed by 97% and your WalkSpeed is decreased by 0.5.</font>
+| style="background-color: #336000;" |<font color="white">WIP</font>
+| style="background-color: #6d5c00;" |<font color="white">WIP</font>
+| style="background-color: #964a00;" |<font color="white">WIP</font>
+| style="background-color: #5a0000;" |WIP
+|-
+|Trial #2
+| style="background-color: #014500;" |WIP
+| style="background-color: #336000;" |WIP
+| style="background-color: #6d5c00;" |WIP
+| style="background-color: #964a00;" |WIP
+| style="background-color: #5a0000;" |WIP
+|-
+|Trial #3
+| style="background-color: #014500;" |WIP
+| style="background-color: #336000;" |Do a 2T stud jump while dodging 20 year prison sentence bricks, then solve 483839393993929299293929+sin(cos(tan(2020200202020x)))=pi*sqrt(2)^39392939209392, then calculate pi to the 29292920021038th digit while doing 2T stud jumps while dodging 10 year prison sentence bricks.
+| style="background-color: #6d5c00;" |WIP
+| style="background-color: #964a00;" |WIP
+| style="background-color: #5a0000;" |WIP
+|}
+</tabber>
+----
+==''[[File:ETERNALION BOSS.gif|frameless|35x35px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' - T.H.E.   B.O.S.S.''==
+{{Boss|title1=<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION|caption1=R.U.N.|hp=O-M-E-G-A|damage=INF|drops=The Godly Cola (Heals 10 HP every 20 seconds)|difficulty=Peak Eshinion|abilities=Listed in "Abilities" section, because there are too many.|image1=ETERNALION BOSS.gif}}{{Quote (IPeedMyPants' Version)|quote=How nice.. you're finally here. I waited to see you for so long. Just look around, take a second, you need to understand where you're standing right now, right in this second.
+
+
+''You have gotten so far, nothing was capable of stopping you. You've done something that no human and unhuman being was capable of. You are really the chosen one, aren't cha'?''
+
+''You really did all of that, you really did completed nearly 14 classes, how impressive. No human or unhuman being was able to do this, all of them was just leaving at Class 7, or dissapearing without a trace in Class 10'.'
+
+
+<span style="color:#FF0000">'''ARE YOU READY?!'''|quoter=<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">'''ETERNALION'''}}
+
+[[File:ETERNALION BOSS.gif|frameless|28x28px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' is a boss in [[File:Eshinion Very New.png|frameless|28x28px]] '''<span style="color: #626262;text-shadow:0 2px 5px #626262;font-family: Segoe UI">Eshinion'''. It is just way too hard for you, so there is no way that you will beat it. Don't even try doing that, player. Nothing will help you, 2,000+ IQ won't help you, noclip or god mode won't help you too, even Reality Control is useless here. 
+
+Guess you're still going to try this, maybe you want to do a suicide or something like that, because you like REALLY want to try out this boss. I will just wish you bad luck now, and I hope you'll actually die here. That's all that I wanted to say, so goodbye.
+==[[File:ETERNALION BOSS.gif|frameless|35x35px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' - Icon Representation==
+[[File:ETERNALION BOSS.gif|frameless|28x28px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION's''' Icon represents a very laggy and glitchy ">_<" face with the same dark teeth. Also, it represents 2 words, "TERMINATION" and "ABOMINATION" like in [[File:Eshinion Very New.png|frameless|28x28px]] '''<span style="color: #626262;text-shadow:0 2px 5px #626262;font-family: Segoe UI">Eshinion''', they are absolutely broken and glitchy too. The icon shakes fastly, making a really distored effect. 
+
+You can see a strong RGB shift all over the icon. The background is still the same, with the light-black to black gradient, but it is pretty hard to see due to all of the distortions and lags. 
+
+The icon looks nearly the same like [[File:Eshinion Very New.png|frameless|28x28px]] '''<span style="color: #626262;text-shadow:0 2px 5px #626262;font-family: Segoe UI">Eshinion''', because it is actually just a distorted, broken, laggy and glitchy version of it. I used PhotoMosh to make the icon, there's nothing too exotic in it, except it is a GIF. Go ahead, and read some information about the boss now.
+==How does [[File:ETERNALION BOSS.gif|frameless|35x35px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' works?==
+[[File:ETERNALION BOSS.gif|frameless|28x28px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' has got a few phases, and here are all of them: Low Phase, Mid Phase, High Phase. But also there is a 0.00001% chance that you will encounter a secret phase, that is called "''MULTIPHERIPHERAL PHASE''", tho there's nearly no info about it in the page, so try to get it and see it with your own eyes.
+
+The Boss have got O-M-E-G-A (Very huge number.) Health, but the info about the health can be fake, because literally no one actually knows how much health [[File:ETERNALION BOSS.gif|frameless|30x30px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' have got. It have got INF Damage, but this is the same with the health - no one really knows the right number of the damage, it can be 100, 1,000, 10,000, 100,000, 1000,000 damage or more.
+
+This boss drops "'''<span style="color: #C3C3C3;text-shadow:0 2px 5px #C3C3C3;font-family: Segoe UI">The Godly Cola'''" item, it healths your HP by 10 every 20 seconds. Also, [[File:ETERNALION BOSS.gif|frameless|30x30px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' have got a ton of abilities and attacks, so better be accurate with it. Let's start the fight now!
+==Abilities / Attacks==
+Here are all of the phases and attacks, also abilities.
+===Low Phase===
+The first phase, the easiest one. Maybe there will be nothing too hard for you, because this is only the start. But, you will suffer, don't worry.    
+*''Attack 1:'' Summons 9,350 Heaven Zombies (Each Heaven Zombie does 10,000 damage. Each Heaven Zombie have got 3,000,000 health.) They have got 30 WalkSpeed and 70 JumpPower. You have got a sword that does 10-15 damage every 3 seconds, and you need to kill the zombies. Dying here - restarting the whole difficulty.
+
+*''Attack 2:'' Summons 465 Legendary Orbs (Every Legendary Orb (LO) does 500,000,000 damage, and have got 1,100,000 health.) Also every Legendary Orb summons 15 to 35 Heaven Zombies every 10 minutes. Every Legendary Orb shot 150 Instant-Killbricks at you every 1.2 minutes. You have got a sword that does 25 damage every 2.9 second, and a pistol that does 30 damage by one shot, but you can shot only 1 time in 1 minute.
+
+*''Attack 3:'' Summons 52,000 to 60,000 Insta-Killbricks that are falling from the sky for 4 minutes. You need to try to avoid them at all cost, because like at the first attack, you will need to restart the whole difficulty if you die.
+
+*''Attack 4:'' The Boss summons 2,500 fast Insta-Kill spinners that are 300 studs wide and 300 studs tall, but also there is a chance that the Boss will summon 2,500 Super Sonic Insta-Kill spinners instead. You need to avoid the spinners for 7 minutes. Tho, the Boss summons a Legendary Orb and 12 Heaven Zombies every 2 minutes here too. You have got a sword that does 26 damage every 2.9 seconds, and a pistol that does 32 damage by one shot, but again, you can shot only 1 time in 1 minute.
+
+*''Attack 5:'' Summons a Universe Guardian, with 100,000,000,000 Damage and 500,000,000,00 health. It have got 3 attacks: First attack summons 50 Insta-Kill Super Sonic spinners for 25 minutes, and 5 Heaven Zombies. Second attack summons an Insta-Killbrick rain for 5 minutes, and summons 50 Heaven Zombies and 40 Legendary Orbs every 1 minute. You have got a sword that deals 35 damage every 2.9 seconds, a pistol that does 41 damage by one shot, though you can shot only 1 time in 59 seconds, and an Orb Destroyer weapon, that does 40 damage to basic mobs like Universe Guardian, Heaven Zombies and [[File:ETERNALION BOSS.gif|frameless|28x28px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''', but it does 50 damage to the Legendary Orbs. You are able to hit with it every 5 seconds.
+===Mid Phase===     
+*''Attack 1:'' Spawns a Multiverse Annihilator that does 300,000,000,000 Damage and have got 700,000,000,000 health. It have got 4 attacks: very first attack summons 50 Insta-Kill Super Sonic spinners for 30 minutes, 100 Legendary Orbs and 100 Heaven Zombies. The second attack makes 100,000 Insta-Killbricks rain from the sky for 3 minutes, you have got a hammer that can destroy 1 Insta-Killbrick every 4.5 seconds, also it spawns a Legendary Orb every 55 seconds. The third attack makes your screen spin slowly, and summons a very black fog, after it spawns a Universe Guardian with 100,000,000 Damage and 490,000,000,000 health, and after it can spawn 3 Heaven Zombies every 2-3 minutes. The final fourth attack reverses your controls (Example: W reverses with S, and A reverses with D). Then it spawns 150 Legendary Orbs and 200 Heaven Zombies every 40-50 seconds. You have got a big sword that deals 34 damage every 2.8 seconds, but it have got big hitbox, a basic sword that deals 37 damage every 2.9 seconds, a pistol that does 42 damage by one shot, but you're able to shot with it 1 time in 58 seconds, and an Orb Destroyed, that you already know how it works.
+
+*''Attack 2:'' Spawns a Peripheral Zombie with 310,000,000,000 Damage and with 720,000,000,000 health. Though it have got only 2 attacks - first attack summons 1,000 Heaven Zombies, that are 3% faster than normal ones, and the attack makes your screen shake slowly. The second attack summons 900 Heaven Zombies that are 4% faster than normal ones, 350 Legendary Orbs that are 2% faster than normal ones, and again this attack makes your screen shake slowly too. Peripheral Zombie summons a shield that protects it from your sword and your pistol, but you can destroy that shield. The shield have got 3 layers - first layer have got 250,000,000,000 health, and when you destroy it, it spawns a 30,000 Insta-Killbrick rain for 10 minutes. Second layer got 550,000,000,000 health, but when you destroy it, it spawns a 60,000 Insta-Killbrick rain for 12 minutes. The third and the final layer have got 900,000,000,000 health, and again when you destroy it, it spawns a 100,000 Insta-Killbrick rain for 15 minutes and explodes after. You have got your sword and your pistol with the same stats to hit the mobs.
+
+*''Attack 3:'' Summons 8 Universe Guardians with 115,000,000,000 Damage and 530,000,000,000 health, and a Multiverse Annihilator that is 5% faster than normal one. There's nothing really much to tell in this attack, because you already know how these mobs work, but they are spawning a shield every 30 minutes, it have got 2 layers - first layer have got 800,000,000,000 health and after you destroy it, it explodes and gives you an Eternal Sword, that deals 60 damage with a 3 seconds cooldown. The second layer got 999,000,000,000 health, and when you destroy it, it explodes making 1,000 Insta-Killbricks spawning for 1 minute.
+=== High Phase===  
+*''Attack 1:'' Spawns a Hyper Zombie with 270,000,000,000 Damage and 800,000,000,000 health and a 5 layered shield. First layer have got 600,000,000,00 health, after you destroy it, it spawns 25 Insta-Killbrick spinners for the entire bossfight. Second layer got 700,000,000,000 health, when you destroy it, it summons 40 Insta-Killbrick spinners for the entire bossfight. Third layer got 850,000,000,000 health, and when you destroy it, it spawns 50 more Insta-Killbrick spinners for the entire bossfight, and lowers your health to 90 (Basic health is 100). Fourth layer is with 900,000,000,000 health, and after you destroy it, it summons 65 Insta-Killbrick spinners for the entire bossfight, and then makes your health drop to 85. The final layer got 999,000,000,000,000 health, and after you destroy it, it summons 75 Insta-Killbrick spinners for the entire bossfight, but doesn't make your health lower. In-total, you have got 255 Insta-Kill spinners for the entire fight. Also Hyper Zombie summons 5,000 Heaven Zombies  every 1 minute, and 1 Universe Guardian every 2 minutes. You have got your Eternal Sword with 60 damage, and a basic pistol that you had earlier.
+
+*''Attack 2: [[File:ETERNALION BOSS.gif|frameless|28x28px]]'' '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' summons a 60,000 Insta-Killbrick rain for 25 minutes, also 120 Insta-Kill very fast spinners, and makes your screen spin slowly. Then, it drops your health to 85 and starts summoning 35 Heaven Zombies every 1 second for 15 minutes, 17 Legendary Orbs every 3 seconds for again 15 minutes, 2 Universe Guardians every 5 seconds for the same 15 minutes, and a Hyper Zombie every 1.2 minutes. And it adds 10 Insta-Killbrick spinners every 10 seconds. After [[File:ETERNALION BOSS.gif|frameless|28x28px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' spawns 500 Heaven Zombies that are 15% more faster and 15% more stronger, and every Heaven Zombie got a 3 layered shield, every layer got 200,000,000,000 health, and spawns a 20,000 Insta-Killbrick rain for 10 minutes when you destroy a layer. You need to defeat ALL of the Heaven Zombies to continue. ... So, after you killed all of the zombies, a Universe Guardian that is 80% stronger than normal one spawns, but now it summons 60 Heaven Zombies and 60 Legendary Orbs every 5 seconds for 13 minutes, and the Guardian got a 5 layered shield, each layer got 250,000,000,000 health, when you destroy a layer, your health drops by 3. You need to kill the Guardian to get to the next attack, also, you have got your own Primal Sword with 70 damage and a 4 second cooldown, but now you're without the pistol.
+
+*''Attack 3: [[File:ETERNALION BOSS.gif|frameless|28x28px]]'' '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION''' doesn't do anything, it just levitates on the same spot, but you need to defeat it. It got a 150 layered shield, each layer got 900,000,000,000 health, and when you destroy a layer, it summons 3 Insta-Kill Super Sonic spinners, and there's a 30% chance your health will drop by 1. Also, you need to be fast, because a new layer spawns every 1.4 minutes, and a Heaven Zombie spawns every 3 minutes. Your screen spins and shakes hardly, your controls are reversed, you got a Primal Sword with 70 damage and a 4 second cooldown, that's all. This is the hardest attack here, even if it sounds like it is beatable, it is not, but if somehow you will complete it - you'll be able to go to the next difficulty, that is in Class 15 already, though this attack is literally Physically, TAS, Humanly and Inhumanly impossible. You need to be a god to complete it, even to finish 40% of it. I know you are not ready, you just can't. Just feel the suffer, pain and agony - and after die, this is all that you need to do.
+====The End. ====
+So, you have really done this, congratulations. Most likely you are capable of destroying the whole Multiverse in 1 Nanosecond, nothing is capable of stopping you. Look around - this is the end of Class 14, not Class 10, nor Class 11. You just got really too far. Why didn't you just stopped on Class 10, you completed [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|frameless|28x28px]][[MegaDeath]] and all things, that was already enough for everyone. Why are you continuing further..?
+===Music in [[File:ETERNALION BOSS.gif|frameless|28x28px]] '''<span style="color: #4E4E4E;text-shadow:0 2px 5px #4E4E4E;font-family: Segoe UI">ETERNALION'''===
+Music in the Boss: [https://www.youtube.com/watch?v=OjbjZcBctuM '''''Camellia - GHOST (from Cyphisonia E.P.)'''''] ''At 1.25 Speed.''
+==Towers in and with this Difficulty==
+
+===Towers in this Difficulty===    
+*Tower of Agonized Corrupted Heavens (ToACH) [Fictional]
+*Tower of Eternal And Peripheral Screaming (ToEAPS) [Fictional]
+*Tower of E.S.H.I.N.I.O.N. (ToESHINION) [Fictional]
+*Tower of Paralysis Demonical Faces (ToPDF) [Fictional]
+* Tower of Multipheriphical Ultimate Obstacles (ToMUO) [Fictional]
+* [[Great Citadel of Are These Even Difficulties Anymore]] [Fictional]
+* [https://www.roblox.com/games/10406214285/Ring-10-Quasis-Towers-of-Nonsense Mini Citadel of Dimensional Crossing] (MCoDC) '''[Non-fictional, QTON Ring 10]'''
+===Towers with this difficulty===   
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*[[Monolith of The Endless Difficulty Needls: Revamp]] (MoTEDN:R)
+==[[File:Eshinion Very New.png|frameless|35x35px]] '''<span style="color: #626262;text-shadow:0 2px 5px #626262;font-family: Segoe UI">Eshinion''' - Trivia==
+*This is the 5th difficulty that is made by ''Turbomaxwel''.
+*This difficulty's name doesn't mean anything, just a name.
+*This difficulty was meant to be made on 24/03/2022, but due to some things it was made on 25/03/2022.
+*There is an ID in the Peak obstacles stage, insert it in the search bar.
+*Previously, there were Cosmoline and Baseline obstacle stages, but they got removed due to this difficulty already had too many stages.
+*Obstacle Trials were added on 15th day after [[File:Eshinion Very New.png|frameless|28x28px]] '''<span style="color: #626262;text-shadow:0 2px 5px #626262;font-family: Segoe UI">Eshinion's''' release, Idk why am I telling that.
+==[[File:Eshinion Very New.png|frameless|35x35px]] '''<span style="color: #626262;text-shadow:0 2px 5px #626262;font-family: Segoe UI">Eshinion''' - Gallery==
+<gallery>
+File:Eshinion Very New.png|Current Eshinion Icon
+File:April Fools Eshinion.png|Eshinion During April Fools
+File:Fanmade Eshinion.png|Fanmade Eshinion Icon
+</gallery>
+
+==''Continuing From this Point.''==
+
+Welcome to the end. Have a nice break after all of that meaningless battle. Proud of yourself? Probably, I would be too. But you beat my difficulty... so I am kind of ticked off. But, you did do something that was thought to be humanly impossible, hell, even TAS impossible. I bet you had a tough time. If you want to continue already, [[File:Caught.png|30x30px]] [[Caught]] will be where you'd go. Goodbye, even though we both know you won't succeed.{{DifficultiesNavbox}}
+[[Category:Class 10]]
+[[Category:Difficulties]]
+[[Category:Large Pages]]
+[[Category:Essay pages]]
+[[Category:Physically Impossible]]
+[[Category:Difficulties With Bosses]]
+[[Category:Undergoing Revamp]]

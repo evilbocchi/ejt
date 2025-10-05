@@ -1,0 +1,141 @@
+{{Physically Impossible}}
+
+
+<center><font size="5">«</font>[[File:Epitome.png|30px]] [[Epitome]] <font size="5">|</font> [[File:Hellifying.png|frameless|30x30px]]<font size="5"> <span><span><span style="color:pink">'''Agony'''</span></span> </span> | [[File:2020 09 21 Kleki.png|30px]] [[Abyssal]]»</font></center>
+
+{{BetterQuote|text=So. I see you’ve passed [[File:Epitome.png|30px]] [[Epitome]]. I regret to inform you, however, that you’re probably at your final stopping point. 
+Welcome to Class 8! This is often called the ‘Near-Unbuildable Class’, although it is FAR from unbuildable. This is also the class where Physical Impossibility begins, according to the template. You are now facing [[File:Hellifying.png|frameless|30x30px]] <span style="color:pink">Agony</span>, and continuing after this is probably not a good idea, considering the third legendary, Dilly Impossible, has a boss with the HP of the signed integer limit.|quoter=???}}
+
+== Difficulty Introduction==
+{{NewDifficultyInfobox|title1=[[File:Hellifying.png|frameless|30x30px]] <span style="color:pink">Agony</span>|image1=<gallery>
+Hellifying.png | Current
+Hellifying Old2.webp | Old
+Hellifying Old.webp | Oldest
+</gallery>|caption1=Don’t be fooled, the pink is even deadlier than [[Neutralize]].|class=[[:Category:Class 8|Class 8]]|type=Normal|previous=[[File:Epitome.png|30px]] [[Epitome]]|next=[[File:2020 09 21 Kleki.png|30px]] [[Abyssal]]|difficulty_range=Baseline-Peak|decal_id=N/A|creator(s)=[[User:MrGod7600|MrGod7600]]|date_added=10/07/2022|original_class=[[:Category:Class 10|Peak Class 10]]|previous_class(es)=[[:Category:Class 10|Peak Class 10]]|original_type=[[:Category:Class Finale Difficulties|Class Finale Difficulty]]|previous_type(s)=[[:Category:Difficulties|Revived Difficulty]]|date_removed=20/07/2022|removal_reason=Author request.|revival_date=06/05/2022|alt_names=*Hellish|alt_previous=|rating=77|class_range=[[:Category:Class 8|Baseline Class 8]]|official_music(s)=Unknown|alt_next=[[File:ILOVEYOU.png|30px]] [[ILOVEYOU]]|sub_difficulty(ies)=[[File:ILOVEYOU.png|25px]] [[ILOVEYOU]]}}[[File:Hellifying.png|frameless|30x30px]] <span style="color:pink">'''Agony'''</span> is the first difficulty in the Mischievious Class 8, and was deleted for author request due to the owner, The Difficulty Enthusiast, not having much motivation during its creation. However, when the creator regained motivation, it was revived by the author. It is located directly surpassing [[File:Epitome.png|30px]] [[Epitome]] and is located directly preceding the livid [[File:2020 09 21 Kleki.png|30px]] [[Abyssal]]. '''Agony''' necessitates physically impossible obstacles, breaking logic of Roblox obbying, due to how high up in the difficulty chart this is located in. 
+
+Even just accomplishing a singular jump of this difficulty is a feat in gaming that will never be surpassed, due to the fact that the jumps are so mind-bogglingly impossible, they are unbeatable. There are decoys and traps hidden with the rest of the gameplay, which are impossible to detect on your first run, meaning there are no ‘first-try’ completions of [[File:Hellifying.png|frameless|30x30px]] <span style="color:pink">'''Agony'''</span>, and there never will be. 
+
+Furthermore, not even the most precise TAS there is could help you, so you must dive into sketchy exploits, and overpowered items only for important people in the community, like JToH’s Blessed Coil, in order to even have a nanoscopic chance of surpassing [[File:Hellifying.png|frameless|30x30px]] <span style="color:pink">'''Agony'''</span>. 
+
+==Icon Representation ==
+Dont know why this is here, but it’s standard for every difficulty now, so yeah, cry about it.
+<tabber>
+Current=
+<center>[[File:Hellifying.png|80x80px]]</center>
+It is a light grey icon, with a white border. There is a black XD in the middle, and lots of filters, like glitch and RGB shift featured in this icon. It’s simplistic.
+|-|
+Old=
+<center>[[File:Hellifying Old2.webp|80x80px]]</center>
+This icon may not look complicated, but it is. Firstly, there is a white, pixelated XD in the middle. Secondly, there is some turquoise radial gradation, and there is a slight bit of speed lines coming up through the bottom right corner. Yeah, that’s it.
+|-|
+Oldest=
+<center>[[File:Hellifying Old.webp|80x80px]]</center>
+The oldest icon is {{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]]s icon, but heavily modified. The colors are a lot darker, the XD has been changed to a DX, there are laser eyes in the DX, and there is some bright red in each corner. 
+</tabber>
+
+==Obstacles==
+<tabber>
+Baseline=
+===Baseline '''Agony'''===
+
+* 170 stud jump (Climbable)
+* 168 stud jump (Unclimbable)
+* 165 stud wraparound (Climbable)
+* 163 stud wraparound (Unclimbable)
+* 162 stud ice wraparound
+* 163 stud Cylindrical Wraparound (Climbable)
+* 161 stud Cylindrical Wraparound (Unclimbable)
+|-|
+Low=
+===Low '''Agony'''===
+
+* 175 stud jump (Climbable)
+* 173 stud jump (Unclimbable)
+* 170 stud wraparound (Climbable)
+* 168 stud wraparound (Unclimbable)
+* 167 stud ice wraparound
+* 168 stud Cylindrical Wraparound (Climbable)
+* 166 stud Cylindrical Wraparound (Unclimbable)
+|-|
+Middle=
+===Middle '''Agony'''=== 
+
+* 180 stud jump (Climbable)
+* 178 stud jump (Unclimbable)
+* 175 stud wraparound (Climbable)
+* 173 stud wraparound (Unclimbable)
+* 172 stud ice wraparound
+* 173 stud Cylindrical Wraparound (Climbable)
+* 171 stud Cylindrical Wraparound (Unclimbable)
+|-|
+High=
+===High '''Agony'''===
+
+* 185 stud jump (Climbable)
+* 183 stud jump (Unclimbable)
+* 180 stud wraparound (Climbable)
+* 178 stud wraparound (Unclimbable)
+* 177 stud ice wraparound
+* 178 stud Cylindrical Wraparound (Climbable)
+* 176 stud Cylindrical Wraparound (Unclimbable)
+|-|
+Peak=
+===Peak '''Agony'''=== 
+
+* 190 stud jump (Climbable)
+* 188 stud jump (Unclimbable)
+* 185 stud wraparound (Climbable)
+* 183 stud wraparound (Unclimbable)
+* 182 stud ice wraparound
+* 183 stud Cylindrical Wraparound (Climbable)
+* 181 stud Cylindrical Wraparound (Unclimbable)
+</tabber>
+
+==Recommended Attributes==
+<tabber>
+|-|Baseline=
+100 SP, 300 JP
+90 SP, 270 JP (TAS)
+|-|Low=
+102.5 SP, 307.5 JP
+92.5 SP, 277.5 JP (TAS)
+|-|Mid=
+105 SP, 315 JP
+95 SP, 285 JP (TAS)
+|-|High=
+107.5 SP, 322.5 JP
+97.5 SP, 292.5 JP (TAS)
+|-|Peak=
+110 SP, 330 JP
+100 SP, 300 JP (TAS)
+</tabber>
+
+==Tower Section==
+
+===Towers in this difficulty ===
+*Tower of Hellish Sights (ToHS) (Baseline '''Agony''') (Fictional)
+*Tower of Originally Being A Class Finale (ToOBACF) (Low '''Agony''') (Fictional)
+*Tower of The Barrier of Near-Unbuildability (ToTBoNU) (Middle '''Agony''') (Fictional)
+*Steeple of The Beyond Supreme Summarization (SoSJC) (High '''Agony''') (Fictional)
+*[[Tower of Smokey Heat]] (ToSH) (Peak '''Agony''') (Fictional)
+* Fortress of The Edge of Reality (FoTEoR) (Peak '''Agony''') (Fictional)
+
+===Towers with this difficulty ===
+
+*[[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (MoEJD:R:P1) (Unknown Floor)
+
+==Trivia==
+
+*This difficulty used to be a Class Finale difficulty at one point.
+*This was going to be deleted in the Armageddon VI, but it was saved by The Original Creator.
+*This is the first Physically Impossible difficulty, according to the template.
+
+==Continuing on from this point==
+Well, I guess I was wrong. You have proven yourself to be able to advance onto the rest of Class 8. After trillions of years, you have surpassed yet another difficulty. You are able to move onto [[File:2020 09 21 Kleki.png|30px]] [[Abyssal]] difficulty.{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 8]]
+[[Category:Physically Impossible]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Revived]]

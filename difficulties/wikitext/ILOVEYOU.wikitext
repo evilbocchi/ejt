@@ -1,0 +1,173 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:{{{File|WindoXP.jpg}}}|{{{Size|2000px}}}]]</div>{{NoticeScrollboxNew|Notices={{Large Page}}
+{{Virus Difficulty}}{{Visual Impairment|reason=Unreadable with those images}}{{Physically Impossible}}}}
+
+{{NewDifficultyInfobox|image1=ILOVEYOU.png|class=[[:Category:Class 8|Baseline Class 8]]|previous=[[File:Hellifying.png|30px]] [[Agony]]|next=[[File:2020 09 21 Kleki.png|30px]] [[Abyssal]]|decal_id=N/A|creator(s)=[[User:Bryanjr7747|Bryan]]|full_name=ILOVEYOU|date_added=4/18/2023|hex_color=too much|title1=<span style="font-family:Comfortaa;"><span style="font-family:Comfortaa;"><span style="text-shadow: grey 0px 3px 3px;">ILOVEYOU</span>|type=Sub-Difficulty|caption1=Click on the link|original_class=Class 21|original_name=Melissa|official_music(s)=Sounds of your computer breaking|previous_class(es)=9, 21, 23|previous_name=Melissa|revamp_date=04/16/2022|class_range=[[:Category:Class 8|Baseline Class 8]]|difficulty_range=Baseline to Peak|rbg_color=too much|rating=77.5|main_difficulty=[[File:Hellifying.png|30px]] [[Agony]]}}
+==Intro==
+
+<span style="font-family:Comfortaa;"><span style="text-shadow: grey 0px 3px 3px;">ILOVEYOU</span></span> is a baseline Class 8, ranked 77.5, is in-between other main difficulties, [[File:Hellifying.png|30px]] [[Agony]] and [[File:2020 09 21 Kleki.png|30px]] [[Abyssal]]. Created on April 18, 2023 by [[User:Bryanjr7747|Bryan]], ILOVEYOU has no sub-difficulties, decal, or music. Lastly, ILOVEYOU isn't in any chains, hasn't been revived, revamped, or removed.
+
+<span style="font-family:Comfortaa;"><span style="text-shadow: grey 0px 3px 3px;">ILOVEYOU</span></span> is classified as a physically impossible difficulty, which means it is impossible to do even with '''''TAS''''', you must defy roblox physics in order to win. It is near the middle of the physically impossible range.. So good luck with that.
+
+The ILOVEYOU virus comes in an email with "ILOVEYOU" in the subject line and contains an attachment that, when opened, results in the message being re-sent to everyone in the recipient's Microsoft Outlook address book. This virus alone costed US$5.5–8.7 billion in damages worldwide, and estimated to cost US$10–15 billion to remove the worm. Within ten days, over fifty million infections had been reported, and it is estimated that 10% of Internet-connected computers in the world had been affected.
+
+There is many gimmicks, but more of them are practically catches then anything, such as screen being covered, ads everywhere.
+
+Moving onto icon representation..
+
+==Icon representation==
+[[File:ILOVEYOU.png|200px]]<br>
+It is a email from a while ago. In the top, we see the blue tab with the message (which reads "ILOVEYOU - Message (Rich Text), minimize, fullscreen, and close buttons.<br>
+Just below that, we see some settings, those being "<u>F</u>ile", "<u>E</u>dit", "<u>V</u>iew", "<u>I</u>nsert", "F<u>o</u>rmat", "<u>T</u>ools", "<u>A</u>ctions", "T<u>a</u>ble", and "<u>H</u>elp".<br>
+And a bit more below, we see the "<u>R</u>eply", "Reply to A<u>l</u>l", "For<u>w</u>ard", Paste, and copy buttons.<br>
+Even more below that is the message info. Its from "John Doe", to "John Doe", no CC, but the subject being "ILOVEYOU". The message was also sent at Thursday, 5/4/00 at 11:29 AM.<br>
+Now, were at the message! It reads "kindly check the attached LOVELETTER coming from me." The file name is "LOVE-LETTER-FOR-YOU.TXT.vbs"<br>
+One last thing, there are just useless stuff on the side, and bottom.
+==Catches==
+<tabber>
+|-|
+Screen-wise=
+*Every second you get a closable ad, whether its scams or fortnite codes, and every 50 ads will give you an ad that cannot be closed at all until you've beaten this difficulty.
+*Every 25 seconds you get a roblox buy item pop-up.
+*A random website opens every 10 seconds.
+*The volume is set to be as deafening as possible.
+**If you try to lower the volume, in-game or headphone wise, it gets louder.
+***Don't think earbuds can help you, it'll be extremely loud even having them off or far away
+****Same with noise cancelling earbuds
+*You will be bombarded with messages.
+**Blocking off the bottom right
+***And they are huge messages too.
+|-|
+Computer-wise=
+*The movement keys switch every 30 seconds.
+**WASD could be DSWA
+***Only spacebar doesn't follow this rule.
+****Space could be the F key.
+*Your computer activates sleep mode every minute.
+**Shuts your computer off every 25 minutes.
+|-|
+Obstacle-wise=
+*The closer you are to the end, the more pop-ups the difficulty is bound to create.
+**This is the only obstacle-wise catch
+|-|
+</tabber>
+
+==Obstacles==
+<tabber>
+|-|
+Base=
+* 192 stud jump (Climbable)
+* 190 stud jump (Unclimbable)
+* 187 stud wraparound (Climbable)
+* 185 stud wraparound (Unclimbable)
+* 184 stud ice wraparound
+* 185 stud Cylindrical Wraparound (Climbable)
+* 183 stud Cylindrical Wraparound (Unclimbable)
+----
+*Beat every virus difficulty, nerfed to [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|30px]] [[MegaDeath]] with 2x the viruses.
+*Do a 750 stud moon wallhop to land on a 0.01 stud big instakill block
+*Evuuz fling 10,000 studs on 11 stud block
+*100,000 stud instakill wallwalk with random 2 stud instakill wallwalkarounds every 10 studs.
+|-|
+Low=
+* 194 stud jump (Climbable)
+* 192 stud jump (Unclimbable)
+* 189 stud wraparound (Climbable)
+* 187 stud wraparound (Unclimbable)
+* 186 stud ice wraparound
+* 187 stud Cylindrical Wraparound (Climbable)
+* 185 stud Cylindrical Wraparound (Unclimbable)
+----
+*1,000 stud (10 studs per wall) vertical wallwalk.
+*Laugh clip through a 17 stud wall.
+*6 stud dance clip onto a 0.0084 stud block with 10 (50 speed) killbrick spinners surrounding the whole obstacle.
+*55 luck clips in a 10 stud jump (can-collide false) with blocks bordering the edges of the jump.
+|-|
+Mid=
+* 196 stud jump (Climbable)
+* 194 stud jump (Unclimbable)
+* 191 stud wraparound (Climbable)
+* 189 stud wraparound (Unclimbable)
+* 188 stud ice wraparound
+* 189 stud Cylindrical Wraparound (Climbable)
+* 187 stud Cylindrical Wraparound (Unclimbable)
+----
+*Swim in lava (MIN. 50 studs, MAX. 100 studs.)
+*Say "pneumonoultramicroscopicsilicovolcanoconiosis" every hundredth of a second for a minute.
+*6 stud no-move no-jump jump.
+*Walk forever (Unti the end of time and space) with 1 ws
+|-|
+High=
+* 198 stud jump (Climbable)
+* 196 stud jump (Unclimbable)
+* 193 stud wraparound (Climbable)
+* 191 stud wraparound (Unclimbable)
+* 190 stud ice wraparound
+* 191 stud Cylindrical Wraparound (Climbable)
+* 189 stud Cylindrical Wraparound (Unclimbable)
+----
+*Write 5 yottabyte long page and have it last until JJT's end.
+*Count to 6 undecillion 992 decillion 376 nonillion 46 octillion 564 septillion 130 sextillion 661 quintillion 5 quadrillion 483 trillion 973 thousand and 82 (6,992,376,046,564,130,661,005,483,973,082) in 1 hour (IN GAME AND IRL)
+*Beat [[File:Transfinite Revamp.png|30px]] [[Transfinite]] with negative FPS.
+*Beat [[File:CakeWalk.png|30px]] [[Cakewalk]] but you must watch a bot replay of it. BUT, you must recreate the bots movements exactly, stud for stud, every stud must be on the exact stud the bot stepped on. IF, you make a mistake, it will not matter. Your punishment is that it gets buffed a class up. Every time it gets buffed by a class the range is increased, so now instead of having a one stud range from the bots movements, you now have 5, 
+|-|
+Peak=
+* 200 stud jump (Climbable)
+* 198 stud jump (Unclimbable)
+* 195 stud wraparound (Climbable)
+* 193 stud wraparound (Unclimbable)
+* 192 stud ice wraparound
+* 193 stud Cylindrical Wraparound (Climbable)
+* 191 stud Cylindrical Wraparound (Unclimbable)
+----
+*Get flung 500 studs without anything being able to fling you.
+*Your choice! Pick the obstacle <u>you</u> want
+*Your choice again, now build it and playtest it.
+*Post Patch MACC
+</tabber>
+==Towers==
+<tabber>
+|-|
+Towers of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*Tower of Microsoft's Viruses
+*ILOVEYOU (Steeple)
+{{!}}-{{!}}
+Nonfiction=
+None yet.
+| false= 
+}}
+}}
+|-|
+Towers with=
+*Probably all the DC Towers/Citadels/Great Citadels/Monolith/etc.
+|-|
+Obbies of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*C0RR7PT10N 0BBY
+{{!}}-{{!}}
+Nonfiction=
+*None yet.
+| false= 
+}}
+}}
+</tabber>
+==CFTP==
+You must need top computer fixer in the world to repair your damn computer. You may be a serious idiot to beat it but you know your ways. At leasT  [[Abyssal]] isn't a virus, right?
+==Trivia== 
+*4/5 of the popups are borrowed from the OG [[File:ohnoez.png|30px]] [[Oh Noez!|<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, yellow, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> Oh Noez! </span>]]
+**Background also being borrowed from [[File:ohnoez.png|30px]] [[Oh Noez!|<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, yellow, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"> Oh Noez! </span>]]
+***And also [[File:Dullard.png|30px]] [[Dullard|<span style="background:linear-gradient(180deg,#000000,#ffffff,#000000,#ffffff,#300000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Dullard</span>]]..
+*This page is one of the most unreadable.
+*I made this because I really wanted to make a virus difficulty.
+[[Category:Class 8]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Virus Difficulties]]
+[[Category:Virus Related Difficulty]]
+[[Category:Physically Impossible]]
+[[Category:Large Pages]]{{MainDifficultiesNavbox}}

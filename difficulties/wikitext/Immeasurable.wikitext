@@ -1,0 +1,27 @@
+__NOTOC__
+{{NewDifficultyInfobox
+|image1 = <gallery>
+File:Immeasurable-0.png|Current
+File:Immeasurable.png|Old
+</gallery>
+|previous=[[Aleph-Null]]
+|next=[[Malicious]]
+|rating=25
+|creator(s)=[[User:RobloxBob9001|RobloxBob9001]]|date_added=12/10/2019|hex_color=<code>¿¿¿</code>: #5c2525
+BG: #000000|short_name=I|alt_names=Unmeasurable}}
+==What is <span style="color:#5c2525; text-shadow:0 0 4px #000">'''Immeasurable'''</span>'''?'''==
+<span style="color:#5c2525; text-shadow:0 0 4px #000">'''Immeasurable'''</span> is a difficulty assigned to towers harder than '''[[Aleph-Null]]''' but easier than '''[[Malicious]]'''. It is represented with the color black with a maroon "¿¿¿" on it. This is the second-hardest difficulty in the entire wiki. Obstacles of this difficulty are nearly impossible to make and require mastery of multiple techniques, luck, and inhumanity. Towers with <span style="color:#5c2525; text-shadow:0 0 4px #000">'''Immeasurable'''</span> difficulty are obviously impossible for any human to perform, and will never, ever, be beaten.
+
+==Towers in this difficulty==
+
+* ToCL - [[Tower of Creepy Limbo]] (Peak Immeasurable)
+
+==Trivia==
+*This difficulty is made by [https://www.roblox.com/users/1710070/profile Bob_9001].
+
+==Continuing from this point==
+Good job. You somehow made it past a difficulty that you physically can't beat; you probably used TAS. Anyway, if you for some reason want to continue, attempt [[Malicious]] next. That's the absolute limit [[RoorXD|before...]]
+
+[[Category:Difficulties]]
+[[Category:Immeasurable]]
+[[Category:Humanly impossible]]

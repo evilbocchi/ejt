@@ -1,0 +1,109 @@
+<div style="background: linear-gradient(to bottom, #000055, #000044);padding:1em;font-family:rubik;border:15px solid #000099;border-radius:15px"><div style="Font-family: Kefa"><div style="color:0000FF">{{Class Finale}}{{Humanly Possible}}
+----
+{{NewDifficultyInfobox
+|title1={{PAGENAME}}
+|image1=Instant Win.png
+|caption1=Instant? Wow, how pathetic.
+|class=[[:Category:Class Negative|Class Negative]]
+|rating=-31
+|type=Class Finale
+|previous=[[File:Ifinitely-Winsome.png|30px]] [[Ifinity]]
+|next=[[File:One_Second.png|30px]] [[Millisecondless]]
+|alt_next=[[File:Unlosable.png|30px]] [[Unlosable]]
+|class_range=Peak
+|full_name=Instantly Winning
+|short_name=IW
+|alt_names=*Instant
+*Instantaneous
+|date_added=24 October 2021
+|revamp_date=24 November 2022
+|sub_difficulty(ies)=N/A
+|original_class=-1
+|previous_class(es)=Lower Negative|decal_id=6382347740}}
+==What is [[File:Instant Win.png|40x40px]]<span style="color:blue"> '''Instant Win'''</span>? ==
+[[File:Instant Win.png|30x30px]] <span style="color:blue">'''Instant Win'''</span> is the finale of [[:Category:Class Negative|Class Negative]]. The premise of the difficulty is that it is instantaneous, resulting in a completion of it with zero effort whatsoever.
+{{Background|File=InsaneIcon.webp|Size=2000px}}
+==[[File:Instant Win.png|40x40px]] Icon Representation==
+<center>[[File:Instant Win.png]]</center>
+The icon is represented by a flat blue background with an sleepy neutral face  "-_-" white emoticon on the middle. Pretty simple, huh?
+==Obstacles==
+This difficulty is so easy that it cannot have obstacles. But if you want more specific "Obstacles", here they are.<tabber>
+Baseline=
+===Baseline '''IW'''===
+* Wait 1 microsecond.
+* Wait 25 microseconds.
+|-|
+Low=
+===Low '''IW'''===
+* Wait 50 microseconds.
+* Wait 75 microseconds.
+|-|
+Middle=
+===Middle '''IW'''===
+* Wait 100 microseconds.
+* Wait 150 microseconds.
+|-|
+High=
+===High '''IW'''===
+* Wait 250 microseconds.
+* Wait 375 microseconds.
+|-|
+Peak=
+===Peak '''IW'''===
+* Wait 500 microseconds.
+* Wait 750 microseconds.
+</tabber>
+==Towers in [[File:Instant Win.png|40x40px]] <span style="color:blue">'''Instant Win'''</span>==
+''Note: this difficulty is unbuildable so all towers are inaccurate.''
+<tabber>
+|-|
+Non-Fictional=
+*[[File:Instant Win.png|30x30px]] [[Extraordinarily Small Box of Literal Nothingness, Just Getting Kicked Out After Entering Because You've Won]] <span style="color:blue">'''(ESBoLNJGKOAEBYW)'''</span>
+*[[File:Instant Win.png|30x30px]] [[Tower of One Blink]]  <span style="color:blue">'''(ToOB)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]] [[w:c:the-noob-zone-towers:Tower of Quick Gameplay|Tower of Quick Gameplay]]  '''(ToQG)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://www.roblox.com/it/games/100777576990133/ Steeple of Oversimplified Negativity] <span style="color:blue">'''(SoON)</span> 
+*[[File:Instant Win.png|30x30px]] [[Citadel of Dispersed Easiness]]  <span style="color:blue">'''(CoDE)'''</span>
+*[[File:Instant Win.png|30x30px]] [[Air of Example Air]]  <span style="color:blue">'''(AoEA)'''</span>
+*[[File:Instant Win.png|30x30px]] [[Tower of Vandalism]]  <span style="color:blue">'''(ToV)'''</span>
+*[[File:Instant Win.png|30px]] [[Tower of Uselessly Winning]] <span style="color:blue">'''(ToUW)'''</span>
+|-|
+LAaBT=
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://laabt.fandom.com/wiki/Tower_of_Seriously_Low_Effort Tower of Seriously Low Effort] <span style="color:blue">'''(ToSLE)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://laabt.fandom.com/wiki/Tower_of_Instantly_Winning_Again Tower of Instantly Winning Again] <span style="color:blue">'''(ToIWA)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://laabt.fandom.com/wiki/Tower_of_Easy_Win Tower of Easy Win] <span style="color:blue">'''(ToEW)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://laabt.fandom.com/wiki/Tower_of_Increasing_Decay Tower of Increasing Decay] <span style="color:blue">'''(ToIC)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://laabt.fandom.com/wiki/Tower_of_Most_Shrunken Tower of Most Shrunken] <span style="color:blue">'''(ToMS)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://laabt.fandom.com/wiki/Tower_of_no_Press_A_Key Tower of no Press A Key] <span style="color:blue">'''(TonPAK)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://laabt.fandom.com/wiki/Tower_of_Winpad_Touching Tower of Winpad Touching] <span style="color:blue">'''(ToWT)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [https://laabt.fandom.com/wiki/Tower_of_Winning_Ease Tower of Winning Ease] <span style="color:blue">'''(ToWE)'''</span>
+|-|
+Fictional=
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> Box of Too Hard Winning <span style="color:blue">'''(BoTHW)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> Steeple of Winning but more Instant <span style="color:blue">'''(SoWbmI)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span>Tower of No Time Wasted <span style="color:blue">'''(ToNTW)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span>Room of Zero-Second Gameplay <span style="color:blue">'''(RoZSG)'''</span>
+*<span style="color:blue">[[File:Instant Win.png|30x30px]]</span> [[Tower of Tedious Instantaneously Triumph]] <span style="color:blue">'''(ToTIT)'''</span>
+|-|
+Other Appearances=
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]] <span><span><span style="background:linear-gradient(to top right,#FF0000,#FF7F00,#FFFF00,#00FF00,#00FFFF,#0000FF,#4B0082,#8B00FF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: #ff00ff 0px 0.5px 6px;">'''(MoDDA)'''</span></span>
+</tabber>
+==Gallery==
+<gallery>
+File:Jwklong Instant Win.png|jwklong's unofficial icon.
+File:Instant-Win-Revamp.png|Instant Win with Gradiant and border (Made by [[User:Cheester16|Cheester16]])
+</gallery>
+==Trivia==
+*This was formerly one of the 76 survivors out of the 600+ difficulties that became uncanonical prior to DC shift shenanigans.
+**It also was the only difficulty of 16 in Class -1 to make a debut in the chart.
+*This is one of the most famous difficulties in JJT.
+*This is the first class finale.
+==Continuing on from this point==
+Just go to [[File:Millisecondless.png|32x32px]] [[Millisecondless]] or something harder like [[File:Irritating square.PNG|30x30px]] [[Irritating]].
+{{DifficultiesNavbox}}
+[[Category:Class Negative]]
+[[Category:Instant Win Difficulties]]
+[[Category:Instant Win]]
+[[Category:Classic Difficulty]]
+[[Category:Class Finale Difficulties]]
+[[Category:Starter Zone]]
+[[Category:Two color icon]]

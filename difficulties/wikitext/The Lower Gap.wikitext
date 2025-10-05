@@ -1,0 +1,61 @@
+__NOTOC__{{PrimordialDifficulty}}
+{{Unloseable Difficulty}}
+{{NewDifficultyInfobox
+|title1 = <span style = "color:#40FF40; font-family:Code">The Lower Gap</span>
+|image1 = <gallery>
+File:TheLowerGapRemake.png|Current
+File:The Lower Gap.png|Old
+</gallery>
+|caption1 = The incomprehensibly large gap between the beginning and what we have.
+|class = [[:Category:Class Negative|Bottom Class Negative]] to [[:Category:Class 10|High Class 10]]
+|previous = [[File:Tfird.png|46px|link=The First Difficulty]][[The First Difficulty]]
+|next = [[File:The MiddlelineNew.png|link=The Middleline|46px]] [[The Middleline]]
+|decal_id = [https://www.roblox.com/library/8013235717 8013235717] 
+|main_difficulty = [[File:Tfird.png|25px]] [[The First Difficulty]]
+|sub_difficulty(ies) = 
+|chain(s) = 
+|original_name = 
+|previous_name = 
+|date_added = 11/15/2021
+|date_removed = not yet
+|removal_reason = It's a primordial difficulty. What do you expect? It won't be deleted.
+|type=[[:Category:Primordial Difficulties|Primordial Difficulty]]
+[[Category:Unloseable Difficulties|Unloseable Difficulty]]|rating=-∞</sub> - 114.9999...|original_class=Negative|previous_class(es)=Negative|alt_previous=[[File:Negativity.png|30px|link=Negativity]] [[Negativity]]|alt_next=[[File:Pinnacle.png|frameless|40px|link=Pinnacle]] [[Pinnacle]]|class_range=-1 - 10|difficulty_range=Infinite infinitesimal portions|counterpart=[[The Upper Gap]]}}
+'''[[The First Difficulty]]. [[The Middleline]]. [[The Final Difficulty.]] The 3 primordial difficulties we have always known about. However, the spectrum is still incomplete with even these three, incomprehensibly large spaces between them. The Upper Gap is the primordial difficulty that approaches the final difficulty from The Middleline, and The Lower Gap is the primordial difficulty that approaches the first difficulty from The Middleline. The spectrum is complete with these 2 extra primordial difficulties.'''
+
+[[File:Gaps Visualization.png|200px]]<br />
+<span style="font-size:10px">A visualization of the 5 Primordials.</span>
+
+==What is The Lower Gap?==
+'''The Lower Gap''' is a [[:Category:Class Negative|Class Negative]] difficulty that represents the gap between [[The First Difficulty]] and [[The Middleline]]. Despite being [[:Category:Class Negative|Class Negative]],  '''The Lower Gap''' can reach all the way up to Peak Class 10. This is since the difficulties inside of the Gaps are when ranking Gaps. Since [[Negativity]] to [[Viratical]] are all part of '''The Lower Gap''' and anything harder isn't, every sub-difficulty of this, baseline to peak, represents 1 class. However Difficulty Chart Towers assume '''The Lower Gap''' to be the gap between [[The First Difficulty|TFirD]]<ref>In this page, The Final Difficulty and The First Difficulty will be abbreviated to TFinD and TFirD respectively to avoid confusion.</ref> and [[Negativity]].
+
+Basically, '''TLG''' is everything from [[The First Difficulty|TFirD]] to [[The Middleline|TM]]. TooHard begins at Nil, and never ends, imagine '''TLG''' with the same concept as TooHard, but beginning at [[The First Difficulty|TFirD]] and instead of never ending, it ends at [[Viratical]].
+
+==Icon Representation==
+
+It is represented with a slightly dark green background with TFirD's spaced infinity with the blue text "WIN" with a shadow. There is also a lighter green gradient from the bottom covering both the slightly dark green background and the lemniscate.
+
+==Obstacles==
+These are the obstacles..  if you can even call these obstacles. They are the same as Negativity and the other Class -1 difficulties with changes.
+*You can only lose by having a verified [[w:c:alldimensions:Existence Rank|Existence Rank]].
+*You could also lose if you were outside your own Box, thus causing you to be deleted from existence.
+There are a number of catches, asterisks and variations here but we've just removed them from causing confusion.
+
+Nope. Bottom TLG is this, but Bottom-Low is 1 class harder, Low TLG is 1 class above BL TLG, etc.
+
+==Continuing from this point==
+
+The next difficulty is [[Negativity]], but why are we even doing this Class Negative thing? Just skip to [[TooEasy]]. Class 0 is probably already too easy for you anyways. Seriously. Just skip both class negative and 0 and just skip to class 1 already.
+
+You still however haven't truly conquered '''The Lower Gap'''. If you somehow have, then go to [[The Middleline]].
+
+==Notes==
+<references />
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class Negative]]
+[[Category:Instant Win Difficulties]]
+[[Category:Beyond Existence Difficulties]]
+[[Category:Difficulty]]
+[[Category:Beyond Logic Difficulties]]
+[[Category:Primordial Difficulties]]

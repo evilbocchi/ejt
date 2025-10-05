@@ -1,0 +1,46 @@
+__NOTOC__<div style="background:#2d0533;padding:1em;font-family:rubik;border:10px solid #550f75">
+{{Inclusion|reason=Allowed by staff}}{{Humanly Possible}}{{BetterQuote|text=this is literally the book of revelations  guys i   mean look at the name|quoter=Unknown person going by the name "Fard69" even though it wasn't funny.}}
+==What's Hellish?==
+Hellish is a High Class 2 sub-difficulty of [[File:Severe2.png|frameless|30x30px]] ''[[Severe]]'' with a rating of 6.75. The difficulty which comes after this is {{Class2Difficulties|Remorseless}} [https://jtoh.fandom.com/wiki/Remorseless Remorseless]. This sub-difficulty includes High to Peak {{Class2Difficulties|Intense}} [https://jtoh.fandom.com/wiki/Intense Intense] towers and is supposed to be the transition of intense to remorseless gameplay. At this point you may already start seeing remorseless gameplay in towers of this difficulty so you can already start getting ready for what's to come.
+
+{{NewDifficultyInfobox|image1=Hellish2.PNG|caption1=Ok but look at the rating tho???|class=High 2|rating=6.75|type=Sub-Difficulty|previous=[[File:Severe2.png|30px]] [[Severe]]|next={{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]|prior_previous=[[File:Desperate.png|frameless|25x25px]] ''[[Desperate]]''|decal_id=None, but the color is #670f75 in hex and 103, 15, 117 in RGB.|main_difficulty={{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]|official_music(s)=WillyG - Goofy Beat but it's good|creator(s)=Bruhshard|full_name=Hellish|short_name=Hell|date_added=April 5th, 2023|hex_color=#670f75|rbg_color=103, 15, 117|title1=Hellish|alt_next={{Class2Difficulties|Relentless}} [[Relentless]]}}
+
+Hellish acts as a tedious trial that resides as a buff of the middle of the Skill-Crushing chart, and that buffed difficulty is [[File:ManiacalNew.png|frameless|30x30px]] [[Maniacal|<span style="color:#660d06">'''Maniacal'''</span>]]. This challenge was made as not just a test, but a smoothened place between Intense and Remorseless towers. Enough talking, let's get started.
+
+==Okay, but describe the icon!==
+The icon is a solid dark purple icon. If you really want to get technical though, then it's #670f75 in hex and 103, 15, 117 for RGB. This means there will be no decal on Roblox.
+
+<center>[[File:Hellish2.PNG|100px]]</center>
+
+==Bring it on! (Obstacles)==
+Obstacles in here are generalized. This is because sub-difficulties don't need spectrums, they ARE the spectrums.  Oh.. I forgot something.. Well, as per JJT tradition, here is the...
+
+''The C word.. Oh no..''
+
+CATCHES!
+===Catch===
+*You're burning and it deals 10 damage per 2 seconds. Healing is 1.2x slower.
+===ACTUAL obstacles.===
+*8.51 - 8.74 stud wraparounds.
+*10.75 stud jumps that you can climb.
+*10.5 to 10.6 stud jumps you can't climb which is why it is easier.
+*3.1415926335.. stud stickouts.
+*Do a 12 stud wallhop.
+*Do CoV's wallhops on the outside. You get infinite tries with the safety net. Every 5 wallhops you get another net. Alongside that, the wallhops are arranged rectangular so it isn't that advanced.
+*[[File:Desperate.png|frameless|25x25px]] [[Desperate]] obstacles but 1.01470588235 times harder.
+*{{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Rem]] obstacles but 1.01449275362 times harder.
+*Beat a tier 6.75 - 6.99 tiered obby.
+*Get flung upwards in a tower for sheer luck.
+*Luck clip on a purist/janky tower. It can be any tower with that criteria.
+And that's basically it!
+==Towers==
+ToCS (Tower of Compact Spaces) Peak Hellish
+==Trivia==
+*This used to have a rating of 6.9 (which is funny<!--not really -->)
+*Hellish took 2 days to make and Bruhshard1 made it to edge the gap of difficulties.
+*Hellish was made so Bruhshard1 could make it as his most high quality difficulty ever that he made.
+*This was intended to be an  [[File:Intensepng.png|frameless|30x30px]] [[w:c:jtoh:Intense|Intense]] sub-difficulty.
+==Continuing from this point==
+Well, move on Obbyist. You made it so far, and this was intended to be good, so keep striving! Move on to the 7 rating OR  {{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]! Cya later!
+[[Category:Class 2]]
+[[Category:Sub-Difficulties]]

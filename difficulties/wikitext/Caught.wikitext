@@ -1,0 +1,90 @@
+{{Physically Impossible}}{{NewDifficultyInfobox|title1=[[File:Caught.png|30px]] <span style="color:grey">'''Caught'''</span>|image1=<gallery>
+File:Caught.png|Current
+File:Catchy.png|Old
+File:Caught ALTERNATE.png|Alternate
+File:CatchyAlt.webp|Alternate (when Caught was class 1)
+</gallery>|caption1=[[w:c:jtohs-too-easy-the-squeakquel:Listen to A Song|Listen to A Song]], is that you?|class=[[:Category:Class 10|Class 10]]|type=* ''[[:Category:Sub-Difficulties|Sub Difficulty]]''
+* ''[[:Category:Unofficial|Unofficial]]''|previous=[[File:Diversity New.png|30px]] [[Eshinion]]|altprevious=|next=[[File:Wer.webp|30px]] [[TooAbnormal]]|class_range=[[:Category:Class 10|Baseline]]|difficulty_range=Baseline to Peak|decal_id=*Current: [https://create.roblox.com/store/asset/84837438953671/Caught 84837438953671]
+*Old: [https://create.roblox.com/store/asset/12748048974/Caught 12748048974]
+*Alt: N/A
+*Unused: N/A|main_difficulty=[[File:Diversity New.png|30px]] [[Eshinion]]|prior_next=[[File:VeryEzDifficulty.png|30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, black, green, lime);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Vwery ez rdifficultli!!!</span> <small>(Deleted)</small> <br/>{{Class0Difficulties|TooEasy}} [[TooEasy]]|rating=107.5|prior_previous={{Class1Difficulties|Delightful}} [[Delightful]]|creator(s)=[[User:Viranenthusiast|Viranenthusiast]]<sup>creator</sup> <br/>[[User:Gabri020g|Gabri020g]]<sup/>owner|original_class=[[:Category:Class 1|1]]|previous_class(es)=[[:Category:Class 1|1]]|original_name=Catchy}}
+==What is <span style="color:grey">'''Caught'''</span>?==
+[[File:Caught.png|30x30px]] <span style="color:grey">'''Caught'''</span> is a [[:Category:Class 10|Baseline Class 10]] [[:Category:Unofficial|Unofficial]] [[:Category:Sub-Difficulties|Sub-Difficulty]] of [[File:Diversity New.png|30px]] [[Eshinion]], and is succeeding the aforementioned main difficulty yet is preceding the also quite infamous difficulty [[File:Wer.webp|25px]] [[TooAbnormal]]. This difficulty requires extreme effort that anybody and everybody cannot put in, and it is impossible to unironically complete such a particularly troublesome difficulty.
+
+Still, you’re not even at the end of the main part of this expansive unofficial chart, and conquering it is a task you realistically won’t complete, no matter the free time and determination you have. 
+
+----
+<span style="color:grey">'''Caught'''</span>’s icon is represented with a black background, a grey border in the left and bottom halves of the icon, and two stripes in the top left and bottom right corners, along with a sad emoticon having its eyes closed, and is also near the bottom of the icon. That’s it.
+
+==Obstacles==
+<div style="font-family:Courier New">
+{| class="fandom-table"
+|+ Obstacles
+!Spectrum/Obstacles
+
+! style="background-color: green;" |'''<font color="black">Baseline</font>'''
+! style="background-color: #80ff00;" | '''<font color="black">Low</font>'''
+! style="background-color: yellow; " |'''<font color="black">Mid</font>'''
+! style="background-color: orange; " |'''<font color="black">High</font>'''
+! style="background-color: red; " |'''<font color="black">Peak</font>'''
+|-
+| style="background-color: #1a1616;" |Stud Jumps
+| style="background-color: #014500;" |<font color="white">168T (climbable), 167.75T (unclimbable)</font>
+| style="background-color: #336000;" |<font color="white">168.5T (climbable), 168.25T (unclimbable)</font>
+| style="background-color: #6d5c00;" |<font color="white">169T (climbable), 168.75T (unclimbable)</font>
+| style="background-color: #964a00;" |<font color="white">169.5T (climbable), 169.25T (unclimbable)</font>
+| style="background-color: #5a0000;" |<font color="white">170T (climbable), 169.75T (unclimbable)</font>
+|-
+| style="background-color: #1a1616;" |Stud Wraparounds
+| style="background-color: #014500;" |<font color="white">167.875T (climbable), 167.625T (unclimbable)</font>
+| style="background-color: #336000;" |<font color="white">168.375T (climbable), 168.125T (unclimbable)</font>
+| style="background-color: #6d5c00;" |<font color="white">168.875T (climbable), 168.625T (unclimbable)</font>
+| style="background-color: #964a00;" |<font color="white">169.375T (climbable), 169.125T (unclimbable)</font>
+| style="background-color: #5a0000;" |<font color="white">169.875T (climbable), 169.625T (unclimbable)</font>
+|-
+| style="background-color: #1a1616;" |Stud Stickouts
+| style="background-color: #014500;" |<font color="white">119T (climbable), 118.75T (unclimbable)</font>
+| style="background-color: #336000;" |<font color="white">119.5T (climbable), 119.25T (unclimbable)</font>
+| style="background-color: #6d5c00;" |<font color="white">120T (climbable), 119.75T (unclimbable)</font>
+| style="background-color: #964a00;" |<font color="white">120.5T (climbable), 120.25T (unclimbable)</font>
+| style="background-color: #5a0000;" |<font color="white">121T (climbable), 120.75T (unclimbable)</font>
+|-
+| style="background-color: #1a1616;" |Exploiting without getting caught
+| style="background-color: #014500;" |<font color="white">55,000 millennia</font>
+| style="background-color: #336000;" |<font color="white">55,005 millennia</font>
+| style="background-color: #6d5c00;" |<font color="white">55,010 millennia</font>
+| style="background-color: #964a00;" |<font color="white">55,015 millennia</font>
+| style="background-color: #5a0000;" |<font color="white">55,020 millennia</font>
+|}
+</div>
+
+==Tower Section==
+===Towers in this difficulty===
+*[[File:Caught.png|25px]] <span style="color:grey">'''Tower of Music Listening Academy''' ''(ToMLA) (Fictional - Baseline '''Caught''')''</span>
+*[[File:Caught.png|25px]] <span style="color:grey">'''Room of Xylophonic Musicals''' ''(RoXM) (Fictional - Low '''Caught''')''</span>
+*[[File:Caught.png|25px]] <span style="color:grey">'''Edifice of Complex Zeal''' ''(EoCZ) (Fictional - Middle '''Caught''')''</span>
+*[[File:Caught.png|25px]] <span style="color:grey">'''[https://www.roblox.com/games/10406214285/Ring-10-Quasis-Towers-of-Nonsense Palace of Dust Against Colors: Back From The DED]''' ''(PoDAC:BFTD) ('''Non-fictional - Mid-High Caught''')'' [QToN Ring 10] </span>
+*[[File:Caught.png|25px]] <span style="color:grey">'''Steeple of Walking Around Zones''' ''(SoWAZ) (Fictional - High '''Caught''')''</span> 
+*[[File:Caught.png|25px]]  <span style="color:grey">'''Obelisk of Horrified Eternal Road'''</span> <span style="color:grey">''(OoHER) (Fictional - High '''Caught''')''</span>
+*[[File:Caught.png|25px]] <span style="color:grey">'''Citadel of Nullified Breaks''' ''(CoNB) (Fictional - Peak '''Caught''')''</span>
+===Towers containing this difficulty===
+*[[Centurion of Infinite Difficulty Demise]] (CoIDD) (Old version)
+== Trivia==
+* The original version of this difficulty originated from the [[Centurion of Infinite Difficulty Demise]].
+*This difficulty does not have a Icon Representation or a Continuing on from this point.
+==Gallery==
+<center><gallery>
+File:Caught.png|Caught’s current icon.
+File:Catchy.png|Caught <small>(fka Catchy)</small>’s old icon.
+File:CatchyAlt.webp|Caught’s alternate icon when it was class 1, by NathanJTOH
+File:Caught ALTERNATE.png|Caught's alternate icon
+</gallery></center>
+
+{{DifficultiesNavbox}}
+[[Category:Class 10]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+ 
+[[Category:Physically Impossible]]
+[[Category:Physically Impossible Difficulties]]

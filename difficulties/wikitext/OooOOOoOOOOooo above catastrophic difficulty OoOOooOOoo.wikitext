@@ -1,0 +1,36 @@
+__NOEDITSECTION____NOTOC__
+{{DISPLAYTITLE:'''<span style="color:#000000;">oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo</span>'''}}
+{{DifficultyTab
+|TooHard
+|mainchange=oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo
+|textcolormain=fff
+|diffcolor=000
+|type=Joke / Event
+|blank1=
+|blank2=
+}}
+{{Difficulty Infobox v2.0
+|image1=Above Catastrophic.png
+|reason_of_removal = End of [[April Fools 2021]] and End of [[April Fools 2024]].
+|title = oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo
+|date_removed=April 3, 2021 and April 15, 2024
+|previous_difficulty_/_-ies={{Difficulty|Catastrophic}} [[Catastrophic]] (Technically)|next_difficulty_/_-ies={{Difficulty| Horrific}} [[Horrific]] (Technically)}}{{Difficulty|AboveCata|20px}} [[oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo|<span style="color:#000000;">oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo</span>]] is a joke [[difficulty]] added in the [[April Fools 2021]] [[event]], resembled by a black square with the white text "oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo" on it. This difficulty was removed when AF2021 ended but came back in [[April Fools 2024]]. There is currently 1 [[event]] [[Towers|Tower]] in the game with this difficulty.
+{{Header|Towers}}
+<div align=center><font size=5>{{Emblem|AF2021}} [[April Fools 2021]] {{Emblem|AF2021}}</font></div>
+* ToYM2 - [[Tower of Yo Mama 2]] [Low oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo]
+{{Header|Trivia}}
+* This is the second event difficulty to be added to EToH, the first being [[Epic|<span id="Epic">'''Epic'''</span>]]. and the third being '''[[Sisyphean|<span style="color:#969664;">Sisyphean</span>]]'''.
+**'''Epic''' and '''Sisyphean''' were also added in an April Fools event.
+* The only tower in this difficulty is impossible, as attempting to enter it will kick the player immediately.
+** However, by completing a series of quests stemming from the [[Laruam Backrooms]], you will be able to access it.
+* This joke difficulty is likely meant to mock fanmade difficulties that are above [[nil|<span id="nil">'''nil'''</span>]].
+{{Header|Gallery}}
+<gallery widths="185" spacing="small" columns="3" captionsize="large" captionalign="center" hideaddbutton="true">
+File:YO MAMA SO FAT.. SUPER BOWL!! YEAHHH.jpg|'''[[oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo|<span style="color:#000000;">oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo</span>]]''' as shown in [[Fool's Ring 9]].
+File:AF2024 oacdo.jpg|'''[[oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo|<span style="color:#000000;">oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo</span>]]''' as shown in [[The Doghouse]].
+</gallery>{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:April Fools 2021]]
+[[Category:The Doghouse]]
+[[Category:Joke Difficulties]]

@@ -1,0 +1,209 @@
+{{DISPLAYTITLE:<span id="Easy">'''Easy'''</span>}}__NOEDITSECTION____NOTOC__{{BetterQuote
+|text=These towers are fun to play. They can be quite challenging for new players as well.
+|quoter=Badge description
+|name=[https://www.roblox.com/badges/2125419249 Beat Your First Easy Tower]}}
+{{DifficultyTab
+|Easy
+|textcolormain=000
+|difficulty1=Effortless
+|diffcolor1=00CE01
+|difficulty2=Medium
+|diffcolor2=FFFE02
+|textcolor2=000}}
+{{DifficultyInfobox
+|title1=Easy
+|image1=easyicon.png
+|type=Regular
+|next={{Difficulty|Medium}} [[Medium|<span id="Medium">'''Medium'''</span>]]
+|previous={{Difficulty|Effortless}} [[Effortless|<span id="Effortless">'''Effortless'''</span>]] (Removed)
+|rbg_color=DC: 75, 151, 75
+Menus: 118, 244, 71
+|hex_color=DC: #4B974B
+Menus: #76F447
+|cmyk_color=DC: 50%, 0%, 50%, 41%
+Menus: 52%, 0%, 71%, 4%
+|hsv_color=DC: 120°, 50%, 59%
+Menus: 104°, 70%, 95%
+|hsl_color=DC: 120°, 29%, 41%
+Menus: 104°, 89%, 62%
+|roblox_name=DC: Bright green
+Menus: Br. yellowish green}}
+{{Difficulty|Easy|20px}} <span id="Easy">[[Easy]]</span> is the easiest [[difficulty]] in '''EToH'''. It is represented with a lime green triangle. [[Towers]] in this difficulty can usually be passed on the first try with minimal effort. In this difficulty, the user will mostly encounter basic jumps and rarely a substantially hard obstacle.
+
+Obstacles in this difficulty are commonly found in their simplest formations, with little to no twists or special challenges. Traps are also either labeled with symbols (i.e., conveyors) or not present at all. Obstacles that pose a challenge in towers of this difficulty are forgiving, with safety nets to protect the user from falling.
+
+There are currently 14 [[tower]]s, 4 [[steeple]]s and 4 [[Mini Tower]]s assigned to this difficulty. There are also two removed towers of this difficulty, which are [[Tower of One Equals Zero]] and [[Tower of Another Beginning]]. [[Tower of Slight Inconvenience]], [[Tower of Pleasant Descents]], [[Steeple of Overgrowth]],[[Steeple of Nightfall]], and [[Tower of Various Pressures]] were originally in <span id="Easy">[[Easy]]</span> difficulty, but [[Tower of Slight Inconvenience]] and [[Tower of Pleasant Descents]] got moved to [[Difficult|<span id="Difficult">'''Difficult'''</span>]] and [[Steeple of Overgrowth]], [[Steeple of Nightfall]], and [[Tower of Various Pressures]] got moved to [[Medium|<span id="Medium">'''Medium'''</span>]]. [[Tower of Inception]] and [[Tower of Leaning Ledges]] were also <span id="Easy">[[Easy]]</span> difficulty but as a joke.
+{{Header|Towers in this difficulty (Organized by Realm)}}
+<tabber>
+Ring 0=
+<div align=center><font size=5>{{Emblem|R0}} [[Ring 0]] {{Emblem|R0}}</font></div>
+*ToG - [[Tower of Genesis]] - Baseline Easy (1.00)
+*ToB - [[Tower of Buttons]] - Low-Mid Easy (1.35)
+*ToME - [[Tower of Motion Evolution]] - Mid Easy (1.53)
+*ToCD - [[Tower of Critical Damage]] - High-Peak Easy (1.80)
+*TNF - [[Tower Not Found]] - High-Peak Easy (1.81)
+|-|
+Ring 1=
+<div align=center><font size=5>{{Emblem|R1}} [[Ring 1]] {{Emblem|R1}}</font></div>
+*NEAT - [[Not Even A Tower]] - Bottom Easy (1.11)
+*ToAST - [[Tower of A Simple Time]] - Low Easy (1.25)
+*ToA - [[Tower of Anger]] - Mid Easy (1.50)
+|-|
+Forgotten Ridge=
+<div align=center><font size=5>{{Emblem|FR}} [[Forgotten Ridge]] {{Emblem|FR}}</font></div>
+*SoMD - [[Steeple of Meaningless Decisions]] - Bottom-Low Easy (1.22)
+*ToJGF - [[Tower of Jolly Good Fun]] - Mid-High Easy (1.65)
+|-|
+Ring 2=
+<div align=center><font size=5>{{Emblem|R2}} [[Ring 2]] {{Emblem|R2}}</font></div>
+*ToOEZ - [[Tower of One Equals Zero]] (removed) - Easy (1.??)
+*MAT - [[Maybe A Tower]] - Bottom Easy (1.07)
+|-|
+Garden of Eeshöl=
+<div align=center><font size=5>{{Emblem|GoE}} [[Garden of Eeshöl]] {{Emblem|GoE}}</font></div>
+*SoBJ - [[Steeple of Beginner's Journey]] - Bottom Easy (1.11)
+*SoDS - [[Steeple of Devil's Snare]] - Mid Easy (1.54)
+|-|
+Ring 3=
+<div align=center><font size=5>{{Emblem|R3}} [[Ring 3]] {{Emblem|R3}}</font></div>
+*ToFT - [[Tower of Funny Thoughts]] - High Easy (1.70)
+|-|
+Ring 4=
+<div align=center><font size=5>{{Emblem|R4}} [[Ring 4]] {{Emblem|R4}}</font></div>
+*ToSH - [[Tower of Spiralling Heights]] - Peak Easy (1.90)
+|-|
+Zone 1=
+<div align=center><font size=5>{{Emblem|Z1}} [[Zone 1]] {{Emblem|Z1}}</font></div>
+*ToEM - [[Tower of Easy Modo]] (deconfirmed) - Easy (1.??)
+*ToZD - [[Tower of Zero Disturbances]] - Bottom-Low Easy (1.15)
+*ToPHaT - [[Tower of Peaceful Happiness and Tranquility]] - Mid Easy (1.55)
+*ToAB - [[Tower of Another Beginning]] (removed) - Peak Easy (1.??)
+|-|
+Steelspire Horizon=
+<div align=center><font size=5>{{Emblem|SH}} [[Steelspire Horizon]] {{Emblem|SH}}</font></div>
+*SoZZP - [[Steeple of Zip Zap Pop!]] - Low-Mid Easy [1.43]
+*SoGC - [[Steeple of Golf Course]] - High-Peak Easy [1.86]
+|-|
+Zone 3=
+<div align=center><font size=5>{{Emblem|Z3}} [[Zone 3]] {{Emblem|Z3}}</font></div>
+*ToSFU - [[Tower of Six Feet Under]] - Bottom Easy (1.05)
+*ToOD - [[Tower of Overestimating Difficulty]] - Peak Easy (1.99)
+|-|
+Paradise Atoll=
+<div align=center><font size=5>{{Emblem|PA}} [[Paradise Atoll]] {{Emblem|PA}}</font></div>
+*PAT - [[Possibly A Tower]] - Mid Easy (1.54)
+*SoMM - [[Steeple of Mystical Marine]] - High Easy (1.76)
+|-|
+Zone 4=
+<div align=center><font size=5>{{Emblem|Z4}} [[Zone 4]] {{Emblem|Z4}}</font></div>
+*ToFSC - [[Tower of Fairly Simple Challenges]] - Mid-High Easy (1.58)
+|-|
+Event=
+{{#tag:tabber
+|Legacy Event 2023=
+<div align=center><font size=5>{{Emblem|L2023}} [[Legacy Event 2023]] {{Emblem|L2023}}</font></div>
+*ToT(L) - [[Tower of Trouble]] - High Easy (1.72)
+{{!}}-{{!}}
+Halloween Event 2023=
+<div align=center><font size=5>{{Emblem|H2023}} [[Halloween Event 2023]] {{Emblem|H2023}}</font></div>
+*SoGM - [[Steeple of Ghostly Mischief]] - Peak Easy (1.90)
+{{!}}-{{!}}
+100Mil Event=
+<div align=center><font size=5>{{Emblem|100M}} [[100Mil Event]] {{Emblem|100M}}</font></div>
+*ToAST(R) - [[Tower of Annoyingly Simple Trials]] - Bottom-Low Easy (1.21)
+*100MC - [[100M Celebration]] - Low Easy (1.31)
+*100MT - [[100M Trial]] - Low-Mid Easy (1.40)
+}}
+|-|
+Monthly Challenge Towers=
+{{#tag:tabber
+|November 2021=
+<div align=center><font size=5>November 2021</font></div>
+*ToFC(M) - [[Tower of Frame Carvings]] - Mid Easy (1.49)
+{{!}}-{{!}}
+April 2022=
+<div align=center><font size=5>April 2022</font></div>
+*ToCS(M) - [[Tower of Coolio Sliding]] - High-Peak Easy (1.82)
+{{!}}-{{!}}
+December 2022=
+<div align=center><font size=5>December 2022</font></div>
+*ToPT(M) - [[Tower of Placid Travels]] - Peak Easy (1.97)
+{{!}}-{{!}}
+December 2023=
+<div align=center><font size=5>December 2023</font></div>
+*ToLF(M) - [[Tower of Little Frustration]] - High-Peak Easy (1.87)
+{{!}}-{{!}}
+January 2024=
+<div align=center><font size=5>January 2024</font></div>
+*ToLH(M) - [[Tower of Light Hues]] - High-Peak Easy (1.79)
+}}
+|-|
+Pit of Misery=
+<div align=center><font size=5>{{Emblem|PoM}} [[Pit of Misery]] {{Emblem|PoM}}</font></div>
+*ToMDC - [[Tower of Modernistic Design Choices]] - High-Peak Easy (1.84)
+</tabber>
+{{Header|Towers in this difficulty (Organized by position in the Difficulty Chart)}}
+<tabber>
+Canon Towers=
+* {{emblem|R0|20px}} ''ToG - [[Tower of Genesis]] - Baseline Easy (1.00)'' {{emblem|R0|20px}}
+* {{emblem|Z3|20px}} ToSFU - [[Tower of Six Feet Under]] - Bottom Easy (1.05) {{emblem|Z3|20px}}
+* {{emblem|R2|20px}} MAT - [[Maybe A Tower]] - Bottom Easy (1.07) {{emblem|R2|20px}}
+* {{emblem|R1|20px}} NEAT - [[Not Even A Tower]] - Bottom Easy (1.11) {{emblem|R1|20px}}
+* {{emblem|GoE|20px}} SoBJ - [[Steeple of Beginner's Journey]] - Bottom Easy (1.11) {{emblem|GoE|20px}}
+* {{emblem|Z1|20px}} ToZD - [[Tower of Zero Disturbances]] - Bottom-Low Easy (1.15) {{emblem|Z1|20px}}
+* {{emblem|FR|20px}} SoMD - [[Steeple of Meaningless Decisions]] - Bottom-Low Easy (1.22) {{emblem|FR|20px}}
+* {{emblem|R1|20px}} ToAST - [[Tower of A Simple Time]] - Low Easy (1.25) {{emblem|R1|20px}}
+* {{emblem|R0|20px}} ''ToB - [[Tower of Buttons]] - Low-Mid Easy (1.35)'' {{emblem|R0|20px}}
+* {{emblem|SH|20px}} ''SoZZP - [[Steeple of Zip Zap Pop!]] - Low-Mid Easy (1.43)'' {{emblem|SSH|20px}}
+* {{emblem|R1|20px}} ToA - [[Tower of Anger]] - Mid Easy (1.50) {{emblem|R1|20px}}
+* {{emblem|R0|20px}} ''ToME - [[Tower of Motion Evolution]] - Mid Easy (1.53)'' {{emblem|R0|20px}}
+* {{emblem|GoE|20px}} SoDS - [[Steeple of Devil's Snare]] - Mid Easy (1.54) {{emblem|GoE|20px}}
+* {{emblem|PA|20px}} PAT - [[Possibly A Tower]] - Mid Easy (1.54) {{emblem|PA|20px}}
+* {{emblem|Z1|20px}} ToPHaT - [[Tower of Peaceful Happiness and Tranquility]] - Mid Easy (1.55) {{emblem|Z1|20px}}
+* {{emblem|Z4|20px}} ToFSC - [[Tower of Fairly Simple Challenges]] - Mid-High Easy (1.58) {{emblem|Z4|20px}}
+* {{emblem|FR|20px}} ToJGF - [[Tower of Jolly Good Fun]] - Mid-High Easy (1.65) {{emblem|FR|20px}}
+* {{emblem|R3|20px}} ToFT - [[Tower of Funny Thoughts]] - High Easy (1.70) {{emblem|R3|20px}}
+* {{emblem|PA|20px}} SoMM - [[Steeple of Mystical Marine]] - High Easy (1.76) {{emblem|PA|20px}}
+* {{emblem|R0|20px}} ''ToCD - [[Tower of Critical Damage]] - High-Peak Easy (1.80)'' {{emblem|R0|20px}}
+* {{emblem|R0|20px}} ''TNF - [[Tower Not Found]] - High-Peak Easy (1.81)'' {{emblem|R0|20px}}
+* {{emblem|SH|20px}} ''SoGC - [[Steeple of Golf Course]] - High-Peak Easy (1.86)'' {{emblem|SH|20px}}
+* {{emblem|R4|20px}} ToSH - [[Tower of Spiralling Heights]] - Peak Easy (1.90) {{emblem|R4|20px}}
+* {{emblem|Z3|20px}} ToOD - [[Tower of Overestimating Difficulty]] - Peak Easy (1.99) {{emblem|Z3|20px}}
+|-|
+Monthly Towers=
+* {{emblem|TLP|20px}} ToFC(M) - [[Tower of Frame Carvings]] - Mid Easy (1.49) {{emblem|Z1|20px}}
+* {{emblem|TLS|20px}} ToLH(M) - [[Tower of Light Hues]] - High-Peak Easy (1.79) {{emblem|Z1|20px}}
+* {{emblem|TLP|20px}} ToCS(M) - [[Tower of Coolio Sliding]] - High-Peak Easy (1.82) {{emblem|R3|20px}}
+* {{emblem|TLS|20px}} ToLF(M) - [[Tower of Little Frustration]] - High-Peak Easy (1.87) {{emblem|R1|20px}}
+* {{emblem|TLC|20px}} ToPT(M) - [[Tower of Placid Travels]] - Peak Easy (1.97) {{emblem|Z1|20px}}
+|-|
+Event Towers=
+* {{emblem|100M|20px}} ToAST(R) - [[Tower of Annoyingly Simple Trials]] - Bottom-Low Easy (1.21) {{emblem|100M|20px}}
+* {{emblem|100M|20px}} 100MC - [[100M Celebration]] - Low Easy (1.31) {{emblem|R1|20px}}
+* {{emblem|100M|20px}} 100MT - [[100M Trial]] - Low-Mid (1.41) {{emblem|R1|20px}}
+* {{emblem|LE2023|20px}} ToT(L) - [[Tower of Trouble]] - High Easy (1.72) {{emblem|LE2023|20px}}
+* {{emblem|H2023|20px}} SoGM - [[Steeple of Ghostly Mischief]] - Peak Easy (1.90) {{emblem|H2023|20px}}
+|-|
+Removed Towers=
+* {{emblem|R2|20px}} ToOEZ - [[Tower of One Equals Zero]] - Easy (1.??) {{emblem|R2|20px}}
+* {{emblem|Z1|20px}} ToEM - [[Tower of Easy Modo]] - Easy (1.??) {{emblem|Z1|20px}}
+* {{emblem|PoM|20px}} ToMDC - [[Tower of Modernistic Design Choices]] - High-Peak Easy (1.84) {{emblem|PoM|20px}}
+* {{emblem|Z1|20px}} ToAB - [[Tower of Another Beginning]] - Peak Easy (1.??) {{emblem|Z1|20px}}
+</tabber>
+{{Header|Trivia}}
+*Although [[Tower of Modernistic Design Choices]] was located within the non-canon area [[Pit of Misery]], it was considered to be canon because it awarded a badge and a [[Tower Point]] before it was removed.  
+*[[Ring 1]] has the most <span id="Easy">[[Easy]]</span> [[Towers]] out of any [[Realm]], having 3 <span id="Easy">[[Easy]]</span> [[Towers|towers of any type]]. 
+**However, it will be dethroned by [[Ring 0]], which has 5 <span id="Easy">[[Easy]]</span> towers of any type.
+*There are only 11 canon Realms with this difficulty.
+**[[Silent Abyss]], [[Ring 5]], [[Lost River]], [[Ring 6]], [[Ashen Towerworks]], [[Ring 7]], [[Ring 8]], [[The Starlit Archives]], [[Ring 9]], [[Zone 2]], [[Arcane Area]], [[Zone 5]], [[Zone 6]], [[Zone 7]], [[Zone 8]], [[Zone 9]] and [[Zone 10]] are the only realms without a single <span id="Easy">Easy</span> tower. 
+{{Header|History}}
+Despite being the current easiest difficulty in the game, this wasn't always the case, as there was originally an even easier difficulty called [[Effortless|<span id="Effortless">'''Effortless'''</span>]].
+{{Header|Gallery}}
+<gallery wdiths="185" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+97996556f82293e6431e3143bd627b1a.png|The [[badge]] obtained from beating an <span id="Easy">[[Easy]]</span> tower for the first time.
+<!-->BeatEveryEasyTower.png|The upcoming badge obtained from beating every single <span id="Easy">[[Easy]]</span> tower in the game. https://www.roblox.com/badges/1355224109630025/ You might wanna look at this<!-->
+</gallery>
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Easy]]

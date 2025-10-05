@@ -1,0 +1,98 @@
+{{Scrollbox|Notices=
+'''Notices'''
+{{Collaboration|reason=The revamp is a collaboration between NathanJTOH and TheEndlessNova.}}
+{{Revamp|reason=Old one was okay, but it could DEFINITELY be improved.}}
+{{Physically Impossible}}
+}}<s>Not to be confused with [[Caught|Catchy]].</s> Catchy is deleted. (Oh wait never mind it came back as [[Caught]].) Also, I can own this; NathanJTOH (UnphosianEnphosian)'s account is disabled.
+
+==<span style="background:-webkit-linear-gradient(left, purple, magenta); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2.5px #fff">'''Catch - Introduction''' ==
+{{NewDifficultyInfobox|title1=Catch|image1=<gallery>
+Catchneww.png | New
+Catch New.png | Old
+Catch.png | Former
+Catch deez nu-.webp | Alternate
+Catch 4.png | Alternate 2
+</gallery>|caption1=There's just one catch...|class=[[File:Caught.png|frameless|30px]] <span style="color:#505050;">'''10'''|previous=[[File:Wer.webp|frameless|30px]] [[TooAbnormal]]|next=[[File:Elite phase1.png|frameless|30px]] [[Exploitist Elite]]|previous_name=None.|original_name=None.|class_range=[[File:Catch another alternate.webp|frameless|30px]] <span style="color:#600060;">Low|difficulty_range=Baseline, Low, Mid, High, Peak|decal_id=12314357983|main_difficulty=None.|sub_difficulty(ies)=[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|25px]] [[IMPOSSIBLE.EXE]]|chain(s)=None.|official_music(s)=https://www.youtube.com/watch?v=I34-31nG9Lo|creator(s)=* Touchgrass210779 (new owner)
+* NathanJTOH (UnphosianEnphosian, OG owner)
+* TheEndlessNova - Revamper|full_name=None.|short_name=C|alt_names=None.|original_class=None.|previous_class(es)=None.|original_type=None.|previous_type(s)=None.|original_main_difficulty=None.|previous_main_difficulty(ies)=None.|original_official_music=None.|previous_official_music(s)=None.|original_creator(s)=None.|previous_creator(s)=None.|original_full_name=None.|previous_full_name(s)=None.|original_short_name=None.|previous_short_name(s)=None.|date_added=11/4/22|date_removed=Not yet.|removal_reason=It hasn't been removed yet.|revamp_date=11/4/22|revival_date=See the removal reason.|prior_previous=None.|prior_next=None.|previous_sub_difficulty(ies)=None.|hex_color=It doesn't have a specific one.|rbg_color=It doesn't have a specific one.|cmyk_color=It doesn't have a specific one.|hsv_color=It doesn't have a specific one.|hsl_color=It doesn't have a specific one.|rgba_color=It doesn't have a specific one.|alt_next=[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|30px]] [[IMPOSSIBLE.EXE]]|rating=109}}
+Catch is a Class 10 Difficulty, in between this is absolutely normal difficulty [[TooAbnormal]], and the elite exploiters difficulty [[Exploitist Elite]]. It was made by '''''[[User:NathanJTOH|NathanJTOH]]''''' on November 4th, 2022. It can be classified as a humanly, physically, and TAS impossible difficulty, so prepare yourself.
+
+'''''<big>But wait...</big>'''''
+
+It has just a few catches that makes this as hard as it is. You see, the obstacles themselves aren't that hard (at least for a Class 10 obbyist like you), but the catches will make it hundreds of times more difficult. For example, one of the obstacles could be a 13 stud wrap. Easy, right? However, a catch could be "You have eternal blindness", which is why this is a Class 10 difficulty.
+
+==<span style="background:-webkit-linear-gradient(left, purple, magenta); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2.5px #fff">'''Catch - Icon Representation'''==
+
+===New===
+<center>[[File:Catch New.png|frameless|100x100px]] 
+The new icon is a bit more complicated than the old one. It's the same, but the line in the middle is wavy and a dark purple instead of blue. The 'Catch' in the middle is hand-drawn, and there are now two faces: a green one smiling, and a dark red flipped XD. 
+</center>
+
+====Former====
+<center>[[File:Catch.png|frameless|100x100px]]
+The icon is split into two sides, one is pink and one is purple, but they are separated by a dark blue line, with even darker blue text in the Anton font saying 'Catch', this difficulty's name. Despite the icon's appearance, this is not a Switch difficulty.
+</center>
+
+===Alternate/Unofficial===
+<center>[[File:Catch deez nu-.webp|frameless|100x100px]]</center>This icon is also split into two sides, but they are separated by a black gradient this time. There are also emojis all over the difficulty's icon.
+
+===Alternate 2===
+[[File:Catch 4.png|center|thumb|120x120px]]
+This icon is also split into two sides, and they are also separated by a black line but on the pink area, there are two up arrows, with a smiley face, and text saying 'Normal!' 'Great' and 'Fun' while on the purple, there is a sad smiley, two down arrows, a crossed out image of an eye, and text saying 'Lag' and 'Mirrored'.
+
+<center>{{Quote (IPeedMyPants' Version)|quote=This is why you don't let TheEndlessNova make your difficulty icons.|quoter=TheEndlessNova}}
+</center>
+==<span style="background:-webkit-linear-gradient(left, purple, magenta); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2.5px #fff">'''Catch - Obstacles'''  ==
+You may think "Oh, these obstacles are pretty easy for Class 10!" But that's not true. Unlike most difficulties, the obstacles aren't actually what you were waiting for. The catches below will make then much harder.... 
+
+===Baseline of Catch | The Beginning===
+
+* 13 billion stud wrap.
+*13.5 billion stud jump.
+*0.0000000001 stud tightrope.
+
+===Low Catch===
+
+==<span style="background:-webkit-linear-gradient(left, purple, magenta); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2.5px #fff">'''Catch - Catches'''==
+Okay. These catches are the main point of the difficulty. They are designed to make this difficulty actually fit Class 10, which means that these catches will buff the obstacles to an incomprehensible level.    
+
+*You are blind and deaf.
+*Your computer is barely functioning and crashes every minute.
+* The inputs are mirrored (for example, if you go fowards, you'll go backwards instead) but it'll revert back every 10 or so seconds.
+*Every second, there are 4 million spinners flying at you.
+* You are at 0.1 fps.
+*Your mouse cursor keeps teleporting randomly every 0.001 seconds.
+* You are in a black hole’s event horizon.
+* You have 1 million OoIDC Nosav Wedges chasing you at 10 times faster than your walk speed.
+* Your computer screen is cracked.
+* You have 13 billion layers of sunscreen on you.
+*If you want to win, you must also need to get Teardrop to talk.
+*you need to beat citadel of void 100000 times every second while in outerspace
+*There is 69420 million reichtangles hunting you, and they are immortal.
+*You will have an infinite epilepsy when a color changes by 1 tone, or when something moves 1 subpixel, which prevents you from beating the difficulty, if you try to remove this catch, you get applied twice with it.
+
+==<span style="background:-webkit-linear-gradient(left, purple, magenta); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2.5px #fff">'''Catch - Trivia''' ==
+
+* This difficulty was made by NathanJTOH on November 4th, 2022, and then revamped on the same day.
+*It was falsely deleted by AlsoOmori, but brought back by Sanjay2133.
+*It was added to the unofficial chart page on January 14th, 2023.
+
+==<span style="background:-webkit-linear-gradient(left, purple, magenta); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2.5px #fff">'''Catch - Towers'''==
+*[[Edifice of Painful Gimmicks]](EoPG)
+*[[Catch-22]](C22)
+*Tower of So Many Catches(ToSMC) (Fictional)
+*[https://www.roblox.com/games/10406214285/Ring-10-Quasis-Towers-of-Nonsense Edifice of Can't Catch Your Breath] (ToSMC) (QToN Ring 10)
+
+==<span style="background:-webkit-linear-gradient(left, purple, magenta); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0px 0px 2.5px #fff">'''Catch - Gallery'''==
+Feel free to help!<gallery>
+File:Catch New.png|Catch's current icon.
+File:Catch.png|Catch's old icon.
+File:Catch deez nu-.webp|Catch's alternate icon.
+File:Catch 4.png|Catch’s second alternate icon.
+File:Catch another alternate.webp|A Good-Looking Alternate Icon
+</gallery>{{MainDifficultiesNavbox}}
+[[Category:Class 10]]
+[[Category:Physically Impossible]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Physically Impossible Difficulties]]

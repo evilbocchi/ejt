@@ -1,0 +1,116 @@
+<div style="background:#94A8C8;padding:1em;font-family:rubik;border:25px solid #B6D3FF"><div style="font-family:Gotham">
+{{NoticeScrollboxNew|Notices={{Unclassified}}{{EventDifficulty}}}}
+----
+{{RevampQuote|Text=Happy 16th birthday, Vira!|Header=Vira Birthday Quote|Quoter=Sanjay2133}}
+----
+<div style="--theme-accent-color:-webkit-linear-gradient(180deg,#94A8C8, #748AA8)">{{NewDifficultyInfobox|title1=[[File:16.png|30px]] <span style="background:linear-gradient(90deg, skyblue, skyblue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''16'''</span>|image1=<gallery>
+16.png | New / 2025-2026
+15.png | Old / 2024-2025
+14.png | Oldest / 2023-2024
+</gallery>|caption1=Happy 16th birthday!|class=Unclassified|rating=Unclassified|type=Unclassified<br>Event|class_range=Class 6 to Class 16|creator(s)=Sanjay2133|full_name=Sixteen|date_added=September 10, 2023|date_removed=September 10, 2024|original_class=Class 4 to Class 14|previous_class(es)=Class 5 to Class 15|original_name=14|previous_name=15|revamp_date=September 10, 2025}}</div>
+==Introduction ~ [[File:16.png|50x50px]] <span style="color:skyblue;">'''16'''</span>==
+[[File:16.png|30px]] <span style="color:skyblue;">'''16'''</span> is an unclassified difficulty, centered around the number 16. It was originally created in celebration of the user [[User:Viranenthusiast|Vira]]'s birthday, or September 10th. Originally created as a celebration of Vira's 14th birthday, it has since been repurposed each year to reflect Vira's passing birthdays, previously being known as 14 and 15.
+
+Throughout this difficulty, it is frequent to find celebrations of Vira and other relevant material celebrating his birthday. Annually, this difficulty will update and thus be based around a new number. For September 10, 2025 to September 10, 2026, this difficulty is currently centered around the number 16, so thus the range of this difficulty is from Class 6 to Class 16 to reflect this.
+
+As a result of this main gimmick, with each passing year this difficulty gets progressively harder, reflecting higher and higher classes which in turn, necessitate harder obstacles. It is for this reason that [[File:16.png|30px]] <span style="color:skyblue;">'''16'''</span> is an unclassified event difficulty, due to it being an annual occurrence.
+
+As of current, this difficulty has surpassed [[File:TheHumanLimit.png|50x50px]] [[The Human Limit]], indicating that it is humanly impossible no matter its range.
+
+==Icon Representation ~ [[File:16.png|50x50px]] <span style="color:skyblue;">'''16'''</span>==
+
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |{{PAGENAME}}'s Icon
+|-
+!Icon
+!Description
+|-
+| colspan="2" style="background: #8ed1ed; color: #000000" |'''Current'''
+|-
+|[[File:16.png|300px]]
+|The current icon of 16 is similar to its predecessors, having a blue background reflecting his old profile picture. The border on the edge now comes in various shades, and the background of the difficulty is checkered. In the center, there is the number 16.
+|-
+| colspan="2" style="background: #87ceeb; color: #000000" |'''Old'''
+|-
+|[[File:15.png|300px]]
+|The icon of this difficulty is relatively simple. It is made in a shade of blue, which resembles the old profile picture of [[User:Viranenthusiast|Vira]]. There is a border on the edge, and in each of the corners there are various references to his birthday. In the center, there is the number 15.
+|-
+| colspan="2" style="background: #77b7d1; color: #000000" |'''Oldest'''
+|-
+|[[File:14.png|300px]]
+|The icon of this difficulty is relatively simple. It is made in a shade of blue, which resembles the profile picture of [[User:Viranenthusiast|Vira]]. There is a border on the edge, and in each of the corners there are various references to his birthday. In the center, there is the number 14.
+|}
+
+==Explanation ~ [[File:16.png|50x50px]] <span style="color:skyblue;">'''16'''</span>==
+When one first enters the difficulty, they will be presented with Class 6 obstacles, which progressively get harder. Many obstacles of this difficulty also relate to the number 16 in general, meaning that you would see 16 stud jumps and other associated obstacles throughout this difficulty.
+
+On each of [[User:Viranenthusiast|Vira]]'s birthdays, this difficulty will buff itself and gain a new icon. In the case of the current state of the difficulty, it would then become the difficulty "17", thus surrounding itself around the number 17 and being between Class 7 and Class 17
+
+==Obstacles ~ [[File:16.png|50x50px]] <span style="color:skyblue;">'''16'''</span>==
+<div style="overflow-x:scroll">
+{| class="fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: #00c7c7;" |'''<font color="#009999">Bottom</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Middle</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: #ff00b3; " |'''<font color="#b3007d">Skyline</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Jumps
+| style="background-color: #005980;" |16
+| style="background-color: #007a7a;" |16x6
+| style="background-color: #014500;" |<font color="white">160</font>
+| style="background-color: #336000;" |1616
+| style="background-color: #6d5c00;" |<font color="white">(16^6)x6</font>
+| style="background-color: #964a00;" |16B
+| style="background-color: #5a0000;" |<font color="white">1e1600</font>
+| style="background-color: #940068;" |<font color="white">E16#16</font>
+| style="background-color: #550055;" |<font color="white">f<sub>ε<sub>16</sub></sub>(1600)</font>
+|-
+|Walking
+| style="background-color: #005980;" |16e1600
+| style="background-color: #007a7a;" |<font color="white">16e16e6</font>
+| style="background-color: #014500;" |16e16e16
+| style="background-color: #336000;" |16e16e16e16
+| style="background-color: #6d5c00;" |16e16e16e16e16e16
+| style="background-color: #964a00;" |<font color="white">E16##16</font>
+| style="background-color: #5a0000;" |E16#(16)16
+| style="background-color: #940068;" |<font color="white">f<sub>ε<sub>16</sub></sub>(1600)</font>
+| style="background-color: #550055;" |<font color="white">f<sub>φ(1600, 0, 0, 0...)</sub>(1600)</font>
+|-
+|Gifting Vira Presents
+| style="background-color: #005980;" |16B
+| style="background-color: #007a7a;" |16e16
+| style="background-color: #014500;" |<font color="white">1.6e16e1.6</font>
+| style="background-color: #336000;" |<font color="white">16e16e16e16</font>
+| style="background-color: #6d5c00;" |<font color="white">E16#16</font>
+| style="background-color: #964a00;" |<font color="white">E16##16</font>
+| style="background-color: #5a0000;" |<font color="white">E16#####16</font>
+| style="background-color: #940068;" |<font color="white">f<sub>ε<sub>6</sub></sub>(1600)</font>
+| style="background-color: #550055;" |<font color="white">f<sub>φ(16, 0, 0, 0...)</sub>(1600)</font>
+|}
+</div>
+==Trivia ~ [[File:16.png|50x50px]] <span style="color:skyblue;">'''16'''</span>==
+*There is 1 minute left on the timer, as this difficulty was revamped in 16 minutes
+**There was 3:30 minutes left on the timer when this difficulty was made in 14 minutes.
+*The border of the background of this difficulty was originally messed up, but was fixed with 10 seconds to spare. Now I am done with the difficulty.
+*I had to update the obstacles, which also took some time. I finished it now. I also had to update the table, which left me with 7 seconds.
+*The icon of the difficulty references Vira's profile picture.
+*This difficulty has 6 pieces of trivia.
+==Towers ~ [[File:16.png|50x50px]] <span style="color:skyblue;">'''16'''</span>==
+All towers of this difficulty are fictional.
+*Vira Tower
+*Citadel of 16 Celebrations
+*Steeple of Present Gifting
+*Obelisk of Birthday Parties
+*Great Citadel of The Great Celebration of 16 Trails
+*Edifice of Sweetness Party Rush
+==Continuing On ~ [[File:16.png|50x50px]] <span style="color:skyblue;">'''16'''</span>==
+There is no clear next difficulty to move onto, but you should probably move onto a Class 17 difficulty. Whatever obstacle you have accomplished in this difficulty, try an obstacle that is slightly harder than it. You have completed this difficulty!
+
+</div>

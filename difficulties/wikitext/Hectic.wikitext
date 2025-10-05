@@ -1,0 +1,605 @@
+{{DISPLAYTITLE:<span id="hectic">Hectic</span>}}
+<!-- CSS Links -->
+{{CSS|User:Sushislushwiki/slushusername.css}}
+<!-- Raw CSS -->
+{{CSS|content=<nowiki>
+/* Fonts Used */
+/** Stardos Stencil — Difficulty Name font **/
+@import url('https://fonts.cdnfonts.com/css/stardos-stencil');
+/** Outfit - Main Text font **/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Page Styling */
+.page__main {
+    background: #211117D0;
+    border-left: 4px solid #633345
+}
+
+/* Difficulty Name */
+#hectic {
+    display: inline-block;
+    font-family: 'Stardos Stencil';
+    font-weight: 700;
+    color: #84445C;
+    background-color: #211117;
+    box-shadow: 0 0 0 0.1em #211117
+}
+
+/* Text styling */
+.portable-infobox, .page-content p, h2.head, h3.head, .table, .page-content ul, .page-content ol, .page-content li, .page-content q {
+    font-family: Outfit;
+    color: #EEE
+}
+
+.portable-infobox, .page-content p, .table, .page-content ul, .page-content ol, .page-content li, .page-content q {
+    line-height: 1.2
+}
+
+.page-content p, .page-content ul, .page-content ol, .page-content li {
+    line-height: 1.6
+}
+
+h2.head {
+    text-align: center;
+    color: #FFF;
+    border-bottom: 2px solid #FFF
+}
+
+h3.head {
+    color: #FFF
+}
+
+/** Manual dark text fix — gotta love literally not being able to read **/
+#darktext {
+    font-family: Outfit;
+    font-weight: bold;
+    color: #270000;
+    text-shadow: 0 0 0.15em #FFF;
+    font-weight: bold
+}
+
+/** And for icons because it's just as bad on dark mode **/
+#darkicon {
+    display: inline-block;
+    box-shadow: 0 0 0 1px #FFF8
+}
+
+/* Infobox styling */
+.portable-infobox {
+    border: none;
+    border-left: 3px solid #633345;
+    border-radius: 0
+}
+.portable-infobox.pi-background {
+    background-color: #311922
+}
+.portable-infobox .pi-border-color {
+	border-color: #633345
+}
+.portable-infobox .pi-image {
+    padding-top: 2px
+}
+.portable-infobox .wds-tabs__tab {
+	color: #C6668A
+}
+.portable-infobox .wds-tabs__tab:hover, .portable-infobox .pi-header, .portable-infobox .pi-data-value {
+    color: #D07AA5
+}
+
+/* Table styling */
+.table {
+	border-collapse: collapse;
+	text-align: center;
+	border: 2px solid #633345;
+    background-color: #211117
+}
+
+th.table {
+    width: auto;
+    padding: 1em 0.3em 1em;
+    letter-spacing: 0.04em;
+    background-color: #311922;
+    font-family: Outfit;
+    color: #FFF
+}
+
+th.titlehead {
+    background-color: #633345
+}
+
+td.table, td.table > ul, td.table > ul > li {
+    font-family: Outfit;
+	padding: 0.5em 1em 0.5em;
+    color: #D07AA5
+}
+
+td.image {
+    padding: 0
+}
+
+/** Collapsible button styling **/
+.mw-collapsible .mw-collapsible-toggle .mw-collapsible-text {
+    text-decoration: none;
+    font-size: 1.1em;
+    color: #D07AA5;
+    transition: 0.3s;
+    padding: 0 0.5em
+}
+.mw-collapsible .mw-collapsible-toggle .mw-collapsible-text:hover {
+    color: #FFF;
+    text-shadow: 0 0 0.4em #D07AA5
+}
+.mw-collapsible-toggle-default::before,
+.mw-collapsible-toggle-default::after {
+    display: none;
+}
+
+/** Table colors **/
+th.col, td.col {
+    color: #FFF;
+    box-shadow: inset 0 0 0 2px #2A000C
+}
+th.col {
+    text-shadow: -0.07em 0.07em #000, 0 0.07em #000, 0.07em 0.07em #000, -0.07em 0 #000, 0.07em 0 #000, -0.07em -0.07em #000, 0 -0.07em #000, 0.07em -0.07em #000
+}
+td.blackline {
+    text-shadow: -0.07em 0.07em #2A000C, 0 0.07em #2A000C, 0.07em 0.07em #2A000C, -0.07em 0 #2A000C, 0.07em 0 #2A000C, -0.07em -0.07em #2A000C, 0 -0.07em #2A000C, 0.07em -0.07em #2A000C
+}
+
+/** Obstacle Table **/
+.b { background-color: #007A7A }
+.bl { background-color: #014500 }
+.l { background-color: #336000 }
+.m { background-color: #6D5C00 }
+.h { background-color: #964A00 }
+.p { background-color: #5A0000 }
+.s { background-color: #940068 }
+
+/* Tabber styling */
+.tabber > .wds-tab__content.wds-is-current {
+    background-color: #211117;
+    border: none;
+    border-left: 3px solid #311922;
+    border-radius: 0
+}
+.tabber .wds-tabs__wrapper .wds-tabs {
+    padding: 0;
+    border-bottom: none
+}
+.tabber .wds-tabs__wrapper ul.wds-tabs {
+    padding-left: 5px
+}
+.tabber > .wds-tab__content.wds-is-current :is(p, ul, ol, li) {
+    color: #D07AA5
+}
+.tabber .wds-tab__content {
+    border: none;
+    padding: 1.2em
+}
+.tabber .wds-tabs__tab a {
+    padding: 3px 0.5em;
+    margin-left: 3px;
+    border: 2px solid #633345;
+    border-bottom: 1px solid #633345;
+    background: #211117
+}
+.tabber .wds-tabs__tab a:hover, .tabber .wds-tabs__tab.wds-is-current :is(a, a:hover) {
+    transition: 0.2s;
+    border: 2px solid #633345;
+    border-bottom: 1px solid #633345;
+    background: #633345;
+    text-decoration: underline
+}
+.tabber .wds-tabs__tab a:hover {
+    background: #311922
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices={{Large Page}}{{Humanly Possible}}}}
+{{NewDifficultyInfobox|gradient=#211117, #211117|title1=<big><big><span id="hectic">Hectic</span></big></big>|image1=Hectic.png|caption1="Why is there a hole broken into this difficulty?" — {{USERNAME}}, 2025|class=High [[:Category:Class 2|Class 2]]|rating=5.75|type=* [[:Category:Possible|Humanly Possible Difficulty]]
+* [[:Category:Sub-Difficulties|Sub-Difficulty]]|previous=<span id="darkicon">[[File:Maniacal.jpg|30px]]</span> [[Maniacal|<span id="darktext">Maniacal</span>]]|next=<span id="darkicon">[[File:IntenseDifficulty.jpg|30px]]</span> [[w:c:jtoh:Intense|<span id="darktext">Intense</span>]]|difficulty_range=Bottom to Skyline (5.75 - 5.99)|decal_id=Current: [https://create.roblox.com/store/asset/117790524601180 117790524601180]|main_difficulty=<span id="darkicon">[[File:Maniacal.jpg|30px]]</span> [[Maniacal|<span id="darktext">Maniacal</span>]]|creator(s)=[[User:Sushislushwiki|<span class="slush">Sushislushwiki</span>]]|date_added=* Created on: 8/13/2025 (MM/DD/YYYY)|brickcolor=
+* Really Black (Main)
+* Dark Taupe (Accent)|hex_color=
+* {{colorbox|#211117}} #211117 (Main)
+* {{colorbox|#633345}} #633345 (Accent)|rgb_color=
+* {{colorbox|#211117}} 33, 17, 23 (Main)
+* {{colorbox|#633345}} 99, 51, 69 (Accent)|cmyk_color=
+* {{colorbox|#211117}} 0%, 48%, 30%, 87% (Main)
+* {{colorbox|#633345}} 0%, 48%, 30%, 61% (Accent)|hsv_color=
+* {{colorbox|#211117}} 338° 48% 13% (Main)
+* {{colorbox|#633345}} 338° 48% 39% (Accent)|hsl_color=
+* {{colorbox|#211117}} 338° 32% 10% (Main)
+* {{colorbox|#633345}} 338° 32% 29% (Accent)}}
+<h2 class="head">What is [[File:Hectic.png|32px]] <span id="hectic">Hectic</span>?</h2>
+[[File:Hectic.png|25px]] <span id="hectic">Hectic</span> is a High [[:Category:Class 2|Class 2]] (C2) [[:Category:Sub-Difficulties|sub-difficulty]] between <span id="darkicon">[[File:Maniacal.jpg|25px]]</span> [[Maniacal|<span id="darktext">Maniacal</span>]] and <span id="darkicon">[[File:IntenseDifficulty.jpg|25px]]</span> [[w:c:jtoh:Intense|<span id="darktext">Intense</span>]]. This difficulty is also the first of three sub-difficulties in High C2, with the following two being {{Class2Difficulties|TooMedium|25px}} [[TooMedium]] and [[File:Hellish2.PNG|25px]] [[Hellish]]. Along with [[File:Hellish2.PNG|25px]] [[Hellish]], the two difficulties are the sub-difficulty of a corresponding EJT-exclusive difficulty, with the main difficulty of [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> being <span id="darkicon">[[File:Maniacal.jpg|25px]]</span> [[Maniacal|<span id="darktext">Maniacal</span>]].
+
+Going by the EToH difficulty chart, towers of this difficulty are at the highest-difficulty quarter of {{Class2Difficulties|Challenging|25px}} [[w:c:jtoh:Challenging|Challenging]], and should thus only be attempted after you've already beaten a few {{Class2Difficulties|Challenging|25px}} [[w:c:jtoh:Challenging|Challenging]] towers. However, going by the [[Main Difficulty Chart]], if you've already beaten a <span id="darkicon">[[File:Maniacal.jpg|25px]]</span> [[Maniacal|<span id="darktext">Maniacal</span>]] difficulty tower, you're also able to beat a tower of this difficulty as well.
+<h2 class="head">Icon Representation</h2>
+<table class="table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="3" class="table titlehead"><big><big>Icon Representation</big></big></th>
+</tr>
+<tr>
+<th colspan="2" class="table"><big>Icon, Version and Date</big></th>
+<th class="table"><big>Description</big></th>
+</tr>
+<tr>
+<td class="table">Current</td>
+<td class="table">August 13th, 2025</td>
+<td rowspan="2" class="table">This icon was created by [[User:Sushislushwiki|<span class="slush">Sushislushwiki</span>]], and features a crack in the center colored a muted dark fuchsia with an even darker-colored background. This difficulty's main color is a blend of the two difficulties around it, <span id="darkicon">[[File:Maniacal.jpg|25px]]</span> [[Maniacal|<span id="darktext">Maniacal</span>]] and <span id="darkicon">[[File:IntenseDifficulty.jpg|25px]]</span> [[w:c:jtoh:Intense|<span id="darktext">Intense</span>]]. The crack in the center is an oblique reference to this difficulty's name.</td>
+</tr>
+<tr>
+<td colspan="2" class="table image">[[File:Hectic.png|250px]]</td>
+</tr>
+</table>
+<h2 class="head">Obstacle Table</h2>
+<table class="table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big><big>Obstacle Table</big></big></th>
+</tr>
+<tr>
+<th class="table">Obstacles</th>
+<th class="table col" style="color: inherit; background-color: #00C7C7">Bottom</th>
+<th class="table col" style="color: inherit; background-color: #008000">Baseline</th>
+<th class="table col" style="color: inherit; background-color: #80FF00">Low</th>
+<th class="table col" style="color: inherit; background-color: #FFFF00">Middle</th>
+<th class="table col" style="color: inherit; background-color: #FFA500">High</th>
+<th class="table col" style="color: inherit; background-color: #FF0000">Peak</th>
+<th class="table col" style="color: inherit; background-color: #FF00B3">Skyline</th>
+</tr>
+<tr>
+<th class="table">Jump (Unclimbable)</th>
+<td class="table col b">10.213 studs</td>
+<td class="table col bl">10.254 studs</td>
+<td class="table col l">10.295 studs</td>
+<td class="table col m">10.336 studs</td>
+<td class="table col h">10.377 studs</td>
+<td class="table col p">10.418 studs</td>
+<td class="table col s">10.459 studs</td>
+</tr>
+<tr>
+<th class="table"> Jump (Climbable)</th>
+<td class="table col b">10.75 studs</td>
+<td class="table col bl">10.791 studs</td>
+<td class="table col l">10.832 studs</td>
+<td class="table col m">10.873 studs</td>
+<td class="table col h">10.914 studs</td>
+<td class="table col p">10.955 studs</td>
+<td class="table col s">10.996 studs</td>
+</tr>
+<tr>
+<th class="table">Wraparound</th>
+<td class="table col b">3.9 studs</td>
+<td class="table col bl">4.083 studs</td>
+<td class="table col l">4.267 studs</td>
+<td class="table col m">4.45 studs</td>
+<td class="table col h">4.633 studs</td>
+<td class="table col p">4.817 studs</td>
+<td class="table col s">5 studs</td>
+</tr>
+<tr>
+<th class="table">Cylinder Wraparound</th>
+<td class="table col b">3 studs</td>
+<td class="table col bl">3.083 studs</td>
+<td class="table col l">3.167 studs</td>
+<td class="table col m">3.25 studs</td>
+<td class="table col h">3.333 studs</td>
+<td class="table col p">3.417 studs</td>
+<td class="table col s">3.5 studs</td>
+</tr>
+<tr>
+<th class="table">Raised Wraparound (1)</th>
+<td class="table col b">2.7 studs raised by 0.904 studs</td>
+<td class="table col bl">2.775 studs raised by 0.929 studs</td>
+<td class="table col l">2.85 studs raised by 0.953 studs</td>
+<td class="table col m">2.925 studs raised by 0.977 studs</td>
+<td class="table col h">3 studs raised by 1 studs</td>
+<td class="table col p">3.075 studs raised by 1.022 studs</td>
+<td class="table col s">3.15 studs raised by 1.044 studs</td>
+</tr>
+<tr>
+<th class="table">Raised Wraparound (2)</th>
+<td class="table col b">2.55 studs raised by 1.35 studs</td>
+<td class="table col bl">2.621 studs raised by 1.39 studs</td>
+<td class="table col l">2.692 studs raised by 1.428 studs</td>
+<td class="table col m">2.763 studs raised by 1.466 studs</td>
+<td class="table col h">2.833 studs raised by 1.503 studs</td>
+<td class="table col p">2.904 studs raised by 1.538 studs</td>
+<td class="table col s">2.975 studs raised by 1.573 studs</td>
+</tr>
+<tr>
+<th class="table">Stickout</th>
+<td class="table col b">1.4 studs</td>
+<td class="table col bl">1.466 studs</td>
+<td class="table col l">1.532 studs</td>
+<td class="table col m">1.598 studs</td>
+<td class="table col h">1.664 stud</td>
+<td class="table col p">1.73 studs</td>
+<td class="table col s">1.8 studs</td>
+</tr>
+<tr>
+<th class="table">Killbrick Wraparound</th>
+<td class="table col b">1.1 studs</td>
+<td class="table col bl">1.15 studs</td>
+<td class="table col l">1.2 studs</td>
+<td class="table col m">1.25 studs</td>
+<td class="table col h">1.3 studs</td>
+<td class="table col p">1.35 studs</td>
+<td class="table col s">1.4 studs</td>
+</tr>
+<tr>
+<th class="table">Truss Jump</th>
+<td class="table col b">7.45 studs</td>
+<td class="table col bl">7.558 studs</td>
+<td class="table col l">7.667 studs</td>
+<td class="table col m">7.775 studs</td>
+<td class="table col h">7.887 studs</td>
+<td class="table col p">7.995 studs</td>
+<td class="table col s">8.1 studs</td>
+</tr>
+</table>
+<h2 class="head">Structure List</h2>
+<h3 class="head">Note</h3>
+The structure list was last updated on 8/17/2025 (MM/DD/YYYY).
+<tabber>
+|-|Bottom=
+<table class="table" style="width: 100%" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big>Bottom (5.75 - 5.78)</big></th>
+</tr>
+<tr>
+<th class="table">Name</th>
+<th class="table">Exact Difficulty</th>
+<th class="table">Status</th>
+</tr>
+<tr>
+<td class="table">Tower of Aamos' Anger (ToAA)</td>
+<td class="table">Bottom [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.75)</td>
+<td class="table">Found in EToH, Ring 8 [[w:c:jtoh:Tower of Aamos' Anger|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Cyclonic Isles (ToCI)</td>
+<td class="table">Bottom [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.76)</td>
+<td class="table">Found in EToH, Paradise Atoll [[w:c:jtoh:Tower of Cyclonic Isles|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Round Platforms (ToRP)</td>
+<td class="table">Bottom [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.76)</td>
+<td class="table">Found in EToH, Fool's Ring 9 [[w:c:jtoh:Tower of Round Platforms|here]].</td>
+</tr>
+<tr>
+<td class="table">Steeple of Wrapped Suffering (SoWS)</td>
+<td class="table">Bottom [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.76)</td>
+<td class="table">Found in EToH, Old Frosted Kingdom [[w:c:jtoh:Steeple of Wrapped Suffering|here]].</td>
+</tr>
+<tr>
+<td class="table">Steeple of Upright Cliffs (SoCF)</td>
+<td class="table">Bottom [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.78)</td>
+<td class="table">Found in EToH, Paradise Atoll [[w:c:jtoh:Steeple of Upright Cliffs|here]].</td>
+</tr>
+</table>
+|-|Baseline=
+<table class="table" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big>Baseline (5.79 - 5.82)</big></th>
+</tr>
+<tr>
+<th class="table">Name</th>
+<th class="table">Exact Difficulty</th>
+<th class="table">Status</th>
+</tr>
+<tr>
+<td class="table">Not Even A Flower (NEAF)</td>
+<td class="table">Baseline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.79)</td>
+<td class="table">Found in EToH, Garden of Eeshöl [[w:c:jtoh:Not Even A Flower|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Deep Darkness (ToDD)</td>
+<td class="table">Baseline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.80)</td>
+<td class="table">Found in EToH, Ring 2 [[w:c:jtoh:Tower of Deep Darkness|here]].</td>
+</tr>
+<tr>
+<td class="table">Steeple of Witch Calamity (SoWC)</td>
+<td class="table">Baseline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.81)</td>
+<td class="table">Found in EToH, Arcane Area [[w:c:jtoh:Steeple of Witch Calamity|here]].</td>
+</tr>
+<tr>
+<td class="table">Is This A Tower? (ITAT)</td>
+<td class="table">Baseline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.81)</td>
+<td class="table">Found in EToH, Time-Lost Plain [[w:c:jtoh:Is This A Tower?|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Pure Chroma (ToPC)</td>
+<td class="table">Baseline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.82)</td>
+<td class="table">Found in EToH, Zone 4 [[w:c:jtoh:Tower of Pure Chroma|here]].</td>
+</tr>
+</table>
+|-|Low=
+<table class="table" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big>Low (5.83 - 5.86)</big></th>
+</tr>
+<tr>
+<th class="table">Name</th>
+<th class="table">Exact Difficulty</th>
+<th class="table">Status</th>
+</tr>
+<tr>
+<td class="table">Steeple of Cliffside Falls (SoCF)</td>
+<td class="table">Low [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.83)</td>
+<td class="table">Found in EToH, Paradise Atoll [[w:c:jtoh:Steeple of Cliffside Falls|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Angry Structures (ToAS(M))</td>
+<td class="table">Low [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.83)</td>
+<td class="table">Found in EToH, Zone 2 [[w:c:jtoh:Tower of Angry Structures|here]].</td>
+</tr>
+<tr>
+<td class="table">Do Dat Look Like A Tower (DDLLAT)</td>
+<td class="table">Low [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.83)</td>
+<td class="table">Found in EToH, Time-Lost Tempest [[w:c:jtoh:Do Dat Look Like A Tower|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Shattered Dreams (ToSD)</td>
+<td class="table">Low [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.84)</td>
+<td class="table">Found in EToH, Ring 2 [[w:c:jtoh:Tower of Shattered Dreams|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Distorted Aerodynamics (ToDA)</td>
+<td class="table">Low [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.85)</td>
+<td class="table">Found in EToH, Ring 7 [[w:c:jtoh:Tower of Distorted Aerodynamics|here]].</td>
+</tr>
+</table>
+|-|Mid=
+<table class="table" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big>Mid (5.87 - 5.89)</big></th>
+</tr>
+<tr>
+<th class="table">Name</th>
+<th class="table">Exact Difficulty</th>
+<th class="table">Status</th>
+</tr>
+<tr>
+<td class="table">Tower of Prismatic World (ToPW(M))</td>
+<td class="table">Mid [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.87)</td>
+<td class="table">Found in EToH, Time-Lost Sands [[w:c:jtoh:Tower of Prismatic World|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of White Space (ToWS)</td>
+<td class="table">Mid [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.88)</td>
+<td class="table">Found in EToH, Zone 7 [[w:c:jtoh:Tower of White Space|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Hefty Magnitude (ToHM)</td>
+<td class="table">Mid [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.88)</td>
+<td class="table">Found in EToH, Zone 6 [[w:c:jtoh:Tower of Hefty Magnitude|here]].</td>
+</tr>
+<tr>
+<td class="table">Steeple of Rising Temperatures (SoRT(M))</td>
+<td class="table">Mid [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.88)</td>
+<td class="table">Found in EToH, Time-Lost Tempest [[w:c:jtoh:Steeple of Rising Temperatures|here]].</td>
+</tr>
+<tr>
+<td class="table">Steeple of Two Minute Noodles (SoTMN)</td>
+<td class="table">Mid [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.89)</td>
+<td class="table">Found in EToH, The Starlit Archive [[w:c:jtoh:Steeple of Two Minute Noodles|here]].</td>
+</tr>
+</table>
+|-|High=
+<table class="table" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big>High (5.90 - 5.92)</big></th>
+</tr>
+<tr>
+<th class="table">Name</th>
+<th class="table">Exact Difficulty</th>
+<th class="table">Status</th>
+</tr>
+<tr>
+<td class="table">Steeple of Xenial Abyss (SoXA)</td>
+<td class="table">High [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.90)</td>
+<td class="table">Found in EToH, Silent Abyss [[w:c:jtoh:Steeple of Xenial Abyss|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Wanting Extra Levels (ToWEL)</td>
+<td class="table">High [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.91)</td>
+<td class="table">Found in EToH, Zone 1 [[w:c:jtoh:Tower of Wanting Extra Levels|here]].</td>
+</tr>
+<tr>
+<td class="table">Steeple of The Manufactured Monstrosity (SoTMM)</td>
+<td class="table">High [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.92)</td>
+<td class="table">Found in EToH, The Starlit Archive [[w:c:jtoh:Steeple of The Manufactured Monstrosity|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Window Shattering (ToWS(L))</td>
+<td class="table">High [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.92)</td>
+<td class="table">Found in EToH, Legacy Fortress [[w:c:jtoh:Tower of Window Shattering|here]].</td>
+</tr>
+<tr>
+<td class="table">Steeple of Pumpkin Panic (SoPP)</td>
+<td class="table">High [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.92)</td>
+<td class="table">Found in EToH, Forsaken Manor [[w:c:jtoh:Steeple of Pumpkin Panic|here]].</td>
+</tr>
+</table>
+|-|Peak=
+<table class="table" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big>Peak (5.93 - 5.95)</big></th>
+</tr>
+<tr>
+<th class="table">Name</th>
+<th class="table">Exact Difficulty</th>
+<th class="table">Status</th>
+</tr>
+<tr>
+<td class="table">Tower of Valiant Verges (ToVV)</td>
+<td class="table">Peak [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.95)</td>
+<td class="table">Found in EToH, Zone 10 [[w:c:jtoh:Tower of Valiant Verges|here]].</td>
+</tr>
+</table>
+|-|Skyline=
+<table class="table" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big>Skyline (5.96 - 5.99)</big></th>
+</tr>
+<tr>
+<th class="table">Name</th>
+<th class="table">Exact Difficulty</th>
+<th class="table">Status</th>
+</tr>
+<tr>
+<td class="table">Tower of Flame Restoration (ToFR)</td>
+<td class="table">Skyline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.96)</td>
+<td class="table">Found in EToH, Zone 8 [[w:c:jtoh:Tower of Flame Restoration|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Really Very Artificial Inspiration (ToRVAI)</td>
+<td class="table">Skyline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.96)</td>
+<td class="table">Found in EToH, BIOUMS [[w:c:jtoh:Tower of Really Very Artificial Inspiration|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Traversing The Tropics (ToTTT)</td>
+<td class="table">Skyline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.98)</td>
+<td class="table">Found in EToH, Paradise Atoll [[w:c:jtoh:Tower of Traversing The Tropics|here]].</td>
+</tr>
+<tr>
+<td class="table">Tower of Unhealthy Escalation (ToUE)</td>
+<td class="table">Skyline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.99)</td>
+<td class="table">Found in EToH, Zone 5 [[w:c:jtoh:Tower of Unhealthy Escalation|here]].</td>
+</tr>
+</table>
+|-|Unknown=
+<table class="table" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th colspan="10" class="table titlehead"><big>Unknown (5.75 ~ 5.99)</big></th>
+</tr>
+<tr>
+<th class="table">Name</th>
+<th class="table">Exact Difficulty</th>
+<th class="table">Status</th>
+</tr>
+<tr>
+<td class="table">Room of Haphazard Structures</td>
+<td class="table">[[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.75 ~ 5.99)</td>
+<td class="table">Has a page [[Room of Haphazard Structures|here]]; the first structure of this difficulty.</td>
+</tr>
+<tr>
+<td class="table">Tower of False Elysium</td>
+<td class="table">Mid - Skyline [[File:Hectic.png|25px]] <span id="hectic">Hectic</span> (5.88 ~ 5.99)</td>
+<td class="table">Found in its own game, [https://www.roblox.com/games/5202724324 here].</td>
+</tr>
+</table>
+</tabber>
+<h2 class="head">Trivia</h2>
+* This difficulty is the last difficulty, including sub-difficulties, to use the "Not Recommended For Beginners" hint. This fact was pointed out by Fandom user [[User:InvertedVertically|InvertedVertically]] in the EJT Discord server [https://discord.com/channels/1129475053675888703/1129475054716072001/1406248695997009992 here].
+* This page is the first time the creator of this page, [[User:Sushislushwiki|<span class="slush">Sushislushwiki</span>]], has styled tabbers.
+** "I got stuck on the CSS for a while because the code was unlike the [[w:c:community:Help:Tabber|documentation]]..." — [[User:Sushislushwiki|<span class="slush">Slush</span>]], 2025
+* Similar to the previous difficulty the creator of this page, [[User:Sushislushwiki|<span class="slush">Sushislushwiki</span>]], made before, [[File:Aleph-Natsuki.png|25px]] [[Aleph-Natsuki]], the structure created to be the first of its difficulty in the EJT wiki was also made in a day.
+** Unlike the first structure created for [[File:Aleph-Natsuki.png|25px]] [[Aleph-Natsuki]], [[Tower of Besting a Tsundere]] (ToBAT), the first structure created for [[File:Hectic.png|25px]] <span class="hectic">Hectic</span>, [[Room of Haphazard Structures]]'s development was split between two days, with the latter day coming with a rebalance due to the difficulty being inaccurate to [[File:Hectic.png|25px]] <span class="hectic">Hectic</span>'s difficulty range.
+**Additionally, instead of having the assistance of someone else to build the structure, [[Room of Haphazard Structures]] was instead playtested by various people to make its difficulty accurate.
+<h2 class="head">Continuing On From This Point</h2>
+If you've managed to complete this difficulty, it's very likely that you've also completed the entirety of {{Class2Difficulties|Challenging|25px}} [[w:c:jtoh:Challenging|Challenging]] as well, and by proxy <span id="darkicon">[[File:Maniacal.jpg|25px]]</span> [[Maniacal|<span id="darktext">Maniacal</span>]]. If so, congratulations for 100%'ing the entirety of 5.00 to 5.99!
+
+You may now continue on to <span id="darkicon">[[File:IntenseDifficulty.jpg|25px]]</span> [[w:c:jtoh:Intense|<span id="darktext">Intense</span>]]. However, keep on the look out, structures of this difficulty are made fairly often. You're also encouraged to add to this difficulty's Structure List in case any new structures fit this difficulty's rating.
+[[Category:Sub-Difficulties]]
+[[Category:Class 2]]

@@ -1,0 +1,115 @@
+__NOTOC__
+{{Scrollbox|Notices='''Notice Scrollbox'''
+{{Fabled Difficulty}}
+{{Humanly Impossible}}
+{{Large Page|reason= 15k+ bytes of information provided in the page}}
+}}
+
+
+<br />
+
+<font size="5"><center>« <small>[[File:Nil revamp lol.png|30px]] [[w:c:jtohs-hardest-towers:Nil|nil]]</small> | <u>'''[[File:NightmareOutlineVersion.png|frameless|25x25px]]'''</u> <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span> | [[File:Literal3.webp|frameless|25x25px]] [https://jtohs-hardest-towers.fandom.com/wiki/Literal Literal] »</center></font>
+
+== What is [[File:NightmareOutlineVersion.png|frameless|34x34px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span>? ==
+{{NewDifficultyInfobox|image1=NightmareOutlineVersion.png|class=[[:Category:Class 4|Low Class 4]]|previous=* [[File:Nil revamp lol.png|30px]] [[w:c:jtohs-hardest-towers:Nil|nil]]|next=* [[File:ErrorDifficulty.webp|30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Error eRRoR]|decal_id=Current: [https://create.roblox.com/store/asset/9228414610/Nightmare 9228414610]<br>Remade: [https://create.roblox.com/store/asset/92947870220414/Nightmare 92947870220414]|creator(s)=[[User:YataDev|YataDev]]|full_name=|date_added=24/03/2022|hex_color=*#000000 (Top) 
+*#5e5e5e (Middle) 
+*#000000 (Bottom)|title1=<span style="color: gray;text-shadow:0 5px 10px gray;font-family: SourceSans"><big><big><big><big><big>Nightmare</big></big></big></big></big>|type=Normal|caption1=|original_class=Class 9|original_name=|official_music(s)=* ELEPS44 - Powersound
+* Waterflame - Byzantine
+* Waterflame - Radioactive
+* Waterflame - Meltdown|previous_class(es)=|previous_name=|revamp_date=04/16/2022|class_range=High|difficulty_range=Baseline to Peak|rbg_color=*0, 0, 0 (Top)
+*94, 94, 94 (Middle)
+*0, 0, 0 (Bottom)|prior_previous=* [[File:NilDifficulty.jpg|30px]] [https://ktoh.fandom.com/wiki/Nil nil]|previous_sub_difficulty(ies)=[[File:C86A4695-5DC0-4B35-AFBB-EE66E6803936.jpeg|30x30px]] The Campfire (Graved)|alt_previous=|alt_next=* [[File:Literal3.webp|30px]] [https://jtohs-hardest-towers.fandom.com/wiki/Literal Literal]|rating=16.5}}[[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span> is a [[:Category:Class 4|Low Class 4]] difficulty, represented by a gradient of black-grey-black. It is humanly impossible to beat, and may stay unbeaten for a couple of years. Nightmare is not recommended for all obbyists, unless you're using '''Tool Assisted Speedrun''', or any helpful tools. Nightmare is a successor to [[File:Nil revamp lol.png|30px]] [[w:c:jtohs-hardest-towers:Nil|nil]], and is more difficult to beat than it. However, it's also a predecessor of [[File:ErrorDifficulty.webp|frameless|25x25px]] [https://jtohs-hardest-towers.fandom.com/wiki/Error eRRoR], and is more simple and easier than it. 
+
+[[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span> incorporates jumps that are extremely luck-based and require utter precision movement. Because of that fact, it is recommended to use '''TAS''' if you want to try a tower of this difficulty out, just an absolutely minuscule or even a nanoscopic mistake can cost you tremendous amount of progress or even your entire run due to the nature of the obstacles and how challenging those actually are. 
+
+Beating, or even completing, a floor of  [[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span> is a huge accomplishment, and takes an unfathomable amount of skill to use. Although this difficulty seems humanly impossible (because it literally is), it is nothing compared to difficulties like [[File:ErrorDifficulty.webp|frameless|25x25px]] [https://jtohs-hardest-towers.fandom.com/wiki/Error eRRoR] or [[File:Why.png|frameless|24x24px]] '''Why.''' 
+
+To accomplish completion of a [[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span> difficulty tower, you would need prodigious luck and skill that no actual obbyist possess at the moment. [[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span> as of now, describes towers that are only possible with TAS, but it may possibly change one day, but probably not anytime soon.
+
+If one decides to attempt a '''Nightmare''' difficulty tower, it is recommended for them to use a [https://jtoh.fandom.com/wiki/Bootleg_Coil Bootleg Coil], or if someone has an extreme lack of skill they would use [https://jtoh.fandom.com/wiki/Vertical_Mobility Vertical Mobility], otherwise they are most likely to fail at the first floor. 
+
+'''Nightmare''' is measured to be around Tier 18 or possibly elevated, which expedients the factuality that this difficulty is basically impossible to beat without tools, exploits, and other gadgets.
+
+== Icon Representation==
+[[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span>'s icon is very simple and casual, but not bland either. It is a simple gradient going from black to grey and then black again, with an outline going around all of it. The icon originally was intended to be a darker version of the one of [[File:NilIcon100.png|frameless|25x25px]] [https://jtoh.fandom.com/wiki/Nil nil], but was scrapped due to lack of originality in it. 
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Icon Colors.
+|-
+| colspan="3" |<small>(Note that it's a gradient)</small>
+|-
+! Location
+!HEX
+!RGB
+|-
+! style="background: black; color: white" |'''Top of the Icon'''
+| style="background: #000000; color: white" |#000000
+| style="background: #000000; color: white" |0, 0, 0 
+|-
+! style="background: #5f5e5e; color: white" |'''Middle of the Icon'''
+| style="background: #5f5e5e; color: white" |#5e5e5e
+| style="background: #5f5e5e; color: white" |94, 94, 94
+|-
+! style="background: black; color: white" |'''Bottom of the Icon'''
+| style="background: #000000; color: white" |#000000
+| style="background: #000000; color: white" |0, 0, 0 
+|-
+|}
+==Obstacle Section==
+Obstacles of this difficulty are almost frame-perfect, requires utmost pin-point accuracy and a lot of luck. It is very easy to fail those obstacles that could easily ruin your whole run. It is recommended to attempt them with TAS, although it still wouldn't be easy. The obstacles are around Tier 18 or above. 
+{{ObstacleTableRevamp|JumpClimbableBase=13.8|Increment=0.0111}}
+==Towers & Obbies==
+<tabber>
+|-|Towers of =
+===Towers of this Difficulty===   
+*'''Tower of Hallucinating Nightmares''' (Fictional) (ToHN) (Baseline [[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span>)
+*'''Tower of Lifeless Hidrance''' (Fictional) (ToLH) (Low [[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span>)
+*'''Tower of Hellish Storms''' (Fictional) (ToHS) (Middle [[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare)</span></span>
+*'''Tower of Deadly Nightmares''' (Fictional) (ToDN) (High [[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare)</span></span>
+*'''Tower of Nightmare Endless Run''' (Fictional) (ToNER) (Peak [[File:NightmareOutlineVersion.png|frameless|25x25px]] <span style="background:linear-gradient(gray,gray); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><span style="text-shadow: gray 0px 0.5px 6px;">Nightmare</span></span><span><span>)</span></span>
+|-|Towers with=
+===Towers with this Difficulty===
+*[[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*[[Great Monolith of Every EJT Difficulty]] (GMoEED)
+|-|Obbies of=
+===Obbies of this Difficulty===
+
+*N/A
+|-|Obbies measured=
+===Obbies measured to be this Difficulty===  
+
+*Z (deleted)
+</tabber>
+
+===Notable===
+
+*The Zone of Deceit (SOON) (TZoD) (Low)
+
+==Trivia== 
+*This difficulty took about 15 minutes to make, although the revamp of this difficulty took around a hour.
+*This difficulty was the first non-JToH difficulty in Class 3 (not sub-difficulty)  
+**It was located in the middle of High Class 3, more specifically in-between [[File:NilIcon100.png|frameless|25x25px]] [https://jtoh.fandom.com/wiki/Nil nil] and [[File:ErrorDifficulty.webp|frameless|25x25px]] [https://jtohs-hardest-towers.fandom.com/wiki/Error eRRoR].
+*There was a difficulty with the same name that was in Class 8, but it got deleted during the [[Page Armageddon]].
+* This difficulty is the second custom difficulty from Class 2 to Class 3, first one being [[File:Relentless.png|frameless|25x25px]] [[Relentless]].
+*The name was slightly inspired from a deleted difficulty named [[File:Nightmarish.svg|frameless|25x25px]] ''Nightmarish'', which was intended to be the new Horrific. 
+* Nightmare's original name was supposed to be "TORTURE" but instead Nightmare was chosen. Another reason why Torture did not become a name for this difficulty is because it's an alternative name for [[File:TORMENT.png|frameless|25x25px]] [[TORMENT]].
+*'''Nightmare''' could actually work as a difficulty in a difficulty chart obbies and tower games, similar to [[File:Relentless.png|frameless|25x25px]] [[Relentless]].
+*'''Nightmare''' is the first ever difficulty to have a '''Scrollbox Notice''' and a '''Redirect'''.
+*Nightmare used to be in popular pages.
+
+==Gallery==
+<gallery>
+File:Nightmare.png|Nightmare's current icon
+File:NightmareOld.png|Nightmare's scrapped icon
+File:ToHN.png|Tower Portal of ToHN
+File:NightmareOutlineVersion.png|The remade icon of Nightmare, created by [[User:Astrominal|Astrominal]].
+</gallery>
+
+==Completion/Conclusion==
+Obbyists who were capable of beating anything with this difficulty may be considered by the community "people who've done the impossible". It is not likely anyone would be capable of beating a tower with a difficulty estimation like this, although it may happen. If someone has done such an accomplishment, they could give a try to [[File:ErrorDifficulty.webp|frameless|25x25px]] [https://jtohs-hardest-towers.fandom.com/wiki/Error eRRoR], however it is not recommended as it's even more challenging than this intended difficulty. 
+
+{{DifficultiesNavbox}}
+[[Category:Class 4]]
+[[Category:Difficulties]]
+[[Category:Humanly Impossible]]
+[[Category:Basically Impossible]]
+[[Category:Essay pages]]

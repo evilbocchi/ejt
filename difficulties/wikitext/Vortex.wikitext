@@ -1,0 +1,59 @@
+{{NoticeScrollboxNew|Notices=
+{{Humanly Impossible}}
+{{Former Class Finale|reason=It was moved to Mid Class 4 since TDEx happend.}}
+}}{{BetterQuote|text=Keep in mind this difficulty is not in the XD chain.|quoter=[[User:Sanjay2133|Sanjay2133]]}}
+
+==What is [[File:Vortex.png|30x30px]] <span style="color: cyan;text-shadow:0 2px 5px blue">Vortex</span>?==
+{{NewDifficultyInfobox
+|title1=[[File:Vortex.png|30x30px]] <span style="color: cyan;text-shadow:0 2px 5px blue">Vortex</span>
+|image1=Vortex.png
+|caption1=A vortex of hellish obstacles.
+|class=[[:Category:Class 4|Class 4]]
+|type=Sub-Difficulty
+|previous={{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]]
+|next={{Class5Difficulties|TARTARUS|30px}} [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]]
+|difficulty_range=Baseline to Peak
+|decal_id=11775906005 or 115923193063496
+|creator(s)=[[User:Sanjay2133|Sanjay2133]]
+|class_range=[[:Category:Class 4|Mid]]|rating=22.5}}
+[[File:Vortex.png|30x30px]] <span style="color: cyan;text-shadow:0 2px 5px blue">Vortex</span> is a [[:Category:Class 4|Class 4]] [[:Category:Sub-Difficulties|Difficulty]], located in the [[:Category:Class 4|middle]] section. It surpasses the XD chain and JHT difficulty {{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]], yet precedes the other XD chain and JHT difficulty {{Class5Difficulties|TARTARUS|30px}} [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]]. This difficulty is absolutely impossible, due to being at the end of Class 4, and you should only be able to beat this featuring a maximally precise and powerful Tool Assisted Speedrun, along with other items, like the Blessed Coil and the Forcefield if necessary. (You can also use Vertical Mobility)
+
+This difficulty is beyond the tier system, estimated to be at an estimated tier level of beyond Tier 30, which expedients the impossibility of this difficulty. If you were to even surpass ONE jump of this, it would be an achievement that would remain unbeaten for years in the Roblox community.
+
+You’d need ungodly amounts of luck, and extreme amounts of depth in research, and even just a jump requires months of research to surmount, as said earlier. However, even though this is still extremely hard, it is still literally nothing compared to difficulties like [[File:NewTARTARUS.jpeg|frameless|30x30px]] [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]].
+
+==Icon Representation==
+Vortex’s icon is represented with a light cyan background, a cyan spiral, and a white XDX in the middle. There is also a minor glitch and some white blur frame to make the icon less bland.
+
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=14.95|Increment=0.021}}
+==Tower Section==
+===Towers in this difficulty=== 
+*[[Steeple of Hollow Dimensions]]
+*Tower of Ultimate Repent (ToUR) (fictional)
+*Tower of Losing It Completely (ToLIC) (fictional)
+*Edifice of Finite Wormholes (EoFW) (fictional)
+===Towers with this difficulty===
+*[[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (MoEJD:R:P1)
+
+==Trivia==
+
+*There was a Class 18 difficulty also named ''VORTEX'' and was made in 2020. However, it got deleted.
+* This is the third unofficial difficulty (before the official chart became a thing), the second being [[File:Maniac New.jpg|frameless|30x30px]] ''Maniac'' (deleted) and the first being [[File:CataclysmicNewest.png|frameless|30x30px]] [[Cataclysm]].  
+**It is also the first Class 4 unofficial difficulty.
+**This is no longer true, as difficulties are no longer "unofficial".
+*This is the second class finale difficulty to replace a difficulty from a different wiki, the first being [[File:Noxious.png|frameless|30x30px]] [[Noxious]].
+*'''Vortex''' lies in the grey area of non-XD chain difficulties that lies above {{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]], yet before {{Class5Difficulties|TARTARUS|30px}} [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]].
+*This is also confused as an XD-Chain difficulty when it is not. 
+**There used to be 6 difficulties encapsulating this grey area, but this difficulty is now the only one left in this gap.
+
+==Continuing on from this point==
+Now that you’ve completed this hellish difficulty, you can head onto absolute chaos, the first experience of that chaos being {{Class5Difficulties|TARTARUS|30px}} [[w:c:jtohs-hardest-towers:TARTARUS|TARTARUS]].
+{{DifficultiesNavbox}}
+[[Category:Humanly Impossible]]
+[[Category:Unofficial Difficulty]]
+[[Category:Difficulty]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:Former Class Finale Difficulties]]

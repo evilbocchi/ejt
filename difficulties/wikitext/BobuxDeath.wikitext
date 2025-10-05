@@ -1,0 +1,201 @@
+{{Physically Impossible}}{{Joke}}
+
+{{NewDifficultyInfobox
+|title1 = BobuxDeath
+|image1 = <gallery>
+BobuxDeath.png | Static
+BobuxDeath.gif | Animated
+</gallery>
+|caption1 = May the Bobux decide your fate.
+|class = Class 8
+|type= Normal Difficulty
+|previous = [[FIle:Screenshot 2023-04-28 at 22.00.59.png|30px]] [[Esoteric]]
+|next = [[File:Limitingmoment.jpg|30px]] [[Limiting]]
+|decal_id = 11726118483
+|creator(s) = <span style="text-shadow: 0 0 5px green, 0 0 5px yellow, 0 0 5px green, 0 0 5px yellow, 0 0 5px green;"><span style="color:#ccff00"><font size=5>'''The Bobux Man himself'''</font></span></span>
+
+|previous_type(s) = Sub Difficulty
+|original_type = Normal Difficulty
+|previous_class(es) = Class 10 (moved for Twiist)
+|previous_name = RobuxDeath
+|date_added = 8/30/21
+|date_removed = 6 September 2021 (first removal)
+20 May 2022 (second removal)
+|removal_reason = Author request (first removal)
+Armageddon (second removal)
+|full_name=Bobux Death Debt Tax Evasion Fail Society Social Credit Poor Quid Dollar Money 🤑|rating=88|revamp_date=24 August 2023|revival_date=???|alt_previous=[[File:Complete Users.png|30px]] [[user:Complete Users|Complete Users]]|alt_next=[[File:Im bored.png|30px]] [[Aleph-DEATH]]}}
+==What is BobuxDeath?==
+''Not to be confused with'' [[File:Bobux.png|frameless|30x30px]] ''Bobux, or'' [[File:Bobux ultra.png|frameless|30x30px]] ''Bobux Ultra, both difficulties are now deleted, so there should not be any confusion between the three.''
+
+<span style="text-shadow: 0 0 5px green, 0 0 5px yellow, 0 0 5px green, 0 0 5px yellow, 0 0 5px green;"><span style="color:#ccff00">'''BobuxDeath'''</span></span> is a joke difficulty in the Death Chain. This is also where you will meet a boss, the <span style="text-shadow: 0 0 5px green, 0 0 5px yellow, 0 0 5px green, 0 0 5px yellow, 0 0 5px green;"><span style="color:#ccff00">'''Bobux Man'''</span></span> himself. This difficulty, the article you are currently viewing, has been revamped a whopping ~1.91 years after its first removal date. 
+
+You will have no chance in ''BobuxDeath'', or any difficulty of higher magnitude. As all forms of TAS, exploits, FPS unlockers or ''any other third-party mechanic'' has been neutralized. ''BobuxDeath'' is so arduous to complete, that the theoretical completion rate for this difficulty is in the negatives; -1,077%. Jumps are so long, that average tower frames of 100 x 100 x 1,000 stud size cannot contain the jumps, this means that the frame will require accurate scaling to be able to fit jumps of ''BobuxDeath'' difficulty, 25,000 x 25,000 x 250,000, per se.
+
+''BobuxDeath'' does not have a main difficulty or is the main difficulty of anything, has been revived twice (maybe thrice), revamped at least once, and lastly, moved 2 classes upwards. 
+
+== History ==
+The history of ''BobuxDeath'' goes a long way. 
+
+''BobuxDeath'' was deleted on 6 September 2021 by YourNuglyguy due to author request; however, it has been revived, then deleted again on 20 May 2022 due to the fifth Armageddon of the wiki by TasmanianRex, then revived again by YourNuglyguy on 4 July 2022, and revamped into its current state, on 24 August 2023. 
+
+It was also in Class 10 for a while, due to it being in the Death Chain (?), however as of now, it is not listed in this article for how long due to the revamper of the article being fairly new. (Please list any record of this here.)
+==Icon Representation==
+[[File:BobuxDeath.png|frameless|90x90px]]  
+
+BobuxDeath has an icon similar to other "Death" difficulties, and how you would expect a joke icon to be. A circle encompassing text saying "R$", being a representation of the currency used in Roblox, named Robux. In the sides of the circle, there are 4 copies of the Bobux Man, and between those copies, are 4 stacks of Robux represented as a coin.  
+==Obstacles in BobuxDeath==
+{| class="fandom-table"
+
+|+Obstacle Table
+
+! Spectrum/Obstacles
+
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+
+|-
+
+| Climbable Jumps
+
+| style="background-color: #005980;" |<font color="white">21,255 studs</font>
+
+| style="background-color: #014500;" |<font color="white">21,555 studs</font>
+
+| style="background-color: #336000;" |<font color="white">21,855 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">22,155 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">22,455 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">22,755 studs</font>
+
+| style="background-color: #550055;" |<font color="white">23,075 studs</font>
+
+|-
+
+|Unclimbable Jumps
+
+| style="background-color: #005980;" |<font color="white">21,155 studs</font>
+
+| style="background-color: #014500;" |<font color="white">21,455 studs</font>
+
+| style="background-color: #336000;" |<font color="white">21,755 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">22,055 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">22,355 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">22,655 studs</font>
+
+| style="background-color: #550055;" |<font color="white">22,975 studs</font>
+
+|-
+
+|Wraps
+
+| style="background-color: #005980;" |<font color="white">21,205 studs</font>
+
+| style="background-color: #014500;" |<font color="white">21,505 studs</font>
+
+| style="background-color: #336000;" |<font color="white">21,805 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">22,105 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">22,405 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">22,705 studs</font>
+
+| style="background-color: #550055;" |<font color="white">23,025 studs</font>
+
+|-
+
+|Stickouts 
+
+| style="background-color: #005980;" |<font color="white">1,850 x 1,870 studs</font>
+
+| style="background-color: #014500;" |<font color="white">1,875 x 1,895 studs</font>
+
+| style="background-color: #336000;" |<font color="white">1,900 x 1,920 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">1,925 x 1,945 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">1,950 x 1,970 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">1,975 x 1,995 studs</font>
+
+| style="background-color: #550055;" |<font color="white">2,000 x 2,020 studs</font>
+
+|-
+
+|Cylinder Wraps 
+
+| style="background-color: #005980;" |<font color="white">20,255 studs</font>
+
+| style="background-color: #014500;" |<font color="white">20,555 studs</font>
+
+| style="background-color: #336000;" |<font color="white">20,855 studs</font>
+
+| style="background-color: #6d5c00;" |<font color="white">21,155 studs</font>
+
+| style="background-color: #964a00;" |<font color="white">21,455 studs</font>
+
+| style="background-color: #5a0000;" |<font color="white">21,755 studs</font>
+
+| style="background-color: #550055;" |<font color="white">22,075 studs</font>
+
+|}
+
+
+==Boss - BobuxDeath==
+{{Boss|title1=<span style="text-shadow: 0 0 5px green, 0 0 5px yellow, 0 0 5px green, 0 0 5px yellow, 0 0 5px green;"><span style="color:#ccff00">'''Bobux Man'''</span></span>|image1=Bobuxman.jpg|caption1=Bobux|hp=10^100 & 10 {{!}} Formerly bobux69420^10|damage={10, 100 (0, 3) 2} {{!}} Formerly bobux69420^2|drops=The Bobux Sword|found_in=BobuxDeath|how_to_access=* Beat all obstacles in BobuxDeath.
+* Having 10^20 & 10 bobux.|difficulty=Epitome [[BobuxDeath]]|abilities=spk}}
+===Who is <span style="text-shadow: 0 0 5px green, 0 0 5px yellow, 0 0 5px green, 0 0 5px yellow, 0 0 5px green;"><span style="color:#ccff00">'''Bobux Man?'''</span></span>===
+Bobux Man is the boss in this difficulty. He has 10<sup>100</sup> & 10 health (yes this is accurate because [[entsetzlich]] has an EXPAN^10 health boss) and deals {10, 100 (0, 3) 2} damage if he uses the weakest attack.
+=== Abilities=== 
+
+*Summoning bobuxbombs, if you step on him.
+*Summoning bobux spikes that deal {10, 100 (0, 4) 2} damage.
+*Summoning the homing bobux turrets, that also deal {10, 100 (0, 4) 2} damage.
+* Showing his true wrath.
+*Saying "bobux" on your sound device so loudly that Roblox downright crashes.
+
+==Towers==
+===Towers in this difficulty ===
+
+*Tower of Bobux (fictional)
+*B.O.B.U.X Facility (fictional)
+
+===Towes with this difficulty===
+
+*[[The Infinite Difficulty Chart (T.I.D.C)]]
+
+==Trivia==
+
+*This is a MegaDeath variant, judging by the name.
+*This is a popular page (maybe).
+
+==Gallery==
+<gallery>
+File:BobuxDeath.png|The icon for this difficulty.
+File:Bobuxman.jpg|The picture of Bobux Man that was taken.
+</gallery>
+==Continuing on==
+Do [[Limiting]], go ahead.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 8]]
+[[Category:Physically Impossible]]
+[[Category:Physically Impossible Difficulties]]

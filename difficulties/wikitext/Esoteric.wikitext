@@ -1,0 +1,157 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#6ec285,#6ec2ba,#8b6ec2); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''<big>Esoteric</big>'''''</span>}}
+<div style="background:#173c3d;padding:1em;font-family:rubik;border:10px solid #449294>
+{{Scrollbox|Notices='''Scrollbox'''
+----
+{{Physically Impossible}}
+{{Visual Impairment|reason=Not reccommended to view this page on light mode}}
+----}}
+
+==Introduction - <span style="background:linear-gradient(90deg,#6ec285,#6ec2ba,#8b6ec2); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''<big>Esoteric</big>'''''</span>==
+{{NewDifficultyInfobox
+|title1=<span style="background:linear-gradient(90deg,#6ec285,#6ec2ba,#8b6ec2); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''<big>Esoteric</big>'''''</span>
+|image1=[[File:Screenshot 2023-04-28 at 22.00.59.png]]
+|caption1=random colors go brrr
+|class = Class 8
+|rating = 87
+|type = Normal difficulty
+|previous = [[File:ErrorisationRevamp.png|30px]] [[Errorisation]]
+|next = [[File:BobuxDeath.png|30px]] [[BobuxDeath]]
+|decal_id = 96624654411830
+|creator(s) = RedirectX
+|alt_next=[[File:Complete Users.png|30px]] [[user:Complete Users|Complete Users]]|sub_difficulty(ies)=[[File:Complete Users.png|30px]] [[user:Complete Users|Complete Users]]|alt_previous=[[File:GodlikeDiff.PNG|30px]] [[Godlike]]}}
+[[File:Screenshot 2023-04-28 at 22.00.59.png|30px]]<span style="background:linear-gradient(90deg,#6ec285,#6ec2ba,#8b6ec2); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''Esoteric'''''</span> is a class 8 difficulty which succeeds [[Errorisation]] and precedes [[BobuxDeath]]. This difficulty is located within high class 8, where class 8 difficulties are harder than [[The Crystal Core]]. Since this difficulty is between [[Ultra Instinct]] and [[Pinnacle]], it lies in the Physically impossible category. Difficulties in the Physically impossible category cannot be beaten by TAS but its obstacles can be built.
+
+Obstacles in this difficulty, albeit buildable span lengths wider than tower frames. This can leave the inside sections of a tower mostly bare except for some kill brick dodging sections. This can leave the tower to have obstacles residing mostly in outside sections. However, some forms of obstacles can be more compact such as phasing through layers of instant kill or somehow going through can collide true blocks. In towers, punishment is everywhere. Going too slow or making a 1 frame mistake could end your run immediately.
+==Icon Representation - <span style="background:linear-gradient(90deg,#6ec285,#6ec2ba,#8b6ec2); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''<big>Esoteric</big>'''''</span>==
+{| class="fandom-table"
+|+'''Icon Representation'''
+!'''Name'''
+!'''Icon'''
+!'''Description'''
+|-
+|'''Current'''
+|[[File:Screenshot 2023-04-28 at 22.00.59.png|250px]]
+|The icon has a black background with decoration on the corners of the icon, in the middle there is a star with a small circle inside. The star is surrounded by hollow squares of green, blue, and purple. This pattern is repeated twice, one larger than the other.
+|}
+==Obstacles - <span style="background:linear-gradient(90deg,#6ec285,#6ec2ba,#8b6ec2); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''<big>Esoteric</big>'''''</span>==
+{| class="fandom-table"
+|+Obstacles (credit to Malignant)
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Jumps
+| style="background-color: #014500;" |9400 stud jumps
+| style="background-color: #336000;" |9830 stud jumps
+| style="background-color: #6d5c00;" |10260 stud jumps
+| style="background-color: #964a00;" |10690 stud jumps
+| style="background-color: #5a0000;" |11550 stud jumps
+|-
+|Jumps (Unclimbable)
+| style="background-color: #014500;" |9200 stud jumps
+| style="background-color: #336000;" |9630 stud jumps
+| style="background-color: #6d5c00;" |10060 stud jumps
+| style="background-color: #964a00;" |10490 stud jumps
+| style="background-color: #5a0000;" |11350 stud jumps
+|-
+|Wraparounds
+| style="background-color: #014500;" |8900 stud wraps
+| style="background-color: #336000;" |9330 stud wraps
+| style="background-color: #6d5c00;" |9760 stud wraps
+| style="background-color: #964a00;" |10190 stud wraps
+| style="background-color: #5a0000;" |11050 stud wraps
+|-
+|Stickouts
+| style="background-color: #014500;" |50x50 stud stickout
+| style="background-color: #336000;" |51x51 stud stickout
+| style="background-color: #6d5c00;" |52x52 stud stickout
+| style="background-color: #964a00;" |53x53 stud stickout
+| style="background-color: #5a0000;" |54x54 stud stickout
+|-
+|Wallhopping
+| style="background-color: #014500;" |50 stud increment
+| style="background-color: #336000;" |60 stud increment
+| style="background-color: #6d5c00;" |70 stud increment
+| style="background-color: #964a00;" |80 stud increment
+| style="background-color: #5a0000;" |90 stud increment
+|-
+|Natural Wallhopping
+| style="background-color: #014500;" |100 studs tall
+| style="background-color: #336000;" |120 studs tall
+| style="background-color: #6d5c00;" |140 studs tall
+| style="background-color: #964a00;" |160 studs tall
+| style="background-color: #5a0000;" |180 studs tall
+|}
+===Special===
+<tabber>
+|-|
+Baseline=
+Survive multiple high-velocity instant kills while doing a 20 stud wrap.
+
+Do a mid air dance clip followed by a mid air laugh clip.
+
+Do a 10 stud climb up, and 700 8 stud climb ups.
+|-|
+Low=
+Do 10 instakill wallhops diagonally.
+
+Do an obstacle from class 7 and repeatedly complete that obstacle 100 times under 50 seconds.
+
+Push a 0.01x0.01 push box over 385 studs.
+|-|
+Mid=
+Beat a [[System Error]] tower under 15 seconds, or you'll be sent to that difficulty.
+
+Complete an [[El Vacio]] tower but your speed is decreased by 98.5% and you have 100 seconds to beat it.
+
+Do a Can colide true instant kill corner flip.
+|-|
+High=
+Do a luck clip and fling yourself 4750 studs far.
+
+Walk on Instant kills with enlarged hitboxes for 5 hours.
+
+Unrebirth a class 6 difficulty while keeping the obstacles accurate but challenging.
+|-|
+Peak=
+Push an instakill push box over 400 studs without dying.
+
+A 60 stud wrap with several invisible can collide true spinners paired up with instant kill spinners surrounding the wrap.
+
+Survive a boss which has bullet hell attacks and you have an hour to survive. You have 200 HP, but each attack deals 75 DMG.
+
+Do a random main Baseline obstacle (which means misc. obstacles aren't allowed) but it is buffed to Low Esoteric... at the cost of nerfing both your WS and JP by 10%.
+
+|-|
+</tabber>
+==Towers - <span style="background:linear-gradient(90deg,#6ec285,#6ec2ba,#8b6ec2); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''<big>Esoteric</big>'''''</span>==
+<big>Split in 2!</big> These Towers/Citadels/Obelisks will be split in 2 Topics, That will be:
+=== Towers in this difficulty ===
+<tabber>
+|-|
+Non-Fiction=
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 89: Esoteric]
+|-|
+Fictional=
+* N/A
+</tabber>
+=== Towers with this difficulty ===
+<tabber>
+|-|
+Non-Fiction=
+*N/A
+|-|
+Fictional=
+*[[Tower of An Unexpected Rendezvous]] (Mid-Esoteric)
+</tabber>
+==Continuing - <span style="background:linear-gradient(90deg,#6ec285,#6ec2ba,#8b6ec2); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''<big>Esoteric</big>'''''</span>==
+After all the attempts wasted to beat this difficulty, you have prevailed over another class 9 difficulty. However, that victory may be short-lived. After all, this perilous chart always has a multitude of difficulties waiting for you. Maybe one day you may break all sorts of limits. but for now, head on to [[User:Complete Users|Complete: Users]] or [[BobuxDeath]].
+{{DifficultiesNavbox}}
+</div>
+[[Category:Class 8]]
+[[Category:Difficulty]]
+[[Category:Difficulties]]
+[[Category:Physically Impossible]]

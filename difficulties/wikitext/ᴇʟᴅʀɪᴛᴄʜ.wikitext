@@ -1,0 +1,64 @@
+{{Background|File=IMG 0762.jpeg|Size=2000px}}{{Scrollbox|Notices=
+''Notices''
+{{Humanly Impossible}}
+{{Classic}}
+}}
+{{NewDifficultyInfobox|gradient=45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F|title1=[[File:Eldritch.jpg|45x45px]] [[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]]|image1=[[File:Eldritch.jpg]]|caption1=One of the most classic difficulties.|class=5|rating=39|type=Classic Difficulty
+Humanly Impossible Difficulty|previous=[[File:Mischievous.png|frameless|32x32px]] [[Mischievous]]|next={{Class7Difficulties|Monstrous}} [[Monstrous]]|decal_id=13838872239|creator(s)=Auserfromrobloxx (revamper)
+
+TwiistD4our (Creator)|short_name=Eldrtch.|original_creator(s)=TwiistD4our|previous_creator(s)=|date_added=9/27/2020|revamp_date=12/14/22|hex_color=922D1F, D92710, D2B747, 0C0764|class_range=Mid}}
+==What is [[File:Eldritch.jpg|45x45px]] [[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]]?                            ==
+
+[[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]] is a difficulty before {{Class7Difficulties|Monstrous}} [[Monstrous]], but succeeding the difficulty [[File:Mischievous.png|frameless|32x32px]] [[Mischievous]]. To beat this difficulty you must need skills that no human has. You also must complete insanely difficult jumps, and tight areas that you must climb out of. The difficulty is designed to be difficult and hard to follow, as sometimes the confusing mechanics and unknown paths can make it hard to find the right thing to do. Being the last difficulty in Mid class 5 on the Main Difficulty chart, this difficulty is classic and serves a nostalgic service in the chart. 
+
+==What is [[File:Eldritch.jpg|45x45px]] [[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]]'s icon?==
+[[File:Eldritch.jpg|center|150x150px]]The icon of [[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]] is a mess of blue, red, yellow, and orange colors. The icon also looks like a fractal, and you can see a pattern in the image.
+
+==[[File:Eldritch.jpg|45x45px]] '''[[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]]'''<nowiki/>'s Obstacles==
+In [[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]] difficulty, obstacles here are much more difficult than Malicious, but sensibly easier than {{Class7Difficulties|Monstrous}} [[Monstrous]]. A good example is Chaotic Tower F10 (-ish), but looks a bit more physically agreeable than Monstrous. The catch is that all these obstacles must be obscure or just a mushy collage of new and artistic builds and physics glitches. If you cannot follow this catch, than these obstacles are basically templates for you to modify and make more unique.
+
+*13.6 to 13.9 stud wraps
+*14-14.9 stud jumps (Unclimbable)
+*14.5-15 stud jumps (Climbable)
+*1x6.3-1x6.5 stud wrap stick-outs
+*1.5-1.6 stud truss flick on an insta-brick
+
+== Towers with [[File:Eldritch.jpg|45x45px]] '''[[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]]''' ==
+
+=== Towers in <span style="background:linear-gradient(45deg,#922D1F, #D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span> difficulty ===
+
+* [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Monolith of Wrist Tiring] (QToN Ring 5)
+
+=== Towers with [[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]] difficulty ===
+
+* None currently. If you see one, please list it here!
+
+*
+
+==Trivia== 
+*Oopsies, the first [[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]] portal effect has a watermark! Watch out! 😱
+*This difficulty was revamped because of an empty looking page.
+*This difficulty is a classic difficulty.
+
+== After beating [[File:Eldritch.jpg|45x45px]] '''[[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]]''' ==
+You actually beat [[ᴇʟᴅʀɪᴛᴄʜ|<span style="background:linear-gradient(45deg,#922D1F,
+#D92710,#D2B747,#0C0764,#D2B747,#D92710,#922D1F); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''ᴇʟᴅʀɪᴛᴄʜ'''</span>]]! This difficulty is extremely difficult, so good job! There should be a break room after this difficulty, because you have beaten one of the most confusing and classic difficulties in Class 7! Take your time in resting, there isn't a rush. Just think of what you've done so far, and how you can continue. I'll see you in {{Class7Difficulties|Monstrous}} [[Monstrous]]!
+
+<br />
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 5]]
+[[Category:Classic]]

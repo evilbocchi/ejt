@@ -1,0 +1,111 @@
+{{Former Class Finale|reason=Vicious was added, as well as TDEx which moved this difficulty to the middle of class 5.}}{{Humanly Impossible}}{{Classic}}
+
+{{NewDifficultyInfobox
+|image1=DESTRUCTIVE.png
+|class=Class 5
+|previous=[[File:Apocalyptic.png|30px]] [[Apocalyptic]]
+|next=[[File:Dissonant Revamp.jpg|30px]] [[Dissonant]]
+|class_range=Low
+|creator(s)=Eisenhover
+|previous_class(es)=Class 5,Class 6
+|original_name=Suffer in War!
+|date_added=9/18/20
+|title1=Destructive|caption1=feel good inc.|type=Normal|rating=36|alt_previous=[[File:Eternaloutrage.jpg|30px]] [[Eternal Outrage]]|decal_id=17359617397}}
+
+== What is '''Destructive'''? ==
+'''Destructive''' is a Class 5 difficulty. Good news! You've finally gotten a break from wallwalks and killbricks. That seems great, but there's bad news. This difficulty is MUCH harder than [[w:c:jtohs-hardest-towers:Malicious|Malicious]]. Your fate has been sealed by multiple mid-air corner clips, and other various unknown glitches. One wrong frame-perfect jump, and you can either get flung or thrown onto the bottom instant killbrick! Many towers of this difficulty will always have mid-air corner clips. (97% GUARANTEED) Now good luck getting through this, because you're going to need a lot of skill and a ton of luck on your side.
+
+This difficulty is weird, indeed, because it does not follow Class 5 standard. Destructive is harder than it's neighboring difficulty, [[Apocalyptic]], though easier than [[Dissonant]]. Also, this is the last difficulty before killbrick-spam gets out of control.. If you want to see harder difficulties, get ready for absolute '''''P A I N.'''''
+
+== Icon Representation ==
+The icon is what seems to be the aftermath of raging and destructive storms with deadly war in the background. It is extremely large and is about to engulf miles of land within the explosion of a massive atomic bomb destruction. Blocking the entire scenery, with a red haze, is a black ">:3" that's slightly transparent. This can correlate to the name 'destructive' in some ways. 
+
+== Obstacles In Destructive ==
+<tabber>
+|-|
+Low=
+__NOEDITSECTION__
+=== Low Destructive (easier than normal) ===
+* 13.4 Stud Wrap
+* 14 Stud Long Jump
+* 24 Stud Glitch Wrap
+* 17 Stud High Jump
+* 20 Stud Lag Jump
+* Short MACC
+|-|
+Mid=
+__NOEDITSECTION__
+=== Mid Destructive ===
+* 13.9 Stud Wrap
+* 15 Stud Long Jump
+* 26 Stud Glitch Wrap
+* 18 Stud High Jump
+* 20.98 Stud Lag Jump
+* Medium MACC
+|-|
+Mid-High=
+__NOEDITSECTION__
+=== Mid-High Destructive ===
+* 15 Stud Wrap
+* 16 Stud Long Jump
+* 19.7 Stud Glitch Wrap
+* 22 Stud High Jump
+* 21 Stud Lag Jump
+* Pretty Long MACC
+|-|
+High=
+__NOEDITSECTION__
+=== High Destructive ===
+* 16 Stud Wrap
+* 17 Stud Long Jump
+* 21 Stud Glitch Wrap
+* 22.5 Stud High Jump
+* 22 Stud Lag Jump
+* Long MACC
+|-|
+Borderline=
+__NOEDITSECTION__
+=== Borderline Destructive (harder than normal) ===
+* 16.3 Stud Wrap
+* 17.3 Stud Long Jump
+* 21.3 Stud Glitch Wrap
+* 22.6 Stud High Jump
+* 22.2 Stud Lag Jump
+* Extremely Long MACC
+* Beat all previous towers in QToN but the motivation meter says black (You will see a similar obstacle in Arcane.
+</tabber>
+
+== Towers In Destructive ==
+Destructive is such an "unpopular" difficulty, that there are no towers that are brave enough to even be in this category. Except for one...
+
+* [[Tower of The Grueling Climb]]
+
+== Trivia ==
+* This Difficulty is much older than any other difficulty, being 3 years old.
+* The icon for this difficulty was meant for [[File:MalicatiousNew.png|frameless|25x25px]] [[User blog:EpicTheGamer2014/Malicatious|Malicatious]].
+**The name of the image for Destructive is a different difficulty,  [[File:CataclysmNewest.png|frameless|25x25px]] [[Cataclysm]].
+**This difficulty's icon was made using Suffer In Void's icon, Another deleted difficultly.
+**Speaking of deletion, this difficulty has survived 3 deleting purges.
+
+*This difficulty has the record for how many difficulty chart towers that ignore/forget this difficulty.
+
+== Continuing From This Point ==
+Wait... you made it? Well, it only gets worse from here, and even more destructive. For now, please proceed onto [[Dissonant]].
+
+You can call the next difficulty a break, If you even really think you can. '''Traveler, You are a fool if you proceed further.'''
+
+
+
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+__NOINDEX__
+__NONEWSECTIONLINK__
+[[Category:Class 5]]
+[[Category:Emoticon Difficulties]]
+[[Category:Difficulty]]
+[[Category:Difficulties]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Humanly Impossible]]
+[[Category:Old]]

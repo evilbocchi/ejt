@@ -1,0 +1,170 @@
+<div style="background:#00000022;padding:1em;border-left:15px solid #500000">
+<div style="--theme-accent-color:-webkit-linear-gradient(#000000, #ffffff)">
+<center><font size="5">« [[File:Catch another alternate.webp|40px]] [[Catch]] | [[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|40px]] '''IMPOSSIBLE.EXE''' |  [[File:Elite phase1.png|40px]] [[Exploitist Elite]] »</font></center><br>
+{{NoticeScrollboxNew|Notices=
+{{Bad Grammar}}{{Classic}}{{Physically Impossible}}}}{{NewDifficultyInfobox|gradient=#000000,#ffffff|image1=<gallery>
+1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png| Current
+OriginalIMPOSSIBLEEXEIcon.png| Original
+</gallery>|class=[[:Category:Class 10|Class 10]]|previous=[[File:Catch another alternate.webp|30px]] [[Catch]] (109)|next=[[File:Elite phase1.png|30px]] [[Exploitist Elite]] (110)|decal_id=Current: [https://create.roblox.com/store/asset/116022831859919/IMPOSSIBLEEXE 116022831859919]<br>Original: [https://create.roblox.com/store/asset/6755810461/IMPOSSIBLEEXE 6755810461]|creator(s)=*[[User:Astrominal|Astrominal]] (Creator) ==
+*[[User:RobloxBob9001|RobloxBob9001]] (Original creator)|full_name=IMPOSSIBLE.EXE|date_added=*Page: 1 February 2021
+*Original page: 5 August 2020‎|hex_color=|title1=<big><big><span style="background:linear-gradient(180deg,#800000,#800000); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''IMPOSSIBLE.EXE'''</span></big></big>|type=Sub-Difficulty|rating=109.5|class_range=Mid|sub_difficulty(ies)=|alt_previous=|short_name=I.E|alt_next=|main_difficulty=[[File:Catch another alternate.webp|40px]] [[Catch]] (109)|official_music(s)=[https://www.youtube.com/watch?v=IhyyiJdj9h0&ab_channel=GuessItNi GDHexhammer - Dark Matter]|original_type=Nomal|caption1=Nevermind, It's impossible but more impossible???}}
+
+== What is IMPOSSIBLE.EXE? ==
+[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|30x30px]] <span style="background:linear-gradient(180deg,#000000,#FFFFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''IMPOSSIBLE.EXE'''</span> ('''I.E''') is a '''[[:Category:Class 10|Class 10]]''' (formerly [[:Category:Class 15|'''Class 15''']]) [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] located at <span style="background:linear-gradient(180deg,#9fa83e,#666B2C); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Middle'''</span> range. '''I.E''' can be classified as '''[[:Category:Physically Impossible|Physically Impossible]]''' (formerly [[:Category:Unbuildable|'''Unbuildable''']]) difficulty, meaning this classification's difficulties are literally impossible to complete by a human or Tool-Assisted Speedrun ('''TAS'''), by the complexity the physics and obstacles are, this is the reason is classified as '''[[:Category:Physically Impossible|Physically Impossible]]''', ranging from [[File:UnthinkableSquare.png|25x25px]] [[UNTHINKABLE]] to [[File:Pinnacle.png|25x25px]] [[Pinnacle]]. For the obstacles are reaching beyond 32-bit inter limit as studs (2147483648 studs away from spawn <sup>not counting negative from spawn</sup>).
+
+[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|30x30px]] <span style="background:linear-gradient(180deg,#000000,#FFFFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''IMPOSSIBLE.EXE'''</span> was originally made by [[User:RobloxBob9001|'''''RobloxBob9001''''']] at [[w:c:jtohs-impossible-towers|'''JToH's Impossible Towers''']] ('''JIT''') and moved to [[Eternal Joke Towers (EJT) Wiki|'''Eternal Joke Towers''']] by [[User:Astrominal|'''''Astrominal''''']], Speaking of '''JIT'''. '''JIT'''<nowiki/>'s difficulty chart is very different that the actual difficulty charts, '''JIT''' difficulty chart is classified by impossible levels[[w:c:jtohs-impossible-towers:Impossible Levels|<sup>[1]</sup>]] (level 1 to 12), take an example of Impossible Level 1[[w:c:jtohs-impossible-towers:Impossible Levels#Level 1 difficulty.|<sup>[2]</sup>]] (IL''n<sup>number</sup>''), the difficulties from this level are above [[File:SquareSupreme.png|25x25px]] [[Supreme]]. As a mention '''I.E''' can be find at IL3[[w:c:jtohs-impossible-towers:Impossible Levels#Level 3 difficulty.|<sup>[3]</sup>]] at peak of the level. As a note, the difficulties don't have icons except names (some icons can be found in [https://www.roblox.com/games/5497307081/ this game]).
+
+[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|30x30px]] <span style="background:linear-gradient(180deg,#000000,#FFFFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''IMPOSSIBLE.EXE'''</span> is in-between [[File:Catch another alternate.webp|25x25px]] [[Catch]] (109) and [[File:Elite phase1.png|25x25px]] [[Exploitist Elite]] (110), with rating of 109.5 and a [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] from [[File:Catch another alternate.webp|25x25px]] [[Catch]]. At '''JIT''' is in-between '''''::::PPPppp'''''[[w:c:jtohs-impossible-towers:Impossible Levels#Level 3 difficulty.|<sup>[4]</sup>]] and '''''d:D'''''[[w:c:jtohs-impossible-towers:Impossible Levels#Level 4:|difficulty <sup>[5]</sup>]].
+
+==<big>''Placement''</big>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 10'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Low'''
+|-
+|[[File:Dynamix.png|50px]]
+|[[Dynamix]]
+|Normal
+|106
+|-
+|[[File:Eshinion Very New.png|50px]]
+|[[Eshinion]]
+|Normal
+|107
+|-
+|[[File:Caught.png|50px]]
+|[[Caught]]
+|Sub-Difficulty
+|107.5
+|-
+|[[File:Static-assets-upload12871821684643010131.jpg|50px]]
+|[[TooAbnormal]]
+|Normal
+|108
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|[[File:Catch another alternate.webp|50px]]
+|[[Catch]]
+|Normal
+|109
+|-
+|[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|50px]]
+|<big>'''IMPOSSIBLE.EXE'''</big>
+|Sub-Difficulty
+|109.5
+|-
+|[[File:Elite phase1.png|50px]]
+|[[Exploitist Elite]]
+|Normal
+|110
+|-
+|[[File:TooTooHard.png|50px]]
+|[[TooTooHard]]
+|Normal
+|111
+|-
+|[[File:Obama Prism Ultimate.png|50px]]
+|[[User blog:EpicTheGamer2014/True Obama Prism|True Obama Prism]]
+|Sub-Difficulty
+|111.5
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
+|-
+|[[File:Zanyte.png|50px]]
+|[[Zany]]
+|Normal
+|112
+|-
+|[[File:Ohnoez.png|50px]]
+|[[Oh Noez!]]
+|Normal
+|113
+|-
+|[[File:Viratical.png|50px]]
+|[[Viratical]]
+|Normal
+|114
+|}
+==''<big>Icon Representation</big>''==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="4" style="text-align:center; width: 1%" |'''<big>''Icon Representation''</big>'''
+|-
+! style="border:5px solid #ffffff; background: #800000;" |Icon
+! style="border:5px solid #ffffff; background: #800000;" |Representation
+! colspan="2" style="border:5px solid #ffffff; background: #800000;" |Dates
+|-
+| style="border:5px solid #ffffff; background: #800000;" |[[File:1DBF82DD-4DE9-4069-AACC-C6C17879D25B.png|center|thumb|180x180px]]
+| style="border:5px solid #ffffff; background: #800000;" |In the background, there is a Dark Gray to Light Gray gradient.
+The symbols in this difficulty's icon are 3 three dark red upside down question marks (¿¿¿), that are slightly glitched in the outline and appear centered in the middle of the picture.
+There is also a noise texture on top of the whole picture and a broken glass texture on top of the icon. 
+This icon possibly serves as a revamp for the old logo, as the old logo was far simple and didn't have much content to offer, unlike the current logo, which has more detail and creativity put to it. 
+| colspan="2"  style="border:5px solid #ffffff; background: #800000;" |16 March 2025
+|-
+| style="border:5px solid #ffffff; background: #800000;" |[[File:OriginalIMPOSSIBLEEXEIcon.png|center|thumb|180x180px]]
+| style="border:5px solid #ffffff; background: #800000;" |<big>'''''This difficulty icon is pretty simple.'''''</big>
+
+The background gradient goes from quite dark to quite light. Or, in other words, it goes from black on top, grey in the middle, and white at the bottom. Because of these specific colors, the icon gradient can be considered a greyscale gradient.
+
+The symbol in this difficulty's icon is three dark red upside down question marks. (¿¿¿) They are found in the middle of the image. These specific upside down question marks also appear in other difficulties such as [[File:Superior2.png|25x25px]] Superior and [[File:UltraInstinct.png|25x25px]] [[Ultra Instinct]], as well as some other ones spread through the chart.
+| style="border:5px solid #ffffff; background: #800000;" |10 November 2020 '''(Eternal Joke Towers)'''
+| style="border:5px solid #ffffff; background: #800000;" |5 August 2020 '''(JToH's Impossible Towers)'''
+|}
+
+==Obstacles==
+{| class="fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Long Jump (Climbable) 
+| style="background-color: #014500;" |7.3 Billion studs. 
+| style="background-color: #336000;" |7.6 Billion studs. 
+| style="background-color: #6d5c00;" |7.9 Billion studs. 
+| style="background-color: #964a00;" |8.2 Billion studs.
+| style="background-color: #5a0000;" |8.5 Billion studs.
+|-
+|Long Jump (Unclimbable) 
+| style="background-color: #014500;" |6.9 Billion studs.
+| style="background-color: #336000;" |7.05 Billion studs. 
+| style="background-color: #6d5c00;" |7.2 Billion studs.
+| style="background-color: #964a00;" |7.35 Billion studs.
+| style="background-color: #5a0000;" |7.5 Billion studs.
+|-
+|Wraparounds 
+| style="background-color: #014500;" |5.3 Billion studs. 
+| style="background-color: #336000;" |5.5 Billion studs. 
+| style="background-color: #6d5c00;" |5.7 Billion studs. 
+| style="background-color: #964a00;" |5.9 Billion studs.
+| style="background-color: #5a0000;" |6.1 Billion studs.
+|-
+|Stickout
+| style="background-color: #014500;" |2.1 Billion x 900 Million<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+| style="background-color: #336000;" |2.25 Billion x 950 Million<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs. 
+| style="background-color: #6d5c00;" |2.4 Billion x 1 Billion<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+| style="background-color: #964a00;" |2.55 Billion x 1.05 Billion<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+| style="background-color: #5a0000;" |2.7 Billion x 1.1 Billion<sup>(x,z axis <sup>(y axis, unlimited)</sup>)</sup> studs.
+|}
+==Towers==
+*N0 - [[w:c:jtohs-impossible-towers:Null 0|Null 0]] (JToH Impossible Towers Wiki)
+*poJDN - pill of JUST DIE NOW (JToH Impossible Towers Wiki) ''(fictional?)''
+*SDnaGCoPD - [[Seriously Definitely not a Great Citadel of Painful Difficulties]]
+*CoMA - [[Citadel of Monstrous Ascension]] (estimated, buildable version)
+*ToII - [[Tower of Impossibly Impossible]] ''(fictional)''
+==Trivia==
+
+*This difficulty was originally made by [[User:RobloxBob9001|'''''RobloxBob9001''''']] at [[w:c:jtohs-impossible-towers|'''JToH's Impossible Towers''']].
+**After a while, [[User:Astrominal|'''''Astrominal''''']] moved to Eternal Joke Towers.
+***After an other while, and for some reason, this page was deleted.
+****After sometime, someone named [[User:Difficulty Creator|'''''Difficulty Creator''''']] revived the page.
+*You can find the original version from JIT '''''[[w:c:jtohs-impossible-towers:Impossible.exe|here]]'''''.
+{{MainDifficultiesNavbox}}

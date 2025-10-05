@@ -1,0 +1,98 @@
+{{NoticeScrollboxNew|Notices={{Classic}}
+{{Unloseable Difficulty}}}}
+{{ArticleTab}}
+{{NewDifficultyInfobox
+|title1=<font color=#7D007D>Unimpossible</font>
+|image1=Unimpossible New.png
+|caption1=Current icon made by [[User:YataDev|Yavenau (YataDev)]].
+|class=[[:Category:Class Negative|Class Negative]]
+|rating=-Rayo(10<sup>100</sup>) 
+|type=Normal
+|previous={{Class-1Difficulties|Negativity}} [[Negativity]] (-(FOOT<sup>10</sup>(10<sup>100</sup>)))
+|next=[[File:FPnew.png|30px]] [[Friendliness]] (-TREE(3))
+|class_range=Low
+|date_added=December 6, 2020
+|creator(s)=[[User:Pootis0|pootis1]]
+|decal_id=Current: [https://create.roblox.com/store/asset/17305257197?externalSource=www Here]<br>Old: [https://create.roblox.com/store/asset/11201826148/Unimpossible Here]<br>Older: [https://create.roblox.com/store/asset/6504290248/Unimpossible Here]<br>Oldest: [https://create.roblox.com/store/asset/15118050883/Unimpossible Here]<br>Original: [https://create.roblox.com/store/asset/9034486108/Unimpossible Here]
+|original_creator(s)=*[[User:Astrominal|Astrominal]]|alt_next=[[File:True Ease (New).webp|30px]] [[True Ease]] (-G<sub>64</sub>)
+|difficulty_range=N/A
+|previous_sub_difficulty(ies)=*{{Class-1Difficulties|Almost Unimpossible|25px}} [[User blog:Oh Noez! Oh Noez!/Almost Unimpossible|Almost Unimpossible]] 
+*{{Class-1Difficulties|Unpossible|25px}} [[User blog:Oh Noez! Oh Noez!/Ununpossible|Ununpossible]]
+|prior_previous=*[[File:Ifinitely-Winsome.png|30px]] [[ifinity]] (-1000)}}
+== What is <span style="color:#7D007D;">'''[[File:Unimpossible New.png|41x41px]] Unimpossible'''</span>?==
+[[File:Unimpossible New.png|41x41px]] <span style="color:#7D007D;">'''Unimpossible'''</span> is the fourth difficulty of the entire [[Main Difficulty Chart|Difficulty Chart]], and is therefore a [[:Category:Class Negative|Class Negative]] difficulty. As its name suggests, this is the complete opposite of impossibility, and is transmaximally easy. You are always completing this difficulty, as with every beyond existence difficulty.
+
+It's the complete antipode of [[File:Skypoint.png|frameless|25x25px]] [[Undefinable]], it also succeeds {{Class-1Difficulties|Negativity|25px}} [[Negativity]], yet precedes [[File:FPnew.png|25px]] [[Friendliness]]. It also contains 2 subs being {{Class-1Difficulties|Almost Unimpossible|25px}} [[User blog:Oh Noez! Oh Noez!/Almost Unimpossible|Almost Unimpossible]], and {{Class-1Difficulties|Unpossible|25px}} [[User blog:Oh Noez! Oh Noez!/Ununpossible|Ununpossible]], even though both of them are now [[Community Difficulty Chart|CDC]] exclusive.                
+==Icon Representation==
+<tabber>
+Current=
+=== Current Icon ===
+<center>[[File:Unimpossible New.png|frameless|104x104px]]</center>
+Unimpossible’s current icon is represented by a thin purple border, with a radial very dark purple to black gradient background, and three purple A’s, each with different amounts of rotation and different placements.
+|-|
+Alternate=
+=== Alternate Icon ===
+<center>[[File:UnimpossibleAlternateAlternate.png|frameless|100x100px]]</center>
+'''Unimpossible'''’s alternate icon is a black icon, with a grey border with many black stripes in the border. There are 3 hand drawn purple A’s, mis-centered.  
+|-|
+Old=
+=== Old Icon ===
+<center>[[File:Unimpossible Old.png|frameless|104x104px]]</center>
+'''Unimpossible'''’s old icon is represented by a very faint black to very dark purple gradient, and 3 light purple A’s.
+|-|
+Older=
+=== Older Icon ===
+<center>[[File:AAA.png|frameless|100x100px]]</center>
+The old icon of this difficulty has a black background. And, on it, there is a text that says "AAA" in dark purple.
+|-|
+Oldest=
+=== Oldest Icon ===
+<center>[[File:Unimpossible.PNG|frameless|100x100px]]</center>
+Unimpossible’s oldest icon is represented by a black icon and 3 vibrant purple A’s, but the only difference between the older and this icon are that the A’s are offcenter, and the icon is not square.
+|-|
+Original=
+=== Original Icon ===
+<center>[[File:TrueCrazy.png|frameless|100x100px]]</center>
+'''Unimpossible'''’s icon has a radial pomegranate to white radial gradient, and the white bit in the middle has two black dots.
+"It's slamo" - Tafgo7162
+</tabber>
+==Towers==
+''Note: This difficulty is unbuildable, so the towers listed below are inaccurate and purely fictional.''
+<tabber>
+Normal=
+===Normal Towers===
+*ToBFA - [[Tower of Beyond Floating A]]
+*FoRI - [https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Floor of Reverse Imposibility]
+*CoUUUUPA - [https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Citadel of Un Un Un UN Possible Ascension]
+*ToEV - [https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Tower of Empty Vacancy]
+*EoAP - [[Edifice of Absolute Possibleness]]
+|-|
+DCTs=
+===Difficulty Chart Towers===
+*{{Class25Difficulties|The Final Difficulty.}} [[Centurion of Infinite Difficulty Demise]] (CoIDD)
+|-|
+Fictional=
+=== Fictional Towers ===
+*Tower of Impossible to Fail (ToItF)
+*Steeple of Three A (SoTA)
+*[[Unimpossible Tower]]
+*Not Even AAAn tower (NEAAAT)
+*[[Tower of Reversed Impossibility]] (ToRI)
+</tabber>
+==Trivia==
+*This was previously owned by [[User:Astrominal|Astrominal]], but was then transferred to vira.
+*This is the first difficulty not to use illogical statements and mind bending tricks.
+*An obstacle section and continuing on section are not to be added due to them being totally pointless.
+==Gallery==
+<gallery widths="276" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#fff" bordercolor="#000" captionsize="large">
+File:Unimpossible New.png|Current icon.
+</gallery>
+For more images of this difficulty, view [[/Gallery|here]].
+
+== Continuing from this point ==
+You can right now skip to [[File:Effortlessless.webp|frameless|24x24px]] [[Effortlessless]] since this is quite a boring journey. But if you really want a 100% completion of the difficulty chart, then just go to [[File:FPnew.png|25px]] [[Friendliness]].{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class Negative]]
+[[Category:Unbuildable]]
+[[Category:Unfailable Difficulties]]
+[[Category:Possible]]

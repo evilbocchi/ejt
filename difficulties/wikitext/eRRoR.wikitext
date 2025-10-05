@@ -1,0 +1,51 @@
+{{DISPLAYTITLE:<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #562424, #ffaeae );-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Error</span>}}
+__NOTOC__
+[[Category:Difficulties]]
+{{NewDifficultyInfobox
+|image1=Error2.png
+|previous=[[nil|<span style="color:#5e5e62">'''nil'''</span>]]
+|next=[[Literal|<span style="color:#203a56">'''Literal'''</span>]]
+|title1=
+|rating=15
+|hex_color=<span style="color:#562424>#562424</span> to <span style="color:#ffaeae>#ffaeae</span>
+|rgb_color=<span style="color:#562424>86, 36, 36</span> to <span style="color:#ffaeae>255, 174, 174</span>|date_added=7/13/2019}}
+==What is <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #562424, #ffaeae );-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Error'''</span>?==
+<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #562424, #ffaeae );-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Error'''</span>, previously stylized as <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, #562424, #ffaeae );-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''eRRoR'''</span>, is a difficulty that is represented with Cocoa [<span style="color:#562424">86, 36, 36</span>] on the bottom, fading into Salmon [<span style="color:#ffaeae">255, 174, 174</span>] on the top. It is assigned to towers that are easier than [[Literal|<span style="color:#203a56">'''Literal'''</span>]], but harder than [[nil|<span style="color:#5e5e62">'''nil'''</span>]]. 
+
+Error is differentiated from nil in that individual obstacles are quite difficult to perform even by top players, making TAS a very helpful tool for verifying a tower of this difficulty. Because of this, all-jumping a tower of this difficulty is an extremely impressive feat to be done by one person, requiring days or even weeks of dedication to perform because of the sheer difficulty of performing individual jumps in these towers. Towers that are Error are almost always insanely punishing and inhumanely long, where failing any part of the tower will immediately make you lose all of your progress. 
+
+This difficulty has been adopted by the Top Towers Community and Caleb's Soul Crushing Domain to represent towers harder than [[Citadel of Void]]. By community opinion, Error serves as a classification of towers where doing every single jump individually using only checkpoints/save-states without segments from other players is an impressive feat.
+
+==Towers==
+''Towers in '''bold''' are all-jumped.''
+*'''BToSF - [[Buffed Tower of Spiralling Fates]] (Baseline Error, 15.00)'''
+*'''ToAC - [[Tower of Absolute Corruption]] (Bottom Error)'''
+*ToGNG - [[Tower of Gunga No Ginga]] (Bottom Error?)
+*OoFJ - [[Obelisk of Frendly Jumpng]] (Bottom-Low Error?)
+*CoVR - [[Citadel of Void Rush]] (Low Error, 15.25)
+*'''NEPG - [[Not Even Playable Gameplay]] (Low Error)'''
+*ToWAWSH - [[Tower of Why Are We Still Here]] (Low-Mid Error?)
+*ToJG [V1] - [[Tower of Jungle Gyms]] [''V1''] (Low-Mid Error, 15.40)
+*TA - [[The Absolute]] (Mid Error?)
+*ToSC - [[Tower of Silent Circles]] (Mid Error??)
+*'''ToJG [V2]- [[Tower of Jungle Gyms]] [''V2''] (High Error, 15.75)'''
+*BToZS - [[Buffed Tower of Zen Surplus]] (High-Peak Error?)
+*ToVL:B - [https://www.roblox.com/games/90743391236959/btovl-holder Tower of Vague Luminescence: Buffed] (Peak Error?)
+*ToM - [https://www.roblox.com/games/18409138550/Tower-of-Misery Tower of Misery] (Peak Error?)
+
+=== Unclassified ===
+
+* OoV - [[Obelisk of Void]]
+*GAoEN - [[Grand Abomination of Existencial Nihilism]]
+
+==Trivia==  
+*This difficulty is from a JToH fangame called [https://www.roblox.com/games/3060600206/GMTL-Refined GMTL].{{cite}}
+**This difficulty was originally reserved for [[The Absolute]] from GMTL, just like how [[nil|<span style="color:#5e5e62">'''nil'''</span>]] was originally reserved for [[Citadel of Void]].
+*This difficulty used to be placed between [[nil|<span style="color:#5e5e62">'''nil'''</span>]] and [[WHY|<span style="color:black">'''WHY'''</span>]], until [[Literal|<span style="color:#203a56">'''Literal'''</span>]] was introduced.
+*This difficulty arguably is as hard as the arbitrary 20th Tier.
+*This difficulty used to be a de-facto sub-difficulty of [[nil|<span style="color:#5e5e62">'''nil'''</span>]].
+**That's why some difficulty chart towers had it as a sub-floor after nil.
+**However, it was changed when obbyists began beating harder towers.
+***To this day, there are people who still argue Error as a sub-difficulty of [[nil|<span style="color:#5e5e62">'''nil'''</span>]], but that simply isn't true, at least not anymore. There are also people who argue [[Literal|<span style="color:#203a56">'''Literal'''</span>]] as a sub-difficulty of Error or a sub-difficulty of nil, but as the skill ceiling increases, that wouldn't be true either.
+
+[[Category:Error]]

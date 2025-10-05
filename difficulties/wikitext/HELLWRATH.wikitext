@@ -1,0 +1,218 @@
+{{NoticeScrollboxNew|Notices={{Virus Difficulty}}{{Large Page|reason=Over 19K bytes of raw, unfiltered, ERRORness.}}}}{{Physically Impossible}}
+
+== What is [[File:HELLWRATH.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,#3366ff, #3366ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''HELLWRATH'''</span><span style="background:linear-gradient(90deg,#3366ff, #3366ff; -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''?'''</span> ==
+{{NewDifficultyInfobox
+|title1 = <span style="
+  background: -webkit-linear-gradient(#1a53ff, #1a53ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">HELLWRATH</span>
+|image1 = HELLWRATH.png
+|caption1 = WELCOME TO THE WRATH OF HELL.
+|class = [[:Category:Class 9|Class 9]]
+|previous = [[File:Fs.de.jpg|30px]] [[Free-smiley.de]]
+|next = [[File:LOOP (NEW).jpg|30px]] [[LOOP]]
+|main_difficulty= 
+|decal_id = 89446861881779
+|original_main_difficulty = 
+|date_added = 12/01/2022
+|creator(s)=YataDev|date_removed=Not removed, atleast yet.|previous_main_difficulty(ies)=|full_name=HELLWRATH|rbg_color=|prior_previous=|prior_next=|type=Normal|original_class=Class 17|removal_reason=It isn't deleted yet cmon (pls nugly)|original_name=Deathwrath?|rating=102|class_range=High|sub_difficulty(ies)=[[File:Hellasious.png|30px]] [[Hellacious]]|previous_class(es)=Class 14|previous_type(s)=Mythical Difficulty|difficulty_range=Baseline to Errorline}}[[File:HELLWRATH.png|frameless|30x30px]] <span style="background:linear-gradient(90deg,#3366ff, #3366ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''HELLWRATH'''</span> is a '''Class 9''' difficulty, coming after [[File:Fs.de.jpg|31x31px]] '''[[Free-smiley.de]]''', and before [[File:LOOP (NEW).jpg|frameless|30x30px]] [[LOOP]]. It also has a sub-difficulty called [[File:Hellasious.png|30px]] [[Hellacious]]. It uses similar logic to [[File:Errorisation.png|30x30px]] '''[[Errorisation]],''' but it's way harder than it. It requires godlike obby skill, exploiting skill, and mechanical skill, but even with those abilities, you'll never get close to beating even the easiest obstacles of this, because as you heard already - it's a '''Class 9''' difficulty. It's simply way too hard to beat due to it's obstacles and what the difficulty does itself. 
+
+The winpad is invisible, CanCollide false, and is only 0.05x0.05x0.05 studs in size, and the position cannot be found with scripts, as it will ban you. The position of the winpad is randomized aswell, and can be from 1k studs to 10m studs away from the spawn. You should've stayed in the lower classes, but now you will see your fate. 
+==Icon Representation ==
+
+===[[File:HELLWRATH.png|frameless|45x45px]] Current===
+The icon is a giant evil face of anger, which at the same time looks like it's smiling, or simply - a >_<. The background is a really cursed error code made in Photomosh. 
+
+===[[File:Hellwrathold.webp|frameless|45x45px]]  Old===
+The icon is... comparable to the current one, but worse. The >_< is harder to notice, and there are white edges that theoretically border the reality. 
+
+===[[File:KILL.jpg|frameless|45x45px]] '''HELLWRATH - Skyline'''===
+Let's say, it's the exact same icon as the default one, but instead it's red and glows more. You can tell that this difficulty is tired of you...
+
+===[[File:ALT.jpg|frameless|45x45px]] HELLWRATH - Errorline===
+Okay, this is HELLWRATH Skyline version, but it's green, even more cursed with higher glowing and contrast. It was edited in Photomosh.
+
+===[[File:IDKATTHISPOINT.jpg|frameless|45x45px]] HELLWRATH - Class 17 version (Unused)===
+This icon is currently unused. It's a glitched purple >_<, it's pixelating, and you can compare it to a Thanos snap.<br />
+==Catches== 
+
+*You cannot detect the winpad's position with exploits.
+*You cannot teleport yourself with exploits either, you can change your velocity though.
+*You can't change your Walkspeed nor Jumppower.
+*You don't have any access to the serverside section of the console.
+*You can't change any properties of StarterPlayer.
+
+The difficulty automatically detects if you broke any of those catches, if you attempt doing those you will get permabanned.
+
+==Injection Types==
+<span style="background:linear-gradient(90deg,#3366ff, #3366ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''HELLWRATH'''</span> is a difficulty that will instantly get access to all your data and computer upon touching the portal to it or simply entering an obby of this difficulty. Despite it having access to all your data, IP Adrresses, and password, it will only inject viruses and errors into your device, and if you're mobile then you're screwed. Those are the types of errors it might inject into your computer. 
+
+'''Names might be weird but who asked''' 
+
+*'''Window Popupper''' is possibly the most simple virus, as it only makes fake errors and random windows open up, and so it could easily be blocked by a decent anti-virus.
+*'''System Overloader''' will overload your system causing you to have heavy lag and could easily crash your pc even, even to irreparable damage. However it could be slowed down or even stopped by a really good anti-virus
+*'''System Overheater''' is a really dangerous one, however it appears only in '''Peak''' and '''Skyline''' '''HELLWRATH''', it's still really dangerous, it could even put your own device on fire.
+*'''File Deleter''' and no, it doesn't delete just some random images and stuff, it deletes important files that make your device functional, even one file removed from it could destroy your PC to irreparable damage, only appears in '''Skyline HELLWRATH'''.
+*'''Screen Distorter''' and it's probably the only virus that doesn't attack your PC, but your screen that interrupts your gameplay by a lot, could easily be stopped though.
+*'''Noise Player''', this doesn't just play quiet sounds. It even plays deafening and loud sounds that could burn out your speakers. Can be easily be prevented with a great antivirus. Gets louder depending on your difficulty position. (Baseline-Errorline)
+*Add more, I guess.
+
+==Obstacles of this difficulty==
+
+===Obstacle Introduction===
+Oh yeah, the most important part... the obstacles! You can't beat this difficulty AT ALL without beating the obstacles, which you definitely won't beat, won't even be close to. Beating those incomprehensibly large obstacles will sure destroy you, together with all those viruses in your device, huh? Well... let's see if you can pull out some godly exploits at the same time doing those obstacles and surviving the errors. 
+
+But wait! You can't beat those obstacles without having any knowledge how to beat them!
+
+===Obstacle Explanation===
+First of all, you have to know how to exploit, if you don't - there's no way you're beating this difficulty. You need to know how to evade getting permbanned or affected with the catches and injections. You need a strong PC, and a really good anti-virus, but like REALLY strong one. 
+
+After you do that, you'll need to know how to use your computer to delete the viruses from your computer. The anti-virus won't do everything for you, sometimes you'll have to do it manually. Every obstacles are different, some are in-game ones, that you need to beat with exploits, you cannot teleport! You have to change your velocity to land here. You might be able to beat Low '''HELLWRATH''' at this point, but after it, it's get more intense. 
+
+I will not explain every obstacle, figure it out yourself, and find a way out, you got the most important information to beat this difficulty.
+
+===Baseline [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH===
+
+*Do a 45K stud jump on a 0.1 stud tightrope, without using any keys or touching the screen.
+*Fling yourself 500M studs without crashing the game and overloading your computer due to errors.
+*Walk on a 1K stud insta-kill brick which is CanCollide false, and every 60 seconds has a 95% chance to teleport you to the beginning.
+*Vandalize every JJT page in 0.1 seconds, at the same time beat entire JToH buffed to class 10 in 25 seconds while beating Geometry Dash level "Minusclub" without dying.
+*Do a 25k stud cylinder instaban wrap with insta perm IP ban spinner at 1M RPM.
+*Do a 900M stud wrap while doing c.
+
+===Bottom [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH===
+
+*Do a 93K stud jump on a 0.08 stud tightrope, without using any keys or touching the screen.
+*Fling yourself 700M studs without crashing the game and overloading your computer due to errors.
+*Walk on a 2K stud insta-kill brick which is CanCollide false, and every 40 seconds has a 98% chance to teleport you to the beginning.
+*Vandalize every JJT page in 0.01 seconds, at the same time beat entire JToH in 15 seconds while beating Geometry Dash level "Wistfully" (1p).
+*Do a 69k stud cylinder instaban wrap with insta perm IP ban spinner at 1M RPM.
+*Do a 900M stud wrap with insta perm IP ban spinner at 100K RPM.
+
+===Low [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH===
+
+*Survive serverside being overloaded with code slowing down your game
+*Survive a huge ton amount of errors (like in [[File:Errorisation.png|30x30px]] '''[[Errorisation]])''' without it destroying your computer.
+*Do a 150K stud jump on a 0.05 stud tightrope, without using any keys or touching the screen.
+*Fling yourself 800M studs without crashing the game and overloading your computer due to errors.
+*Walk on a 10K stud insta-kill brick which is CanCollide false, and every 30 seconds has a 99% chance to teleport you to the beginning.
+===Mid [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH===
+
+*Do every Low '''HELLWRATH''' obstacle in 5 minutes.
+*Do a 450K stud jump on a 0.025 stud tightrope, without using any keys or touching the screen.
+*Fling yourself '''''1B''''' studs without crashing the game and overloading your computer due to errors.
+*Walk on a 250k stud insta-kill brick which is CanCollide false, and every 5 seconds has a 99.54% chance to teleport you to the beginning of the game and a 84.62% chance to ban you from the game.
+
+===High [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH===
+The real suffering starts here, good luck.
+
+*Do every Low and Mid '''HELLWRATH''' obstacle in 1 minutes, while several mobile game ads are popping up on your screen.
+*Do a 6.234M stud jump while on a 0.00001 stud tightrope, without using any keys while RickRolls pop up on your screen.
+*Fling yourself exactly pi*100M studs without crashing the game and overloading your computer due to errors.
+*Walk on a 2.667M stud insta-kill brick which is CanCollide false, rotates at 10M RPM, and every 1 second has a 99.943% chance to teleport you to the beginning of the game and a 93% chance to ban you from the game.
+
+===Peak [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH===
+Peak HELLWRATH is going to be split into Low to High, with '''High Peak''', which consists almost the hardest obstacles of the entire difficulty, good luck mate.
+
+==== Low Peak [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH====
+
+*Do all Low, Mid and HIGH '''HELLWRATH''' obstacle in 10 seconds, while several ads are popping on your screen and your computer is BURNING.
+*Do a 1B stud jump on a 0.000000001552 stud tightrope, without using any keys and in the same rebeating ToM buffed to [[File:Errorisation.png|30x30px]] '''[[Errorisation]].'''
+*Fling yourself exactly ((pi^e)/i)*10M studs without crashing the game, and overloading your computer due to errors, while not trying to get cancelled on Twitter because of an argument
+*Walk on a 6.2B stud insta-kill brick which is CanCollide false, rotates at light speed, and every 0.21 second has a 99.9999999623626% chance to teleport you to the beginning of the game and a 99.99% chance to ban you from the game.
+
+====Mid Peak [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH====
+
+*Beat '''Geometry Dash''' level BALLASTIC WISTFULLY in the first attempt, while rebeating every HIGH '''HELLWRATH''' obstacle in 1.5 minutes, in the same time arguing on Twitter with 25 people and winning the argument.
+*Beat a '''Roblox Bedwars''' Bed Royale round in 0.52 seconds, at the same time rebeating '''Citadel of Void''' in 0.434s, and doing all HIGH '''HELLWRATH obstacles'''
+*Vandalise every JJT page in 0.0001 seconds, at the same time beat entire JToH in 1 second and completing every Geometry Dash Extreme Demon, uber buffed to ballistic wistfully.
+
+====High Peak [[File:HELLWRATH.png|frameless|30x30px]] HELLWRATH====
+
+*Rebeat all Low, Mid, High  '''HELLWRATH''' obstacle in a timesphere of 1 seconds, while several ads are popping on your screen and your computer keeps opening the website every 0.0001 seconds, while your computer is also burning.
+*Fling yourself exactly pi^pi^pi^pi (you are allowed to change your speed) studs without crashing the game, at the same time arguing with cafe'ers on Transformice cafe without getting warned by a mod, and also your PC is burning.
+*Walk on a 1T stud  insta-kill brick which is CanCollide false, rotates at the speed of light and moves around, and every 0.001 seconds has a 99.9999999962 chance to teleport you to the beginning of the tower, and a 99.99999% chance to ban you.
+
+=== Skyline [[File:KILL.jpg|frameless|30x30px]] HELLWRATH===
+'''You're not supposed to be here, it's too hard and you were never supposed to reach Low HELLWRATH, SO WHY ARE YOU HERE?!''' I'll make sure to destroy you...[[File:KILL.jpg|alt=|right|frameless|160x160px]]
+
+*Rebeat all obstacles from Low to Peak '''HELLWRATH,''' you have only 1 minute to beat all of them, and you're getting several ads on your screen, and the server is overwhelmed with errors
+*Fling yourself i^i^pi^pi^^3 (speed changing is allowed) studs without crashing the game, at the same time arguing on Cafe about why Transformice moderators suck without getting banned by them. Also your PC is still burning.
+
+* Walk on a 10T stud insta-kill brick which is CanCollide false, rotates at the speed of light and moves around at the same time you're in R15 and every 0.0001 second has a 99.999999999999969 chance to teleport you to the beginning of the tower, and a 99.9999999999% chance to ban you.
+*Beat all JToH towers in 1 second at the same time beating 3 Geometry Dash levels. Also your PC is burning.
+
+
+'''''Why is this not the end yet?'''''
+
+===Errorline [[File:ALT.jpg|frameless|30x30px]] HELLWRATH===
+'',,this doesn't make any sense anymore there can't be anything above skyline hellwrath why does it exist?!!?1"''
+
+'''Okay, you seriously angered me, like SERIOUSLY angered me. i̶l̶l̸ ̶m̵a̶k̸e̵ ̶y̸o̴u̸ ̵r̸e̵g̷r̵e̷t̸ ̴y̴o̶u̸r̵ ̸l̸i̵f̸e̸ ̵c̶h̴o̴i̷c̸e̷s̵'''
+
+*Rebeat all obstacles '''Skyline HELLWRATH''' obstacle, you have only 5 minutes to beat all of them, and you're getting several ads on your screen, and the server is overwhelmed with errors and you keep getting flung.
+*Beat all JToH towers in 0.33 seconds at the same time beating CYCLOLCYC. Also your PC is burning at 1000C.[[File:ALT.jpg|alt=|right|frameless|160x160px]]
+*Walk on a 100T stud insta-kill brick which is cancollide false, rotates at the speed of light and moves around at the same time you're in R15 and every 0.00001 second has a 99.99999999999999969 chance to teleport you to the beginning of the tower, and a 99.99999999999943% chance to ban you from Roblox.
+*Rebeat all Class 12 difficulties at the same time doing '''High PEAK HELLWRATH'''
+* Beat Yata in a Transformice deathmatch.
+*Fling yourself 3^^^^3 (tp'ing and speed changing are allowed) studs without crashing the game, at the same time arguing with cafe'ers on Transformice cafe without getting warned by a mod, and also your PC is burning, and you're defending yourself in a Twitter argument.
+* Obastacles in [[KAPHEE TEZ|KAPHEETEZ]], such as a 50M X 100M stickout
+
+== Towers of this Difficulty==
+Towers of this difficulty are unbuildable, like every Class 14 difficulty towers, you can't also break computers and inject viruses with scripting, so you shouldn't expect any to come, you can only make fictional ones.
+
+*Tower of Game-Breaking Injections [ToGI] ['''Low HELLWRATH]'''
+*Tower of Computer Breaking Errors (ToCBE)  ['''Mid HELLWRATH''']
+*Tower of Fatal Computer Breaking (ToFCB)  ['''High HELLWRATH''']
+* Tower of Wrath of The Errors [ToWoTE] ['''Low Peak HELLWRATH]'''
+*Tower of Unavoidable Fatal  Approaches [ToUFA] ['''High Peak HELLWRATH''']
+*Tower of True Fatal Fate [ToTFF] ['''Skyline HELLWRATH''']
+
+==Difficulty Icons==
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#ffffff" bordercolor="#000000" captionsize="large">
+File:HELLWRATH.png|Current Icon
+File:KILL.jpg|HELLWRATH at Skyline
+File:ALT.jpg|HELLWRATH at Errorline
+File:IDKATTHISPOINT.jpg|Unused (prob for now)
+File:Hellwrathold.webp|Old Icon
+File:Wrathnight.png|Old Icon of DeathWrath (inspiration from this difficulty)
+File:Deathwrath.png|Hyperverted DeathWrath (Scrapped due to DeathWrath getting deleted)
+</gallery>
+
+==Trivia== 
+
+*This difficulty uses computer-breaking glitches that can break your PC that it can even be irreparable, just like [[File:Errorisation.png|30x30px]] '''[[Errorisation]].'''
+* This difficulty has a similar name to a difficulty called '''[[DeathWrath]]''', and was supposed to have the same design that it has, but YataDev instead decided to make it a >_< on an crazy cursed background. It is also inspired by the page [[File:Errorisation.png|30x30px]] '''[[Errorisation]], YataDev's''' first difficulty.
+*'''HELLWRATH''' was meant to become a '''Legendary Difficulty''', however it failed to become one, it still became a '''Mythical Difficulty'''.
+**It then became a '''Fabled Difficulty''' for a unknown reason.
+***It then lost it probably because it didn't need to be a fabled.
+****It them became Fabled again for an unknown reason.
+*****It then lost Fabled once again.
+*'''Yatadev''' thinks this is his best difficulty.
+*This is (probably) one of the only difficulties that have obstacles above '''Skyline'''
+**Many difficulties now have obstacles go to "Peripheral" which is above Skyline.
+*All the icons were made in Photomosh.<br />
+
+== Endings==
+===<span style="background:linear-gradient(90deg,#00ff04,#00ff04); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Good Ending'''</span>===
+You managed to succesfully beat '''HELLWRATH''', defeated the powerful computer-breaking errors, and the powerful obstacles. Your journey obviously doesn't end there though, there is a TON of difficulties before your final challenge.
+
+===<span style="background:linear-gradient(90deg,#ff000a,#d80008); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Bad Ending'''</span>===
+"Seriously? Did you flat brain seriously thought you would be capable of beating a difficulty with those kind of obstacles, and errors? You are very foolish, but it's your fault this is your fate. This might be a life lesson, except you are gone now."
+
+===<span style="background:linear-gradient(90deg,#00ffec,#00ffec); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''True Ending'''</span>===
+You managed to beat '''HELLWRATH''', but you didn't leave. You decide to face your enemy again, but it's already defeated. You noticed a bright crystal, you decided to take it. Maybe you will need it to beat stronger difficulties. But it's time to go to the next difficulty, you can't stay here forever. 
+
+===Another Ending===
+You managed to beat '''HELLWRATH (the class 17 version). TBD'''
+
+
+Anyways, if you did get the Good or True endings, go to either [[File:Hellasious.png|30px]] [[Hellacious]] or [[File:LOOP (NEW).jpg|frameless|30x30px]] [[LOOP]].
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 14]]
+[[Category:Physically Impossible]]
+[[Category:Variations of Hell]]
+[[Category:Essay pages]]¡
+[[Category:Former Mythical Difficulties]]

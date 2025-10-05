@@ -1,0 +1,75 @@
+{{DISPLAYTITLE:Tap to Move}}<div style="background:#212121;padding:1em;font-family:rubik;border:25px solid #424242">
+{{CSS|content=<nowiki>
+#ttm {
+    font-family: Arial;
+    font-weight: 900;
+    color: #7F7F7F;
+    text-shadow: 0.1em 0.1em #161616
+}
+</nowiki>}}{{Humanly Possible}}{{NewDifficultyInfobox|title1=<big><big><span id="ttm">Tap to Move</span></big></big>|date_added=20<sup>th</sup> December, 2021|image1=<gallery>
+2Tap2Move.webp|Current
+newttm.webp|Old
+TtM2.png|Older
+</gallery>|type=[[:Category:Humanly Possible|Humanly possible]] [[:Category:Sub-Difficulties|sub-difficulty]]|class=[[:Category:Class 1|Class 1]]|previous=*{{Class0Difficulties|Press a Key}} [[Press a Key]]|next={{Class0Difficulties|Climb A Truss|25px}} [[Climb A Truss]]|creator(s)=[[User:Kingsley12345|Kingsley12345]]|decal_id=Current: [https://create.roblox.com/store/asset/18990709664/Tap-to-Move/ 18990709664]
+Old: [https://create.roblox.com/store/asset/9354255533/Tap-to-Move/ 9354255533]
+Older: [https://create.roblox.com/store/asset/8297747354/Tap-to-Move/ 8297747354]|main_difficulty={{Class0Difficulties|Press a Key}} [[Press a Key]]|rating=-12.66|alt_next={{Class0Difficulties|Walk A Slope|25px}} [[Walk A Slope]]}}
+
+== What is <span>Tap to Move</span>? ==
+<span>Tap to Move</span>, or TTM for short, is a very easy difficulty. It revolves around one gimmick, and that is: Tap To Move, as this difficulty's name implies. Here's an overview: If you join a Roblox game and click on the Roblox logo, go to the Settings and scroll down. There, you will find a setting named "Movement Mode". Set it to "Tap To Move." Then, you can just tap anywhere, and unless there's a gap that is just too far, a wall that is too high, a slope that is too steep, etc, it will go there.
+
+This is what Tap To Move basically is, and all of the obstacles will revolve around it. Since all you have to do is simply tap on the screen to move to any place, it is fairly easy to use.
+
+==== How do I make Tap to Move obstacles? ====
+You can either just have a platform connecting the start and the end or make a basically invisible path between 2 visible parts. That's it. Underneath is an example:
+
+[[File:TtM_thing.jpg|frameless|250x250px]]
+
+== Icon Representation ==
+The older icon is just a gray compressed “Tap to Move” on a darker grey backround. The old icon is mostly the same, but it has the letters “TtM” instead of “Tap to Move”.
+
+However, the newer icon is similar to the old icon, but there are darker grey splotches behind the text, and the text itself is shadowed, bolded, and curved.
+
+== Obstacles in this Difficulty ==
+
+=== Baseline TTM ===
+
+* A perfectly straight path with no obstacles. It is 20 studs long.
+* The same thing as the last obstacle, but narrower.
+
+=== Low TTM ===
+
+* A slightly tilted path.
+* A slightly curved path.
+
+=== Mid TTM ===
+
+* A perfectly straight path made out of killbricks. It is 15 studs long.
+* The same thing, but curved.
+* Walking up an otherwise straight path.
+
+=== High TTM ===
+
+* All Mid obstacles, but with occasional killbricks.
+* Walking on a straight path that is 100 studs long, but the path is very thick.
+
+=== Peak TTM ===
+
+* A curved, upwards path with occasional killbricks.
+* A 2 stud wide straight path with occasional killbricks.
+* Walking on an even thicker straight path that is 300 studs long.
+* An invisible path that has occasional killbricks.
+
+== Towers in this difficulty ==
+
+* Tower of Tapping To Move (ToTTM) (Fictional)
+* Steeple of Moving Awkwardly (SoMA) (Fictional)
+* [[Room of Pathway to Nowhere]] (RoPtN)
+*[[Tower of Invisible Tapping and Moving]] (ToITaM)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Stall of Archipelago] (SToA)
+
+== Trivia ==
+
+* This difficulty is the first that requires you to Set it "Tap To Move" .
+
+== Moving on... ==
+Well, that wasn’t hard, right? Move on to [[File:Cat.png|25x25px]] [[Climb A Truss]], or go to [[File:WAS.png|25x25px]] [[Walk A Slope]] if you wanna hang on to just walking for a little longer. Good luck on the harder difficulties, though.{{DifficultiesNavbox}}</div>

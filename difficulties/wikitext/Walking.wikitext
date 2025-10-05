@@ -1,0 +1,266 @@
+{{Background|File=Walking background.png}}
+<div style="padding:0.5em; background: #FFF; -webkit-text-fill-color: block;-webkit">
+<div style="padding:1em; background: #000;-webkit-text-fill-color: block;-webkit">
+{{DISPLAYTITLE:<span id="walking">Walking</span>}}
+{{NoticeScrollboxNew|Notices={{Large Page}}<br>{{Unclassified}}}}
+<!-- Raw CSS -->
+{{CSS|content=<nowiki>
+@import url('https://fonts.cdnfonts.com/css/linux-libertine-o');
+/* Difficulty Name */
+#walking {
+    font-family: Linux Libertine O;
+    font-weight: bold;
+    color: #FFF;
+    text-shadow: 0 0 0.2em #FFFC, 0 0.07em #0006, 0 0 0.3em #000C
+}
+
+/* Text styling */
+.portable-infobox, .page-content p, .page-content h2, .table, .page-content h3, .page-content ul, .page-content li {
+    font-family: Times New Roman;
+    color: #e0e0e0
+}
+h2.head {
+    font-size: 175%;
+    color: transparent;
+    text-shadow: 0 0.1em #FFFFFF40, 0 0.1em 0.4em #FFFFFF40;
+    -webkit-text-stroke: 0.015em #FFF;
+    border-bottom: 2px solid #FFF
+}
+.page-content h3 {
+    font-family: Linux Libertine O;
+    font-weight: bold;
+    color: #FFF;
+    text-shadow: 0 0 0.2em rgba(255,255,255,0.5)
+}
+
+/* Infobox styling */
+.portable-infobox {
+    border-image: linear-gradient(#FFF, #FFF) 30;
+	border-width: 2px;
+    --pi-background: #000
+}
+.portable-infobox .pi-border-color {
+	border-color: #FFF
+}
+.portable-infobox .wds-tabs__tab {
+	color: #e0e0e0
+}
+.portable-infobox .pi-header {
+    color: #000
+}
+
+
+/* Table styling */
+.table {
+	border-collapse: collapse;
+	text-align: center;
+	border: 2px solid #FFF;
+    background-color: #000
+}
+th.table {
+	padding: 1em 0.5em 1em;
+    width: auto;
+    background-color: #FFF;
+    color: #000
+}
+td.table {
+	padding: 0.5em 1em 0.5em
+}
+
+/** This CSS rule affects 'Collapse' text in a collapsible table. **/
+.mw-collapsible span.mw-collapsible-toggle, .mw-collapsible span.mw-collapsible-toggle > a {
+    color: #000
+}
+</nowiki>}}
+{{NewDifficultyInfobox|gradient=#fff,#fff|title1=<big><big><span id="walking">Walking</span></big></big>|image1=<gallery>
+Walking.2.png|Current
+Crappyimage.jpg|Old
+</gallery>|class=[[:Category:Unclassified|Unclassified]]|previous=|next=|original_name=Walk|date_added=April 26th 2021|rating=Unrankable|creator(s)=* [[User:Loganboi2|Loganboi2]] (Creator)
+*[[User:Sushislushwiki|Sushislushwiki]] (Revamper)|class_range=[[:Category:Class 1|Class 1]] - [[:Category:Class 6|Class 6]]}}
+<h2 class="head">What is [[File:Walking.2.png|30px]] <span id="walking" style="-webkit-text-stroke: 0 transparent">Walking?</span></h2>
+[[file:Walking.2.png|25px]] <span id="walking">Walking</span> is an [[:Category:Unclassified|Unclassified]] difficulty inspired by [[file:Randomize Icon 35.png|25px]] [[Randomization]] and [[File:Wait.PNG|25px]] '''Wait'''. This difficulty was created to be a take at creating something similar to [[file:Press a Key.png|25px]] [[Press a Key]], but with added difficulty decided by chance, with the baseline of this difficulty being a 100-stud walk.
+<h2 class="head">Icon Representation</h2>
+<table class="table">
+<tr>
+<th class="table"><big>Version</big></th>
+<th class="table"><big>Icon</big></th>
+<th class="table"><big>Description</big></th>
+</tr>
+<tr>
+<td class="table">'''Current'''</td>
+<td class="table">[[File:Walking.2.png|250px|center]]</td>
+<td class="table">This icon is a pure black vector graphic of a person walking over a pure white background. Despite it being rather plain, it is an improvement over the Old icon.</td>
+</tr>
+<tr>
+<td class="table">'''Old'''</td>
+<td class="table">[[File:Crappyimage.jpg|250px|center]]</td>
+<td class="table">This icon's original source is unknown. However, an exact match of it can be found [https://www.ishn.com/keywords/2539-cardiovascular here]. This icon isn't original, but it is at least appropriate for the difficulty.</td>
+</tr>
+</table>
+<h2 class="head">Events</h2>
+In every structure of this difficulty, an event can occur once every ten studs walked. However, there's a 10% chance for nothing to occur when an event happens. These events can also stack with each other unless otherwise specified.
+
+The chances for any single event to occur, or for a specific variation of it to occur, are set by the values listed later on by default. However, these can be changed depending on the structure to make for more varied gameplay of this difficulty. And on of top that, events can be added or removed in a structure for further varied gameplay.
+<h2 class="head">Common Events</h2>
+These events each have a 25% chance of occurring with one exception, and make up the bulk of the events that you will encounter, having a total 85% chance to occur when an event happens.
+<h3>Distance</h3>
+Changes the length of the walk, having you cover either a larger or smaller distance. The exact amounts and their respective chances are listed in the table below.
+<table class="table mw-collapsible mw-collapsed">
+<tr>
+<th class="table" colspan="2"><big>Lengthen/Shrink by</big></th>
+</tr>
+<tr>
+<td class="table">0 studs</td>
+<td class="table">4%</td>
+</tr>
+<tr>
+<td class="table">10 studs</td>
+<td class="table">50%</td>
+</tr>
+<tr>
+<td class="table">20 studs</td>
+<td class="table">30%</td>
+</tr>
+<tr>
+<td class="table">30 studs</td>
+<td class="table">10%</td>
+</tr>
+<tr>
+<td class="table">40 studs</td>
+<td class="table">4%</td>
+</tr>
+<tr>
+<td class="table">50 studs</td>
+<td class="table">2%</td>
+</tr>
+</table>
+<h3>Walkspeed</h3>
+Changes the walkspeed of the player making them either faster of slower. There's a 50/50 chance for the player's walkspeed to be changed. And, when the player's walkspeed is changed, there's also a 50/50 chance for the player's walkspeed to become faster or slower. The exact amounts and their respective chances are listed in the table below.
+<table class="table mw-collapsible mw-collapsed">
+<tr>
+<th class="table" colspan="2"><big>Increase/Decrease Player Walkspeed by</big></th>
+</tr>
+<tr>
+<td class="table">0 studs/sec</td>
+<td class="table">50%</td>
+</tr>
+<tr>
+<td class="table">1 stud/sec</td>
+<td class="table">30%</td>
+</tr>
+<tr>
+<td class="table">2 studs/sec</td>
+<td class="table">8%</td>
+</tr>
+<tr>
+<td class="table">5 studs/sec</td>
+<td class="table">6%</td>
+</tr>
+<tr>
+<td class="table">10 studs/sec</td>
+<td class="table">4%</td>
+</tr>
+<tr>
+<td class="table">20 studs/sec</td>
+<td class="table">2%</td>
+</tr>
+</table>
+<h3>Conveyor</h3>
+Creates a conveyor that moves the player back by a certain amount. The exact amounts and their respective chances are listed in the table below.
+<table class="table mw-collapsible mw-collapsed">
+<tr>
+<th class="table" colspan="2"><big>Conveyor Distance</big></th>
+</tr>
+<tr>
+<td class="table">1 stud</td>
+<td class="table">60%</td>
+</tr>
+<tr>
+<td class="table">2 studs</td>
+<td class="table">16%</td>
+</tr>
+<tr>
+<td class="table">5 studs</td>
+<td class="table">12%</td>
+</tr>
+<tr>
+<td class="table">10 studs</td>
+<td class="table">8%</td>
+</tr>
+<tr>
+<td class="table">20 studs</td>
+<td class="table">4%</td>
+</tr>
+</table>
+<h3>Teleport</h3>
+Unlike the rest of the Common events, this event has a 10% chance of occurring, and teleports you forwards or backwards by a random amount ranging from -100 studs to 100 studs.
+
+Edge Cases:
+<ul>
+<li>If the amount of studs you travel sends you before the start, you're sent to the start.</li>
+<li>If the amount of studs you travel sends you after the end, you're sent to the end.</li>
+<li>If the amount of studs you travel sends you to the end, you win automatically.</li>
+</ul>
+
+There's a chance for the player to experience what's known as a "Jitter" because of this event. This occurs in the case of two or more teleports happening at the same time, causing a rapid change in position from each teleport that occurs.
+<h2 class="head">Rare Events</h2>
+These events, as the category name implies, are significantly rarer than their Common counterparts. These events have a 1% chance of occurring, but one is guaranteed to occur in every structure. These events also have a total 4% chance to occur whenever an event happens.
+<h3>Party</h3>
+The player will stop moving and dance for 8 seconds while a song plays in that duration. This event also tints the player's screen with different colors similar to a disco.
+<h3>Alarm</h3>
+An annoying alarm sound will play for the rest of the structure. If you wish to disable this event after it happens for the first time, you can disable the Alarm sound with a toggle in a settings menu.
+<h3>Jumpscare</h3>
+A image, which isn't necessarily scary, will appear for a second. Accompanying the image is, by default, a loud vine boom, but can be different depending on the structure. If you wish to disable this event's sound after it happens for the first time, you can disable the Jumpscare sound with a toggle in a settings menu.
+<h3>Turn</h3>
+The walk will change directions, going either left or right. If the direction this event happens to make you go towards makes you end up before the start, the structure will then last forever unless some kind of failsafe is created, and has a minimum of a 0.0001% chance to occur.
+<h2 class="head">Super Rare Events</h2>
+These events are even rarer than the event rarities that come before, and have a 0.5% chance of occurring. These events however, unlike the events in the rarities before, are not guaranteed to occur in every structure. These events also only have a total 1% chance to occur whenever an event happens.
+<h3>Wall</h3>
+Places a wall in-front of the player with a random thickness between 0.001 studs to 10,000 studs. There is also a 10% chance for there to be a hole inside of the wall which is between 0.001 studs or 10,000 studs long. If the hole inside of a wall ends up being longer than the thickness of the wall, then the hole is made to be as long as the wall is thick.
+<h2 class="head">Structure List</h2>
+Unlike other difficulties, the exact difficulty of a structure of this difficulty is unknown unless the structure has gameplay which isn't also a different [[:Category:Unclassified|Unclassified]] difficulty.
+<table class="table mw-collapsible mw-collapsed">
+<tr>
+<th class="table"><big>Name</big></th>
+<th class="table"><big>Exact Difficulty</big></th>
+<th class="table"><big>Status</big></th>
+</tr>
+<tr>
+<td class="table">'''The Walk Test''' ('''TWT''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Has a page [[The Walk Test|here]].</td>
+</tr>
+<tr>
+<td class="table">'''Don't You Walk Away''' ('''DYWA''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Steeple of an Anticlimactic Ending''' ('''SoaAE''')</td>
+<td class="table">Low [[w:c:jtoh:Insane|Insane]] [[File:InsaneDifficulty.jpg|25px]] (8.27)</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Tower of Walking and Jumping''' ('''ToWaJ''')</td>
+<td class="table">Low-Mid [[w:c:jtoh:Hard|Hard]] [[File:HardDifficulty.jpg|25px]] (3.48)</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Tower of Actually Terrifying Movement''' ('''ToATM''')</td>
+<td class="table">Mid-High [[w:c:jtoh:Terrifying|Terrifying]] [[File:TerrifyingDifficulty.jpg|25px]] (10.59)</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Nonosi of Endless Walking''' ('''NoEW''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+</table>
+<h2 class="head">Trivia</h2>
+* This difficulty was revamped by [[:User:Sushislushwiki|Sushislushwiki]] from July 10, 2024 to July 12, 2024 after asking [[:User:Astrominal|Astrominal]] to give them a difficulty to revamp out of boredom.
+* The imaged used as the background for this difficulty is a blurred and darkened version of the image that's used in [[The Walk Test]]'s Infobox.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 0]]
+[[Category:Two color icon]]
+[[Category:Unfailable Difficulties]]

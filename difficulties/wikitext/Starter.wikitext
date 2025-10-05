@@ -1,0 +1,166 @@
+{{Scroll 2.0
+|height=1000px
+|width=1000px
+|content=
+{{Humanly Possible}}
+{{Large Page}}
+}}
+{{BetterQuote|text=Hello and welcome to Starter, the first difficulty beyond the Starter Zone. If you struggle on this, you really need to get better, as this is still one of the easiest difficulties you can encounter.|quoter=[[File:TDE.png|30px|link=User:Viranenthusiast]] [[User:Viranenthusiast|Viranenthusiast]]}}
+
+==What is <span style="background:linear-gradient(90deg,yellow,skyblue,green); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> [[Starter]]</span>?==
+{{NewDifficultyInfobox
+|title1=<span style="background:linear-gradient(90deg,yellow,skyblue,green); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Starter]]</span>
+|image1=<gallery>
+Starter.png | Official
+StarterStrange.png | Joke
+</gallery>
+|caption1=The hill where it all starts... (icon by [[User:Krazycoolguy|Krazycoolguy]])
+|class=[[:Category:Class 1|Class 1]]
+|type=Normal Difficulty
+|previous=[[File:JumplessDifficulty.webp|25px]] [[Jumpless]]
+|next=[[File:Sweet (New).png|25px]] [[Sweet]]
+|class_range=3rd out of the 4 Difficulties of Low Class 1
+|difficulty_range=5 Spectrums.
+*Baseline/Bottom
+*Low
+*Mid
+*High
+*Peak
+|decal_id=Main: [https://www.roblox.com/library/8539664090/Starter 8539664090]
+Joke: [https://www.roblox.com/library/14978175773/Starter 14978175773]
+|official_music(s)=A Hat in Time - A New Adventure
+|creator(s)=[[File:TDE.png|30px|link=User:Viranenthusiast]] [[User:Viranenthusiast|Viranenthusiast]]
+|short_name=STR
+|alt_names=Beginner
+|date_added=10-1-2022/10th of January 2022
+|original_class=*-1 (first imagination) (Never added)
+|previous_class(es)=*1 (second imagination) (Never added)
+|revamp_date=13-7-2022/13th of July 2022
+|rating=-10|alt_next=[[File:CakeWalk.png|25px]] [[Cakewalk]]|sub_difficulty(ies)=[[File:CakeWalk.png|25px]] [[Cakewalk]]}}
+<span style="background:linear-gradient(90deg,yellow,skyblue,green); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Starter]] </span>is a [[:Category:Class 1|Class 1]] Normal Difficulty made by [[File:TDE.png|25px|link=User:Viranenthusiast]] [[User:Viranenthusiast|Viranenthusiast]]. This Difficulty is intended for beginners, it also marks the start of jumping, falling and walking combined in one Difficulty. That is why this can also be deemed as the first Tutorial on your path. This means this is the end of <span style="background:linear-gradient(90deg,yellow,skyblue,green); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''The Starter Zone.''' </span> Most obbyists are obviously able to beat [[Starter]]. 
+
+This Difficulty is harder then {{Class0Difficulties|Jumpless}} [[Jumpless]], the 2nd last difficulty of the beginning, whereas the difficulty located right after this is [[File:Sweet (New).png|30x30px]] [[Sweet]] (or ''[[File:CakeWalk.png|30px]]'' [[Cakewalk]]). '''Starter''' also features something new, something never before seen to EJT. Premade Obbies! 
+
+These obbies are just obbies but premade, they fit the Difficulty and offer a skill test. At the end of the Difficulty, the 3 obbies serve as the Finale. Other then that, '''Starter''' is one of the first Difficulties made in 2022. Starter has also been featured in alot of Difficulty Chart obbies. The popularity of this difficulty has increased alot overtime, and now it's one of the most popular Class 1 Difficulties !
+
+==Icon representation==
+
+===Official Icon===
+The Official Icon represents a pixelated stick figure in the color of the so called "Noob Skin" standing on top of a hill which gets darker the more to the middle of the hill. There is also a sky behind it that gets darker the more it goes to the corners, with 2 clouds in it of course which you would just notice already. There is a myth of the image that the noob later got struck by lightning when there was a thunderstorm.
+
+===Joke Icon===
+The Joke icon is, lets just say, a low budget version of the Official Icon. The hill is flat and is only 1 shade of green. The Sky is also just a square but blue, the noob is colored differently and has a different smile, there is white surrounding of the image and the noob obviously has a way bigger taller then the normal one. This Icon was made by Oh Noez! Oh Noez! in a game of Garticphone when Krazy/Crazy decided to make the Sentence: Starter from EJT
+
+==Obstacles in this Difficulty==
+The obstacles in this Difficulty are split into the spectrum of viewing the Baseline/Bottom to Peak parts of the Difficulty. But Nowadays, the average Difficulty has about 7-13 spectrums. Too much of them, isn't it?
+===<span style="background:linear-gradient(90deg,pink,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> Baseline/Bottom </span> Starter===
+''The First Spectrum revolves around very simple obstacles, have a go!''
+*2.33 stud jump
+*3 stud stick-ins
+*1.05 stud high "jump"
+====Special Obstacles====
+*Walk around a 4x4 killbrick pole on a 9x1x9 stud platform
+*Do a 2 stud jump in 20 seconds
+*Walk over a 10 studs wide tightrope with 1x1 killbrick parts that deals 3 damage for 30 studs
+*Do [[File:WAS.png|30x30px]] [[Walk A Slope]] thrice (three times) in a row in a span of 45 seconds
+*Wait for 10 seconds straight and only being allowed to walk around while waiting
+
+===<span style="background:linear-gradient(90deg,yellow,green); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> Low </span> Starter===
+''This spectrum is getting a bit more difficulty to it but it is still easy. Try and beat it!''
+*2.4 stud jump
+*2.9 stud stick-ins
+*1.15 stud high "jump"
+====Special Obstacles====
+*4 stud stick-in with a killbrick spinner in the middle of it 
+*Walk a 6 stud tightrope for 35 studs
+*Go into a 2.5 stud gap without Shiftlock nor First Person
+* Beat {{Class0Difficulties|Do Nothing|30px}} <span style="background:linear-gradient(90deg,lightblue,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Do Nothing]]</span>, but the area you need to beat it in is 20 studs wide
+*Press any Key 2 times in 3 seconds
+
+===<span style="background:linear-gradient(90deg,green,blue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> Mid </span> Starter===
+''Jumps here are still not considered disastrous, yet they're halfway there. And you're too!'' 
+*2.475 studs jump
+*2.8 studs stick-ins
+*1.25 stud high "jump"
+====Special Obstacles====
+*Fall in a 5x5 stud hole
+*Jump 3 times and spin 1 time
+*3 stud stick-ins while a turret is guarding it
+*Do a 2.2 stud jump followed by a 2.3 stud jump
+*Stand on killbricks for 30 seconds (Tip: stop moving)
+===<span style="background:linear-gradient(90deg,blue,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> High </span> Starter===
+''High, is that your skill level? I guess so. Nice Going, Obbyist.''
+*2.525 studs jump
+*2.7 studs stick-ins
+*1.35 stud high "jump"
+====Special Obstacles====
+* Do a 1.3 stud high jump and fall into a 5x5 studs wide hole
+* Do a 2.25 studs stick-in in 50 seconds
+* Walk 50 studs and jump once
+*Beat everything from {{Class0Difficulties|Do Nothing|30px}} <span style="background:linear-gradient(90deg,lightblue,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Do Nothing]] </span>to [[File:WAS.png|frameless|30x30px]] [[Walk A Slope]] in 10 minutes
+*Beat every obstacle in Baseline Class 1.
+===<span style="background:linear-gradient(90deg,yellow,skyblue,green); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"> Peak </span> Starter===
+''This is the final Spectrum of Starter, you will have beat all of the 5 mentions in order to pass to [[File:CakeWalk.png|30px]] [[Cakewalk]].''
+*2.6 studs jump
+*2.6 studs stick-ins
+*1.45 stud high "jump"
+====Special Obstacles====
+*Do a 2 studs stick-in in 40 seconds
+*Walk over a 5 studs wide tightrope for 50 studs
+*Jump over a 2 stud long hole filled with killbricks
+*Do a 2.15 stud jump while a morpher occasionally blocks it
+*<big>''Beat the 3 Obbies.''</big>
+---- 
+
+== The Three Obbies==
+''These 3 obbies are the key of Starter. These obbies round up the Tutorial in a skill test, the skill of patience, determination and strength. Will you pass? I think you will, good luck!''
+*<big>Obby 1 - Happiness</big> 
+**This is the first obby of them all. Heres a guide to it: When you spawn in, you need to do a 2.5 studs jump onto a 5x5 stud platform. Then you do a 2.45 stud stickin followed by a 10 stud fall in a 5x5 stud gap. When you fell down, you have to do a 5 studs wide tightrope for 20 studs and do 3 1.33 stud high jumps. After that you should do a 3 stud jump lowered by 3 studs and then you beat it!
+*<big>Obby 2 - Enjoyment</big> 
+**After you beat the first obby, you press a button which will activate an obby for 10 minutes. Heres how you beat it, you start off by doing a 2.55 stickin followed by a 1.3 stud high jump. Fall 15 studs with a 1x1 stud CanCollide: False killbrick in the hole. Then you do a 4x16 stud tightrope followed by a 2 stud jump. The final part is a seat part you will walk over and need to jump to get out. After that you beat it.
+*<big>Obby 3 - Pleasant</big>
+** Walk 100 studs and wait for 5 seconds afterwards. After that you do 4 2.33 stud jumps followed by jumping over 3 1x1 stud killbricks. Then do a 10x50 stud tightrope with 10 kb's that deal damage. Then you go into a room and jump on a character model. As final obstacle you do a 2.8 studs stickin that is 25 studs long with multiple 2 stud jumps in it. And there you go, you beat all obbies!
+==Obby Catches==   
+*Sometimes, a hamburger can spawn that you can pick up for healing
+*There is 50% chance a safety net will spawn underneath every 30 seconds
+*Every 5 minutes, the obby changes itself
+*You can also beat it by doing 3 8 stud jumps
+*There is chance that the obby becomes upside down and gravity gets flipped
+*You can do a 13 stud jump if you want (there is no reward)
+
+==Towers==
+Like its not normal you see it split into 2, of course its normally split into 2 sections so yeah its also here.
+===Towers in this Difficulty===
+*Box of Starter Stadium (BoSS) (in Progress)
+*Tower of Starter Mechanisms (ToSM) (Fictional)
+*[https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Edifice of Learning Controls] (EoLC)
+*[[Steeple of Trial For Noobs|Steeple of Trials For Noobs]] (SoTFN)
+*[[Tower of Free Model Spam]] (ToFMS)
+
+===Towers with this Difficulty === 
+*[[File:New DI Image.JPG|30x30px]] [[Great Citadel of Beyond Impossible Difficulties]]
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]]
+*{{Class25Difficulties|The Final Difficulty.}} [[Giga Monolith of Every EJT Difficulty|Giga Monolith of Every EJT difficulty]]
+
+==Trivia==
+Basicly just information about the page and obstacles. Dont expect too much information to handle.
+*This difficulty is made with pixel art.
+*This difficulty is the only difficulty that featured negative stickouts so far.
+*[[Starter]] is the first difficulty that features an obbies section.
+*This difficulty doesnt use spinners.
+*This difficulty would have been class negative if it wasn't locked with no exceptions. 
+**However, this was also thought about being Class 1.
+***It is now Class 1.
+*This is the first 3+ Colored Pixel Art icon on the DC. 
+**It also is the first one with a Stickman on the icon.
+**And it is a Noob. 
+***It is also the first difficulty that Uses all the Noob Skin Colors.
+== Continuing on==
+Well, it wasn't that hard but you proved you are a starter player and not just a player that sucks at obbies. Go to [[File:CakeWalk.png|30px]] [[Cakewalk]] as your next challenge. But, you may take a skip to Class 2 already. Class 1 is just a practice place, not actual obbies. Well, cya!
+{{DifficultiesNavbox}}
+[[Category:Class 1]]
+[[Category:Possible]]
+[[Category:Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Unofficial Difficulty]]
+[[Category:Starter Zone]]

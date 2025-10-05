@@ -1,0 +1,140 @@
+{{Scrollbox|Notices={{TAS Impossible}}
+{{Visual Impairment|reason=Gradients make it look black.}}
+{{Large Page}}}}{{ArticleTab|Hellicious|custom=Dark Friendly|custom2=April Fools 2023}}{{BetterQuote|text=Listen. You made it, and so far there's been no chaos. Lucky lucky, that spree ends today.|quoter=Hellichaosi (making a palace in this difficulty, you must include the boss which is this)}}
+
+{{NewDifficultyInfobox|image1=<gallery>
+New epsilon .PNG | Current
+Old epsilon.png | Old/Alternate
+</gallery>|caption1=You'll suffer... in Niflheim itself!|class=5|rating=33|type=Revived Difficulty|previous=[[File:DoesNotComputeNew.png|30px]] [[Does Not Compute]]|next=[[File:Invigorating.jpg|30px]] [[Invigorating]]|chain(s)=Color Chain (before it broke down)|creator(s)=Bruhshard1 (Creator/Owner)
+Danepontejos (Reviver)
+Sanjay2133 (Icon Revamper)|original_creator(s)=Bruhshard1|date_added=2/24/22|date_removed=6/18/22|removal_reason=Low quality + sentient|revamp_date=3/14/23|revival_date=3/14/23|full_name=Stasis in Exile|short_name=Ex.|alt_names=Ex, EX, Stasis in Exile, hC, Hc, Hellic Dellicious, Hellicious Heckiciosus, Heckosaur, blue epsilon thingy, New epsilon, Old epsilon, gradient thing, edgy difficulty, ENVYVILLE.|alt_previous=|decal_id=Current: [https://create.roblox.com/store/asset/75678453946075/Hellicious 75678453946075]
+Old/Alternate: [https://create.roblox.com/store/asset/8930543669/Hellicious 8930543669]|original_name=Hellicious}}
+
+== What is <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">'''Exile'''? ==
+
+[[File:New epsilon .PNG|frameless|50x50px]] <big>[[Hellicious|Exile]], formerly known as Hellicious,</big> is a Humanly Impossible difficulty which succeeds [[File:DoesNotComputeNew.png|30px]] [[Does Not Compute]] but preceeds [[File:Invigorating.jpg|30px]] [[Invigorating]], to put it simply. It was difficulty 100, so congrats on getting here! Even though when Class -2 made it no longer 100.. 
+
+It is the last Baseline Class 5 difficulty. Not only that, but it's very punishing taking it into obstacles, and there will be incredibly unforgiving obstacles that no average person can and will do. This difficulty usually has towers that are very punishing, and the boss only reinforces that. 
+=='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Icon Representation'''==
+Here are the two icons. Keep in mind why this was changed.
+
+[[File:New epsilon .PNG|center|frameless]]  
+
+In the new icon, it's primarily the same thing. Except, well.. It's red, and the mini-gradients is just combined into one red-dark red icon which makes it seem more amicable like older Class 7 (now class 5 is known for reds). It also represents the fact that Exile went hyper, getting a real citadel made (in the towers section) and that it was narrowly sorta close to danger, and yet it still survived. It was made this way to fit in with the rest of the class.  
+[[File:Old epsilon.png|center|frameless]]
+
+Exile's old icon consists of a blue to black icon which is divided into 5 mini-gradients, the council of your faith. Better yet, all of these five have in total, 18 divisions of pain. In the middle is a Blue Greek Epsilon. This was the old one until the CEO of JJT (Sanjay) made a newer one that is similar to Class 5's red zone difficulties. Bruhshard saw this and decided to revert it, until realizing in [https://jtohs-joke-towers.fandom.com/f/p/4400000000000134632/r/4400000000000456481 this post] that he made a mistake so he reverted it back.  
+=='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Catches'''==
+Here are these catches. I've only done two catches, so consider yourself lucky I'm generous. These two are in every Exile tower ever made, but individual jumps and sections/towers with 8 or less floors will not have these specific catches. Here are they. 
+
+*You will have to go through 18 floors of a citadel made specifically for this difficulty, and he will await your presence at the top.
+*When you include '''Exile''' in a DCT, it should have 18 sections.
+**Example (if Exile is the 34th difficulty in the DCT): 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 34I, 34J, 34K, 34L, 34M, 34N, 34O, 34P, 34Q, and 34R are the 18 sides/sections of it.
+
+That's all, now suffer.
+
+=='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Sample Obstacles'''==
+==='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Baseline Exile'''===
+*19 stud climbable jump
+*17.5 stud unclimbable
+*17 stud wrap
+*7 stud stickouts.
+*Do a mantlehop (0.25 moon wallhops)
+
+==='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Low Exile'''===
+*18 stud wrap
+*19.5 stud climbable jump
+*9.5 stud wrap with a 2 stud stickout
+*Troposphere moon wallhop (0.5 moon wallhops)
+*Fling yourself across the baseplate.
+
+==='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Middle Exile'''===
+*Doing a 15.8 stud high-jump.
+*18 stud wrap
+*20 stud climbable jump
+*0.6 stud lodge
+*Tropopause wallhop (0.625 moon wallhops)
+
+==='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">High Exile'''===
+*0.75 stud squeeze
+*7.5 stud stickout
+*21 stud climbable jump
+*19 stud wrap
+*Stratosphere wallhop (0.75 moon wallhops)
+
+==='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Peak Exile'''===
+
+*0.7 stud squeeze
+*8 stud stickout
+*15 stud jump raised by 5 studs
+*22 stud jumps.
+*20 stud wrap
+=='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Towers in/or including Exile'''==
+
+==='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Towers in Exile'''===
+*That one citadel mentioned in the "Catches" section, aka [[hElLiCiOuS CiTaDeL|Exile CiTaDeL]] (hC) (GAT fanmade low quality citadel)
+*[https://www.roblox.com/games/17822774772/Ring-5 Steeple of Chaotic Jumps] (SoCJ)
+
+==='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Towers including Exile'''===
+
+* ''Steeple of Hellish Difficulty Ascension (SoHDA) (Fictional)''
+
+Feel free to add more fictional towers using the example above.
+
+==<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Boss==
+During this boss, you’ll have 10,000 HP. This will still be insanely difficult however.
+
+{{Boss|title1=Hellichaosi|image1=Hellic.webp|caption1=FRoB drew this quick sketch when they were fighting Chaosi'. He won and was able to show me it.|hp=1,000,000|drops=* The Hellicious Heart (Deals 5k damage, every 3 hits is a lightning storm, every hit 10% crit chance where is does 7.5k damage)
+
+* Sword of Nifhelem (Deals 3k damage)|found_in=Hellicious|how_to_access=Beat [[Does Not Compute]] and go to Hellicious and do that, or beat a Hellicious palace until this point.|difficulty=Skyline Hellicious|abilities=Cycles between these 3, RNG damage.
+* Attack 1: Banish To Hell 
+* Attack 2: The Art of Blue 
+* Attack 3: Hammer Sweep|damage=RNG from 50-500 per hit.}}
+The infobox has everything you need, and HellichaosI is a blue Roblox humanoid. He seems to finish you off here, and he is dedicated for that. His nickname is Chaosi, which he claims is the word chaos in an ancient hellish language spoken by the ''Berserkers''.
+
+You'll fight another one if you're lucky enough to stand a grain at the citadel.
+
+=='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Facts'''== 
+
+*The icon was made before the difficulty too, not only that but on May 20th, 2022 this page was "revamped".
+** On Pi day 2023 (3/14/23) this was revived.
+*I squeezed all the images that show when you type "Epsilon" into image search into the gallery, as you can see below.
+*FRoB made the artist rendering.
+*Exile was 100th difficulty in the [[Main Difficulty Chart]], if you make [[The First Difficulty|TFirD]] have a rating of 1. 
+**Don't believe me? Check it [https://jtohs-joke-towers.fandom.com/wiki/User_blog:410Gone/alternate_dc_but_OH_MY_GOD_WHY here].
+***This is no longer true because -2 was added and the chart stretched.
+****This is no longer true too, since the difficulty chart got squished.
+*For the Armageddon, SoHDA was originally going to get it's dedicated page. 
+**In the end, however, hC was instead picked as it was reasonable.
+***Exile was later confirmed to be safe beforehand though so.. uh.. 
+****At least this wiki gets another tower!
+*There is also a blog post difficulty that was meant to be called '''Exile''' when this had its original name, but it was renamed to Exiled Nightmare.
+*N/A
+*Other stuff to add.
+
+=='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Gallery'''==
+Someone please add the actual icon here, and not just the alternate.<gallery>
+File:New epsilon .PNG|The new icon for when things go down, and it becomes RED.
+File:Old epsilon.png|The old, former icon that was made in Paint 3D.
+</gallery>
+
+=='''<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg,red,black);-webkit-background-clip:text;-webkit-text-fill-color:transparent" __uv-attr-style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, black);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Moving onwards'''==
+''It appears I have not won, impossibly. The legend is true, and you are the chosen one.. The myth about you was right, and thus I shall help you as you have proven yourself stronger than even me. I can only hope that you will win the edge of the chart.''
+
+Okay, but how the HECC did you do this difficulty and get past? Whatever, you will fall soon. Continue on, but remember, [[The Final Difficulty.|it is waiting.]]
+
+
+
+
+
+
+
+''Chaosi gives you items and follows you along the journey. Or will they?''
+
+[[Apocalyptic]] is your next target.
+
+{{DifficultiesNavbox}}
+[[Category:Class 5]]
+[[Category:Difficulty]]
+[[Category:Difficulties]]
+[[Category:Humanly Impossible]]

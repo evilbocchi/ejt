@@ -1,0 +1,78 @@
+{{Scrollbox
+|Notices='''Notices'''
+{{Humanly Impossible}}
+{{Large Page}}
+}}
+{{BetterQuote
+|text=You are now entering purgatory. (edgy much?)
+|quoter=A sign found both in this difficulty and [[Threatening]], a difficulty you will come across soon.
+}}
+==[[File:Purgatory.png|frameless|30x30px]] '''''Difficulty Introduction'''''==
+{{NewDifficultyInfobox
+|title1=<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, black, teal);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Purgatory</span>
+|image1=<gallery>
+Purgatory.png|Current
+OldPurgatoryDifficultyIcon.png|Old
+PurgatoryAlt.png|Alt
+EnyaraPurgatory.png|Hypermodern
+</gallery>
+|caption1=You are entering captivity.
+|class=[[:Category:Class 4|Class 4]]
+|type=[[File:Nil revamp lol.png|30px]] [[:Category:Difficulties|Humanly Impossible Difficulty]]
+|previous={{Class4Difficulties|No}} [[w:c:jtohs-hardest-towers:No|No]]
+|next={{Class4Difficulties|DEATH}} [[w:c:jtohs-hardest-towers:DEATH|DEATH]]
+|difficulty_range=Baseline to Peak
+|sub_difficulty(ies)=[[File:Purgatory2000000.png|30x30px]] '''Captivity'''
+|date_added=14/07/2022 (HAEDC Date)
+18/09/2022 (UDC Date)
+|class_range={{Class4Difficulties|Nullifying}} [[:Category:Class 4|Low Section]]
+|full_name=The Realm of Purgatory
+|official_music(s)=[https://www.youtube.com/watch?v=CvNLpsHldT4 Purgatory (an ambient mix)]
+|creator(s)=[[User:Viranenthusiast|Viranenthusiast]]
+[[User:Sanjay2133|Sanjay2133]] (Revamper)
+|revamp_date=21/09/2022
+|prior_previous=*{{Class4Difficulties|Maximum Overdrive}} [[Maximum Overdrive]]
+*[[File:ʀhotic.png|30x30px]] [[ʀhotic]]
+|prior_next=*{{Class4Difficulties|No}} [[w:c:jtohs-hardest-towers:NO|No]]
+*[[File:What the heck.png|30x30px]] What The Heck (HAEDC)
+*[[File:PLEASANTFULLYNT.jpg|30x30px]] '''''Pleasantfullyn't''''' (Deleted)
+|rating=19.5|decal_id=Current: [https://create.roblox.com/store/asset/77444724353102/Purgatory 77444724353102]<br>Old: [https://create.roblox.com/store/asset/11869678260/Purgatory 11869678260]}}
+'''{{USERNAME}}''', I see you have gone long past [[File:TheHumanLimit.png|frameless|30x30px]] [[The Human Limit]], and you have now entered [[Purgatory]], the zone between Heaven and Hell. 
+
+[[File:Purgatory.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, black, teal);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Purgatory</span> is a Low Class 4 [[File:Nil revamp lol.png|30px]] [[:Category:Difficulties|Humanly Impossible Difficulty]], which has originated from [[HelloArt's Extended Difficulty Chart|HelloArt’s Extended Difficulty Chart]]. This was originally the replacement for HAEDC’s The Borderline Chain, and since Class 4 is now unlocked for you to freely add to, it has now been made into a difficulty apart of more than just UoFTE and HAEDC. It succeeds the heinous {{Class4Difficulties|No|25px}} [[w:c:jtohs-hardest-towers:NO|'''No''']], and precedes the equally cataclysmic {{Class4Difficulties|DEATH}} [[w:c:jtohs-hardest-towers:DEATH|'''DEATH''']], and this also has one sub difficulty, called [[File:Purgatory2000000.png|30x30px]] '''Captivity''' (Only in HelloArt's Extended Difficulty Chart though).                                                          
+
+Moving on from that, this difficulty requires absurd effort incapable by obbyists, and it will remain like that for years and years, potentially until Roblox’s death. Thus, this is classified as ‘Humanly Impossible’, and you should use tools such as Tool Assisted Speedrun (abbreviated as TAS) and the Bootleg Coil on difficulties like this, and anything harder. 
+
+Even so, singular jumps of [[File:Purgatory.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, black, teal);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Purgatory</span> are capable of being completed, given time and effort amassed, but even just singular floors of this certainly are not possible. You would need a very high consistency of being able to do jumps like this to beat a difficulty of this sort, as this difficulty not only has incredibly difficult jumps, but also is incredibly punishing, meaning if you even make just a nanoscopic mistake on any section, you would fall to your doom and lose all of your progress.
+
+==Icon Representation==
+<center>[[File:Purgatory.png|150x150px|frameless]]</center>The background of the icon is black with 2 teal X's in the center. The icon is accompanied by a slightly dark teal border.
+
+==Obstacles==
+{{ObstacleTableRevamp|JumpClimbableBase=14.3|Increment=0.0113}}
+
+==Tower Section==
+===Towers in this difficulty=== 
+*Edifice of Limited Movement (EoLM) ''<small>(Fictional)</small>''
+*Tower of Endless Purgatory (ToEP) ''<small>(Fictional)</small>''
+*Tower of Countless Impossibility Ahead (ToCIA) ''<small>(Fictional)</small>''
+*[[Tower of Purgatorial Dominion]] (ToPD) <small>''(Fictional)''</small>
+*Purgatorio Tower Rush: Gigabuff ''(Fictional)''
+===Towers with this difficulty===   
+
+*[[Great Citadel of Beyond Impossible Difficulties]] (GCoBID)
+
+==Trivia== 
+*This is the first Class 4 difficulty to be added when the class was unlocked.
+*This was originally from [[HelloArt's Extended Difficulty Chart]].
+* This was going to be deleted in Armageddon VI, but Sanjay2133 revamped it.
+*This is the hardest difficulty in [[User blog:The Difficulty Enthusiast/Bruh’s Towerverse|Bruh’s Towerverse]], the prototype variation of [[The Tower Complex]].
+*[[File:Purgatory.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, black, teal);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Purgatory</span> has previously been after {{Class4Difficulties|Maximum Overdrive}} '''[[Maximum Overdrive]]''' as well as [[File:ʀhotic.png|25x25px]] '''''ʀhotic''''', and also was previously before [[File:What the heck.png|25x25px]] '''''What The Heck''''' in [[HelloArt's Extended Difficulty Chart]]. It was moved due to the gap between [[w:c:jtohs-hardest-towers:WHY|WHY]] and [[w:c:jtohs-hardest-towers:NO|No]] getting a bit crowded.
+==Continuing on from this point==
+It is 2025, you currently have not beat this without boost items or TAS, as this is humanly impossible. However, if you really did legitimately beat this, then you’ve officially exited [[File:Purgatory.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(90deg, black, teal);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Purgatory</span>. You’re able to move forward onto {{Class4Difficulties|DEATH}} [[w:c:jtohs-hardest-towers:DEATH|'''DEATH''']].{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 4]]
+[[Category:Humanly Impossible]]
+ 
+[[Category:Unofficial Difficulty]]
+[[Category:Large Pages]]

@@ -1,0 +1,129 @@
+__NOTOC__{{Scrollbox|Notices='''Notices'''
+{{Inclusion|reason=Allowed by staff}}
+{{Humanly Possible}}
+{{Class Finale}}
+}}
+{{Background|File=AngerableBG.jpg|Size=2000px}}
+
+==What is '''Angerable'''?==
+{{NewDifficultyInfobox
+|title1 = '''<span style="background:linear-gradient(330deg, #5602FF, #1C04EB); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Angerable'''
+|image1 = <gallery>
+AngerableRemake.png | Current
+Angerable.png | Previous
+Angerable Alt.png | Alternate
+</gallery>
+|caption1 = I am angered.
+|class = [[:Category:Class 2|Class 2]]
+|previous = *{{Class2Difficulties|Relentless}} [[Relentless]]
+|next = *[[File:VexatiousIcon.png|30px|]] Vexatious (no page)
+|main_difficulty= {{Class2Difficulties|Relentless}} [[Relentless]]
+|decal_id = 11772022697
+|original_main_difficulty = {{Class2Difficulties|Remorseless}} {{jtoh|Remorseless}}
+|date_added = 10/16/2021
+|creator(s)=YataDev|type=Sub Difficulty}}'''<span style="background:linear-gradient(330deg, #5602FF, #1C04EB); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Angerable''' is the ultimate challenge of Class 2 and the only sub-difficulty of {{Class2Difficulties|Relentless}} [[Relentless]]. This difficulty's obstacles are excruciating and can be ended in failure at any time without practice. This difficulty, as the name implies, can be extremely aggravating. 
+
+==Icon Representation==
+<tabber>
+|-|
+Current Icon=
+[[File:AngerableRemake.png|frameless|35x35px]]
+'''<span style="background:linear-gradient(330deg, #5602FF, #1C04EB); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Angerable''''s icon is a white emoticon >.<, on the middle of a purple background, similar to the one in {{Class2Difficulties|Relentless}} [[Relentless]].
+|-|
+Old Icon=
+[[File:Angerable.png|frameless|35x35px]] 
+The previous icon is nearly identical to the current icon, but the emoticon is less thick and the background is more purple.
+You can get the decal [https://www.roblox.com/library/7754942166/Angerable here.]
+|-|
+Alternate Icon=
+===[[File:Angerable Alt.png|frameless|35x35px]] Alternate===
+
+The alternate icon for this difficulty is quite similar to what the current one is, but with a few twists. The background is now a gradient, going from blue, to a darker shade of blue. The emoticon is also rotated a tiny bit.
+</tabber>
+==Obstacles In This Difficulty==
+<tabber>
+|-|
+Practice=
+These are just some practice obstacles to get you started.
+
+*10.1 stud wraparounds (Climbable)
+*10 stud wraparounds (Unclimbable)
+*12.09 stud jump (Climbable)
+*11.89 stud jump (Unclimbable)
+*2.727x2.727 stud stickout (Climbable)
+*2.72x2.72 stud stickout (Unclimbable)
+|-|
+Low=
+Now here are the real stuff. Good luck as you probably won't make it through this
+*10.19 stud wraparounds (Climbable)
+*10.1 stud wraparounds (Unclimbable)
+*12.12 stud jump (Climbable)
+*11.91 stud jump (Unclimbable)
+*2.73x2.73 stud stickout (Climbable)
+*2.723x2.723 stud stickout (Unclimbable)
+|-|
+Mid=
+*10.23 stud wraparounds (Climbable)
+*10.13 stud wraparounds (Unclimbable)
+*12.14 stud jump (Climbable)
+*11.98 stud jump (Unclimbable)
+*2.741x2.74 stud stickout (Climbable)
+*2.732x2.73 stud stickout (Unclimbable)
+|-|
+High=
+*10.28 stud wraparounds (Climbable)
+*10.17 stud wraparounds (Unclimbable)
+*12.19 stud jump (Climbable)
+*12.03 stud jump (Unclimbable)
+*2.746x2.747 stud stickout (Climbable)
+*2.727x2.736 stud stickout (Unclimbable)
+|-|
+Peak=
+*10.32 stud wraparounds (Climbable)
+*10.22 stud wraparounds (Unclimbable)
+*12.24 stud jump (Climbable)
+*12.08 stud jump (Unclimbable)
+*2.75x2.751 stud stickout (Climbable)
+*2.74x2.74 stud stickout (Unclimbable)
+|-|
+The Final Trial=
+The only difficulty crossing in this difficulty ranging from Class 0 - 2. Failing one of these will send you back to the first difficulty in the trial.
+*[[File:Millisecondless.png|30px]] [[Millisecondless]]
+*[[File:Spontaneous.png|30px]] [[Spontaneous]]
+*{{Class0Difficulties|Joyful}} [[Joyful]]
+*[[File:Tutorial.png|30x30px]] [[Tutorial|Tutorial]]
+*{{Class1Difficulties|Effortlessless}} [[Effortlessless]]
+**[[File:Gravel.png|30px]] [[Gravel]]
+*{{Class1Difficulties|Effortless|30px}} [[w:c:jtoh:Effortless|Effortlesss]]
+*{{Class1Difficulties|Calmness}} [[Calmness]]
+*{{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|Medium]]
+*{{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|Hard]]
+*{{Class2Difficulties|Jolly}} [[Onerous]]
+*{{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]]
+*{{Class2Difficulties|Challenging}} [[w:c:jtoh:Challenging|Challenging]]
+*{{Class2Difficulties|Intense}} [[w:c:jtoh:Intense|Intense]]
+*{{Class2Difficulties|Remorseless}} [[w:c:jtoh:Remorseless|Remorseless]]
+*{{Class2Difficulties|Relentless}} [[Relentless]]
+</tabber>
+==Towers In This Difficulty== 
+
+*[https://jtoh.fandom.com/wiki/Tower_of_Bent_Trauma Tower of Bent Trauma]
+
+==Trivia== 
+
+*This difficulty was originally a sub-difficulty of {{Class2Difficulties|Relentless}} [[Relentless]], but after a few days following its creation, it became a sub-difficulty of {{Class2Difficulties|Remorseless}} {{jtoh|Remorseless}}. 
+**On August 21st of 2022, '''<span style="background:linear-gradient(330deg, #5602FF, #1C04EB); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Angerable''' became a sub-difficulty of Relentless again.
+* '''<span style="background:linear-gradient(330deg, #5602FF, #1C04EB); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Angerable''' was found in trending pages quite a lot, the cause of it is unknown.
+
+==Continuing from this point==
+Congratulations, player. You have successfully completed a tower or obby with this sub-difficulty. This is the hardest ever difficulty of Class 2, and now it is time to move on to the soul-crushing difficulties. Good luck. Proceed to {{Class3Difficulties|Insane}} {{jtoh|Insane}} or [[File:VexatiousIcon.png|30x30px]] Vexatious.                                                      
+
+{{DifficultiesNavbox}}
+[[Category:Class 2]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Two color icon]]
+[[Category:Possible]]
+[[Category:Class Finale Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Emoticon Difficulties]]

@@ -1,0 +1,85 @@
+{{Humanly Possible}}<div class="html5audio" style="clear:both;float:right;" data-file="https://static.wikia.nocookie.net/jtohs-joke-towers/images/e/ef/ChampionsRoadMusic.mp3" data-volume="0.1" data-download="false" data-preload="metadata" data-options="autoplay,loop">{{Background|File=Champion's Road.png|Size=1900px}}
+The official music of <span style="color:#81ff73;text-shadow:0 2px 5px #81ff73;font-family:Josefin Slab">''Champion's Road''</span></div>
+==What is '''Champion's Road?'''==
+{{NewDifficultyInfobox|title1=Champion's Road|image1=
+<gallery>
+Champion's Road.png|Current
+CRShape.png|Shape
+ToCR.png|Old
+Champions road revamp.png|Older
+Champion,s road.png|Oldest
+Unused CR.png|Unused
+</gallery>|caption1=tower difficulty itself|type/class=Class 3|previous_name=Champion,s Road|original_name=Champion,s Road|date_added=1/10/22 ig?|date_removed=Soon. but could be not deleted|class=[[:Category:Class 3|3]]|type=[[:Category:Sub-Difficulties|Sub Difficulty]]|previous={{Class3Difficulties|Catastrophic}} [[w:c:jtoh:Catastrophic|Catastrophic]]|next={{Class3Difficulties|Eccentric}} [[Eccentric]]|difficulty_range=Baseline to Peak|official_music(s)=[https://youtu.be/qAx3hTZeyBw Solar Phase 2 - Sonic The Hedgehog (OST)]|creator(s)=*[[User:Sanjay2133|Sanjay2133]] (Original Original Creator/Icon Creator)
+*[[User:Heck-Hax|Heck-Hax]] (Original Creator)
+*[[User:Viranenthusiast|Viranenthusiast]] (Revamper)|main_difficulty={{Class3Difficulties|Catastrophic}} [[w:c:jtoh:Catastrophic|Catastrophic]]|class_range=High|rating=12.125|decal_id=[https://create.roblox.com/store/asset/17172078088/Champions-Road 17172078088]}}
+You’re at the last sub-difficulty of {{Class3Difficulties|Catastrophic}} [[w:c:jtoh:Catastrophic|Catastrophic]], and the last tower difficulty alive. Welcome, {{USERNAME}}. You are now in the [[:Category:Sub-Difficulties|sub-difficulty]] known as '''Champion’s Road''', which is the difficulty form of the JToH tower [[w:c:jtoh:ToCR|Tower of Champion's Road]] (ToCR). It is located in [[:Category:Class 3|Mid Class 3]] as a sub difficulty and the normal difficulty {{Class3Difficulties|Horrific}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]]. This difficulty contains gameplay & design similar to Tower of Champion's Road.
+
+This difficulty is still [[:Category:Humanly Possible|humanly possible]], but extremely challenging, requiring great precision only the best of obbyists are capable of. Only true champions will surpass this, and the champion's road is (very likely)  for you.
+==Icon Representation==
+<tabber>Current=<center>[[File:Champion's Road.png|70x70px]]</center>
+It contains the floor colors of ToCR, along with a small dark red line in the middle and a dark red circle in the center.
+<small>(Made by Sanjay.)</small>
+|-|
+Old=<center>[[File:ToCR.png|80x80px]]</center>There is a teal background, with a yellow border, and the initials of the difficulties name in the middle. Just below the initials are the full difficulties name.
+|-|
+Older=<center>[[File:Champions road revamp.png|80x80px]]</center>
+It is the same as the old icon, but the border is teal, and there are the colors of Tower of Champion’s Road, the crown is lower effort and so is the text.
+<small>(Made by haxour our (Heck-Hax).)</small>
+|-|
+Oldest=<center>[[File:Champion,s road.png|80x80px]]</center>
+It is the same as the old icon, but more crudely drawn.
+<small>(Made by haxour our (Heck-Hax).)</small>
+|-|
+Unused=<center>[[File:Unused CR.png|80x80px]]</center>
+It is a teal background, with a black bit in the top left, top right and bottom left corners, along with a bunch of white scribbles, and a crudely drawn text saying ‘FR’, aswell as a crudely drawn crown. It is 100% the worst one.
+<small>(Made by haxour our (Heck-Hax).)</small></tabber>
+==Obstacles==
+===Baseline '''Champion’s Road'''===
+*11.625 stud wraparound (Climbable)
+*11.575 stud wraparound (Unclimbable)
+*12.545 stud jump (Climbable)
+*12.495 stud jump (Unclimbable)
+===Low '''Champion’s Road'''===
+*11.65 stud wraparound (Climbable)
+*11.6 stud wraparound (Unclimbable)
+*12.57 stud jump (Climbable)
+*12.52 stud jump (Unclimbable)
+===Mid '''Champion’s Road'''===
+*11.675 stud wraparound (Climbable)
+*11.625 stud wraparound (Unclimbable)
+*12.595 stud jump (Climbable)
+*12.545 stud jump (Unclimbable)
+===High '''Champion’s Road'''===
+*11.7 stud wraparound (Climbable)
+*11.65 stud wraparound (Unclimbable)
+*12.62 stud jump (Climbable)
+*12.57 stud jump (Unclimbable)
+===Peak '''Champion’s Road'''===
+*11.725 stud wraparound (Climbable)
+*11.675 stud wraparound (Unclimbable)
+*12.645 stud jump (Climbable)
+*12.5954 stud jump (Unclimbable)
+==Tower Section==
+===Towers in this difficulty===
+*[[w:c:jtoh:ToCR|Tower of Champion's Road]] (ToCR) (JToH Tower)
+*[[Room of Truely Giving Up]] (RoTGU) (Unfictional)
+*Tower of The Rainbow Road (ToTRR) (Fictional)
+*Steeple of The Light of Glory (SoTLoG) (Fictional)
+===Towers with this difficulty===
+*[[Great Citadel of Beyond Impossible Difficulties]] ('''GCoBID''')
+==Trivia==
+*This wasn’t on the chart for months.
+*This difficulty was a candidate for deletion for months due to being absolutely awful.
+*This difficulty was revamped by The Difficulty Enthusiast to save it from deletion.
+*This difficulty was inspired by ToCR. (obviously)
+==Continuing From This Point==
+Well, you’ve completed the canon difficulties of EToH. You are easily one of the best I’ve ever seen. You should take a break, as it’s good for you after completing something so mentally draining. Whenever you’re ready, move to {{Class3Difficulties|Horrific}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]]?{{DifficultiesNavbox}}
+[[Category:Class 3]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Towers Difficulties]]
+[[Category:Soul Crushing]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]

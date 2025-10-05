@@ -1,0 +1,73 @@
+__NOTOC__{{Humanly Impossible}}{{Classic}}
+{{ArticleTab}}
+==What is <span style="color:#800000;">'''Monstrous'''</span>?==
+{{NewDifficultyInfobox
+|title1 = Monstrous
+|image1 = Bettermonstrous.png
+|caption1 = A 'ζ' (Zeta) symbol on a black background that’s fading into red.
+|class = [[:Category:Class 5|Class 5]]
+|type = [[:Category:Difficulties|Normal Difficulty]]
+|previous =
+{{Class6Difficulties|Malicious}} [[w:c:jtohs-hardest-towers:Malicious|Malicious]] ''(OoIDC)''
+|next =
+{{Class7Difficulties|Ultimate}} [[Ultimate]] (OoIDC)
+|decal_id = 105760285101766
+|sub_difficulty(ies) =*[[File:Inimical.PNG|25px]] [[Inimical]]
+*[[File:Horrendous.png|25px]] [[Horrendous]]
+|date_added = 16th August 2020
+|previous_sub_difficulty(ies) = Rho
+|alt_next=[[File:Inimical.PNG|30px]] [[Inimical]] (sub difficulty)|alt_previous=[[File:Eldritch.jpg|30px]] [[ᴇʟᴅʀɪᴛᴄʜ]]|rating=40}}[[File:Bettermonstrous.png|frameless|30x30px]] <span style="color:#800000;">'''Monstrous'''</span> is a Class 5 difficulty that succeeds {{Class6Difficulties|Malicious}} [[w:c:jtohs-hardest-towers:Malicious|Malicious]]. It is the fourth hardest difficulty of the Universal Difficulty Chart. 
+
+[[File:Bettermonstrous.png|frameless|30x30px]] <span style="color:#800000;">'''Monstrous'''</span> simply represents difficulty beyond the limit of Malicious, anything labeled as "Beyond Malicious" would generally fall under Monstrous. If Chaotic Tower were to be the limit of Malicious, then this would be seen as any tower that is an extension or relatively normal buff of Chaotic Tower. 
+
+<div class="mw-collapsible mw-collapsed">
+==<small>Icon Representation</small>==
+<div class="mw-collapsible-content">
+[[File:Bettermonstrous.png|frameless|30x30px]] <span style="color:#800000;">'''Monstrous'''</span>'s icon is quite simple. First, it has one of the Greek letters in the center of the icon, highlighted in red and said letter is named Zeta or  'ζ'. The background is a simple gradient, black fading into red. It's really just a normal icon with a symbol on it. Ol' jazz.
+</div>
+</div>                   
+
+==Obstacles Section ==
+Notice: The obstacles below are highly, and inaccurately estimated, so take them with a grain of salt. They may either be not Monstrous, physically impossible or in some cases, easier than Monstrous.
+<tabber>
+|-|
+Obstacles=
+===Obstacles===
+*Moon wallhop
+*4 (Random) Mid-Air-Flat-Wall Clip
+*13 Stud Wrap
+*5.5 Stickout (Climable) (magicdreams managed to do it with 240 FPS)
+*Moon Wallhop with Fling 100 Stud ''( 1 in 1.000.000.000 chance | 1 in 1B chance)''
+* 2 Stud Truss Flick but on top of it is an instabrick!
+*Standard lava checkers but it's got a nice coating of instantkill weldedplatform spinners that have a velocity of 14
+</tabber>
+
+==Towers Section==
+Unfortunately there aren't that many towers of Monstrous difficulty, fictional and not.<tabber>
+|-|
+Towers=
+===Towers===
+*QWERTY - (Fictional)
+*ToBPaG - Tower of Breaking Physics and Gravity (Fictional)
+*CoMUC - Citadel of Mortifying Unlit Claustrophobia - (Fictional)
+*ToVD - Tower of Virgoplexian Death (Fictional)
+*ToBA - Tower of Burning Alive (Fictional)
+*GCoIP - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Great Citadel of Inimical Precision] (QToN Ring 5)
+*R53:M - [https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 53: Monstrous]
+</tabber>
+
+== Gallery==
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#fff" bordercolor="#000" captionsize="large">
+File:Monstrous.PNG|Monstrous’ logo. The Zeta looks squished, so I like the other logo better.
+</gallery>
+''To view more images relating to '''{{PAGENAME}}''' Difficulty, click [[/Gallery|here]].''
+
+==Continuing from this point==
+Wow--yer really a monster. Travelling through floors like this without going insane, I'll give you it: you're good. However you're ''far'' from anywhere to be considered an ultimate being, there is still far more to go, so get done with it. Good luck on [[Ultimate]], or [[Inimical]] if you wish to start with a sub-difficulty.
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Class 5]]
+[[Category:Difficulty]]
+[[Category:Humanly Impossible]]

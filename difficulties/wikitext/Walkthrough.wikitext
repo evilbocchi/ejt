@@ -1,0 +1,223 @@
+<div style="background:#003738;padding:1em;font-family:rubik;border:15px solid #00fbff;border-radius:15px"><div style="position:fixed; z-index:-1; top:0; left:0; 8 lmright:0; bottom:0;" align="center">[[File:Dark Walkthrough Background.png|2440x1500px]]</div>
+{{Scrollbox|Notices={{Humanly Possible}}
+
+}}{{NewDifficultyInfobox|image1=[[File:Walkthrough.png|100px]]|class=Class 0|rating=-21|type=Normal Difficulty|previous=[[File:Locomotion.png|30px]] [[Locomotion]] (-22)|next=[[File:Automatic Joyful Remade.png|30x30px]] [[Automatic Joyful]] (-20)|class_range=High|difficulty_range=Baseline - Peripheral|decal_id=13966882398|sub_difficulty(ies)=N/A|official_music(s)=Depends on the tower|creator(s)=ASuperOriginalName|full_name=Walkthrough|date_added=July 5, 2023|hex_color=Overlay: #94d1ff
+Border: #00cbff|rbg_color=Overlay: 148, 209, 255
+Border: 0, 203, 255|cmyk_color=Overlay: 42%, 18%, 0%, 0%
+Border: 100%, 20%, 0%, 0%|hsv_color=Overlay: 206°, 42%, 100%
+Border: 192°, 100%, 100%|hsl_color=Overlay: 206°, 100%, 79%
+Border: 192°, 100%, 50%}}
+==What is [[File:Walkthrough.png|35px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">Walkthrough</span>?==
+[[File:Walkthrough.png|30px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span> is a Class 0 difficulty that succeeds [[File:Locomotion.png|30px]] [[Locomotion]] and precedes [[File:Automatic Joyful Remade.png|30x30px]] [[Automatic Joyful]]. Just like the rest of the difficulties in this class, this difficulty is a breeze. Towers of this difficulty are typically other towers, but the obstacles are done for you, similarly to walkthrough videos of games. You don't have to do anything, as the player will automatically move through the obstacles. As an example, you could take Citadel of Void, add scripts to make the player do the jumps automatically, and call it a Walkthrough difficulty tower.
+
+This difficulty has a rating of -21, or approximately |0.9| on the Kol Metris scale. It is classified as a '''humanly possible''' difficulty, which means that it can be beaten by a human. It was made by ASuperOriginalName on July 5, 2023.
+
+==Placement==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |'''Placement (credit to BabassPraiser/Sanjay)'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background: #868138; color: white" |'''Class 0 - Mid'''
+|-
+|[[File:Therobloxboss24 JustAir.png|50px]]
+|[[Just Air]]
+|Normal
+| -24
+|-
+|[[File:Happylike remake.png|50px]]
+|[[Happylike]]
+|Normal 
+| -23
+|-
+|[[File:Locomotion.png|50px]]
+|[[Locomotion]]
+|Normal
+| -22
+|-
+| colspan="4" style="background: #866438; color: white" |'''Class 0 - High'''
+|-
+|[[File:Walkthrough.png|50px]]
+|<span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span> '''(You are here!)'''
+|Normal
+| -21
+|-
+|[[File:Automatic Joyful Remade.png|50px]]
+|[[Automatic Joyful]]
+|Normal
+| -20
+|-
+|{{Class0Difficulties|Unlosable|50px}}
+|[[Unlosable]]
+|Normal
+| -19
+|-
+|[[File:Roll Difficulty.png|40px]]
+|[[Unlosable/Old#Roll|Roll]]
+|Variation
+| -19
+|-
+|[[File:Mazeophobia.jpg|40px]]
+|[[Unlosable/Old#Mazeophobia|Mazeophobia]]
+|Variation
+| -19
+|-
+|[[File:ShatteredBabass.png|40px]]
+|[[Shattered Babass]]
+|Sub-Difficulty
+| -18.5
+|-
+| colspan="4" style="background: #7A493D; color: white" |'''Class 0 - Peak'''
+|-
+|[[File:Frivolous.jpg|50px]]
+|<span style="color:#5DA7B4;text-shadow:0 0 1px #5498A4, 0px 0px 5px #4E8E99, 0px 0px 5px #498690">'''[[Frivolous]]'''</span>
+|Normal
+| -18
+|-
+|[[File:Vibeness.png|40px]]
+|'''[[Vibeness]]'''
+|Sub-Difficulty
+| -17.5
+|-
+|{{Class0Difficulties|Automatic|50px}}
+|[[Automatic]]
+|Normal
+| -17
+|-
+|[[File:Spontaneous.png|50px]]
+|[[Spontaneous]]
+|Class Finale
+| -16
+|-
+|}
+
+==Icon Representation==
+<center>[[File:Walkthrough.png|180px]]</center>
+The icon for this difficulty consists of a dark blue smiley face (#002e52) on top of a screenshot of Tower of Spiralling Fates, which is overlayed by a semitransparent blue background (#94d1ffb3). All of this is surrounded by a sky blue border (#00cbff). The icon is meant to represent the difficult obstacles of the tower and how you don't have to do any of them yourself. The decal ID for this difficulty is 13966882398.                                          
+
+==Obstacles==
+<tabber>
+|-|
+Baseline=
+===Baseline [[File:Walkthrough.png|35px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>===
+*Beat ToAST (Tower of Annoyingly Simple Trials), but the obstacles are done for you.
+*Beat ToA (Tower of Anger) with increased speed, but the obstacles are done for you.
+*Beat ToZD (Tower of Zero Disturbances) while your camera is spinning, but the obstacles are done for you.
+*Beat ToM (Tower of Madness) with more killbricks, but the obstacles are done for you.
+*The gameplay time is 130 seconds. 
+|-|
+Low=
+===Low [[File:Walkthrough.png|35px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>===
+*Beat ToH (Tower of Hecc) with your audio visualizer set to Omg Why, but the obstacles are done for you.
+*Beat ToK (Tower of Killjoys) in under 45 minutes, but the obstacles are done for you.
+*Beat ToKY (Tower of Keyboard Yeeting) without touching your keyboard, but the obstacles are done for you.
+*Beat ToSP (Tower of Screen Punching) with extremely dark lighting, but the obstacles are done for you.
+*Beat CoHaD (Citadel of Heights and Depths), but the obstacles are done for you.
+*Beat 3 random Difficult towers in JToH, but the obstacles are done for you.
+*The gameplay time is 135 seconds. 
+
+|-|
+Mid=
+===Mid [[File:Walkthrough.png|35px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>===
+*Beat CoLS (Citadel of Laptop Splitting) with an inverted camera, but the obstacles are done for you. 
+*Beat ToIS (Tower of Increasing Stress) with maximum part reflectance, but the obstacles are done for you.
+*Beat ToPA (Tower of Perilous Antipode) with ink on your screen, but the obstacles are done for you.
+*Beat CoGS (Citadel of Green Stuff) while your entire screen is green, but the obstacles are done for you.
+*Beat ToTS (Tower of True Skill) with random special effects, but the obstacles are done for you.
+*Beat ToCN (Tower of Corrupted Nightmares) with a glitched screen, but the obstacles are done for you.
+*Beat ToGaH (Tower of Glitching and Healing) without moving your camera, but the obstacles are done for you.
+*The gameplay time is 140 seconds. 
+|-|
+High=
+===High [[File:Walkthrough.png|35px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>===
+*Beat TT (Thanos Tower) as a Thanos morph, but the obstacles are done for you.
+*Beat ToDC (Tower of Difficulty Chart), but the obstacles are done for you.
+*Beat ToC (Tower of Confusion) at 90% of your normal size, but the obstacles are done for you.
+*Beat ToBT (Tower of Bent Trauma) with rising lava, but the obstacles are done for you.
+*Beat ToTL (Tower of Thinning Layers) with a thinner avatar, but the obstacles are done for you.
+*Beat ToDT (Tower of Double Trouble) twice, but the obstacles are done for you each time.
+*Beat ToTB (Tower of Terrifying Beauty) with traps, but the obstacles are done for you.
+*Beat ToEI (Tower of Externalizing Insanity) as a skeleton morph, but the obstacles are done for you.
+*Beat ToBK (Tower of Bloodthirsty Kenos) with decreased jump power, but the obstacles are done for you.
+*Beat ToAAA (Tower of Astronomically Aimless Annoyances) whilst ads pop up on your screen every 15 seconds, but the obstacles are done for you. (The ads are cleared once you beat the tower)
+*Beat ToTDA (Tower of The Dripping Amalgam) as Steve, but the obstacles are done for you.
+*Beat ToI (Tower of Inception) as a Part, but the obstacles are done for you.
+*Beat ToIM (Tower of Impossible Movement) without stopping your movement, but the obstacles are done for you.
+*Beat ToOLC (Tower of Overthinking Life Choices) while answering an easy quiz, but the obstacles are done for you.
+*Beat ToMM (Tower of Micro Management) whilst being much smaller, but the obstacles are done for you.
+*The gameplay time is 145 seconds. 
+|-|
+Peak=
+===Peak [[File:Walkthrough.png|35px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>===
+*Beat ToER (Tower of Elongated Runs), but the obstacles are done for you.
+*Beat ToGF (Tower of Generation Failure) with mild lag, but the obstacles are done for you.
+*Beat ToCR (Tower of Champion's Road) as Mario, but the obstacles are done for you.
+*Beat ToCP (Tower of Cruel Punishment) with loud sounds, but the obstacles are done for you.
+*Beat ToVM (Tower of Vindicative Maneuvers) while your camera is constantly shaking, but the obstacles are done for you.
+*Beat ToDIE (Tower of Descent into Exile) backwards, but the obstacles are done for you.
+*Beat ToVH (Tower of Vacant Hindrances), but the obstacles are done for you. Everything is also a killbrick, but they only do 0.001 damage.
+*Beat ToWM (Tower of Water Melon) as a watermelon, but the obstacles are done for you.
+*Beat ToEV (Tower of Eternal Void), but the obstacles are done for you. All parts are black.
+*Beat ToTRP (Tower of The Roof's Pique) with checkpoints each floor, but the obstacles are done for you.
+*Beat CoIV (Citadel of Infinite Void) with a completely black screen, but the obstacles are done for you.
+*Beat ToBF (Tower of Blind Fates) whilst being blind, but the obstacles are done for you.
+*Beat IT (Ikea Tower) while at the nearest IKEA (you will be teleported to one automatically), but the obstacles are done for you
+*Beat ToLP (Tower of Lucas Pentenado), but the obstacles are done for you.
+*The gameplay time is 150 seconds. 
+|-|
+Peripheral=
+===Peripheral [[File:Walkthrough.png|35px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>===
+*Beat NEaGoD (Not Even a Glimpse of Death), but the obstacles are done for you.
+*Beat CoV (Citadel of Void) with a completely black screen, but the obstacles are done for you.
+*Beat BToRF (Buffed Tower of Revolving Fates) while your camera is spinning, but the obstacles are done for you.
+*Beat TGC (The Great Centurial) with Z-fighting everywhere, but the obstacles are done for you.
+*Beat ToTaS (Tower of Tedious and Stodgy) at 0.5x speed, but the obstacles are done for you.
+*Beat MEaTLoAF (Maybe Eating a True Loaf of Absolute Failure) while eating food (it spawns in front of you), but the obstacles are done for you.
+*The gameplay time is 155 seconds. 
+</tabber>
+==Towers==
+===Towers of this difficulty===
+<tabber>
+|-|
+Non-Fictional=
+None yet.
+|-|
+Fictional=
+*Tower of Browsing the Difficulty Chart (High [[File:Walkthrough.png|30px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>)
+*Tower of No Keyboard Yeeting (Low [[File:Walkthrough.png|30px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>)
+*Tower of Effortless Generation Success (Peak (High [[File:Walkthrough.png|30px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>)
+*Tower of Screenplay (Low [[File:Walkthrough.png|30px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>)
+*Not Even a Glimpse of the Tower (Peripheral [[File:Walkthrough.png|30px]] <span style="text-shadow: 0 0 12px #00cbff; color:#00cbff">'''Walkthrough'''</span>)
+</tabber>
+===Towers with this difficulty===
+<tabber>
+|-|
+Non-Fictional=
+• Great Citadel of Possible JJT Difficulties (Peak {{Class3Difficulties|Insane}} <span style="color:#0000FF">'''[[w:c:jtoh:Insane|Insane]]'''</span>)
+|-|
+Fictional=
+None yet.
+</tabber>
+
+==Trivia==
+
+*This difficulty is ASuperOriginalName's second difficulty, and the easiest one he has made so far.
+*The icon for this difficulty was made in PenguinMod, a mod of Scratch.
+*The badge for beating your first tower of this difficulty says ''"Good job, now try it yourself!"''
+
+==Gallery ==
+<gallery>
+File:Walkthrough.png|The icon for this difficulty.
+</gallery>
+
+==Continuing from this point==
+Even though you didn't have to do anything, great job! I hope you enjoyed looking through the towers. Now, go to [[File:Automatic Joyful Remade.png|30x30px]] [[Automatic Joyful]], or skip to [[File:PeacefulNew.png|frameless|30px]] <span style="color: #CCCCFF;text-shadow:0 5px 10px #CCCCFF">[[Peaceful]]</span> if you want to do an actual obstacle course.
+
+{{DifficultiesNavbox}}
+[[Category:Class 0]]
+[[Category:Humanly Possible]]
+[[Category:Starter Zone]]
+[[Category:Emoticon Difficulties]]

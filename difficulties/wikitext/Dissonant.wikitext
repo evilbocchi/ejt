@@ -1,0 +1,68 @@
+<div style="background:maroon;padding:1em;font-family:rubik;border:10px solid red">
+<div style="--theme-accent-color:-webkit-linear-gradient(135deg,#000099,#0000CC,#000099)">
+{{Scrollbox|Notices=
+'''Notices'''
+{{TAS Impossible}}
+{{Large Page}}
+}}
+----
+{{NewDifficultyInfobox
+|title=Dissonant
+|image1=
+<gallery>
+Dissonant Revamp.jpg | Current
+Dissonant.png | Old
+</gallery>
+|caption1='''''Good luck with this.'''''
+|previous=[[File:DESTRUCTIVE.png|frameless|30x30px]] [[Destructive]]
+|next=[[File:Mischievous.png|frameless|30x30px]] [[Mischievous]]
+|class=5
+|class_range=Mid
+|official_music(s)=[https://www.youtube.com/watch?v=BhckRnNBeh0 Perturbator - Diabolus Ex Machina]
+|creator(s)=TotallyNotAMeme00|alt_previous=|alt_next=|difficulty_range=Belowground - Peripheral|rating=37|decal_id=Current: [https://create.roblox.com/store/asset/96580563592280/Dissonant 96580563592280]
+Old: N/A}}
+==What is '''Dissonant'''?==
+'''Dissonant''' is a High Class 5 difficulty, transcending beyond [[File:DESTRUCTIVE.png|frameless|30x30px]] '''[[Destructive]]''' and sitting below [[File:Mischievous.png|frameless|30x30px]] '''[[Mischievous]]'''. In '''Dissonant''', obstacles you will encounter are unfathomably hard, to the point that they are infeasible to attempt in the first place. These jumps incorporate severe RNG into them, along with inhuman levels of skill and precision. Just one microscopic mistake could cost you tons of progress. This difficulty shall not be beaten by any human, let alone attempted for that matter.
+
+'''Dissonant''' is estimated to be Tier 47-48 in tiers, far surpassing the human limit, and putting infamously hard towers such as [[w:c:jtohs-hardest-towers:Chaotic Tower|'''Chaotic Tower''']] to shame. Even beating one obstacle of this difficulty is a great achievement that most would consider as being impossible, due to this difficulty neutralizing any TAS, forcing the usage of multiple external tools along with TAS.  
+
+Before attempting a tower/obby of this difficulty, you should equip yourself with several helpful tools (like extra speed/jumppower,) and prepare by clearing some [[File:DESTRUCTIVE.png|frameless|30x30px]] [[Destructive]] difficulty towers/obbies.
+==Icon Representation==
+<tabber>
+|-|
+New=
+Dissonant's new icon consists of wavy background with various shades of red and maroon, and a ">=D" emoticon in the center.
+|-|
+Old=
+'''Dissonant''''s old icon is rather simple. It consists of four shades of blue and purple surrounding a singular, white "=)" in the middle.
+</tabber>
+
+==Obstacles==
+NOTE: It is recommended to use at least 80 JP and 26 SP to stand a chance at beating this difficulty, as the obstacles are far beyond human capability.{{ObstacleTableRevamp|Increment=0.02|JumpClimbableBase=18.04}}
+==Towers in Dissonant==    
+* Tower of Never Desisting Torment and Agony (ToNDTaA) (Fictional)
+*Obelisk of Godlike Skill (OoGS) (Fictional)
+*Tower of Murderous Chaotic Obstacles (ToMCO) (Fictional)
+*[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Stall of Infuriating Complication] (StoIC) (QToN Ring 5)
+
+==Trivia== 
+*'''Dissonant''' was planned to be added to MoDDA
+*'''Dissonant''' was made on the 28<sup>th</sup> of May 2022.
+*Some scrapped/deleted catches (before catches were removed) for this difficulty were:  
+**Dying would send you back to {{Class5Difficulties|CALAMITY|30px}} '''[[CALAMITY]]'''. (Deleted because it was bad.)
+**Lava would engulf each floor every minute. (Scrapped because it was too hard.)
+*For a brief period of time, it was moved to the finale of Class 6.
+*This difficulty's obstacles used to be exponentially harder than other Class 6 difficulties.
+
+== On from '''Dissonant'''==
+"How?", you think to yourself as you reach the winpad. How did you make it out alive? How did you not give up? This was said to be an impossible feat. Then, you remember. Your journey isn't over just yet. In fact, it's nowhere close to finished. The next difficulty that awaits you is [[File:Mischievous.png|frameless|30x30px]] '''[[Mischievous]]'''. Things are getting worse and worse as you near the border of physical possibility...
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 5]]
+[[Category:Difficulty]]
+[[Category:Revamped Difficulty]]
+[[Category:Emoticon Difficulties]]
+[[Category:Revamps]]
+[[Category:Humanly Impossible]]
+[[Category:Large Pages]]

@@ -1,0 +1,69 @@
+{{Scrollbox|Notices=
+'''Notices'''
+{{Physically Impossible}}
+}}
+==Introduction==
+{{NewDifficultyInfobox
+|title1=<span style="background:linear-gradient(90deg,lime,white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Undocumented'''</span>
+|image1=Undocumented.png|class=[[:Category:Class 9|Class 9]]
+|type=* Unofficial Difficulty
+* Physically Impossible
+* [[:Category:Liminality Chain|Liminality Chain]] Difficulty
+|previous=* [[File:Mysterious2.png|30px|link=Mysterious]] [[Mysterious]]
+|next=* [[File:Liminesque.png|30px|link=Denial]] [[Denial]]
+|difficulty_range=Baseline to Peak
+|decal_id=[https://create.roblox.com/store/asset/89386283078692/Undocumented 89386283078692]
+|class_range=Middle
+|rating=95}}
+<span style="background:linear-gradient(90deg,lime,white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Undocumented'''</span> is the second difficulty of the [[:Category:Liminality Chain|Liminality Chain]], with the other 2 in the chain being called [[File:Mysterious2.png|25x25px]] [[Mysterious]] and [[File:Liminesque.png|frameless|25x25px]] [[Denial]]. Speaking of which, it goes between those other difficulties in the chain.
+
+This difficulty revolves around extremely difficult obstacles, which are very difficult to construct in a tower, let alone complete. You would need tools like exploits in order to even stand a chance against '''Undocumented'''.
+
+This would have a very high tier rating (around tier 3000?) as well as a high Kol Metris rating (maybe |530|?), although neither of those measurements are precise in this format.
+==Icon Representation==
+Undocumented’s icon is represented with many pixelated lime and forest green splotches, and a inner layer of greenish teal and dark greenish teal splotches. There is a smudged white diamond on the top left and bottom right corners of the icon, and a light green theta icon with a inner lime outline and a dark green outline surrounding the other outline. Finally, there is a ring of many, many extremely thin white droplets.
+==Obstacles==
+===Baseline '''Undocumented'''===
+*4200 stud jump. (Climbable)
+*4195 stud jump. (Unclimbable)
+*4195 stud wrap. (Climbable)
+*4190 stud wrap. (Unclimbable)
+===Low '''Undocumented'''===
+*5100 stud jump. (Climbable)
+*5095 stud jump. (Unclimbable)
+*5095 stud wrap. (Climbable)
+*5090 stud wrap. (Unclimbable)
+===Middle '''Undocumented'''===
+*6000 stud jump. (Climbable)
+*5995 stud jump. (Unclimbable)
+*5995 stud wrap. (Climbable)
+*5990 stud wrap. (Unclimbable)
+===High '''Undocumented'''===
+*6900 stud jump. (Climbable)
+*6895 stud jump. (Unclimbable)
+*6895 stud wrap. (Climbable)
+*6890 stud wrap. (Unclimbable)
+===Peak '''Undocumented'''===
+*7800 stud jump. (Climbable)
+*7795 stud jump. (Unclimbable)
+*7795 stud wrap. (Climbable)
+*7790 stud wrap. (Unclimbable)
+==Towers==
+There aren’t any non-fictional towers in this difficulty yet, so the section isn’t here.
+===Fictional Towers===
+*Tower of Undocumented Isolation (ToUI)
+*Steeple of Insanity’s Reaches (SoIR)
+*Room of Maniacal Mayhem (RoMM)
+===Difficulty Chart Towers===
+*Currently none.
+==Trivia==
+*Most of the article was made while the creator was on a trip, on their phone.
+*'''Undocumented''' is a Class 33 Difficulty in '''The Difficulty Machine: Revamp'''.
+==Continuing on from this point==
+I congratulate you on this achievement, as now you can go into [[File:Liminesque.png|frameless|25x25px]] [[Denial]], the finale of this chain.
+{{DifficultiesNavbox}}
+[[Category:Class 9]]
+ 
+[[Category:Physically Impossible]]
+[[Category:Liminality Chain]]
+[[Category:Difficulty]]

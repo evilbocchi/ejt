@@ -1,0 +1,539 @@
+{{DISPLAYTITLE:<span id="ult">Ultimaniac</span>}}
+<div id="border" style="padding: 0.2em">
+<div id="background">
+<div style="padding: 0.2em; background: linear-gradient(to bottom, #FFE891, transparent, #FFE891)">
+<div id="background" style="padding: 0.5em">
+{{Background|File=Ultimaniac background.png}}
+{{CSS|content=<nowiki>
+/* DM Serif Display - Difficulty name font/Larger text */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+/* Playfair Display - Body text */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+/* Page Styling */
+.page__main {
+    background: #8100007F;
+    border: 2px solid #FFA700;
+    box-shadow: inset 0 0 4px 2px #FFA7007F, inset 0 0 24px #810000
+}
+.fandom-community-header {
+    background-image: linear-gradient(to bottom, transparent, #FFA70040) !important
+}
+.page-side-tool, #p-cactions {
+    border: solid 2px #FFE891;
+    filter: drop-shadow(0 0 6px #FFA7007F)
+}
+.page-side-tool, #p-cactions.wds-dropdown__content {
+    color: #FFE891 !important;
+    background: #120200;
+    transition: 0.3s
+}
+.page-side-tool:hover, #p-cactions.wds-dropdown__content:hover {
+    color: #FFF !important;
+    filter: drop-shadow (0 0 4px #FFE891);
+    background: #120200
+}
+#p-views.page-header__actions {
+    background: none !important
+}
+
+/** Right rail styling **/
+.page__right-rail {
+	background: url(https://static.wikia.nocookie.net/jtohs-joke-towers/images/5/52/Ultimaniac_background_border.png/revision/latest?cb=20240728131446) !important;
+    background-size: 100% 100% !important;
+}
+.rail-module {
+    border-bottom: 2px solid #FFF
+}
+section#wikia-recent-activity.rail-module.recent-wiki-activity.activity-module {
+    border-bottom: none
+}
+
+/*** A very overcomplicated way to find some specific tags; no, I'm not sorry. ***/
+.page__right-rail > div.right-rail-wrapper.WikiaRail > div#WikiaRail.is-ready > div.DiscordIntegratorModule.rail-module > h2.activity-heading > div.mw-parser-output > p, h2.wds-widget-frame__title, h2.rail-module__header.has-icon {
+    font-family: 'DM Serif Display';
+    font-size: 160% !important;
+    letter-spacing: 0.05em !important;
+    color: #FFF;
+    text-shadow: 0 0 0.2em #1202007F !important
+}
+
+.rail-module h2.has-icon svg {
+    fill: #FFFFFFFF;
+    filter: drop-shadow(0 0 0.2em #120200)
+}
+div.wds-widget-frame__content, ul.rail-module__list.is-condensed-list, ul.rail-module__list.activity-items, section.community-page-rail-module > div.content {
+    padding: 0.5em;
+    background: url(https://static.wikia.nocookie.net/jtohs-joke-towers/images/a/a6/Red_Carbon_Fibre_background.png/revision/latest?cb=20240728153911);
+    background-size: 400px;
+    background-repeat: repeat;
+	border: 2px solid #FFE891;
+}
+section.community-page-rail-module > div.content > div.description, a.wds-button.wds-is-secondary.entry-button {
+    font-family: 'Playfair Display';
+    color: #FFF !important;
+    transition: 0.3s
+}
+a.wds-button.wds-is-secondary.entry-button:hover {
+    text-shadow: 0 0 0.4em #FFE891C0 !important
+}
+#border {
+    background: url(https://static.wikia.nocookie.net/jtohs-joke-towers/images/5/52/Ultimaniac_background_border.png/revision/latest?cb=20240728131446);
+    background-size: 100% 100%
+}
+#background {
+    background: url(https://static.wikia.nocookie.net/jtohs-joke-towers/images/a/a6/Red_Carbon_Fibre_background.png/revision/latest?cb=20240728153911);
+    background-size: 100%;
+    background-repeat: repeat
+}
+
+/* Difficulty name */
+#ult {
+    font-family: 'DM Serif Display';
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    color: transparent;
+    background: linear-gradient(to bottom, rgba(255, 232, 145,1) 0%, rgba(255, 232, 145,1) 35%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 50%, rgba(177,10,0,1) 100%), linear-gradient(135deg, rgba(255,168,0,1) 0%, rgba(255,168,0,1) 27%, rgba(255,168,0,1) 27%, rgba(255,210,38,1) 27%, rgba(255,210,38,1) 34%, rgba(255,168,0,1) 34%, rgba(255,168,0,1) 56%, rgba(255,210,38,1) 56%, rgba(255,210,38,1) 80%, rgba(255,168,0,1) 80%, rgba(255,210,38,1) 80%, rgba(255,168,0,1) 80%, rgba(255,168,0,1) 100%);
+    -webkit-background-clip: text;
+    filter: drop-shadow(0 0 0.1em #B13100)
+}
+
+/* Text styling */
+.portable-infobox, .page-content p, .table, .page-content ul, .page-content ol, .page-content li, .page-content q {
+    font-family: 'Playfair Display';
+    color: #f5f1e4
+}
+.page-content p, .page-content ul, .page-content ol, .page-content li {
+    line-height: 2
+}
+h2.head {
+    text-align: center;
+    font-family: 'DM Serif Display';
+    letter-spacing: 0.05em;
+    font-size: 180%;
+    color: #FFF;
+    text-shadow: 0 0 0.4em #FFD226;
+    border-bottom: none
+}
+#headborder {
+    margin: 0;
+    width: 100%;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, #FFF, #00000000) /** Just did this to mess around LOL **/
+}
+/** Styling for regular links **/
+.text {
+    color: #FFE891;
+    transition: 0.3s
+}
+.text:hover {
+    color: #FFF;
+    text-shadow: 0 0 0.4em #FFE891C0
+}
+
+/* Infobox styling */
+.portable-infobox {
+    border-image: url(https://static.wikia.nocookie.net/jtohs-joke-towers/images/5/52/Ultimaniac_background_border.png/revision/latest?cb=20240728131446) 30 stretch;
+	border-width: 2px;
+    box-shadow: inset 0 0 0 2px #120200, 0 0 16px 2px #B13100C0;
+}
+.portable-infobox.pi-background {
+    background: url(https://static.wikia.nocookie.net/jtohs-joke-towers/images/a/a6/Red_Carbon_Fibre_background.png/revision/latest?cb=20240728153911);
+    background-size: 150%;
+    background-repeat: repeat
+}
+.portable-infobox .pi-border-color {
+	border-color: #200200
+}
+.portable-infobox .pi-image {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.portable-infobox .wds-tabs__tab {
+	color: #f5f1e4
+}
+.portable-infobox .wds-tabs__tab:hover, .portable-infobox .pi-header, .portable-infobox .pi-data-label {
+    color: #FFF
+}
+.portable-infobox .wds-tabs__tab:hover {
+    text-shadow: 0 0 0.4em #FFD226
+}
+.portable-infobox .pi-navigation {
+    color: #f5f1e4
+}
+
+/* Table styling */
+.table {
+	border-collapse: collapse;
+    width: auto;
+	text-align: center;
+	border: 2px solid #FFA700;
+    filter: drop-shadow(0 0 0.4em #FFD22640)
+}
+th.table {
+    padding: 1em 0.5em 1em;
+    font-weight: bold;
+    background: #120200;
+    color: #FFF;
+    text-shadow: 0 0 0.4em #FFD226
+}
+td.table {
+	padding: 0.5em 1em 0.5em;
+    background: url(https://static.wikia.nocookie.net/jtohs-joke-towers/images/a/a6/Red_Carbon_Fibre_background.png/revision/latest?cb=20240728153911);
+    background-size: auto;
+    background-repeat: repeat;
+    box-shadow: inset 0 0 0 2px #120200
+}
+td.image {
+    padding: 2px;
+    background: #120200
+}
+
+/** Collapsible button styling **/
+.mw-collapsible .mw-collapsible-toggle span.mw-collapsible-text {
+    color: #FFE891;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: 0.3s;
+    padding: 0 0.5em
+}
+
+.mw-collapsible .mw-collapsible-toggle span.mw-collapsible-text:hover {
+    text-shadow: 0 0 0.6em #FFE891C0;
+    color: #FFF
+}
+
+.mw-collapsible-toggle-default::before,
+.mw-collapsible-toggle-default::after {
+    display: none
+}
+
+/** Obstacle Table **/
+th.ot, td.ot {
+    color: #FFF;
+    box-shadow: inset 0 0 0 2px #120200;
+    text-shadow: none;
+    background: none
+}
+th.ot {
+    text-shadow: 0 0 0.2em #000
+}
+td.b { background-color: #0067B1 }
+td.bl { background-color: #165A9A }
+td.l { background-color: #2C4D84 }
+td.lm { background-color: #413F6D }
+td.m { background-color: #583458 }
+td.mh { background-color: #6E2642 }
+td.h { background-color: #84192C }
+td.hp { background-color: #9A0D16 }
+td.p { background-color: #B10000 }
+
+/* Quotebox Styling */
+.page-content q, #quoter, #quote {
+    user-select: none
+}
+.page-content q {
+    filter: drop-shadow(0 0 0.4em #FFD226)
+}
+#quote {
+    margin: 0;
+    font-family: 'Playfair Display';
+    font-size: 300%;
+    color: #FFF;
+}
+</nowiki>}}
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Large Page}}{{Classic}}}}<br>
+<div id="border" style="margin: auto; padding: 4px; width: 75%; box-shadow: 0 0 15px 5px #B131007F"> <!-- Gold trim -->
+<div id="background" style="margin: auto; width: auto"> <!-- Background for shine -->
+<div style="margin: auto; padding: 2px; width: inherit; background: linear-gradient(to bottom, #FFE891, transparent)"> <!-- Shine -->
+<div id="background" style="margin: inherit; width: inherit"> <!-- Actual background -->
+<div style="margin: inherit; text-align: center; padding: 10px; width: inherit; background: #00000040"> <!-- Darken background, main body -->
+<span id="quote" style="padding-right: 20px">“</span><q style="margin: 0">You must be a "maniac" to attempt something so "ultimate!"</q><span id="quote" style="padding-left: 20px">”</span><br>
+<p id="quoter" style="margin: 0; text-align: right">- Original caption for [[File:New Ultimaniac Icon.png|15px]] <span id="ult">Ultimaniac</span>'s infobox by [[User:Sanjay2133|Sanjay2133]]</p>
+</div></div></div></div></div>
+{{NewDifficultyInfobox|gradient=#120200,#120200|image1=
+<gallery>
+New Ultimaniac Icon.png|Current
+ULTIMANIAC difficulty revamp icon.png|Classic
+File:Ultimaniac.png|Original
+</gallery>|title1=<span id="ult" style="font-size:180%">Ultimaniac</span>|caption1=|class=[[:category:Class 6|<span class="text">Class 6</span>]]|type=* Chain Difficulty
+* [[:category:Sub-Difficulties|<span class="text">Sub-Difficulty</span>]]|previous=[[File:ThetaVoidRevamp.png|27px]] [[Theta-Void]]|next=[[File:SquareSupreme.png|35px]] [[Supreme]]|class_range=Peak|difficulty_range=Bottom to Peak|chain(s)=[[:Category:Mike's Difficulty Chart Chain|<span class="text">Mike's Difficulty Chart]]</span>|creator(s)=* [[User:HorizonOfSingularities|<span class="text">HorizonOfSingularities</span>]] (Formerly Miketheoctoling) - Original Creator
+* [[User:Sanjay2133|Sanjay2133]] - Prior Revamper
+* [[User:Sushislushwiki|Sushislushwiki]] - Revamper|decal_id=[https://create.roblox.com/store/asset/120309801902656/Ultimaniac 120309801902656] (Current)|date_added=Sep. 24, 2020|date_removed=Dec. 14, 2022|removal_reason=It was, at one point, considered for removal due to the page being low-quality initially.|revamp_date=Dec. 14, 2022|rating=59.5|main_difficulty=[[File:ThetaVoidRevamp.png|30px]] [[Theta-Void]]|official_music(s)=[https://www.youtube.com/watch?v=lclt459JpVQ <span class="text"><nowiki>ProjectMoon Official - [ Library Of Ruina ] And Then is Heard No More</nowiki></span>]}}<h2 class="head">What is [[File:New Ultimaniac Icon.png|40px]] <span style="text-shadow: none" id="ult">Ultimaniac</span>? <div id="headborder"></div></h2>
+[[File:New Ultimaniac Icon.png|25px]] <span id="ult">Ultimaniac</span> is the sub-difficulty for the Peak [[:Category:Class 6|<span class="text">Class 6</span>]] (C6) difficulty [[File:ThetaVoidRevamp.png|25px]] [[Theta-Void]] prior to the C6 Class Finale and 4th [[:Category:Legendary Difficulty|<span class="text">Legendary</span>]] difficulty [[File:SquareSupreme.png|35px]] [[Supreme]]. The exact difficulty rating range is between 59.5 and 59.99.
+
+This sub-difficulty marks the end of the [[:Category:Mike's Difficulty Chart Chain|<span class="text">Mike's Difficulty Chart Chain</span>]], and is the last challenge before finally proceeding to [[File:SquareSupreme.png|35px]] [[Supreme]]. And, as you'd imagine, it's an even greater challenge in both technical execution and luck than its predecessor. And, quite literally, even completing a single jump of this difficulty would make you the ultimate maniac; maniacal and daring beyond belief.
+
+This page is also one of the older pages on the EJT wiki, having been created on August 15th, 2020. Through the years, this difficulty has shifted around in the chart along with the rest of its chain, and has survived [[TDEx Submissions/Safe Difficulties|<span class="text">The Difficulty Execution</span>]] (TDEx). However, despite all that, it has withstood the test of time, and has become a part of the EJT canon as a whole through being in the [[Main Difficulty Chart|<span class="text">Main Difficulty Chart</span>]], if only as a sub-difficulty.
+<h2 class="head">Icon Representation <div id="headborder"></div></h2>
+<table class="table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;" style="margin: auto">
+<tr>
+<th colspan="3" class="table"><big><big>Icon Representation</big></big></th>
+</tr>
+<tr>
+<th colspan="2" class="table"><big>Icon, Version and Date</big></th>
+<th class="table"><big>Description</big></th>
+</tr>
+<tr>
+<th class="table">Current</th>
+<th class="table">May 11th, 2024</th>
+<td rowspan="2" class="table">This icon was created by [[User:Sushislushwiki|Sushislushwiki]], and serves as a rework of the classic icon. The yellow-to-red gradient background has been changed to a shiny brass texture background, the hand-drawn Phi symbol (Φ) in the middle has been turned into a cavity; the inside of which has a burning fire with smoke at the top, the corners have been turned into polished red carbon fibre, and the text that says "GET READY." has been made into an engraving into the brass with a new font.</td>
+</tr>
+<tr>
+<td colspan="2" class="table image">[[File:New Ultimaniac Icon.png|250px]]</td>
+</tr>
+<tr>
+<th class="table">Classic</th>
+<th class="table">August 18th, 2021</th>
+<td rowspan="2" class="table">This icon was created by [[User:HorizonOfSingularities|<span class="text">HorizonOfSingularities</span>]], and was the icon for this difficulty for almost three years straight before being revamped. A yellow-to-red gradient is used as the background, with a hand-drawn Phi (Φ) symbol in dark red in the center, similarly hand-drawn red-orange corners, and reddish orange text below the Phi symbol in the center saying "GET READY." in Comic Sans MS with noticeable letter spacing. 
+<div id="headborder" style="margin: 1em 0.5em"></div>
+"I created this one in FireAlpaca one day because I really didn't like how the older icon looked. Also, I didn't put that much effort into it." - [[User:HorizonOfSingularities|<span class="text">HorizonOfSingularities</span>]]</td>
+</tr>
+<tr>
+<td colspan="2" class="table image">[[File:ULTIMANIAC difficulty revamp icon.png|250px]]</td>
+</tr>
+<tr>
+<th class="table">Original</th>
+<th class="table">August 15th, 2020</th>
+<td rowspan="2" class="table">This icon was created by [[User:HorizonOfSingularities|<span class="text">HorizonOfSingularities</span>]], and was the icon for this difficulty for about a year before being revamped. A blurry and grainy yellowish orange-to-red skybox is used as a background with a slightly off-center dark red Phi (Φ) symbol in the center.
+<div id="headborder" style="margin: 1em 0.5em"></div>
+"Hoo boy. This one. As with all of the other original icons in this chain, it was originally created in ROBLOX Studio, with the low quality and off-centeredness being due to the fact that the image was actually just a screenshot of the difficulty. Needless to say, it's mid. Really mid. Dare I say it's horrendous." - [[User:HorizonOfSingularities|<span class="text">HorizonOfSingularities</span>]]</td>
+</tr>
+<tr>
+<td colspan="2" class="table image">[[File:Ultimaniac.png|250px]]</td>
+</tr>
+</table>
+<h2 class="head">Obstacle Table<div id="headborder"></div></h2>
+<table class="table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;" style="width: 100%">
+<tr>
+<th colspan="10" class="table"><big><big>Obstacle Table</big></big></th>
+</tr>
+<tr>
+<th class="table">Obstacles</th>
+<th class="table ot" style="background-color: #0095FF">Bottom</th>
+<th class="table ot" style="background-color: #2082DF">Bottom-Low</th>
+<th class="table ot" style="background-color: #4070BF">Low</th>
+<th class="table ot" style="background-color: #605D9F">Low-Mid</th>
+<th class="table ot" style="background-color: #804B80">Mid</th>
+<th class="table ot" style="background-color: #9F3860">Mid-High</th>
+<th class="table ot" style="background-color: #BF2540">High</th>
+<th class="table ot" style="background-color: #DF1320">High-Peak</th>
+<th class="table ot" style="background-color: #FF0000">Peak</th>
+</tr>
+<tr>
+<th class="table">Jump (Unclimbable)</th>
+<td class="table ot b">46.334 studs</td>
+<td class="table ot bl">46.48 studs</td>
+<td class="table ot l">46.625 studs</td>
+<td class="table ot lm">46.77 studs</td>
+<td class="table ot m">46.916 studs</td>
+<td class="table ot mh">47.061 studs</td>
+<td class="table ot h">47.206 studs</td>
+<td class="table ot hp">47.352 studs</td>
+<td class="table ot p">47.478 studs</td>
+</tr>
+<tr>
+<th class="table">Jump (Climbable)</th>
+<td class="table ot b">48.773 studs</td>
+<td class="table ot bl">48.926 studs</td>
+<td class="table ot l">49.079 studs</td>
+<td class="table ot lm">49.232 studs</td>
+<td class="table ot m">49.385 studs</td>
+<td class="table ot mh">49.538 studs</td>
+<td class="table ot h">49.691 studs</td>
+<td class="table ot hp">49.844 studs</td>
+<td class="table ot p">49.997 studs</td>
+</tr>
+<tr>
+<th class="table">Wraparound</th>
+<td class="table ot b">41.457 studs</td>
+<td class="table ot bl">41.587 studs</td>
+<td class="table ot l">41.717 studs</td>
+<td class="table ot lm">41.847 studs</td>
+<td class="table ot m">41.977 studs</td>
+<td class="table ot mh">42.107 studs</td>
+<td class="table ot h">42.237 studs</td>
+<td class="table ot hp">42.367 studs</td>
+<td class="table ot p">42.48 studs</td>
+</tr>
+<tr>
+<th class="table">Cylinder Wraparound</th>
+<td class="table ot b">34.141 studs</td>
+<td class="table ot bl">34.248 studs</td>
+<td class="table ot l">34.355 studs</td>
+<td class="table ot lm">34.462 studs</td>
+<td class="table ot m">34.57 studs</td>
+<td class="table ot mh">34.677 studs</td>
+<td class="table ot h">34.784 studs</td>
+<td class="table ot hp">34.891 studs</td>
+<td class="table ot p">34.984 studs</td>
+</tr>
+<tr>
+<th class="table">Raised Wraparound (1)</th>
+<td class="table ot b">31.702 studs raised by 12.193 studs</td>
+<td class="table ot bl">31.802 studs raised by 12.232 studs</td>
+<td class="table ot l">31.901 studs raised by 12.27 studs</td>
+<td class="table ot lm">32.001 studs raised by 12.308 studs</td>
+<td class="table ot m">32.1 studs raised by 12.346 studs</td>
+<td class="table ot mh">32.2 studs raised by 12.385 studs</td>
+<td class="table ot h">32.299 studs raised by 12.423 studs</td>
+<td class="table ot hp">32.399 studs raised by 12.461 studs</td>
+<td class="table ot p">32.485 studs raised by 12.494 studs</td>
+</tr>
+<tr>
+<th class="table">Raised Wraparound (2)</th>
+<td class="table ot b">24.387 studs raised by 19.509 studs</td>
+<td class="table ot bl">24.463 studs raised by 19.57 studs</td>
+<td class="table ot l">24.54 studs raised by 19.632 studs</td>
+<td class="table ot lm">24.616 studs raised by 19.693 studs</td>
+<td class="table ot m">24.693 studs raised by 19.754 studs</td>
+<td class="table ot mh">24.769 studs raised by 19.815 studs</td>
+<td class="table ot h">24.846 studs raised by 19.876 studs</td>
+<td class="table ot hp">24.922 studs raised by 19.938 studs</td>
+<td class="table ot p">24.989 studs raised by 19.991 studs</td>
+</tr>
+<tr>
+<th class="table">Stickout</th>
+<td class="table ot b">19.509 studs</td>
+<td class="table ot bl">19.57 studs</td>
+<td class="table ot l">19.632 studs</td>
+<td class="table ot lm">19.693 studs</td>
+<td class="table ot m">19.754 studs</td>
+<td class="table ot mh">19.815 studs</td>
+<td class="table ot h">19.876 studs</td>
+<td class="table ot hp">19.938 studs</td>
+<td class="table ot p">19.991 studs</td>
+</tr>
+<tr>
+<th class="table">Killbrick Wraparound</th>
+<td class="table ot b">31.702 studs</td>
+<td class="table ot bl">31.802 studs</td>
+<td class="table ot l">31.901 studs</td>
+<td class="table ot lm">32.001 studs</td>
+<td class="table ot m">32.1 studs</td>
+<td class="table ot mh">32.2 studs</td>
+<td class="table ot h">32.299 studs</td>
+<td class="table ot hp">32.399 studs</td>
+<td class="table ot p">32.485 studs</td>
+</tr>
+<tr>
+<th class="table">High Jump</th>
+<td class="table ot b">56.089 studs</td>
+<td class="table ot bl">56.265 studs</td>
+<td class="table ot l">56.441 studs</td>
+<td class="table ot lm">56.617 studs</td>
+<td class="table ot m">56.793 studs</td>
+<td class="table ot mh">56.969 studs</td>
+<td class="table ot h">57.145 studs</td>
+<td class="table ot hp">57.321 studs</td>
+<td class="table ot p">57.474 studs</td>
+</tr>
+<tr>
+<th class="table">Truss Jump</th>
+<td class="table ot b">56.089 studs</td>
+<td class="table ot bl">56.265 studs</td>
+<td class="table ot l">56.441 studs</td>
+<td class="table ot lm">56.617 studs</td>
+<td class="table ot m">56.793 studs</td>
+<td class="table ot mh">56.969 studs</td>
+<td class="table ot h">57.145 studs</td>
+<td class="table ot hp">57.321 studs</td>
+<td class="table ot p">57.474 studs</td>
+</tr>
+<tr>
+<th class="table">Wallhop Jump</th>
+<td class="table ot b">34.141 studs</td>
+<td class="table ot bl">34.248 studs</td>
+<td class="table ot l">34.355 studs</td>
+<td class="table ot lm">34.462 studs</td>
+<td class="table ot m">34.57 studs</td>
+<td class="table ot mh">34.677 studs</td>
+<td class="table ot h">34.784 studs</td>
+<td class="table ot hp">34.891 studs</td>
+<td class="table ot p">34.984 studs</td>
+</tr>
+</table>
+<h2 class="head">Structure List<div id="headborder"></div></h2>
+<table style="width: 100%" class="table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;">
+<tr>
+<th class="table"><big>Name</big></th>
+<th class="table"><big>Exact Difficulty</big></th>
+<th class="table"><big>Status</big></th>
+</tr>
+<tr>
+<td class="table">'''Box of Real Idiot Moments''' ('''BoRIM''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Room of Many Aeons Nullified Instantly After CSS''' ('''RoMANIAC''')</td>
+<td class="table">High [[File:New Ultimaniac Icon.png|25px]] <span id="ult">Ultimaniac</span> (59.89)</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Screw You!''' ('''SY!''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Citadel of Welcome to Hell, time to understand the mistake you made!''' ('''CoWtH,ttutmym!''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Citadel of MrXY's Void''' ('''CoMV''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional</td>
+</tr>
+<tr>
+<td class="table">'''Obelisk of Hellish Death''' ('''OoHD''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional; would be found in Floor 25.</td>
+</tr>
+<tr>
+<td class="table">'''Great Citadel of TooExtreme Difficulty Chart''' ('''CCoTDC''')</td>
+<td class="table">''Unknown.''</td>
+<td class="table">Fictional; would be found in Floor 57.</td>
+</tr>
+<tr>
+<td class="table">'''Great Citadel of Soul Crushing Difficulty Chart''' ('''GCoSCDC''')</td>
+<td class="table">[[File:GingerbreadDifficulty.jpg|25px]] [[w:c:jtoh:Gingerbread|<span class="text">Gingerbread</span>]]</td>
+<td class="table">Has a page [[Great Citadel of Soul Crushing Difficulty Chart|<span class="text">here</span>]]; supposedly found in Floor 61.</td>
+</tr>
+<tr>
+<td class="table">'''Great Citadel of Infinity Ascending''' ('''GCoIA''')</td>
+<td class="table">Peak [[File:Pinnacle.png|30px]] [[Pinnacle]] (115.91)</td>
+<td class="table">Has a page [[Great Citadel of Infinity Ascending|<span class="text">here</span>]]; found in Floor 108.</td>
+</tr>
+<tr>
+<td class="table">'''Monolith of Beyond Immeasurable Difficulty Chart''' ('''MoBIDC''')</td>
+<td class="table">[[File:GingerbreadDifficulty.jpg|25px]] [[w:c:jtoh:Gingerbread|<span class="text">Gingerbread</span>]]</td>
+<td class="table">Has a page [[Monolith of Beyond Immeasurable Difficulty Chart|<span class="text">here</span>]]; found in Floor 108.</td>
+</tr>
+<tr>
+<td class="table">'''Monolith of Completely Endless Difficulties''' ('''MoCED''')</td>
+<td class="table">[[File:GingerbreadDifficulty.jpg|25px]] [[w:c:jtoh:Gingerbread|<span class="text">Gingerbread</span>]]</td>
+<td class="table">Has a page [[Monolith of Completely Endless Difficulties|<span class="text">here</span>]]; found in Floor 698.</td>
+</tr>
+</table>
+<h2 class="head">Trivia<div id="headborder"></div></h2>
+* Prior to the revamp completed on August 2nd, 2024, there was a paragraph in the "What is _?" section, formerly known as the "Introduction" section, explaining that the difficulty's name is a portmanteau of the words "Ultimate" and "Maniac"; "Ultimate" for its finality, and "Maniac" since it would describe what someone would become if they were to attempt a structure of this difficulty.
+* The [[Metris|<span class="text">Kol Metris</span>]]  rating of this difficulty was originally |600+|. However, from the most recent iteration of the Kol Metris system, it would be in actuality just below 500 or just above -500.
+* There used to be a note at the start of the "Obstacle Table" section with the following text below written in verbatim,
+** "I owe my thanks to [[User:Astrominal|Astrominal]] for always filling up obstacle tables in my revamps. Godspeed that genderfluid guardian o7" - [[User:Sushislushwiki|Sushislushwiki]] on this page, 2024
+* This note was then decidedly moved down to the "Trivia" section instead since the note isn't entirely important to the difficulty as a whole.
+<h2 class="head">Continuing On From This Point <div id="headborder"></div></h2>
+Congratulations! You've beaten [[File:New Ultimaniac Icon.png|25px]] <span id="ult">Ultimaniac</span>. Unfortunately however, the next the difficulty afterwards is the Class 6's finale, [[File:SquareSupreme.png|30px]] [[w:c:jtohs-joke-towers:Supreme|Supreme]]. Your patience, determination, and sheer willpower be tested. Good luck, {{USERNAME}}.
+<h2 class="head">Thank You<div id="headborder"></div></h2>
+"You've almost certainly noticed that the styling on this page is significantly more elaborate than most pages. And, you'd be right. After multiple days of trying to make this page as best as I can make it, I think it's safe to say that I'm finally done. Despite this being all for a sub-difficulty tucked away in a difficulty chart someone made all the way back in this wiki's infancy, I wanted to give it the respect and care that it deserved, especially since it's been here for so long.
+
+I bid my thank you to you, {{USERNAME}}, and I give this all to you, [[User:HorizonOfSingularities|<span class="text">HorizonofSingularities]]." - [[User:Sushislushwiki|Sushislushwiki]] on August 2nd, 2024
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Mike's Difficulty Chart Chain]]
+[[Category:Class 6]]
+[[Category:Humanly Impossible]]
+[[Category:Large Pages]]
+[[Category:Sub-Difficulty]]

@@ -1,0 +1,107 @@
+{{Background|File=•bg.png}}<div style="box-sizing:border-box; border-radius:15px;border:3px solid #FFFFFF;overflow:hidden;background:linear-gradient(45deg, #000000,#000000);padding:0.5em;">{{NoticeScrollboxNew|Notices={{Physically Impossible}}
+{{Buffed}}}}{{NewDifficultyInfobox|title1=TooTooHard|image1=<gallery>
+XX.png | Current
+TooTooHard.png | 300px | Old
+TooTooHard Alt.png | Alternate
+TooTooHard Alt2.png | Alternate 2
+</gallery>|caption1=XX|class=10|rating=111|type=* Revived|previous=[[File:Elite_phase1.png|30px]]/[[File:Elite_phase_2.jpg|30px]] [[Exploitist Elite]]|next=[[File:Zanyte.png|30px]] [[Zany]]|alt_previous=|class_range=Mid|difficulty_range=Baseline to Peak|creator(s)=* Touchgrass210779 and RandomUsernameIDunno (claimed)
+* WelcomingToMyChillHome (page creator)|short_name=TTH|original_creator(s)=WelcomingToMyChillHome|previous_creator(s)=WelcomingToMyChillHome|date_added=idk|revamp_date=16 September 2023|rgb_color=0, 0, 0 (backdrop)
+255, 255, 255 (XX)|alt_next=[[File:Obama Prism Ultimate.png|30px]] [[True Obama Prism]]|decal_id=Current; 76756631442286
+Old and Alt: N/A}}
+
+==What is TooTooHard?==
+
+What is '''''TooTooHard''''', you may ask? '''''TooTooHard''''' is a Class 10 difficulty, that is ''[[Pinnacle|Physically Impossible]]''. '''''TooTooHard''''' will never be understood, or even beaten, regardless of which tools one utilizes. Not even an impossible TAS being rated 10,000/10 and not even transcended [[Exploitist Elite|exploits]] would complete a small fraction of a small fraction of any jumps in '''''TooTooHard'''''.
+
+Again, '''''TooTooHard''''' is ''[[Pinnacle|Physically Impossible]]'', defying ROBLOX's Physics engine in order to go through this difficulty, and is a buffed version of TooHard, or WHY. Albeit it might not seem like there is, there is a connection between '''''TooTooHard''''' and TooHard; one is beyond human possibility, and the other one is physically impossible. 
+
+If a singular jump is achieved, and your character does not pixelate until it stops existing and being controllable altogether, there's a high chance that ROBLOX Physics wouldn't allow you to go through, mostly, leading into a crash, making a full run restart back to the beginning. Due to this, Towers in '''''TooTooHard''''' difficulty will ''never'' be accurate; not even the most ambitious of the most ambitious of towers. Spawning inside of a banbrick having to do an also banbrick 99,999,997,952 - which is proven to be [[Pinnacle|''buildable limit'']] - stud wraparound stickout? Inaccurate. Change that to a FzBrick, maybe. But withouth breaking the physics inside ROBLOX, is not possible, ever. 
+
+'''''TooTooHard''''' is a Mid [[The Middleline|Class 10]] difficulty, thus, it reaches into the Baseline Fiction range. However, there are certainly difficulties surpassing it; this only has 1.2-1.4 quadrillion stud jumps.
+
+==Icon Representation==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|-
+!'''''Icon:'''''
+!'''''Description:'''''
+|-
+! style="background:linear-gradient(180deg, white,white); color: #000000" |'''''Current:'''''[[File:XX.png|center|128x128px]]
+| style="background:linear-gradient(180deg, white,white); color: #000000" |'''Nothing much, only a black background with 2 X's in the middle, with a slight glitch effect.'''
+|-
+! style="background:linear-gradient(180deg, white,gray); color: #000000" |'''''Alternate:'''''[[File:TooTooHard Alt.png|center|128x128px]]
+| style="background:linear-gradient(180deg, white,gray); color: #000000" |'''There is TOOHARDTOOHARD spammed all over the icon, except for a white XX, being encased in a rhombus.'''
+|-
+! style="background:linear-gradient(180deg, gray,white); color: #000000" |'''''Alternate 2:'''''[[File:TooTooHard Alt2.png|center|128x128px]]
+| style="background:linear-gradient(180deg, gray,white); color: #000000" |This alternate version of the icon took an inspiration from [[File:WhySDC.png|frameless|30x30px]] [https://jtohs-hardest-towers.fandom.com/wiki/WHY WHY] icon, by using same white border and black background, but with XX and additional gradient to border and background
+|-
+! style="background:linear-gradient(180deg, white,white); color: #000000" | '''''Old:'''''[[File:TooTooHard.png|center|128x128px]]
+| style="background:linear-gradient(180deg, white,white); color: #000000" |'''The same as old, but the X's are smaller and not tilted.'''
+|}
+
+== Obstacles==
+These obstacles are proportional to the [https://jtohs-joke-towers.fandom.com/f/p/4400000000000122574 Great Rebalancing II].
+
+{| class="fandom-table"
+|+Obstacles
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="black">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="black">Low</font>'''
+! style="background-color: yellow; " |'''<font color="black">Mid</font>'''
+! style="background-color: orange; " |'''<font color="black">High</font>'''
+! style="background-color: red; " |'''<font color="black">Peak</font>'''
+|-
+| style="background-color: #1a1616;" | Climbable Jumps
+| style="background-color: #014500;" |<font color="white">1.2Qd studs</font>
+| style="background-color: #336000;" |<font color="white">1.25Qd studs</font>
+| style="background-color: #6d5c00;" |<font color="white">1.3Qd studs</font>
+| style="background-color: #964a00;" |<font color="white">1.35Qd studs</font>
+| style="background-color: #5a0000;" |<font color="white">1.4Qd studs</font>
+|-
+| style="background-color: #1a1616;" |Unclimbable Jumps
+| style="background-color: #014500;" |<font color="white">1.175Qd studs</font>
+| style="background-color: #336000;" |<font color="white">1.225Qd studs</font>
+| style="background-color: #6d5c00;" |<font color="white">1.275Qd studs
+| style="background-color: #964a00;" |<font color="white">1.325Qd studs</font>
+| style="background-color: #5a0000;" |<font color="white">1.375Qd studs</font>
+|-
+| style="background-color: #1a1616;" |Wraparounds
+| style="background-color: #014500;" |<font color="white">1.1875Qd studs</font>
+| style="background-color: #336000;" |<font color="white">1.2375Qd studs</font>
+| style="background-color: #6d5c00;" |<font color="white">1.2875Qd studs</font>
+| style="background-color: #964a00;" |<font color="white">1.3375Qd studs</font>
+| style="background-color: #5a0000;" | <font color="white">1.3875Qd studs</font>
+|-
+| style="background-color: #1a1616;" | Stickouts
+| style="background-color: #014500;" |<font color="white">190T x 300T studs</font>
+| style="background-color: #336000;" |<font color="white">212T x 322T studs</font>
+| style="background-color: #6d5c00;" |<font color="white">234T x 344T studs</font>
+| style="background-color: #964a00;" |<font color="white">256T x 366T studs</font>
+| style="background-color: #5a0000;" | <font color="white">278T x 388T studs</font>
+|}
+
+==Trivia==
+
+*This is a buff of TooHard.
+* This difficulty was claimed by Touchgrass210779 and RandomUsernameIDunno.
+
+==Towers==
+
+=== Fictional===
+- [[Edifice of Two Too Hard Jumps]] (EoTTHJ)
+
+===Real ===
+- N/A
+==Continuing on from this point==
+Okay, then, just go to [[File:Zanyte.png|30px]] [[Zany]]. 
+
+However, just know that JJT seeks to consume you. There is no reward, no items obtainable. [[Babass dficuklty|The motherload of all difficulties]] and [[The Final Difficulty.|the finale of JJT itself]] will ''never'' be beaten, regardless of skillsets that one may have. 
+
+Each difficulty continuously becomes more and more impossible, up to a certain point. As of now, obstacles remain and can be synthesized, however, after a certain point is reached, this statement shifts into a false status. Good luck, traveler.
+
+{{DifficultiesNavbox}}
+[[Category:Previously Graved]]
+[[Category:Difficulties]]
+[[Category:Class 10]]
+[[Category:Physically Impossible]]
+[[Category:Too Chain]]
+[[Category:Revived]]

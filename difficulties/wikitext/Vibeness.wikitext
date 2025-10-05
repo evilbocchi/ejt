@@ -1,0 +1,235 @@
+{{VibenessTheme}}{{DISPLAYTITLE:<big><span class="Vibeness">Vibeness</span></big>}}<div style="padding:1em; border-radius: 25px; background: linear-gradient(to bottom, #ff6755, #c24e40);-webkit-text-fill-color: block;-webkit">
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(to bottom, #b3b354,#bf34a6);-webkit-text-fill-color: block;-webkit">{{ArticleTab}}{{NoticeScrollboxNew|Notices={{Bad Grammar}}{{Humanly Possible}}{{Large Page}}}}
+<nowiki>}}</nowiki>[[File:Vibeness text.png|center|thumb|521x521px]][[File:Vibeness.png|center|frameless|300x300px]]
+
+<br>
+
+<div style="box-sizing:border-box; border-radius:10px;border:3px solid #ff6755;overflow:hidden;background:linear-gradient(180deg, #c94f40,#c94f40)"><center><big><big><big>'''<h2>       ''Introduction''     </h2>'''</big></big></big></div>
+
+<center>[[File:Vibeness.png|30x30px]][[File:Vibeness text.png|86x86px]]is one of many examples of automatic difficulties, notable examples include [[File:Locomotion.png|25x25px]] [[Locomotion]], [[File:Happylike remake.png|25x25px]] [[Happylike]], [[File:Unlosable.png|25x25px]] [[Unlosable]], and many other difficulties, especially the custom ones that aren't on the [[Main Difficulty Chart|Difficulty Chart]]. Like many automatic difficulties, the gameplay is mostly conveyors, elevators including X,Y,Z positions, jump pads, teleports, ziplines, etc.</center>
+
+<br>
+
+<center>[[File:Vibeness.png|30x30px]][[File:Vibeness text.png|86x86px]]is located at the peak range of [[:Category:Class 0|Class 0]] (formerly [[:Category:Class Upper Negative|Class Upper Negative]]). Since this is [[:Category:Class 0|Class 0]], difficulties only take milliseconds to win, falling down, doing nothing, or are completely automatic. This can be classified as [[:Category:Humanly Possible|Humanly Possible]], meaning difficulties with this classification are humanly possible, ranging from [[File:Exist Difficulty Squared.png|25x25px]] [[Exist]] to [[File:TheHumanLimit.png|25x25px]] [[The Human Limit]].</center>
+
+<br>
+
+<center>[[File:Vibeness.png|30x30px]][[File:Vibeness text.png|86x86px]]is a sub-difficulty of [[File:Frivolous.jpg|25x25px]] [[Frivolous]] (-18) which is slightly harder than [[File:Frivolous.jpg|25x25px]] [[Frivolous]]. This difficulty is in-between  [[File:Frivolous.jpg|25x25px]] [[Frivolous]] (-18) or alternatively [[File:Unlosable.png|25x25px]] [[Unlosable]] (-19), [[File:Roll Difficulty.png|20x20px]] [[Unlosable/Old#Roll|Roll]] (-19) (Variation of [[File:Unlosable.png|25x25px]] [[Unlosable]]), [[File:Mazeophobia.jpg|25x25px]] [[Unlosable/Old#Mazeophobia|Mazeophobia]] (-19) (Variation of [[File:Unlosable.png|25x25px]] [[Unlosable]]), [[File:ShatteredBabass.png|20x20px]] [[Shattered Babass]] (-18.5) (sub-difficulty of [[File:Unlosable.png|25x25px]] [[Unlosable]]), and [[File:AutomaticNew.png|25x25px]] [[Automatic]] (-17). With the rating of -17.5 or ~|0.975| using [[Metris]] method.  </center>
+
+<div style="box-sizing:border-box; border-radius:10px;border:3px solid #ff6755;overflow:hidden;background:linear-gradient(180deg, #c94f40,#c94f40)"><center><big><big><big>'''<h2>       ''Placement''     </h2>'''</big></big></big></div>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 0'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+
+!Difficulty Rating
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
+|-
+|[[File:Walkthrough.png|50px]]
+|[[Walkthrough]]
+|Normal
+| -21
+|-
+|[[File:Automatic Joyful Remade.png|50px]]
+|[[Automatic Joyful]]
+|Normal
+| -20
+|-
+|[[File:Unlosable.png|50px]]
+|[[Unlosable]]
+|Normal
+| -19
+|-
+|[[File:Roll Difficulty.png|50px]]
+|[[Unlosable/Old#Roll|Roll]]
+|Variation/Sub-Difficulty
+| -19
+|-
+|[[File:Mazeophobia.jpg|50px]]
+|[[Unlosable/Old#Mazeophobia|Mazeophobia]]
+|Variation/Sub-Difficulty
+| -19
+|-
+|[[File:ShatteredBabass.png|50px]]
+|[[Shattered Babass]]
+|Chain/Sub-Difficulty
+| -18.5
+|-
+| colspan="4" style="background:#7A493D;color:white" |'''Peak'''
+|-
+|[[File:Frivolous.jpg|50px]]
+|'''[[Frivolous]]'''
+|Normal
+| -18
+|-
+|[[File:Vibeness.png|50px]]
+|'''[[Vibeness]]'''
+|Sub-Difficulty
+| -17.5
+|-
+|[[File:AutomaticDiffIcon.png|50px]]
+|[[Automatic]]
+|Normal
+| -17
+|-
+|[[File:Spontaneous.png|75px]]
+|[[Spontaneous]]
+|Class Finale
+|'''<big>-16</big>'''
+|-
+! colspan="25" |'''Class 1'''
+|-
+! Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#629592;color:white" |'''Baseline'''
+|-
+|[[File:JoyfulDiffIcon.png|100px]]
+|<big>[[Joyful]]</big>
+|<big>2nd Legendary</big>
+| -15
+|-
+|[[File:Do Something 2.png|50px]]
+|[[Do Something]]
+|Sub-Difficulty
+| -14.5
+|-
+|[[File:PLACID.png|50px]]
+|[[Placid]]
+|Normal
+| -14
+|-
+|{{Class0Difficulties|Press a Key|50px}}
+|[[Press a Key]]
+| Normal
+| -13
+|-
+|[[File:2Tap2Move.webp|50px]]
+|[[Tap to Move]]
+|Sub-Difficulty
+| -12.66
+|-
+|[[File:WAS.png|50px]]
+|[[Walk A Slope]]
+|Sub-Difficulty
+| -12.33
+|-
+|}<div style="box-sizing:border-box; border-radius:10px;border:3px solid #ff6755;overflow:hidden;background:linear-gradient(180deg, #c94f40,#c94f40)"><center><big><big><big>'''<h2>       ''Icon Representation''     </h2>'''</big></big></big></div>
+
+{| class="wikitable mw-collapsible" style="text-align:center;border:5px solid #ff6755; background: #c94f40;"
+! colspan="3" style="text-align:center; width: 1%;border:5px solid #ff6755; background: #c94f40;" |'''<big>Current Icon</big>'''
+|-
+| colspan="3" style="border:5px solid #ff6755; background: #c94f40;" |[[File:Vibeness.png|center|frameless|400x400px]]
+|-
+| colspan="3" style="border:5px solid #ff6755; background: #c94f40;" |placeholder.
+|-
+! colspan="3" style="border:5px solid #ff6755; background: #c94f40;" |<big>'''Previous Icons'''</big>
+|-
+! style="border:5px solid #ff6755; background: #c94f40;" |Icon
+! style="border:5px solid #ff6755; background: #c94f40;" |Representation
+! style="border:5px solid #ff6755; background: #c94f40;" |Date
+|-
+| style="border:5px solid #ff6755; background: #c94f40;" |<big>'''Old Version:'''</big>[[File:Old Vibeness.png|center|thumb|180x180px]]
+| style="border:5px solid #ff6755; background: #c94f40;" |This icon has a 45° pink-yellow gradient as the background. At the middle, there is a face made up of 2 90° parentheses, and the unicode letter U+1D55.
+| style="border:5px solid #ff6755; background: #c94f40;" |9 July 2023 (D/M/Y)
+|-
+| style="border:5px solid #ff6755; background: #c94f40;" |<big>'''Original Version:'''</big>[[File:Original Vibeness.png|center|thumb|180x180px]]
+| style="border:5px solid #ff6755; background: #c94f40;" |The original icon represents the background gradient at 45 degrees, the color going from hot pink to yellow. At the top right there is a text saying "Vibeness" with a gradient. At the middle there are 3 parentheses that makes a face.
+| style="border:5px solid #ff6755; background: #c94f40;" |4 July 2023 (D/M/Y)
+|-
+|}
+
+<div style="box-sizing:border-box; border-radius:10px;border:3px solid #ff6755;overflow:hidden;background:linear-gradient(180deg, #c94f40,#c94f40)"><center><big><big><big>'''<h2>       ''Obstacles''     </h2>'''</big></big></big></div>
+{| class="fandom-table"
+! colspan="8" |<big>'''''Obstacles'''''</big>
+|-
+!Spectrums
+! style="background-color: #000000;" |'''<font color="#000000">-</font>'''
+!Average Speed, Conveyors. 
+!Average Speed, Elevators. 
+!Average Speed, Ziplines.
+!Average Speed, Balloons.
+!Falling
+!Waiting
+|-
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #000000;" |'''<font color="#000000">-</font>'''
+| style="background-color: #014500;" |55 Studs per Second.
+| style="background-color: #014500;" |70 Studs per Second.
+| style="background-color: #014500;" |80 Studs per Second. 
+| style="background-color: #014500;" |95 Studs per Second.
+| style="background-color: #014500;" |Fall 800 studs to get to the teleporter.
+| style="background-color: #014500;" |Wait 280 seconds to get to the teleporter.
+|-
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: #000000;" |'''<font color="#000000">-</font>'''
+| style="background-color: #336000;" |52.5 Studs per Second.
+| style="background-color: #336000;" |66 Studs per Second.
+| style="background-color: #336000;" |75 Studs per Second.
+| style="background-color: #336000;" |88 Studs per Second.
+| style="background-color: #336000;" |Fall 850 studs to get to the teleporter.
+| style="background-color: #336000;" |Wait 290 seconds to get to the teleporter.
+|-
+! style="background-color: yellow;" |'''<font color="#797d00">Mid</font>'''
+! style="background-color: #000000;" |'''<font color="#000000">-</font>'''
+| style="background-color: #6d5c00;" |50 Studs per Second.
+| style="background-color: #6d5c00;" |62 Studs per Second.
+| style="background-color: #6d5c00;" |70 Studs per Second.
+| style="background-color: #6d5c00;" |81 Studs per Second.
+| style="background-color: #6d5c00;" |Fall 900 studs to get to the teleporter.
+| style="background-color: #6d5c00;" |Wait 300 seconds to get to the teleporter.
+|-
+! style="background-color: orange;" |'''<font color="brown">High</font>'''
+! style="background-color: #000000;" |'''<font color="#000000">-</font>'''
+| style="background-color: #964a00;" |47.5 Studs per Second.
+| style="background-color: #964a00;" |58 Studs per Second. 
+| style="background-color: #964a00;" |65 Studs per Second.
+| style="background-color: #964a00;" |74 Studs per Second.
+| style="background-color: #964a00;" |Fall 950 studs to get to the teleporter.
+| style="background-color: #964a00;" |Wait 310 seconds to get to the teleporter.
+|-
+! style="background-color: red;" |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: #000000;" |'''<font color="#000000">-</font>'''
+| style="background-color: #5a0000;" |45 Studs per Second. 
+| style="background-color: #5a0000;" |54 Studs per Second.
+| style="background-color: #5a0000;" |60 Studs per Second.
+| style="background-color: #5a0000;" |67 Studs per Second.
+| style="background-color: #5a0000;" |Fall 1,000 studs to get to the teleporter.
+| style="background-color: #5a0000;" |Wait 320 seconds to get to the teleporter.
+|}
+<div style="box-sizing:border-box; border-radius:10px;border:3px solid #ff6755;overflow:hidden;background:linear-gradient(180deg, #c94f40,#c94f40)"><center><big><big><big>'''<h2>       ''Trivia and Towers''     </h2>'''</big></big></big></div>
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! style="border:5px solid #ff6755; background: #c94f40;" |<big>'''''Trivia'''''</big>
+|-
+| style="border:5px solid #ff6755; background: #c94f40;" |
+*This difficulty was made by [[User:Astrominal|Astrominal]].
+*This difficulty was planned to be a normal difficulty, but later it was moved to be a sub-difficulty of  [[Frivolous]]. 
+**This difficulty was made meanwhile the [[:Category:Class Negative|Class Negative]] was splitted to [[:Category:Class Lower Negative|Class Lower Negative]] and [[:Category:Class Upper Negative|Class Upper Negative]]. 
+*** Due to The Difficulty Extermination, this difficulty was moved to [[:Category:Class 0|Class 0]].
+*The image was inspired by Vaporwave aesthetic. If you're wondering what Vaporwave is, then research in Aesthetics Wiki or watch a video talking about the aesthetics (recommended watch this video by ''Polygon Donut'')
+|-
+! style="border:5px solid #ff6755; background: #c94f40;" |<big>'''''Towers'''''</big>
+|-
+| style="border:5px solid #ff6755; background: #c94f40;" |
+*[[Tower of Literal Lettuce|ToLL]] (Tower of Literal Lettuce)
+|}
+<div style="box-sizing:border-box; border-radius:10px;border:3px solid #ff6755;overflow:hidden;background:linear-gradient(180deg, #c94f40,#c94f40)"><center><big><big><big>'''<h2>       ''Gallery''     </h2>'''</big></big></big></div>
+<gallery widths="400" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#ffff80" bordercolor="#ff80ff" captionsize="large">
+File:Vibeness.png|The current icon.
+</gallery>
+<center><font size="6">View the full gallery [[/Gallery|here]].</font></center>
+<div style="box-sizing:border-box; border-radius:10px;border:3px solid #ff6755;overflow:hidden;background:linear-gradient(180deg, #c94f40,#c94f40)"><center><big><big><big>'''<h2>       ''Continuing From This Difficulty''     </h2>'''</big></big></big></div>
+
+<center>After avoiding very easy obstacles, you have beaten this difficulty, congratulations. Even though this is slightly easier than [[File:AutomaticNew.png|25x25px]] [[Automatic]], your journey still continues, so you should go to [[File:AutomaticNew.png|25x25px]] [[Automatic]]. Good luck.{{DifficultiesNavbox}}</center>
+[[Category:Humanly Possible]]
+[[Category:Class 0]]
+[[Category:Bad Grammar]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Starter Zone]]

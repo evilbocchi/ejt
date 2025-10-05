@@ -1,0 +1,182 @@
+{{NoticeScrollboxNew|Notices={{Fabled Difficulty}}{{Classic}}{{Physically Impossible}}}}{{Quote (Better Version)|quote=[[MegaDeath]] couldn't stop you? Well then, how about a boss with the health of the signed 64-bit integer limit?|quoter=[[{{PAGENAME}}]] Itself}}{{NewDifficultyInfobox|title1=<big><span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span></big>|image1=<gallery>
+New DI Image.JPG|Current
+{{PAGENAME}}.png|Original
+</gallery>|caption1=|class=[[:Category:Class 8|Low Class 8]]|rating=79|type=[[:Category:Fabled Difficulty|Fabled Difficulty]] and [[:Category:Former Legendary Difficulties|Former Legendary Difficulty]]|previous=[[File:2020 09 21 Kleki.png|30px]] [[Abyssal]] (78)|next=[[File:Not a reason.jpg|30px]] [[Unreasonable]] (80)|alt_previous=|alt_next=[[File:Gigaversal.png|25px]] [[Gigaversal]] (79.5) (Sub-Difficulty)|class_range=<big><big>''Low''</big></big>|difficulty_range=Baseline to Peak|decal_id=*[[File:New DI Image.JPG|40px]] [https://create.roblox.com/store/asset/7793296617/Dilly-Impossible?externalSource=www 7793296617]
+*[[File:{{PAGENAME}}.png|40px]] [https://create.roblox.com/store/asset/7355818937/Dilly-Impossible?externalSource=www 7355818937]|official_music(s)=*[https://www.youtube.com/watch?v=upadBmJ09gM POWER YOU UP (THE SICKEST SQUAD REMIX)]
+*[https://www.youtube.com/watch?v=Y92Ev6dWC_k Badliz - Road to the Core 2]|creator(s)=Astrominal|full_name=Dilly Impossible|short_name=DI|original_class=[[:Category:Class 11|Class 11]]
+[[:Category:Class 10|Class 10]]|original_creator(s)=Astrominal|original_name=Diely Impossible|date_added=22:04, 12 December 2020|revamp_date=24 June 2023|sub_difficulty(ies)=*[[File:Gigaversal.png|25px]] [[Gigaversal]] (79.5) (Sub-Difficulty)
+*[[File:Forgotten diff.png|25px]] [[User blog:Astrominal/Forgotten|'''Forgotten''']] (Fictional)
+*[[File:Unpredictable.png|25px]] Unpredictable (deleted)
+*[[File:Frostrealicon.png|25px]] Frost (deleted)
+*[[File:Lean.png|25px]] Absolutely Impossible (scrapped)|previous_creator(s)=N/A|date_removed=}}
+
+=='''What is <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">{{PAGENAME}}</span>?'''==
+[[File:New DI Image.JPG|35x35px]] <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span> ('''D.I.''') is a '''[[:Category:Class 8|Class 8]]''' [[:Category:Fabled Difficulty|'''Fabled Difficulty''']] (or '''[[:Category:Former Legendary Difficulties|Former Legendary Difficulty]]''') located on '''<span style="background:linear-gradient(180deg,#629592,#395755); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Low</span>''' range. '''D.I.''' is a '''[[:Category:Physically Impossible|Physically Impossible]]''' difficulty, meaning this is completely impossible for humans and TASes to complete it, unless you use abusing physics or using exploits. '''D.I.''' appears multiple projects such as [[Great Citadel of Hellish Difficulties|'''GCoHD''']]''', [[Monolith of Deadly Difficulties Approaching/Gallery|MoDDA]]''' and a lot more, speaking of [[:Category:Towers|'''Towers''']]. '''D.I.''' is originated at [[Great Citadel of Custom, Impossible and Normal Difficulties|'''Great Citadel of Custom, Impossible and Normal Difficulties''']] original version, all away to 2020 and it was made by [[User:Astrominal|'''''Astrominal''''']] (Originally known as '''''Astrominal'''''). Accoring to Astrominal, '''D.I'''. was meant 500 times harder that [[File:MegaDeath.png|30x30px]] [[MegaDeath]]. If '''D.I''' was 500 times harder, the obstacles meant to be thousands studs, approximately Peak [[:Category:Class 8|'''Class 8''']] to Baseline [[:Category:Class 9|'''Class 9''']].
+
+[[File:New DI Image.JPG|35x35px]] <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span> is in-between [[File:2020 09 21 Kleki.png|25x25px]] [[Abyssal]] (78) and [[File:Not a reason.jpg|25x25px]] [[Unreasonable]] (80), alternatively [[File:Gigaversal.png|20x20px]] '''[[Gigaversal]]''' (79.5), with rating of 79. '''D.I''' has 5 sub-difficulties, which they are; one official, one fictional, two deleted and one scrapped.  [[File:Gigaversal.png|20x20px]] '''[[Gigaversal]]''' (79.5), [[File:Forgotten diff.png|25px|frameless]] '''[[User blog:Astrominal/Forgotten|Forgotten]]''' (fictional), [[File:Unpredictable.png|25px|frameless]] Unpredictable (deleted), [[File:Frostrealicon.png|25px|frameless]] Frost (deleted) and [[File:Lean.png|25px|frameless]] Absolutely Impossible (scrapped).
+
+=='''Icon Representation → <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">{{PAGENAME}}</span>'''==
+[[File:New DI Image.JPG|center|200x200px|frameless]]
+
+[[{{PAGENAME}}]] in-game is a red background that has 10000 reflection, making it light blue. but the downside is that only affects with this [https://create.roblox.com/store/asset/2746240891/Lava-Planet-Sky?externalSource=www skybox] i guess. It (was taken from the roblox studio. The face is from [https://create.roblox.com/store/asset/4841508687/Roblox-Dead-Face-Murder-Mystery-2-Old-death-face this] and the other face that i (remember) the id is. Thats all for now.
+
+=='''Obstacles → <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">{{PAGENAME}}</span>'''==
+<tabber>
+|-|
+Baseline=
+===<big>Baseline [[File:New DI Image.JPG|frameless|40x40px]] <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span>:</big>===
+
+* 220 Studs climbable jumps
+* 209 Studs unclimbable jumps
+* 187 Studs wraparounds
+* 182.325 Studs ice wraparounds
+* 154 Studs cylinder wraparounds
+
+|-|
+Low=
+===<big>Low [[File:New DI Image.JPG|frameless|40x40px]] <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span>:</big>===
+
+* 225.833 Studs climbable jumps
+* 214.541 Studs unclimbable jumps
+* 191.958 Studs wraparounds
+* 187.159 Studs ice wraparounds
+* 158.083 Studs cylinder wraparounds
+----
+*Blind spinning natural moon cylinder wallwalk with a 0.75 velocity instant-kill spinner.
+
+|-|
+Middle=
+===<big>Middle [[File:New DI Image.JPG|frameless|40x40px]] <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span>:</big>===  
+
+* 231.666 Studs climbable jumps
+* 220.082 Studs unclimbable jumps
+* 196.916 Studs wraparounds
+* 191.993 Studs ice wraparounds
+* 162.1662 Studs cylinder wraparounds
+----
+*Defeat a boss with 9.235x10<sup>16</sup> health and 7.32x10<sup>24</sup> damage.
+
+|-|
+High=
+===<big>High [[File:New DI Image.JPG|frameless|40x40px]] <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[{{PAGENAME}}]]</span>:</big>=== 
+
+* 237.499 Studs climbable jumps
+* 225.624 Studs unclimbable jumps
+* 201.874 Studs wraparounds
+* 196.827 Studs ice wraparounds
+* 166.249 Studs cylinder wraparounds
+---- 
+*Banbricks that ban for 10 hours.
+*Do a Post-Patch Sideways Mid Air Lava Corner Clip (PPSMALCC).
+
+|-|
+Peak=
+===<big>'''Peak [[File:New DI Image.JPG|frameless|40x40px]] <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">{{PAGENAME}}</span>:'''</big>===  
+
+* 243.332 Studs climbable jumps
+* 231.165 Studs unclimbable jumps
+* 206.832 Studs wraparounds
+* 201.661 Studs ice wraparounds
+* 170.332 Studs cylinder wraparounds
+</tabber>
+==Towers '''→ <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">{{PAGENAME}}</span>'''==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|-
+! colspan="3" style="text-align:center; width:1%;" |<big><big><big>'''<code>''Normal Type:''</code>'''</big></big></big>
+|-
+!'''Tower Image:'''
+!'''Tower Name:'''
+!'''Status:'''
+|-
+![[File:GCoBDCOutsideBottom1.png|center|thumb|200x200px]]
+|<big>'''''GCoBDC - [[Great Citadel of Buildable Difficulty Chart]]'''''</big>
+|Unknown
+|-
+![[File:BoTPiRnew.png|center|thumb|200x200px]]
+|'''<big>''BoTPiR - [[Box of The Pain is Real]]''</big>'''
+|Finished
+|-
+![[File:OoEDaID2.png|center|thumb|200x200px]]
+|<big>'''''OoEDaID - [[Obelisk of Easy Difficult and Impossible Difficulties]]'''''</big>
+|Cancelled + Revamp in progress
+|-
+![[File:Podc.PNG|center|thumb|200x200px]]
+|'''''<big>PoDC - [[Peninsula of Deficient Creativity|Peninsula of Deficient Creation]]</big>'''''
+|Unknown
+|-
+![[File:Placeholder white.PNG|center|thumb|200x200px]]
+|'''<big>''GCo100xDA - [https://www.roblox.com/games/8448268676/Great-Citadel-of-100x-Difficulty-Anxiety Great Citadel of 100x Difficulty Anxiety]''</big>'''
+|Abandoned
+|-
+![[File:Great citadel of beyond impossible difficulties.png|center|thumb|394x394px]]
+|Great Citadel of Beyond Impossible Difficulties
+|W.I.P 
+|-
+![[File:Dilly impossible room difficulty rooms.PNG|center|thumb|200px]]
+|[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 82: Dilly Impossible]
+|Finished
+|-
+! colspan="3" |<big><big><big>'''<code>''Fictional Type:''</code>'''</big></big></big>
+|-
+!'''Tower Image:'''
+! colspan="2" |'''Tower Name:'''
+|-
+![[File:For Fictional Towers.jpg|center|thumb|100x100px]]
+| colspan="2" |<big>'''''RoDI - [[Room of Dilly Impossible]]'''''</big> (Fictional)
+|-
+![[File:For Fictional Towers.jpg|center|thumb|100x100px]]
+| colspan="2" |'''''<big>COEANBF - CITADEL OF EASY ARE NOT BLUE FOOD</big>''''' (Fictional)
+|-
+![[File:For Fictional Towers.jpg|center|thumb|100x100px]]
+| colspan="2" |'''<big>''ToCS - Tower of Collosal SCs''</big>''' (Fictional)
+|-
+![[File:For Fictional Towers.jpg|center|thumb|100x100px]]
+| colspan="2" |<big>'''''MxT - MegaXTower'''''</big> (Fictional)
+|-
+![[File:For Fictional Towers.jpg|center|thumb|100x100px]]
+| colspan="2" |'''<big>''DC - Dilly City''</big>''' (Fictional)
+|-
+![[File:For Fictional Towers.jpg|center|thumb|100x100px]]
+| colspan="2" |'''''<big>ToPWEHT - Tower of Pure Warning Extremely High Temperatures</big>''''' (Fictional)
+|-
+|}
+
+==Trivia '''→ <span style="background:linear-gradient(180deg,var(--theme-page-text-color),#00FFFF); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">{{PAGENAME}}</span>'''==
+*This difficulty was first appeared and created it on [[Great Citadel of Custom, Impossible and Normal Difficulties|'''GCoCIaND''']]. (as Late 2020)
+**at one point [[Great Citadel of Custom, Impossible and Normal Difficulties|'''GCoCIaND''']], [[{{PAGENAME}}]] was the hardest floor. (as Late 2020)
+*{{PAGENAME}} was made by [[User:Astrominal|'''''Astrominal''''']] (originally known as '''''Astrominal''''') (as 12 December 2020‎)
+*[[User:Astrominal|'''''Astrominal''''']] made a T-Shirt about this difficulty. [https://www.roblox.com/catalog/8814063205/ ''L<sup>(ink</sup>''<sup>)</sup>].
+*There was many prior previous and next difficulties, which almost all are deleted. (as 3 March 2024)  
+**Prior previous difficulties:
+***[[File:2020 09 20 Kleki.png|frameless|30x30px]] '''Super-Void'''
+***[[File:CWGP.png|frameless|30x30px]] '''can i get this popular'''
+***[[File:2020 09 yeet Kleki.png|frameless|30x30px]] '''Sing the abcs'''
+***[[File:Meme difficulty icon usable edition number 86.png|frameless|30x30px]] '''Petameme'''
+**Prior next difficulties:
+***[[File:Doog.png|frameless|30x30px]] '''[[Doog]]'''
+***[[File:New UG.jpg|frameless|30x30px]] '''Multiversal Glitch'''
+***[[File:ATTACKING.png|frameless|30x30px]] '''ATTACK'''
+***[[File:Omega-Aleph.gif|frameless|31x31px]] '''Omega-Aleph'''
+***[[File:Please Stop Again.png|frameless|30x30px]] '''''PURE INSANITY'''''
+*This difficulty had 3 previous official sounds: (as 10 July 2023‎)
+**Original: [https://www.roblox.com/library/751746850/ Madness Combat 10: Abrogation (7 minutes)]
+** Previous 1: [https://www.youtube.com/watch?v=SVf7NBncUy0 Carpenter Brut - Paradise Warfare]
+**Previous 2: [https://www.youtube.com/watch?v=Zuw_O5MU5CE Epic Horror Synth Trailer Music - Something Wicked]
+**Current 1: [https://www.youtube.com/watch?v=upadBmJ09gM POWER YOU UP (THE SICKEST SQUAD REMIX)]
+**Current 2: [https://www.youtube.com/watch?v=Y92Ev6dWC_k Badliz - Road to the Core 2]
+
+==Gallery==
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#ffffff" bordercolor="#000000" captionsize="large">
+File:New DI Image.JPG|'''The current image.'''
+File:TADI without effect.JPG|'''A buffed version of {{PAGENAME}} ([[The Absolute {{PAGENAME}}]]).'''
+File:Unrebirth {{PAGENAME}} My Version.png|'''A nerfed version: Dilly Possible or Unrebirth {{PAGENAME}} (deleted)
+</gallery>''View the full gallery [[/Gallery|'''here''']].'''''<big>''<u></u>''</big>'''<center>'''<big>''<u><big><big><big>Difficulty Navigation</big></big></big></u>''</big>'''</center>
+
+<font size="5"><center><font size="5">« [[File:2020 09 21 Kleki.png|40px]] [[Abyssal]] | [[File:New DI Image.JPG|45px]] [[{{PAGENAME}}]] |  [[File:Not a reason.jpg|40px]] [[Unreasonable]] »</center><font size="5">[[Category:Difficulties]]
+[[Category:Class 11]]
+[[Category:Fabled Difficulty]]
+[[Category:Former Legendary Difficulties]]
+[[Category:Physically Impossible]]
+[[Category:Classic Difficulty]]
+[[Category:Important Difficulties]]
+[[Category:GCoCIaND Difficulties]]{{MainDifficultiesNavbox}}

@@ -1,0 +1,38 @@
+{{Quote (IPeedMyPants' Version)|quote=You better have extreme luck and skills for this difficulty, because you don’t wanna know what'll happen when you don’t…|quoter=???}}{{Visual Impairment|reason=The text of void is quite dark if you have dark-mode on, can be hard for people to see the text with bad vision.}}
+==Overview of [[File:2020 09 5675.png|frameless|24px]] <span style="color:black ;font-family:Georgia">'''Void'''</span>==
+{{NewDifficultyInfobox|title1 = <span style="color:black ;font-family:Georgia"><big><big><big>Void</big></big></big></span>|image1 = <gallery>
+2020 09 5675.png|Current
+VD.jpg|Alternate
+</gallery>|class=Peak [[:Category:Class_7|Class 7]]|previous=[[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|24px]] [[Infinity]]|next=[[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|24px]] [[Doog]]|creator(s)=*[[User:Minecraftinfini|Minecraftinfini]]
+**[[User:Difficultymakerxd|Difficultymakerxd]] (1st Page Revamper)
+***[[User:Rarezites|Rarezites]] (2nd Page Revamper)|date_added=September 19th of 2020|revamp_date=*March 31st of 2022 (1st)
+**February 20th of 2023 (2nd)|full_name=Void|rating=''73.5''|type=[[:Category:Difficulties|Devillish Difficulties]] |class_range=''High''}}
+<span style="color:black ;font-family:Georgia">'''Void'''</span> is a [[:Category:Difficulties|Devilish Difficulty]] incorporated in [[:Category:Class 7|Peak Class 7]], placed-inbetween [[File:Screen Shot 2020-08-10 at 9.50.46 AM.png|24px]] [[Infinity]] & its successor [[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|24px]] [[Doog]]. This difficulty is [[:Category:Physically Impossible|physically-impossible]] or basically just <u>impossible</u> in simpler terms.
+
+Obstacles of this difficulty are highly complex & janky. However, it is <u>completely pitch-black in your screen</u>, hence it's name <span style="color:black ;font-family:Georgia">'''Void'''</span>. Which means the difficulty requires inhuman and rough memorization aswell. It is speculated that it is [[:Category:TAS Impossible|TAS-Impossible]].
+==Icon Representation==
+The icon is represented with a dark void. For the alternate icon, it's the same but with some tiny depth added for it to make you truly feel alone. There's pretty much nothing else to explain, it is quite simplistic & bland. Let's not waste time.
+==Obstacles==
+The obstacles of this difficulty utilize janky-high complex jumps, glitches & many more. Topping that off with complete darkness, the difficulty has no chance of ever getting beaten soon even with assistances such as Tool Assistance Speedrun.
+===Catches=== 
+*Your screen will be completely pitch-black, but however. You can still move and press keys. Notice that you can still leave, so that you wont be stuck in the floor forever.
+*Your chat-bubbles dont show up, neither does it show in the chatbox itself.
+===Basics===
+*130-147.8 stud jumps (Baseline-Peak)
+*123.1-138.47 stud wraps (Baseline-Peak)
+*60-87.6 stud stickouts (Baseline-Peak)
+===Glitches===
+*Truss-roof clip (Baseline)
+*Instant-kb natural wallwalk lag abuse (Low)
+* Low-fps fling (Middle)
+*Fixed mid-air corner clip (High)
+* CC false jump (Peak)
+==Trivia==
+*This difficulty was revamped by Rarezites.
+==Continuing on from this point==
+This difficulty could not bring you down? Your ambitions take over & you want to feel even more terror? Very well then, i present to you: [[File:Screen Shot 2020-09-20 at 3.42.02 PM.png|24px]] [[Doog]], it will be very-well harder than this. Goodluck.
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 7]]
+[[Category:Physically Impossible]]
+[[Category:Impossible]]

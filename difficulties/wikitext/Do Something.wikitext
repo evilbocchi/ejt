@@ -1,0 +1,162 @@
+<div style="background-color:#00AAFF;margin:2em; padding:5px 10px; border:15px solid #005783;border-radius: 10px">
+{{CSS|content=<nowiki>
+.theme-fandomdesktop-dark {
+    --theme-link-color: #95A3FF;
+}
+a {
+color:darkblue;
+}
+</nowiki>}}
+{{Scrollbox|Notices=
+{{Humanly Possible}}
+{{Revamp|reason=this page was a candidate for deletion, but it’s discussion is over and the consensus is that this page will stay.}}
+}}
+==Introduction → [[File:Do Something 2.png|40x40px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span>==
+{{NewDifficultyInfobox|class=[[:Category:Class 1|Class 1]]|previous={{Class0Difficulties|Joyful|45px}} [[Joyful]]|next={{Class0Difficulties|Placid}} [[Placid]]|date_added=2021/10/10|image1=<gallery>
+Do Something 2.png | Current
+Do Something Alternate.PNG | Alternate
+Fanmade.webp | Custom
+DoSomething.png | Bianblocks ver.
+</gallery>
+|title1=<span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Do Something</span>|caption1=Walk, jump, slide, press buttons, commit horrible atrocities in the spring of 1987 in Hartford County, Michigan, fling control, write the entire Shrek script, breathe air (wait we already did that), step on killbricks, and more! You just gotta do something!|rating=-14.5|type=[[:Category:Humanly Possible|Humanly possible]] [[:Category:Sub-Difficulties|sub-difficulty]]|class_range=Baseline|main_difficulty={{Class0Difficulties|Joyful|45px}} [[Joyful]]|short_name=DS|creator(s)=[[User:Jack3933|Jack3933]], 
+[[User:Touchgrass210779|Touchgrass210779]], [[User:Saobaomenace|Saobaomenace]], 
+[[User:Loganboi2|Loganboi2]], [[User:TotallyNotAMeme00|TotallyNotAMeme00]], [[User:UnauthorizedPerson|UnauthorizedPerson]]<sup/>revampers|previous_creator(s)=[[User:loganboi2|loganboi2]]}}[[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span> is a Class 1 simple sub-difficulty of [[File:JoyfulDiffIcon.png|30px]] [[Joyful]]. It is extremely easy and should definitely pose no challenge to you. [[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span> is slightly harder than [[File:JoyfulDiffIcon.png|30px]] [[Joyful]] and slightly easier than [[File:PLACID.png|30x30px]] [[Placid]]. [[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span> is only slightly harder than [[File:JoyfulDiffIcon.png|30px]] [[Joyful]] so the jump shouldn't be bad. Similarly, going from here to [[File:PLACID.png|30x30px]] [[Placid]] shouldn't be too hard. These obstacles are very easy, hence the name, "Do Something". You would only need a couple clicks to beat something here, so should be no problem for an obbyist like you.
+
+Obstacles in [[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span> will likely cause absolutely no trouble to you, as they are very simple, rudimentary obstacles. [[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span>'s obstacles can hardly be called "obstacles" as they are basically just pressing keys and jumping. Even peak [[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span> towers only employ obstacles like "press a key once". [[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span> is basically just [[File:JoyfulDiffIcon.png|30px]] [[Joyful]] but with more obstacles than jumping, which you can choose to do any one of them.
+
+==Placement → [[File:Do Something 2.png|40x40px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span>==
+
+=== Peak Class 0 ===
+*[[File:Frivolous.jpg|30px]] [[Frivolous]] (-18)
+**[[File:Vibeness.png|30px]] [[Vibeness]] (Sub Difficulty) (-17.5)
+*{{Class0Difficulties|Automatic}} [[Automatic]] (-17)
+*[[File:Spontaneous.png|30px]] [[Spontaneous]] (-16)
+===Baseline Class 1===
+*{{Class0Difficulties|Joyful}} [[Joyful]] (-15)
+**[[File:Do Something 2.png|25px]] [[Do Something]] ('''YOU ARE HERE''') (-14.5)
+*[[File:PLACID.png|30px]] [[Placid]] (-14)
+*{{Class0Difficulties|Press a Key}} [[Press a Key]] (-13) 
+**[[File:Newttm.webp|25px]] [[Tap to Move]] (Sub Difficulty) (-12.66)
+**[[File:WAS.png|25px]] [[Walk A Slope]] (-12.33)
+===Low Class 1===
+*{{Class0Difficulties|Climb A Truss}} [[Climb A Truss]] (-12)
+**[[File:Tranquil2024.png|25px]] [[Tranquil]] (-11.5)
+*{{Class0Difficulties|Jumpless}} [[Jumpless]] (-11)
+*[[File:Starter.png|30px]] [[Starter]] (-10) 
+**[[File:CakeWalk.png|25px]] [[Cakewalk]] (-9.5)
+
+==Icon Representation → [[File:Do Something 2.png|40x40px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span>==
+
+{| class="sortable mw-collapsible fandom-table “fandom-table”"
+
+!Name
+
+!Icon
+
+!Description
+
+|-
+
+|Current
+
+|[[File:Do Something 2.png|168x168px]]
+
+|This icon is quite simple, it is a light blue background with a big white exclamation mark. Also, the very bottom of the image is transparent. It is simple. 
+|-
+|Revamp
+|[[File:Do Something Revamp.png|frameless]]
+|The icon is a cyan-ish to blue diagonal gradient, with a lighter outline as well. The ! is fixed too, it kinda looks AI generated tbh.
+|-
+
+|Custom
+
+|[[File:Fanmade.webp|alt=|center|frameless|100x100px]]
+
+|This icon for [[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span> is slightly more complex. It has a lighter blue background with 3 exclamation marks that have shadows. It is still simple. 
+
+|-
+
+|Alternate
+
+|[[File:Do Something Alternate.PNG|center|frameless|180x180px]]
+
+|This is the most complex [[File:Do Something 2.png|30x30px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span> icon. It has another light blue background with 2 thick diagnol lines. Inside these lines, there is slanted text saying "DS" standing for Do Something. Atop the upper line, there is text saying "Do Something" and below the lower line is text saying "Walk, Jump, Ride Conveyors, press buttons!" This icon is quite complicated.
+|-
+|Fanmade
+
+|[[File:Fanmade Do Nothing.png|frameless|180x180px]]
+
+|This icon is more complex, but still very simple. The icon shows a sky blue to a deep sky blue Gradient with a white exclamation mark (!) that is rotated slightly.
+
+|-
+|Pixelated
+
+|[[File:Do Something Alternate2.png|center|frameless|180x180px]]
+
+|This icon shows a blue checkerboard background, getting slightly darker at the bottom. There is a dark blue border that turns black in the top-left and bottom-right corners. There is also text saying "DO SOMETHING" on the icon. In the center is the white outline of an exclamation mark.
+|}
+
+===<big>Obstacles → [[File:Do Something 2.png|40x40px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span></big>===
+There are many obstacles in this difficulty, specifically many obstacles that require ''one'' action. Some obstacles include: jumping, breathing, chatting. Heck, <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[File:Do Something 2.png|30x30px]] Do Something'''</span> might even be unclassified due to any action being doable, such as beating difficulties harder than this difficulty, making the difficulty encompass other difficulties within it.
+
+Although due to this nature <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[File:Do Something 2.png|30x30px]] Do Something'''</span> might not be classified, it is classified and a sub-difficulty of {{Class0Difficulties|Joyful}} [[Joyful]], due to obstacles including jumping, which are part of {{Class0Difficulties|Joyful}} [[Joyful]] and some parts of <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[File:Do Something 2.png|30x30px]] Do Something'''</span> might even be roughly equal to it, or even easier because it's more general!
+
+<span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[File:Do Something 2.png|30x30px]] Do Something'''</span> is one of the most unique difficulties, due to having this one-action nature. There were some old obstacles in <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''[[File:Do Something 2.png|30x30px]] Do'''</span> <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Something'''</span> before its ultimate revamp, and those are still the same in difficulty as the difficulty nowadays, which went on to become among the most popular difficulties in JJT.
+
+However. There are some Official obstacles I’ll list them below. 
+
+*Jump
+*Move North
+*Move South
+*Move West
+* Move East
+* Move Northwest
+*Move Northeast
+*Move Southwest
+*Move Southeast
+---- 
+*Walk on a conveyor
+*Walk into an elevator
+*Stay on a spinner
+There's also more, but listing everything you can do would be exhausting. Essentially, all you have to '''do''' is '''something''' that the game can track.
+
+==Towers → [[File:Do Something 2.png|40x40px]] <span style="background:linear-gradient(180deg,Blue,CornflowerBlue); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Do Something'''</span>==
+
+===Non Fictional===  
+* Tower of Doing Anything
+*Tower of Just Something
+*Tower of Old ThatGuyisWhiteColor
+*[[Tower of Exclaimed Warning]]
+*[[Tower of Actions Performed]]
+
+===With this Difficulty===
+
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]]
+*{{Class25Difficulties|The Final Difficulty.}} [[Great Monolith of Every EJT Difficulty]]
+*Tower of Simple Difficulty Chart (Fictional)
+
+==Gallery==
+<gallery>
+File:Do Something 2.png|Do Something's Current Icon
+File:Fanmade.webp|Do Something's Fanmade Icon
+File:Jwklong Do Something.png|jwklong's unofficial icon.
+File:Do Something.png|An early version of Do Something that was made before this difficulty existed, that looks like [[Do Nothing]].
+</gallery>
+
+==Trivia:==
+*This difficulty was made by loganboi2 and revamped by Jack3933, Touchgrass, Saobaomenace, TotallyNotAMeme00 and UnauthorizedPerson.
+*This difficulty was inspired by {{Class0Difficulties|Do Nothing}} [[Do Nothing]], but in {{Class0Difficulties|Do Nothing}} [[Do Nothing]] you are well, doing nothing. Here, at least ''some'' input is required.
+*The main icon for this difficulty was made really quickly.
+*There actually is an image that was called Do Something that had a question mark upside down, (Do Anything?) but that ended up unused and that is why the icon for this is "Do Something 2" now.
+*This could be considered to be easier than [[File:JoyfulDiffIcon.png|30x30px]] [[Joyful]].
+
+==Continuing On: ==
+If you are a completionist head on over to [[File:PLACID.png|30x30px]] [[Placid]], the chart's next difficulty. But if you want to find fun difficulties, head on over to {{Class1Difficulties|Effortless|30px}} [[w:c:jtoh:Effortless|Effortless]].
+{{DifficultiesNavbox}}
+[[Category:Sub-Difficulties]]
+[[Category:Class 1]]
+[[Category:Two color icon]]
+[[Category:Classic Difficulty]]
+[[Category:Revamped Difficulty]]
+[[Category:Starter Zone]]
+[[Category:PaKs]]

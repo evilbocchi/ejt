@@ -1,0 +1,22 @@
+{{DISPLAYTITLE:<span style="color:#99FFEE;">'''Divine'''</span>}}
+{{Unfinished}}
+{{DifficultyInfobox
+|title1=Divine
+|image1=DivineIcon.png
+|type=Joke
+|date_added=January 19, 2025
+}}
+{{Difficulty|Divine|20px}} [[Divine]] was a temporary difficulty in [[w:c:jtoh:The Stronghold|The Stronghold]]. There is currently one tower of this difficulty, that being the [[Box of Improbability Attainment]].
+
+{{Header|Towers}}
+<tabber>
+The Stronghold=
+<div align="center"><font size="5">{{Emblem|TS}} [[w:c:jtoh:The Stronghold|The Stronghold]] {{Emblem|TS}}</font></div>
+*BoIA - [[Box of Improbability Attainment]]
+</tabber>
+
+{{Difficulty Navbox}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:The Stronghold]]
+[[Category:Divine]]

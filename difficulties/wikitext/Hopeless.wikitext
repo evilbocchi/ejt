@@ -1,0 +1,154 @@
+{{Background|File=Fuck hope.png|Size=2000px}}
+{{NoticeScrollboxNew|Notices='''Notices'''
+{{Physically Impossible}}
+{{Classic}}
+<div class="html5audio" style="clear:both;float:right;" data-file="https://static.wikia.nocookie.net/jtohs-joke-towers/images/5/51/The_Binding_of_Isaac_-_Sacrificial.mp3" data-volume="0.5" data-download="false" data-preload="metadata" data-options="autoplay,loop">spooky music ooo</div>}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px red; color:black">'''Hopeless'''</span>}}
+{{NewDifficultyInfobox|title1=[[File:HopelessNewest.png|frameless|30x30px]] <span style="text-shadow: 0 0 4px red; color:black">'''Hopeless'''</span>|caption1=>:)|type=* ''Physically Impossible''
+* ''Devilish''|class=[[:Category:Class 7|Class 7]]|previous=[[File:FalseGanar Z.png|frameless|30x30px]] [[FalseGanar]] (70)|next=[[File:PlumBlocNew.png|Plum Bloc|30px]] [[Plum Bloc]] (72)|image1=<gallery>
+HopelessNewest.png | Current
+Hopeless Difficulty Icon.jpg | Old
+Revamped Hopeless.png | Oldest
+Hopeless.png | Original
+</gallery>|rating=71|alt_previous=|alt_next=|class_range=[[:Category:Class 7|High Class 7]]|creator(s)=[[User:TheReal00pyu|TheReal00pyu]]|difficulty_range=Belowground-Peripheral|decal_id=N/A|official_music(s)=None}}
+==Introduction==
+[[File:HopelessNewest.png|frameless|30x30px]] <span style="text-shadow: 0 0 4px red; color:black">'''Hopeless'''</span> is one of the Class 7 difficulties that's placed between the difficulty that could glitch the entire universe which is [[File:New UG.jpg|frameless|30x30px]] [[Universal Glitch]], and the one hell of a finale which is the second legendary difficulty {{Class10Difficulties|MegaDeath|50px}} [[MegaDeath]]. Judging by the placement itself, you could clearly see that it's ridiculously impossible, or even beyond it. At this point, using TAS isn't the case here.
+
+[[File:HopelessNewest.png|frameless|30x30px]] <span style="text-shadow: 0 0 4px red; color:black">'''Hopeless'''</span> difficulty towers will shatter all your hope, as the name suggests. The gameplay will also be very confusing and much more complex than the previous challenges you had faced. By beating this absolute monstrosity, you'll have to preform beyond precise movements and perfect timings, so mastering a jump wouldn't be an easy task. Beating a tower of this difficulty is extremely hard, even if using things such as extreme TAS abuse. It's completely useless to try any towers of this difficulty.
+
+This would be Tier ~2,500 if ranked using tiers. Due to how inaccurate tiers can be, we would have to rank using the [[Metris|Kol Metris]] rating system, and it would have a value of |~1500| if doing so.
+
+==Obstacles==
+{| class="fandom-table"
+|+'''Icon Representation Table'''
+!'''Name'''
+!'''Icon'''
+!'''Description'''
+|-
+|'''Current'''
+|[[File:HopelessNewest.png|frameless|200x200px]]
+|The current icon is easy to decipher. The icon includes a black square with a red border on it, on top of that is a red ">:)* emoticon.
+|-
+|'''Old'''
+|[[File:Hopeless Difficulty Icon.jpg|frameless|200x200px]]
+|The old icon is pretty much the same thing as the current except the emoticon was a menacingly smiling face and with a red text above saying "HOPELESS..."
+|-
+|'''Older'''
+|[[File:Revamped Hopeless.png|frameless|200x200px]]
+|The icon represents a black rectangle with red surrounding the left, right and the bottom part of the rectangle with a sad face on it and a hand-written text saying "Hopeless"... on a flipaclip background, showing this picture is uncropped.
+|-
+|'''Oldest'''
+|[[File:Hopeless.png|frameless|200x200px]]
+|The icon consists on what the older icon has except that the stuff happening in the black rectangle was just random crying faces spread throughout the area. 
+|}
+
+
+==Obstacles in This Difficulty==
+
+{| class="fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: #140000;" |'''<font color="white">Belowground</font>'''
+! style="background-color: #2b0000;" |'''<font color="white">Baseline</font>'''
+! style="background-color: #420000;" |'''<font color="white">Low</font>'''
+! style="background-color: #510000; " |'''<font color="white">Mid</font>'''
+! style="background-color: #5c0000; " |'''<font color="white">High</font>'''
+! style="background-color: #660000; " |'''<font color="white">Peak</font>'''
+! style="background-color: #740000; " |'''<font color="white">Peripheral</font>'''
+|-
+|Climbable Jumps 
+| style="background-color: #140000;" |<font color="white">40 studs</font>
+| style="background-color: #2b0000;" |<font color="white">40.5 studs</font>
+| style="background-color: #420000;" |<font color="white">41 studs</font>
+| style="background-color: #510000;" |<font color="white">41.5 studs</font>
+| style="background-color: #5c0000;" |<font color="white">42 studs</font>
+| style="background-color: #660000;" |<font color="white">43.5 studs</font>
+| style="background-color: #740000;" |<font color="white">44 studs</font>
+|-
+|Unclimbable Jumps 
+| style="background-color: #140000;" |<font color="white">39.7 studs</font>
+| style="background-color: #2b0000;" |<font color="white">40.2 studs</font>
+| style="background-color: #420000;" |<font color="white">40.7 studs</font>
+| style="background-color: #510000;" |<font color="white">41.2 studs</font>
+| style="background-color: #5c0000;" |<font color="white">41.7 studs</font>
+| style="background-color: #660000;" |<font color="white">42.2 studs</font>
+| style="background-color: #740000;" |<font color="white">42.7 studs</font>
+|-
+|Wraps
+| style="background-color: #140000;" |<font color="white">39 studs</font>
+| style="background-color: #2b0000;" |<font color="white">39.5 studs</font>
+| style="background-color: #420000;" |<font color="white">40 studs</font>
+| style="background-color: #510000;" |<font color="white">40.5 studs</font>
+| style="background-color: #5c0000;" |<font color="white">41 studs</font>
+| style="background-color: #660000;" |<font color="white">41.5 studs</font>
+| style="background-color: #740000;" |<font color="white">42 studs</font>
+|-
+|Stickouts
+| style="background-color: #140000;" |<font color="white">14 studs</font>
+| style="background-color: #2b0000;" |<font color="white">14.3 studs</font>
+| style="background-color: #420000;" |<font color="white">14.6 studs</font>
+| style="background-color: #510000;" |<font color="white">14.9 studs</font>
+| style="background-color: #5c0000;" |<font color="white">15.2 studs</font>
+| style="background-color: #660000;" |<font color="white">15.5 studs</font>
+| style="background-color: #740000;" |<font color="white">15.8 studs</font>
+|-
+|Raised Wraps 
+| style="background-color: #140000;" |<font color="white">21.5 studs raised by 2.5</font>
+| style="background-color: #2b0000;" |<font color="white">21.7 studs raised by 2.7</font>
+| style="background-color: #420000;" |<font color="white">21.9 studs raised by 2.9</font>
+| style="background-color: #510000;" |<font color="white">22.1 studs raised by 3.1</font>
+| style="background-color: #5c0000;" |<font color="white">22.3 studs raised by 3.3</font>
+| style="background-color: #660000;" |<font color="white">22.5 studs raised by 3.5</font>
+| style="background-color: #740000;" |<font color="white">22.7 studs raised by 3.7</font>
+|-
+|Cylinder Wraps 
+| style="background-color: #140000;" |<font color="white">27 studs</font>
+| style="background-color: #2b0000;" |<font color="white">27.4 studs</font>
+| style="background-color: #420000;" |<font color="white">27.8 studs</font>
+| style="background-color: #510000;" |<font color="white">28.2 studs</font>
+| style="background-color: #5c0000;" |<font color="white">28.6 studs</font>
+| style="background-color: #660000;" |<font color="white">29 studs</font>
+| style="background-color: #740000;" |<font color="white">29.4 studs</font>
+|}
+==Trivia==   
+* This used to be a deleted difficulty, but got brought back as a official difficulty for unknown reasons.
+*The icon had been changed due to the old icon being too edgy.
+*The name for this difficulty is actually inspired by a JToH tower, [[w:c:jtoh:Tower of Hopeless Hell|Tower of Hopeless Hell]].
+
+==Towers==
+This has been split into two sections, so let's take a dive into it.
+<tabber>
+|-|
+Fictional=
+===<span style="text-shadow: 0 0 4px red; color:black">'''Fictional Towers'''</span>===
+*[[File:HopelessNewest.png|frameless|30x30px]] Steeple of Hopelessness
+*[[File:HopelessNewest.png|frameless|30x30px]] Tower of Hopeless Hell: Mega Buffed Version
+*[[File:HopelessNewest.png|frameless|30x30px]] Citadel of Losing Hope
+*[[File:HopelessNewest.png|frameless|30x30px]] Obelisk of Darkness
+|-|
+Non-Fictional=
+===<span style="text-shadow: 0 0 4px red; color:black">'''Non-Fictional Towers'''</span>===
+====Towers With This Difficulty====
+*[[Steeple of Bad SC Floors]]
+*[[Tower of Sad Reality]]
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 74: Hopeless]
+====Towers Including This Difficulty====
+*[[Great Citadel of Custom, Impossible, and Normal Difficulties]]
+*[[Great Citadel of Possible JJT Difficulties]]
+*[[Obelisk of Cubox's Difficulty Chart]]
+*add lol
+</tabber>
+
+==Continuing From This Point ==
+You actually beat [[File:HopelessNewest.png|frameless|30x30px]] <span style="text-shadow: 0 0 4px red; color:black">'''Hopeless'''</span>? Words could not describe how great of an achievement this is. Now that you had completed all three of the challenges,  you should be ready to conquer what the finale of the official chart, {{Class10Difficulties|MegaDeath|50px}} [[MegaDeath]] has to offer. Farewell, obbyist.
+
+{{MainDifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Emoticon Difficulties]]
+[[Category:Spooky icon]]
+[[Category:Physically Impossible]]
+[[Category:Essay pages]]
+[[Category:Old]]
+[[Category:Class 7]]
+[[Category:Official]]
+[[Category:Two color icon]]

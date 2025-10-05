@@ -1,0 +1,89 @@
+{{Humanly Possible}}{{BetterQuote
+|text=Easy as pie.
+|quoter= someone
+}}
+{{NewDifficultyInfobox
+|title1 = Cakewalk
+|image1 = CakeWalk.png
+|caption1 = Cakewalk's image.
+|class = [[:Category:Class 1|Class 1]]
+|type = [[:Category:Sub-Difficulties|Sub-Difficulties]]
+|previous = {{Class0Difficulties|Starter}} [[Starter]]
+|next = {{Class0Difficulties|Sweet}} [[Sweet]]
+|decal_id = [https://www.roblox.com/library/6382901657/Cakewalk-Difficulty 6382901657]
+|creator(s) = * [[User:JustAnotherKidLmao|JustAnotherKidLmao]] (Original)
+* [[User:TasmanianRex|TasmanianRex]] (Revamp)
+|date_added = 14 December 2020
+|revamp_date = 21 December 2021
+|rbg_color=66, 165, 245|main_difficulty={{Class0Difficulties|Starter}} [[Starter]]|rating=-9.5}}
+
+== Overview ==
+'''Cakewalk''' is a [[:Category:Class 1|Class 1]] difficulty that explains itself immediately after the title is read, it being a cakewalk. It is between {{Class0Difficulties|Starter|20px}} [[Starter]] and {{Class0Difficulties|Sweet|20px}} [[Sweet]] difficulties, and it should be attempted after you mastered the controls. 
+
+The word '''Cakewalk''' by definition means a very straightforward, easy path/walk. Cake is also pretty happy as you encounter it at anyone's birthday party, so there's that fact. Anyways, since this is a [[:Category:Class 1|Class 1]] difficulty, it is very easy and is recommended to do if you, and to put it nicely, aren't the best at obbies. It also is quite short and easy to the point that you only need to press 15 keys to 30 keys without any inputs from your spacebar.                              
+
+This difficulty is called '''Cakewalk''', not cake jump.
+
+== Icon Representation ==
+<tabber>
+|-|
+Current=
+<font size=5>Current</font></br>
+'''Cakewalk''' has a pixel art icon. It is mainly colored bright shades of blue, being brightest in the middle and turning slightly darker on top and bottom. In the middle, there is black text in all caps saying "'''CAKEWALK'''." Oh, and there's a smiley face next to it turning the text into "'''CAKEWALK''' :)." That's pretty much it for this icon. Great pixel art though.
+
+You can find this decal [https://www.roblox.com/library/6382901657/Cakewalk-Difficulty here].
+</tabber>
+
+== Obstacles ==
+<tabber>
+|-|
+Basic Obstacles=
+<font size=5>Basic Obstacles</font></br>
+* 1.75 stud gaps. (Climbable or Unclimbable)
+* 15 stud falls.
+* Narrow platforms without raillings to prevent you falling off the platform.
+* Larger Poles on the middle of the 'obstacle'.
+* More easy non-jump obstacles.
+|-|
+Miscellaneous=
+<font size=5>Miscellaneous</font></br>
+* Buy some groceries.
+* Bake a cake.
+* Decorate a cake.
+* Slice a cake.
+* Eat a slice a cake.
+* Throw a party during the pandemic without getting arrested by authorities.
+</tabber>
+
+== Towers ==
+<tabber>
+TJFD=
+<font size=5>TJFD</font></br>
+*RoGC - [[Room of Glorious Cakes]]
+*SoTCTA - [[Steeple of The Climb To Aether]]
+|-|
+Others (Unplaced)=
+<font size=5>Others (Unplaced)</font></br>
+*DNaREMDC - [[Definitely Not a Really Easy Movement Difficulty Chart]]
+</tabber>
+
+== Trivia ==
+* On 21 December 2021, '''Cakewalk''' got a revamp after more than one year of its introduction.
+* It is featured often in [[Difficulty Chart]] Towers.
+
+==Continuing From This Point==
+After your refreshing walk in cakewalk, you seem pretty eager to go on. So, I'll just send you to another difficulty called  {{Class0Difficulties|Sweet|30px}} [[Sweet]], which is just like this but more walking and slightly harder obstacles. It's either that, or trying to beat more '''Cakewalk''' or {{Class0Difficulties|Jumpless|20px}} [[Jumpless]] difficulty obstacles to progress through the next few difficulties. Once you are ready to attempt some harder difficulties, you can attempt {{Class0Difficulties|Sweet|20px}} [[Sweet]] towers.
+
+If you are confident, you can attempt any {{Class1Difficulties|Effortless|20px}} [[w:c:jtoh:Effortless|Effortless]] or {{Class1Difficulties|Easy|20px}} [[w:c:jtoh:Easy|Easy]] towers. Otherwise, you will get stuck on these difficulties if you have the IQ of 60.
+
+{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 1]]
+[[Category:Icons made with pixel art]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:Difficulty]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]

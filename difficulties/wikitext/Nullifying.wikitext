@@ -1,0 +1,128 @@
+{{NoticeScrollboxNew|Notices={{Humanly Impossible}}{{Buffed}}{{Classic}}}}
+__NOTOC__
+==Introduction: [[File:Newlifying.png|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span>==
+{{NewDifficultyInfobox|image1=<gallery>
+Newlifying.png|Current (de-jure)
+NewNullifying.jpeg|With PoM Outlines (ex de-jure)
+OldNullifyingDifficultyIcon.jpg|OoIDC (de-facto)
+</gallery>|title1=[[File:Newlifying.png|50px]] <span style="color:#0000FF">'''Nullifying'''|Class=Mid-High Class 4|previous=[[File:DEATH-0.webp|30px]] [[w:c:jtohs-hardest-towers:DEATH|DEATH]] (20)|next={{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]] (22)|class=4|type=*Normal Difficulty
+*Humanly Impossible Difficulty
+*Class 4 Difficulty|class_range=Low|difficulty_range=Baseline To Peak|official_music(s)=[https://youtu.be/zMsxKPtZDZ8 Solkrieg - Phobos]|caption1=You’re almost at the halfway point of class 4; however, you’ve only started what is known as: '''The XD Chain'''.|chain(s)=*The XD Chain|creator(s)=??? (Owner)
+MapleIsNotAMapleLeaf (Revamper)<br>
+UnauthorizedPerson (Rebalancer)|date_added=???|revamp_date=7/1/23|rating=21|alt_next=|decal_id=Current: [https://create.roblox.com/store/asset/17567492568/Nullifying 17567492568]<br>Older: [https://create.roblox.com/store/asset/9172029187/Nullifying 9172029187]<br>Original: [https://create.roblox.com/store/asset/8510827971/Nullifying 8510827971]|counterpart={{Class3Difficulties|Insane}} [[w:c:jtoh:Insane|Insane]]}}
+[[File:Newlifying.png|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span> is a Low Class 4 Difficulty located between [[File:DEATH-0.webp|frameless|30x30px]] [[w:c:jtohs-hardest-towers:DEATH|DEATH]] and {{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]]. Being Class 4, this difficulty is humanly impossible and should not be attempted.                            
+
+Again, this difficulty is humanly impossible, meaning that one would need a TAS to try and beat it; there's only a tiny, tiny chance that someone would even pass half a floor of this difficulty. Even then, one would still need to carefully study and test the jumps in order to beat them with a TAS. This difficulty is also the beginning of the XD Chain (assuming {{Class4Difficulties|Why}}[[w:c:jtohs-hardest-towers:WHY|WHY]], a 10 difficulty long chain spanning from the end of Low Class 4 to the end of Mid Class 4, or alternatively  [[File:NewNullifying.jpeg|frameless|30x30px]] <span style="color:#0000FF">'''Nullifying'''</span> to [[File:NewCALAMITY.jpeg|frameless|30x30px]] [[CALAMITY]]. (and alternatively [[File:Killjoying.jpg|frameless|30x30px]] [[Killjoying]] including subs)  
+
+This difficulty, since it is in the XD chain, is a buffed version of a specific difficulty. In this case, the difficulty that is buffed is [[File:Insane.png|frameless|30x30px]] [[w:c:jtoh:Insane|Insane]], the 8th difficulty on the EToH Chart, spanning 8.00 to 8.99, or alternatively; the beginning of class 3, with a rating of '''9.00 to 9.49'''.   
+
+==Icon Representation: [[File:Newlifying.png|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span>==
+{| class="fandom-table"
+|+Icon Table
+!Icons                                                                      
+!Explanation
+|-
+|[[File:Newlifying.png|frameless|80x80px]]Third Revamp
+| Revamp v3. It uses HELL's icon with a saturation of +200 (which meant saturating the original, and then the result again both by 100). It is slightly lower quality in terms of pixels but everyone uses the older icons anyway.
+|-
+|[[File:NewNullifying.jpeg|frameless|80x80px]] Current
+|The current icon has a dark blue gradient with darker at the top and brighter at the bottom, an outline which is brighter than the old icon's color, and the "XD" at the same thickness but same color as the outline.
+|-
+|[[File:OldNullifyingDifficultyIcon.jpg|frameless|80x80px]] Older
+|The icon has a darker blue background with a bold, white “XD”  in the middle.
+|-
+|[[File:Nullifying.jpg|frameless|80x80px]] Oldest (OoIDC)
+| This icon is a navy blue background with a white “XD” in the middle. De-facto icon.
+|}
+
+==Placement: [[File:Newlifying.png|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span>==
+*{{Class4Difficulties|Why}} [[w:c:jtohs-hardest-towers:WHY|WHY]] (18)
+**[[File:Overdrive.jpg|30x30px]] [[MAXIMUM OVERDRIVE|Maximum Overdrive]] (18.5)
+*{{Class4Difficulties|No}} [[w:c:jtohs-hardest-towers:No|No]] (19)
+**[[File:Purgatory.png|30x30px]] [[Purgatory]] (19.5)
+*{{Class4Difficulties|DEATH}} [[w:c:jtohs-hardest-towers:DEATH|DEATH]] (20)
+*{{Class4Difficulties|Nullifying}} [[Nullifying]] (21) '''(You are here)'''
+*{{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]] (22)
+**[[File:Vortex.png|30x30px]] [[Vortex]] (22.5)
+
+==Obstacles: [[File:Newlifying.png|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span>==
+{{ObstacleTableRevamp|JumpClimbableBase=14.65|Increment=0.024}}
+==Towers that have this Difficulty: [[File:Newlifying.png|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span>==
+<tabber>
+
+Towers that are this difficulty=
+
+*[[Tower of Questioning The Universe]] (ToQTU)
+
+*[[Citadel of Null]] (CoN)
+
+*[https://www.roblox.com/games/8255314413/ToPURPLE Tower of Pulchritudinous Ultramontanistic Roentgenographic Phenylketonuric Legitimization] (ToPURPLE)
+
+*Citadel of Perilistic Voids (CoPV) (TC:1946738161#11)
+
+*Obelisk of Nullifying Voids (OoNV) (TC:2794870614#8)
+
+|-|
+
+Towers that include this difficulty=
+
+''Reminder that these only include this difficulty. They are not this difficulty!''
+
+*[[Great Monolith of Every EJT Difficulty]] (GMoEED)
+
+*[[Great Citadel of Hellish Difficulties]] (GCoHD)
+
+*[[Great Citadel of Beyond Impossible Difficulties]] (GCoBID)
+
+*[[Great Citadel of Hectic Difficulty Ascension]] (GCoHDA)
+
+*[[Obelisk of Endless Difficulty Amplifying]] (OoEDA)
+
+*[[Obelisk of Impossible Difficulty Chart]] (OoIDC)
+
+*[[Obelisk of Cubox's Difficulty Chart]] (OoCDC)
+
+</tabber>
+
+==Trivia: [[File:Newlifying.png|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span>==
+
+*This was revamped FOUR. TIMES. The revampers are below: 
+**Dreadful.exe (User)
+**UnrelatedIncident
+**Mina
+**MapleIsNotAMapleLeaf (Current version)
+*The icon was revamped 3 TIMES.
+**The first made the XD bolder.
+**The second was by Bruhshard and recreates the weird outline trend in Paint 3D.
+**The third revamp was also by Bruhshard. It took HELL's icon and then saturated it by 200. 
+***However, you cant saturate by 200. This is why he saturated it twice. First by 100, and then he took the result and did it again by 200. This led to the quality being worse overall.
+**A hypothetical fourth revamp would fix the icon's low quality.
+
+* This difficulty has a colour named after it.
+** You can find it [https://colornames.org/color/0000e5 here] or at https://colornames.org/color/0000e5.
+*** It's RGB is 0, 0, 229
+
+==Gallery: [[File:Newlifying.png|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span>==
+<gallery>
+File:NewNullifying.jpeg|Nullifying’s new icon is made in Paint 3D and makes it blend in more.
+File:OldNullifyingDifficultyIcon.jpg|Nullifying’s old icon boldens the text.
+File:Nullifying.jpg|Nullifying's first unique icon, the older icon.
+File:Screen Shot 2023-03-21 at 5.01.45 PM.png|The oldest icon of Nullifying back in April 2020, it is reintroduced as a separate difficulty known as DEAD.
+File:Nullifyingdifficultysign.PNG|Nullifying’s sign in OoIDC.
+File:Nullifying Portal GCoHD.jpg|Nullifying’s portal in GCoHD.
+File:Nullifying Difficulty GCoHD.jpg|Nullifying’s frame in GCoHD. It is unfinished, though.
+File:Nullifying Portal OoIDC.jpg|Nullifying’s portal in OoIDC.
+File:Newlifying.png|The newer icon of Nullifying. It's lower quality yes, but it stands in.
+</gallery>
+==Continuing on from this point: [[File:NewNullifying.jpeg|frameless|50x50px]] <span style="color:#0000FF">'''Nullifying'''</span>==
+Although almost nobody has the skill and bravery to endure such punishment, you have emerged alive.  
+
+Congratulations on beating this! Go onto {{Class4Difficulties|HELL}} [[w:c:jtohs-hardest-towers:HELL|HELL]], your next difficulty in this chaos. You’re nowhere near being done yet. 
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:XD Chain]]
+[[Category:Humanly Impossible]]
+[[Category:Two color icon]]
+[[Category:Emoticon Difficulties]]
+[[Category:Class 4]]

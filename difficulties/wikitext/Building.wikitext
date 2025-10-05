@@ -1,0 +1,124 @@
+{{DISPLAYTITLE:<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"><span style="font-family:Josefin Slab">''Building''</span></span>}}
+<div style="background-color:maroon;background-image:
+radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px; color: white;padding: 50px 20px; border-radius: 100px 100px"> <big><big><big><center><b></b></center></big></big></big>
+{{Scrollbox|Notices='''Notice Scrollbox'''
+{{Large Page|reason= ~10k bytes of information provided in the page}}
+{{Humanly Impossible}}
+}}
+
+<br />
+
+<font size="5"><center>« <small>[[Malevolent]]</small> | <u>'''[[File:BuildingNew.png|30px|frameless]]'''</u> <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"><span style="font-family:Josefin Slab">''Building''</span></span> |[[Does Not Compute]] »</center></font>
+
+
+<div style="background:#ff5e5e; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Introduction</b></div>
+
+{{NewDifficultyInfobox|image1=<gallery>
+BuildingNew.png|New
+BuildingNewButBlue.webp|New (blue)
+Build.png|Old
+</gallery>|class=[[:Category:Class 5|Baseline Class 5]]|previous=[[File:Malicious.png|25px]] [[w:c:jtohs-hardest-towers:Malicious|Malicious]]|next=[[File:DoesNotComputeNew.png|25px]] [[Does Not Compute]]|decal_id=17359543015|creator(s)=[[User:Bryanjr7747|Bryan]]|full_name=Building Difficulty|date_added=4/8/2023|hex_color=theres too much|title1=<span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, red, maroon);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"><span style="font-family:Josefin Slab">''Building''</span></span>|type=Normal|caption1=With Btools on your side, you're destined to win!|original_class=Class 5|original_name=DIY difficukty|official_music(s)=* HOME - Resonance|previous_class(es)=5, 8, 3|previous_name=there wasnt|revamp_date=maybe maybe not|class_range=Baseline|difficulty_range=Baseline to Peak|rbg_color=Theres too much|prior_previous=*[[File:F I G H T.png|30px]] [[User blog:EpicTheGamer2014/Fighter|Fighter]] (As A Sub Difficulty)|prior_next=[[File:Mosaic.png|30px]] [[User blog:EpicTheGamer2014/Mosaic|Mosaic]]|previous_sub_difficulty(ies)=There isnt even a sub|rating=31|alt_next=[[File:Under construction detailed.png|25px]] [[Under Construction]] (sub difficulty)|sub_difficulty(ies)=[[Under Construction]]|alt_previous=[[File:Malevolence.png|25px]] [[Malevolent]]}}
+
+<span style="font-family:Josefin Slab">Builder (A.K.A. Building Difficulty, or Build) is a Baseline Class 5 difficulty with a predecessor of</span> [[w:c:jtohs-hardest-towers:Malicious|Malicious]] <span style="font-family:Josefin Slab">, and successor being</span> [[Does Not Compute]] <span style="font-family:Josefin Slab">or [[Under Construction]].</span> <span style="font-family:Josefin Slab">It was created on April 4th, 2023 by Bryanjr4474, and is a normal difficulty.</span>
+
+<span style="font-family:Josefin Slab">This difficulty has an interesting gimmick. This interesting gimmick is the building ability, hence the name. This gives you the choice to build your own obstacles, so long as they aren't below class 5. You could build a tower for yourself, or an obby. When you are done building, you are able to test out the obby that you have built. One of the best parts is you <u>and</u> your friends can playtest your tower/obby when it's finished!</span>
+
+<span style="font-family:Josefin Slab">Builder is technically impossible with hacks such as TAS, Noclip, or Teleport hacks, unless your testing the obstacles out. Adding to the calmness, none of this is timed, you have unlimited time to make your game. It honestly doesn't matter where or how it's built. It could be obby creator, studio, hell, it could be Python for shit sake!
+</span>
+
+<span style="font-family:Josefin Slab">Builder is rated as an estimated 31 on the [[Main Difficulty Chart]], and is also rated [[Unofficial Tiers|Tier 28]] on the [[Tiers]],  and around ~|380| in the [[Metris|Kol Metris]] scale, furthermore proving the fact its humanly impossible.</span>
+<div style="background:#ff5e5e; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Icon Representation</b></div>
+<div style="background:#fc2b2b; color:black;border-radius: 10px; padding: 10px 10px; opacity: 30%"><b>New</b></div>
+<span style="font-family:Josefin Slab">It's a maroon  background, being bordered by a darker red background. Inside the darker red background featured pixelated patterns that are symmetrical. Now in the middle we can see the rotate option, with the RGB rings.
+<div style="background:#95dded; color:black;border-radius: 10px; padding: 10px 10px; opacity: 30%"><b>New (blue)</b></div>
+<span style="font-family:Josefin Slab">It's a blue background, being bordered by a darker blue background. Bordering the darker blue background is a cyan with dark cyan rings around it. Now in the middle we can see the rotate option, with the RGB rings.
+<div style="background:#fc2b2b; color:black;border-radius: 10px; padding: 10px 10px; opacity: 30%"><b>Old</b></div>
+<span style="font-family:Josefin Slab">The icon is a blue - cyan gradient with a neon block in the middle of it. You can also see the rotate circles, the move arrows, and the resize dots. And in the bottom you can see text that says "B U I L D".
+<div style="background:#ff5e5e; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Catches</b></div>
+*<span style="font-family:Josefin Slab">Practically all of this is on studio, with the ability playing what you build afterwards.
+*<span style="font-family:Josefin Slab">If your building this on obby creator, please refer to the Low and High obstacles
+*<span style="font-family:Josefin Slab">In a tower, give the players btools, as well as resize tool and a rotate tool. You must build the floor.
+<div style="background:#ff5e5e; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Obstacles</b></div>
+<span style="font-family:Josefin Slab">Obstacles. What is a difficulty without its obstacles? Besides of course.. Ordinals and C25... Unless you have TAS, you’re dead meat.
+<div style="background:#fc2b2b; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Baseline</b></div>
+*<span style="font-family:Josefin Slab">Go ahead, build yourself a peak Class 4 tower. Then beat it.
+*<span style="font-family:Josefin Slab">Build a fictional tower (c13+) (if you manage to beat it in 25 attempts you get a skip to class 13..)
+*<span style="font-family:Josefin Slab">Build an obby about it! (Obstacles are in low and high)
+*<span style="font-family:Josefin Slab">Recreate 100 popular roblox games perfectly in 2 minutes
+*<span style="font-family:Josefin Slab">Build a game in a 1x1 area and get 100M visits
+<div style="background:#fc2b2b; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Low</b></div>
+*<span style="font-family:Josefin Slab">15.1 stud jump (climbable)
+*<span style="font-family:Josefin Slab">14.6 stud jump (unclimbable)
+*<span style="font-family:Josefin Slab">14.9 stud wrap
+*<span style="font-family:Josefin Slab">13.8 stud ice wrap
+*<span style="font-family:Josefin Slab">11 stud cylinder wrap
+<div style="background:#fc2b2b; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Mid</b></div>
+*<span style="font-family:Josefin Slab">Build a full difficulty chart monolith up to the fictional difficulties
+*<span style="font-family:Josefin Slab">Build a high quality class 4 citadel
+*<span style="font-family:Josefin Slab">Build a JToH Tower IRL
+*<span style="font-family:Josefin Slab">Build a whole city IRL on your own
+*<span style="font-family:Josefin Slab">Build Roblox inside of Mincecraft inside of roblox
+<div style="background:#fc2b2b; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>High</b></div>
+*<span style="font-family:Josefin Slab">5x4 stud stickout
+*<span style="font-family:Josefin Slab">15.05 stud wraparounds (unclimbable)
+*<span style="font-family:Josefin Slab">1.7 stud Wallwalk stickout with an instakill spinner in the middle
+*<span style="font-family:Josefin Slab">5.5 stud wallwalk jump
+*<span style="font-family:Josefin Slab">No jump vertical wallwalk for 13 studs
+<div style="background:#fc2b2b; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Peak</b></div>
+*<span style="font-family:Josefin Slab">Build a game that 90% of the world has played
+*<span style="font-family:Josefin Slab">Build a game (max: 10 parts) and get 1B visits on it
+*<span style="font-family:Josefin Slab">Rebuild the solar system in Roblox perfectly
+*<span style="font-family:Josefin Slab">Build every level in the backrooms in roblox
+*<span style="font-family:Josefin Slab">Build every person on earth perfectly in 1 hour
+<div style="background:#ff5e5e; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Towers</b></div>
+<tabber>
+|-|
+Towers of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*<span style="font-family:Josefin Slab">Steeple of Move, Resize, and Rotate (SoM,R,aR)
+*<span style="font-family:Josefin Slab">Build the Tower! (BtT)
+{{!}}-{{!}}
+Nonfiction=
+<span style="font-family:Josefin Slab">[https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Room of Create-a-Tower] (QToN)
+| false= 
+}}
+}}
+|-|
+Towers with=
+*<span style="font-family:Josefin Slab">Probably all the DC Towers/Citadels/Great Citadels/Monolith/etc.
+|-|
+Obbies of=
+{{#switch: {{{subsections 1|true}}}
+| true=
+{{#tag:tabber|Fictionals=
+*<span style="font-family:Josefin Slab">Obby with Btools (build it yourself!) (OwB(biy))
+{{!}}-{{!}}
+Nonfiction=
+<span style="font-family:Josefin Slab">None yet.
+| false= 
+}}
+}}
+|-|
+Obbies with=
+<span style="font-family:Josefin Slab">Probably all the DC obbies.
+|-|
+</tabber>
+<div style="background:#ff5e5e; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Continuing...</b></div>
+<span style="font-family:Josefin Slab">You've built some of the craziest things known to mankind, whether its a remade adopt me or the floor you've made! You've definitely proven to us that your building skills are interstellar. Now that you've made this building haven, you can gladly move onto (forgot) without any remorse!
+<div style="background:#ff5e5e; color:black;border-radius: 40px; padding: 10px 10px; opacity: 50%"><b>Trivia</b></div>
+*<span style="font-family:Josefin Slab">This difficulty uses the Josefin Slab font.
+*<span style="font-family:Josefin Slab">I got help from [[User:Ferdinandloveslegs|Ferd]] and [[User:Sanjay2133|Sanjay]] with the obstacles.
+*<span style="font-family:Josefin Slab">Ferd said I could make a pre-malicious difficulty so I did. Try not to delete this unless its a last resort.
+*<span style="font-family:Josefin Slab">I recolored the Home page / [[User:The Difficulty Enthusiast|TDE]] user background for this difficulty.
+*<span style-"font-family:Josefin Slab">This used to be a baseline Class 6 difficulty that was pre-malicious. (as before TDEx)      [[Category:Difficulties]]      [[Category:Class 5]]  {{DifficultiesNavbox}}<span style-"font-family:Josefin Slab">[[Category:Large Pages]]   
+
+<div class="html5audio" style="clear:both;float:right;" data-file="https://static.wikia.nocookie.net/jtohs-joke-towers/images/e/ec/HOME_-_Resonance.mp3" data-volume="0.1" data-download="false" data-preload="metadata" data-options="autoplay,loop">''Home - Resonance''</div>
+[[Category:Humanly Impossible]]
+[[Category:Difficulty]]

@@ -1,0 +1,134 @@
+<div style="background:#a9a9a9;padding:1em;order-left:5px solid #3E003E">
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:Im bored.png|2000px]]</div>
+{{Scrollbox|Notices=
+'''Notices'''
+{{Classic}}
+{{Physically Impossible}}
+}}
+{{NewDifficultyInfobox|image1=Im bored.png|caption1=This difficulty is no longer an infinite loop|class=Peak Class 8|rating=88.5|type=* Sub-Difficulty
+* Revived Difficulty|previous=[[File:BobuxDeath.png|30px]] [[BobuxDeath]]|next=[[File:Limitingmoment.jpg|30x30px]] [[Limiting]]|difficulty_range=Bottom to Peak|official_music(s)=Jomekka - Eighto|creator(s)=* UnauthorizedPerson (reviver)
+* Blake12345 (original owner)|original_class=Class 25|previous_class(es)=|date_added=12/8/2020|date_removed=6/15/2023|removal_reason=Armageddon|main_difficulty=[[File:BobuxDeath.png|30px]] [[BobuxDeath]]|sub_difficulty(ies)=|original_main_difficulty=|original_creator(s)=TheBlake12345|revival_date=6/16/2023|prior_previous=[[File:Unrecognizable Difficulty.jpg|30x30px]] [[Unrecognizable]]|prior_next=[[File:Unforgiving Destruction New New.png|30x30px]] [[Unforgiving Destruction]]|class_range=Peak|previous_main_difficulty(ies)=[[File:Screenshot 2020-09-26 032504.jpg|40px]] [[The Crystal Core]]|decal_id=138334750853822}}
+==[[File:Im bored.png|50px]] Aleph-DEATH - Introduction==
+Aleph-DEATH is a Physically Impossible Class 8 Sub-Difficulty located between [[BobuxDeath]] and [[Limiting]]. This difficulty has a rating of 88.5 and a tier rating of around 10,000,000. However, tier ratings do not increase at a consistent rate, so it is better to rely on the Kol Metris system, which in terms of Kol Metris, this difficulty has a Kol Metris rating of 1650.
+
+Although you haven’t reached the halfway point yet, this difficulty, as well as difficulties near it, are physically impossible. Unless you are using noclip or exploits, any attempt of this difficulty, and any difficulties after it, are beyond futile. Note that using noclip and exploits aren’t considered legitimate.
+
+Many towers in this difficulty would contain obstacles that take up the entire tower, due to how large the obstacles are. In fact, after [[MegaDeath]], obstacles can get exponentially larger, meaning that in this class, a 100 stud jump could be Baseline Class 12, while a 2,000 stud jump could be Peak Class 12. In fact, even long jumps are impossible to create in obby creator without building gamepasses.
+
+Towers in this difficulty will also contain excessive amounts of instakills, making god mode is a must in order to beat towers in this difficulty.
+
+This difficulty was originally a class 23 difficulty, but it got deleted due to Armageddon VII, and it got revived 2 days later, and now it is a class 12 difficulty. In fact, its original bordering difficulties are [[User blog:EpicTheGamer2014/Unrecognizable|Unrecognizable]] and [[Unforgiving Destruction]]
+
+==[[File:Im bored.png|50px]] Aleph-DEATH - Icon Representation==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center; width: 1%" |Difficulty’s Icons
+|-
+!'''Icon'''
+!'''Description'''
+|-
+| colspan="3" style="background: #d3d3d3; color: white" |'''Current'''
+|-
+| style="background-color: #505050;" |[[File:Im bored.png|150x150px]]
+| style="background-color: #505050;" |The icon of this difficulty is rather simple. All there is is a light gray background with a death skull, as seen in the old [[w:c:jtohs-hardest-towers:DEATH|DEATH]] icon overlayed by the old [[Aleph-Null]] icon.
+|}
+
+==[[File:Im bored.png|50px]] Aleph-DEATH - Catches ==
+
+*Shiftlock is disabled and external Ideas are banned.
+*You have 1 hour to complete this difficulty, or you'll get sent back to [[File:RoorXDHighQuality.png|frameless|28x28px]] [[w:c:jtohs-hardest-towers:RoorXD|RoorXD]].
+*If you die in this difficulty, you'll get sent back to [[File:RoorHellHighQuality.png|frameless|28x28px]] [[RoorHELL]].
+*Every time you jump, you lose 1% of your health, and you cannot regenerate.
+*If you go in first person, you will lose 1.25 minutes of time.
+*All obstacles are invisible.
+
+==[[File:Im bored.png|50px]] Aleph-DEATH - Obstacles==
+{| class="fandom-table"
+|+Obstacles (Credit to Malignant)
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Wraparounds (C)
+| style="background-color: #014500;" |<font color="white">700 studs</font>
+| style="background-color: #336000;" |<font color="white">710 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">720 studs</font>
+| style="background-color: #964a00;" |<font color="white">730 studs</font>
+| style="background-color: #5a0000;" |<font color="white">740 studs</font>
+
+|-
+|Wraparounds (U)
+| style="background-color: #014500;" |<font color="white">680 studs</font>
+| style="background-color: #336000;" |<font color="white">690 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">700 studs</font>
+| style="background-color: #964a00;" |<font color="white">710 studs</font>
+| style="background-color: #5a0000;" |<font color="white">720 studs</font>
+|-
+|Long Jumps (C)
+| style="background-color: #014500;" |<font color="white">740 studs</font>
+| style="background-color: #336000;" |<font color="white">750 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">760 studs</font>
+| style="background-color: #964a00;" |<font color="white">770 studs</font>
+| style="background-color: #5a0000;" |<font color="white">780 studs</font>
+|-
+|Long Jumps (U)
+| style="background-color: #014500;" |<font color="white">720 studs</font>
+| style="background-color: #336000;" |<font color="white">730 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">740 studs</font>
+| style="background-color: #964a00;" |<font color="white">750 studs</font>
+| style="background-color: #5a0000;" |<font color="white">760 studs</font>
+|-
+|High Jumps (C)
+| style="background-color: #014500;" |<font color="white">660 studs</font>
+| style="background-color: #336000;" |<font color="white">670 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">680 studs</font>
+| style="background-color: #964a00;" |<font color="white">690 studs</font>
+| style="background-color: #5a0000;" |<font color="white">700 studs</font>
+|-
+|High Jumps (U)
+| style="background-color: #014500;" |<font color="white">650 studs</font>
+| style="background-color: #336000;" |<font color="white">660 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">670 studs</font>
+| style="background-color: #964a00;" |<font color="white">680 studs</font>
+| style="background-color: #5a0000;" |<font color="white">690 studs</font>
+|-
+|Stickouts (C)
+| style="background-color: #014500;" |<font color="white">325 studs</font>
+| style="background-color: #336000;" |<font color="white">330 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">335 studs</font>
+| style="background-color: #964a00;" |<font color="white">340 studs</font>
+| style="background-color: #5a0000;" |<font color="white">345 studs</font>
+|-
+|Stickouts (U)
+| style="background-color: #014500;" |<font color="white">300 studs</font>
+| style="background-color: #336000;" |<font color="white">305 studs</font>
+| style="background-color: #6d5c00;" |<font color="white">310 studs</font>
+| style="background-color: #964a00;" |<font color="white">315 studs</font>
+| style="background-color: #5a0000;" |<font color="white">320 studs</font>
+|}
+
+==[[File:Im bored.png|50px]] Aleph-DEATH - Towers==
+===Non-fictional===
+
+*[[Micro of Utter Stupid Physically Impossible Gameplay]]
+
+=== Fictional===
+*N/A
+
+==[[File:Im bored.png|50px]] Aleph-DEATH - Trivia== 
+*As previously stated, this difficulty was originally a Class 25 difficulty until it got deleted due to Armageddon VII.
+*This difficulty got revived shortly after its deletion due to the Armageddon.
+*The Icon of this difficulty used to be the icon of [[Win]]
+
+==[[File:Im bored.png|50px]] Aleph-DEATH - Moving On==
+The odds of beating this difficulty are unimaginably low, considering how hard this difficulty is, but incase you did do this difficulty, go to the next difficulty, i.e, [[Limiting]]{{MainDifficultiesNavbox}}
+[[Category:Class 8]]
+[[Category:Physically Impossible]]
+[[Category:Physically Impossible Difficulties]]
+[[Category:Revived]]
+[[Category:Aleph Sequence]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+[[Category:Difficulties]]

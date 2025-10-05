@@ -1,0 +1,135 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span>}}
+{{TAS Impossible}}
+{{BetterQuote|text=Welcome to [[File:Absolutism.png|frameless|30x30px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span>, you have seen a lot of red and black lately, so how about something a little... different?|quoter=A sign inside of this difficulty.}}
+
+''Not to be confused with [[Absolute]], a class 14 difficulty in the [[:Category:Treachery Chain|Treachery Chain]].''
+
+==What is [[File:Absolutism.png|frameless|40x40px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span>?==
+{{NewDifficultyInfobox|title1=Absolutism|image1=Absolutism.png|caption1=But why blue?|class=6|type=Normal Difficulty|previous=[[File:Creepy epic face.gif|30px]] [[D-I-E]]|class_range=Mid|difficulty_range=baseline to peak|decal_id=10326980560|creator(s)=*User321865|next=[[File:Insistent.png|30px]] [[Insistent]]|rating=52}}
+[[File:Absolutism.png|frameless|30x30px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span> is a Mid Class 6 difficulty which is harder than [[File:Creepy epic face.gif|30px]] [[D-I-E]], yet easier than [[File:Insistent.png|30px]] [[Insistent]]. At this point, going any further is highly ill advised, I don't even know why you are still persisting when this is obviously impossible, and not even humanly impossible at that, there isn't any point to this, so why are you spending decades of your lifespan to impossibly hard difficulties in a Lego game, not even an actual parkour game at that?
+
+I think it's obvious by now that this will require unfathomable amount of luck that not even luck manipulators can't obtain reliably, and that the skill you will need is through the roof. I recommend you to begin to practice a LOT if you wanna have a chance at this difficulty.
+
+==Icon Representation==
+[[File:Absolutism.png|center|frameless|100x100px]]
+The icon is relatively vertical gradient going from '''blue''' to black, yes, '''blue''' to black. On top of this is a black '''ϖ''' symbol and a blue outline with some glow around it. There is also 2 transparent black and blue texts that read "You have seen a lot of red lately." and "Have something new." respectively. Yes, simple, but still effective.
+
+==Towers==
+split into 2 parts, duh.
+
+===Towers of this difficulty=== 
+
+*Tower of Blue Phase Lapis (fictional, might be made soon)
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 59: Absolutism]
+
+===Towers including this difficulty=== 
+
+* Possibly [[Monolith of Deadly Difficulties Approaching]]???
+* [[Great Citadel of Yet Another Inaccurate Difficulty Chart]]
+
+==Obstacles of this difficulty==
+No catches this time, that's overused. The only thing you will need here is skill.
+
+<tabber>
+
+Baseline=
+=== Baseline [[File:Absolutism.png|frameless|35x35px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span> ===
+
+* Climbable 16.5 stud jump.
+* Unclimbable 16 stud jump.
+* 15.5 stud wrap.
+* 15x1 stud stickout.
+* 7.5 stud walkaround.
+
+Time for some more complicated obstacles.
+
+* 150 consecutive moon wallhops.
+* A singular wallbang fling. A wallbang fling is where you clip into 2 seperate walls, and upon clipping into those walls, you then abuse the physics engine of roblox to fling yourself very far away, around 140 studs.
+* Wallwalk on the same walls for 2 minutes straight.
+* Mid-air spinning 0.7 stud lodge, with ouchbricks inside the lodge welded onto the lodge itself.
+
+|-|
+Low=
+=== Low [[File:Absolutism.png|frameless|35x35px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span> ===
+
+* Climbable 16.75 stud jump.
+* Unclimbable 16.2 stud jump.
+* 15.75 stud wrap.
+* 15x2 stud stickout.
+* 7.75 stud walkaround.
+
+Time for even more complicated obstacles.
+
+* 3 consecutive mars wallhops, with insta-kill spinners in the way.
+* 3.5 stud truss stick-out that's spinning.
+* A spinning wallhop gauntlet with numerous insta-kill spinners and ouchbrick spinners.
+* Low ceiling killbrick corner flips, with an 11 stud gap between them.
+
+|-|
+Mid=
+=== Mid [[File:Absolutism.png|frameless|35x35px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span> ===
+
+* Climbable 16.875 stud jump.
+* Unclimbable 16.5 stud jump.
+* 15.8 stud wrap.
+* 15.5x2 stud stickout.
+* 8 stud walkaround.
+
+Here are even MORE complicated obstacles.
+
+* 20 Mid-air killbrick flatwalls in a row.
+* 6 consecutive mars wallhops.
+* Wallwalks with a height of 1 stud, while dodging a slow insta-kill spinner.
+* Glitchwrap that leads to a 13 stud stickout.
+
+|-|
+High=
+=== High[[File:Absolutism.png|frameless|35x35px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span> ===
+
+* Climbable 16.9 stud jump.
+* Unclimbable 16.75 stud jump.
+* 15.875 stud wrap.
+* 15.5x3 stud stickout.
+* 8.25 stud walkaround.
+
+Ok yea more complicated obstacles blah blah blah lets just get on with it.
+
+* Ballwalk with the upper sphere being 6 studs bigger then the lower sphere.
+* 15 stud wrap, but the wrap itself is trusses, and the top of the truss have insta-kills on it.
+* headhitter with a 5 stud stickout, that's also spinning.
+* 265 consecutive moon wallhops.
+
+|-|
+Peak=
+=== Peak [[File:Absolutism.png|frameless|35x35px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span> ===
+
+* Climbable 16.95 stud jump.
+* Unclimbable 16.875 stud jump.
+* 15.9 stud wrap.
+* 16x3 stud stickout.
+* 8.5 stud walkaround.
+
+You know the drill.
+
+* 9 consecutive mars wallhops.
+* Lodge through a 0.5 stud gap with insta-kills inside of it.
+* 12 stud wrap that leads to a wallbang fling.
+* Headhitter where you fling yourself to land onto the top platform.
+</tabber>
+
+==Trivia==
+
+* This difficulty was deleted 2 hours after being created, simply because a few people decided to do a little bit of trolling.
+*At one point, this icon for this difficulty had a chance to turn into a standard red and black icon through a poll, however, a large majority voted for the blue icon instead of the red icon.
+
+==Continuing on from this point==
+Huge congratulations on beating [[File:Absolutism.png|frameless|30x30px]] <span style="background:linear-gradient(180deg,blue,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Absolutism'''</span>! At this point, you are beginning to reach the end of Class 6, and it is only going to get harder from here, so it's recommended to take a break for now. Regain your motivation, give yourself a well deserved rest, and when you are ready, get back into the obby scene and begin practising some more. When you feel like you've practised enough, continue onto Exi- [[File:Insistent.png|30px]] [[Insistent]] for your next difficulty. Good luck.
+
+{{DifficultiesNavbox}}
+
+[[Category:Class 6]]
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Technically revived difficulties]]
+[[Category:Essay pages]]
+[[Category:Difficulties featured on templates]]

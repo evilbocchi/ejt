@@ -1,0 +1,137 @@
+{{Background|File=UnlosableBG.webp|Size=2000px}}{{NoticeScrollboxNew|Notices=
+----
+{{Humanly Possible}}
+----
+}}
+{{ArticleTab|custom=Old}}
+==What is {{Class0Difficulties|Unlosable}} <span style="color:magenta">'''Unlosable'''</span>?==
+{{NewDifficultyInfobox|title1={{Class0Difficulties|Unlosable}} <span style="color:magenta">'''Unlosable'''</span>|image1=<gallery>
+Unlosable.png | Current
+Unfailable Old.png | Alt
+SPTUnfailable.png | SPT
+Screenshot 2020-10-21 at 9.17.29 AM.png | Old
+BianblocksUnlosable.png | Bianblocks ver.
+</gallery>|caption1=It’s just Unlosable!|class=[[Category:Class 0|Class 0]]|rating=-19|previous=[[File:Automatic_Joyful_Remade.png|30px]] [[Automatic Joyful]]|altprevious=|next=[[File:Frivolous.jpg|30px]] [[Frivolous]]|decal_id=Current: [https://www.roblox.com/library/7708394282/Unlosable-difficulty?Category=Decals&SortType=Relevance&SortAggregation=AllTime&SearchKeyword=Unlosable+difficulty+old&CreatorId=0&Page=1&Position=2&SearchId=7666c3ad-92a6-4d42-9e0f-0542ca354c8d Here]
+Former: [https://www.roblox.com/library/7812667151/Unlosable-Old Here]|difficulty_range=|creator(s)=|sub_difficulty(ies)=* [[File:Roll Difficulty.png|25px]] [[/Old#Roll|<span style="color:magenta">'''Roll'''</span>]] (Unofficial)
+* [[File:Mazeophobia.jpg|25px]] [[/Old#Mazeophobia|<span style="color:red">'''Mazeophobia'''</span>]] (Unofficial)
+* [[File:ShatteredBabass.png|25px]] [[Shattered Babass]]|alt_names=Unfailable|date_added=26th October 2020|revamp_date=24th November 2022|prior_previous=* [[File:Jokful.png|30px]] <span style="color:lime">'''Automatic Joyful'''</span> (Deleted)
+* [[File:Unrebirth Malicious.png|30px]] <span style="color:grey">'''Unrebirth Malicious'''</span> (Deleted)
+* [[File:Maliz.png|30px]] <span style="color:grey">'''Unrebirth Malicious-Zeta'''</span> (Sub Difficulty) (Deleted)
+* [[File:Unrebirth Autism.png|30px]] <span style="color:brown">'''Unrebirth Autism'''</span> (Sub Difficulty) (Deleted)|previous_sub_difficulty(ies)=* [[File:Dvhvv.png|30px]] <span style="color:blue">'''Safe'''</span> (Deleted)
+* [[File:Checkmark_tooease_other_icon.jpg|30px]] <span style="color:grey">'''TooEasy!'''</span> (Deleted)
+* [[File:J.png|30px]] <span style="color:purple">'''Unmissable'''</span> (Deleted)
+* [[File:Contraption.jpg|30px]] <span style="color:lightgreen">'''Contraption'''</span> (Deleted)|type=Difficulty|alt_previous=|alt_next=[[File:ShatteredBabass.png|30px]] [[Shattered Babass]]|rgb_color=234, 127, 251}}
+{{Class0Difficulties|Unlosable}} <span style="color:magenta">'''Unlosable'''</span> is a Class 0 Difficulty with a rating of -19, coming after {{Class-1Difficulties|Instant Win}} [[Instant Win|<span style="color:blue">'''Instant Win'''</span>]], and before {{Class0Difficulties|Automatic}} [[Automatic|<span style="color:lightgreen">'''Automatic'''</span>]]. Due to it being one of the original C1 difficulties, it has had many difficulties before and after this, and also many sub difficulties in its lifetime. However, it currently only has 2 unofficial sub-difficulties (both of them being variations), with them being [[File:Roll Difficulty.png|25px]] <span style="color:magenta">'''[[/Old#Roll|Roll]]'''</span> and [[File:Mazeophobia.jpg|25px]] <span style="color:red">'''[[/Old#Mazeophobia|Mazeophobia]]'''</span>. Anyway, you should easily be able to ace this, due to it being similar to nerfed {{Class0Difficulties|Automatic}} [[Automatic|<span style="color:lightgreen">'''Automatic'''</span>]], and therefore there is a minimal chance of accidental failure.
+
+==Icon Representation==
+[[File:Unlosable.png|center|217x217px]]
+{{Class0Difficulties|Unlosable}} <span style="color:magenta">'''Unlosable'''</span>’s icon is represented with a pink background and a black pixelated :D emoticon. It is very simple, just being 2 colors. The old icon is just a magenta square, meaning it was way too simple.
+
+==Obstacles==
+<tabber>
+Low=
+=== Low {{Class0Difficulties|Unlosable}} <span style="color:magenta">'''Unlosable'''</span> ===
+
+* Falling 400 studs.
+* Go through 75 speed conveyors with 10 stud walls.
+* Wait 200 seconds. 
+|-|
+Mid=
+=== Middle {{Class0Difficulties|Unlosable}} <span style="color:magenta">'''Unlosable'''</span> ===
+
+* Falling 450 studs.
+* Go through 70 speed conveyors with 9 stud walls.
+* Wait 220 seconds. 
+|-|
+High=
+=== High {{Class0Difficulties|Unlosable}} <span style="color:magenta">'''Unlosable'''</span> ===
+
+* Falling 500 studs.
+* Go through 65 speed conveyors with 8 stud walls.
+* Wait 240 seconds. 
+</tabber>
+==Towers in/with this difficulty==
+<tabber>
+|-|
+Non-fictional=
+*[[File:Unlosable.png|25px]] ToDS - [[Tower of Descending Slowly]]
+*[[File:Unlosable.png|25px]] ToES - [[w:c:the-noob-zone-towers:Tower of Elevator Succeeding|Tower of Elevator Succeeding]]
+*[[File:Unlosable.png|25px]] GCoFaA - [https://www.roblox.com/games/93012304960925/Chevochek-s-EJT-towers Great Citadel of Falling and Ascending]
+*[[File:Unlosable.png|25px]] ToUPA - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Tower of Unnecessary Panic Attack] (QToN Zone 1)
+|-|
+TNZT=
+=====Ring 1 ===== 
+*[[File:Unlosable.png|25px]] ToDLN - [[w:c:the-noob-zone-towers:Tower of Doing Literally Nothing|Tower of Doing Literally Nothing]] (Discontinued and Not Finished)
+*[[File:Unlosable.png|25px]] ToDLN:O - [[w:c:the-noob-zone-towers:Tower of Doing Literally Nothing: Overhaul|Tower of Doing Literally Nothing: Overhaul]] (Not Finished)
+=====Ring 3 =====
+*[[File:Unlosable.png|25px]] ToOD - [[w:c:the-noob-zone-towers:Tower of Overdetailed Designs|Tower of Overdetailed Designs]]
+*[[File:Unlosable.png|25px]] ToCDA - [https://tnzt.fandom.com/wiki/Tower_of_Calm_Dimension_Adventures Tower of Calm Dimension Adventures]
+=====Ring 4 =====
+*[[File:Unlosable.png|25px]] ToSBAR - [https://tnzt.fandom.com/wiki/Tower_of_Sitting_Back_and_Relaxing Tower of Sitting Back And Relaxing]
+=====Events =====
+*[[File:Unlosable.png|25px]] SoTRoTHM - [https://tnzt.fandom.com/wiki/Steeple_of_The_Return_of_The_Haunted_Mansion Steeple of The Return of The Haunted Mansion]
+*[[File:Unlosable.png|25px]] ToDLN - [https://tnzt.fandom.com/wiki/Tower_of_DOIGN_LITERALLY_NOTHIGN Tower of DOIGN LITERALLY NOTHIGN]
+|-|
+LAaBT=
+=====Layer 1 =====
+*[[File:Unlosable.png|25px]] ToTQP - [https://laabt.fandom.com/wiki/Tower_of_The_Quiet_Peace Tower of The Quiet Peace]
+*[[File:Unlosable.png|25px]] ToOF - [https://laabt.fandom.com/wiki/Tower_of_Orientated_Frame Tower of Orientated Frame]
+*[[File:Unlosable.png|25px]] ToBaF - [https://laabt.fandom.com/wiki/Tower_of_Basically_a_Floor Tower of Basically a Floor]
+*[[File:Unlosable.png|25px]] ToMD - [https://laabt.fandom.com/wiki/Tower_of_Misshaped_Duality Tower of Misshaped Duality]
+*[[File:Unlosable.png|25px]] ToNC - [https://laabt.fandom.com/wiki/Tower_of_No_Creativity Tower of No Creativity]
+*[[File:Unlosable.png|25px]] ToSGU - [https://laabt.fandom.com/wiki/Tower_of_Slowly_Going_Underground Tower of Slowly Going Underground]
+*[[File:Unlosable.png|25px]] ToCE - [https://laabt.fandom.com/wiki/Tower_of_Cylindrical_Escapade Tower of Cylindrical Escapade]
+*[[File:Unlosable.png|25px]] ToTL - [https://laabt.fandom.com/wiki/Tower_of_Ten_Loops Tower of Ten Loops]
+=====Layer 2 =====
+*[[File:Unlosable.png|25px]] ToCSaS - [https://laabt.fandom.com/wiki/Tower_of_Cavernous_Slipping_and_Sliding Tower of Cavernous Slipping and Sliding]
+*[[File:Unlosable.png|25px]] ToANM - [https://laabt.fandom.com/wiki/Tower_of_Automatic%27s_No_Move Tower of Automatic's No Move]
+*[[File:Unlosable.png|25px]] ToSG - [https://laabt.fandom.com/wiki/Tower_of_Sideways_Gliding Tower of Sideways Gliding]
+*[[File:Unlosable.png|25px]] ToTA - [https://laabt.fandom.com/wiki/Tower_of_Twisted_Adventures Tower of Twisted Adventures]
+|-|
+Fictional=
+*Steeple of Circular Motion (SoCM) (UoFTE Temperature 1)
+*Tower of Harmless Darkness (ToHD) (UoFTE Temperature 2)
+*Painfully Average Tower Completion Video (PATCV) (UoFTE Destination 1)
+*Spire of Pink Speed (SoPS)
+====TJFD====
+=====Ring 0=====
+*[[File:Unlosable.png|25px]] ToUaU - [[Tower of Unlosable and Unfailable]]
+|-|
+Towers with this difficulty=
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*[[File:The MiddlelineNew.png|frameless|30x30px]] [[Monolith of Every JJT Difficulty: Reimagined: Part 1]] (MoEJD:R:P1)
+*''Obelisk of Limitless Difficulty Ascension'' (OoLDA)
+*'''<u>Many</u> others.'''
+</tabber>
+
+==Trivia==  
+
+* This difficulty received a revamp on the 25th November 2022.
+*If you’re wondering why Roll and Mazeophobia aren’t on this page anymore, it’s because they’ve been moved [[/Old|here]].
+*This is one of the 79 difficulties to survive the Difficulty Reformation.
+*This difficulty has become the borderline between falling and automation as of recent.
+
+==Gallery==
+<gallery widths="185">
+File:Screenshot 2020-10-21 at 9.17.29 AM.png|The oldest version of unlosable.
+File:UnloseableAlt.png|Alternate version of unlosable.
+File:Unfailable revamped.png|IgnacyAby's unofficial icon.
+File:SPTUnfailable.png|The icon of Unlosable in Seven's Pleasant Towers (known as Unfailable there)
+File:Unlosable Revamp.png|Unnoficial icon made by: [[User:Cheester16|Cheester16]]
+</gallery>
+
+==Continuing from this point==
+I'm quite surprised you haven't gotten bored and didn't skip to a harder difficulty. .Just skip to [[Automatic]] already, man. It's not worth going into  [[/Old#Roll|Roll]] or [[/Old#Mazeophobia|Mazeophobia]], since they are all the same. However, maybe, just maybe, you can go to '''[[Frivolous]]'''.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 0]]
+[[Category:Icons made with pixel art]]
+[[Category:Emoticon Difficulties]]
+[[Category:Two color icon]]
+[[Category:Unfailable Difficulties]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:Official Difficulty]]
+[[Category:Classic Difficulty]]
+[[Category:Starter Zone]]

@@ -1,0 +1,26 @@
+__NOTOC__
+[[File:Malicious.4.png|right|frameless|1x1px]]
+
+{{NewDifficultyInfobox|image1=Malicious.4.png|title1=Malicious|previous=[[Immeasurable|<span style="color:#5c2525; text-shadow:0 0 4px #000">'''Immeasurable'''</span>]]|next=[[RoorXD]]|rating=26}}
+
+==Introduction ==
+'''Malicious''' is the hardest real difficulty on EHT and is represented with a light grey background and a faded pentagram. This difficulty is even harder than [[Immeasurable|<span style="color:#5c2525; text-shadow:0 0 4px #000">'''Immeasurable'''</span>]]. Currently, there is no determiner for this difficulty due to its ludicrous placement, so it's not the brightest idea to even think about building - or even worse, attempting - a Malicious tower. It will not be beaten. EVER.
+
+==Towers in This Difficulty==
+* NEATU - [[Not Even A Tower Ultra]] (Low Malicious?)
+* ToLT - [[Tower of Lucid Terror]] (Low-Mid Malicious)
+*MN - [[Malicious Neat]] (Mid Malicious?)
+*CT - [[Chaotic Tower]] (High-Peak Malicious)
+*TT - [[Tower Tower]] (Skyline Malicious)
+
+==Trivia== 
+
+*This difficulty used to be represented with a light gray background with a red pentagram, but was changed in March, 2020.
+**This was likely because the icon was poorly made and looked awful.
+**Additionally, there was a version of Malicious between the original and the current one, which is just the current one but it looks pixelated.
+** The difficulty was finally outlined on March 22nd of 2024.
+* The background color of the difficulty is 192, 192, 192 and the pentagram is 161, 161, 161.
+
+[[Category:Difficulties]]
+[[Category:Malicious]]
+[[Category:Two Color Icon]]

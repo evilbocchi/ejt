@@ -1,0 +1,214 @@
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(to bottom, #805399, #905cad);-webkit-text-fill-color: block;-webkit">
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(to bottom, #715391, #563b73);-webkit-text-fill-color: block;-webkit">{{NoticeScrollboxNew|Notices={{Humanly Possible}}{{Large Page}}}}{{NewDifficultyInfobox|gradient=#6432bf, #51289c|image1=<gallery>
+New flowerness image1.png|Current
+Flowerness but better.png|Original
+</gallery>|class=[[:Category:Class 1|Class 1]]|previous=[[File:LovelyDifficulty..webp|30px]] [[Lovely]] (-8)|next=[[File:Pleasant.png|30px]] [[Pleasant]] (-7)|decal_id=* [[File:Flowerness but better.png |30px]] Flowerness: 102967045431633
+* [[File:Betterable.png |30px]] Betterable (unused sub-difficulty): [https://www.roblox.com/library/8682333171/ 8682333171]|creator(s)=[[User:Astrominal|Astrominal]]|full_name=Flowerness|date_added=29/1/2022|hex_color=#BE9BFF|title1=<big><big><span style="background:linear-gradient(180deg,#BE9BFF,#9267E5); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Flowerness]]</span></big></big>|type=Normal|rating=-7|class_range=Middle|sub_difficulty(ies)=*[[File:NewestCoasterifying.png|25px]] [[Coasterifying ]] (-6.66) (sub-difficulty)
+*[[File:ADNDnewimage.png|25px]] [[A Difficulty Named Difficulty]] (-6.33) (sub-difficulty)|alt_previous=[[File:Glee Difficulty.png|25px]] [[Glee]] (-7.5) (sub-difficulty)|short_name=FL|alt_next=*[[File:NewestCoasterifying.png|25px]] [[Coasterifying ]] (-6.66) (sub-difficulty)
+* [[File:ADNDnewimage.png|25px]] [[A Difficulty Named Difficulty]] (-6.33) (sub-difficulty)|rgb_color=190,155,255}}
+
+==What is Flowerness?==
+[[File:New flowerness image1.png|30x30px]] <span style="background:linear-gradient(180deg,#BE9BFF,#9267E5); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Flowerness]]</span> ('''FL''') is a [[:Category:Class 1|'''Class 1''']] (formerly [[:Category:Class 0|'''Class 0''']]) difficulty that is located in the <span style="background:linear-gradient(180deg,#9fa83e,#666B2C); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Middle'''</span> range. Being in the range of  [[File:Exist Difficulty Squared.png|25x25px]] [[Exist]] to [[File:TheHumanLimit.png|25x25px]] [[The Human Limit]], [[Flowerness]] is classified as a [[:Category:Humanly Possible|'''Humanly Possible''']] difficulty, meaning this difficulty is possible for a human to do. For the obstacles, they are pretty beginner-friendly, sometimes they are even jumpless. 
+
+[[File:New flowerness image1.png|30x30px]] <span style="background:linear-gradient(180deg,#BE9BFF,#9267E5); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Flowerness]]</span> is in between [[File:LovelyDifficulty..webp|25x25px]] [[Lovely]] (-8), alternatively [[File:Glee Difficulty.png|20x20px]] [[Glee]] (-7.5) (sub-difficulty) and [[File:Pleasant.png|25x25px]] [[Pleasant]] (-6), alternatively [[File:NewestCoasterifying.png|20x20px]] [[Coasterifying]] (-6.66) (sub-difficulty) and [[File:ADNDnewimage.png|20x20px]] [[A Difficulty Named Difficulty]] (-6.33), with rating of -7. Speaking of those two alternative difficulties, '''FL''' has two sub-difficulties, [[File:NewestCoasterifying.png|20x20px]] [[Coasterifying]] and [[File:ADNDnewimage.png|20x20px]] [[A Difficulty Named Difficulty]], these two sub-difficulties are slightly harder than [[Flowerness]]. Speaking of sub-difficulties of [[Flowerness]], there was a planned sub-difficulty before the current sub-difficulties existed, which was called [[File:Betterable.png|25x25px]] '''<span style="background:linear-gradient(180deg,#7174e3,#5759ad); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Betterable</span>''', but it got scrapped. This difficulty also introduces wraparounds to newbies. 
+
+==<big>''Placement''</big>==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="25" style="text-align:center;width:1%" |'''Class 1'''
+|-
+!Difficulty Image
+!Difficulty Name
+!Difficulty Type
+!Difficulty Rating
+|-
+| colspan="4" style="background:#4D9F6C;color:white" |'''Low'''
+|-
+|[[File:Cat.png|50px]]
+|[[Climb A Truss]]
+| Normal
+| -12
+|-
+|[[File:Tranquil2024.png|50x50px]]
+|[[Tranquil]]
+|Sub-Difficulty
+| -11.5
+|-
+|{{Class0Difficulties|Jumpless|50px}}
+|[[Jumpless]]
+|Normal
+| -11
+|-
+|[[File:Starter.png|50px]]
+|[[Starter]]
+|Normal
+| -10
+|-
+|[[File:CakeWalk.png|50px]]
+|[[Cakewalk]]
+|Sub-Difficulty
+| -9.5
+|-
+| colspan="4" style="background:#666B2C;color:white" |'''Mid'''
+|-
+|[[File:Sweet (New).png|50px]]
+|[[Sweet]]
+|Normal
+| -9
+|-
+|[[File:Sugary (New).png|50px]]
+|[[Sugary]]
+|Sub-Difficulty
+| -8.66
+|-
+|[[File:Aesthetic.png|50px]]
+|[[Aesthetic]]
+|Sub-Difficulty
+| -8.33
+|-
+|{{Class0Difficulties|Lovely|50px}}
+|[[Lovely]]
+|Normal
+| -8
+|-
+|[[File:Glee Difficulty.png|50px]]
+|[[Glee]]
+|Sub-Difficulty
+| -7.5
+|-
+|[[File:New flowerness image1.png|50px]]
+|<big>''[[Flowerness]]''</big>
+|Normal
+| -7
+|-
+|[[File:NewestCoasterifying.png|50px]]
+|[[Coasterifying]]
+|Sub-Difficulty
+| -6.66
+|-
+|[[File:ADNDnewimage.png|50px]]
+|[[A Difficulty Named Difficulty]]
+|Sub-Difficulty
+| -6.33
+|-
+| colspan="4" style="background:#867438;color:white" |'''High'''
+|-
+|[[File:Pleasant.png|50px]]
+|[[Pleasant]]
+|Normal
+| -6
+|-
+|[[File:Piece O Cake UHD.jpeg|50px]]
+|[[Piece o' Cake]]
+|Sub-Difficulty
+| -5.5
+|-
+|[[File:Tutorial.png|50px]]
+|[[Tutorial]]
+|Normal
+| -5
+|-
+|[[File:Hellish Encore.png|50px]]
+|[[Hellish Encore]]
+|Sub-Difficulty
+| -4.66
+|-
+|[[File:New icon Delight.png|50px]]
+|[[Delightful]]
+| Sub-Difficulty
+| -4.33
+|-
+|[[File:TooEasy Difficulty Revamped.jpg|50px]]
+|[[TooEasy]]
+|Normal
+| -4
+|}
+
+==''<big>Icon Representation</big>''==
+{| class="wikitable mw-collapsible" style="text-align:center;"
+! colspan="3" style="text-align:center; width: 1%" |'''<big>''Icon Representation''</big>'''
+|-
+! style="border:5px solid #523f73; background: #715391;" |Icon
+! style="border:5px solid #523f73; background: #715391;" |Representation
+! style="border:5px solid #523f73; background: #715391;" |Date
+|-
+| style="border:5px solid #523f73; background: #715391;" |<big>'''Current Version:'''</big>[[File:New flowerness image1.png|center|180x180px|frameless]]
+| style="border:5px solid #523f73; background: #715391;" |The current icon represents a sideways gradient background, going from #7c8eff to #bd9bff and a happy face at the middle, pretty similar to the old [[File:Old Vibeness.png|30x30px]] [[Vibeness]] icon. (icon by [[User:Oh Noez! Oh Noez!|Oh Noez! Oh Noez!]])
+| style="border:5px solid #523f73; background: #715391;" |18 June 2022 (D/M/Y)
+|-
+| style="border:5px solid #523f73; background: #715391;" |<big>'''Original Version:'''</big>[[File:Flowerness_but_better.png|center|frameless]]
+| style="border:5px solid #523f73; background: #715391;" |The original image is just a simpler version of the current one, but the mouth is wider and pixelated.
+| style="border:5px solid #523f73; background: #715391;" |29 January 2022 (D/M/Y)
+|}
+
+== Obstacles==
+{| class="fandom-table"
+|+Obstacle Table
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+|-
+|Long Jump (Climbable)
+| style="background-color: #014500;" |3.25 studs
+| style="background-color: #336000;" |3.3 studs
+| style="background-color: #6d5c00;" |3.35 studs
+| style="background-color: #964a00;" |3.4 studs
+| style="background-color: #5a0000;" |3.45 studs
+|-
+|Long Jump (Unclimbable)
+| style="background-color: #014500;" |3 studs
+| style="background-color: #336000;" |3.05 studs 
+| style="background-color: #6d5c00;" |3.1 studs
+| style="background-color: #964a00;" |3.15 studs
+| style="background-color: #5a0000;" |3.2 studs
+|-
+|Wraparounds (first appearance)
+| style="background-color: #014500;" |0.001 studs
+| style="background-color: #336000;" |0.01 studs
+| style="background-color: #6d5c00;" |0.02 studs
+| style="background-color: #964a00;" |0.03 studs
+| style="background-color: #5a0000;" |0.05 studs
+|-
+|Stickout (negative means stick in)
+| style="background-color: #014500;" |0.5x-0.5 studs
+| style="background-color: #336000;" |0.525x-0.45 studs
+| style="background-color: #6d5c00;" |0.55x-0.4 studs
+| style="background-color: #964a00;" |0.575x-0.35 studs
+| style="background-color: #5a0000;" |0.6x-0.3 studs
+|}
+
+==Towers==
+
+*Tower of Flower Adventures (fictional)
+*Flower Facility (fictional)
+*[[Spire of Gardening Adventures]]
+
+==Trivia==
+
+*This difficulty was made by [[User:Astrominal|'''Astrominal''']].
+*This difficulty was made before but got deleted and then revived.
+* This difficulty was planned to be a [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] but then it was made its own difficulty. 
+**The scrapped [[:Category:Sub-Difficulties|'''Sub-Difficulty''']] name was '''<span style="background:linear-gradient(180deg,#7174e3,#5759ad); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">Betterable</span>''' and the icon looked like this: [[File:Betterable.png|25x25px]].
+***The original name was <span style="background:linear-gradient(180deg,#7174e3,#5759ad); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Peacefulness'''</span>'''.'''
+*This difficulty was first used in [[Great Citadel of Custom, Impossible and Normal Difficulties|'''GCoCIaND''']].
+
+==Gallery==
+<gallery widths="200" position="center" spacing="small" captionposition="below" captionalign="center" captiontextcolor="#ffffff" bordercolor="#000000" captionsize="large">
+New flowerness image1.png|Current icon (by [[User:Oh Noez! Oh Noez!|Oh Noez! Oh Noez!]])
+Flowerness but better.png|Old icon (by [[User:Astrominal|Astrominal]])
+New flowerness image2.png|Alternate icon (by [[User:Viranenthusiast|Viranenthusiast]])
+Betterable.png|Betterable's icon.
+Bestable.png|Betterable remake icon (by [[User:BadgeHunterRBLX|BadgeHunterRBLX]])
+</gallery>
+
+'''<big>''<u><center><big><big><big>Difficulty Navigation</big></big></big></center></u>''</big>'''
+
+<font size="5"><center><font size="5">« [[File:LovelyDifficulty..webp|40px]] [[Lovely]] | [[File:New flowerness image1.png|40px]] [[Flowerness]] |  [[File:Pleasant.png|40px]] [[Pleasant]] »</center>
+[[Category:Class 0]]
+[[Category:Difficulties]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:GCoCIaND Difficulties]]
+[[Category:Difficulty]]{{DifficultiesNavbox}}

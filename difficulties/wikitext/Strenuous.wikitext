@@ -1,0 +1,95 @@
+<div style="background:#5A0000 ;padding:1em;font-family:rubik;border:15px solid #9E0000;border-radius:15px">{{NoticeScrollboxNew|Notices={{Inclusion|reason=Allowed by staff}}
+{{Humanly Possible}}
+{{Squint to Win|reason=Text CSS and DIV background do not mix.}}
+{{Revamp}}}}__NOTOC__
+
+== What is [[File:Strenuous2.png|40x40px]]'''<span style="color:#9E0000">Strenuous</span>'''? ==
+{{NewDifficultyInfobox|title1='''<span style="color:#9E0000>Strenuous</span>'''|image1=<gallery>
+Strenuous2.png | Current
+ST.png | Legacy
+</gallery>|caption1=It’s starting to get very hard now.|class=[[:Category:Class 2|Class 2]]|type=Normal|previous={{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]]|next=[[File:MenacingDifficulty.png|30px|link=[[Menacing]]]] [[Menacing]]|class_range=Mid|difficulty_range=Baseline - Peak|decal_id=Check the Colors tab.|main_difficulty=Difficult|sub_difficulty(ies)=None|official_music(s)=[https://www.youtube.com/watch?v=cv3tDgeLrJE A Hat in Time - Main Theme]|creator(s)=CoolNumbers3|full_name=Strenuous|short_name=|alt_names=Painful|date_added=17th December. 2022|hex_color=#932000|rgb_color=Current: 147, 32, 0
+Alternate: 158, 0, 0|cmyk_color=0, 78, 100, 42|hsv_color=13, 100, 58|hsl_color=13, 100, 29|rgba_color=idk|alt_next=|original_main_difficulty=[[Onerous]]|rating=4.5}}{{Background|File=ST.png|Size=1900px}}
+
+[[File:Strenuous2.png|frameless|32x32px]] '''<span style="color:#9E0000">Strenuous</span>''' is a [[:Category:Class 2|Mid Class 2]] Sub-Difficulty that is harder than {{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]], but easier than [[File:MenacingDifficulty.png|link=Menacing|30x30px]] [[Menacing]]. It is the last difficulty of Mid Class 2, and jumps here start to get harder. Now there are such obstacles as getting to {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|Hard]] in a difficulty chart obby, getting to {{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]] a one jump per difficulty chart obby, and more than that.
+
+If you are just getting better at obbies, I recommend you beat a tower with the rating of {{Class1Difficulties|Hard}} [[w:c:jtoh:Hard|Hard]], and practice a few {{Class2Difficulties|Difficult}} [[w:c:jtoh:Difficult|Difficult]] obstacles, due to you soon moving onto that difficulty. If you do that, I have no doubt you will surmount a tower with this difficulty in 30 minutes or less. Due to the average Robloxian only being able to beat about {{Class1Difficulties|Medium}} [[w:c:jtoh:Medium|Medium]] difficulty obstacles, this is a much bigger step up than what a normal person could generally accomplish, without assists.
+==Icon Representation==
+
+=== Current ===
+[[File:Strenuous2.png|center|frameless|85x85px]]
+The new icon is much more accurate to it's JToH neighbors. It's dark red, but not as dark as Challenging's red. The RGB is (158, 0, 0).
+
+==Obstacles==
+Why does a sub-difficulty have a spectrum? Idk, it is supposed to be a spectrum of difficult.
+
+=== Baseline '''<span style="color:#9E0000">Strenuous</span>'''===
+
+* 8.55 stud jumps. (Climbable)
+* 8.4 stud jumps. (Unclimbable)
+*3.6 stud wraparounds. (Climbable)
+*3.5 stud wraparounds. (Unclimbable)
+
+===Low '''<span style="color:#9E0000">Strenuous</span>'''=== 
+
+*8.575 stud jumps. (Climbable)
+*8.425 stud jumps. (Unclimbable)
+*3.625 stud wraparounds. (Climbable)
+*3.525 stud wraparounds. (Unclimbable)
+
+===Middle '''<span style="color:#9E0000">Strenuous</span>'''=== 
+
+*8.6 stud jumps. (Climbable)
+*8.45 stud jumps. (Unclimbable)
+*3.65 stud wraparounds. (Climbable)
+*3.55 stud wraparounds. (Unclimbable)
+
+===High '''<span style="color:#9E0000">Strenuous</span>'''===
+
+* 8.625 stud jumps. (Climbable)
+*8.475 stud jumps. (Unclimbable)
+*3.675 stud wraparounds. (Climbable)
+*3.575 stud wraparounds. (Unclimbable)
+
+===Peak '''<span style="color:#9E0000">Strenuous</span>'''===
+
+*8.65 stud jumps. (Climbable)
+*8.5 stud jumps. (Unclimbable)
+*3.7 stud wraparounds. (Climbable)
+*3.6 stud wraparounds. (Unclimbable)
+
+== Towers in this difficulty==
+===Non-Fictional===
+
+* Tower of Linonophobia (ToL)
+
+===Fictional=== 
+*Tower of Depressing Obstacles (ToDO)
+*Steeple of Miniature Difficulty Chart (SoMDC)
+* Citadel of Computer Destruction (CoCD)
+* Tower of Brownish Red (ToBR)
+
+===Other Appearances===  
+*[https://www.roblox.com/games/12540885283/UPD-Difficulty-Rooms-EJT Room 7.5: Strenuous] (R7.5:S)
+==Trivia== 
+*[[User:The Difficulty Enthusiast|TDE]] fixed up this page.   
+**[[User:Bruhshard1|Bruhshard]] changed the classification a little bit.  
+***This was for.. A7.
+* The caption is fake. it says it's starting to get very hard.
+** However, Very Hard is the old name for Difficult, and we're already past it.
+*** A perfect fix for this is stating that it's about to get super hard.
+* Credit to [[Relentless]] for the background thingy. 
+*N/A
+*N/A
+
+==Continuing from this point==
+Congrats on completing this difficulty! Proceed to [[File:MenacingDifficulty.png|link=Menacing|30x30px]] [[Menacing]].
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 2]]
+[[Category:Sub-Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+[[Category:Difficulty]]
+[[Category:One color icon]]
+[[Category:Unofficial Difficulty]]
+[[Category:Unofficial]]

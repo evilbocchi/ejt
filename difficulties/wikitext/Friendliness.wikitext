@@ -1,0 +1,97 @@
+<div style="box-sizing:border-box; padding:0.8em;border-radius:15px;border:3px solid lime;overflow:hidden;background:linear-gradient(135deg, grey,forestgreen,black)">
+{{NoticeScrollboxNew|Notices=
+{{Unloseable Difficulty}}
+{{Large Page}}
+}}
+{{NewDifficultyInfobox|title1=[[File:FPnew.png|40px]]  <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>  [[File:FPnew.png|40px]]|image1=<gallery>
+FPnew.png  | Current
+Friend possible.png | Original
+</gallery>|caption1=Finally, it's back again!|class=Class Negative|rating=-TREE(3)|type=*Revived
+*Normal
+*Unlosable|previous=[[File:Unimpossible New.png|30px]] [[Unimpossible]]|next=[[File:True Ease (New).webp|30px]] [[True Ease]]|class_range=Low Class Negative|difficulty_range=None|creator(s)=*[[User:Givemefreepets642|Givemefreepets642]] (Creator)
+*[[User:Sanjay2133|Sanjay2133]], [[User:The Difficulty Enthusiast|The Difficulty Enthusiast]] and [[User:MapleIsNotAMapleLeaf|MapleIsNotAMapleLeaf]] (Revivers)|full_name=Friendly Possible|short_name=FR/FP|alt_names=Friendly|date_removed=March 29th, 2023|removal_reason="useless"|revival_date=July 4th, 2023|decal_id=Current: [https://create.roblox.com/store/asset/7491542648/Friendliness 7491542648]
+Old: [https://create.roblox.com/store/asset/6382260436/Friendliness 6382260436]|original_name=Friendly Possible|previous_name=Friendly Possible|original_class=Class -1}}
+
+==Introduction - [[File:FPnew.png|40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>==
+[[File:FPnew.png|30x30px]] <span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''<big>Friendliness</big>'''</span> is a Class Negative difficulty lying in the low spectrum of it, and with an estimated rating of -TREE(3). It is an unlosable difficulty, and resides in between [[File:Unimpossible New.png|30px]] [[Unimpossible]] and [[File:True Ease (New).webp|30px]] [[True Ease]]. Due to this, it is ''absolutely'' improbable, that one could fail this difficulty, as to do so would be transcendentally impossible.                                              
+
+Because it is in Class Negative, this difficulty would be one of the first difficulties a player attempting the chart would come across; however, the player has already beaten the difficulty an infinite amount of times. The only way to truly fail this difficulty is to have everything—including the omniverse, and everything as we know it, and even everything that has an existence rank—to have an existence rank of-well, there's actually no definite amount. One trying to fail this difficulty would have to set ''everything'''s existence rank to a number somehow beyond numbers such as Γ<sub>0</sub> and much larger than numbers in hyperology and fictional googology.
+
+Thus, this difficulty is still unbuildable. Obviously, one could make it so that the player skips over this difficulty, but that wouldn't truly represent the difficulty's easiness. Because at least one object (well, every object and everything that hasn't existed) has an existence rank that is definable, one will have won this difficulty. This has happened since the beginning of time; in fact, this has happened before the beginning of time, for everything would have had an existence rank of 0.
+
+Therefore, to put it simply, '''you will forever win this difficulty no matter what.''' 
+
+Using systems such as tier rating would be useless, due to this difficulty being way below the beginning of true obstacles. However, a system such as Kol Metris, which relies on placement, can measure this difficulty to be 0, because this difficulty resides before [[File:Exist Difficulty Squared.png|30x30px]] [[Exist]].
+
+==Placement - [[File:FPnew.png|40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>==
+
+===Baseline Class Negative===
+
+*[[File:Tfird.png|100x100px]] [[The First Difficulty|<big>The First Difficulty</big>]] (-∞)
+*[[File:TheLowerGapRemake.png|70x70px]] [[The Lower Gap|<span style="color:lime">The Lower Gap</span>]] (-∞  to 115)
+*[[File:Negativity.png|30x30px]] [[Negativity]] (Empty<sub>(G<sub>0</sub>)</sub>)
+
+=== Low Class Negative===
+*[[File:Unimpossible New.png|frameless|30x30px]] [[Unimpossible]] (-Rayo(10<sup>100</sup>)
+*[[File:FPnew.png|50x50px]] <big><big><big>[[Friendliness]]</big></big></big> (-TREE[3]) '''<big>(probably not here now)</big>'''
+*{{Class-1Difficulties|True Ease}} [[True Ease]] (-G<sub>64</sub>)
+
+=== Mid Class Negative===
+*{{Class-1Difficulties|A}} [[A]] (-10<sup>10<sup>10<sup>1,000,000</sup></sup></sup>)
+*[[File:Square Felix The AA.png|30x30px]] [[Felix the ДА]] (-10<sup>1Qd</sup>)
+*[[File:Exist Difficulty Squared.png|50x50px]] [[Exist]] (-10<sup>100</sup>)
+==Icon Representation - [[File:FPnew.png|40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>==
+{{IconRepresentationOfficialOnly|image=[[File:FPnew.png|300px]]|color=#00bb00|description=The icon is relatively simple. The icon consists of a white background and a face with eyebrows, eyes and a mouth. The face in a large smile and the lines are in black, but the eyes are bright green. Overall, it shows the friendly nature of the difficulty.}}
+
+==Catches - [[File:FPnew.png|frameless|40x40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>== 
+
+* You can’t stop beating this difficulty.
+*Trying to lose will instead make you win, there's no way to force against this!
+
+==Obstacles in this difficulty - [[File:FPnew.png|frameless|40x40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>==
+There are no possible obstacles to measure the easiness of  [[File:FPnew.png|frameless|30x30px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>. No, not jumps, no, not walking, no, not waiting, ''nothing''. This difficulty is so inexplicably easy that trying to measure an obstacle here would break quantum physics. The only semi-accurate obstacle that could be in this difficulty is if anything had an existence rank of Γ<sub>0</sub>, or above, but even then, that is not close at all accurate to what could be [[File:FPnew.png|frameless|30x30px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>. You have already beaten this an infinite amount of times whilst reading this difficulty; hell, even while the page was loading, you beat this an uncountable number of times. Think about that.
+
+==Towers - [[File:FPnew.png|frameless|40x40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>==
+''Note: This difficulty is unbuildable, so the towers listed below are inaccurate and purely fictional.''
+
+*SoFKaR - [https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Steeple of Friendliness, Kindness and Respect]
+*SoTSaF - [https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Steeple of Totally Shyness and Friendliness]
+*ToF - [[Tower of Friendliness]] (Fictional)
+
+==Trivia - [[File:FPnew.png|frameless|40x40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>==
+*[[File:FPnew.png|frameless|30x30px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big> is a collab between MapleIsNotAMapleLeaf, Sanjay2133 and The Difficulty Enthusiast
+**This difficulty is this first collab that MapleIsNotAMapleLeaf participated in.
+*This difficulty had '''''<u>8 ICONS</u>'''''.
+**These were made when it was called [[File:FPnew.png|frameless|30px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendly Possible.'''</span></big>
+*This difficulty is the last difficulty to not have ''true'' obstacles.
+*This difficulty is the first difficulty to have an accurate rating.
+**[[File:Unimpossible New.png|30px]] [[Unimpossible]] could be said to, but it is not as defined.
+*This difficulty used to be called [[File:FPnew.png|frameless|30px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendly Possible'''</span></big> during the previous versions of this difficulty.
+**However, [[File:FPnew.png|30x30px]] <span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''<big>Friendly Possible</big>'''</span> was removed due to it being deemed "useless" during the Class Negative cleanup.
+***This was ironic, because it was brought back later during the split of Class Negative, because there needed to be more difficulties to fill in the rating gap.
+** Its deletion leaded to various users wanting it back and even a video being made on the topic.
+*Thanks to [[User:TotallyNotAMeme00|TotallyNotAMeme00]] for the div background TDE just took and used here.
+
+==Gallery - [[File:FPnew.png|frameless|40x40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>==
+
+<gallery>
+FPnew.png| Current
+Funny smile.png|Old Icon
+FPfunny.png|Second Old Icon
+New Project (30).png|Third Old Icon
+Otherlol.png|Fourth Old Icon
+AWWW.png|Fifth Old Icon
+Eeeeee.png|Sixth Old Icon
+Friend possible.png|Original Icon
+Sky friend.png|Unofficial Icon
+</gallery>
+
+==Continuing on from this point - [[File:FPnew.png|frameless|40x40px]] <big><span style="font-family:Twentieth Century;background:radial-gradient(white,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:white;text-shadow: #2bff00 0px 1px 4px;">'''Friendliness'''</span></big>==
+After one was to obviously have beaten this difficulty, they would instantaneously complete the next difficulty, introducing [[File:True Ease (New).webp|30px]][[True Ease]]. 
+{{DifficultiesNavbox}}</div>
+[[Category:Class Negative]]
+[[Category:Unlosable Towers]]
+[[Category:Classic Difficulty]]
+[[Category:Revived]]
+[[Category:Unloseable Difficulties]]
+[[Category:Vandalized]]

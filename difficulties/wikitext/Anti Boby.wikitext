@@ -1,0 +1,19 @@
+{{DISPLAYTITLE:<span style="color:#ffffff;">'''Anti Boby'''</span>}}
+{{DifficultyInfobox
+|title1=Anti Boby
+|type=Joke
+|image1=AntiBoby.png
+|date_added=January 21, 2025
+}}{{Difficulty|AntiBoby|20px}} [[{{PAGENAME}}]] is a joke difficulty which was released alongside [[Might as Well Be a Tower]]. There is only one tower in this difficulty, that being the aforementioned tower.{{Header|Towers}}<tabber>
+The Stronghold=
+<div align="center"><font size="5">{{Emblem|TS}} [[w:c:jtoh:The Stronghold|The Stronghold]] {{Emblem|TS}}</font></div>
+
+*MaWBaT - [[Might as Well Be a Tower]]
+{{Header|Trivia}}
+*The image used for this difficulty might be based on a meme GIF of "Kaguya Explosion" found [https://tenor.com/kVtC6UH6weq.gif here].
+</tabber>
+{{Difficulty Navbox}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:The Stronghold]]
+[[Category:Anti Boby]]

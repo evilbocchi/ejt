@@ -1,0 +1,150 @@
+{{NoticeScrollboxNew|Notices=
+{{Humanly Possible}}
+{{Classic}}
+}}
+{{RevampQuote|Header=Quote|Quoter=60mmm|Text=The tower portal IS the winpad!}}
+
+====='''<big>Note: If you're going to make an unofficial difficulty icon, PLEASE put it in the gallery.</big>'''=====
+{{NewDifficultyInfobox
+|title1 = Win
+|image1 = <gallery>
+2020 10 28 0ec Kleki.png | Official
+Im bored.png | Original
+</gallery>
+|caption1 = You Win!
+|class = [[:Category:Class 0|Baseline Class 0]]
+|type = [[:Category:Difficulties|Normal Difficulty]]
+|previous = [[File:One_Second.png|30px]] [[Millisecondless]]
+|next = [[File:Winsome.png|30px]] [[Winsome]]
+|decal_id = Official: [https://create.roblox.com/store/asset/6382362796/Win-Difficulty?externalSource=www 6382362796]
+Original: [https://create.roblox.com/store/asset/6815405109/Win 6815405109]
+|sub_difficulty(ies) = 
+|creator(s) = *[[User:Eisenhover|Eisenhover]] and [[User:Veblicon|Veblicon]] (Original, Pretty sure)
+*[[User:IdklolXDXDXD|IdklolXDXDXD]] (Revamp)
+|date_added = *September 19, 2020 (Difficulty Creation)
+*March 29, 2022 (Revamp)
+|hex color = 
+|rating=-29
+|class_range=Baseline Class 0
+|hex_color=*#2877e7 (Background)
+*#0badff (Face)
+|rbg_color=*40, 119, 231 (Background)
+*11, 173, 255 (Face)|alt_previous=[[File:Astronomical.png|30px]] [[Astronomical]]}}
+==What is '''<span style="color:#2877e7;text">Win</span>'''? ==
+'''<span style="color:#2877e7;text">Win</span>''' is the second difficulty (third if you count sub-difficulties) in Class 0. The only thing you can do here is win this difficulty, as the only obstacles are extremely short waiting periods. There is no way to lose. Well, there is, but most of the ways you could do so are highly improbable.
+
+According to the obstacles of [[Astronomical]], this is the first difficulty with a full rating to buildable. [[Millisecondless]] has waiting periods too brief to be consistently replicated within Studio, and so it is unbuildable. This means that you end up with a lot of inaccurate [[Instant Win]] structures, as many of them are using winpads. Winpads have teleportation delays upwards of 500 milliseconds, which means that they are "too hard" to be classified as IW. Combine this with short falls (1-3 studs), and you end up with towers like ToQG technically being Astronomical or even Win.
+
+In short, Win is the first difficulty you'll most likely actually play if you're going through the chart. You won't be here for long, however, as the difficulty is seconds long and basically unfailable.
+
+==Ways to Lose:==
+There are presumably about 65 ways you can possibly lose this difficulty in any way. Here are some of the more common and possible ways you can lose this difficulty:
+#Device restart/shutdown
+#Leaving/disconnecting from the game
+#Server shutdown
+#Bluescreen/kernel panic
+#Hardware damage causing disconnection from the game
+#Game malfunction
+#Other ways that may most likely trigger something that's already listed above.
+
+==Icon Representation==
+<span style="color:#2877e7;text">'''Win'''</span>'s icon is basically the same as [[Instant Win|<span style="color:#002eff;text">Instant Win</span>]], but instead the color is a paler blue, and, the "-_-" face is smaller and thinner, and the color of the face is bright blue instead of pure white. The old icon represents DEATH and Aleph Null's icons mixed together, which is highly unfitting for how easy the difficulty is. Said old icon is also used in the difficulty [[Aleph-DEATH]].
+
+==Obstacles ==
+
+===<span style="text-shadow: #00c8c8 0px 0px 10px;"><span style="color: #a5ffff;">Baseline</span></span> <span style="color:#2877e7;text">Win</span> ===
+4 stud fall into the winpad or wait 1 second.
+
+===<span style="text-shadow: #00c8c8 0px 0px 10px;"><span style="color: #00ffff;">Bottom</span></span> <span style="color:#2877e7;text">Win</span>===
+5-7 stud fall onto the winpad or wait 1.5 seconds.
+
+===<span style="text-shadow: #00c800 0px 0px 10px;"><span style="color: #00ff00;">Low</span></span> <span style="color:#2877e7;text">Win</span>===
+8-10 stud fall onto the winpad or wait 2 seconds.
+
+===<span style="text-shadow: #c8c800 0px 0px 10px;"><span style="color: #ffff00;">Mid</span></span> <span style="color:#2877e7;text">Win</span>===
+11-13 stud fall onto the winpad or wait 2.5 seconds.
+
+===<span style="text-shadow: #963200 0px 0px 10px;"><span style="color: #ff6400;">High</span></span> <span style="color:#2877e7;text">Win</span>===
+14-16 stud fall onto the winpad or wait 3 seconds.
+
+===<span style="text-shadow: #ff0000 0px 0px 10px;"><span style="color: #ff0000;">Peak</span></span> <span style="color:#2877e7;text">Win</span>===
+17-19 stud fall onto the winpad or wait 3.5 seconds.
+
+===<span style="text-shadow: #af0046 0px 0px 10px;"><span style="color: #ff0064;">Skyline</span></span> <span style="color:#2877e7;text">Win</span>===
+19.9 stud fall onto the winpad or wait 3.9-4 seconds.
+
+==Towers in Win==
+{| class="mw-collapsible mw-collapsible" <span style="border:5px solid; border-image: linear-gradient(to bottom, #00b3ff)4; height: 50px; background:linear-gradient(to bottom, #133a70); padding:3px; text-align: left;"></span>
+| width="100%" style="border-radius: 5px 5px 0 0; font-size: 1em; font-weight: 200; font-family:Comfortaa; color:black;" | Towers of this difficulty - [[File:2020 10 28 0ec Kleki.png|frameless|30x30px]] <span style="color:#2777e8;text-shadow:0 2px 5px #2777e8;font-family:Georgia">[[{{PAGENAME}}]]</span>⠀
+|-,
+|<span style="color:black;"><big>[[File:2020 10 28 0ec Kleki.png|link=Millisecondless|50x50px]]  
+
+<tabber>
+|-|
+Non-Fictional=
+*[https://www.roblox.com/games/5962286577/Tower-of-Actually-Winning-Every-Run Tower of Actually Winning Every Run] (ToAWER)
+*Room of Complete Silence and Winning (RoCSaW) in Obby Creator
+*[[Spire of Short and Easy Towers]] (SoSaET)
+*Box of Getting Rick Rolled (Obby Creator) (BoGRR in MBT)
+*Room of Absolute Ease (Tower Creator) (RoAE)
+*[[Tower of The Absolute Win]] (ToTAW)
+*[[Citadel of Unlosable Difficulty Chart]] (CoUDC)
+|-|
+LAaBT=
+*[[w:c:laabt:Tower of Extreme Laziness|Tower of Extreme Laziness]] (ToEL)
+*[https://laabt.fandom.com/wiki/Tower_of_Frameless_Victory Tower of Frameless Victory] (ToFV)
+*[https://laabt.fandom.com/wiki/Tower_of_Slanted_Winning Tower of Slanted Winning] (ToSW)
+*[https://laabt.fandom.com/wiki/Tower_of_Scattered_Rooms Tower of Scattered Rooms] (ToSR)
+*[https://laabt.fandom.com/wiki/Tower_of_Wall_Separation Tower of Wall Separation] (ToWS)
+*[https://laabt.fandom.com/wiki/Tower_of_Claustrophobic_Space Tower of Claustrophobic Space] (ToCS)
+|-|
+Fictional/Unknown=
+*Great Citadel of Bloody Accidents (GCoBA)
+*[[Room of Win]] (RoW) (TJFD)
+|-|
+DCTs=
+===Towers with this difficulty===
+*[[File:Deadly Tubular Death Icon.gif|frameless|30x30px]] [[Monolith of Deadly Difficulties Approaching]] (MoDDA)
+*{{Class3Difficulties|Insane}} [[Great Citadel of Possible JJT Difficulties]]: Part 1 (GCoPJD: P1) (Floor: idk) 
+</tabber>
+|-
+|}
+
+
+==Trivia==
+
+* The original icon was an Aleph-Null symbol with the DEATH icon on it. The icon was eventually changed to something more.. ''[[pleasant]]'' for this difficulty.
+**It was likely ancient edits from the early days, or a real icon! The archives are unknown.
+**This icon is currently used for [[Aleph-DEATH]], a High-Class 8 difficulty.
+* Although the original difficulty was made by Veblicon, it is still in the hands of Eisenhover. 
+**This is because the original page was on JET (which was eventually deleted), and not JJT.
+*Win used to have 25 obstacle ranges within it's spectrum, (used to have 20 which for the time was the most ever in this wiki).
+**Most of the obstacle ranges were removed due to them reducing the quality of the page.
+==Gallery==
+<gallery>
+File:Win's Portal.png|Win's Portal in [[Great Citadel of Hellish Difficulties|GCoHD]].
+File:Im bored.png|Win's Original Icon.
+File:WinDifficutySign.png|TMoAD's Win Introduction Sign.
+File:B446EB63-F826-430C-BC1D-467B3D7B1EC7.png|Win's unofficial icon.
+File:Jwklong Win.png|Win's second unofficial icon by jwklong.
+File:Win (Image by- Guest 78266).png|Win's third unofficial icon by Guest 78266.
+File:WinAltDecal.png|Win's fourth unofficial icon, by s1nblitz.
+File:Altwin.png|Win's fifth unofficial one by Winlogon95
+File:WinIceCubeVer.png|Win's Sixth Unnoficial Icon By DXXIceCubeXXD
+File:Win’s 7th Unofficial Icon.png|Win’s 7th Unoffical Icon. (Made By Kyouki727)
+File:Win8thUnofficialIcon.png|Win's eighth unofficial icon, by BratusBogdan.
+File:Win's_9th_unofficial_image.png|Win's 9th unofficial icon, by Dadfwwwd.
+</gallery>
+
+==Continuing from this point ==
+Wow, you won! No surprise. Are you bored? Please… Just move on to {{Class1Difficulties|Effortless}} [[w:c:jtoh:Effortless|<span style="color:#00ce02;text">Effortless</span>]]. Or, if you ''really'' want to play a Difficulty Waiting Simulator, then move onto [[File:SquareDoNothing.png|frameless|30x30px]] [[Do Nothing|<span style="color:#99d0e7;text">Do Nothing</span>]] or you could've gone to [[File:Winful.png|frameless|31x31px]] <span style="color: #4169e1;">''Winful''</span> before it was deleted.
+
+Just please, move on into the JToH range. Stop wasting your time.{{DifficultiesNavbox}}
+
+[[Category:Difficulties]]
+[[Category:Class 0]]
+[[Category:Emoticon Difficulties]]
+[[Category:Starter Zone]]
+[[Category:JET Difficulties]]
+[[Category:Difficulties with many alternate icons]]
+[[Category:Two color icon]]

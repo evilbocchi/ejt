@@ -1,0 +1,155 @@
+__NOTOC__
+{{DISPLAYTITLE:<span style="color:#ffa960;text">'''Skip'''</span>}}
+{{NoticeScrollboxNew|Notices=
+{{Classic}}
+{{Humanly Possible}}
+}}
+{{NewDifficultyInfobox
+|title1 = Skip
+|image1 = <gallery>
+Square Simple (100).png | Current
+Skip.png | Old
+Skipalt.png | Alternate
+</gallery>
+|caption1 = Skipping go brrrr
+|class = [[:Category:Class Negative|High Class Negative]]
+|type = [[:Category:Difficulties|Normal Difficulty]]
+|previous = [[File:SquareRelaxNew.svg|frameless|30x30px]] [[Relax|<span style="color:#ffffff;text">Relax</span>]]
+|next = [[File:RestfulR.png|30px]] [[Restful]]
+|decal_id = Current: [https://www.roblox.com/library/7662792908/Skip 7662792908]<br>Old: [https://create.roblox.com/store/asset/6382331354/Skip 6382331354]<br>Alternate: [https://create.roblox.com/store/asset/11762312762/Skip 11762312762]
+|previous_sub_difficulty(ies) = {{Class-1Difficulties|Shortcut|20px}} [[Shortcut|<span style="color: #214529;">Shortcut</span>]]
+|creator(s) = *[[User:Loganboi2|Loganboi2]] 
+*[[User:Dreadful.exe|Dreadful.exe]] (Original)
+*[[User:IdklolXDXDXD|IdklolXDXDXD]] (Revamp)
+|date_added = *December 11, 2020 (Difficulty Creation)
+*March 29, 2022 (Revamp)
+*October 8, 2022 (Second Revamp & Big Revamp)
+|original_name=Skip|prior_previous=[[Relax]]|revamp_date=March 29, 2022 (1st)
+October 8, 2022 (2nd)|original_creator(s)=Dreadful.exe|prior_next=[[Instant Win]]|previous_creator(s)=Dreadful.exe|original_type=Normal Difficulty|previous_type(s)=Normal Difficulty|original_class=Class Negative|full_name=Skiper|official_music(s)=None|difficulty_range=Bottom - Skyline|class_range=Borderline|rating=-1000|hex_color=#ffac65|rgb_color=255,172,101|cmyk_color=0%, 33%, 60%, 0%|hsv_color=28°, 60%, 100%|hsl_color=28°, 100%, 70%|rgba_color=255,172,101,255}}
+
+==What is [[File: Square Simple (100).png|frameless|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span>?==
+[[File: Square Simple (100).png|frameless|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span> is a High Class Negative difficulty that functions almost the same as [[File:Instantwin.png|frameless|30x30px]] [[Instant Win|<span style="color:#002eff;text">Instant Win</span>]] but way quicker. Sometimes since it's so fast, it may even lag your game or kick you out; you already skipped this difficulty. This difficulty also used to have a sub-difficulty called [[User blog:Loganboi2/Shortcut|Shortcut]], but it is now CDC exclusive.
+
+This difficulty is absurdly easy, as it simply revolves around entering the portal and winning. Sometimes, you don't even need to enter the portal to win, since it's that easy.
+
+==<span style="color:#ffa960;text">Icon Representation</span>==
+{{IconRepresentation|image=[[File:Square Simple (100).png|50px]]|description=<span style="color:#ffa960;text">'''''Skip'''''</span>'s icon is just a black "<code>T_T</code>" face on a peach colored background. It's a pretty simple icon.|old_image=[[File:Skip.png|50px]]|old_description=This icon is similar to the current icon; peach color background with a "<code>T_T</code>" face. However, the face is hand-drawn and it is thicker than in the current icon. It also has a different sized canvas.|alt_image=[[File:Skipalt.png|50px]]|alt_description=This icon is basically the current icon but more detailed; the background is mostly peach on the center, but with different shades of peach and orange on the corners. Unlike the rest, this icon's "<code>T_T</code>" face has a smile, a lighter color, a black outline and it is also slightly rotated to the left.}}
+
+==[[File: Square Simple (100).png|frameless|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span> - Obstacles==
+{{#tag:tabber|
+Baseline Skip=
+===<h3 style="text-align: center"><span style="color:#ffa960;text">Baseline </span> [[File: Square Simple (100).png|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span></h3>===
+
+Obstacles in this section are Baseline Skip difficulty.
+
+* Enter a [[Winner Pad]] portal.
+* Wait 10 attoseconds.
+{{!}}-{{!}}
+Bottom Skip=
+===<h3 style="text-align: center"><span style="color:#ffa960;text">Bottom</span> [[File: Square Simple (100).png|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span></h3>===
+
+Obstacles in this section are Bottom Skip difficulty.
+
+* Enter a Room portal.
+* Wait 250 attoseconds.
+
+{{!}}-{{!}}
+Low Skip=
+===<h3 style="text-align: center"><span style="color:#ffa960;text">Low</span> [[File: Square Simple (100).png|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span></h3>===
+
+Obstacles in this section are Low Skip difficulty.
+
+* Enter an Edifice portal.
+* Wait 500 attoseconds.
+
+{{!}}-{{!}}
+Mid Skip=
+===<h3 style="text-align: center"><span style="color:#ffa960;text">Mid</span> [[File: Square Simple (100).png|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span></h3>===
+
+Obstacles in this section are Skip difficulty.
+
+* Enter a Steeple portal.
+* Wait 1 femtosecond.
+
+{{!}}-{{!}}
+High Skip=
+===<h3 style="text-align: center"><span style="color:#ffa960;text">High</span> [[File: Square Simple (100).png|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span></h3>===
+
+Obstacles in this section are High Skip difficulty.
+
+* Enter a Tower portal.
+* Wait 250 femtoseconds.
+
+{{!}}-{{!}}
+Peak Skip=
+===<h3 style="text-align: center"><span style="color:#ffa960;text">Peak</span> [[File: Square Simple (100).png|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span></h3>===
+
+Obstacles in this section are Peak Skip difficulty.
+
+* Enter a Citadel portal.
+* Wait 500 femtoseconds.
+
+{{!}}-{{!}}
+Skyline Skip=
+===<h3 style="text-align: center"><span style="color:#ffa960;text">Skyline</span> [[File: Square Simple (100).png|30x30px]] <span style="color:#ffa960;text">'''''Skip'''''</span></h3>===
+
+Obstacles in this section are Skyline Skip difficulty.
+
+* Enter an Obelisk portal.
+* Wait 1 picosecond.
+}}
+
+==<span style="color:#ffa960;text">Towers in this difficulty</span>== 
+''Note: This difficulty is likely unbuildable, so the towers listed below are inaccurate and purely fictional.''
+*Tower of Getting Kicked (ToGK)
+*Tower of Annoyingly Simple Trials Mega Mega Mega Mega Mega Mega Mega Mega Mega Lega Nerfed (ToASTMMMMMMMMMMLN) (Fictional)
+*[[Win Tower]] [Fictional]
+*[https://www.roblox.com/games/12128382184/ABANDONED-Earths-Terrible-JJT-Towers Tower of Tower Skipping] (ToTS)
+*[https://www.roblox.com/games/12128382184/ABANDONED-Earths-Terrible-JJT-Towers Tower of Never Entering] (ToNE)
+*[[Tower of Skipping The Winning]] (ToSTW)
+*[https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Tower of Not Touching You Keyboard A Single Bit] (ToNTYKASB)
+*[https://www.roblox.com/games/9390221128/Update-UoFTE-Temperature-1 Tower of Winroom Havoc] (ToWH)
+
+==<span style="color:#ffa960;text">Trivia</span>==    
+
+* This is the fourth difficulty in Class Negative which requires you to exist to beat it.
+
+*This Difficulty has the most alternate icons.
+
+==<span style="color:#ffa960;text">Gallery</span> ==
+There will be no more icons added to the Infobox. Any unofficial icons should go in the gallery.<gallery>
+File:Square Simple (100).png|The current icon.
+File:Skip.png|The old icon.
+File:Skip lol.webp|The first unofficial icon.
+File:Skipfaceversion.png|The second unofficial icon.
+File:Skippity skip skip.jpg|The third unofficial icon.
+File:Skip once again.png|The fourth unofficial icon.
+File:150.png|The fifth unofficial icon.
+File:AlternateSkip6.png|The sixth unofficial icon. (made by sanjay2133)
+File:SKip.png|The seventh Unofficial Icon.
+File:Skipalt.png|The eighth unofficial icon.
+File:Yay more icons.jpg|The ninth unofficial icon.
+File:Jwklong Skip.png|The tenth unofficial icon by jwklong.
+File:Unofskip.png|The eleventh unofficial icon by Winlogon95.
+File:Skip Unofficial Icon -12.png|The 12th unofficial icon. (made by January9thnewuser)
+File:SkipRevamp.png|The 13th Unofficial Icon (Made by [[User:Cheester16|Cheester16]])
+File:SkipUnofficialIcon14.png|The 14th unofficial icon. (made by BratusBogdan)
+</gallery>
+==<span style="color:#ffa960;text">Continuing From This Point</span> ==
+Well, you either 1, skipped this difficulty, or 2, got kicked from the game. But anyways, you should move onto [[File:RestfulR.png|30px]] [[Restful]] to win again.
+
+{{DifficultiesNavbox|Z}}
+[[Category:Difficulties]]
+[[Category:Class Negative]]
+[[Category:Emoticon Difficulties]]
+[[Category:Two color icon]]
+[[Category:Instant Win Difficulties]]
+[[Category:Former Legendary Difficulties]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]
+[[Category:Classic Difficulty]]
+[[Category:Unfailable Difficulties]]
+[[Category:Former Class Finales]]
+[[Category:Easy Difficulties]]
+[[Category:Former Class Finale]]
+[[Category:Difficulties with many alternate icons]]

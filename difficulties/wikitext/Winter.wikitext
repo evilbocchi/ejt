@@ -1,0 +1,105 @@
+{{DISPLAYTITLE:<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter</span>}}
+<div style="background:navy;padding:1em;font-family:rubik;border:25px solid #FFFFFF">
+{{Scrollbox|Notices='''NOTICES'''
+{{Humanly Impossible}}
+{{Classic}}
+{{Pseudo}}
+}}
+{{JToHW Quote|text=Anyone completing this difficulty will not want to know what's coming next after this freezing cold difficulty.
+|quoter=Narrator}}
+{{Music Player|AudioLink=https://static.wikia.nocookie.net/jtohs-joke-towers/images/7/7f/Winter%27s_Music.mp3|Caption=Winter Music}}{{Background|File=Winterbg.gif}}
+{{NewDifficultyInfobox
+|title1=[[File:Winter New.png|frameless|30x30px]] <span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter</span>
+|image1=<gallery>
+Winter New.png | Current
+Tree.jpg | Old
+</gallery>
+|class=Baseline 6
+|previous=[[Critical]]
+|next=[[Fatal Error]]
+|official_music(s)=Snowy Peaks Side B (Remastered)
+|creator(s)=*Tadd076 (Revamper)
+*Viranenthusiast (OG Reviver)
+*VoidSansXD (Creator)
+*Feoducky (Owner)
+|original_class=[[:Category:Unclassified|Unclassified]]
+|date_added=9/10/2020
+|date_removed=26/6/2021
+|removal_reason=Didn't survive the page omnicide.
+|revamp_date=3/8/2023
+|revival_date=8/8/2022
+|decal_id=New: 17837574794
+Old: 13798906402776|rating=46|type=Chain}}
+== [[File:Winter New.png|frameless|40x40px]] ''<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter - Introduction</span>'' ==
+<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Welcome to ❄️'''Winter'''❄️, the first difficulty of the RoPD chain (or atleast, Road of Pseudo Difficulties.) Anyone completing this difficulty may want to know that this difficulty has a rating of 46, despite it being the beginning of the RoPD chain, to let anyone attempting to surpass this prepare for the legendary difficulty, [[Supreme]]. It still requires a lot of effort and practice to pass this difficulty, even in the 256th bit.</span> 
+
+<span style="color:#FFFFFF;font-family:Agency FB">This difficulty is insurmountable by any life form, with the exception of the powerful boosts and cheats, you might get banished to another dimension if you do use those. Not only that, but '''Winter''' is insurmountable by any life form, with the exception of the powerful boosts and cheats.</span>             
+
+<span style="color:#FFFFFF;font-family:Agency FB">The only way to beat this difficulty is by using good exploits, since its the only tool that is required for this difficulty to be beaten, that it can have peoples backs while trying to beat this difficulty. Oh and also, this difficulty is the most recent difficulty to be added into the RoPD chain.</span>
+
+<span style="color:#FFFFFF;font-family:Agency FB">This difficulty also features many very cold aesthetics, which may make anyone completing this difficulty receive a cold or frostbite. This means anyone completing this difficulty needs to get their jackets or a hoodie ready for this difficulty. Hot chocolate here is also helpful for this difficulty.</span>
+== [[File:Winter New.png|frameless|40x40px]] ''<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter - Icon Representation</span>'' ==
+<tabber>
+Current=
+===<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Current</span>===
+<center>[[File:Winter New.png|70x70px]]</center>
+<span style="color:#FFFFFF;font-family:Agency FB">This is a background of winter taken from google, featuring snow, snowy trees, and a spruce cabin with snow on the roof and icicles just below. There is a border filter around it.</span>
+|-|
+Old=
+===<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Old</span>===
+<center>[[File:Tree.jpg|70x70px]]</center>
+<span style="color:#FFFFFF;font-family:Agency FB">It’s just a picture of a winter tree, without any leaves on.</span>
+</tabber>
+== [[File:Winter New.png|frameless|40x40px]] ''<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter - Catch</span>'' ==
+<span style="color:#FFFFFF;font-family:Agency FB">Just one.</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">This difficulty is always 0 degrees celsius, and will stay that way until someone conquers this difficulty, where the difficulty will become somewhat livable.</span>
+== [[File:Winter New.png|frameless|40x40px]] ''<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter - Obstacles</span>'' ==
+<tabber>
+Low=
+===<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Low</span>===
+* <span style="color:#FFFFFF;font-family:Agency FB">22.35 stud jump (Climbable)</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">21.15 stud jump (Unclimbable)</span>
+* <span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">21.2 stud wrap</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">20.975x1.975 stud stickout</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">8.75 stud walkaround</span>
+|-|
+Middle=
+===<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Mid</span>===
+* <span style="color:#FFFFFF;font-family:Agency FB">22.4 stud jump (Climbable)</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">21.2 stud jump (Unclimbable)</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">21.25 stud wrap</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">20.9725x1.9725 stud stickout</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">8.775 stud walkaround</span>
+|-|
+High=
+===<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">High</span>===
+* <span style="color:#FFFFFF;font-family:Agency FB">22.45 stud jump (Climbable)</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">21.25 stud jump (Unclimbable)</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">21.3 stud wrap</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">20.9755x1.97255 stud stickout</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">8.8 stud walkaround</span>
+</tabber>
+== [[File:Winter New.png|frameless|40x40px]] ''<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter - Towers</span>'' ==
+<tabber>
+Fictional=
+===<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Fictional</span>===
+* <span style="color:#FFFFFF;font-family:Agency FB">Tower of Wistful Winter Winlessness (ToWWW)</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">Tower of Solemn Snowlands (ToSS) (Acronym taken from Tower of Shifting Slopes)</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">Tower of Icy Adventures: Frozen (ToIA:F)
+</span>
+|-|
+Non-Fictional=
+===<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Non-Fictional</span>===
+* <span style="color:#FFFFFF;font-family:Agency FB">N/A.</span>
+</tabber>
+== [[File:Winter New.png|frameless|40x40px]] ''<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter - Trivia</span>'' ==
+* <span style="color:#FFFFFF;font-family:Agency FB">This difficulty used to be a Unclassified one.</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">This was originally going to be Classic-styled, but the creator decided to make it have no gradients, pre-revamp.</span>
+* <span style="color:#FFFFFF;font-family:Agency FB">This was originally created just so it could be in Meisterfabi’s Difficulty RPG, but TDE decided to attempt to get rid of his difficulties in the game, so that didn’t happen. However, the page is still staying up nonetheless.</span>
+== [[File:Winter New.png|frameless|40x40px]] ''<span style="color:#FFFFFF;text-shadow:0 2px 5px #54D6FF, 0 -2px 5px #c1a4df;font-family:Agency FB">Winter - Continuing from this point</span>'' ==
+<span style="color:#FFFFFF;font-family:Agency FB">After moving on, one would go onto [[File:Feicon.jpeg|frameless|30x30px]] [[Fatal Error]].</span>
+{{DifficultiesNavbox}}
+</div>
+[[Category:Difficulties]]
+[[Category:Class 6]]
+[[Category:Humanly Impossible]]

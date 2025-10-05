@@ -1,0 +1,233 @@
+{{Large Page}}
+{{Revamp}}
+{{Humanly Possible}}
+{{NewDifficultyInfobox|image1=No_U.gif|title1=Reversed|caption1=no u|class=Class 3|type=Sub-Difficulty|previous=[[File:NewHorrific.webp|30px]] [[w:c:jtohs-hardest-towers:Horrific|Horrific]]|next=[[File:Eternalized.png|30px]] [[Eternal]]|decal_id=17172449263|main_difficulty=[[File:NewHorrific.webp|30px]] [[w:c:jtohs-hardest-towers:Horrific|Horrific]]|sub_difficulty(ies)=N/A|chain(s)=N/A|creator(s)=*EpicToastOkay (Owner)
+*Touchgrass210779 (Co-Owner)
+*Sanjay2133 (Creator)|full_name=Reversed|short_name=Reverse|date_added=1/4/22|date_removed=N/A|rating=13.25}}
+==''Welcome to'' [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''!</span>==
+
+===Introduction===
+After beating [[File:NewHorrific.webp|30px]] [[w:c:jtohs-hardest-towers:Horrific|Horrific]], you expect to be teleported to [[File:Eternalized.png|30px]] [[Eternal]]. However, you found yourself in a rainbow world. You wonder if this was {{Class5Difficulties|Omega}} [[w:c:jtohs-hardest-towers:Omega|Omega]], and you have proved yourself. You try to move, but find yourself moving backwards toward the wall. Perhaps you just accidentally walked in the wrong direction on the platform. You try to turn left, but you appear to turn right.
+
+When you zoom out, you realized that you were upside-down. Everything was upside-down, and your avatar had inverted colors, too. Then, you see a sign on the wall that reads, "[[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''''Welcome to Reversed'''''</span>".
+
+At that moment, you realize; this wasnt {{Class5Difficulties|Omega}} [[w:c:jtohs-hardest-towers:Omega|Omega]] all along. You still had a long way to go, since you were merely in the sub-difficulty of [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span>.
+
+===Explanation===
+If you haven't gotten the memo yet, this is reversed. [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> is reversed; all your controls are reversed, and the colors are too, and you appear upside-down. Sometimes in harder levels, the screen may start spinning instead of only being reversed. Due to this, obstacles in here may be much easier than it's current placement without controls being reversed, but they are actually much harder.
+
+==Before doing [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span>==
+Before doing this difficulty, I recommend practicing reversed controls and making your screen upside down in different games. You must get used to this, as you'll have to do some pretty hard jumps
+
+Try to do some [[w:c:jtoh:Insane|Insane]] and up obstacles, but with the catches.
+
+==Obstacles in this Difficulty==
+You really want to try? Okay, I got you. The obstacles will start off easy, but eventually creep towards soul-crushing.
+<tabber>
+|-|
+Tutorial=
+=== Tutorial [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 8 stud wrap
+* 2.7 stud stick-out
+* Dance clip
+* 2.5 stud insta-kill wraparound
+* Vertical wall-hop with safety-net
+|-|
+Abyssal=
+Huh. You did actually practice did you? Well, I'll give you a challenge.
+
+=== Abyssal [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* Ladder flick with 1.25 stud wraparound
+* 1.25 stud walk-around
+* Ladder clip
+* Basic truss flicks
+* 2 stud gap with walk-around in the middle
+|-|
+WayTooLow=
+Get ready, this is just the beginning!
+
+=== WayTooLow [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 8.6 stud wraparound
+* 11.5 stud jump
+* 9 stud wraparound
+* 2.9 stud stickout
+* 1.5 ''(Stud)'' Headhitter - 7 Stud Spacebar!
+|-|
+TooLow=
+Congrats! You made it to: TooLow Reversed.
+
+=== Too Low [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 10.5 Stud Long Normal Jump with middle 1 Stud Wrap
+* 20 stud high wallhop and a 6 stud Cylinder wrap
+* 8 stud wraparound raised 2 (''studs'')
+* 1.5 stud insta-kill stickout
+* Truss flick with 4 stud wrap-around
+|-|
+Baseline=
+Welcome to Baseline Reversed. You're almost at Low Reversed!
+
+=== Baseline [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 2 stud walkaround
+* Horizontal Wall Hop
+* 3.75 stud insta-kill wraparound
+* 9.2 stud wraparound
+* 11.9 stud jump
+|-|
+Low=
+You have reached Low Reversed. Difficulties here are similar to Low-Mid [https://jtoh.fandom.com/wiki/Remorseless Remorseless] obstacles
+
+=== Low [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 9.5 stud wraparound
+* 4.4 stud ladder flick wraparound
+* 11.6 stud unclimable jump
+* 3 x 1.5 stud stick-out
+* 12.1 stud jump
+|-|
+Low-Mid=
+This is a section between Low and Mid Reversed. This is to transition between Low and Mid and cover all ranges.
+
+=== Low-Mid [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 4 stud insta-kill wraparound
+* Corner Clip Jump (Before Patch)
+* 12.22 stud jump
+* 9.8 stud wraparound
+* 6 stud wall hop gap
+|-|
+Mid=
+The average difficulty of Reversed (without reverse) is Low [[Relentless]], so we will be covering that
+
+=== Mid [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 10 stud wraparound
+* 12.1 stud jump(unclimable)
+* Dance Clip Jump
+* 1 stud wall hop wraparound
+* 2.5 stud walk-around
+|-|
+Mid-High=
+Similar to Low-Mid Reversed, this is a transitional stage from Mid to High Reversed.
+
+=== Mid-High [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 10.1 stud wraparound
+* 12.2 stud jump
+* 2 x 3 stud wraparound on truss
+* 4.2 stud insta-kill wraparound
+* 1.5 x 1.5 stud walk-around
+|-|
+High=
+Welcome to High Reversed. This is going to be quite a challenge. 
+
+=== High [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 12.4 stud jump
+* 3.5 stud stick-out
+* Horizontal Wall Hop with turn
+* Quick Beat Block ladder/truss
+* 10.7 stud vertical-flick
+|-|
+Peak=
+Impressive. You've truly proved yourself being skilled, but I doubt you'd make it past the final level.
+
+=== Peak [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 2.5 stud stick-out on truss
+* 2.5 stud wall hop wraparound
+* 1.5 stud stick-out wall hop
+* 7 stud no-jump
+* Intermediate Truss Flicks
+|-|
+Skyline=
+Why are you even trying at this point? There is no point, you'll just fail!
+
+=== Skyline [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 12.5 stud jump
+* 3.6 stud stick-out
+* 11 stud vertical flick
+* 5 stud insta-kill wraparound
+* 10.35 stud wraparound
+|-|
+Epitome=
+Face it. You'll never beat Epitome Reversed.
+
+=== Epitome [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* Dance clip wrap-around jump
+* 12.2 stud jump (unclimbable)
+* 3.1 stud walk-around
+* 3.7 stud stick-out
+* Glitchwrap wrap-around
+|-|
+True=
+Haven't you suffered enough? Fine, I'll say it. JUST FAIL!
+
+=== True [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 0.09 x 0.09 stud platforms
+* 0.05 stud tight-rope
+* 10.6 stud wraparound
+* 3.78 stud stick-out
+* 12.65 stud jump
+|-|
+Absolute=
+This is your last chance. GIVE. UP. NOW.
+
+=== Absolute [[File:ReversedNew.png|30px]] <span style="font-family:Twentieth Century; background:linear-gradient(90deg,#ff5555, #ffff55, #55ff55, #55ffff, #5555ff, #ff55ff, #ff5555); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''Reversed'''</span> ===
+
+* 9 stud wall-hop jumps
+* Cylinder wall-hop
+* 10.9 stud wraparound
+* 3.9 stud stick-out
+* 10.8 stud wrap with 0.2 stick-out in middle
+* 3.5 x 1.5 stickout
+* 2 x 3 wall-hop stick-out
+* 3.7 stud walkaround
+* 5.2 insta-kill wraparound
+* Making this difficulty Legendary (Oh wait that's the Final Difficulty)
+</tabber>
+==Towers==
+
+===Towers with this Difficulty ===
+
+*[[Monolith of Deadly Difficulties Approaching]]
+*[[The Pyramid Brothers/JJT Pyramid|JJT Pyramid]] (Stage 107)
+
+===Real Towers===
+
+*[https://www.roblox.com/games/18512158940/Room-of-Inverted-Ideas Room of Inverted Ideas]
+
+===Fictional Towers=== 
+
+*Unfortunately No Objects Really Ever View Epic Reverse Sizeable Enough (Facility) (UNO REVERSE Facility)
+*[[Tower of No U]]
+*Steeple of Reversed Runs
+*Citadel of Opposite and Rectangular Ascending
+*Obelisk of Failing Altered Controls
+* Great Citadel of Playing Uno
+*Space Needle of Plus Four
+*Centurion of Getting Skipped
+*Grand Ultima Nenosi of Endless Uno Pain
+
+==Continuing On After this Point ==
+Congratulations! You have beaten this very odd land of reversed controls and everything, which means that you could move onto [[File:Eternalized.png|30px]] [[Eternal]] and eventually exit class 3. Take this [[File:UnoReverse.png|20px]] uno reverse card, maybe this could help in the future?
+
+{{DifficultiesNavbox}}
+
+[[Category:Class 3]]
+[[Category:Difficulties made by Sanjay2133]]
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:GIF Icons]]
+[[Category:Soul Crushing]]
+[[Category:Unofficial Difficulty]]
+[[Category:Difficulty]]
+[[Category:Humanly Possible]]
+[[Category:Possible]]

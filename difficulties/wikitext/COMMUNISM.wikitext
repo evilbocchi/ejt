@@ -1,0 +1,156 @@
+{{NoticeScrollboxNew|Notices={{Physically Impossible}}
+{{Classic}}}}{{DISPLAYTITLE:<big><span style="background:linear-gradient(150deg,#FF4500,#FFA500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''COMMUNISM'''</span></big>}}
+
+{{NewDifficultyInfobox
+|title1 = <big>'''COMMUNISM'''</big>
+|image1 = <gallery>
+Communism better.png|Current
+Communism.png|Old
+F7A0F2C9-430D-436C-9C6E-06B1DE35C96F.jpeg|Older
+</gallery>
+|caption1 = moskau.mp4
+|class = [[:Category:Class 8|Mid Class 8]]
+|type =
+[[:Category:Physically Impossible|Physically Impossible]]
+|previous = [[File:Peculiar Wavestats.png|30x30px]] [[Arcane]]
+(82)|next = [[File:Satan Tartarus Lucifer Void.png|30px]] [[Satan Tartarus Lucifer Void]]
+(84)
+|decal_id = 7704216092
+|date_added = 25/09/2020
+|main_difficulty=|sub_difficulty(ies)=[[File:Detroit-XPELO4EK-REVAMP.png|25px]] [[Detroit]] (83.33)
+[[File:Sacrificingly-Impossible W effects.jpg|25px]] [[Sacrificingly Impossible]] (83.66)|chain(s)=|creator(s)=<big>[[User:Ba1234567ab|Ba1234567ab]] & [[User:Robert5664|Robert5664]] </big>|full_name=|original_creator(s)=|date_removed=|removal_reason=|revamp_date=07/04/2022|prior_previous=*[[FILE:Screen Shot 2020-09-24 at 3.38.27 PM.png|30px]] Omega Omega El Vacio|prior_next=*Dizzyness
+*[[FILE:V is for.png|30px]] [[Vacant]]
+*[[FILE:AAAAAA.png|30px]] Absolute Nullification|hex_color=*Background - #d1390a
+*Symbol - #f4b529|rbg_color=*Background - 209, 57, 10
+*Symbol - 244, 181, 41|cmyk_color=|hsv_color=|hsl_color=|rating=83|class_range=Mid|difficulty_range=Baseline - Peak|official_music(s)=Suggestion:
+*[https://m.youtube.com/watch?v=0caz7T_O2lA Moskau (Dubstep Remix)]
+*[https://www.youtube.com/watch?v=6JhVo2zS8hU Rasputin]|alt_next=[[File:Detroit-XPELO4EK-REVAMP.png|30px]] [[Detroit]]
+(83.33)|alt_previous=|previous_official_music(s)=[https://m.youtube.com/watch?v=lDQ7hXMLxGc Red Alert 3 - Soviet March]
+The Soviet National Anthem.}}
+==Introduction==
+
+=== What is ''{{PAGENAME}}''? ===
+[[File:Communism better.png|frameless|40x40px]] <span style="background:linear-gradient(150deg,#FF4500,#FFA500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''COMMUNISM'''</span> is a Mid Class 8 difficulty on the ''[[Extended Difficulty Chart]]'', currently ranked 83. The difficulty is located between [[File:ArcaneDifficulty.png|30x30px]] [[Arcane]] (82) and [[File:Satan Tartarus Lucifer Void.png|30x30px]] [[Satan Tartarus Lucifer Void]] (84). This difficulty is currently classified as ''[[:Category:Physically Impossible|Physically Impossible]]'', meaning that the obstacles that are contained in this difficulty and other difficulties that are classified on this category, must defy all ROBLOX's physics engine in order to manage to make any progress. If you still success beating any obstacle, your progress is innacurate. This gives slight disadvantage since it is a combination of harsh obstacles and parts that you cannot even use TAS to get through. Those who can get through its limit can make good progress. After all, you are on the middle of this class, plus this is the absolute antipode of [[File:Screenshot_2020-10-06_at_11.58.11_AM.png|30x30px]] [[A]].
+
+In Tiers, [[File:Communism better.png|frameless|30x30px]] <span style="background:linear-gradient(150deg,#FF4500,#FFA500); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''COMMUNISM'''</span> in ''[[Metris|Kol Metris]],'' it's rating would be around |420|.
+
+===Icon Representation===
+{| class="article-table"
+!'''''Name'''''
+!'''''Icon'''''
+!'''''Description'''''
+|-
+|'''Current Icon'''
+|[[File:Communism better.png|frameless|300x300px]]
+|The current icon is by the Communism icon. Its definition can be said below according to ''[https://en.wikipedia.org/wiki/Flag_of_the_Soviet_Union#:~:text=The%20colour%20red%20honours%20the,together%20with%20the%20proletarian%20class. Wikipedia]'':
+''"The color red honors the red flag of the Paris Commune of 1871 and the red star and hammer and sickle are symbols of communism and socialism. The hammer symbolizes urban industrial workers while the sickle symbolizes agricultural workers (peasants)—who together, as the Proletarian class, form the state."''
+|-
+|'''Old Icon'''
+|[[File:Communism.png|frameless|300x300px]]
+|The old icon is same as the current icon, the only difference is that it's wider.
+|-
+|'''Older Icon'''
+|[[File:F7A0F2C9-430D-436C-9C6E-06B1DE35C96F.jpeg|frameless|300x300px]]
+|The older icon was initially used when the page was created, the image likely failed to load the image.
+|}
+
+==Towers==
+*[[My Favorite Tower|MFT]] - [[My Favorite Tower]]
+*<span>ToNEVERGONNAGIVEYOUUP - ''Tower of Neudjdmemd Ejdmdodid Vejdeiruej Eririfjfm Rueieiekedf Goneuryr Ootuieocudue Neiwkwmsmd Nsusidkdkd Aodldldl Gockemejd Ieuejddmdj Vieirmrr Eieidjrmemd Yoeeokedm Oeieje Uejejcdieieoeidkdkekei Ueiekedd Peiejejemr'' (Graved)</span>
+*ToB - ''Tower of Badness'' <span>(Graved)</span>
+*''Featured in'' [[Obelisk of Endless Difficulty Amplifying|OoEDA]] - [[Obelisk of Endless Difficulty Amplifying|Obleisk of Endless Difficulty Amplifying]]
+
+==Obstacles==
+{| class="fandom-table"
+!Spectrum/Obstacles
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Climbable Jumps
+| style="background-color: #014500;" |290 studs
+| style="background-color: #336000;" |305 studs
+| style="background-color: #6d5c00;" |320 studs
+| style="background-color: #964a00;" |350 studs
+| style="background-color: #5a0000;" |380 studs
+| style="background-color: #550055;" |400 studs
+|-
+|Unclimbable Jumps
+| style="background-color: #014500;" |295 studs
+| style="background-color: #336000;" |310 studs
+| style="background-color: #6d5c00;" |325 studs
+| style="background-color: #964a00;" |355 studs
+| style="background-color: #5a0000;" |385 studs
+| style="background-color: #550055;" |405 studs
+|-
+|Climbable Wraparounds
+| style="background-color: #014500;" |300 studs
+| style="background-color: #336000;" |315 studs
+| style="background-color: #6d5c00;" |330 studs
+| style="background-color: #964a00;" |360 studs
+| style="background-color: #5a0000;" |390 studs
+| style="background-color: #550055;" |410 studs
+|-
+|Unclimbable Wraparounds
+| style="background-color: #014500;" |295 studs
+| style="background-color: #336000;" |310 studs
+| style="background-color: #6d5c00;" |325 studs
+| style="background-color: #964a00;" |355 studs
+| style="background-color: #5a0000;" |385 studs
+| style="background-color: #550055;" |405 studs
+|-
+|Stick-outs
+| style="background-color: #014500;" |58×5 studs (≈290)
+| style="background-color: #336000;" |60×5.5 studs (≈330)
+| style="background-color: #6d5c00;" |62×6 studs (≈372)
+| style="background-color: #964a00;" |64×6.5 studs (≈416)
+| style="background-color: #5a0000;" |66×6.5 studs (≈429)
+| style="background-color: #550055;" |68×6.5 studs (≈442)
+|-
+|Cylinder Wraparounds
+| style="background-color: #014500;" |300 studs
+| style="background-color: #336000;" |315 studs
+| style="background-color: #6d5c00;" |330 studs
+| style="background-color: #964a00;" |360 studs
+| style="background-color: #5a0000;" |390 studs
+| style="background-color: #550055;" |410 studs
+|-
+|Climbable Walkaround
+| style="background-color: #014500;" |295 studs
+| style="background-color: #336000;" |310 studs
+| style="background-color: #6d5c00;" |325 studs
+| style="background-color: #964a00;" |355 studs
+| style="background-color: #5a0000;" |385 studs
+| style="background-color: #550055;" |405 studs
+|-
+|Unclimbable Walkaround
+| style="background-color: #014500;" |300 studs
+| style="background-color: #336000;" |315 studs
+| style="background-color: #6d5c00;" |330 studs
+| style="background-color: #964a00;" |360 studs
+| style="background-color: #5a0000;" |390 studs
+| style="background-color: #550055;" |410 studs
+|}
+----
+
+=== Misc. Obstacles ===
+
+* Hacking into ROBLOX and spawning in a Win-Pad and getting teleported a ''google'' studs away randomly at a 0.0001 second time to teleport.
+
+==Trivia== 
+*This difficulty is the only Class 8 difficulty to be featured in [[Obelisk of Endless Difficulty Amplifying|Obleisk of Endless Difficulty Amplifying]].
+* This is the creator's [[User:Robert5664|Robert5664]] third difficulty. 
+** But the first, not to be absolute garbage.
+*This difficulty was made way back before Class 12 and when the list was moderated.
+*This difficulty was a Mythical Difficulty.
+
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Difficulty]]
+[[Category:Class 8]]
+[[Category:Based off of a meme]]
+[[Category:Physically Impossible]]
+[[Category:Physically Impossible Difficulties]]

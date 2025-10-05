@@ -1,0 +1,105 @@
+{{Background
+|File=Harshbg.jpg
+|Size=2000px
+}}
+{{Inclusion|reason=Allowed by staff}}
+{{Humanly Possible}}
+== What is [[File:Harsh.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, indigo, blue);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Harsh</span>?==
+{{NewDifficultyInfobox
+|title1=[[File:Harsh.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, indigo, blue);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Harsh</span>
+|image1=Harsh.png
+|caption1=Harsh’s current icon.
+|class=[[:Category:Class 2|Class 2]]
+|type=[[:Category:Difficulties|Sub-Difficulty]]
+|rating=7.75
+|previous=[[File:Psycho.png|25px|link=Psycho]] [[Psycho]]
+|next={{Class2Difficulties|Relentless|25px}} [[Relentless]]
+|alt_previous={{Class2Difficulties|Remorseless|25px}} [[w:c:jtoh:Remorseless|Remorseless]]
+|alt_next={{Class2Difficulties|Angerable|25px}} [[Angerable]]
+|class_range=Peak
+|difficulty_range=Low ➥ High
+|decal_id=Current: 13616145191
+Old: 11268202536
+|main_difficulty=[[File:Psycho.png|25px]] [[Psycho]]
+|creator(s)=[[File:RM999.png|25px|link=User:RainbowMason999]] [[User:RainbowMason999|RainbowMason999]] and [[File:Yellow and green gradient.jpeg|25px|link=User:Touchgrass210779]] [[User:Touchgrass210779|Touchgrass210779]]
+|date_added=21st August 2022
+|hex_color=Current: Not Found
+Old: #6100ff / #0001fe / #f8fff9 |rbg_color=N/A
+|hsv_color=N/A
+|hsl_color=N/A
+|cmyk_color=N/A
+|original_main_difficulty={{Class2Difficulties|Relentless|25px}} [[Relentless]]
+|original_creator(s)=[[File:TDE.png|25px|link=User:The Difficulty Enthusiast]] [[User:The Difficulty Enthusiast|The Difficulty Enthusiast]]|previous_creator(s)=[[File:TDE.png|25px|link=User:The Difficulty Enthusiast]] [[User:The Difficulty Enthusiast|The Difficulty Enthusiast]]}}
+[[File:Harsh.png|30x30px]] '''Harsh''' is one of the last challenges you will find in Class 2, hence it is located in Peak Class 2, and despite it being made in pixel art, it is not a pixel art chain difficulty. It is a sub of [[File:Psycho.png|30x30px|link=Psycho]] [[Psycho]], formerly [[File:Relentless2.png|frameless|30x30px]] [[Relentless]], and is located between its main difficulty and {{Class2Difficulties|Relentless|30px}} [[Relentless]]. This difficulty is similar to Relentless and/or Psycho, and in case you still don’t understand the placement of this, there is another explanation for it.
+
+There is a big gap between [[File:Psycho.png|30x30px]] [[Psycho]] and {{Class2Difficulties|Relentless|30px}} [[Relentless]]. [[File:Harsh.png|30x30px]] '''Harsh''' fills this gap.
+
+As the name suggests, this difficulty contains harsh and grueling gameplay, which requires obbyists attempting this to put on formidable effort. As such, this difficulty is insurmountable to the average obbyist. It is even harsher for mobile players, as this difficulty is borderline impossible for even the best mobile obbyists.             
+
+Even before attempting this, it is recommended to practice [[File:Psycho.png|30x30px]] [[Psycho]] difficulty towers, and often having to take days of practice into consideration in this difficulty.
+==Icon Representation==
+<center>[[File:Harsh.png|frameless|70x70px]]</center>[[File:Harsh.png|30x30px]] <span style="font-weight:bold;font-size:100%;background:-webkit-linear-gradient(330deg, indigo, blue);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Harsh</span>’s icon is represented with a purplish background, the same as in [[File:Psycho.png|30x30px|link=Psycho]] [[Psycho]], and many slightly more purple lines drawn in pixel art, at 45 degrees. In the middle is a white >:/ emoticon, yet again in pixel art.
+==Obstacles in This Difficulty==
+
+===Low===
+
+Just barely harder than [[File:Psycho.png|30px]] [[Psycho]].
+
+* 12 stud jump, climbable.
+* 11.925 stud jump, unclimbable.
+* 10.5 stud wraparound, climbable.
+* 10.425 stud wraparound, unclimbable.
+* 2.75 x 2.8 stud stickout, climbable.
+* 2.675 x 2.725 stud stickout, unclimbable.
+* 1.15 stud ladder head-hitters.
+
+===Middle===
+
+The average obstacles at this difficulty. 
+
+* 12.05 stud jump, climbable.
+* 11.975 stud jump, unclimbable.
+* 10.55 stud wraparound, climbable.
+* 10.475 stud wraparound, unclimbable.
+* 2.8 x 2.85 stud stickout, climbable.
+* 2.725 x 2.775 stud stickout, unclimbable.
+* 1.175 stud ladder head-hitters.
+
+===High===
+
+Just barely easier than {{Class2Difficulties|Relentless|30px}} [[Relentless]].
+
+* 12.1 stud jump, climbable.
+* 12.025 stud jump, unclimbable.
+* 10.6 stud wraparound, climbable.
+* 10.525 stud wraparound, unclimbable.
+* 2.85 x 2.9 stud stickout, climbable.
+* 2.775 x 2.825 stud stickout, unclimbable.
+* 1.2 stud ladder head-hitters.
+
+==Towers in this difficulty==
+===Non-Fictional===
+N/A (Add here!)
+===Fictional===
+*Room of Intricate Harshness (RoIH)
+*Edifice of Harshness and Irritation (EoHaI) (Sequel to Edifice of Calmness and Relaxation)
+*Tower of ARBYS ARBYS ARBYS (ToAAA) (GAT)
+
+== Towers with this difficulty ==
+
+* [[Great Citadel of Beyond Impossible Difficulties]] (GCoBID)
+
+==Trivia== 
+*This was waiting on approval from YataDev (since it was a sub of Relentless at its beginning). 
+**It, obviously, got approved.
+*This would’ve originally been after Angerable, but TDE changed his mind.
+*Thanks to the 7th Armageddon, Harsh is no longer a sub of {{Class2Difficulties|Relentless|30px}} [[Relentless]], instead, it is a sub of [[File:Psycho.png|30x30px|link=Psycho]] [[Psycho]].
+==Continuing on==
+Good job, player. You are nearly out of Class 2, and nearly out of the normal difficulty zone. Not far from this is {{Class3Difficulties|Insane|30px}} [https://jtoh.fandom.com/wiki/Insane Insane], which is the first Soul Crushing Difficulty. There isn’t a need to move onto the Soul Crushings, as anything post-Meshuga will never be required for you to progress in JToH. However, if you’re planning to move onto Caleb’s Soul Crushing Domain, you should practice this difficulty and anything beyond before moving there.
+{{DifficultiesNavbox}}
+[[Category:Class 2]]
+[[Category:Difficulties]]
+[[Category:Possible]]
+[[Category:Humanly Possible]]
+[[Category:Sub-Difficulties]]
+[[Category:Icons made with pixel art]]

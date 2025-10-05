@@ -1,0 +1,308 @@
+{{Large Page}}{{Former Class Finale|reason=A difficulty chart change for Classes -1 to 1 caused Class -2 to form, and Class -2 starts from The First Difficulty to Instant Win, and now Class -1 is from Win to Spontaneous, making Class 0 start from Joyful to Gravel, making Class 1 start from Effortless to Onerous.... and then TDEx happened, causing Class -2 to become Class -1, Class -1 to become Class 0, Class 0 to become Class 1, and Classes 1 and 2 to be merged with eachother to become Class 2.}}{{Humanly Possible}}
+{{BetterQuote|text=So... it seems like you've made it this far. Welcome to the tutorial! It is time to show you how to do basic jumps and techniques that you will need to know for later difficulties. You might know the basics of being an obbyist, but if you don't, this difficulty is for you! This difficulty will be teaching you the basics of obbies and more important stuff. Good luck!|quoter=[[User:Oferlord|Oferlord]]}}
+[[File:Tutorial Heading.png|center|700x700px]]
+{{NewDifficultyInfobox
+|title1 = Tutorial
+|image1 = <gallery>
+Tutorial.png | New Version
+TutorialDifficulty.png | Old Version
+</gallery>
+|caption1 = Your second-to-last High Class 1 Difficulty. Are you excited?
+|class = Class 1 {{!}} Simple
+|chain(s) = None
+|creator(s) = [[User:Oferlord|Oferlord]]
+|decal_id = Current: [https://create.roblox.com/store/asset/7832707998/Tutorial 7832707998]
+Old: [https://create.roblox.com/store/asset/11450836631/Tutorial 11450836631]
+|date_added = Old: I forgot
+New: 13.10.2021
+|date_removed = Old: ???
+New: Not Deleted
+|next = [[File:TooEasy Difficulty Revamped.jpg|30px]] [[TooEasy]]
+|main_difficulty = |original_class=Class 1 {{!}} Unfailable
+|original_name = Tutorial Difficulty
+|previous = [[File:Pleasant.png|30px]] [[Pleasant]]
+|sub_difficulty(ies) = [[Hellish Encore|<span style="color:#FF0000">Hellish Encore</span>]]
+[[Delightful]]
+|previous_class(es) = Class Negative {{!}} Instant Win
+|previous_name = Tutorial Difficulty
+|removal_reason = Old: Was too easy.
+New: Not removed yet.|type=[[:Category:Humanly Possible|Humanly Possible]]|rating=-5}}
+==Introduction==
+Hello, player! Welcome to the tutorial in high Class 1! By now, you should have completed a [[File:Pleasant.png|30x30px]] <span style="background:linear-gradient(75deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Pleasant]]</span> obby or tower. Now that you are here, it is time to take on the Tutorial difficulty. This difficulty will attempt to teach you everything you need to know to take on later difficulties. Are you ready?
+==What is '''Tutorial'''?==
+[[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' is a high Class 1 difficulty. This difficulty is a mix of a test of everything you have learned from previous difficulties, as well as new mechanics and obstacles that you will need to learn to take on later difficulties. This difficulty is in between [[File:Pleasant.png|30x30px]] <span style="background:linear-gradient(75deg,cyan,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[Pleasant]]</span> and [[File:TooEasy Difficulty Revamped.jpg|30x30px]] <span style="background:linear-gradient(75deg,#FFFF66,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[TooEasy]]</span>, which are both Class 1 difficulties. Like other Class 1 difficulties, this difficulty is actually quite easy. You don't need to get worried if you have no skill. This difficulty will teach you the basics of becoming an obbyist. 
+
+'''''<u>Note for Difficulty Chart Towers:</u>''''' This is NOT a legendary difficulty, but it should have a big frame to introduce '''ALMOST EVERY''' easy mechanic, but if you don't want to do that, you can make every frame for it. Frame size on this difficulty is Unclassified, so you can make frame like [[File:Mega Death Error Collapse Blood Ultra Galaxy Spatial System Galaxy Corrupt Horror Frightening Impossible XD Difficulty.jpg|50x50px]] <span style="background:linear-gradient(100deg,black,red); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[MegaDeath]]</span>'s one or possibly even much bigger. (However, it is better to just keep it at a maximum of 500x500x500, since you don't want it to be too long.) 
+
+[[File:Ofer.png|30x30px]] [[User:Oferlord|'''Oferlord''']] revived this difficulty <small>(he also made original)</small>, as the original difficulty got deleted. This difficulty teaches the newbie obbyist about the basics of obbies and mechanics that are used in other towers and obbies. You could think of this as if it was '''ToAST''' but much easier. Although this is Class 1 difficulty, this contains a lot of obstacles in this difficulty got nerfed to be as easy as possible, but it is easier than the tutorial tower from JToH. Certain jumps such as wraps that are more than 0.05 studs, jumps that are 3 studs, glitches and conventional techniques are too hard for this difficulty. Unlike most of the other Class 1 difficulties, you do actually need to have a slim amount of skill to complete this difficulty. This difficulty is pretty easy to beat, so don't worry and you can win!
+==Icon Representation==
+The icon for this difficulty is pretty strange, but lemme say everything about it. First, lets look at the center. We can find the letter T with 3 colors; green, dark green and black. Green is the main color, dark green is in the center, and black is in the center of the center. Also at the center we can find a dark green square with black as well. We can also find a rotated square. This square's color is green, black and a little dark green in the center. We can also see a big square. This square's color is black, dark green and basic green. Also there's some corners with gradient.
+
+==Story of Creation==
+This a story of how tutorial was created! It's not lore because man why do we need a lore for some difficulty?
+
+===Finding out about JJT.=== 
+* It was somewhere in '''2020-2021'''. I, [[File:Ofer.png|30x30px]] [[User:Oferlord|Oferlord]] found out about GCoHD. I didn't know the origin of difficulties in this great obelisk, then i found out about OoEDA and OoIDC. Then i was actually intereseted for origin of difficulties, i started looking everywhere, and then i found '''<big>JJT.</big>'''  First time i didn't that i can make my own difficulties, and i was just looking at pages. Then i found about about "create page' button and then...
+
+===Creating "Tutorial Difficulty".===  
+
+*I was suprised and instantly made one. I wanted to make a difficulty, but i absolutely didn't know. I named page "Tutorial Difficulty", somehow found a template, i found an online photoshop and made an icon with it. I filled up a templateand i made kinda short page. At that time i didn't i can put difficulty in difficulty chart, but it wasn't that important because "Tutorial Difficulty" got deleted. I was so suprised and i was thinking it was a bug.  And so i made another difficulty. I decided to revive "FRIENDLY?!?" (got deleted). After, i was making lots of difficulties.
+
+===Reviving [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''.===  
+
+* After making some difficulties, i remembered about tutorial. I wanted to revived it and make it faster, because Class 1 was almost full. I made a page, made an icon, made some of page. I left it unfinished and then i got kinda bored in <big>'''JJT'''</big> and i left for 2-3 months (or more i don't remember). After coming back, I noticed that lots of my difficulties got deleted. I was scared that [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' will be also deleted and i decided to finish it... And now... This page is the result. The End. (also a lot has changed since then so ignore the Class 1 part)
+
+==Obstacles In '''[[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>==
+===Classic Jumps===
+These are purist jumps, and do not involve any type of client object usage. These are your average jumps like 2.5 stud jumps, 1 stud gaps, ladders, etc.
+
+====Baseline Classic Jumps====
+Easiest type ever. Jumps in this category should be easy for everyone! <small>(Even</small> <small>for those mega fun obby guys duh.)</small>  Anyways, there they are!      
+*2.8 Stud Climbable Jump
+*2.5 Stud Unclimbable Jump
+*1.1 Stud Climbable Gap
+*0.9 Stud Unclimbable Gap
+*0.1 Stud Wraparound
+*0.09 Stud Wraparound with 0.1 stud stickout.
+*6 Stud High Jump.
+
+====Bottom Classic Jumps====
+Harder, but still easy type! Still isn't a problem. Yeah.     
+*2.9 Stud Climbable Jump
+*2.7 Stud Unclimbable Jump
+*1.2 Stud Climbable Gap
+*1 Stud Unclimbable Gap
+*0.15 Stud Wraparound
+*0.1 Stud Wraparound with 0.1 Stud Stickout
+*6.2 Stud High Jump
+====Low Classic Jumps====
+Well what can i say about this? Still so easy.
+*3.1 Stud Climbable Jump
+*2.8 Stud Unclimbable Jump
+*1.4 Stud Climbable Gap
+*1.2 Stud Unclimbable Gap
+*0.17 Stud Wraparound
+*0.15 Stud Wraparound with 0.1 Stud Stickout
+*6.4 Stud High Jump
+
+====Mid Classic Jumps====
+The middle! You will probably make this position in some difficulty tower. Anyways, this position is just normal [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' difficulty.       
+
+*3.3 Stud Climbable Jump
+*3 Stud Unclimbable Jump
+*1.5 Stud Climbable Gap
+*1.3 Stud Unclimbable Gap
+*0.18 Stud Wraparound
+*0.16 Stud Wraparound with 0.1 Stud Stickout
+*6.5 Stud High Jump
+
+====High Classic Jumps====
+It'S GEtTinG HARD!1!!1!1 ... Actually, no. This [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">difficulty</span>''' can't get hard! This is just very easy and enjoyable difficulty to teach newbies basics! Anyways here's obstacles:     
+
+*3.5 Stud Climbable Jump
+*3.1 Stud Unclimbable Jump
+*1.6 Stud Clmbable Gap
+*1.4 Stud Unclimbable Gap
+*0.19 Stud Wraparound
+*0.17 Stud Wraparound with 0.1 Stud Stickout (<small>haha funny it's all 0.1 stickout haha)</small>
+*6.7 Stud High Jump
+
+====Peak Classic Jumps====
+Pre-last position! How cool is that?      
+
+*3.7 Stud Climbable Jump
+*3.3 Stud Unclimbable Jump
+*1.7 Stud Climbable Gap
+*1.5 Stud Unclimbable Gap
+*0.2 Stud Wraparound
+* 0.18 Stud Wraparound with 0.1 Stud Stickout
+*6.9 Stud High Jump
+
+====Peakline Classic Jumps====
+Last position! The hardest variation [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' could be! Wow!!!      
+
+*4 Stud Climbable Jump
+*3.5 Stud Unclimbable Jump
+*1.8 Stud Climbable Gap
+*1.6 Stud Unclimbable Gap
+*0.2 Stud Wraparound (<small>the same as peak)</small>
+*0.19 Stud Wraparound with 0.1 Stud Stickout <small>(all the same so funny!)</small>
+*7 Stud High Jump
+
+Done with classic jumps! Time for...  '''<big>CLIENT OBJECT JUMPS!</big>'''
+
+[[File:AnotherWideOmega.gif|390x390px]]
+
+===Client Object Jumps In Tutorial===
+Client Object is very important thing to make the tower (or floor) enjoyable! Here's list of them!
+
+====Baseline Client Object Jumps In [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''====
+First Variation of client object jumps! How easy it is!      
+
+*0.15 Stud Killbrick Jump
+*6 Stud Spinner with Safe Net
+*Very Slow X-Pusher with walls
+*Elevators.
+*Buttons.
+*Keys.
+*Puzzles.
+
+====Bottom Client Object Jumps In [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''====
+Very easy. A little harder than baseline.   
+
+*0.25 Stud Killbrick Jump
+*5.8 Stud Spinner with Safe Net
+*Very Slow X-Pusher With Walls
+*Elevators.
+*Buttons.
+*Keys.
+*Puzzles!
+
+====Low Client Object Jumps In [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''====
+I don't know what to type here. This thing is easy i guess?    
+
+*0.4 Stud Killbrick Jump
+*0.15 Stud Killbrick No Jump
+*5.5 Stud Spinner With Safe Net
+*Some Moving Parts
+*Slow X-Pusher With Walls
+*Elevators.
+*Buttons.
+*Keys.
+*More Puzzles!
+
+==== Mid Client Object Jumps In [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''====
+So, this is main variation. Should be used in difficulty chart towers i guess.     
+
+* 0.5 Stud Killbrick Jump
+* 0.2 Stud Killbrick No Jump
+* 5.2 Stud Spinner Wth Safe Net
+* 6.5 Stud Spinner
+*More Moving Parts
+* Slow X-Pusher With Walls
+*Balloon trials.
+*Keys.
+*Buttons.
+*Elevators.
+*More Puzzles!!
+
+====High Client Object Jumps In [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''====
+Harder than mid. Pros are resting.       
+
+*0.65 Stud Killbrick Jump
+* 0.25 Stud Killbrick No Jump
+*5 Stud Spinner With Safe Net
+*6.3 Stud Spinner
+*Even More Moving Parts
+* Middle Speed X-Pusher With Walls
+*Very Slow X-Pusher
+*Balloon trials.
+*Keys.
+*Buttons.
+*Elevators.
+*Even More Puzzles!!1!
+
+====Peak Client Object Jumps In [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''====
+Almost last Client Object Jump in [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' Variation. This is still easy for newbies! But for pros, this is piece o' cake!     
+
+*0.8 Stud Killbrick Jump
+*0.3 Stud Killbrick No Jump
+* 4.8 Stud Spinner With Safe Net
+*6 Stud Spinner
+*'''MOVING PARTS.'''
+*Middle Speed X-Pusher With Walls
+*Very Slow X-Pusher
+*Balloon trials.
+*Keys.
+*More Buttons.
+*More Elevators.
+*PUZZLES.
+
+====Peakline Client Object Jumps In [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''====
+Finally, the end! Peakline, the hardest variation of [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''. For newbies this might be pretty hard , But for standard obby enjoyer this should be piece o' cake.     
+
+*1 Stud Killbrick Jump
+*0.4 Killbrick No Jump
+*4.7 Stud Spinner With Safe Net
+*5.8 Stud Spinner
+* Moving parts
+*Kinda Fast X-Pusher With Walls
+*Slow X-Pusher
+*Balloons
+*Keys.
+*More Buttons.
+*Even More Elevators.
+*Even More Puzzles.
+
+==Obby==
+Here i'll explain how [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' difficulty obby should be. The obstacle, Client Objects, etc. Please note that these obstacles are in mid variation. So here we go!  
+
+*<big>1st Section - Teaching Some of Basics.</big>          
+**When starting, you have to do '''3.3 stud climbable jump''', then climb a ladder. After you did it, you have to jump over some '''0.5 Stud Killbricks''' (not Insta-Kills) then there will be '''easy pushing box puzzle'''.  After that, you have to do '''3 stud unclimbable jump''', then walk over some '''1.5 Stud Climbable Gaps'''. Easy right? Then you go on moving after doint that you have to do a '''button puzzle'''.  After, you have to do another '''3.3 Stud Climbable Jump'''. This shouldn't be too hard.  Well, what about some keys? You have to do a '''key puzzle''', after, you need to '''climb a truss''', then '''walk a slope'''. What about a '''Spinner?''' You have to do '''5.2 Stud Spinner With safe net'''. And then '''elevator''' will take you to <big>'''SECTION 2!'''</big>
+
+* <big>2nd Section - More Teaching.</big>          
+**After riding on an '''elevator''', you got to '''<big>section 2</big>'''! This section meets you with '''a balloon trial'''! Don't worry, it's not that hard, it should be very easy! Then there's something new, '''button section combined with key section'''! Isn't that cool? Anyways, then you will have to go through '''0.2 Killbricks'''! But there's a twist, you can't jump. After that section, there will be '''a healing part''' that makes your hp go back to 100! Then do 2 of '''3.3 stud climbable''' '''jump'''. Shouldn't be hard for Mega Fun Obby Players, right? Then there's '''Elevator Section...''' But worry not! There's '''safety net!''' Then, oh no... A '''0.16 Stud Wraparound with 0.1 Stud Stickout'''! It's pretty hard! After this, there's very easy jump, no... '''High Jump!''' Yeah it's '''6.5 High Jump'''. So hard. And then there's some of  '''Puzzles''' and then some of '''1.3 Unclimbable Gaps'''. And to end teaching part, there's an '''elevator''' to <big>'''SECTION 3!!!!!!!'''</big> 
+
+*<big>3rd Section - Test Yourself!</big>   
+** '''Section 3''' is a section were you can make anything from past sections. There's no any special things, just testing ftom that what you learnt. So '''3rd section''' is like playing everything from past sections but without teaching signs.<br />
+
+So that's the obby! It's kind of short, but that's shortest obby just to show what [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' is like. Easy, enjoyable and fun! But there's also some catches! Here's a list of them.
+
+==Obby Catches==
+Even though [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' is kind of easy to make, it also has catches here's list of them:       
+
+*<big>'''Safety Nets'''</big>       
+**Every section of  [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' should have safety net, so if player fall off by accident, he would teleport to start of the section so he could start again and don't give up!
+*<big>'''Checkpoints'''</big>     
+**Start of sections should have checkpoint (except Peakline and Peak) because sections has killbricks, and for player to try again.
+*<big>'''Mini-Towers'''</big>   
+**It's not that important in [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' but it would make tower more enjoyable.
+
+==Trivia==
+Trivia! There will be facts about [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>''' with their explanation!    
+
+* <big>'''This is [[File:Ofer.png|30x30px]] [[User:Oferlord|Oferlord]]'s favorite difficulty.'''</big>    
+**Even though [[File:Ofer.png|30x30px]] [[User:Oferlord|'''Oferlord''']] made this diffiiculty, he really liked it. Because it was his first difficulty. That's why he revived it.
+*<big>'''This is NOT FNF reference.'''</big>     
+**Suprisingly, this is not a fnf reference!
+*<big>'''This is [[File:Ofer.png|30x30px]] [[User:Oferlord|Oferlord]]'s first ever difficulty.'''</big>    
+**Suprisingly, it's true. The original got deleted because original page was so bad. Like, very.
+*<big>'''Name of original page.'''</big>     
+**When unrevived tutorial was only added, name of the page was "Tutorial Difficulty". I know, it sounds dumb, but at that time i thought difficulty would be auto-deleted.
+
+==Towers with this difficulty.==
+Hello! Welcome to '''Towers With this difficulty!''' Name says everything, so here!
+
+===Difficulty chart  towers that has [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''===     
+
+*a lot
+
+===Towers with [[File:Tutorial.png|30x30px]] '''<span style="color:#0D3B17">Tutorial</span>'''===   
+
+*probably also a lot
+
+==Gallery==
+<gallery>
+File:AnotherWideOmega.gif|Another Wide Omega. (created only for this page)
+File:Wide Omega.gif|Wide Omega. (failed to find a perfect size, so made another one.)
+File:TutorialDifficulty.png|Old Icon Of Tutorial (new one is so much better, right?)
+File:Tutorial.png|Tutorial Icon. (yeah.)
+File:Ofer.png|owner
+</gallery>
+
+==Continuing from this point.==
+Well, well, well! Look who actually have beaten tutorial! Good job, like, very good job! Now you are ready to continue onward through Class 1, but remember. The obstacles will only be getting harder as you progress! But that's besides the point. Now, you have three choices for what your next difficulty will be. You could go to: 
+
+# [[File:TooEasy Difficulty Revamped.jpg|30x30px]] <span style="background:linear-gradient(75deg,#FFFF66,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">[[TooEasy]]</span>, a high Class 1 Difficulty with a rating of -4,
+# [[File:Hellish Encore.png|frameless|30x30px]] [[Hellish Encore|<span style="color:#FF0000">Hellish Encore</span>]], an '''<big><s>extremely hard</s></big>''' sub-difficulty of Tutorial (specifically the easier of the two), with a rating of -4.66, or
+# [[File:New icon Delight.png|frameless|30x30px]] [[Delightful]], another sub-difficulty of Tutorial (specifically the harder of the two), with a rating of -4.33.
+
+Either way, I wish you luck for whatever path you chose to take. Anyways, goodbye![[File:Tutorial Bottom.png|center|700x700px]] 
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Possible]]
+[[Category:Class 1]]
+[[Category:Revived]]
+[[Category:Large Pages]]
+[[Category:Humanly Possible]]
+[[Category: Former Class Finale Difficulties]]

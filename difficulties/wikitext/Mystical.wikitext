@@ -1,0 +1,60 @@
+<!-- Raw CSS -->
+{{CSS|content=
+span.mystical {
+    font-family: outfit;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#F49CFF,#F7C7FF,#F2DEFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 2px 5px #F7C7FF
+}
+}}
+{{NoticeScrollboxNew|Notices={{Do Not Disturb|reason=This difficulty's page is meant to take on the style of pages on the JJT wiki in 2022, notably the writing style.}}{{Humanly Impossible}}{{Inclusion|reason=This difficulty was reserved with permission from [[User:Sanjay2133|Sanjay2133]].}}}}{{NewDifficultyInfobox|title1=[[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>|image1=Mystical.jpeg|class=Peak Class 4|rating=28.33|type=*Sub-Difficulty
+*Class 4 Difficulty
+*Humanly Impossible Difficulty|previous=[[File:Aleph-Null high res.png|30x30px]] [[Aleph-Null]]|next={{Class5Difficulties|Immeasurable}} [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]]|alt_next=[[File:Shimeshimeyehshimeyehshimeyaah.jpg|frameless|30x30px]] [[Reality]] (sub difficulty)|difficulty_range=Baseline to Peak|sub_difficulty(ies)=|creator(s)=MapleIsNotAMapleLeaf|date_added=September 10th, 2023|main_difficulty=[[File:Aleph-Null high res.png|30x30px]] [[Aleph-Null]]|decal_id=[https://create.roblox.com/store/asset/89039810183735/Mystical 89039810183735]}}==Introduction - [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>==
+[[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span> is a '''Peak Class 4''' sub-difficulty with a rating of 28.33. Said rating places this difficulty in-between [[File:Aleph-Null high res.png|30x30px]] [[Aleph-Null]] and {{Class5Difficulties|Immeasurable}} [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]], or next [[Aleph-Null]] sub-difficulty [[File:Shimeshimeyehshimeyehshimeyaah.jpg|frameless|30x30px]] [[Reality]]. Along with a rating, [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span> has a rating range of 28.33.
+
+[[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>‘s tier rating would be an estimated low tier 28. This means that all tiered obbies of this difficulty are '''Humanly Impossible'''.
+
+Any attempt at beating a tower of [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span> difficulty would likely result in failure. This is because this difficulty, as mentioned before, is in the '''Humanly Impossible''' range.
+
+Examples of jumps in towers of [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span> difficulty include but are not limited to 15.1 stud climbable jumps, 13.75 stud wraps, and 7.5 stud walkarounds.
+==Icon Representation - [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>==
+{| class="fandom-table"
+|+Icon Representation Table
+!Icons
+!Details
+!Date It Was Made
+|-
+|[[File:Mystical.jpeg|frameless|150x150px]] Current
+|''placeholder.''
+|May 10th, 2023
+|-
+|[[File:OldMysticalDifficultyIcon.jpg|frameless|150x150px]] Old
+|[[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>‘s current icon includes a pink to light pink gradient with an outlined pink ㄨ on top.
+|September 13th, 2023
+|-
+|[[File:Unique.png|frameless|150x150px]] Original
+|[[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>‘s old icon includes a dark red background with a red glow and a red Ψ symbol on top. 
+|September 10th, 2023
+|}
+==Obstacles In This Difficulty - [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>==
+{{ObstacleTableRevamp|JumpClimbableBase=16.4|Increment=0.01189}}
+==Trivia - [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>==
+*This difficulty is the only difficulty in '''Mid Class 4''' with a sub-difficulty.
+*This difficulty is the most recent '''Class 4''' difficulty as of September 12th, 2023.
+**This difficulty is also the most recent difficulty on the '''Main Difficulty Chart''' as of September 12th, 2023.
+==Towers In This Difficulty - [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>==
+===Non-Fictional===
+*There are currently zero non-fictional towers of [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span> difficulty. Feel free to add some!
+===Fictional===
+*Tower of Extensive Popups (ToEP) (Baseline [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>) (27.35)
+*Citadel of Looped Activity (CoLA) (Low [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>) (27.41)
+*Boring For Decrypting Inevitable (B.F.D.I) (Mid [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>) (27.49)
+*Obelisk of Untrusted Thought (OoUT) (High [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>) (27.57)
+*[[Tower of One in a Quadrillion]] (ToOiaQ) (Peak [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>) (27.63)
+*Steeple of Zyxur (SoZ) (Peak [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>) (27.65)
+==CFTP - [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span>==
+If one is to complete a tower of [[File:Mystical.jpeg|frameless|30x30px]] <span class="mystical">Mystical</span> difficulty, it is recommended that they beat a few more towers of this difficulty before trying to complete a tower of {{Class5Difficulties|Immeasurable}} [[w:c:jtohs-hardest-towers:Immeasurable|Immeasurable]] difficulty. Alternatively, they could try a tower of [[File:Shimeshimeyehshimeyehshimeyaah.jpg|frameless|30x30px]] [[Reality]] difficulty, as it is a sub difficulty of this difficulty. However, this is not recommended, as going through this route will most likely lengthen the progression of one’s journey in the obbying community.
+{{DifficultiesNavbox}}
+[[Category:Class 4]]

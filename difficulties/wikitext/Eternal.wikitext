@@ -1,0 +1,204 @@
+{{Scrollbox|Notices=<center>'''Notice Scrollbox'''</center>
+{{Large Page}}
+{{Humanly Possible}}}}
+----
+{{JToHW Quote
+|text=Not to be confused with [[Eternified Partyness]], [[Eternal Outrage]], [[Eternity]] or [https://www.roblox.com/games/8562822414 Eternal Towers of Hell].
+<br>
+Also! credits to [[User:Astrominal|Astrominal]] for the current icon.
+|quoter=Narrator}}
+----
+{{NewDifficultyInfobox
+|title1=[[File:Eternalized.png|25px]] <span style="color:#953553">{{PAGENAME}}</span>
+|image1=Eternalized.png
+|caption1=EToH refren
+|class=[[:Category:Class 3|<span style="text-shadow: 0 0 4px #9692fe; color:#9692fe"><b>Class 3]]</b></span>
+|type=[[:Category:Difficulties|Normal]]
+|previous={{Class3Difficulties|Horrific|25px}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]]
+|next={{Class3Difficulties|Unreal|25px}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]]
+|alt_previous={{Class3Difficulties|Reversed|25px}} [[Reversed]]
+|class_range=
+|difficulty_range=Baseline to Peak
+|decal_id=108536439981331
+|creator(s)=[[User:Viranenthusiast|Viranenthusiast]]
+|date_added=26th May 2022
+|revamp_date=14th June 2022
+2nd March 2023
+|alt_names=Eternalised
+Eternalized
+|original_type=[[:Category:Difficulties|Normal Difficulty]]
+|previous_type(s)=[[:Category:Difficulties|Normal Difficulty]]
+|prior_previous=[[File:Potential.png|25px]] '''Potential''' (Sub Difficulty)
+|prior_next=[[File:Confidence.png|30x25px]] [[User blog:EpicTheGamer2014/Confident|Confident]]
+|rating=13.5|official_music(s)=[https://www.youtube.com/watch?v=7hT3imDoYfU cYsmix - Manic]|hex_color={{colorbox|#824172}} #824172 (Border)
+{{colorbox|#000000}} #000000 (Base)|rgb_color={{colorbox|#824172}} 130, 65, 114 (Border)
+{{colorbox|#000000}} 0, 0, 0 (Base)|brickcolor={{colorbox|#824172}} N/A (Border)
+{{colorbox|#000000}} Really black (Base)|cmyk_color={{colorbox|#824172}} 0, 50, 12, 49 (Border)
+{{colorbox|#000000}} 0, 0, 0, 100 (Base)|hsv_color={{colorbox|#824172}} 315, 50%, 51% (Border)
+{{colorbox|#000000}} 0, 0.0% 0.0% (Base)|hsl_color={{colorbox|#824172}} 315, 33.3%, 38.2% (Border)
+{{colorbox|#000000}} 0, 0.0%, 0.0% (Base)|alt_next=[[File:Confidence.png|25px|link=[[Confident]]]] [[Confident]]|sub_difficulty(ies)=[[File:Confidence.png|25px|link=[[Confident]]]] [[Confident]]}}
+
+[[File:Eternalized.png|frameless|30x25px]] '''Eternal''' is a class 3 difficulty, located after {{Class3Difficulties|Horrific|25px}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]], and before {{Class3Difficulties|Unreal|25px}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]] or it's sub difficulty, [[File:Confidence.png|link=Confident|30x25px]] [[Confident]]. To put it simply, it is extremely difficult to complete, and <u>''requires extensive knowledge of intricate glitches and mechanics found within Roblox’s obbies and towers.''</u> 
+
+Despite this being humanly possible, and towers of this difficulty being currently feasible for any obbyists (due to every spectrum of this difficulty being possible), it is recommended any player willing to attempt this difficulty utilizes Tool Assisted Speedrun while trying to beat this. This is because it makes the obstacles significantly easier, and they won’t spend hundreds (if not thousands) of hours on towers of this difficulty.
+
+Currently, '''Eternal''' additionally reflects obstacles seen in skyline {{Class3Difficulties|Horrific|25px}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]] and belowground [[File:Confidence.png|link=Confident|30x25px]] [[Confident]], despite being listed as between the two.
+
+==Icon Representation==
+
+<tabber>
+Current=
+=== Current Icon ===
+<center>[[File:Eternalized.png|frameless|101x101px]]</center>
+'''Eternal'''’s current icon is represented by a purplish pink border, with a black background filling the rest of the icon. It’s rather simple.
+|-|
+Old=
+=== Old Icon ===
+<center>[[File:Eternalized old.webp|frameless|100x100px]]</center>
+'''Eternal'''’s icon is represented by a completely black background, and there is a pale red gradient at the bottom half. There is a pale >_X emoticon, slightly rotated, and with a thin, dark pale orange outline. There is a comcentrated orange text, behind that emoticon, saying the words ‘HELL’ in capital letters. In the top left corner, there is a hand-drawn X_X emoticon, tilted. Finally, I’m the top right corner, with the same appearance as the ‘HELL’ text, there is a small ‘MASSACRE’ tests.
+|-|
+Oldest=
+=== Oldest Icon ===
+<center>[[File:DD7BC264-659F-46F4-8F3E-C3A39B415018.jpeg|100px]]</center>
+'''Eternal'''’s oldest icon is represented by a black background and a purple border, with white corners.
+|-|
+Original=
+=== Original Icon ===
+<center>[[File:Reimagined Eternalized.jpeg|100px]]</center>
+'''Eternal'''’s oldest icon has a purple background, with a gradient at the top half going downwards from dark purple to the aforementioned purple color. In the middle, there is a worried face, with the outlines being white. Finally, the corners are completely white.
+</tabber>
+
+
+<tabber>
+Example=
+==Obstacle Examples==
+<u>''Here are some examples of troublesome obstacles seen in this difficulty, organized through a gallery.''</u>
+
+<center><gallery>
+File:EternalizedObstacle1.png|An example of one of Eternal obstacles, seen in ''Steeple of Pleasure to Aversion''.
+File:EternalizedObstacle2.png|An example of another '''Eternal''' obstacle, also seen in ''SoPtA''.
+</gallery></center>
+|-|
+Overview=
+==Obstacle Overview ==
+Obstacles of this difficulty are not for the faint of heart, as they contain troublesome mechanics and very few breaks. They can also end up being very intricate and hard to predict at times.
+{{#tag:tabber|Baseline= 
+===Baseline '''Eternal'''===
+Obstacles in this reflect peak [[File:ReversedNew.png|25px]] [[Reversed]] obstacles, but slightly buffed.
+
+*12.75 stud jump (Climbable)
+*12.55 stud jump (Unclimbable)
+*11.3 stud wraparound (Climbable)
+*11.1 stud wraparound (Unclimbable)
+*14.35 stud high jump (Climbable)
+*14.15 stud high jump (Unclimbable)
+
+{{!}}-{{!}}
+Low=
+===Low '''Eternal'''===
+
+*12.775 stud jump (Climbable)
+*12.575 stud jump (Unclimbable)
+*11.325 stud wraparound (Climbable)
+*11.125 stud wraparound (Unclimbable)
+*14.375 stud high jump (Climbable)
+*14.175 stud high jump (Unclimbable)
+
+{{!}}-{{!}}
+Middle=
+===Middle '''Eternal'''===
+
+*12.8 stud jump (Climbable)
+*12.6 stud jump (Unclimbable)
+*11.35 stud wraparound (Climbable)
+*11.15 stud wraparound (Unclimbable)
+*14.4 stud high jump (Climbable)
+*14.2 stud high jump (Unclimbable)
+
+{{!}}-{{!}}
+High=
+===High '''Eternal'''===
+
+*12.825 stud jump (Climbable)
+*12.625 stud jump (Unclimbable)
+*11.375 stud wraparound (Climbable)
+*11.175 stud wraparound (Unclimbable)
+*14.425 stud high jump (Climbable)
+*14.225 stud high jump (Unclimbable)
+
+{{!}}-{{!}}
+Peak=
+===Peak '''Eternal'''=== 
+
+*12.85 stud jump (Climbable)
+*12.65 stud jump (Unclimbable)
+*11.4 stud wraparound (Climbable)
+*11.2 stud wraparound (Unclimbable)
+*14.45 stud high jump (Climbable)
+*14.25 stud high jump (Unclimbable)
+
+}}
+</tabber>
+
+==Towers in this difficulty==
+
+===Non-Fictional Towers===
+*CoMEC - [[w:c:jtohs-hardest-towers:Citadel of Mostly Everything Combined|Citadel of Mostly Everything Combined]] (Technically: it is not listed as '''Eternal''', rather between {{Class3Difficulties|Horrific|25px}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]] and {{Class3Difficulties|Unreal|25px}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]].)
+*SoPtA - [[w:c:jtohs-hardest-towers:Steeple of Pleasure to Aversion|Steeple of Pleasure to Aversion]] (SoPtA) (Technically: it is listed as baseline {{Class3Difficulties|Unreal|25px}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]].)
+*RoLL - [https://www.roblox.com/games/10406214285/Quasis-Towers-of-Nonsense Room of Lengthy Lethargy] (QToN Ring 3)
+
+===Notable Towers===
+Note: This lists their placement on the actual JToH chart, NOT the JToH’s Joke Towers chart (no decimal rating was provided).
+*ZAP - [[w:c:jtohs-hardest-towers:Zalgo Annihilated Purgatory|Zalgo Annihilated Purgatory]] (High Horrific)
+*S.T.O.N.E F - [[w:c:jtohs-hardest-towers:Sadistically Terrifying Overachieving Neglectful Enragement Facility|Sadistically Terrifying Overachieving Neglectful Enragement Facility]] (High Horrific)
+*ToED:B - [[w:c:jtohs-hardest-towers:Tower of Extreme Dystopia: Buffed|Tower of Extreme Dystopia: Buffed]] (Peak Horrific)
+*ToTRP:U - [[w:c:jtohs-hardest-towers:Tower of The Roof’s Pique|Tower of The Roof’s Pique: Unnerfed]] (Peak Horrific/Baseline Unreal)
+*IT - [[w:c:jtohs-hardest-towers:Ikea Tower|Ikea Tower]] (Baseline Unreal)
+* ToBF - [[w:c:jtoh:Tower of Blind Fate|Tower of Blind Fate]] (Baseline Unreal)
+*CoTEC - [[w:c:jtohs-hardest-towers:Citadel of The Eternal Calamity|Citadel of The Eternal Calamity]] (Baseline-Low Unreal)
+
+===Fictional Towers ===
+* '''Tower of Pale Blastpherence''' (ToPB)
+*'''Steeple of Horrific Misery''' (SoHM)
+*'''The Moonlight Crevasse''' (TMC) (Citadel)
+*'''Tower of Scorched Fate''' (ToSF)
+*'''Tower of Indefinite Clockwork''' (ToIC)
+
+=== Difficulty Chart Towers===
+
+*Unknown
+
+==Trivia==
+*During development, '''Eternal'''’s icon received a revamp to make it in the style of the current [[w:c:jtohs-hardest-towers:Horrific|Horrific]] and [[w:c:jtohs-hardest-towers:Unreal|Unreal]] icons. It became the old JToH style icon, however that decision was quickly reverted.
+*This difficulty was revamped to try and save it from being deleted in an omnicide, albeit the icon was the problem for '''Eternal'''.
+*On the 5th August 2022, this difficulty became a sub difficulty of [[w:c:jtohs-hardest-towers:Horrific|Horrific]], as per the Class 1-3 cleanup. However, [[File:Confidence.png|frameless|25x25px]] [[User blog:EpicTheGamer2014/Confident|Confident]] was still between {{Class3Difficulties|Horrific|25px}} [[w:c:jtohs-hardest-towers:Horrific|Horrific]] and {{Class3Difficulties|Unreal|25px}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]].
+**Due to this, [[Eternalized]] was swapped with [[File:Confidence.png|frameless|25x25px]] [[User blog:EpicTheGamer2014/Confident|Confident]], and became a non-sub difficulty once again. This occurred on the 1st March 2023 (along with its revamp), almost 7 months after the initial change of placement.
+***Some of this information is now outdated as [[File:Confidence.png|link=Confident|30x25px]] [[Confident]] is a sub difficulty of Eternal.
+*A second revamp was put into place for this difficulty approximately nine months after the initial revamp date, and nearly ten months after it’s initial creation date, to bring it up to current ''{{SITENAME}}'' standards.
+*This is likely [[User:Viranenthusiast|vira]]<nowiki/>’s most detailed and comprehensive article made on this wiki.
+*This difficulty was<nowiki/> formerly the world record for the [[The Pyramid Brothers/JJT Pyramid|JJT Pyramid]], set by AgileGamez.
+*On 5th August 2024,<nowiki/> this difficulty was renamed to '''Eternal''', due to the fact that Eternalized generally is not a good name for this kind of difficulty
+*There was a difficu<nowiki/>lty also named '''Eternal''' in C24, but it got deleted.
+
+==Gallery==
+<center><gallery>
+File:Eternalized.png|The current icon.
+File:Eternalized old.webp|The old icon.
+File:DD7BC264-659F-46F4-8F3E-C3A39B415018.jpeg|The oldest icon.
+File:Reimagined Eternalized.jpeg|The original icon.
+File:Memorialized.png|The now deleted rebirth of this difficulty, called Memorialized.
+File:Absolutist Difficulty.jpeg|The double rebirth of this difficulty, which was never made into a page due to the Eternal chain being scrapped.
+</gallery></center>
+
+==Continuing on from this point ==
+After completing '''Eternal''', it is fair to say {{USERNAME}} is likely the most dedicated, motivated and determined obbyist any person has ever seen. After all the struggles, all the hardships, all those hours spent on one singular difficulty. Now, if they wish, they can go on to practice {{Class3Difficulties|Unreal|25px}} [[w:c:jtohs-hardest-towers:Unreal|Unreal]] difficulty towers. {{DifficultiesNavbox}}
+[[Category:Humanly Possible]]
+[[Category:Class 3]]
+[[Category:Difficulties]]
+[[Category:Revamped Difficulty]]
+
+[[Category:Possible]]
+[[Category:Soul Crushing]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Large Pages]]

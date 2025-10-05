@@ -1,0 +1,60 @@
+__NOTOC__
+{{Scrollbox|Notices='''Notice Scrollbox'''
+{{TAS Impossible}}
+}}
+{{BetterQuote|text=I’ve always wanted to make a difficulty past Error, yet before Literal. However, I couldn’t do that because Nil - Error was moved to Class 4 before I could get a chance. Now, I can do exactly that.
+----
+It isnt class 4 now sadly.|quoter=[[File:TDE.png|30x30px]] [[User:Viranenthusiast|Viranenthusiast]]}}
+==Difficulty Intro                              ==
+{{NewDifficultyInfobox|title1=Nought|image1=NOUGHT.png|caption1=Originally class 4, now in the red class…|class=[[:Category:Class 5|Class 5]]|type=[[:Category:Difficulties|Normal Difficulty]]|previous={{Class7Difficulties|Ultimate}} [[Ultimate]]|next=[[File:NewSystemErrorIcon.png|frameless|30x30px]] [[System Error]]|difficulty_range=Low to High|creator(s)=[[User:Migastrate|Migastrate]]|rating=41.5|alt_previous=|class_range=[[:Category:Class 5|High]]|decal_id=Current: 108321759657109
+Old: N/A|main_difficulty={{Class7Difficulties|Ultimate}} [[Ultimate]]}}'''Nought''' is a High Class 5 difficulty, which succeeds the extremely deranged difficulties {{Class7Difficulties|Ultimate}} [[Ultimate]], and yet precedes the even more mentally endangering [[File:NewSystemErrorIcon.png|frameless|30x30px]] [[System Error]] By now, we are at the stage where physical possibility is almost solely reduced to a concept. Anyway. This difficulty is classified as ‘TAS Impossible’ due to a multitude of factors, such as an inhuman ordeal of luck required, precision and timing leading to mental insanity, and much more.
+
+Even the greatest of obbyists and tiered-obby masters end up succumbing to this hellish monstrosity, even with the use of external gadgets such as Tool Assisted Speedrun and Bootleg Coil. This is be due to Prodigous luck incapable of the human species required, and pixel perfect precision required. Even just an absolutely nanoscopic mistake can cost you your entire run.
+
+Not even jumps of this are possible, even when given tremendous patience and reat amasses of effort, and even though this is currently classified as Impossible, enough time and effort amassed by the Human race may prove this difficulty Humanly Possible in the far future. This could take years, or even decades.
+==Icon Representation==
+This difficulty is resembled with a black background, and a rotated bright red N in the middle. There is a border with a dark red color, and there are 3 stripes in the bottom left and top right corners of the notder. There is a slight amount of noise in the icon, and there is some bloom filter added to make the icon brighter.
+==Obstacles==
+Obstacles here are very slightly buffed from Champion, and have not been rebalanced as per it being moved to Class 5.
+===Low '''Nought'''===
+*13 stud jump (Climbable)
+*12.95 stud jump (Unclimbable)
+* 13.1 stud wraparound (Climbable)
+*13.05 stud jump (Unclimbable)
+===Middle '''Nought'''===
+
+*13.05 stud jump (Climbable)
+* 13 stud jump (Unclimbable)
+* 13.15 stud wraparound (Climbable)
+*13.1 stud jump (Unclimbable)
+
+===High '''Nought'''===
+
+*13.1 stud jump (Climbable)
+*13.05 stud jump (Unclimbable)
+* 13.2 stud wraparound (Climbable)
+*13.15 stud jump (Unclimbable)
+
+==Towers in this difficulty==
+===Non-Fictional===
+*N/A
+===Fictional ===
+*Tower of Null and Zilch (ToNaZ)
+*Steeple of Completely Literal Nonsense (SoCLN)
+*Edifice of The Void (EoTV)
+=== Towers with this difficulty ===
+*Monolith of Grand and Infinite Difficulties (MoGaID)
+==Trivia==
+*[[File:GALACTIC picture.svg|frameless|30x30px]] ''GALACTIC'' used to have this spot (when it was in class 4), although it was deleted.
+*This was waiting on approval from Ferdinandloveslegos, and it got approved.
+*This is the replacement for ''Seaborg''.
+*This was the newest Class 4 difficulty (with an actual page that still exists), and it will probably remain like that forever.
+==Continuing on from this point==
+If you somehow passed this, you can move to [[File:NewSystemErrorIcon.png|frameless|30x30px]] [[System Error]] .
+{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 5]]
+[[Category:Sub-Difficulties]]
+[[Category:Difficulty]]
+ 
+[[Category:Unofficial Difficulty]]
