@@ -2015,7 +2015,7 @@ class Difficulty {
 	 * ### Switch (Switch)
 	 * - Rating: 1.75 (Layout: 1.75)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(181, 245, 15)
 	 * - Image: rbxassetid://113390869450970
 	 *
 	 * Switch is a sub-difficulty of Calm with a rating of 1.75. It was made as a transitional practice between Easy and Medium difficulties, hence the icon. Switch features fairly easy obstacles that even beginners can complete and is great for speedrunning. The difficulty is designed to help players switch from easy to medium obstacles, making it a medium introduction and encouraging practice and enjoyment.
@@ -2026,14 +2026,14 @@ class Difficulty {
 		.setVisualRating("1.75")
 		.setLayoutRating(1.75)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(181, 245, 15))
 		.setImage("rbxassetid://113390869450970");
 
 	/**
 	 * ### Medium (Medium)
 	 * - Rating: 2 (Layout: 2)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(255, 254, 0)
 	 * - Image: rbxassetid://137596399736829
 	 *
 	 * Medium is a difficulty in EToH that is represented by a yellow trapezoid. Obstacles at this level are more challenging and sometimes harder forms of obstacles seen in the Easy difficulty. There are slightly longer jumps, more wraps (often 2-3 studs), and generally tougher obstacles. One-stud platforms may start appearing in towers of this difficulty. Towers in this difficulty can be passed fairly easily by an average EToH player.
@@ -2044,7 +2044,7 @@ class Difficulty {
 		.setVisualRating("2")
 		.setLayoutRating(2)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(255, 254, 0))
 		.setImage("rbxassetid://137596399736829");
 
 	/**
@@ -2107,7 +2107,7 @@ class Difficulty {
 	 * ### Hard (Hard)
 	 * - Rating: 3 (Layout: 3)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(254, 127, 0)
 	 * - Image: rbxassetid://89882698332647
 	 *
 	 * Hard is a difficulty in EToH represented by an orange square. It follows Medium and precedes Difficult. Obstacles in Hard are similar to those in Medium but are more numerous and often include disappearing platforms and conveyors. Towers at this level can take 8-15 minutes to complete and are intended for above-average obbyists.
@@ -2120,7 +2120,7 @@ class Difficulty {
 		.setVisualRating("3")
 		.setLayoutRating(3)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(254, 127, 0))
 		.setImage("rbxassetid://89882698332647");
 
 	/**
@@ -2185,7 +2185,7 @@ class Difficulty {
 	 * ### Difficult (Difficult)
 	 * - Rating: 4 (Layout: 4)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(255, 12, 2)
 	 * - Image: rbxassetid://70770344123195
 	 *
 	 * Difficult is a difficulty in EToH, represented by a bright red parallelogram. It requires more precision and skill than previous levels, introducing hidden traps, falling platforms, and more complex obstacles like 3-6 stud wraparounds and thin tightropes. Players may need to use glitches to succeed. Difficult marks a significant step up in challenge, with many towers, citadels, and steeples assigned to this rating.
@@ -2196,7 +2196,7 @@ class Difficulty {
 		.setVisualRating("4")
 		.setLayoutRating(4)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(255, 12, 2))
 		.setImage("rbxassetid://70770344123195");
 
 	/**
@@ -2259,7 +2259,7 @@ class Difficulty {
 	 * ### Challenging (Challenging)
 	 * - Rating: 5 (Layout: 5)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(127, 0, 25)
 	 * - Image: rbxassetid://80002417407460
 	 *
 	 * Challenging is a difficulty in EToH represented by a maroon/dark red pentagon. At this level, obstacles become more demanding and complex, including difficult jumps and tightropes that can send players down several floors if failed. Challenging is a significant step up from Difficult and prepares players for even harder obstacles in Intense. Completing a tower at this level is a notable achievement, marking a player as more skilled than most.
@@ -2270,7 +2270,7 @@ class Difficulty {
 		.setVisualRating("5")
 		.setLayoutRating(5)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(127, 0, 25))
 		.setImage("rbxassetid://80002417407460");
 
 	/**
@@ -2297,7 +2297,7 @@ class Difficulty {
 	 * ### Maniacal (Maniacal)
 	 * - Rating: 5.5 (Layout: 5.5)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(37, 0, 0)
 	 * - Image: rbxassetid://123173702268057
 	 *
 	 * Maniacal is a Class 2 difficulty that is in between Challenging and Intense with a rating of 5.5. The difficulty contains a sub-difficulty called Hectic. Maniacal consists of difficult gameplay that can irritate most players, including talented obbyists. If you are not cautious, you will most likely fall off. The vast majority of obstacles are hard and require practice. Anyone attempting a Maniacal difficulty tower should practice first.
@@ -2308,7 +2308,7 @@ class Difficulty {
 		.setVisualRating("5.5")
 		.setLayoutRating(5.5)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(37, 0, 0))
 		.setImage("rbxassetid://123173702268057");
 
 	/**
@@ -2333,7 +2333,7 @@ class Difficulty {
 	 * ### Intense (Intense)
 	 * - Rating: 6 (Layout: 6)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(25, 34, 45)
 	 * - Image: rbxassetid://117042470883491
 	 *
 	 * Intense is a difficulty in EToH represented by a black hexagon. It sits between Challenging and Remorseless, and is often considered the gateway to higher difficulties. Obstacles are harder than those in Challenging towers but not as tough as Remorseless. Typical challenges include 7–9 stud wraparounds and 10–11 stud long jumps, with a significant risk of falling.
@@ -2346,14 +2346,14 @@ class Difficulty {
 		.setVisualRating("6")
 		.setLayoutRating(6)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(25, 34, 45))
 		.setImage("rbxassetid://117042470883491");
 
 	/**
 	 * ### TooMedium (TooMedium)
 	 * - Rating: 6.25 (Layout: 6.25)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(45, 45, 37)
 	 * - Image: rbxassetid://79493533342420
 	 *
 	 * TooMedium is a Class 2 difficulty that is harder than Intense but easier than Severe. While it is still humanly possible, most jumps in this difficulty require a good amount of skill and patience. It is recommended to attempt TooMedium after mastering mid-Intense obstacles, as it can be surprisingly challenging for unprepared players.
@@ -2366,7 +2366,7 @@ class Difficulty {
 		.setVisualRating("6.25")
 		.setLayoutRating(6.25)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(45, 45, 37))
 		.setImage("rbxassetid://79493533342420");
 
 	/**
@@ -2411,7 +2411,7 @@ class Difficulty {
 	 * ### Remorseless (Remorseless)
 	 * - Rating: 7 (Layout: 7)
 	 * - Class: 2
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(218, 0, 219)
 	 * - Image: rbxassetid://124615175144208
 	 *
 	 * Remorseless is a difficulty in EToH represented by a magenta octagon. It is the hardest non-Soul Crushing difficulty and the last required for game progression. Obstacles in Remorseless towers are more challenging versions of those found in Challenging and Intense towers, often requiring hours of practice to master. The difficulty is known for its high punishment and is a rare but important milestone in the game's progression.
@@ -2422,7 +2422,7 @@ class Difficulty {
 		.setVisualRating("7")
 		.setLayoutRating(7)
 		.setClass(2)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(218, 0, 219))
 		.setImage("rbxassetid://124615175144208");
 
 	/**
@@ -2533,7 +2533,7 @@ class Difficulty {
 	 * ### Insane (Insane)
 	 * - Rating: 9 (Layout: 9)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(0, 0, 254)
 	 * - Image: rbxassetid://100673673471588
 	 *
 	 * Insane is a Soul Crushing difficulty in EToH, represented by a deep blue 3-pointed star. It is the first and easiest difficulty in the Soul Crushing series, marking a significant step up from Remorseless. Obstacles in Insane towers are much tougher and require extensive practice, often taking weeks or months to complete. Progressing from Remorseless to Insane is a major challenge, and beating an Insane tower is considered a huge achievement for any player.
@@ -2544,14 +2544,14 @@ class Difficulty {
 		.setVisualRating("9")
 		.setLayoutRating(9)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(0, 0, 254))
 		.setImage("rbxassetid://100673673471588");
 
 	/**
 	 * ### Thanos (Thanos)
 	 * - Rating: 9.25 (Layout: 9.25)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(68, 0, 149)
 	 * - Image: rbxassetid://96578277214518
 	 *
 	 * Thanos was a sub-difficulty represented by the color Indigo, placed to the left side of Insane on the Difficulty Chart. It was formerly exclusive to one Tower, Thanos Tower in Ring 1. Thanos Tower was considered High-Peak Insane back then, and the difficulty was removed from the game due to its limited use. Since its removal, there is a grave in Thanos Tower's winroom reading "R.I.P Thanos Difficulty."
@@ -2564,7 +2564,7 @@ class Difficulty {
 		.setVisualRating("9.25")
 		.setLayoutRating(9.25)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(68, 0, 149))
 		.setImage("rbxassetid://96578277214518");
 
 	/**
@@ -2607,7 +2607,7 @@ class Difficulty {
 	 * ### Extreme (Extreme)
 	 * - Rating: 10 (Layout: 10)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(25, 152, 255)
 	 * - Image: rbxassetid://126680097575875
 	 *
 	 * Extreme is a difficulty in EToH represented by a cerulean 4-pointed star. It is the second Soul Crushing difficulty and the third hardest canon difficulty currently in-game. Obstacles in Extreme towers are harder than those in Insane, requiring more time and skill to overcome. There are currently 13 towers (18 including events) assigned to this difficulty rating.
@@ -2618,7 +2618,7 @@ class Difficulty {
 		.setVisualRating("10")
 		.setLayoutRating(10)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(25, 152, 255))
 		.setImage("rbxassetid://126680097575875");
 
 	/**
@@ -2663,7 +2663,7 @@ class Difficulty {
 	 * ### Absurd (Absurd)
 	 * - Rating: 10.75 (Layout: 10.75)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(0, 202, 254)
 	 * - Image: rbxassetid://124170786724805
 	 *
 	 * Absurd is a Low-Mid Class 3 difficulty created by TasmanianRex. It is placed between Extreme and Terrifying, though it was once the borderline for Class 2 before other difficulties were reclassified. Absurd requires advanced techniques and precise positioning, making it a significant challenge for elite players. Towers in this difficulty are time-consuming and punishing, often causing players to give up. Practice is essential before attempting Absurd difficulty towers.
@@ -2674,14 +2674,14 @@ class Difficulty {
 		.setVisualRating("10.75")
 		.setLayoutRating(10.75)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(0, 202, 254))
 		.setImage("rbxassetid://124170786724805");
 
 	/**
 	 * ### Terrifying (Terrifying)
 	 * - Rating: 11 (Layout: 11)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(0, 254, 255)
 	 * - Image: rbxassetid://102184511238527
 	 *
 	 * Terrifying is a Soul Crushing difficulty in EToH, represented by a turquoise/cyan 5-pointed star. It is the second hardest canon difficulty in the game. Obstacles in towers of this difficulty are even harder than those in Extreme towers, and all of these towers have very few legitimate completions.
@@ -2694,14 +2694,14 @@ class Difficulty {
 		.setVisualRating("11")
 		.setLayoutRating(11)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(0, 254, 255))
 		.setImage("rbxassetid://102184511238527");
 
 	/**
 	 * ### Ghastly (Ghastly)
 	 * - Rating: 11.25 (Layout: 11.25)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(127, 255, 254)
 	 * - Image: rbxassetid://134778246615750
 	 *
 	 * Ghastly is a Mid Class 3 sub-difficulty, serving as the easiest sub-difficulty of Terrifying and positioned before Catastrophic. It is a soul-crushing challenge that requires top-level skill, with obstacles that demand precise timing and a bit of luck. The name "Ghastly" is a synonym for "Terrifying," and the difficulty is known for its light blue icon and challenging gameplay. Created by YataDev (revamp) and AlephWasTaken (original), Ghastly is a classic, officially recognized difficulty that tests the limits of even experienced players.
@@ -2712,7 +2712,7 @@ class Difficulty {
 		.setVisualRating("11.25")
 		.setLayoutRating(11.25)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(127, 255, 254))
 		.setImage("rbxassetid://134778246615750");
 
 	/**
@@ -2755,7 +2755,7 @@ class Difficulty {
 	 * ### Catastrophic (Catastrophic)
 	 * - Rating: 12 (Layout: 12)
 	 * - Class: 3
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(255, 255, 255)
 	 * - Image: rbxassetid://72423613477361
 	 *
 	 * Catastrophic, originally called Never Again, Unreal, and Death, is a Soul Crushing difficulty in EToH represented by a white 6-pointed star. It is the last and hardest canon soul-crushing difficulty, as well as the game's hardest official difficulty. Obstacles are extremely difficult, requiring high skill and practice, often relying on punishment or raw skill. Only a handful of towers are classified as Catastrophic, making it a true test for the most skilled players.
@@ -2766,7 +2766,7 @@ class Difficulty {
 		.setVisualRating("12")
 		.setLayoutRating(12)
 		.setClass(3)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(255, 255, 255))
 		.setImage("rbxassetid://72423613477361");
 
 	/**
@@ -3155,7 +3155,7 @@ class Difficulty {
 	 * ### WHY (WHY)
 	 * - Rating: 18 (Layout: 18)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(82, 82, 82)
 	 * - Image: rbxassetid://123648958819064
 	 *
 	 * WHY (also known as TooHard) is a difficulty that is below No and above Literal in the difficulty chart, represented by the color black with a white outline and a white XD in the middle. Nothing for certain can be said about this difficulty, since it is several difficulties beyond feasible reach for any obbyist today, and it likely will stay that way forever. Obstacles in towers of this difficulty would require unimaginable precision in every possible category of computer input and are borderline humanly impossible, with almost all individual jumps requiring tool assistance or even RNG manipulation.
@@ -3166,14 +3166,14 @@ class Difficulty {
 		.setVisualRating("18")
 		.setLayoutRating(18)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(82, 82, 82))
 		.setImage("rbxassetid://123648958819064");
 
 	/**
 	 * ### MAXIMUM OVERDRIVE (MAXIMUMOVERDRIVE)
 	 * - Rating: 18.5 (Layout: 18.5)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(74, 93, 67)
 	 * - Image: rbxassetid://118051481446006
 	 *
 	 * Maximum Overdrive is a difficulty reserved for towers with obstacles that require even more broken physics than Why difficulty. It represents the absolute limit of what humans are capable of doing in terms of difficulty. The origin of this difficulty traces back to an unknown player from Sandbox (2) in 2018, where it was originally called "Borderline Impossible/True Borderline Impossible" before being renamed. A single jump at this level is already more difficult than the entirety of the Tower of Spiralling Fates. The range of this difficulty spans from High Why to Low No.
@@ -3184,7 +3184,7 @@ class Difficulty {
 		.setVisualRating("18.5")
 		.setLayoutRating(18.5)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(74, 93, 67))
 		.setImage("rbxassetid://118051481446006");
 
 	/**
@@ -3247,7 +3247,7 @@ class Difficulty {
 	 * ### Nullifying (Nullifying)
 	 * - Rating: 21 (Layout: 21)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(0, 0, 103)
 	 * - Image: rbxassetid://135608473200660
 	 *
 	 * Nullifying is a Low Class 4 difficulty situated between DEATH and HELL. As a humanly impossible difficulty, it marks the beginning of the XD Chain. Beating Nullifying requires tool-assisted strategies, as even completing half a floor is nearly impossible for humans. This difficulty is a buffed version of Insane, demanding extreme precision and perseverance.
@@ -3258,14 +3258,14 @@ class Difficulty {
 		.setVisualRating("21")
 		.setLayoutRating(21)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(0, 0, 103))
 		.setImage("rbxassetid://135608473200660");
 
 	/**
 	 * ### HELL (HELL)
 	 * - Rating: 22 (Layout: 22)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(56, 96, 131)
 	 * - Image: rbxassetid://121282979756664
 	 *
 	 * HELL is a difficulty represented by a light blue color with the text "XD" on its icon. It is assigned to towers that are harder than DEATH and easier than TARTARUS. HELL is considered humanly impossible, with obstacles that are likely beyond the capabilities of even the most elite obbyists. Towers in this difficulty are designed to demotivate and hinder players, requiring extreme precision and persistence. Even with boost items or macros, beating HELL is considered an absurd challenge.
@@ -3276,7 +3276,7 @@ class Difficulty {
 		.setVisualRating("22")
 		.setLayoutRating(22)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(56, 96, 131))
 		.setImage("rbxassetid://121282979756664");
 
 	/**
@@ -3303,7 +3303,7 @@ class Difficulty {
 	 * ### TARTARUS (TARTARUS)
 	 * - Rating: 23 (Layout: 23)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(112, 128, 138)
 	 * - Image: rbxassetid://125160660673928
 	 *
 	 * TARTARUS is a difficulty assigned to towers harder than HELL but easier than Unimaginable. It is represented with a very light blue color and an XD on its icon. TARTARUS difficulty towers truly bend the limits of conceptual Roblox physics, with obstacles that are extremely esoteric and superficially impossible to understand. Even with tool-assisted speedruns, this difficulty remains impossible, filled with frame-perfect, pixel-perfect, and RNG inputs, requiring a near-perfect understanding of physics.
@@ -3314,14 +3314,14 @@ class Difficulty {
 		.setVisualRating("23")
 		.setLayoutRating(23)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(112, 128, 138))
 		.setImage("rbxassetid://125160660673928");
 
 	/**
 	 * ### CALAMITY (CALAMITY)
 	 * - Rating: 24 (Layout: 24)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(135, 135, 135)
 	 * - Image: rbxassetid://114894674178414
 	 *
 	 * CALAMITY is a Mid Class 4 Humanly Impossible difficulty that comes after TARTARUS and before Unimaginable. Obstacles here are more pixel-perfect and RNG-based than TARTARUS, but not as physics-breaking as Unimaginable. CALAMITY is near the end of the "XD" Chain, a series of increasingly difficult challenges. It is known for its tough, precise gameplay and is a significant milestone for players progressing through the hardest parts of the chart.
@@ -3332,14 +3332,14 @@ class Difficulty {
 		.setVisualRating("24")
 		.setLayoutRating(24)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(135, 135, 135))
 		.setImage("rbxassetid://114894674178414");
 
 	/**
 	 * ### Neutralize (Neutralize)
 	 * - Rating: 24.33 (Layout: 24.33)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(124, 87, 117)
 	 * - Image: rbxassetid://107505526878090
 	 *
 	 * Neutralize is a mid Class 4 humanly impossible sub-difficulty, part of the CALAMITY chain. It describes the midrange of CALAMITY, with a difficulty scale of 24.25 to 24.49. Neutralize is known for requiring a wide range of advanced skills, including wraparounds, trusses, and glitches, making it inaccessible to most players.
@@ -3352,14 +3352,14 @@ class Difficulty {
 		.setVisualRating("24.33")
 		.setLayoutRating(24.33)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(124, 87, 117))
 		.setImage("rbxassetid://107505526878090");
 
 	/**
 	 * ### Killjoying (Killjoying)
 	 * - Rating: 24.66 (Layout: 24.66)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(89, 3, 134)
 	 * - Image: rbxassetid://72175623080589
 	 *
 	 * Killjoying is a low-mid Class 5, humanly impossible difficulty in the XD chain, serving as a super-buffed variant of Unreal. It is harder than Neutralize and is the fourth hardest difficulty in the XD chain. The icon is based on the old Unreal icon, with alternative versions inspired by the new Unreal icon.
@@ -3372,7 +3372,7 @@ class Difficulty {
 		.setVisualRating("24.66")
 		.setLayoutRating(24.66)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(89, 3, 134))
 		.setImage("rbxassetid://72175623080589");
 
 	/**
@@ -3503,7 +3503,7 @@ class Difficulty {
 	 * ### Mystical (Mystical)
 	 * - Rating: 28.33 (Layout: 28.33)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(130, 93, 122)
 	 * - Image: rbxassetid://108553364192627
 	 *
 	 * Mystical is a Peak Class 4 sub-difficulty with a rating of 28.33, placing it between Aleph-Null and Immeasurable. This difficulty is in the Humanly Impossible range, meaning that any attempt at beating a tower of Mystical difficulty would likely result in failure. Obstacles include extremely challenging jumps and wraps, making it inaccessible to most players.
@@ -3516,14 +3516,14 @@ class Difficulty {
 		.setVisualRating("28.33")
 		.setLayoutRating(28.33)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(130, 93, 122))
 		.setImage("rbxassetid://108553364192627");
 
 	/**
 	 * ### Reality (Reality)
 	 * - Rating: 28.66 (Layout: 28.66)
 	 * - Class: 4
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(45, 1, 1)
 	 * - Image: rbxassetid://72042608231946
 	 *
 	 * Reality is a Class 4 difficulty designed to be a significant challenge, harder than Aleph-Null and Mystical but easier than Immeasurable. The environment is dark and foreboding, with obstacles that are extremely difficult to locate and overcome. The difficulty is meant to be a major roadblock, testing the player's ability to adapt and persevere in a harsh, unforgiving setting.
@@ -3534,7 +3534,7 @@ class Difficulty {
 		.setVisualRating("28.66")
 		.setLayoutRating(28.66)
 		.setClass(4)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(45, 1, 1))
 		.setImage("rbxassetid://72042608231946");
 
 	/**
@@ -3715,7 +3715,7 @@ class Difficulty {
 	 * ### Invigorating (Invigorating)
 	 * - Rating: 34 (Layout: 34)
 	 * - Class: 5
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(126, 0, 0)
 	 * - Image: rbxassetid://74027381360957
 	 *
 	 * Invigorating is a Class 5, humanly impossible difficulty that lies after Hellicious and before Apocalyptic. It is classified as "TAS impossible," meaning even Tool-Assisted Speedruns cannot complete it. The difficulty is known for its long, punishing obstacles that require extreme precision, timing, and luck.
@@ -3728,7 +3728,7 @@ class Difficulty {
 		.setVisualRating("34")
 		.setLayoutRating(34)
 		.setClass(5)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(126, 0, 0))
 		.setImage("rbxassetid://74027381360957");
 
 	/**
@@ -3755,7 +3755,7 @@ class Difficulty {
 	 * ### Eternal Outrage (EternalOutrage)
 	 * - Rating: 35.5 (Layout: 35.5)
 	 * - Class: 5
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(38, 16, 16)
 	 * - Image: rbxassetid://80756899275278
 	 *
 	 * Eternal Outrage is an unofficial Class 5 sub-difficulty that fits between Apocalyptic and Destructive. It is designed to grant permanent anxiety and distress, with obstacles that adapt and become harder for each new player. The main challenge comes from instant kill lava that rises faster the further you go, requiring speed and precision. Eternal Outrage is just another difficulty to overcome, but its unique AI cat and rising lava make it memorable.
@@ -3766,7 +3766,7 @@ class Difficulty {
 		.setVisualRating("35.5")
 		.setLayoutRating(35.5)
 		.setClass(5)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(38, 16, 16))
 		.setImage("rbxassetid://80756899275278");
 
 	/**
@@ -3791,7 +3791,7 @@ class Difficulty {
 	 * ### Dissonant (Dissonant)
 	 * - Rating: 37 (Layout: 37)
 	 * - Class: 5
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(191, 3, 3)
 	 * - Image: rbxassetid://128357239490049
 	 *
 	 * Dissonant is a high Class 5 difficulty that transcends Destructive and sits just below Mischievous. The obstacles in Dissonant are unfathomably hard, requiring inhuman levels of skill and precision, with severe RNG making even a single mistake costly. This difficulty is considered impossible for humans and even challenges tool-assisted runs. Beating any part of Dissonant is a remarkable achievement, as it neutralizes most external aids and demands extraordinary preparation.
@@ -3802,7 +3802,7 @@ class Difficulty {
 		.setVisualRating("37")
 		.setLayoutRating(37)
 		.setClass(5)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(191, 3, 3))
 		.setImage("rbxassetid://128357239490049");
 
 	/**
@@ -3827,7 +3827,7 @@ class Difficulty {
 	 * ### ᴇʟᴅʀɪᴛᴄʜ (LRIH)
 	 * - Rating: 39 (Layout: 39)
 	 * - Class: 5
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(93, 33, 25)
 	 * - Image: rbxassetid://77462548834145
 	 *
 	 * ᴇʟᴅʀɪᴛᴄʜ is a difficulty before Monstrous, but succeeding the difficulty Mischievous. To beat this difficulty you must need skills that no human has. You also must complete insanely difficult jumps, and tight areas that you must climb out of. The difficulty is designed to be difficult and hard to follow, as sometimes the confusing mechanics and unknown paths can make it hard to find the right thing to do. Being the last difficulty in Mid class 5 on the Main Difficulty chart, this difficulty is classic and serves a nostalgic service in the chart.
@@ -3838,14 +3838,14 @@ class Difficulty {
 		.setVisualRating("39")
 		.setLayoutRating(39)
 		.setClass(5)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(93, 33, 25))
 		.setImage("rbxassetid://77462548834145");
 
 	/**
 	 * ### Monstrous (Monstrous)
 	 * - Rating: 40 (Layout: 40)
 	 * - Class: 5
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(102, 1, 2)
 	 * - Image: rbxassetid://105168049225544
 	 *
 	 * Monstrous is a Class 5 difficulty that succeeds Malicious and is the fourth hardest difficulty of the Universal Difficulty Chart. It represents a level of challenge beyond Malicious, often labeled as "Beyond Malicious." Monstrous is known for its simple icon featuring the Greek letter Zeta and for obstacles that push the limits of what is considered possible.
@@ -3856,7 +3856,7 @@ class Difficulty {
 		.setVisualRating("40")
 		.setLayoutRating(40)
 		.setClass(5)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(102, 1, 2))
 		.setImage("rbxassetid://105168049225544");
 
 	/**
@@ -3901,7 +3901,7 @@ class Difficulty {
 	 * ### Ultimate (Ultimate)
 	 * - Rating: 41 (Layout: 41)
 	 * - Class: 5
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(105, 1, 1)
 	 * - Image: rbxassetid://70820673610511
 	 *
 	 * Ultimate is a Class 5 difficulty that succeeds Horrendous and is the third hardest difficulty of the Universal Difficulty Chart. It represents the assumed limit of difficulty, consisting of the hardest jumps believed to be possible, though not officially verifiable by humans or technology. Ultimate is the final border of what is considered possible, and any tower of this difficulty would be at the absolute peak of challenge.
@@ -3912,7 +3912,7 @@ class Difficulty {
 		.setVisualRating("41")
 		.setLayoutRating(41)
 		.setClass(5)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(105, 1, 1))
 		.setImage("rbxassetid://70820673610511");
 
 	/**
@@ -3975,7 +3975,7 @@ class Difficulty {
 	 * ### Simply Beyond (SimplyBeyond)
 	 * - Rating: 44 (Layout: 44)
 	 * - Class: 5
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(144, 4, 1)
 	 * - Image: rbxassetid://98927660064350
 	 *
 	 * Simply Beyond is a Peak Class 5 difficulty, located between Error.exe and Critical, and is one of the last humanly impossible difficulties before the physically impossible sector of the chart. At this point, obstacles start to become incoherent and usually involve strange techniques without a clear way of performing them. Making a TAS of Simply Beyond is infeasible. As a high-end humanly impossible difficulty, it approaches the border of physical possibility, Supreme.
@@ -3986,7 +3986,7 @@ class Difficulty {
 		.setVisualRating("44")
 		.setLayoutRating(44)
 		.setClass(5)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(144, 4, 1))
 		.setImage("rbxassetid://98927660064350");
 
 	/**
@@ -4049,7 +4049,7 @@ class Difficulty {
 	 * ### Fatal Error (FatalError)
 	 * - Rating: 47 (Layout: 47)
 	 * - Class: 6
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(241, 146, 146)
 	 * - Image: rbxassetid://102326241767818
 	 *
 	 * Fatal Error is a Class 6 difficulty embedded in the Road of Pseudo Difficulties chain, positioned between Winter and U DED SON. With a Main Difficulty Chart rating of 47, it is known for its extreme, TAS-impossible challenges that require exploits or external tools to complete. Created by SoaringStyle and later revamped by Bryanjr7747, Fatal Error is notorious for its unbearable difficulty, frequent buffs, and the expectation that players prepare extensively before attempting it. The difficulty is not part of any official chains or charts, standing out for its unique, punishing gameplay.
@@ -4060,7 +4060,7 @@ class Difficulty {
 		.setVisualRating("47")
 		.setLayoutRating(47)
 		.setClass(6)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(241, 146, 146))
 		.setImage("rbxassetid://102326241767818");
 
 	/**
@@ -4085,7 +4085,7 @@ class Difficulty {
 	 * ### REEE... !!! (REEE)
 	 * - Rating: 49 (Layout: 49)
 	 * - Class: 6
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(177, 190, 205)
 	 * - Image: rbxassetid://125790090814061
 	 *
 	 * REEE... !!! is a Class 6 difficulty found on the Road of Pseudo Difficulties, situated between U DED SON and Nonexistent. Towers in this difficulty are considered impossible, and players are warned of the extreme challenge and inevitable failure. The theme is chaotic, with a focus on errors and overwhelming obstacles. The difficulty is characterized by its blue and white color scheme and its reputation for being a place where only those using exploits might survive.
@@ -4096,7 +4096,7 @@ class Difficulty {
 		.setVisualRating("49")
 		.setLayoutRating(49)
 		.setClass(6)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(177, 190, 205))
 		.setImage("rbxassetid://125790090814061");
 
 	/**
@@ -4233,7 +4233,7 @@ class Difficulty {
 	 * ### QUANTUM (QUANTUM)
 	 * - Rating: 55 (Layout: 55)
 	 * - Class: 6
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(65, 253, 33)
 	 * - Image: rbxassetid://115073716814669
 	 *
 	 * Quantum is a Class 6 difficulty that comes after Oblivion and before Miracle, being slightly harder than Oblivion. It is considered the absolute border for using macros to beat a tower. To complete a Quantum difficulty tower, one would need a perfect macro, possibly running on a quantum computer, and even then, it would take weeks or months for the macro to succeed. Quantum represents a point where human skill is no longer sufficient, and even advanced automation struggles to achieve victory.
@@ -4244,7 +4244,7 @@ class Difficulty {
 		.setVisualRating("55")
 		.setLayoutRating(55)
 		.setClass(6)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(65, 253, 33))
 		.setImage("rbxassetid://115073716814669");
 
 	/**
@@ -4575,7 +4575,7 @@ class Difficulty {
 	 * ### RoorHELL (RoorHELL)
 	 * - Rating: 64.5 (Layout: 64.5)
 	 * - Class: 7
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(51, 6, 11)
 	 * - Image: rbxassetid://82998898960269
 	 *
 	 * RoorHELL is a Class 7 sub-difficulty and one of the first Physically Impossible challenges. It succeeds RoorXD and is marked by obstacles that require extreme luck and skill, far beyond human or even TAS capabilities. The difficulty is characterized by RNG jumps with very low success rates, and is generally only possible for highly skilled AI or through exploiting. RoorHELL marks the beginning of the Physically Impossible tier, pushing the boundaries of what can be achieved in obby gameplay.
@@ -4586,7 +4586,7 @@ class Difficulty {
 		.setVisualRating("64.5")
 		.setLayoutRating(64.5)
 		.setClass(7)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(51, 6, 11))
 		.setImage("rbxassetid://82998898960269");
 
 	/**
@@ -4771,7 +4771,7 @@ class Difficulty {
 	 * ### Universal Glitch (UniversalGlitch)
 	 * - Rating: 69 (Layout: 69)
 	 * - Class: 7
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(9, 52, 83)
 	 * - Image: rbxassetid://89277398215984
 	 *
 	 * Universal Glitch is a Class 7 difficulty, and is the antepenultimate difficulty of the Difficulty Chart before you reach MegaDeath, which is the terminus of the official chart if you aren't counting Sacred Cataclysmic Corrupted Demon or anything beyond that. It resides in-between the perilous Universe Disruption and the extremely demotivating difficulty Hopeless. Alternatively, it is placed in-between Illegal and either FalseGanar or FalseGanarText.
@@ -4788,7 +4788,7 @@ class Difficulty {
 		.setVisualRating("69")
 		.setLayoutRating(69)
 		.setClass(7)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(9, 52, 83))
 		.setImage("rbxassetid://89277398215984");
 
 	/**
@@ -4949,7 +4949,7 @@ class Difficulty {
 	 * ### MegaDeath (MegaDeath)
 	 * - Rating: 75 (Layout: 75)
 	 * - Class: 7
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(56, 29, 22)
 	 * - Image: rbxassetid://139570137950060
 	 *
 	 * MegaDeath is a well-known difficulty that concludes Class 7 in the Main Difficulty Chart. It is associated with obstacles impossible even with tool-assisted speedruns (TAS) due to their precise complexity and unimaginable tasks. MegaDeath represents an excruciating level of challenge, requiring inhuman skill, luck, and mental processing to overcome. It is considered the real deal—its obstacles are something to prepare for, no matter what you have already accomplished.
@@ -4960,7 +4960,7 @@ class Difficulty {
 		.setVisualRating("75")
 		.setLayoutRating(75)
 		.setClass(7)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(56, 29, 22))
 		.setImage("rbxassetid://139570137950060");
 
 	/**
@@ -5057,7 +5057,7 @@ class Difficulty {
 	 * ### Dilly Impossible (DillyImpossible)
 	 * - Rating: 79 (Layout: 79)
 	 * - Class: 8
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(107, 221, 221)
 	 * - Image: rbxassetid://7793296594
 	 *
 	 * Dilly Impossible (D.I.) is a Low Class 8 Fabled Difficulty, formerly a Legendary Difficulty. It is physically impossible for both humans and TAS, requiring exploits or physics abuse to complete. D.I. is considered 500 times harder than MegaDeath, with obstacles that reach thousands of studs in difficulty. It sits between Abyssal and Unreasonable, and is known for its extreme challenge and unique place in the difficulty chart.
@@ -5068,7 +5068,7 @@ class Difficulty {
 		.setVisualRating("79")
 		.setLayoutRating(79)
 		.setClass(8)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(107, 221, 221))
 		.setImage("rbxassetid://7793296594");
 
 	/**
@@ -5097,7 +5097,7 @@ class Difficulty {
 	 * ### Unreasonable (Unreasonable)
 	 * - Rating: 80 (Layout: 80)
 	 * - Class: 8
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(232, 16, 111)
 	 * - Image: rbxassetid://83360980738504
 	 *
 	 * You have been improving over time, but at what cost? It's not like you must conquer thousands of consequences. The entire solar system has been destroyed, the planet is slowly decaying, and it's all your fault. Give up, you're not capable for these types of stuff. It gets tougher every time you proceed, but you'll never make it to the end of the chart. You're a fool, thinking you would actually beat this hell of a difficulty chart.
@@ -5110,7 +5110,7 @@ class Difficulty {
 		.setVisualRating("80")
 		.setLayoutRating(80)
 		.setClass(8)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(232, 16, 111))
 		.setImage("rbxassetid://83360980738504");
 
 	/**
@@ -5191,7 +5191,7 @@ class Difficulty {
 	 * ### Sacrificingly Impossible (SacrificinglyImpossible)
 	 * - Rating: 83.66 (Layout: 83.66)
 	 * - Class: 8
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(72, 78, 66)
 	 * - Image: rbxassetid://127313632491425
 	 *
 	 * Sacrificingly Impossible (S.I) is a Class 8 sub-difficulty, formerly Class 11, located in the middle range of Physically Impossible challenges. It cannot be completed by humans or TAS, requiring nearly perfect precision and often exceeding the limits of the Roblox physics engine. Obstacles are harder than those in Dilly Impossible, and the difficulty sits between COMMUNISM and Satan Tartarus Lucifer Void. S.I represents a significant leap in challenge, demanding feats that are virtually unattainable.
@@ -5202,7 +5202,7 @@ class Difficulty {
 		.setVisualRating("83.66")
 		.setLayoutRating(83.66)
 		.setClass(8)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(72, 78, 66))
 		.setImage("rbxassetid://127313632491425");
 
 	/**
@@ -5387,7 +5387,7 @@ class Difficulty {
 	 * ### Limiting (Limiting)
 	 * - Rating: 89 (Layout: 89)
 	 * - Class: 8
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(81, 81, 93)
 	 * - Image: rbxassetid://118995577062078
 	 *
 	 * Limiting is a Peak Class 8, Physically Impossible difficulty, known as the penultimate challenge before entering the Realm of Theoretical Impossibility. It comes after BobuxDeath and before The Crystal Core. Limiting is extremely hard, requiring advanced techniques and a high tolerance for RNG and physically impossible gameplay.
@@ -5400,14 +5400,14 @@ class Difficulty {
 		.setVisualRating("89")
 		.setLayoutRating(89)
 		.setClass(8)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(81, 81, 93))
 		.setImage("rbxassetid://118995577062078");
 
 	/**
 	 * ### The Crystal Core (TheCrystalCore)
 	 * - Rating: 90 (Layout: 90)
 	 * - Class: 8
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(72, 71, 115)
 	 * - Image: rbxassetid://129986246593674
 	 *
 	 * The Crystal Core is a class 8 difficulty, specifically a fabled difficulty. If built, it would be impossible and would have a massive frame, as it is a former legendary difficulty. It is considered harder than MegaDeath and anything before it. The difficulty is known for its extreme challenge, and millions would fail attempting to conquer it.
@@ -5420,7 +5420,7 @@ class Difficulty {
 		.setVisualRating("90")
 		.setLayoutRating(90)
 		.setClass(8)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(72, 71, 115))
 		.setImage("rbxassetid://129986246593674");
 
 	/**
@@ -5623,7 +5623,7 @@ class Difficulty {
 	 * ### Free-smiley.de (Freesmileyde)
 	 * - Rating: 101 (Layout: 101)
 	 * - Class: 9
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(210, 196, 108)
 	 * - Image: rbxassetid://73876147543170
 	 *
 	 * free-smiley.de is a joke, physically impossible difficulty that follows Vrery hawrfd rdifficutl!! and precedes HELLWRATH. Despite its playful name, the obstacles in this difficulty are absurdly hard and often filled with "free smiley" decals, making it notorious for its chaotic and impossible gameplay. The difficulty is a reference to the now-defunct website free-smiley.de, which was known for its emoji GIFs. Players are warned not to take this difficulty lightly, as it is designed to be unreasonably challenging and is not meant to be completed.
@@ -5634,7 +5634,7 @@ class Difficulty {
 		.setVisualRating("101")
 		.setLayoutRating(101)
 		.setClass(9)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(210, 196, 108))
 		.setImage("rbxassetid://73876147543170");
 
 	/**
@@ -5677,7 +5677,7 @@ class Difficulty {
 	 * ### LOOP (LOOP)
 	 * - Rating: 103 (Layout: 103)
 	 * - Class: 9
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(114, 114, 114)
 	 * - Image: rbxassetid://97496902157109
 	 *
 	 * LOOP is a difficulty considered to be the most lengthy on the entire difficulty chart. It involves a massive, monolithic tower crossing that includes every other tower, steeple, citadel, obelisk, and even tower rush, making it much longer and more challenging than any other difficulty. Gameplay in this difficulty can take hundreds of hours, as it combines the total difficulty of all these towers into one, resulting in a Class 9 rating.
@@ -5690,14 +5690,14 @@ class Difficulty {
 		.setVisualRating("103")
 		.setLayoutRating(103)
 		.setClass(9)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(114, 114, 114))
 		.setImage("rbxassetid://97496902157109");
 
 	/**
 	 * ### Bryanjr4474 (Bryanjr4474)
 	 * - Rating: 104 (Layout: 104)
 	 * - Class: 9
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(81, 73, 69)
 	 * - Image: rbxassetid://105571651493317
 	 *
 	 * Bryanjr4474 is a Peak Class 9 difficulty named after a community member and contributor. It is a normal difficulty placed between LOOP and Eɼɼosion, with a rating of 104. The unique gimmick is that all obstacles are selected by the creator, Bryan, who acts as the boss. Obstacles can range from basic to extremely challenging, and sometimes even involve real-life tasks. The winpad is nearly impossible to find, and exploits are ineffective. This difficulty is a tribute to the creator's involvement in the community and is filled with personal touches and humor.
@@ -5708,7 +5708,7 @@ class Difficulty {
 		.setVisualRating("104")
 		.setLayoutRating(104)
 		.setClass(9)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(81, 73, 69))
 		.setImage("rbxassetid://105571651493317");
 
 	/**
@@ -6017,7 +6017,7 @@ class Difficulty {
 	 * ### Missing (Missing)
 	 * - Rating: ? (Layout: 0/0)
 	 * - Class: 10
-	 * - Color: rgb(0, 0, 0)
+	 * - Color: rgb(49, 88, 110)
 	 * - Image: rbxassetid://136863391835511
 	 *
 	 * Missing is an unknown difficulty that is missing from the chart, with no defined placement. It is not part of Class 10 or 11, nor is it the beginning or end of anything. Missing cannot be unclassified, as it has obstacles dependent on its point between other difficulties. Its nature is undefined, making it a unique and enigmatic entry in the difficulty chart.
@@ -6028,7 +6028,7 @@ class Difficulty {
 		.setVisualRating("?")
 		.setLayoutRating(0/0)
 		.setClass(10)
-		.setColor(Color3.fromRGB(0, 0, 0))
+		.setColor(Color3.fromRGB(49, 88, 110))
 		.setImage("rbxassetid://136863391835511");
 
 	/**

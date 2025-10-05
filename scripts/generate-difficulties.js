@@ -4,6 +4,7 @@ const fs = require("fs");
 const path = require("path");
 const vm = require("vm");
 const { PNG } = require("pngjs");
+const jpeg = require("jpeg-js");
 const unidecode = require("unidecode");
 
 const ROOT = path.resolve(__dirname, "..");
@@ -230,33 +231,61 @@ async function readPngAverage(file) {
 		return { colorR: 0, colorG: 0, colorB: 0 };
 	}
 
-	const buffer = await fs.promises.readFile(fullPath);
-	let png;
+	let buffer = await fs.promises.readFile(fullPath);
+	
+	let imageData;
+	
 	try {
-		png = PNG.sync.read(buffer);
+		// Detect file type by magic bytes
+		const isPng = buffer[0] === 0x89 && buffer[1] === 0x50 && buffer[2] === 0x4E && buffer[3] === 0x47;
+		const isJpeg = buffer[0] === 0xFF && buffer[1] === 0xD8;
+		
+		if (isPng) {
+			// Strip any data after the IEND chunk to fix "unrecognised content at end of stream" errors
+			// PNG IEND chunk structure: [length: 4 bytes][type: "IEND"][CRC: 4 bytes]
+			for (let i = 0; i < buffer.length - 12; i++) {
+				// Check if we found an IEND chunk (4 zero bytes for length, then "IEND")
+				if (buffer[i] === 0x00 && buffer[i+1] === 0x00 && buffer[i+2] === 0x00 && buffer[i+3] === 0x00 &&
+				    buffer[i+4] === 0x49 && buffer[i+5] === 0x45 && buffer[i+6] === 0x4E && buffer[i+7] === 0x44) {
+					// IEND found at position i, include the 4-byte CRC after the chunk type
+					buffer = buffer.slice(0, i + 12); // 4 (length) + 4 (IEND) + 4 (CRC)
+					break;
+				}
+			}
+			
+			const png = PNG.sync.read(buffer, { checkCRC: false });
+			imageData = png.data;
+		} else if (isJpeg) {
+			const jpegData = jpeg.decode(buffer);
+			imageData = jpegData.data;
+		} else {
+			console.warn(`Unknown image format for ${file}`);
+			const fallback = { colorR: 0, colorG: 0, colorB: 0 };
+			colorCache.set(file, fallback);
+			return fallback;
+		}
 	} catch (error) {
 		console.warn(`Failed to process image ${file}: ${error.message}`);
 		const fallback = { colorR: 0, colorG: 0, colorB: 0 };
 		colorCache.set(file, fallback);
 		return fallback;
 	}
-	const { data } = png;
 
 	let totalWeight = 0;
 	let sumR = 0;
 	let sumG = 0;
 	let sumB = 0;
 
-	for (let i = 0; i < data.length; i += 4) {
-		const alpha = data[i + 3] / 255;
+	for (let i = 0; i < imageData.length; i += 4) {
+		const alpha = imageData[i + 3] / 255;
 		if (alpha === 0) {
 			continue;
 		}
 
 		totalWeight += alpha;
-		sumR += data[i] * alpha;
-		sumG += data[i + 1] * alpha;
-		sumB += data[i + 2] * alpha;
+		sumR += imageData[i] * alpha;
+		sumG += imageData[i + 1] * alpha;
+		sumB += imageData[i + 2] * alpha;
 	}
 
 	const color =

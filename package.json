@@ -11,7 +11,7 @@
 		"asset-sync": "npx rbxtsas --path=difficulties/image --output=difficulties/assetMap.ts",
 		"generate:difficulties": "node scripts/generate-difficulties.js",
 		"generate:index": "node scripts/generate-index-difficulties.js",
-        "prepare": "npm run build && npm run docs",
+		"prepare": "npm run build && npm run docs",
 		"postpublish": "wally publish"
 	},
 	"repository": {
@@ -36,6 +36,7 @@
 		"@typescript-eslint/parser": "^8.41.0",
 		"eslint": "^9.34.0",
 		"eslint-plugin-roblox-ts": "^1.1.0",
+		"jpeg-js": "^0.4.4",
 		"pngjs": "^6.0.0",
 		"rbx-lune": "^1.0.0",
 		"rbxts-asset-sync": "^0.3.2",
