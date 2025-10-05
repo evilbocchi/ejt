@@ -6,7 +6,7 @@
   "scripts": {
     "build": "rbxtsc",
     "watch": "rbxtsc -w",
-    "asset-sync": "npx rbxtsas --path=difficulties/image --output=src/assetMap.ts",
+    "asset-sync": "npx rbxtsas --path=difficulties/image --output=assetMap.ts",
     "generate:difficulties": "node scripts/generate-difficulties.js",
     "pub": "npm run build & npm publish & wally publish"
   },

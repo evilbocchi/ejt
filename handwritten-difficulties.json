@@ -1,0 +1,878 @@
+[
+  {
+    "propertyName": "Bonuses",
+    "name": "Bonuses",
+    "color": {
+      "r": 255,
+      "g": 252,
+      "b": 89
+    },
+    "layoutRating": -10000014,
+    "class": -3,
+    "image": null
+  },
+  {
+    "propertyName": "Excavation",
+    "name": "Materials",
+    "color": {
+      "r": 110,
+      "g": 166,
+      "b": 255
+    },
+    "layoutRating": -10000013,
+    "class": -3,
+    "image": "assets/Construct.png"
+  },
+  {
+    "propertyName": "Miscellaneous",
+    "name": "Miscellaneous",
+    "color": {
+      "r": 255,
+      "g": 110,
+      "b": 110
+    },
+    "layoutRating": -10000012,
+    "class": -3,
+    "image": "assets/Miscellaneous.png"
+  },
+  {
+    "propertyName": "TheFirstDifficulty",
+    "name": "The First Difficulty",
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "layoutRating": -10000010,
+    "class": -2,
+    "image": "assets/The First Difficulty.png"
+  },
+  {
+    "propertyName": "TheLowerGap",
+    "name": "The Lower Gap",
+    "color": {
+      "r": 0,
+      "g": 79,
+      "b": 0
+    },
+    "layoutRating": -10000009,
+    "class": -2,
+    "image": "assets/The Lower Gap.png"
+  },
+  {
+    "propertyName": "Negativity",
+    "name": "Negativity",
+    "color": {
+      "r": 146,
+      "g": 36,
+      "b": 143
+    },
+    "layoutRating": -10000008,
+    "class": -2,
+    "image": "assets/Negativity.png"
+  },
+  {
+    "propertyName": "Unimpossible",
+    "name": "Unimpossible",
+    "color": {
+      "r": 192,
+      "g": 0,
+      "b": 255
+    },
+    "layoutRating": -10000007,
+    "class": -2,
+    "image": "assets/Unimpossible.png"
+  },
+  {
+    "propertyName": "Friendliness",
+    "name": "Friendliness",
+    "color": {
+      "r": 130,
+      "g": 253,
+      "b": 0
+    },
+    "layoutRating": -10000006,
+    "class": -2,
+    "image": "assets/Friendliness.png"
+  },
+  {
+    "propertyName": "TrueEase",
+    "name": "True Ease",
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "layoutRating": -10000005,
+    "class": -1,
+    "image": "assets/True Ease.png"
+  },
+  {
+    "propertyName": "A",
+    "name": "A",
+    "color": {
+      "r": 235,
+      "g": 26,
+      "b": 36
+    },
+    "layoutRating": -10000004,
+    "class": -1,
+    "image": "assets/A.png"
+  },
+  {
+    "propertyName": "FelixTheA",
+    "name": "Felix the ДА",
+    "color": {
+      "r": 77,
+      "g": 255,
+      "b": 0
+    },
+    "layoutRating": -10000003,
+    "class": -1,
+    "image": "assets/Felix the ДА.png"
+  },
+  {
+    "propertyName": "Exist",
+    "name": "Exist",
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "layoutRating": -10000002,
+    "class": -1,
+    "image": "assets/Exist.png"
+  },
+  {
+    "propertyName": "ReversedPeripherality",
+    "name": "Reversed Peripherality",
+    "color": {
+      "r": 127,
+      "g": 95,
+      "b": 140
+    },
+    "layoutRating": -10000001,
+    "class": -1,
+    "image": "assets/Reversed Peripherality.png"
+  },
+  {
+    "propertyName": "Relax",
+    "name": "Relax",
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "layoutRating": -1000000,
+    "class": -1,
+    "image": "assets/Relax.png"
+  },
+  {
+    "propertyName": "Skip",
+    "name": "Skip",
+    "color": {
+      "r": 255,
+      "g": 172,
+      "b": 101
+    },
+    "layoutRating": -1000,
+    "class": -1,
+    "image": "assets/Skip.png"
+  },
+  {
+    "propertyName": "Restful",
+    "name": "Restful",
+    "color": {
+      "r": 4,
+      "g": 61,
+      "b": 1
+    },
+    "layoutRating": -50,
+    "class": -1,
+    "image": "assets/Restful.png"
+  },
+  {
+    "propertyName": "Ifinity",
+    "name": "Ifinity",
+    "color": {
+      "r": 35,
+      "g": 7,
+      "b": 51
+    },
+    "layoutRating": -40,
+    "class": -1,
+    "image": "assets/Ifinity.png"
+  },
+  {
+    "propertyName": "InstantWin",
+    "name": "Instant Win",
+    "color": {
+      "r": 0,
+      "g": 46,
+      "b": 255
+    },
+    "layoutRating": -31,
+    "class": -1,
+    "image": "assets/Instant Win.png"
+  },
+  {
+    "propertyName": "Millisecondless",
+    "name": "Millisecondless",
+    "color": {
+      "r": 244,
+      "g": 112,
+      "b": 254
+    },
+    "layoutRating": -30,
+    "class": 0,
+    "image": "assets/Millisecondless.png"
+  },
+  {
+    "propertyName": "Astronomical",
+    "name": "Astronomical",
+    "color": {
+      "r": 21,
+      "g": 0,
+      "b": 186
+    },
+    "layoutRating": -29.5,
+    "class": 0,
+    "image": "assets/Astronomical.png"
+  },
+  {
+    "propertyName": "Win",
+    "name": "Win",
+    "color": {
+      "r": 39,
+      "g": 119,
+      "b": 232
+    },
+    "layoutRating": -29,
+    "class": 0,
+    "image": "assets/Win.png"
+  },
+  {
+    "propertyName": "Winsome",
+    "name": "Winsome",
+    "color": {
+      "r": 106,
+      "g": 205,
+      "b": 255
+    },
+    "layoutRating": -28,
+    "class": 0,
+    "image": "assets/Winsome.png"
+  },
+  {
+    "propertyName": "DoNothing",
+    "name": "Do Nothing",
+    "color": {
+      "r": 153,
+      "g": 209,
+      "b": 229
+    },
+    "layoutRating": -27,
+    "class": 0,
+    "image": "assets/Do Nothing.png"
+  },
+  {
+    "propertyName": "Sleepful",
+    "name": "Sleepful",
+    "color": {
+      "r": 52,
+      "g": 155,
+      "b": 255
+    },
+    "layoutRating": -26.5,
+    "class": 0,
+    "image": "assets/Sleepful.png"
+  },
+  {
+    "propertyName": "Blessing",
+    "name": "Blessing",
+    "color": {
+      "r": 114,
+      "g": 224,
+      "b": 178
+    },
+    "layoutRating": -26,
+    "class": 0,
+    "image": "assets/Blessing.png"
+  },
+  {
+    "propertyName": "Vintage",
+    "name": "Vintage",
+    "color": {
+      "r": 217,
+      "g": 120,
+      "b": 255
+    },
+    "layoutRating": -25,
+    "class": 0,
+    "image": "assets/Vintage.png"
+  },
+  {
+    "propertyName": "Ifinitude",
+    "name": "Ifinitude",
+    "color": {
+      "r": 43,
+      "g": 43,
+      "b": 43
+    },
+    "layoutRating": -24.5,
+    "class": 0,
+    "image": "assets/Ifinitude.png"
+  },
+  {
+    "propertyName": "JustAir",
+    "name": "Just Air",
+    "color": {
+      "r": 64,
+      "g": 115,
+      "b": 255
+    },
+    "layoutRating": -24,
+    "class": 0,
+    "image": "assets/Just Air.png"
+  },
+  {
+    "propertyName": "Happylike",
+    "name": "Happylike",
+    "color": {
+      "r": 59,
+      "g": 59,
+      "b": 59
+    },
+    "layoutRating": -23,
+    "class": 0,
+    "image": "assets/Happylike.png"
+  },
+  {
+    "propertyName": "Locomotion",
+    "name": "Locomotion",
+    "color": {
+      "r": 255,
+      "g": 97,
+      "b": 97
+    },
+    "layoutRating": -22,
+    "class": 0,
+    "image": "assets/Locomotion.png"
+  },
+  {
+    "propertyName": "Walkthrough",
+    "name": "Walkthrough",
+    "color": {
+      "r": 107,
+      "g": 196,
+      "b": 255
+    },
+    "layoutRating": -21,
+    "class": 0,
+    "image": "assets/Walkthrough.png"
+  },
+  {
+    "propertyName": "AutomaticJoyful",
+    "name": "Automatic Joyful",
+    "color": {
+      "r": 171,
+      "g": 255,
+      "b": 77
+    },
+    "layoutRating": -20,
+    "class": 0,
+    "image": "assets/Automatic Joyful.png"
+  },
+  {
+    "propertyName": "Unlosable",
+    "name": "Unlosable",
+    "color": {
+      "r": 255,
+      "g": 143,
+      "b": 255
+    },
+    "layoutRating": -19,
+    "class": 0,
+    "image": "assets/Unlosable.png"
+  },
+  {
+    "propertyName": "ShatteredBabass",
+    "name": "Shattered Babass",
+    "color": {
+      "r": 147,
+      "g": 27,
+      "b": 220
+    },
+    "layoutRating": -18.5,
+    "class": 0,
+    "image": "assets/Shattered Babass.png"
+  },
+  {
+    "propertyName": "Frivolous",
+    "name": "Frivolous",
+    "color": {
+      "r": 107,
+      "g": 196,
+      "b": 219
+    },
+    "layoutRating": -18,
+    "class": 0,
+    "image": "assets/Frivolous.png"
+  },
+  {
+    "propertyName": "Vibeness",
+    "name": "Vibeness",
+    "color": {
+      "r": 255,
+      "g": 69,
+      "b": 156
+    },
+    "layoutRating": -17.5,
+    "class": 0,
+    "image": "assets/Vibeness.png"
+  },
+  {
+    "propertyName": "Automatic",
+    "name": "Automatic",
+    "color": {
+      "r": 214,
+      "g": 255,
+      "b": 186
+    },
+    "layoutRating": -17,
+    "class": 0,
+    "image": "assets/Automatic.png"
+  },
+  {
+    "propertyName": "Spontaneous",
+    "name": "Spontaneous",
+    "color": {
+      "r": 117,
+      "g": 255,
+      "b": 28
+    },
+    "layoutRating": -16,
+    "class": 0,
+    "image": "assets/Spontaneous.png"
+  },
+  {
+    "propertyName": "Joyful",
+    "name": "Joyful",
+    "color": {
+      "r": 206,
+      "g": 250,
+      "b": 0
+    },
+    "layoutRating": -15,
+    "class": 1,
+    "image": null
+  },
+  {
+    "propertyName": "DoSomething",
+    "name": "Do Something",
+    "color": {
+      "r": 0,
+      "g": 153,
+      "b": 255
+    },
+    "layoutRating": -14.5,
+    "class": 1,
+    "image": "assets/Do Something.png"
+  },
+  {
+    "propertyName": "Placid",
+    "name": "Placid",
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "layoutRating": -14,
+    "class": 1,
+    "image": "assets/Placid.png"
+  },
+  {
+    "propertyName": "PressAKey",
+    "name": "Press A Key",
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "layoutRating": -13,
+    "class": 1,
+    "image": "assets/Press a Key.png"
+  },
+  {
+    "propertyName": "TapToMove",
+    "name": "Tap to Move",
+    "color": {
+      "r": 41,
+      "g": 41,
+      "b": 41
+    },
+    "layoutRating": -12.66,
+    "class": 1,
+    "image": "assets/Tap to Move.png"
+  },
+  {
+    "propertyName": "WalkASlope",
+    "name": "Walk A Slope",
+    "color": {
+      "r": 112,
+      "g": 112,
+      "b": 112
+    },
+    "layoutRating": -12.33,
+    "class": 1,
+    "image": "assets/Walk A Slope.png"
+  },
+  {
+    "propertyName": "ClimbATruss",
+    "name": "Climb A Truss",
+    "color": {
+      "r": 134,
+      "g": 133,
+      "b": 133
+    },
+    "layoutRating": -12,
+    "class": 1,
+    "image": "assets/Climb A Truss.png"
+  },
+  {
+    "propertyName": "Tranquil",
+    "name": "Tranquil",
+    "color": {
+      "r": 0,
+      "g": 141,
+      "b": 255
+    },
+    "layoutRating": -11.5,
+    "class": 1,
+    "image": "assets/Tranquil.png"
+  },
+  {
+    "propertyName": "Jumpless",
+    "name": "Jumpless",
+    "color": {
+      "r": 201,
+      "g": 192,
+      "b": 231
+    },
+    "layoutRating": -11,
+    "class": 1,
+    "image": null
+  },
+  {
+    "propertyName": "Starter",
+    "name": "Starter",
+    "color": {
+      "r": 0,
+      "g": 168,
+      "b": 243
+    },
+    "layoutRating": -10,
+    "class": 1,
+    "image": "assets/Starter.png"
+  },
+  {
+    "propertyName": "Cakewalk",
+    "name": "Cakewalk",
+    "color": {
+      "r": 66,
+      "g": 165,
+      "b": 245
+    },
+    "layoutRating": -9.5,
+    "class": 1,
+    "image": "assets/Cakewalk.png"
+  },
+  {
+    "propertyName": "Sweet",
+    "name": "Sweet",
+    "color": {
+      "r": 255,
+      "g": 253,
+      "b": 150
+    },
+    "layoutRating": -9,
+    "class": 1,
+    "image": "assets/Sweet.png"
+  },
+  {
+    "propertyName": "Sugary",
+    "name": "Sugary",
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0
+    },
+    "layoutRating": -8.66,
+    "class": 1,
+    "image": "assets/Sugary.png"
+  },
+  {
+    "propertyName": "Aesthetic",
+    "name": "Aesthetic",
+    "color": {
+      "r": 118,
+      "g": 244,
+      "b": 71
+    },
+    "layoutRating": -8.33,
+    "class": 1,
+    "image": "assets/Aesthetic.png"
+  },
+  {
+    "propertyName": "Lovely",
+    "name": "Lovely",
+    "color": {
+      "r": 221,
+      "g": 251,
+      "b": 221
+    },
+    "layoutRating": -8,
+    "class": 1,
+    "image": "assets/Lovely.png"
+  },
+  {
+    "propertyName": "Glee",
+    "name": "Glee",
+    "color": {
+      "r": 248,
+      "g": 218,
+      "b": 219
+    },
+    "layoutRating": -7.5,
+    "class": 1,
+    "image": "assets/Glee.png"
+  },
+  {
+    "propertyName": "Flowerness",
+    "name": "Flowerness",
+    "color": {
+      "r": 157,
+      "g": 149,
+      "b": 254
+    },
+    "layoutRating": -7,
+    "class": 1,
+    "image": "assets/Flowerness.png"
+  },
+  {
+    "propertyName": "Coasterifying",
+    "name": "Coasterifying",
+    "color": {
+      "r": 0,
+      "g": 115,
+      "b": 255
+    },
+    "layoutRating": -6.66,
+    "class": 1,
+    "image": "assets/Coasterifying.png"
+  },
+  {
+    "propertyName": "ADifficultyNamedDifficulty",
+    "name": "A Difficulty Named Difficulty",
+    "color": {
+      "r": 247,
+      "g": 51,
+      "b": 83
+    },
+    "layoutRating": -6.33,
+    "class": 1,
+    "image": "assets/A Difficulty Named Difficulty.png"
+  },
+  {
+    "propertyName": "Pleasant",
+    "name": "Pleasant",
+    "color": {
+      "r": 161,
+      "g": 220,
+      "b": 255
+    },
+    "layoutRating": -6,
+    "class": 1,
+    "image": "assets/Pleasant.png"
+  },
+  {
+    "propertyName": "PieceOCake",
+    "name": "Piece o' Cake",
+    "color": {
+      "r": 254,
+      "g": 149,
+      "b": 253
+    },
+    "layoutRating": -5.5,
+    "class": 1,
+    "image": "assets/Piece o&#39; Cake.png"
+  },
+  {
+    "propertyName": "Tutorial",
+    "name": "Tutorial",
+    "color": {
+      "r": 24,
+      "g": 83,
+      "b": 17
+    },
+    "layoutRating": -5,
+    "class": 1,
+    "image": "assets/Tutorial.png"
+  },
+  {
+    "propertyName": "HellishEncore",
+    "name": "Hellish Encore",
+    "color": {
+      "r": 170,
+      "g": 5,
+      "b": 8
+    },
+    "layoutRating": -4.66,
+    "class": 1,
+    "image": "assets/Hellish Encore.png"
+  },
+  {
+    "propertyName": "Delightful",
+    "name": "Delightful",
+    "color": {
+      "r": 236,
+      "g": 218,
+      "b": 140
+    },
+    "layoutRating": -4.33,
+    "class": 1,
+    "image": "assets/Delightful.png"
+  },
+  {
+    "propertyName": "TooEasy",
+    "name": "TooEasy",
+    "color": {
+      "r": 14,
+      "g": 88,
+      "b": 1
+    },
+    "layoutRating": -4,
+    "class": 1,
+    "image": "assets/TooEasy.png"
+  },
+  {
+    "propertyName": "Peaceful",
+    "name": "Peaceful",
+    "color": {
+      "r": 199,
+      "g": 176,
+      "b": 218
+    },
+    "layoutRating": -3,
+    "class": 1,
+    "image": "assets/Peaceful.png"
+  },
+  {
+    "propertyName": "Playful",
+    "name": "Playful",
+    "color": {
+      "r": 163,
+      "g": 255,
+      "b": 80
+    },
+    "layoutRating": -2.5,
+    "class": 1,
+    "image": "assets/Playful.png"
+  },
+  {
+    "propertyName": "Magnificent",
+    "name": "Magnificent",
+    "color": {
+      "r": 145,
+      "g": 206,
+      "b": 255
+    },
+    "layoutRating": -2,
+    "class": 1,
+    "image": "assets/Magnificent.png"
+  },
+  {
+    "propertyName": "Facile",
+    "name": "Facile",
+    "color": {
+      "r": 87,
+      "g": 215,
+      "b": 254
+    },
+    "layoutRating": -1.5,
+    "class": 1,
+    "image": "assets/Facile.png"
+  },
+  {
+    "propertyName": "Effortlessless",
+    "name": "Effortlessless",
+    "color": {
+      "r": 153,
+      "g": 217,
+      "b": 234
+    },
+    "layoutRating": -1,
+    "class": 1,
+    "image": null
+  },
+  {
+    "propertyName": "Gravel",
+    "name": "Gravel",
+    "color": {
+      "r": 154,
+      "g": 246,
+      "b": 209
+    },
+    "layoutRating": -0.5,
+    "class": 1,
+    "image": null
+  },
+  {
+    "propertyName": "Effortless",
+    "name": "Effortless",
+    "color": {
+      "r": 0,
+      "g": 206,
+      "b": 0
+    },
+    "layoutRating": 0,
+    "class": 2,
+    "image": null
+  },
+  {
+    "propertyName": "Playground",
+    "name": "Playground",
+    "color": {
+      "r": 0,
+      "g": 206,
+      "b": 100
+    },
+    "layoutRating": 0.33,
+    "class": 2,
+    "image": null
+  },
+  {
+    "propertyName": "Simple",
+    "name": "Simple",
+    "color": {
+      "r": 76,
+      "g": 176,
+      "b": 81
+    },
+    "layoutRating": 0.66,
+    "class": 2,
+    "image": "assets/Simple.png"
+  },
+  {
+    "propertyName": "Easy",
+    "name": "Easy",
+    "color": {
+      "r": 118,
+      "g": 244,
+      "b": 71
+    },
+    "layoutRating": 1,
+    "class": 2,
+    "image": null
+  }
+]
