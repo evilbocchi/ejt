@@ -3,7 +3,7 @@
 /include
 *.tsbuildinfo
 /images
-/pages
+/docs
 *.env
 difficulties.html
 __pycache__

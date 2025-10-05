@@ -2,19 +2,21 @@
 	"name": "@rbxts/ejt",
 	"version": "2.0.0",
 	"description": "A library for interacting with difficulties in the EToH Joke Towers wiki.",
-	"main": "out/init.lua",
+	"main": "out/init.luau",
 	"scripts": {
 		"build": "npm run generate:difficulties & npm run generate:index & rbxtsc",
 		"watch": "rbxtsc -w",
-        "test": "npx lune run test.luau",
+		"test": "npx lune run test.luau",
+		"docs": "npx typedoc",
 		"asset-sync": "npx rbxtsas --path=difficulties/image --output=difficulties/assetMap.ts",
 		"generate:difficulties": "node scripts/generate-difficulties.js",
 		"generate:index": "node scripts/generate-index-difficulties.js",
-		"pub": "npm run build & npm publish & wally publish"
+        "prepare": "npm run build && npm run docs",
+		"postpublish": "wally publish"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/evilbocchi/jjt-difficulties.git"
+		"url": "git+https://github.com/evilbocchi/ejt.git"
 	},
 	"keywords": [],
 	"author": "",
@@ -38,6 +40,10 @@
 		"rbx-lune": "^1.0.0",
 		"rbxts-asset-sync": "^0.3.2",
 		"roblox-ts": "^3.0.0",
+		"typedoc": "^0.28.13",
+		"typedoc-material-theme": "^1.4.0",
+		"typedoc-plugin-extras": "^4.0.1",
+		"typedoc-plugin-rename-defaults": "^0.7.3",
 		"typescript": "^5.5.3",
 		"unidecode": "^0.1.8"
 	}

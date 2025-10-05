@@ -1,0 +1,27 @@
+{
+    "plugin": [
+        "typedoc-material-theme",
+        "typedoc-plugin-extras",
+        "typedoc-plugin-rename-defaults"
+    ],
+    "themeColor": "#E8DDE1",
+    "projectDocuments": [
+        "documents/*.md"
+    ],
+    "highlightLanguages": [
+        "lua",
+        "typescript",
+        "json",
+        "bash"
+    ],
+    "favicon": "favicon.png",
+    "name": "@rbxts/ejt",
+    "entryPoints": [
+        "src/index.ts"
+    ],
+    "entryPointStrategy": "expand",
+    "excludeExternals": true,
+    "skipErrorChecking": true,
+    "customTitle": "EJT API Reference",
+    "customDescription": "A library for interacting with difficulties in the EToH Joke Towers wiki."
+}

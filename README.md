@@ -1,46 +1,24 @@
-# @antivivi/jjt-difficulties
+<center>
+    <img src="favicon.png" alt="Logo" width="256" height="256" />
+</center>
 
-A library for managing and interacting with a collection of custom difficulties for a game or application. This package provides a structured way to define, organize, and retrieve difficulty levels, complete with metadata such as names, images, colors, and ratings.
+# EToH Joke Towers
+
+An API for managing and interacting with the [EToH Joke Towers](https://jtohs-joke-towers.fandom.com/wiki/Eternal_Joke_Towers_(EJT)_Wiki) Difficulty Chart. This package provides a structured way to define, organize, and retrieve difficulty levels, complete with metadata such as names, images, colors, and ratings.
 
 ## Installation
 
 Install the package via npm:
 
 ```bash
-npm install @antivivi/jjt-difficulties
-```
-
-Do ensure to properly configure the @antivivi organization.
-
-1. Rojo project configuration should include @antivivi in rbxts_include:
-```json
-"rbxts_include": {
-    "$path": "include",
-    "node_modules": {
-        "$className": "Folder",
-        "@rbxts": {
-            "$path": "node_modules/@rbxts"
-        },
-        "@antivivi": {
-            "$path": "node_modules/@antivivi"
-        }
-    }
-}
-```
-
-2. tsconfig.json should include @antivivi in typeRoots.
-```json
-"typeRoots": [
-    "node_modules/@rbxts",
-    "node_modules/@antivivi"
-]
+npm install @rbxts/ejt
 ```
 
 ## Usage
 
 ### Importing the Library
 ```ts
-import Difficulty from "@antivivi/jjt-difficulties";
+import Difficulty from "@rbxts/ejt";
 ```
 
 ### Accessing Predefined Difficulties
@@ -49,7 +27,7 @@ You can access predefined difficulties directly as static properties of the Diff
 ```ts
 const firstDifficulty = Difficulty.TheFirstDifficulty;
 console.log(firstDifficulty.name); // "The First Difficulty"
-console.log(firstDifficulty.rating); // -10000010
+console.log(firstDifficulty.layoutRating); // -10000010
 ```
 
 ### Retrieving Difficulties by ID
@@ -87,8 +65,8 @@ Difficulty.set(id, customDifficulty);
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/evilbocchi/jjt-difficulties.git
-cd jjt-difficulties
+git clone https://github.com/evilbocchi/ejt.git
+cd ejt
 ```
 
 2. Install dependencies
@@ -111,4 +89,4 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the ISC License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
