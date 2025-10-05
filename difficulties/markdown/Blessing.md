@@ -1,0 +1,3 @@
+# Blessing
+
+Blessing is a Class 0 difficulty where the main focus is on having fun and enjoying an easy experience. It sits between Do Nothing and Vintage in the chart. The obstacles in Blessing are painless and include things like elevators, conveyors, and jump pads. The difficulty is longer and slightly harder than Do Nothing, but still very easy overall. Blessing is designed to be a pleasant, stress-free introduction to the game, perfect for new players or those looking for a relaxing time.

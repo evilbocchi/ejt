@@ -1,0 +1,1 @@
+Missing is an unknown difficulty that is missing from the chart, with no defined placement. It is not part of Class 10 or 11, nor is it the beginning or end of anything. Missing cannot be unclassified, as it has obstacles dependent on its point between other difficulties. Its nature is undefined, making it a unique and enigmatic entry in the difficulty chart.

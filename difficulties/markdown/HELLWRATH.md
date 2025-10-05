@@ -1,0 +1,3 @@
+# HELLWRATH
+
+HELLWRATH is a Class 9 difficulty that comes after Free-smiley.de and before LOOP. It is known for its extreme, computer-breaking obstacles and is considered physically impossible. HELLWRATH requires not only godlike obby skills but also exploiting and mechanical skills, with obstacles that are intentionally unbuildable and designed to overwhelm both the player and their device. The winpad is nearly impossible to find, and the difficulty is infamous for its "virus" and error-themed challenges. HELLWRATH is a true test of endurance and is not meant to be completed by normal means.

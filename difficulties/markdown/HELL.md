@@ -1,0 +1,3 @@
+# HELL
+
+HELL is a difficulty represented by a light blue color with the text "XD" on its icon. It is assigned to towers that are harder than DEATH and easier than TARTARUS. HELL is considered humanly impossible, with obstacles that are likely beyond the capabilities of even the most elite obbyists. Towers in this difficulty are designed to demotivate and hinder players, requiring extreme precision and persistence. Even with boost items or macros, beating HELL is considered an absurd challenge.

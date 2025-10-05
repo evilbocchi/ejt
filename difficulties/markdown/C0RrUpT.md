@@ -1,0 +1,3 @@
+# C0RrUpT
+
+C0RrUpT is a Class 2 sub-difficulty that sits between Remorseless and Relentless. It features obstacles that are tougher than Remorseless, with more mechanics and complexity, often seen in higher-level difficulties. C0RrUpT is a significant step up in challenge and is recommended for players with experience and skill. The difficulty is characterized by challenging wraparounds, jumps, and the use of glitches, making it a tough but possible challenge for advanced players.

@@ -1,0 +1,3 @@
+# Eternal Outrage
+
+Eternal Outrage is an unofficial Class 5 sub-difficulty that fits between Apocalyptic and Destructive. It is designed to grant permanent anxiety and distress, with obstacles that adapt and become harder for each new player. The main challenge comes from instant kill lava that rises faster the further you go, requiring speed and precision. Eternal Outrage is just another difficulty to overcome, but its unique AI cat and rising lava make it memorable.

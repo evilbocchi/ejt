@@ -1,0 +1,3 @@
+# Bryanjr4474
+
+Bryanjr4474 is a Peak Class 9 difficulty named after a community member and contributor. It is a normal difficulty placed between LOOP and Eɼɼosion, with a rating of 104. The unique gimmick is that all obstacles are selected by the creator, Bryan, who acts as the boss. Obstacles can range from basic to extremely challenging, and sometimes even involve real-life tasks. The winpad is nearly impossible to find, and exploits are ineffective. This difficulty is a tribute to the creator's involvement in the community and is filled with personal touches and humor.

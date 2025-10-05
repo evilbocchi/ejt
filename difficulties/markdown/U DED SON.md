@@ -1,0 +1,3 @@
+# U DED SON
+
+U DED SON is a Class 6 difficulty that comes before REEE... !!! and after Fatal Error. The main colors for this difficulty are pink, purple, and peach. It acts as the last barrier before the Low spectrum of Class 6 and is considered impossible, requiring unimaginable glitches and infeasible strategies to beat. Only the most dedicated and skilled players would even attempt it, but it is beyond human capability.

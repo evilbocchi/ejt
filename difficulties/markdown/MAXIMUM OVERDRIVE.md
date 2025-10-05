@@ -1,0 +1,3 @@
+# MAXIMUM OVERDRIVE
+
+Maximum Overdrive is a difficulty reserved for towers with obstacles that require even more broken physics than Why difficulty. It represents the absolute limit of what humans are capable of doing in terms of difficulty. The origin of this difficulty traces back to an unknown player from Sandbox (2) in 2018, where it was originally called "Borderline Impossible/True Borderline Impossible" before being renamed. A single jump at this level is already more difficult than the entirety of the Tower of Spiralling Fates. The range of this difficulty spans from High Why to Low No.

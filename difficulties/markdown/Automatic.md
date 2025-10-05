@@ -1,0 +1,3 @@
+# Automatic
+
+Automatic is a very easy and, as the name suggests, "automatic" difficulty where you don't need to do anything to win. Just sit back and watch your character get pushed to the winpad or teleporter by automated obstacles like conveyors and client objects. It's considered a very boring experience, but also a great place for beginners since it requires no input. Automatic is placed between Unlosable and Joyful in the difficulty chart. The main point of this difficulty is that you gain almost no enjoyment or challenge—it's essentially a waiting simulator. Most players are encouraged to skip to higher difficulties like Effortless for a more engaging experience.

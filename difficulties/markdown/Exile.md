@@ -1,0 +1,3 @@
+# Exile
+
+Exile, formerly known as Hellicious, is a Humanly Impossible difficulty that succeeds Does Not Compute and precedes Invigorating. It is the last Baseline Class 5 difficulty and is known for its punishing obstacles and unforgiving nature. Towers in this difficulty are extremely challenging, and the boss only reinforces this. Exile is notable for its 18-floor citadel and its place as the 100th difficulty in the main chart (before chart changes).

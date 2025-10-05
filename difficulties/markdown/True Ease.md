@@ -1,0 +1,3 @@
+# True Ease
+
+True Ease is a Class Negative difficulty, considered the complete opposite of ABSOLUTE INFINITY. It is one of the easiest difficulties ever conceived—if anything exists in any universe, omniverse, or dimension, everything wins. Even if nothing exists, everything wins. No matter the state of existence, victory is guaranteed. Any tower of this difficulty is unbuildable, and the concept is purely fictional.

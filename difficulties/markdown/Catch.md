@@ -1,0 +1,3 @@
+# Catch
+
+Catch is a Class 10 difficulty, positioned between TooAbnormal and Exploitist Elite. Created as a collaboration, it is classified as humanly, physically, and TAS impossible. The main twist is that while the obstacles themselves may not seem too hard, each one comes with a "catch"—special conditions or debuffs that make the challenge exponentially harder. These catches can include things like blindness, mirrored controls, or extreme lag, making Catch a uniquely punishing experience.

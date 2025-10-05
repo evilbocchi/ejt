@@ -1,0 +1,3 @@
+# Enigmatic
+
+Enigmatic is a normal difficulty which was transferred from the JCC Wiki to the JJT Wiki. Unlike the original, which is in Low Rank 3, this difficulty is the midpoint of Class 9, being in the mid spectrum of the class. However, it used to be in Peripheral Class 15. It is currently a successor to Omniscient, and a predecessor to Vrery hawrfd rdifficutl!!. The ludicrous sizes of these obstacles nullify all uses of boost items, even blessed coil. You will never be able to beat this difficulty, or create towers in this difficulty, due to how high up this difficulty is.

@@ -1,0 +1,3 @@
+# Under Construction
+
+Under Construction (or UC) is a Class 5 Sub-Difficulty between Building and Does Not Compute. You can try to beat any tower in this difficulty with TAS, but you will fail all of them. In UC, you need to have luck like winning the lottery 10 times in a row to beat a maximum of 5 jumps using TAS. If you want to beat this difficulty, just use Noclip. This is impossible for you to even reach this difficulty, I don't know what you're trying to do.

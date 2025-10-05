@@ -1,0 +1,3 @@
+# Flowerness
+
+Flowerness (FL) is a Class 1, humanly possible difficulty that sits in the middle range of the class. It is known for its beginner-friendly obstacles, often introducing new players to wraparounds and other basic mechanics. Flowerness is positioned between Lovely and Pleasant, with two sub-difficulties: Coasterifying and A Difficulty Named Difficulty. The difficulty is characterized by its gentle learning curve and approachable gameplay, making it ideal for those new to the chart. Created by Astrominal, Flowerness was originally planned as a sub-difficulty but became its own category due to its unique style.

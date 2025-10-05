@@ -1,0 +1,3 @@
+# Ultimaniac
+
+Ultimaniac is the sub-difficulty for the Peak Class 6 difficulty Theta-Void, just before the Class 6 finale Supreme. Its rating ranges from 59.5 to 59.99. Ultimaniac marks the end of Mike's Difficulty Chart Chain and is the last challenge before Supreme. It is an extremely challenging difficulty, requiring both technical skill and luck, and is considered a test of ultimate endurance and ability.

@@ -1,0 +1,1 @@
+Miracle is a normal difficulty located in High Class 6, making it Humanly Impossible. It succeeds QUANTUM and precedes DELETE, with a rating of 56. Miracle is one of the last Humanly Impossible difficulties before reaching the Physically Impossible tier. It was created to replace the removed Everdark difficulty and is currently the latest difficulty in the Main Difficulty Chart.

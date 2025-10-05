@@ -1,0 +1,5 @@
+# Gingerbread
+
+Gingerbread is a miscellaneous difficulty and serves as the placeholder difficulty of EToH. It is represented by a gingerbread man and uses the color brown for the difficulty chart and win messages. Gingerbread became known as a placeholder for the monthly tower "Tower of Is Steeple Crossing Required?" and originated as an inside joke among staff during the judging of the Garden of Eeshöl submissions, where gingerbread GIFs were posted when a difficulty could not be decided.
+
+Despite its humorous origin, Gingerbread is considered a semi-official difficulty. Towers with the Gingerbread difficulty that are challenging enough may have their wins displayed in the #sc-tower-winners channel of the official EToH Discord server. During the 2022 Winter Event, the Gingerbread Guardians team logo featured a gingerbread man holding the Gingerbread icon.

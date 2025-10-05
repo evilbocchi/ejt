@@ -1,0 +1,3 @@
+Walkthrough is a Class 0 difficulty that succeeds Locomotion and precedes Automatic Joyful. Just like the rest of the difficulties in this class, this difficulty is a breeze. Towers of this difficulty are typically other towers, but the obstacles are done for you, similarly to walkthrough videos of games. You don't have to do anything, as the player will automatically move through the obstacles. As an example, you could take Citadel of Void, add scripts to make the player do the jumps automatically, and call it a Walkthrough difficulty tower.
+
+This difficulty has a rating of -21, or approximately |0.9| on the Kol Metris scale. It is classified as a humanly possible difficulty, which means that it can be beaten by a human.

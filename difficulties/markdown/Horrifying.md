@@ -1,0 +1,3 @@
+# Horrifying
+
+Horrifying is a Mid Class 3 Soul Crushing sub-difficulty of Terrifying. It is intended for players who have already completed a Terrifying tower, as the challenge here is extremely high—nearly humanly impossible. Towers of this difficulty are known for their intense difficulty, with warnings such as "NEARLY IMPOSSIBLE" and "NOPE, YOU ARE NOT BEATING THIS ON MOBILE" due to the sheer challenge they present. Only the most skilled players should attempt this level, and even then, success is unlikely without extraordinary ability or luck.

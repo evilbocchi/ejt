@@ -1,0 +1,3 @@
+# Error Chain
+
+The Error Chain is one of the oldest chains on this wiki, including errored things such as atoms, planets, universes, and more. It goes from Atom Error to Hyperversal Error, ranging from class 7 to class 17, spanning physically impossible to logically impossible categories. The chain has undergone several expansions and purges, and currently contains 8 difficulties. The Error Chain is known for its wide range and history of changes, with difficulties spanning many classes and including both main and sub-difficulties.

@@ -1,0 +1,3 @@
+# Horrendous
+
+Horrendous is a Class 5 sub-difficulty that stands out for its grim and daunting environment. It is directly tied to Monstrous and Inimical, and is part of the "red zone" of the difficulty chart. Horrendous presents a macabre atmosphere filled with instant killbricks, rising lava, and outside obstacles, testing the player's determination and endurance. Only those with unwavering strength can persevere through this challenge, making it a true testament to skill and resilience.

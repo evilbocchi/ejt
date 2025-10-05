@@ -88,18 +88,32 @@ def sanitize_filename(name):
     return name
 
 def main():
+    import sys
+    # Check for optional argument
+    specific_name = None
+    if len(sys.argv) > 1:
+        specific_name = sys.argv[1].strip()
+        print(f"Filtering for difficulty name: {specific_name}\n")
+
     # Load difficulties
     print("Loading difficulties.json...")
     with open('difficulties.json', 'r', encoding='utf-8') as f:
         difficulties = json.load(f)
-    
+
+    if specific_name:
+        filtered = [d for d in difficulties if d['name'].lower() == specific_name.lower()]
+        if not filtered:
+            print(f"No difficulty found with name: {specific_name}")
+            return
+        difficulties = filtered
+
     print(f"Found {len(difficulties)} difficulties\n")
-    
+
     # Create output directory
     output_dir = 'difficulties/wikitext'
     os.makedirs(output_dir, exist_ok=True)
     print(f"Output directory: {output_dir}\n")
-    
+
     # Track statistics
     stats = {
         'success': 0,
@@ -107,41 +121,41 @@ def main():
         'skipped': 0,
         'by_wiki': {}
     }
-    
+
     # Process each difficulty
     for i, difficulty in enumerate(difficulties, 1):
         name = difficulty['name']
         url = difficulty['url']
-        
+
         # Extract wiki domain for statistics
         wiki_domain = urlparse(url).netloc
         if wiki_domain not in stats['by_wiki']:
             stats['by_wiki'][wiki_domain] = {'success': 0, 'failed': 0}
-        
+
         # Create safe filename
         safe_name = sanitize_filename(name)
         output_file = os.path.join(output_dir, f"{safe_name}.wikitext")
-        
+
         # Skip if already downloaded
         if os.path.exists(output_file):
             print(f"[{i}/{len(difficulties)}] ⏭️  Skipping {name} (already exists)")
             stats['skipped'] += 1
             continue
-        
+
         print(f"[{i}/{len(difficulties)}] 📥 Downloading {name}...")
         print(f"  URL: {url}")
-        
+
         # Get API URL
         api_url, page_title = get_api_url_from_wiki_url(url)
-        
+
         # Download wikitext
         wikitext = download_wikitext(api_url, page_title)
-        
+
         if wikitext:
             # Save to file
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(wikitext)
-            
+
             print(f"  ✅ Saved to {output_file}")
             print(f"  📊 Size: {len(wikitext)} characters")
             stats['success'] += 1
@@ -150,12 +164,12 @@ def main():
             print(f"  ❌ Failed to download")
             stats['failed'] += 1
             stats['by_wiki'][wiki_domain]['failed'] += 1
-        
+
         print()
-        
+
         # Be nice to the API - rate limiting
         time.sleep(0.5)  # Wait 500ms between requests
-    
+
     # Print summary
     print("=" * 80)
     print("SUMMARY")

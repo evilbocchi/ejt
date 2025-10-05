@@ -1,0 +1,3 @@
+# Horrific
+
+Horrific is a difficulty represented by a lilac color (#9691FF) and a black square. It contains obstacles harder than Catastrophic but easier than Unreal. Horrific was once an official difficulty in JToH and EToH, created to prevent the making of nil towers, but was later removed for being redundant. Towers at this level require great precision, and even skilled players will find them extremely challenging. Horrific is now used in The Eternal Abyss and is known for its demanding gameplay and high standards for completion.

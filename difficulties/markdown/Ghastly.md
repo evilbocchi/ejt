@@ -1,0 +1,3 @@
+# Ghastly
+
+Ghastly is a Mid Class 3 sub-difficulty, serving as the easiest sub-difficulty of Terrifying and positioned before Catastrophic. It is a soul-crushing challenge that requires top-level skill, with obstacles that demand precise timing and a bit of luck. The name "Ghastly" is a synonym for "Terrifying," and the difficulty is known for its light blue icon and challenging gameplay. Created by YataDev (revamp) and AlephWasTaken (original), Ghastly is a classic, officially recognized difficulty that tests the limits of even experienced players.

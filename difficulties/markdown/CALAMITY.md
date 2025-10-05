@@ -1,0 +1,3 @@
+# CALAMITY
+
+CALAMITY is a Mid Class 4 Humanly Impossible difficulty that comes after TARTARUS and before Unimaginable. Obstacles here are more pixel-perfect and RNG-based than TARTARUS, but not as physics-breaking as Unimaginable. CALAMITY is near the end of the "XD" Chain, a series of increasingly difficult challenges. It is known for its tough, precise gameplay and is a significant milestone for players progressing through the hardest parts of the chart.

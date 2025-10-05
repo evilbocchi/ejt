@@ -1,0 +1,3 @@
+# ILOVEYOU
+
+ILOVEYOU is a Baseline Class 8 difficulty that sits between Agony and Abyssal. Created by Bryan, it is classified as Physically Impossible, meaning it cannot be completed even with tool-assisted speedruns. The difficulty is themed after the infamous ILOVEYOU computer virus, featuring numerous gimmicks and obstacles that make it not only impossible to beat but also intentionally frustrating and chaotic. It is a unique entry on the chart, known for its references to computer viruses and disruptive gameplay elements.

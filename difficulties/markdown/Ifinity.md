@@ -1,0 +1,3 @@
+# Ifinity
+
+Ifinity is a Peak Class Negative difficulty, existing just before Instant Win and after Restful. It is considered the first revived Class Negative difficulty and is notable for being virtually impossible to lose—success is all but guaranteed. Ifinity is a playful take on the concept of difficulty, as it sits at the very bottom of the chart and requires no real challenge to complete. It is a unique entry that marks the transition to the official start of the chart.

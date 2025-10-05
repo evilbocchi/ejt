@@ -1,0 +1,3 @@
+# Spontaneous
+
+Spontaneous is an incredibly simple Class 0 difficulty and a successor of Automatic, preceding Joyful, the first difficulty requiring input. This difficulty does not require any input but is possible to fail if one tries deliberately. You can go AFK and still win, making it one of the easiest difficulties in the chart. Spontaneous is humanly possible and so easy that almost anyone could beat it. It relies heavily on client objects like conveyors and elevators, and the player is carried to the winpad without performing any actions. The name comes from the word "spontaneous," reflecting its natural and automatic nature.

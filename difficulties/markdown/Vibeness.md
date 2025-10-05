@@ -1,0 +1,5 @@
+Vibeness is one of many examples of automatic difficulties, notable examples include Locomotion, Happylike, Unlosable, and many other difficulties, especially the custom ones that aren't on the Difficulty Chart. Like many automatic difficulties, the gameplay is mostly conveyors, elevators including X, Y, Z positions, jump pads, teleports, ziplines, etc.
+
+Vibeness is located at the peak range of Class 0 (formerly Class Upper Negative). Since this is Class 0, difficulties only take milliseconds to win, falling down, doing nothing, or are completely automatic. This can be classified as Humanly Possible, meaning difficulties with this classification are humanly possible, ranging from Exist to The Human Limit.
+
+Vibeness is a sub-difficulty of Frivolous (-18) which is slightly harder than Frivolous. This difficulty is in-between Frivolous (-18) or alternatively Unlosable (-19), Roll (-19), Mazeophobia (-19), Shattered Babass (-18.5), and Automatic (-17). With the rating of -17.5 or ~0.975 using the Metris method.

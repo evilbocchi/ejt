@@ -1,0 +1,5 @@
+Win is the second difficulty (third if you count sub-difficulties) in Class 0. The only thing you can do here is win this difficulty, as the only obstacles are extremely short waiting periods. There is no way to lose. Well, there is, but most of the ways you could do so are highly improbable.
+
+According to the obstacles of Astronomical, this is the first difficulty with a full rating to buildable. Millisecondless has waiting periods too brief to be consistently replicated within Studio, and so it is unbuildable. This means that you end up with a lot of inaccurate Instant Win structures, as many of them are using winpads. Winpads have teleportation delays upwards of 500 milliseconds, which means that they are "too hard" to be classified as IW. Combine this with short falls (1-3 studs), and you end up with towers like ToQG technically being Astronomical or even Win.
+
+In short, Win is the first difficulty you'll most likely actually play if you're going through the chart. You won't be here for long, however, as the difficulty is seconds long and basically unfailable.

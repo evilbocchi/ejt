@@ -1,0 +1,3 @@
+# Harsh
+
+Harsh is a Peak Class 2 sub-difficulty that fills the gap between Psycho and Relentless. It is known for its grueling and demanding gameplay, requiring formidable effort and skill. Harsh is considered insurmountable for the average obbyist and is especially challenging for mobile players, bordering on impossible even for the best. Players are advised to practice Psycho difficulty towers extensively before attempting Harsh, as it represents one of the final challenges in Class 2 before entering the Soul Crushing difficulties.

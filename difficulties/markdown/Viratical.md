@@ -1,0 +1,3 @@
+Viratical is a devilish difficulty, and is the penultimate difficulty of The End of the Official Chart (C10). It is in High Class 10, and is located succeeding Oh Noez!, and preceding Pinnacle. You may be on the last difficulty before you face the End of The Main Difficulty Chart, but that doesn’t mean it’ll be easy. This difficulty stretches the ultimate border between fiction and non-fiction, completely nullifying any type of TAS, or hacks, and your roblox character will be decimated by a spinner at the speed of sound, before you even realize.
+
+Overall, you most likely will never end up beating this, as there’s a limit of capabilities in everything.

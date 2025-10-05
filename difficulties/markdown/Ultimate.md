@@ -1,0 +1,3 @@
+# Ultimate
+
+Ultimate is a Class 5 difficulty that succeeds Horrendous and is the third hardest difficulty of the Universal Difficulty Chart. It represents the assumed limit of difficulty, consisting of the hardest jumps believed to be possible, though not officially verifiable by humans or technology. Ultimate is the final border of what is considered possible, and any tower of this difficulty would be at the absolute peak of challenge.

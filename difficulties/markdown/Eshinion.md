@@ -1,0 +1,3 @@
+# Eshinion
+
+Eshinion is a Low Class 10 difficulty that succeeds Dynamix and is much harder than it, but precedes Caught. This difficulty contains immeasurable obstacles that test if you are truly capable of something beyond any mortal mind. Conquering Eshinion means you are worthy of proceeding further up the seemingly never-ending Difficulty Chart. In addition to obstacles, Eshinion contains catches and trials that make the path harder, but also boosts to help you. Even if previous difficulties felt easy, this one will not.

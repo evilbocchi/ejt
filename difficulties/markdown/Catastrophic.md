@@ -1,0 +1,3 @@
+# Catastrophic
+
+Catastrophic, originally called Never Again, Unreal, and Death, is a Soul Crushing difficulty in EToH represented by a white 6-pointed star. It is the last and hardest canon soul-crushing difficulty, as well as the game's hardest official difficulty. Obstacles are extremely difficult, requiring high skill and practice, often relying on punishment or raw skill. Only a handful of towers are classified as Catastrophic, making it a true test for the most skilled players.

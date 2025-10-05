@@ -1,0 +1,3 @@
+# Immeasurable
+
+Immeasurable is a difficulty that sits between Aleph-Null and Malicious, represented by the color black with a maroon "¿¿¿" symbol. It is the second-hardest difficulty in the entire chart, with obstacles that are nearly impossible to create or complete. Mastery of advanced techniques, extreme luck, and inhuman skill are required, making it a level that will never be beaten by any human. Immeasurable is a testament to the upper limits of obby difficulty.

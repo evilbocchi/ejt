@@ -1,0 +1,1 @@
+MSD Speedy is a joke difficulty released alongside The Stronghold. There are currently no towers of this difficulty, but there used to be a temporary tower in The Stronghold. It is not meant to be taken seriously and serves as a humorous entry in the difficulty chart.

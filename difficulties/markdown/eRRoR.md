@@ -1,0 +1,3 @@
+# eRRoR
+
+Error, previously stylized as eRRoR, is a difficulty represented with Cocoa fading into Salmon. It is assigned to towers that are easier than Literal, but harder than nil. Error is differentiated from nil in that individual obstacles are quite difficult to perform even by top players, making TAS a very helpful tool for verifying a tower of this difficulty. Towers that are Error are almost always insanely punishing and inhumanely long, where failing any part of the tower will immediately make you lose all of your progress. Error serves as a classification of towers where doing every single jump individually using only checkpoints/save-states without segments from other players is an impressive feat.

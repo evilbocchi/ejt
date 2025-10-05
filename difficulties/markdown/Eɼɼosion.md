@@ -1,0 +1,3 @@
+# Eɼɼosion
+
+Eɼɼosion is a peak Class 9 buffed difficulty that sits between Bryanjr4474 and Dynamix on the difficulty chart. It is known for its void-like, surreal experience and extremely challenging obstacles, often requiring players to perform nearly impossible feats. The difficulty is characterized by its intense, unpredictable gameplay, including drastic changes in player control, camera movement, and environmental hazards. Eɼɼosion is considered a finale-class challenge, pushing the limits of what is possible in the game and is not intended to have any real, buildable towers due to its extreme nature.

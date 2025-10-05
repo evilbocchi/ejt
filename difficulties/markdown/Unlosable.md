@@ -1,0 +1,3 @@
+# Unlosable
+
+Unlosable is a Class 0 Difficulty with a rating of -19, coming after Instant Win, and before Automatic. Due to it being one of the original C1 difficulties, it has had many difficulties before and after this, and also many sub-difficulties in its lifetime. However, it currently only has two unofficial sub-difficulties, Roll and Mazeophobia. You should easily be able to ace this, due to it being similar to nerfed Automatic, and therefore there is a minimal chance of accidental failure.

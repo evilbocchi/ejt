@@ -1,0 +1,3 @@
+# Insane
+
+Insane is a Soul Crushing difficulty in EToH, represented by a deep blue 3-pointed star. It is the first and easiest difficulty in the Soul Crushing series, marking a significant step up from Remorseless. Obstacles in Insane towers are much tougher and require extensive practice, often taking weeks or months to complete. Progressing from Remorseless to Insane is a major challenge, and beating an Insane tower is considered a huge achievement for any player.

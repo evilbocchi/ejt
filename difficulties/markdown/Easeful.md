@@ -1,0 +1,5 @@
+# Easeful
+
+Easeful is a sub-difficulty of Onerous, occupying the upper half of the 3.50 to 3.99 range, specifically spanning 3.75 to 3.99. It marks the end of the "Noob Crushings" era and represents the barrier between what is possible for the untrained and towers that require a more dedicated grind. If you are at this skill level, you are most likely just beginning your journey into more challenging gameplay.
+
+In the difficulty chart, Easeful is placed after Onerous and before Difficult, with its sub-difficulty Strenuous following after. This stage introduces new concepts that come with leaving the Noob Zone, such as learning to grind, improving jump strategies, and using techniques like Shiftlock. Easeful serves as a transition into towers that demand more practice and skill, preparing players for the greater challenges ahead.

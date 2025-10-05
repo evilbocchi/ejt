@@ -1,0 +1,3 @@
+# Epitome
+
+Welcome to the epitome of obstacles. Epitome is the entry of Class 8, standing just after TooPrecise, MegaDeath, or Divine, and before Agony. It is assigned a rating of 76, comparable to its previous difficulties. This difficulty contains a lot of obstacle types, and the obstacles can reach up to 160-171 studs for cylinder wraparounds. Epitome is impossible with the current physics of the average ROBLOX character. For the average player, completing even one massively nerfed jump accurate to this difficulty would be an extraordinary feat.

@@ -1,0 +1,3 @@
+# HyperViolent
+
+HyperViolent is a Low Class 7 sub-difficulty that lies between Jesus Ballin and El Vacio. This difficulty is classified as Physically Impossible, featuring jumps and obstacles that are not intended to be completed by the Roblox physics engine. It is extremely punishing, with any failure resulting in significant loss of progress. Completing even a single jump at this level is considered an incredible achievement, and the difficulty marks a steep increase in challenge on the chart.

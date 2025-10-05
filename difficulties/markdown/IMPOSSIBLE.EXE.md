@@ -1,0 +1,3 @@
+# IMPOSSIBLE.EXE
+
+IMPOSSIBLE.EXE (I.E) is a Class 10 sub-difficulty, formerly Class 15, and is classified as Physically Impossible. It sits between Catch and Exploitist Elite, with obstacles that are so extreme they surpass the limits of human and even tool-assisted completion. The difficulty is known for its placement in the Impossible Levels chart and features challenges that are beyond the capabilities of any player or TAS. IMPOSSIBLE.EXE is a symbol of the ultimate, unachievable challenge in obby difficulty design.

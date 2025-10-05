@@ -1,0 +1,3 @@
+# Hyper
+
+Hyper is a Peak Class 3 sub-difficulty of Unreal and is the last sub-difficulty classified as Humanly Possible. While extremely challenging, it has been beaten, proving that it is not entirely impossible. Hyper sits between Unreal and Treacherous on the chart and is known for its vast number of sub-difficulties and unique variations. The difficulty is characterized by its extreme jumps and obstacles, requiring mastery and near-perfect execution to succeed.

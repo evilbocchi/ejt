@@ -1,1 +1,127 @@
-#REDIRECT [[True Obama Prism]]
+{{NoticeScrollboxNew|Notices={{Physically Impossible}}
+{{Classic}}{{Former Class Finale|reason=A section for difficulties, which mark the end of the MDC, was added on January 2022}}
+}}{{NewDifficultyInfobox|image1=Gimme your top .png|caption1=Obama, but in a... pyramid shape?|class=[[:Category:Class 10|Mid Class 10]]|next=[[File:Zanyte.png|frameless|30x30px]] [[Zany]] <small>(112)</small>|difficulty_range=Baseline - Peak / Anonymous Placement|decal_id=7788973552|main_difficulty=[[File:XX.png|30px]] [[TooTooHard]]|chain(s)=|creator(s)=<big>[[User:LautyrrIAm|LautyrrIAm]]</big>|full_name=|alt_names=|date_added=1 October 2020.|date_removed=|title1=True Obama Prism|type=[[:Category:Physically Impossible|Physically Impossible]]|previous= [[File:XX.png|30px]] [[TooTooHard]] <small>(111)</small>|sub_difficulty(ies)=|official_music(s)=[https://www.youtube.com/watch?v=wj_76yVzsww Overworld - New Super Mario Bros. Music Extended.]|short_name=''Obama Prism or TOP''|removal_reason=|revamp_date=31/03/2022
+16/06/2024|prior_previous=*[[File:Aleph_lol_yes.png|30px]] ''Aleph-LOL''
+*[[FILE:FTHMXDVZ icon.png|30px]] ''Felix the HAMMER MegaXDeath Void-Zeta''|prior_next=*[[FILE:ﬡ^SINISTRA.png|30px]] ''Aleph-TI'' <small>''(AKA ℵ^𝑆𝐼𝑁𝐼𝑆𝑇𝑅𝐴)''</small>
+*[[FILE:Chomik.png|30px]] ''Chomik''
+*[[FILE:52!.jpg|30px]] ''52!''|rating=111.5|class_range=Mid Class 10|original_type=Class Finale Difficulty}}{{Quote (Better Version)|quote=...it will not matter how skilled or lucky you are. He's not joking, True Obama's Power is OVERPOWERED than MegaDeath's Difficulty. He won't give you mercy but you have to pass through him.|quoter=???}}
+
+==''Introduction - True Obama Prism''==
+<span style="background:linear-gradient(95deg,#FF35b8,#800080); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><big>'''True Obama Prism'''</big></span> (or '''T.O.P''' in short terms) is a Mid [[The Middleline|''Class 10'']] Difficulty, between [[File:XX.png|30px]] [[TooTooHard]] and [[File:Zanyte.png|frameless|30x30px]] [[Zany]], consisting on being a classic difficulty, it is currently ranked as a ''[[:Category:Physically Impossible|Physically Impossible]],'' being something extraordinary difficult, it is impossible to go through it due to ROBLOX's physics being unable to be executed. To beat a certain Difficulty rated as something to be Physically Impossible, you must defy its physics engine in order to go through each obstacle of each Difficulty you would go in or out. Aby successful attempt that had or hadn't been registered are illegitimate.
+
+Any tower that has been built based on this Difficulty is purely impossible. Everything after this "beyond-beyond physically impossible difficulty", no matter how much skill you have nor lucky you are, it wouldn't be possible to be ever built without defying ROBLOX's physics. Even buffing it <math>10^{4}</math> times, it still wouldn't be (obviously) possible to be ever built or beaten.
+
+If you would like to know, its rating in ''[[Metris|Kol Metris]]'' would be around |1435| and it is currently ranked 111.5 at the ''[[Extended Difficulty Chart]].''
+===''Icon Representation''===
+{| class="article-table" style="border: 2px solid #808080; margin:0;"
+! style="border 2px #808080;" |'''Name''' 
+! style="border 2px #808080;" |'''Icon'''
+! style="border 2px #808080;" |'''Description'''
+|-
+|'''Current Icon'''
+| [[File:Obama Prism Ultimate.png|center|frameless|300x300px]] 
+|According to [[User:LautyrrIAm|''LautyrrIAm'']], the icon is represented by ''KLRO's Obama Prism'', but with 2 changes on it, being the image's gradient (Blue to Yellow vertical gradient) and its background. Instead of being white just like the original image, it's violet.
+The Icon has been uploaded by [[User:LautyrrIAm|''LautyrrIAm'']]
+|}
+==''Towers''==
+
+=== ''* Of this Difficulty <small>(<span style="background:linear-gradient(95deg,#FF35b8,#800080); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''True Obama Prism'''</span></small>''<small>)</small> ===
+*N/A
+
+=== ''* Appearances In Other Towers <small>(<span style="background:linear-gradient(95deg,#FF35b8,#800080); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''True Obama Prism'''</span>)</small>'' ===
+*N/A
+==''Obstacles''==
+{| class="fandom-table"
+!Spectrum/Obstacles
+! style="background-color: #00a4eb;" |'''<font color="#007cb3">Belowground</font>'''
+! style="background-color: green;" |'''<font color="#003305">Baseline</font>'''
+! style="background-color: #80ff00;" |'''<font color="green">Low</font>'''
+! style="background-color: yellow; " |'''<font color="#797d00">Mid</font>'''
+! style="background-color: orange; " |'''<font color="brown">High</font>'''
+! style="background-color: red; " |'''<font color="#7d0000">Peak</font>'''
+! style="background-color: magenta; " |'''<font color="#7d007d">Peripheral</font>'''
+|-
+|Climbable Jumps
+| style="background-color: #005980;" |<font color="white">231.43K studs</font>
+| style="background-color: #014500;" |<font color="white">263.06K studs</font>
+| style="background-color: #336000;" |<font color="white">294.69K studs</font>
+| style="background-color: #6d5c00;" |<font color="white">357.96K studs</font>
+| style="background-color: #964a00;" |<font color="white">421.22K studs</font>
+| style="background-color: #5a0000;" |452.86K <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">475.00K studs</font>
+|-
+|Unclimbable Jumps
+| style="background-color: #005980;" |<font color="white">221.94K studs</font>
+| style="background-color: #014500;" |<font color="white">258.95K studs</font>
+| style="background-color: #336000;" |<font color="white">293.31K studs</font>
+| style="background-color: #6d5c00;" |<font color="white">351.13K studs</font>
+| style="background-color: #964a00;" |<font color="white">415.87K studs</font>
+| style="background-color: #5a0000;" |441.73K <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">452.86K studs</font>
+|-
+|Climbable Wraparounds
+| style="background-color: #005980;" |<font color="white">209.29K studs</font>
+| style="background-color: #014500;" |<font color="white">245.35K studs</font>
+| style="background-color: #336000;" |304.18K <font color="white">studs</font>
+| style="background-color: #6d5c00;" |326.33K <font color="white">studs</font>
+| style="background-color: #964a00;" |389.28K <font color="white">studs</font>
+| style="background-color: #5a0000;" |408.26K <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">421.22K studs</font>
+|-
+|Unclimbable Wraparounds
+| style="background-color: #005980;" |199.80K <font color="white">studs</font>
+| style="background-color: #014500;" |231.43K <font color="white">studs</font>
+| style="background-color: #336000;" |263.06K <font color="white">studs</font>
+| style="background-color: #6d5c00;" |310.51K <font color="white">studs</font>
+| style="background-color: #964a00;" |338.98K <font color="white">studs</font>
+| style="background-color: #5a0000;" |373.78K <font color="white">studs</font>
+| style="background-color: #550055;" |392.76K <font color="white">studs</font>
+|-
+|Stick-outs
+| style="background-color: #005980;" |<font color="white">187.14K studs</font>
+| style="background-color: #014500;" |215.61K <font color="white">studs</font>
+| style="background-color: #336000;" |244.08K <font color="white">studs</font>
+| style="background-color: #6d5c00;" |263.06K <font color="white">studs</font>
+| style="background-color: #964a00;" |278.88K <font color="white">studs</font>
+| style="background-color: #5a0000;" |313.36K <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">326.33K studs</font>
+|-
+|Cylinder Wraparounds
+| style="background-color: #005980;" |<font color="white">205.71K studs</font>
+| style="background-color: #014500;" |246.94K <font color="white">studs</font>
+| style="background-color: #336000;" |293.57K <font color="white">studs</font>
+| style="background-color: #6d5c00;" |302.45K <font color="white">studs</font>
+| style="background-color: #964a00;" |332.45K <font color="white">studs</font>
+| style="background-color: #5a0000;" |339.59K <font color="white">studs</font>
+| style="background-color: #550055;" |<font color="white">392.76K studs</font>
+|-
+|Climbable Walkaround
+| style="background-color: #005980;" |<font color="white">175.92K studs</font>
+| style="background-color: #014500;" |<font color="white">209.29K studs</font>
+| style="background-color: #336000;" |255.61K <font color="white">studs</font>
+| style="background-color: #6d5c00;" |<font color="white">280.20K studs</font>
+| style="background-color: #964a00;" |<font color="white">312.45K studs</font>
+| style="background-color: #5a0000;" |331.43K <font color="white">studs</font>
+| style="background-color: #550055;" |352.04K <font color="white">studs</font>
+|-
+|Unclimbable Walkaround
+| style="background-color: #005980;" |<font color="white">165.00K studs</font>
+| style="background-color: #014500;" |196.12K <font color="white">studs</font>
+| style="background-color: #336000;" |<font color="white">222.76K studs</font>
+| style="background-color: #6d5c00;" |253.06K <font color="white">studs</font>
+| style="background-color: #964a00;" |269.39K <font color="white">studs</font>
+| style="background-color: #5a0000;" |310.82K <font color="white">studs</font>
+| style="background-color: #550055;" |338.57K <font color="white">studs</font>
+|}
+
+==''Trivia''==
+*'''TOP''' was previously a Former Finale Difficulty of Class 10.
+*This is based on a classic meme: Obama Prism.
+*There was an OG difficulty version of this called '''Obama Prism'''.
+==''Continuing from this point on...''==
+You've successfully managed to pass through another Difficulty, congratulations! Now, you should continue on the Main Difficulty chart on [[File:Zanyte.png|30px]] [[Zany]], good luck.{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Class 10]]
+[[Category:Based off of a meme]]
+[[Category:Obama Difficulty]]
+[[Category:Physically Impossible]]

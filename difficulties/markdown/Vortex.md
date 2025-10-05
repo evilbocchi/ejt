@@ -1,0 +1,3 @@
+Vortex is a Class 4 Sub-Difficulty, located in the middle section. It surpasses the XD chain and JHT difficulty HELL, yet precedes the other XD chain and JHT difficulty TARTARUS. This difficulty is absolutely impossible, due to being at the end of Class 4, and you should only be able to beat this featuring a maximally precise and powerful Tool Assisted Speedrun, along with other items, like the Blessed Coil and the Forcefield if necessary.
+
+This difficulty is beyond the tier system, estimated to be at an estimated tier level of beyond Tier 30, which expedites the impossibility of this difficulty. If you were to even surpass ONE jump of this, it would be an achievement that would remain unbeaten for years in the Roblox community.

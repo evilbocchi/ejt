@@ -1,0 +1,3 @@
+# Frivolous
+
+Frivolous is a Class 0, humanly possible difficulty located at the peak of its class. It is an automated difficulty, requiring little to no input from the player, and is known for its use of conveyors and other mechanisms to move the player through the level. Frivolous is positioned between Unlosable and Automatic, and is considered extremely easy, with a rating of -18. The difficulty is designed to be accessible to all players, emphasizing automation and simplicity over challenge.

@@ -1,0 +1,3 @@
+# Building
+
+Building (also known as Builder or Build) is a Baseline Class 5 difficulty that introduces the unique gimmick of allowing players to build their own obstacles. You can create your own tower or obby and then test it out, either alone or with friends. The main challenge is to build and then beat your own creations, with no time limits or restrictions. Building is rated as a 31 on the Main Difficulty Chart and is considered humanly impossible without hacks. The focus is on creativity and experimentation rather than traditional obstacle challenges.

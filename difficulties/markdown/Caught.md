@@ -1,0 +1,3 @@
+# Caught
+
+Caught is a Baseline Class 10 unofficial sub-difficulty of Eshinion, preceding TooAbnormal. It is known for being nearly impossible to complete, requiring extreme effort and determination. The icon features a sad emoticon, and the difficulty is characterized by extremely high obstacle requirements and the expectation that almost no one will complete it unironically. Caught is a challenge for only the most dedicated players.

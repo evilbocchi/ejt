@@ -1,0 +1,3 @@
+# Facile
+
+Facile is an unofficial, humanly possible Low Class 1 difficulty that serves as the final mark before entering the main JToH difficulties. It is positioned between Magnificent and Effortlessless, with a rating of 0.775. Facile is notable for its relaxing, beginner-friendly obstacles and is designed to help players transition into higher difficulties. Created by Astro6284 as a revival of a late-2020 difficulty, Facile encourages players to develop the skills needed for more challenging towers ahead, while still providing safety nets and hints to support progress.

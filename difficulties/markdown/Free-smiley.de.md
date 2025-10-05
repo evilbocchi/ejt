@@ -1,0 +1,3 @@
+# free-smiley.de
+
+free-smiley.de is a joke, physically impossible difficulty that follows Vrery hawrfd rdifficutl!! and precedes HELLWRATH. Despite its playful name, the obstacles in this difficulty are absurdly hard and often filled with "free smiley" decals, making it notorious for its chaotic and impossible gameplay. The difficulty is a reference to the now-defunct website free-smiley.de, which was known for its emoji GIFs. Players are warned not to take this difficulty lightly, as it is designed to be unreasonably challenging and is not meant to be completed.

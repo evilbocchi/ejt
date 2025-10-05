@@ -1,0 +1,3 @@
+# Resilient Glow
+
+Resilient Glow is the fourth and final difficulty of Low Class 8, succeeding Unreasonable and preceding Arcane. As a Class 8 difficulty, it is physically impossible to complete and requires defying Roblox's physics engine, relying on luck flings and glitches to perform the required jumps. The obstacles are extremely complex and demand unthinkable skill, with even tool-assisted speedruns (TAS) unable to conquer them. The difficulty is so high that even a single jump would be a monumental achievement, and the luck required is unfathomable. Resilient Glow stands as a testament to the ever-increasing limits of obby challenges, far beyond what was once thought possible.

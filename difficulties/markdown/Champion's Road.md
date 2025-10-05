@@ -1,0 +1,3 @@
+# Champion's Road
+
+Champion's Road is the last sub-difficulty of Catastrophic and the final tower difficulty in its chain. It is based on the Tower of Champion's Road and is located in Mid Class 3 as a sub-difficulty. This difficulty is still humanly possible but extremely challenging, requiring great precision and skill. Only the best players will surpass Champion's Road, making it a true test of mastery.

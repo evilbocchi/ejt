@@ -1,0 +1,3 @@
+# FalseGanar
+
+FalseGanar is a High Class 7 difficulty that lies between Universal Glitch and Hopeless. Created by OqYTRXD, its name means "Fake Win" ("false" in English, "ganar" in Spanish), representing the deceptive and punishing nature of this difficulty. Obstacles in FalseGanar are extremely tight, precise, and often require immense luck and years of practice to overcome. The difficulty is infamous for its brutal challenges, making it harder than even the most notorious towers in the game, and is a true test of endurance and skill.

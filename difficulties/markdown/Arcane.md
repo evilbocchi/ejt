@@ -1,0 +1,5 @@
+# Arcane
+
+So, you did Resilient Glow, now what is this? You're in an area where everything is a wave, you don’t like this, you're in confusion, what have you gotten into? Really, why are you trying to complete the difficulty chart? That’s impossible, to me at least. The later difficulties are way too hard. You're already experiencing confusion over where you are. How would you complete this? This is absolutely unrealistic to complete. Even if I saw you beat everything up to Resilient Glow, I don't know if you can do this.
+
+Arcane is a Class 8 difficulty that is before COMMUNISM and is after Resilient Glow. Everything here is physically impossible, and it is very unnecessary to attempt. Not even some JToH enthusiast would even know how to even mention this. You shouldn’t even be able to reach here, but here you are, trying to beat an Arcane tower to just be epic or known or something. This difficulty is insanely hard, don’t try even attempting a single tower of this difficulty, as it’s pure insanity.

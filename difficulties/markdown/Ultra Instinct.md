@@ -1,0 +1,3 @@
+# Ultra Instinct
+
+Ultra Instinct is a Baseline Class 7 difficulty, originally created by Octogoat YT and later revamped by TasmanianRex. It is positioned between Supreme or UNTHINKABLE and Mortifying. This difficulty requires players to perform unknown glitches and pixel-perfect jumps, often only possible with tool-assisted speedruns (TAS). Ultra Instinct is considered three times as challenging as Supreme or UNTHINKABLE, and is a true test of skill and precision.

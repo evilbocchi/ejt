@@ -1,0 +1,3 @@
+# Esoteric
+
+Esoteric is a Class 8 difficulty which succeeds Errorisation and precedes BobuxDeath. Located within high Class 8, Esoteric lies in the Physically Impossible category, meaning it cannot be beaten by TAS, but its obstacles can be built. Obstacles in this difficulty often span lengths wider than tower frames, leaving inside sections mostly bare except for some kill brick dodging. Punishment is everywhere—going too slow or making a single mistake could end your run immediately.

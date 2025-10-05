@@ -1,0 +1,1 @@
+Mortifying is a Class 7 difficulty in between Ultra Instinct and Transfinite. This difficulty is not even close to being possible and represents a significant step up from Ultra Instinct. Mortifying is known for its challenging obstacles and its distinctive icon, which features a pink-to-red gradient and a classic emoticon face.

@@ -1,0 +1,1 @@
+Malicious is the hardest real difficulty on EHT and is represented with a light grey background and a faded pentagram. This difficulty is even harder than Immeasurable. Currently, there is no determiner for this difficulty due to its extreme placement, so it's not recommended to attempt building or beating a Malicious tower. It is considered unbeatable.

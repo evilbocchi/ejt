@@ -1,0 +1,3 @@
+# Ifinitude
+
+Ifinitude is a Class 0 sub-difficulty that serves as a remembrance of the old Ifinite chain from Class Negative. It lies between Vintage and Just Air, and is characterized by its extreme ease—players do not need to do anything to complete it. The difficulty is more of a historical nod than a challenge, representing a piece of the chart's history that now only exists in the CDC. Completing Ifinitude is trivial, as it requires no effort or input from the player.

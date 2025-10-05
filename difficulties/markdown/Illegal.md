@@ -1,0 +1,3 @@
+# Illegal
+
+Illegal is a high Class 7 difficulty and one of the first in its class on the chart. It is known for featuring physically impossible jumps and obstacles that require exploits or obscure glitches to complete. Even tool-assisted speedruns are not enough for most challenges at this level. Illegal stands out for its extreme requirements, often demanding actions that go far beyond what is possible in normal gameplay, making it a truly formidable and "illegal" challenge.

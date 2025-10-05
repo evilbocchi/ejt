@@ -1,0 +1,1 @@
+Lovely is a Class 1 difficulty that comes after Jumpless (or Sweet and its sub-difficulties) and before Pleasant (or Glee, Flowerness, and their sub-difficulties). This is one of the easiest difficulties that require effort. If you have a basic understanding of the mechanic of walking in Roblox, you should be pretty capable of beating this.

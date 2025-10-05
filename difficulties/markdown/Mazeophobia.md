@@ -1,0 +1,1 @@
+Mazeophobia is a Low Class 0 difficulty in between Unlosable and Unmissable. Obstacles in this difficulty are much harder than those in Unlosable, featuring fast conveyors in the form of mazes. This is essentially "Maze Unloseable," where a maze is filled with conveyors that take you to the exit. The background color of the icon is [255,0,72].

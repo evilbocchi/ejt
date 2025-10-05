@@ -1,0 +1,3 @@
+# Complete_ Obstacles
+
+Complete: Obstacles is a Class 7 difficulty centered around obstacles—so many, in fact, that the page itself is constantly interrupted by new challenges. It follows Universe Disruption and precedes Illegal, placing it in the mid-range of Class 7 and making it TAS Impossible, meaning even tool-assisted speedruns cannot complete it. The difficulty is part of the Complete: Chain, a series themed entirely around obstacles. While some sections, like the warmups, may be less extreme, most of the difficulty is truly around Class 7. Despite its reputation for being physically impossible, Complete: Obstacles is surprisingly forgiving due to its length, offering many breaks along the way.

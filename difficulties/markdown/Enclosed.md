@@ -1,0 +1,5 @@
+# Enclosed
+
+Enclosed is a Low Class 9 difficulty. The icon for Enclosed is a GIF of arrows pointing to the center of a shrinking circle. It is in between Jesus Ballin' or HyperViolent and El Vacio. The arrows represent the tight spaces that the player must navigate through, and the shrinking circle represents the increasing difficulty of the level. This difficulty has never been deleted, revived, or had any sub-difficulties created from it. It has a rating of 50.5, making it one of the more challenging difficulties in the wiki. The tight spaces and complex patterns make it difficult to see what is coming, and even with exploits, it is still hard to complete.
+
+Enclosed is a difficulty based on claustrophobia. Every 25 seconds, the tower gets tighter and tighter, but the jumps retain their sizes. Some jumps may clip through the tower frame, causing the player to use advanced techniques to complete them. There is a mechanic where cheesing jumps results in a penalty: for every cheesed jump, all jumps get extended by 0.5 studs.

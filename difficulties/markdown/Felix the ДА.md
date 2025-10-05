@@ -1,0 +1,3 @@
+# Felix the ДА
+
+Felix the ДА is a Class Negative, unloseable difficulty that exists between A and Exist. The name references the Russian word for "Yes" (ДА), and the difficulty is designed to be impossible to lose—players have already beaten it an infinite number of times simply by existing. Felix the ДА is a joke difficulty, notable for its simplicity and the fact that it cannot be failed under any circumstances. It is the opposite of Felix the нет and is recognized for its lighthearted, whimsical nature.

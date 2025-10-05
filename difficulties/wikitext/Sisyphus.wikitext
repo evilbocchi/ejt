@@ -1,1 +1,34 @@
-#REDIRECT [[Sisyphean]]
+{{DISPLAYTITLE:<span style="color:#969664;">'''Sisyphean'''</span>}}
+{{Non-Canon}}{{DifficultyTab
+|Sisyphus
+|textcolormain = 000
+|type = Event / Joke
+|blank1 =
+|blank2 =
+}}
+{{DifficultyInfobox
+|title1=Sisyphean
+|type=Joke
+|image1=SisyphusDifficulty.png
+|date_added=April 1, 2024
+|previous_name=Sisyphus}}
+{{Difficulty|Sisyphus|20px}} [[Sisyphean|<span style="color:#969664;">'''Sisyphean'''</span>]] is a joke difficulty which was released on [[April Fools 2024]]. This difficulty is represented with a black screen and a yellow cat whose face is shining. Said cat is a catified version of [[w:c:ultrakill:Sisyphus Prime|Sisyphus Prime]] from ''Ultrakill''. There is only one tower in-game of this difficulty, that being [[Wait of The World]].
+{{Header|Towers}}
+<tabber>
+Event=
+{{#tag:tabber
+|April Fools 2024 (The Doghouse)=
+<div align="center"><font size="5">{{Emblem|AF2024}} [[April Fools 2024]] {{Emblem|AF2024}}</font></div>
+
+*WoTW - [[Wait of The World]]
+}}
+</tabber>
+{{Header|Trivia}}
+*This is the third event difficulty to be added to EToH, the first being [[Epic|<span id="Epic">'''Epic'''</span>]]. and the second being [[OooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo|<span style="color:#000000;">oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo</span>]].
+** '''Epic''' and '''oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo''' were also added in an April Fools event.
+{{Difficulty Navbox}}
+{{Reflist}}
+[[Category:Difficulties]]
+[[Category:Joke Difficulties]]
+[[Category:The Doghouse]]
+[[Category:April Fools 2024]]

@@ -1,0 +1,3 @@
+# Hellish Encore
+
+Hellish Encore is a High Class 1 sub-difficulty, known for its exaggeratedly difficult and humorous presentation. It is described as an impossible barrier, filled with the hardest catches and obstacles, and is meant to be a parody of extreme difficulty. Players are warned of sleepless nights and endless suffering, with obstacles that are intentionally over-the-top. Hellish Encore is a joke difficulty, not meant to be taken seriously, and is part of the Double Unrebirth category.

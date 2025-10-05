@@ -1,0 +1,3 @@
+# Challenging
+
+Challenging is a difficulty in EToH represented by a maroon/dark red pentagon. At this level, obstacles become more demanding and complex, including difficult jumps and tightropes that can send players down several floors if failed. Challenging is a significant step up from Difficult and prepares players for even harder obstacles in Intense. Completing a tower at this level is a notable achievement, marking a player as more skilled than most.

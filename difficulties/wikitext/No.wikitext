@@ -1,1 +1,26 @@
-#REDIRECT [[No]]
+{{DISPLAYTITLE:<span style="color:#505050">'''No'''</span>}}
+{{NewDifficultyInfobox|image1=<gallery>
+File:No.png|Current
+File:Old No.webp|Old
+File:No-0.png|Oldest
+</gallery>|previous=[[WHY|<span style="color:#000000;-webkit-text-stroke-color:white;-webkit-text-stroke-width:0.5px;">'''WHY'''</span>]]|next=[[DEATH]]|rating=18}}
+[[Category:Difficulties]]
+==What is '''[[No|<span style="color:#505050">'''No'''</span>]]'''?==
+'''[[No|<span style="color:#505050">'''No'''</span>]]''' is a difficulty that is assigned to towers that are harder than [[WHY|<span style="color:#000000;-webkit-text-stroke-color:white;-webkit-text-stroke-width:0.5px;">'''WHY'''</span>]] difficulty, but easier than [[DEATH]]. It is represented with the stone gray [<span style="color:#505050">'''80,80,80'''</span>] fading into black, a stone gray outline and a white ".-." in the middle.  
+
+Obstacles in this difficulty have broken logic and jumps that can't be done usually. Obstacles of this difficulty are either obstacles that have phased out of possibility due to updates or only possible with TAS. This is the first difficulty that has humanly impossible jumps (9+), so from this point towers cannot be properly rated. 
+
+==Towers==
+*ToTAS - [[Tower of Tedious and Stodgy]] (?)
+*MEaTLoAF - [[Maybe Eating a True Loaf of Absolute Failure]] 
+==Trivia==
+*Towers in this difficulty are comparable to tier 22 obbies.
+*Some used to consider this as WayTooHard.
+*This difficulty used to be nonexistent as it was reserved for ToTaS, but was created due to the formation of JHT's difficulty chart in 2019. 
+*This difficulty was previously represented by a fully transparent portal part and then a fully reflective glass portal.
+*This difficulty was made by [https://roblox.com/users/1710070/profile Bob_9001].
+*On December 1st of 2021, this difficulty swapped placements with WHY.
+**This was reverted merely 11 days later.
+
+[[Category:No]]
+[[Category:Difficulties]]

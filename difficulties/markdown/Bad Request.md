@@ -1,0 +1,3 @@
+# Bad Request
+
+Bad Request is a sub-difficulty of Illegal, found in Class 7. It comes before Universal Glitch and has a rating of 68.5. This difficulty is intentionally absurd and extremely punishing—players are likely to "get banned" or face impossible challenges almost immediately. The page humorously suggests that attempting this difficulty is pointless and that you should probably do something else with your time. Bad Request is a parody of impossibly hard or unfair obstacles, and its placement reflects its role as a joke or challenge for only the most determined (or masochistic) players.

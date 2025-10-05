@@ -1,1 +1,55 @@
-#REDIRECT [[Maximum Overdrive]]
+{{Classic}}
+{{Humanly Impossible}}
+
+== What is '''Maximum Overdrive?'''==
+{{NewDifficultyInfobox|image1=<gallery>
+Overdrive.jpg|Current
+OldMAXIMUMOVERDRIVEdifficultyicon.jpg|Old
+</gallery>|caption1=HIYA!!!!!!|class=Baseline [[:Category:Class 4|Class 4]]|previous=[[File:NewWHY.jpeg|30px]] [[w:c:jtohs-hardest-towers:WHY|WHY]]|next=[[File:NoDifficulty.webp|30px]] [[w:c:jtohs-hardest-towers:No|No]]|difficulty_range=|creator(s)=Unknown|date_added=*Date added: 10/13/20
+*Date it was made: Somewhere around July of 2018|rbg_color=97, 141, 108|prior_next={{Class4Difficulties|No}} [[w:c:jtohs-hardest-towers:No|No]]|type=Sub-Difficulty|class_range=Baseline|main_difficulty=[[File:NewWHY.jpeg|30px]] [[w:c:jtohs-hardest-towers:WHY|WHY]]|rating=18.5|decal_id=New : 77307764800033
+Old : 6386882199}}
+'''Maximum Overdrive''' is a difficulty that is reserved for Towers with obstacles that require more broken physics than Why difficulty. This is potentially the absolute limit of difficulty that humans are capable of doing. ([[The Human Limit|The Human Limit now]])
+
+The origin of this difficulty was made by an unknown player from Sandbox (2) back in 2018, originally it was called "Borderline Impossible/True Borderline Impossible" but was later renamed to this. A single jump of this difficulty is already more difficult than the entirety of Tower of Spiralling Fates.
+
+The range of the difficulty stems from High Why difficulty to Low No.
+
+==Obstacles In this difficulty (Estimated)==
+{{ObstacleTableRevamp|JumpClimbableBase=14.075|Increment=0.0194}}
+
+==Towers in this difficulty==
+*Tower of Example Tower (A real tower that I cant find the game for anymore)
+*[https://jtohs-joke-towers.fandom.com/wiki/Citadel_of_The_Krusty_Krab_Revenge?veaction=edit Citadel of The Krusty Krab Revenge] (CoTKKR)
+*Tower of Plankton's Wrath (Fictional)
+*Planktons's Palace (Fictional)
+*[[Citadel of Non Canon Difficulty Chart]] (CoNCDC)
+*[https://www.roblox.com/games/11511768847/epic-jumps Mini Steeple of Minimum Underwalk] (MSoMU)
+
+==Trivia==
+
+* Music you can use: 3988067092
+*You can find this line in the episode "Krusty Krab Training Video"
+*This was the first in the pixel art chain line to be deleted due to the chain being too long. This was its icon. [[File:Maximum overdrive pixel.png|frameless|30x30px]]
+
+==Continuing From This Point ==
+yeah good job props to you now start doing truly humanly impossible towers such as [[w:c:jtohs-hardest-towers:Tower of Tedious and Stodgy|Tower of Tedious and Stodgy]] or [[w:c:jtohs-hardest-towers:Maybe Eating a True Loaf of Absolute Failure|MEaTLoAF,]] or you can try somewhat easier towers like [[w:c:jtohs-hardest-towers:The Absolute|The Absolute.]]
+
+Gallery<gallery>
+File:Overdrive.jpg|Current Icon
+File:OldMAXIMUMOVERDRIVEdifficultyicon.jpg| Old Icon
+File:OverdriveSuperDuperOldLikeItsSoOldItIsntEvenSquare.jpg| Older Icon
+File:Maximum overdrive pixel.png|Pixelated Icon
+File:Low Budget MAXIMUM OVERDRIVE.png|Low Budget Icon
+File:Maximum cringe.png|cringe icon
+File:Mazo.png|Variant 1
+</gallery>{{DifficultiesNavbox}}
+[[Category:Difficulties]]
+[[Category:Sub-Difficulties]]
+[[Category:Class 4]]
+[[Category:Based off of a meme]]
+[[Category:Humanly Impossible]]
+[[Category:Old]]
+[[Category:Classic Difficulty]]
+[[Category:Unofficial]]
+[[Category:Unofficial Difficulty]]
+[[Category:Based off something]]

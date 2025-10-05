@@ -1,0 +1,5 @@
+# Dreadful.exe
+
+Dreadful.exe is a class 7 difficulty, placed after Mortifying and preceding Transfinite. This is an ".exe" difficulty, themed as an application that can modify your computer or your screen.
+
+Towers in this difficulty are not only extremely challenging, but also feature unfair catches, such as covering your screen with ">:D" signs. Obstacles are incredibly unforgiving, often causing you to lose all your progress by failing a single jump. Attempting a tower in this difficulty requires practicing obstacles blindfolded and with other unfair catches, as well as practicing them normally—and possibly even practicing some obstacles in real life. Completing a tower in this difficulty would be incredibly difficult and a renowned achievement for any obbyist. In fact, completing any obstacle in this difficulty would be an achievement that no obbyist has ever accomplished.

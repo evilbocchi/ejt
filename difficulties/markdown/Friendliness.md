@@ -1,0 +1,3 @@
+# Friendliness
+
+Friendliness is a Class Negative, unloseable difficulty with an estimated rating of -TREE(3). It is one of the first difficulties encountered in the chart and is defined by its impossibility to fail—players have already beaten it an infinite number of times. Friendliness is positioned between Unimpossible and True Ease, and is notable for its collaborative creation and revival. The difficulty is unbuildable, as there are no true obstacles, and its main feature is the guarantee of success for anyone who attempts it.

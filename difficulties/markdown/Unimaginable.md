@@ -1,0 +1,3 @@
+# Unimaginable
+
+Unimaginable is a difficulty assigned to towers harder than TARTARUS, but easier than Omega. It is currently represented with a red square with three white question marks (???) on a black to dark red gradient box. This is the estimated difficulty where theoretical physical possibility can go before falling into the no-go zone. These obstacle courses seemingly go against the laws of Roblox. Any attempt to beat an Unimaginable tower without any exploits is futile.

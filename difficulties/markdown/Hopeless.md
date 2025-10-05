@@ -1,0 +1,3 @@
+# Hopeless
+
+Hopeless is a Class 7 difficulty placed between Universal Glitch and MegaDeath. It is a physically impossible and devilish challenge, designed to shatter all hope for players who attempt it. The gameplay is confusing, complex, and requires perfect precision and timing, making it nearly impossible to complete even with tool-assisted strategies. Hopeless is ranked extremely high on tier lists and is known for its dark, emoticon-themed icon. Beating a tower of this difficulty is considered an extraordinary achievement.

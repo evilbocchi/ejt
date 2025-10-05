@@ -1,0 +1,1 @@
+Monstrous is a Class 5 difficulty that succeeds Malicious and is the fourth hardest difficulty of the Universal Difficulty Chart. It represents a level of challenge beyond Malicious, often labeled as "Beyond Malicious." Monstrous is known for its simple icon featuring the Greek letter Zeta and for obstacles that push the limits of what is considered possible.

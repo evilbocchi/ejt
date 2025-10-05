@@ -1,0 +1,3 @@
+# Hellacious
+
+Hellacious is a high Class 14 sub-difficulty and a sub of HELLWRATH. It is a physically impossible difficulty, rated 102.5, and is known for requiring players to break the limits of Roblox physics. Hellacious sits between HELLWRATH and LOOP, and is considered one of the most extreme challenges, with obstacles that are unbuildable in normal circumstances. The difficulty is designed to be beyond the reach of even tool-assisted runs, making it a true test of the impossible.

@@ -1,0 +1,3 @@
+# BobuxDeath
+
+BobuxDeath is a joke difficulty in the Death Chain, known for its extreme and absurd challenges. It features the "Bobux Man" as a boss and is notorious for being nearly impossible to complete. All forms of exploits and third-party mechanics are neutralized, making the theoretical completion rate negative. The obstacles are so large and difficult that they defy normal gameplay, and the difficulty has a history of being deleted, revived, and revamped multiple times. BobuxDeath is a parody of impossibly hard content and is not meant to be taken seriously.

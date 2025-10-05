@@ -1,0 +1,3 @@
+# Fatal Error
+
+Fatal Error is a Class 6 difficulty embedded in the Road of Pseudo Difficulties chain, positioned between Winter and U DED SON. With a Main Difficulty Chart rating of 47, it is known for its extreme, TAS-impossible challenges that require exploits or external tools to complete. Created by SoaringStyle and later revamped by Bryanjr7747, Fatal Error is notorious for its unbearable difficulty, frequent buffs, and the expectation that players prepare extensively before attempting it. The difficulty is not part of any official chains or charts, standing out for its unique, punishing gameplay.

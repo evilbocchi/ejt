@@ -1,0 +1,3 @@
+# Spectrumplex
+
+Spectrumplex is an unclassified difficulty which ranges from The First Difficulty to The Final Difficulty, encompassing both the Main Difficulty Chart and Extended Difficulty Chart, and every class from Class Negative to Class 22. The unique aspect of Spectrumplex is that the entirety of the difficulty chart is split into 115 spectrums, and a spectrum is chosen at random. Each spectrum refers to a section of a class, such as Baseline or Peak, and is given a unique name. Spectrumplex was originally a joke difficulty, later revamped and expanded, and is notable for its massive range and inclusion of nearly every possible difficulty.

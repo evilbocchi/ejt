@@ -1,0 +1,3 @@
+Xi-Alpha is a difficulty after DELETE, yet before Theta-Void. It is located in Peak Class 6 and is the first difficulty of MrXY201’s Difficulty Chart. It has three sub difficulties: Gar-Terrifying (Gar Chain), D-E-L-T-A, and Ÿ. It also used to have 2 sub difficulties, Xi-Beta and Xi-Delta, both of which are gone due to being low quality.
+
+It should not be attempted due to it requiring you to somehow surpass it without the use of TAS, unless you use noclip or even exploits. The tier system is also ineffective at this difficulty, due to it going way out of reach of the system, and the Kol Metris value is high, at around |55| (estimation).

@@ -1,0 +1,3 @@
+# Factorial
+
+Factorial is an unclassified difficulty known for its association with extremely long towers and a massive number of floors, reflecting the rapidly increasing value of factorial numbers. Towers with Factorial difficulty are often characterized by their overwhelming length rather than sheer obstacle difficulty. The concept draws inspiration from mathematical factorials, where each increase results in exponential growth. Factorial is unique in the chart for not following the typical naming convention and is considered more of a novelty or joke difficulty due to its impracticality.

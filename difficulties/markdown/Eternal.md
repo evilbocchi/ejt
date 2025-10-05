@@ -1,0 +1,3 @@
+# Eternal
+
+Eternal is a Class 3 difficulty, located after Horrific and before Unreal or its sub-difficulty, Confident. It is extremely difficult to complete and requires extensive knowledge of intricate glitches and mechanics found within Roblox obbies and towers. While humanly possible, it is recommended to use Tool Assisted Speedrun to make the obstacles more manageable. Eternal reflects obstacles seen in both skyline Horrific and belowground Confident, despite being listed as between the two.

@@ -1,0 +1,3 @@
+# True Obama Prism
+
+True Obama Prism (T.O.P) is a Mid Class 10 difficulty, ranked as Physically Impossible. It sits between TooTooHard and Zany, and is considered a classic difficulty. This difficulty is extraordinary and impossible to complete due to the limitations of ROBLOX's physics engine. Any attempt to beat a tower of this difficulty would require defying the game's physics, making it unachievable by normal means.

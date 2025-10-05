@@ -1,0 +1,3 @@
+# Puzzling
+
+Puzzling is an unclassified difficulty, meaning it has no distinct rating or placement. It uses a "Rank" system to categorize different spectrums of the difficulty, requiring various skills, especially those involving thinking and solving intellectual puzzles. Completing this difficulty involves encountering and solving a variety of puzzles, each with a definitive answer and solution. The difficulty measures one's mental intellect, with puzzles ranked from very easy (requiring little to no effort) to extremely challenging, such as The Human Limit, which contains the hardest humanly possible puzzles. The overall range of Puzzling spans from the simplest to the most complex intellectual challenges.

@@ -1,0 +1,5 @@
+Zany is a class 10, High Reality difficulty, which is after TooTooHard yet before Oh Noez!. It is incredibly difficult, as it is not only impossible to complete, but also impossible to build. One could alternatively place this difficulty as a successor of Orpiment, if it was to be placed in the Excavation Chain. If this was to be the case, it would also be a predecessor of Tetra.
+
+Its actual "full" name would be "Zanyte", a fictional mineral that can be obtained through the Orpiment geode, hence why it is after Orpiment. There are also some other interesting facts about this difficulty, but they will be found in the Trivia section of the page.
+
+Zany's placement indicates that part, or in fact, most of this difficulty is Physically Impossible, and that the regular stud jump would not be physically possible within the Roblox physics. In fact, this difficulty ranges in the hundred thousands, which over the course of this and the next few difficulties residing in High Reality, will approach Pinnacle, or the limit of buildability.

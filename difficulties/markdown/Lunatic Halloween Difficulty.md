@@ -1,0 +1,1 @@
+Lunatic Halloween Difficulty is an unofficial difficulty placed after Effortful and before Unboundable. This difficulty is so hard, if you were to compare Effortful to this, it would be like comparing The First Difficulty to Effortful.

@@ -1,0 +1,3 @@
+# Cakewalk
+
+Cakewalk is a Class 1 difficulty that lives up to its name—it's a very easy, straightforward experience. Positioned between Starter and Sweet, Cakewalk is recommended for players who are just learning the controls. The obstacles are simple, requiring minimal input, and the overall experience is designed to be relaxing and accessible. The name reflects the ease of the difficulty, making it perfect for beginners or those looking for a stress-free introduction.

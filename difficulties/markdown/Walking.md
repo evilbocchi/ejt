@@ -1,0 +1,1 @@
+Walking is an Unclassified difficulty inspired by Randomization and Wait. This difficulty was created to be a take at creating something similar to Press a Key, but with added difficulty decided by chance, with the baseline of this difficulty being a 100-stud walk.

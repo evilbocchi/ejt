@@ -1,0 +1,3 @@
+# How‽
+
+How‽ (also known as How?!) is a High Class 8 difficulty that sits between Vacant and Errorisation. This difficulty is infamous for its absurd tricks and traps, making it virtually unbeatable by any legitimate means—including with boosts or tool-assisted speedruns. The obstacles are so extreme that even hacks or exploits are said to be ineffective. How‽ is designed to be a truly impossible challenge, pushing the boundaries of what can be conceived in obby gameplay.

@@ -1,0 +1,5 @@
+# Eccentric
+
+Eccentric is a high Class 3 difficulty positioned between Catastrophic and Horrific. It represents the upper range of Catastrophic and the borderline between Catastrophic and Horrific, serving as the final challenge before entering the high range of Class 3. Due to its placement, Eccentric is considered borderline impossible and should only be attempted by the most elite obbyists, though individual jumps are still manageable for those with a high skill level.
+
+It is recommended to practice on this difficulty, as it focuses on raw skill rather than luck-based elements. Mastering Eccentric will prepare you for even more challenging obstacles ahead. Before attempting a tower of this difficulty, it's important to improve your skill and develop aspects like nerve control and anger management. Good luck!

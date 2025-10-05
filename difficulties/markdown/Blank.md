@@ -1,0 +1,3 @@
+# Blank
+
+Blank is an unclassified difficulty that represents the concept of nothingness. The page describes it as a void—an undefined, unexplainable state where nothing exists and nothing can be understood. There are no real obstacles, no challenges, and no clear reason for being here. Blank is the epitome of confusion and mayhem, and the only advice is to "wake up and escape this reality." It is a conceptual trap rather than a true difficulty, existing outside the bounds of normal gameplay.

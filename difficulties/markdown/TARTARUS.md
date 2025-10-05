@@ -1,0 +1,3 @@
+# TARTARUS
+
+TARTARUS is a difficulty assigned to towers harder than HELL but easier than Unimaginable. It is represented with a very light blue color and an XD on its icon. TARTARUS difficulty towers truly bend the limits of conceptual Roblox physics, with obstacles that are extremely esoteric and superficially impossible to understand. Even with tool-assisted speedruns, this difficulty remains impossible, filled with frame-perfect, pixel-perfect, and RNG inputs, requiring a near-perfect understanding of physics.

@@ -1,0 +1,9 @@
+# Universal Glitch
+
+Universal Glitch is a Class 7 difficulty, and is the antepenultimate difficulty of the Difficulty Chart before you reach MegaDeath, which is the terminus of the official chart if you aren't counting Sacred Cataclysmic Corrupted Demon or anything beyond that. It resides in-between the perilous Universe Disruption and the extremely demotivating difficulty Hopeless. Alternatively, it is placed in-between Illegal and either FalseGanar or FalseGanarText.
+
+It consists of straight-up ludicrous obstacles which require usage of impossible techniques, and are not to be attempted under any circumstance. Obstacles of this difficulty are hard to build accurately, as you will need to have extensive knowledge of the obstacles of its neighboring difficulties in order to maintain a perfect balance in-between them.
+
+Universal Glitch renders TAS and other boost items useless, due to its sheer difficulty far exceeding the limit of any boost item. However, using exploits, this difficulty could potentially be beaten, although it would not count as legitimate. In tiers, this difficulty would be Tier 2,000 or higher, but due to the inaccuracy of tiers, this measurement could be incorrect. Using Kol Metris, which is a more accurate form of measurement than tiers, this difficulty would have a value of around |1400|.
+
+Before even thinking of attempting Universal Glitch, it is recommended to clear Universe Disruption (or Multiversal) and any towers measured as being that difficulty, as it will prepare you adequately for the obstacles that you will face whilst in the realm of this difficulty.

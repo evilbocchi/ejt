@@ -1,0 +1,3 @@
+# Shocking
+
+Shocking is a Mid Class 6 sub-difficulty, lodged between Insistent and Victor. This difficulty originated from the ‘JToH’s Joke Towers Revamp Wiki’ and is known for its gruelling obstacles that no lifeform could dream of passing. Boost items like Gravity Coil and a TAS so complex that very few humans comprehend must be used to get past the first obstacle. Representations of this difficulty are often undermined by issues like inaccuracies and repetitive, unfun gameplay, due to play testing being nearly impossible. Shocking is also notorious for randomly instakilling the player at a 1% chance every minute, and towers of this difficulty are about 30 minutes long.

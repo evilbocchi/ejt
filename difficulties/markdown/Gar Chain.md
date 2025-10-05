@@ -1,0 +1,3 @@
+# Gar Chain
+
+The Gar Chain is a series of joke and mathematical difficulties based on the "Gar" prefix, which, when applied, squares the difficulty of any number or challenge. Created by AlexJN, the Gar Chain includes a wide range of sub-difficulties, each exponentially harder than the last. While the name sounds silly, the concept is rooted in large number mathematics, and the chain quickly escalates to impossible and unbuildable levels. The Gar Chain is both a parody and a creative expansion of the difficulty chart, with strict rules about not surpassing certain canonical difficulties.

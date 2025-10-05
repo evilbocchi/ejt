@@ -1,0 +1,3 @@
+# Elementary
+
+Elementary is a Bottom Class 2 difficulty between Effortless and Easy. It is represented by a pure green color, serving as an in-between of the previously mentioned difficulties' colors. This difficulty is generally extremely simplistic, typically featuring few notable hindrances. Almost any trap that would prove a challenge is either indicated or features safety nets (usually both). Its rating range is 0.5 to 0.74.

@@ -1,0 +1,3 @@
+# Hectic
+
+Hectic is a High Class 2 sub-difficulty, positioned between Maniacal and Intense. It is the first of three sub-difficulties in High C2, with the others being TooMedium and Hellish. Hectic is intended for players who have already beaten several Challenging towers and are ready for a significant increase in difficulty. The gameplay is demanding, with obstacles that require advanced skills and precision. Hectic marks the transition to the most difficult parts of Class 2 and prepares players for even tougher challenges ahead.

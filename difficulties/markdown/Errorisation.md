@@ -1,0 +1,3 @@
+# Errorisation
+
+Errorisation is a High Class 8 difficulty succeeding QR Code but preceding Esoteric. Errorisation is not just hard, but also very annoying. The catches are the reason why this difficulty is so annoying. You could take this difficulty as HELLWRATH but easier. Both of these difficulties follow a lot of similarities. Errorisation is capable of accessing files and data on your computer and injecting malware and other viruses. They are meant to interrupt your gameplay and annoy you. This difficulty is so hard that it would make you scream just by looking at the obstacles.

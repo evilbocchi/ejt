@@ -1,0 +1,3 @@
+# Babying
+
+Babying is a Low Class 1 Possible difficulty, positioned between Magnificent (after) and Peaceful (before) in the chart. As a Class 1 difficulty, it is humanly possible and extremely easy—so much so that even very young children could complete it. Babying is one of the few difficulties at this level, making it accessible to almost anyone. The obstacles are only slightly harder than Peaceful and slightly easier than Magnificent, making it a gentle introduction to the game's mechanics.

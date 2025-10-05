@@ -1,0 +1,3 @@
+# Error.exe
+
+Error.exe is a Class 5 difficulty. Even with the usage of TAS, this difficulty is still impossible, and every single obstacle you will find in this difficulty is impossible for humans to complete without TAS. Like every difficulty in this class, the only way to do the difficulty is by modifying speed, health, gravity, jump power, and more. This difficulty is similar to an extremely buffed version of System Error, containing much harder jumps. Error.exe is near the border of Class 5 and is almost on the road of pseudo difficulties.

@@ -1,0 +1,3 @@
+# Hellish
+
+Hellish is a High Class 2 sub-difficulty of Severe, with a rating of 6.75. It serves as a transition between Intense and Remorseless gameplay, introducing players to more challenging obstacles and techniques. Hellish is designed as a tedious trial, acting as a buffed version of the middle of the Skill-Crushing chart. The difficulty is characterized by its dark purple icon and is intended to prepare players for the even greater challenges of Remorseless and beyond.
