@@ -63,6 +63,7 @@
       "b": 143
     },
     "layoutRating": -10000008,
+    "visualRating": "-(FOOT^10(10^100))",
     "class": -2
   },
   {
@@ -74,6 +75,7 @@
       "b": 255
     },
     "layoutRating": -10000007,
+    "visualRating": "-Rayo(10^100)",
     "class": -2
   },
   {
@@ -85,6 +87,7 @@
       "b": 0
     },
     "layoutRating": -10000006,
+    "visualRating": "-TREE(3)",
     "class": -2
   },
   {
@@ -96,6 +99,7 @@
       "b": 255
     },
     "layoutRating": -10000005,
+    "visualRating": "-G64",
     "class": -1
   },
   {
@@ -107,10 +111,11 @@
       "b": 36
     },
     "layoutRating": -10000004,
+    "visualRating": "-10^(10^(10^1,000,000))",
     "class": -1
   },
   {
-    "propertyName": "FelixTheA",
+    "propertyName": "FelixTheDA",
     "name": "Felix the ДА",
     "color": {
       "r": 77,
@@ -118,6 +123,7 @@
       "b": 0
     },
     "layoutRating": -10000003,
+    "visualRating": "-10^1Qd",
     "class": -1
   },
   {
@@ -129,6 +135,7 @@
       "b": 255
     },
     "layoutRating": -10000002,
+    "visualRating": "-10^100",
     "class": -1
   },
   {

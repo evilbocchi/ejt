@@ -4,8 +4,9 @@
 	"description": "A library for interacting with difficulties in the EToH Joke Towers wiki.",
 	"main": "out/init.lua",
 	"scripts": {
-		"build": "rbxtsc",
+		"build": "npm run generate:difficulties & npm run generate:index & rbxtsc",
 		"watch": "rbxtsc -w",
+        "test": "npx lune run test.luau",
 		"asset-sync": "npx rbxtsas --path=difficulties/image --output=difficulties/assetMap.ts",
 		"generate:difficulties": "node scripts/generate-difficulties.js",
 		"generate:index": "node scripts/generate-index-difficulties.js",
